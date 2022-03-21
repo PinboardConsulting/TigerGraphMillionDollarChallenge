@@ -8,18 +8,37 @@
     grid-gap:5px;
     .right{
         margin-top: 5px;
+        height: calc(100vh - 5px);
+        overflow-y: hidden;
     }
 }
 
 ::ng-deep{
-    .p-accordion p-accordiontab .p-accordion-tab {
+    .p-panel{
         margin-bottom: 5px;
     }
-    .p-accordion .p-accordion-content{  
+    .p-panel .p-panel-content{  
         padding: 0;   
     }
-    .p-accordion .p-accordion-header .p-accordion-header-link {
+    .p-panel.p-panel-toggleable .p-panel-header {
         padding: 2px;
         height: 30px;
+    }
+    .p-panel .p-panel-header .p-panel-header-icon {
+        width: 25px;
+        height: 25px;
+    }
+    .p-datatable .p-datatable-thead > tr > th {
+        padding: 5px;
+    }
+
+    .p-datatable .p-datatable-tbody > tr > td {
+        border-color:#949faa;
+        padding: 5px;
+    }
+    .p-panel .p-panel-header {
+        border: 1px solid #e8e8e8;
+        background: #d9e2e9;
+        color: #000000;
     }
 }

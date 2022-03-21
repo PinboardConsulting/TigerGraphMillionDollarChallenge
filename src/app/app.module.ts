@@ -13,6 +13,7 @@ import { ToastModule } from 'primeng/toast';
 import { ButtonModule } from 'primeng/button';
 import { MenuModule } from 'primeng/menu';
 import {AccordionModule} from 'primeng/accordion';
+import {TableModule} from 'primeng/table';
 
 @NgModule({
   declarations: [
@@ -31,7 +32,8 @@ import {AccordionModule} from 'primeng/accordion';
     ToastModule,
     ButtonModule,
     BrowserAnimationsModule,
-    AccordionModule
+    AccordionModule,
+    TableModule
   ],
   providers: [],
   bootstrap: [AppComponent]

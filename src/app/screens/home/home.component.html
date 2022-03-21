@@ -4,17 +4,12 @@
     </div>
 
     <div class="right">
-        <p-accordion [multiple]="true" 
-        (onOpen)="onTabOpen($event)" 
-        (onClose)="onTabClose($event)" 
-        > 
-            <p-accordionTab header="Map-View" [selected]="true">
-                <app-map [setHeight]="height" ></app-map>    
-            </p-accordionTab>
-            <p-accordionTab header="Table-View">
-                <app-table [setHeight]="height" ></app-table>
-            </p-accordionTab>
-        </p-accordion>        
+        <p-panel header="Map-View" [toggleable]="true" (onAfterToggle)="toggle(0)">
+            <app-map [setHeight]="height1" ></app-map> 
+        </p-panel>
+        <p-panel header="Table-View" [toggleable]="true" (onAfterToggle)="toggle(1)">
+            <app-table [setHeight]="height2" ></app-table>
+        </p-panel>
     </div>
 
 </div>

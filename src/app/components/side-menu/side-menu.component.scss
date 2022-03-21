@@ -1,7 +1,9 @@
 .container{
-    height: 100vh;
-    width: 30vw;
+    height: calc( 100vh - 12px );
+    width: calc( 30vw - 5px);
     background-color: #ededed;
-    top:0;
+    top: 5px;
     position: fixed;
+    left: 5px;
+    border-radius: 5px;
 }

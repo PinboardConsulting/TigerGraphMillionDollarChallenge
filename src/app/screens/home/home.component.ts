@@ -8,27 +8,33 @@ import { Component, OnInit } from '@angular/core';
 export class HomeComponent implements OnInit {
 
   constructor() { }
-  openTabs:any = {0 : true, 1 : false};
-  height = '87vh';
+  openTabs:any = {0 : false, 1 : false};
+  height1 = 'calc(50vh - 40px)';
+  height2 = 'calc(50vh - 40px)';
   ngOnInit(): void {
    
 }
 
-onTabOpen(event:any){
-    this.openTabs[event.index] = true;
-    this.updateTabHeight();
-}
-
-onTabClose(event:any){
-    this.openTabs[event.index] = false;
+toggle(index:number){
+    this.openTabs[index] = !this.openTabs[index];
     this.updateTabHeight();
 }
 
 async updateTabHeight(){
     if(this.openTabs[0] && this.openTabs[1]){
-        this.height = 'calc(50vh - 40px)';
+        this.height1 = 'calc(50vh - 40px)';
+        this.height2 = 'calc(50vh - 40px)';
     } else {
-        this.height = '87vh';
+        if(this.openTabs[0]){
+            this.height1 = '87vh';
+            this.height2 = 'calc(50vh - 40px)';
+        }
+
+        if(this.openTabs[1]){
+            this.height2 = '87vh';
+            this.height1 = 'calc(50vh - 40px)';
+        }
+        
     }
 };
 
