@@ -1,1 +1,21 @@
-<app-map></app-map>
+<div class="container">
+    <div class="left">
+        <app-side-menu></app-side-menu>
+    </div>
+
+    <div class="right">
+        <p-accordion [multiple]="true" 
+        (onOpen)="onTabOpen($event)" 
+        (onClose)="onTabClose($event)" 
+        > 
+            <p-accordionTab header="Map-View" [selected]="true">
+                <app-map [setHeight]="height" ></app-map>    
+            </p-accordionTab>
+            <p-accordionTab header="Table-View">
+                <app-table [setHeight]="height" ></app-table>
+            </p-accordionTab>
+        </p-accordion>        
+    </div>
+
+</div>
+

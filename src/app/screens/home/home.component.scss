@@ -1,0 +1,25 @@
+.container{
+    display: grid;
+    grid-template-columns: 30vw 69vw;
+    display: fixed;
+    top: 0;
+    left: 0;
+    margin: 0;
+    grid-gap:5px;
+    .right{
+        margin-top: 5px;
+    }
+}
+
+::ng-deep{
+    .p-accordion p-accordiontab .p-accordion-tab {
+        margin-bottom: 5px;
+    }
+    .p-accordion .p-accordion-content{  
+        padding: 0;   
+    }
+    .p-accordion .p-accordion-header .p-accordion-header-link {
+        padding: 2px;
+        height: 30px;
+    }
+}
