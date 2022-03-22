@@ -9,9 +9,16 @@
                 <div class="pannel_head">
                     Map
                 </div>
+                <div>
+                    
+                </div>
             </ng-template>
             <ng-template pTemplate="icons">
-                <div class="button">
+                <div class="field-checkbox">
+                    <label for="binary">Stats</label>
+                    <p-checkbox [(ngModel)]="checked" [binary]="true" inputId="binary"></p-checkbox>
+                </div>
+                <div class="button"  title="Settings">
                     <span class="pi pi-cog"></span>
                 </div>
             </ng-template>
@@ -30,7 +37,10 @@
                 </div>
             </ng-template>
             <ng-template pTemplate="icons">
-                <div class="button">
+                <div class="button" title="Export">
+                    <span class="pi pi-download"></span>
+                </div>
+                <div class="button" title="Settings">
                     <span class="pi pi-cog"></span>
                 </div>
             </ng-template>

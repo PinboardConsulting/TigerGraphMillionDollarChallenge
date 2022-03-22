@@ -12,6 +12,7 @@ export class HomeComponent implements OnInit {
   height1 = 'calc(50vh - 40px)';
   height2 = 'calc(50vh - 40px)';
   activeView:number = 0;
+  checked:boolean = false;
   ngOnInit(): void {
    
 }

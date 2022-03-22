@@ -69,14 +69,35 @@
             padding-right: 5px;
             cursor: pointer;
             &:hover{
-                border-bottom: solid 1px rgb(36, 47, 144);
+                border-bottom: solid 3px #7b87f2;
                 color: rgb(36, 47, 144);
                 background-color: #d9dcdf;
             }
         }
         .activeView{
-            border-bottom: solid 1px rgb(36, 47, 144);
+            border-bottom: solid 3px #7b87f2;
             color: rgb(36, 47, 144);
+        }
+    }
+
+    .button{
+        margin-left: 3px;
+    }
+    .field-checkbox{
+        display: flex;
+        align-items: center;
+        padding-bottom: 2px;
+        grid-gap: 5px;
+        margin-right: 15px;
+    }
+
+    .p-checkbox {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        .p-checkbox .p-checkbox-box {
+            width: 16px;
+            height: 16px;
         }
     }
 }

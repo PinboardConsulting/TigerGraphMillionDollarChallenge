@@ -18,6 +18,9 @@ import { ChartComponent } from './components/chart/chart.component';
 import { ReportComponent } from './components/report/report.component';
 import {InputTextModule} from 'primeng/inputtext';
 import { GraphComponent } from './components/graph/graph.component';
+import {InputSwitchModule} from 'primeng/inputswitch';
+import { FormsModule,ReactiveFormsModule } from '@angular/forms';
+import {CheckboxModule} from 'primeng/checkbox';
 
 @NgModule({
   declarations: [
@@ -41,7 +44,11 @@ import { GraphComponent } from './components/graph/graph.component';
     BrowserAnimationsModule,
     AccordionModule,
     TableModule,
-    InputTextModule
+    InputTextModule,
+    InputSwitchModule,
+    FormsModule,
+    ReactiveFormsModule,
+    CheckboxModule
   ],
   providers: [],
   bootstrap: [AppComponent]
