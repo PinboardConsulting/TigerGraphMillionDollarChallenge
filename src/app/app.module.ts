@@ -14,6 +14,10 @@ import { ButtonModule } from 'primeng/button';
 import { MenuModule } from 'primeng/menu';
 import {AccordionModule} from 'primeng/accordion';
 import {TableModule} from 'primeng/table';
+import { ChartComponent } from './components/chart/chart.component';
+import { ReportComponent } from './components/report/report.component';
+import {InputTextModule} from 'primeng/inputtext';
+import { GraphComponent } from './components/graph/graph.component';
 
 @NgModule({
   declarations: [
@@ -23,6 +27,9 @@ import {TableModule} from 'primeng/table';
     HomeComponent,
     RouteBuilderComponent,
     TableComponent,
+    ChartComponent,
+    ReportComponent,
+    GraphComponent,
   ],
   imports: [
     BrowserModule,
@@ -33,7 +40,8 @@ import {TableModule} from 'primeng/table';
     ButtonModule,
     BrowserAnimationsModule,
     AccordionModule,
-    TableModule
+    TableModule,
+    InputTextModule
   ],
   providers: [],
   bootstrap: [AppComponent]

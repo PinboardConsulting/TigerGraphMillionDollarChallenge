@@ -1,5 +1,5 @@
 <div class="container" [ngStyle]="{height:setHeight}">
-    <p-table [value]="products2" sortMode="multiple">
+    <p-table [value]="products2" sortMode="multiple" responsiveLayout="scroll">
         <ng-template pTemplate="header">
             <tr>
                 <th pSortableColumn="code">Code <p-sortIcon field="code"></p-sortIcon></th>

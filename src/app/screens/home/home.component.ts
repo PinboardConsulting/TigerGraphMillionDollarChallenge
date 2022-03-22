@@ -11,6 +11,7 @@ export class HomeComponent implements OnInit {
   openTabs:any = {0 : false, 1 : false};
   height1 = 'calc(50vh - 40px)';
   height2 = 'calc(50vh - 40px)';
+  activeView:number = 0;
   ngOnInit(): void {
    
 }
@@ -36,6 +37,10 @@ async updateTabHeight(){
         }
         
     }
-};
+}
+
+setActiveView(index:number){
+    this.activeView = index;
+}
 
 }

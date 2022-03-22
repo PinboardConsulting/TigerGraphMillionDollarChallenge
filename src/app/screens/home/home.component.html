@@ -4,11 +4,40 @@
     </div>
 
     <div class="right">
-        <p-panel header="Map-View" [toggleable]="true" (onAfterToggle)="toggle(0)">
+        <p-panel [toggleable]="true" (onAfterToggle)="toggle(0)">
+            <ng-template pTemplate="header">
+                <div class="pannel_head">
+                    Map
+                </div>
+            </ng-template>
+            <ng-template pTemplate="icons">
+                <div class="button">
+                    <span class="pi pi-cog"></span>
+                </div>
+            </ng-template>
             <app-map [setHeight]="height1" ></app-map> 
         </p-panel>
-        <p-panel header="Table-View" [toggleable]="true" (onAfterToggle)="toggle(1)">
-            <app-table [setHeight]="height2" ></app-table>
+        <p-panel [toggleable]="true" (onAfterToggle)="toggle(1)">
+            <ng-template pTemplate="header">
+                <div class="pannel_head">
+                    Analytics
+                </div>
+                <div class="pannel_tabs">
+                    <div class="tab_button {{activeView == 0 ? 'activeView' : ''}}" (click)="setActiveView(0)"> Table </div>
+                    <div class="tab_button {{activeView == 1 ? 'activeView' : ''}}" (click)="setActiveView(1)"> Chart </div>
+                    <div class="tab_button {{activeView == 2 ? 'activeView' : ''}}" (click)="setActiveView(2)"> Report </div>
+                    <div class="tab_button {{activeView == 3 ? 'activeView' : ''}}" (click)="setActiveView(3)"> Graph </div>
+                </div>
+            </ng-template>
+            <ng-template pTemplate="icons">
+                <div class="button">
+                    <span class="pi pi-cog"></span>
+                </div>
+            </ng-template>
+            <app-table *ngIf="activeView == 0" [setHeight]="height2" ></app-table>
+            <app-chart *ngIf="activeView == 1" [setHeight]="height2" ></app-chart>
+            <app-report *ngIf="activeView == 2" [setHeight]="height2" ></app-report>
+            <app-graph *ngIf="activeView == 3" [setHeight]="height2" ></app-graph>
         </p-panel>
     </div>
 
