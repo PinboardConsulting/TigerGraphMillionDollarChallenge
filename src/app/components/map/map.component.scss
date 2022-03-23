@@ -2,7 +2,24 @@
     width: calc(69vw - 2px);
     transition: 0.5s;
     #map{
+        position: absolute;
         width: calc(69vw - 2px);
         transition: 0.5s;
+    }
+    .list{
+        position: absolute;
+        height: 200px;
+        width: 147px;
+        background: hsl(205deg 67% 83% / 21%);
+        z-index: 3;
+        border-radius: 5px;
+        backdrop-filter: blur(1px);
+        box-shadow: 0 0 6px 0px #00000054;
+        margin: 5px;
+        padding: 5px;
+        color: black;
+        font-size: 13px;
+        font-weight: 500;
+        overflow: auto;
     }
 }
