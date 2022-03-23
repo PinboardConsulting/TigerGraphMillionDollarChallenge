@@ -8,7 +8,12 @@ import { Component, OnInit } from '@angular/core';
 export class SideMenuComponent implements OnInit {
 
   constructor() { }
-
+  genderOptions = [
+    {name : 'Male'},
+    {name: 'Female'},
+    {name: 'Other'}
+  ];
+  genderSelections:any;
   ngOnInit(): void {
   }
 

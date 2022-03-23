@@ -24,15 +24,15 @@ export class TableComponent implements OnInit {
   },
   {
     category: "Accessories",
-code: "nvklal433",
-description: "Product Description",
-id: "1001",
-image: "black-watch.jpg",
-inventoryStatus: "INSTOCK",
-name: "Black Watch",
-price: 72,
-quantity: 61,
-rating: 4
+    code: "nvklal433",
+    description: "Product Description",
+    id: "1001",
+    image: "black-watch.jpg",
+    inventoryStatus: "INSTOCK",
+    name: "Black Watch",
+    price: 72,
+    quantity: 61,
+    rating: 4
   },
   ];
   ngOnInit(): void {

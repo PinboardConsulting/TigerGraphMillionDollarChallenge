@@ -28,6 +28,17 @@
             }
         }
     }
+    .filters{
+        height: 60%;
+        border-bottom: solid 1px black;
+        margin: 5px;
+        .Item{
+            display: grid;
+            align-items: center;
+            grid-gap:10px;
+            grid-template-columns: 30% 1fr;
+        }
+    }
 }
 ::ng-deep{
     .p-input-icon-left, .p-input-icon-right {
@@ -35,5 +46,9 @@
     }
     .p-inputtext {
         width: 100% !important;
+    }
+    .p-multiselect {
+        width: 100% !important;
+        max-width: 19vw;
     }
 }

@@ -21,6 +21,7 @@ import { GraphComponent } from './components/graph/graph.component';
 import {InputSwitchModule} from 'primeng/inputswitch';
 import { FormsModule,ReactiveFormsModule } from '@angular/forms';
 import {CheckboxModule} from 'primeng/checkbox';
+import {MultiSelectModule} from 'primeng/multiselect';
 
 @NgModule({
   declarations: [
@@ -48,7 +49,8 @@ import {CheckboxModule} from 'primeng/checkbox';
     InputSwitchModule,
     FormsModule,
     ReactiveFormsModule,
-    CheckboxModule
+    CheckboxModule,
+    MultiSelectModule
   ],
   providers: [],
   bootstrap: [AppComponent]

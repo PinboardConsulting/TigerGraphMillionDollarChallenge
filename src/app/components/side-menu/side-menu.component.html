@@ -9,7 +9,21 @@
                 <input type="text" pInputText />
             </span>
     </div>
-    <div class="content">
-
+    <div class="filters">
+        <div class="Item">
+            <div class="ItemHead">Gender :</div>
+            <div>
+                <p-multiSelect 
+                [options]="genderOptions" 
+                [(ngModel)]="genderSelections" 
+                defaultLabel="Select a gender" 
+                [filter] = "false"
+                optionLabel="name" 
+                display="chip"></p-multiSelect>
+            </div>
+        </div>
+    </div>
+    <div class="stats">
+        
     </div>
 </div>
