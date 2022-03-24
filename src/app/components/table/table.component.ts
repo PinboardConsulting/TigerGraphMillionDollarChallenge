@@ -9,33 +9,23 @@ export class TableComponent implements OnInit {
 
   @Input() setHeight:string = '100%';
   constructor() { }
-  products2:any = [
+  tableData:any = [
     {
-    category: "Accessories",
-    code: "f230fh0g3",
-    description: "Product Description",
-    id: "1000",
-    image: "bamboo-watch.jpg",
-    inventoryStatus: "INSTOCK",
-    name: "Bamboo Watch",
-    price: 65,
-    quantity: 24,
-    rating: 5,
+    year: "2007-2008",
+    country: "India",
+    gender: "Male",
+    metric1: 65,
+    metric2: 24,
   },
   {
-    category: "Accessories",
-    code: "nvklal433",
-    description: "Product Description",
-    id: "1001",
-    image: "black-watch.jpg",
-    inventoryStatus: "INSTOCK",
-    name: "Black Watch",
-    price: 72,
-    quantity: 61,
-    rating: 4
+    year: "2007-2008",
+    country: "Russia",
+    gender: "Female",
+    metric1: 72,
+    metric2: 61,
   },
   ];
-  ngOnInit(): void {
+  ngOnInit() {
   }
 
 }
