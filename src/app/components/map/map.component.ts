@@ -1,6 +1,7 @@
 import { animate, style, transition, trigger } from '@angular/animations';
 import { Component, Input, OnChanges, OnInit } from '@angular/core';
 declare const mapboxgl:any;
+declare const $:any;
 @Component({
   selector: 'app-map',
   animations: [
@@ -52,6 +53,8 @@ export class MapComponent implements OnInit, OnChanges {
       attributionControl: false
     });
     let hoveredStateId:any = null;
+    $(window).resize(() => this.map.resize());
+
     this.map.on('load', () => {
       this.map.addSource("country", {
         type: 'vector',
