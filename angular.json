@@ -38,7 +38,8 @@
               "node_modules/primeicons/primeicons.css"
             ],
             "scripts": [
-              "src/assets/lib/mapbox-gl.js"
+              "src/assets/lib/mapbox-gl.js",
+              "src/assets/lib/jquery.min.js"
             ]
           },
           "configurations": {
