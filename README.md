@@ -1,6 +1,8 @@
 # Million Dollar Challenge
 
-This is a submission for Million Dollar Challenge by TigerGraph from Pinboard Consulting. The Aim of this submission is to develop schema for multiple datasets and ingest cleaned UN data into TigerGraph database to achieve deeper insights. 
+This is a submission for Million Dollar Challenge by TigerGraph from Pinboard Consulting. The aim of this submission is to create a TigerGraph solution for the way this data can be stored, analysed and visualised and leaverage graph technology to achieve deeper insights.
+
+This README provides a guide to create an implementation of TigerGraph which can store, in true related graph form, all current sets of UN Data, with the long term aim of being able to update and enhance the schema with more datasets beyond the life of this hackathon and to build an interactive dashboard, where extracts, reports and analytics can be visualised using the data from TigerGraph.
 
 ## Files
 Folder Structure
