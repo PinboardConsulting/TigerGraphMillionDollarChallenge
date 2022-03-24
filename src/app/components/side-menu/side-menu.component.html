@@ -10,17 +10,51 @@
             </span>
     </div>
     <div class="filters">
-        <div class="Item">
-            <div class="ItemHead">Gender :</div>
-            <div>
-                <p-multiSelect 
+        <div style="
+        margin-top: 10px;
+        margin-right: 10px;
+        ">
+         <p-multiSelect 
                 [options]="genderOptions" 
                 [(ngModel)]="genderSelections" 
-                defaultLabel="Select a gender" 
+                defaultLabel="Select Gender" 
                 [filter] = "false"
                 optionLabel="name" 
-                display="chip"></p-multiSelect>
-            </div>
+                display="chip">
+        </p-multiSelect>
+        <div style="
+            margin-top: 10px;
+            margin-right: 10px;
+            ">
+            <p-treeSelect 
+            [(ngModel)]="metricInTreeSelections" 
+            [options]="metricInTreeOptions" 
+            [metaKeySelection]="false" selectionMode="multiple"
+            placeholder="Select Metric">
+            </p-treeSelect>
+         <!-- <p-listbox 
+            [options]="metricOptions" 
+            [(ngModel)]="metricSelections" 
+            [metaKeySelection]="false" 
+            [checkbox]="true" 
+            [filter]="true" 
+            [multiple]="true" 
+            optionLabel="name" 
+            [listStyle]="{'max-height':'200px'}" 
+            [style]="{'width':'100%'}"
+            [group]="true" 
+         >
+            <ng-template let-group pTemplate="group">
+                <div class="flex align-items-center">
+                    <span>{{group.name}}</span>
+                </div>
+            </ng-template>
+            <ng-template let-metric pTemplate="item">
+                    <div class="metric-item">
+                        <div>{{metric.name}}</div>
+                    </div>
+            </ng-template>
+        </p-listbox> -->
         </div>
     </div>
     <div class="stats">

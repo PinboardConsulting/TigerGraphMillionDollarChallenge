@@ -20,10 +20,13 @@
                 </div>
             </ng-template>
             <ng-template pTemplate="icons">
-                <!-- <div class="field-checkbox">
-                    <label for="binary">Overlay</label>
-                    <p-checkbox [(ngModel)]="checked" [binary]="true" inputId="binary"></p-checkbox>
-                </div> -->
+                <div class="Calculate">
+                    <p-dropdown 
+                    [options]="calculationOptions" 
+                    [(ngModel)]="calculationSelection" 
+                    styleClass="calcDropdown"
+                    optionLabel="name"></p-dropdown>
+                </div>
                 <div class="button"  title="Settings">
                     <span class="pi pi-cog"></span>
                 </div>

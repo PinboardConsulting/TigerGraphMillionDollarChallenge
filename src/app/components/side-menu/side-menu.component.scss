@@ -47,8 +47,16 @@
     .p-inputtext {
         width: 100% !important;
     }
-    .p-multiselect {
-        width: 100% !important;
-        max-width: 19vw;
+    .p-multiselect {   
+        width: calc(100% - 10px);
+    }
+    .p-listbox .p-listbox-list .p-listbox-item {
+        padding: 5px;
+    }
+    .p-listbox .p-listbox-list .p-listbox-item-group {
+        padding: 5px;
+    }
+    .p-treeselect {
+        width: 100%;
     }
 }

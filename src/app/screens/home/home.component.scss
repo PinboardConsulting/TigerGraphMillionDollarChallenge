@@ -119,6 +119,18 @@
             border-radius: 7px;
          }
         }
+        
+    }
+
+    .calcDropdown{
+        width: 75px;
+        height: 20px;
+        .p-dropdown-label {
+            font-size: 12px;
+            padding: 0;
+            padding-left: 3px;
+        }
+
     }
 
 

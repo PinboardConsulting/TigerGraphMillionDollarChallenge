@@ -29,6 +29,7 @@ export class MapComponent implements OnInit, OnChanges {
   map:any;
   selectedCountries:any = [];
   showSelection = true; 
+  hoverCountry:any = null;
   constructor() { }
 
   async ngOnChanges(changes:any){
@@ -104,12 +105,25 @@ export class MapComponent implements OnInit, OnChanges {
               );
           }
           hoveredStateId = e.features[0].id;
+          this.hoverCountry = e.features[0].properties;
           this.map.setFeatureState(
                   { source: 'country', id: hoveredStateId ,  sourceLayer: 'country_boundaries',},
                   { hover: true }
           );
         }
     });
+
+    this.map.on("mouseleave", 'country-fills', (e:any) => {
+
+      if (hoveredStateId) {
+        this.map.setFeatureState(
+                { source: 'country', id: hoveredStateId ,  sourceLayer: 'country_boundaries',},
+                { hover: false }
+        );
+        hoveredStateId = null;
+        this.hoverCountry = null;
+      }
+  });
 
   
     this.map.on("click", (e:any) => {

@@ -24,6 +24,8 @@ import {CheckboxModule} from 'primeng/checkbox';
 import {MultiSelectModule} from 'primeng/multiselect';
 import {SliderModule} from 'primeng/slider';
 import {ListboxModule} from 'primeng/listbox';
+import {TreeSelectModule} from 'primeng/treeselect';
+import {DropdownModule} from 'primeng/dropdown';
 
 @NgModule({
   declarations: [
@@ -54,7 +56,9 @@ import {ListboxModule} from 'primeng/listbox';
     CheckboxModule,
     MultiSelectModule,
     SliderModule,
-    ListboxModule
+    ListboxModule,
+    TreeSelectModule,
+    DropdownModule
   ],
   providers: [],
   bootstrap: [AppComponent]

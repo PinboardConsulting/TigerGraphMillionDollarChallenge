@@ -16,6 +16,13 @@ export class HomeComponent implements OnInit {
   checked:boolean = false;
   yearRange: number[] = [2001,2006];
   maxYear = new Date().getFullYear();
+  calculationOptions = [
+      {name:'Value'},
+      {name:'sum'},
+      {name:'Mean'},
+  ]
+
+  calculationSelection:any = {name: 'value'};
 
   ngOnInit(): void {
    
