@@ -22,6 +22,8 @@ import {InputSwitchModule} from 'primeng/inputswitch';
 import { FormsModule,ReactiveFormsModule } from '@angular/forms';
 import {CheckboxModule} from 'primeng/checkbox';
 import {MultiSelectModule} from 'primeng/multiselect';
+import {SliderModule} from 'primeng/slider';
+import {ListboxModule} from 'primeng/listbox';
 
 @NgModule({
   declarations: [
@@ -50,7 +52,9 @@ import {MultiSelectModule} from 'primeng/multiselect';
     FormsModule,
     ReactiveFormsModule,
     CheckboxModule,
-    MultiSelectModule
+    MultiSelectModule,
+    SliderModule,
+    ListboxModule
   ],
   providers: [],
   bootstrap: [AppComponent]

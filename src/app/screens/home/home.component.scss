@@ -100,4 +100,26 @@
             height: 16px;
         }
     }
+    .yearPicker{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-left: 5px;
+        .rangeVlaue{
+            font-weight: 500;
+            font-size: 14px;
+            margin-top: -5px;
+            width: 90px;
+        }
+        .yearPickerSlider{
+         width:50vw;
+         background: #8c8c8c;
+        .p-slider-handle {
+ 
+            border-radius: 7px;
+         }
+        }
+    }
+
+
 }

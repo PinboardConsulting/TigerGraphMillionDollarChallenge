@@ -1,19 +1,45 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { animate, style, transition, trigger } from '@angular/animations';
+import { Component, Input, OnChanges, OnInit } from '@angular/core';
 declare const mapboxgl:any;
 @Component({
   selector: 'app-map',
+  animations: [
+    trigger(
+      'enterAnimation', [
+        transition(':enter', [
+          style({opacity: 0}),
+          animate('300ms', style({ opacity: 1}))
+        ]),
+        transition(':leave', [
+          style({opacity: 1}),
+          animate('300ms', style({opacity: 0}))
+        ])
+      ]
+    )
+  ],
   templateUrl: './map.component.html',
   styleUrls: ['./map.component.scss']
 })
-export class MapComponent implements OnInit {
+export class MapComponent implements OnInit, OnChanges {
 
 
 @Input() setHeight:string = '85vh';
+@Input() open:boolean = true;
 
   map:any;
   selectedCountries:any = [];
+  showSelection = true; 
   constructor() { }
 
+  async ngOnChanges(changes:any){
+    if(!this.open){
+      await new Promise(r => setTimeout(r, 10));
+      this.showSelection = false;
+    } else {
+      await new Promise(r => setTimeout(r, 100));
+      this.showSelection = true;
+    }
+  }
   ngOnInit(): void {
     mapboxgl.accessToken = 'pk.eyJ1IjoibmlraGlsbWplYnkiLCJhIjoiY2wxMG0yNHNjMjloNTNqb2Ewano1aThkdyJ9.1gMfqfEybs42h9D6AOBo0A';
     this.map = new mapboxgl.Map({

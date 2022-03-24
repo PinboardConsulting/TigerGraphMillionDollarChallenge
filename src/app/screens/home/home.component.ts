@@ -9,10 +9,14 @@ export class HomeComponent implements OnInit {
 
   constructor() { }
   openTabs:any = {0 : false, 1 : false};
+  mapOpen:boolean=true;
   height1 = 'calc(50vh - 40px)';
   height2 = 'calc(50vh - 40px)';
   activeView:number = 0;
   checked:boolean = false;
+  yearRange: number[] = [2001,2006];
+  maxYear = new Date().getFullYear();
+
   ngOnInit(): void {
    
 }

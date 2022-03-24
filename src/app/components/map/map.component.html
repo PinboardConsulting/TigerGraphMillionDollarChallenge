@@ -1,5 +1,7 @@
 <div class="container" [ngStyle]="{height:setHeight}">
-    <div class="list" *ngIf="selectedCountries.length">
+    <div class="list" [@enterAnimation] *ngIf="selectedCountries.length && showSelection" [ngStyle]="{
+    opacity: open ? '1' : '0'
+    }">
         <div class="country" *ngFor="let country of selectedCountries">
             <div class="country-name">{{country.name_en}}</div>
         </div>

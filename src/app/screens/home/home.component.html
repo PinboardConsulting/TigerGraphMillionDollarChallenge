@@ -4,25 +4,31 @@
     </div>
 
     <div class="right">
-        <p-panel [toggleable]="true" (onAfterToggle)="toggle(0)">
+        <p-panel [toggleable]="true" (onAfterToggle)="toggle(0)" (onBeforeToggle)="mapOpen=!mapOpen">
             <ng-template pTemplate="header">
-                <div class="pannel_head">
-                    Map
-                </div>
-                <div>
-                    
+                <div class="yearPicker">
+                    <div class="rangeVlaue">{{yearRange[0] + ' - ' + yearRange[1]}}</div>
+                    <p-slider 
+                    [(ngModel)]="yearRange" 
+                    [range]="true"
+                    [min]="1970"
+                    [max]="maxYear"
+                    [step]="1"
+                    styleClass="yearPickerSlider"
+                    ></p-slider>
+
                 </div>
             </ng-template>
             <ng-template pTemplate="icons">
-                <div class="field-checkbox">
-                    <label for="binary">Stats</label>
+                <!-- <div class="field-checkbox">
+                    <label for="binary">Overlay</label>
                     <p-checkbox [(ngModel)]="checked" [binary]="true" inputId="binary"></p-checkbox>
-                </div>
+                </div> -->
                 <div class="button"  title="Settings">
                     <span class="pi pi-cog"></span>
                 </div>
             </ng-template>
-            <app-map [setHeight]="height1" ></app-map> 
+            <app-map [setHeight]="height1" [open]="mapOpen" ></app-map> 
         </p-panel>
         <p-panel [toggleable]="true" (onAfterToggle)="toggle(1)">
             <ng-template pTemplate="header">
