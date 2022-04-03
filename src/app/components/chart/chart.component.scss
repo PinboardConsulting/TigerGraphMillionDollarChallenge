@@ -1,4 +1,8 @@
 .container{
     width: calc(69vw - 2px);
     transition: 0.5s;
+    #myChart{
+        height: 100%;
+        max-width: calc(69vw - 20px);
+    }
 }

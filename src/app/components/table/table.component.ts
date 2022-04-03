@@ -1,4 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
+import { GetDataService } from 'src/app/services/get-data/get-data.service';
 
 @Component({
   selector: 'app-table',
@@ -8,7 +9,9 @@ import { Component, Input, OnInit } from '@angular/core';
 export class TableComponent implements OnInit {
 
   @Input() setHeight:string = '100%';
-  constructor() { }
+  constructor(
+    private readonly getData: GetDataService
+  ) { }
   tableData:any = [
     {
     year: "2007-2008",
@@ -25,7 +28,13 @@ export class TableComponent implements OnInit {
     metric2: 61,
   },
   ];
-  ngOnInit() {
+  async ngOnInit() {
+    const data = await this.getData.get_2metrics_for_allCountries(
+      'General government expenditure on health as a percentage of total expenditure on health',
+      'General government expenditure on health as a percentage of total government expenditure',
+      2012
+    )
+    console.log(data);
   }
 
 }

@@ -29,7 +29,7 @@ export class SideMenuComponent implements OnInit {
       items: [
           {name: 'Total Homicide [TH]'},
       ]
-  }
+  },
   ]
 
   metricInTreeOptions:any =  [
@@ -58,6 +58,14 @@ export class SideMenuComponent implements OnInit {
                 {"label": "Homicide [CH]"},
             ]
         },
+        {
+          "label": "WHO",
+          selectable: false,
+          "children": [
+            {label : 'General government expenditure on health as a percentage of total expenditure on health'},
+            {label : 'General government expenditure on health as a percentage of total government expenditure'},
+          ]
+        }
     ];
 
 
