@@ -20,8 +20,9 @@ export class ChartComponent implements OnInit {
     this.chart = new Chart(ctx, {
     type: 'scatter', 
     data: {
-        datasets: [{
-          label: 'India',
+        datasets: [
+          {
+          label: 'Metric1 vs Metric2',
           data: [{
             x: -10,
             y: 0
@@ -36,16 +37,25 @@ export class ChartComponent implements OnInit {
             y: 5.5
           }],
           backgroundColor: 'rgb(255, 99, 132)'
-        }],
+        }
+      ],
     },
     options: {
         scales: {
             y: {
-                beginAtZero: true
+                beginAtZero: true,
+                  title: {
+                    display: true,
+                    text: 'Metric1'
+                  }
             },
             x: {
               type: 'linear',
-              position: 'bottom'
+              position: 'bottom',
+              title: {
+                display: true,
+                text: 'Metric2'
+              }
             }
         }
     }
