@@ -10,6 +10,7 @@
                     <div class="rangeVlaue">{{yearRange[0] + ' - ' + yearRange[1]}}</div>
                     <p-slider 
                     [(ngModel)]="yearRange" 
+                    (onChange)="onYearRangeChange()"
                     [range]="true"
                     [min]="1970"
                     [max]="maxYear"

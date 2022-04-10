@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { GetDataService } from 'src/app/services/get-data/get-data.service';
 
 @Component({
   selector: 'app-home',
@@ -7,7 +8,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HomeComponent implements OnInit {
 
-  constructor() { }
+  constructor(
+      private readonly getData: GetDataService
+  ) { }
   openTabs:any = {0 : false, 1 : false};
   mapOpen:boolean=true;
   height1 = 'calc(50vh - 40px)';
@@ -26,6 +29,11 @@ export class HomeComponent implements OnInit {
 
   ngOnInit(): void {
    
+}
+
+onYearRangeChange(){
+   this.getData.yearRange = this.yearRange;
+   this.getData.loadData();
 }
 
 toggle(index:number){

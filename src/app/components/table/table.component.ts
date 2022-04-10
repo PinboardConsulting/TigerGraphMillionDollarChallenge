@@ -29,12 +29,17 @@ export class TableComponent implements OnInit {
   },
   ];
   async ngOnInit() {
-    const data = await this.getData.get_2metrics_for_allCountries(
-      'General government expenditure on health as a percentage of total expenditure on health',
-      'General government expenditure on health as a percentage of total government expenditure',
-      2012
-    )
-    console.log(data);
+    // const data = await this.getData.get_2metrics_for_allCountries(
+    //   'General government expenditure on health as a percentage of total expenditure on health',
+    //   'General government expenditure on health as a percentage of total government expenditure',
+    //   2012
+    // )
+    // await this.getData.getCountryList();
+    // await this.getData.getMetricList();
+    // let data:any = this.getData.sample.results[2]['@@test_tuple'];
+    // let metricList = [...new Set(data.map((d:any) => d.metricName))];
+    // let metricData
+    // console.log(data, metricList);
   }
 
 }

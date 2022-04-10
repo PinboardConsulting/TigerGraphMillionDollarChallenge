@@ -1,5 +1,6 @@
 import { animate, style, transition, trigger } from '@angular/animations';
 import { Component, Input, OnChanges, OnInit } from '@angular/core';
+import { GetDataService } from 'src/app/services/get-data/get-data.service';
 declare const mapboxgl:any;
 declare const $:any;
 @Component({
@@ -31,7 +32,9 @@ export class MapComponent implements OnInit, OnChanges {
   selectedCountries:any = [];
   showSelection = true; 
   hoverCountry:any = null;
-  constructor() { }
+  constructor(
+   private readonly getData : GetDataService
+  ) { }
 
   async ngOnChanges(changes:any){
     if(!this.open){
@@ -145,11 +148,21 @@ export class MapComponent implements OnInit, OnChanges {
               { selected : true }
           );
            }
-        }
-        
+           this.updateGlobalCountrySelection();
+        }       
  
     });
 
     });
   }
+
+  updateGlobalCountrySelection(){
+    const _list:any = [];
+    this.selectedCountries.forEach((x:any) => {
+      _list.push(this.getData.countryList[x.name_en]);
+    });
+    this.getData.selectedCountries = _list;
+    this.getData.loadData();
+  }
+
 }
