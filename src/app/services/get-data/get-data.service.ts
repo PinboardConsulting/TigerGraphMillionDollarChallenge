@@ -278,7 +278,7 @@ metricList =[];
     let _url = this.metricUrl;
     for(let i = this.yearRange[0]; i <= this.yearRange[1]; i++){
       _yearList.push(i);
-    }
+    } 
     _country.forEach(code => _url = _url + `&country=${code}&country.type=Country`);
     _metric.forEach(metric => _url = _url + `&mets=${metric}&mets.type=Metric_Type`);
     _yearList.forEach(year => _url = _url + `&years=${year}`);
@@ -302,30 +302,16 @@ metricList =[];
   }
 
   async getMetricList(){
-    const data = await (await fetch(this.corsBypass,{
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body:JSON.stringify({
-        url:`https://undata.i.tgcloud.io:14240/restpp/query/UN_Data_test/get_metric_names`,
-        token:this.token
-      }),
-    })).json();
+    const data = await this.fetchData(
+      `https://undata.i.tgcloud.io:14240/restpp/query/UN_Data_test/get_metric_names`
+      );
     console.log(data);
   }
 
   async getCountryList(){
-    const data = await (await fetch(this.corsBypass,{
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body:JSON.stringify({
-        url:`https://undata.i.tgcloud.io:14240/restpp/query/UN_Data_test/get_country_names`,
-        token:this.token
-      }),
-    })).json();
+    const data = await this.fetchData(
+      `https://undata.i.tgcloud.io:14240/restpp/query/UN_Data_test/get_country_names`
+      );
     console.log(data.data.results[0]['@@Country_Tuple']);
   }
   
