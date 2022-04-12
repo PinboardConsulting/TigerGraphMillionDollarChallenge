@@ -17,7 +17,7 @@ export class HomeComponent implements OnInit {
   height2 = 'calc(50vh - 40px)';
   activeView:number = 0;
   checked:boolean = false;
-  yearRange: number[] = [2001,2006];
+  yearRange: number[] = [2012,2018];
   maxYear = new Date().getFullYear();
   calculationOptions = [
       {name:'Value'},

@@ -20,6 +20,7 @@
                 defaultLabel="Select Gender" 
                 [filter] = "false"
                 optionLabel="name" 
+                [disabled]="true"
                 display="chip">
         </p-multiSelect>
         <div style="
@@ -30,6 +31,8 @@
             [(ngModel)]="metricInTreeSelections" 
             [options]="metricInTreeOptions" 
             [metaKeySelection]="false" selectionMode="multiple"
+            (onNodeSelect)="updateData()"
+            (onNodeUnselect)="updateData()"
             placeholder="Select Metric">
             </p-treeSelect>
          <!-- <p-listbox 

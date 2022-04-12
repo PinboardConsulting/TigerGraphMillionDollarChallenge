@@ -1,10 +1,9 @@
-<div class="container" [ngStyle]="{height:setHeight}">
+<div class="container" [ngStyle]="{height:setHeight,overflow: 'auto'}">
     <p-table [value]="tableData" sortMode="multiple" responsiveLayout="scroll">
         <ng-template pTemplate="header">
             <tr>
                 <th pSortableColumn="year">Year <p-sortIcon field="year"></p-sortIcon></th>
                 <th pSortableColumn="country">Country <p-sortIcon field="country"></p-sortIcon></th>
-                <th pSortableColumn="gender"> Gender <p-sortIcon field="gender"></p-sortIcon></th>
                 <th pSortableColumn="metric1"> Metric 1 <p-sortIcon field="metric1"></p-sortIcon></th>
                 <th pSortableColumn="metric2"> Metric 2 <p-sortIcon field="metric1"></p-sortIcon></th>
             </tr>
@@ -13,7 +12,6 @@
             <tr>
                 <td>{{product.year}}</td>
                 <td>{{product.country}}</td>
-                <td>{{product.gender}}</td>
                 <td>{{product.metric1}}</td>
                 <td>{{product.metric2}}</td>
             </tr>
