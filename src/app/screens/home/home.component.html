@@ -4,7 +4,7 @@
     </div>
 
     <div class="right">
-        <p-panel [toggleable]="true" (onAfterToggle)="toggle(0)" (onBeforeToggle)="mapOpen=!mapOpen">
+        <p-panel [toggleable]="true" (onAfterToggle)="toggle(0)" (onBeforeToggle)="mapOpen=!mapOpen" styleClass="pannel1">
             <ng-template pTemplate="header">
                 <div class="yearPicker">
                     <div class="rangeVlaue">{{yearRange[0] + ' - ' + yearRange[1]}}</div>
@@ -47,7 +47,7 @@
                 </div>
             </ng-template>
             <ng-template pTemplate="icons">
-                <div class="button" title="Export">
+                <div class="button" title="Export" (click)="export()">
                     <span class="pi pi-download"></span>
                 </div>
                 <div class="button" title="Settings">
@@ -62,4 +62,13 @@
     </div>
 
 </div>
+
+    <div class="loaderWrapper">
+        <div class="loader"></div>
+        <div class="loadingText">
+            Loading...
+        </div>
+    
+    </div>
+
 

@@ -122,6 +122,42 @@
         
     }
 
+    @media only screen and (max-width: 1200px) {
+        .yearPicker{
+            .yearPickerSlider{
+             width:calc(46vw - 30px );
+             
+            }
+        }
+    }
+
+    @media only screen and (max-width: 1000px) {
+        .yearPicker{
+            .yearPickerSlider{
+             width:calc(40vw - 30px );
+             
+            }
+        }
+    }
+
+    @media only screen and (max-width: 800px) {
+        .yearPicker{
+            .yearPickerSlider{
+             width:calc(35vw - 30px );
+             
+            }
+        }
+    }
+
+    @media only screen and (max-width: 660px) {
+        .yearPicker{
+            .yearPickerSlider{
+             width:calc(30vw - 30px );
+             
+            }
+        }
+    }
+
     .calcDropdown{
         width: 75px;
         height: 20px;
@@ -133,5 +169,27 @@
 
     }
 
+
+}
+
+.loaderWrapper{
+    position: fixed;
+    bottom: -50px;
+    right: -200px;
+    background-color: rgba(80, 80, 80, 0.763);
+    width:600px;
+    height: 170px;
+    transform: scale(0.2);
+    display: flex;
+    color: white;
+    font-size: 70px;
+    grid-gap: 10px;
+    padding: 20px;
+    padding-left: 50px;
+    align-items: center;
+    border-radius: 50px;
+    .loadingText{
+      margin-top: -20px;
+    }
 
 }

@@ -1,6 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { GetDataService } from 'src/app/services/get-data/get-data.service';
-
+import * as $ from 'jquery';
+declare const json2csv:any;
 @Component({
   selector: 'app-home',
   templateUrl: './home.component.html',
@@ -28,9 +29,23 @@ export class HomeComponent implements OnInit {
   calculationSelection:any = {name: 'value'};
 
   ngOnInit(): void {
-   
+    $('.loaderWrapper').hide();
 }
 
+export(){
+    const fields = Object.keys(this.getData.tableData[0]).filter(x => x !== 'data');
+    const csv = json2csv.parse(this.getData.tableData, {fields});
+    const element = document.createElement('a');
+    element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(csv));
+    element.setAttribute('download', "export.csv");
+    
+    element.style.display = 'none';
+    document.body.appendChild(element);
+    
+    element.click();
+    
+    document.body.removeChild(element);
+}
 onYearRangeChange(){
    this.getData.yearRange = this.yearRange;
    this.getData.loadData();

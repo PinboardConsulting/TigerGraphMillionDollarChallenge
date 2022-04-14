@@ -2,3 +2,19 @@
     width: calc(69vw - 2px);
     transition: 0.5s;
 }
+
+::ng-deep{
+    .p-datatable {
+        height: 100%;
+        overflow: hidden;
+    }
+    .p-datatable-responsive-scroll>.p-datatable-wrapper {
+        height: 100%;
+        overflow-y: auto;
+    }
+    .p-datatable-thead{
+        position: sticky;
+        top: 0;
+        z-index: 9999;
+    }
+}

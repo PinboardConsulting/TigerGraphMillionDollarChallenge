@@ -39,7 +39,8 @@
             ],
             "scripts": [
               "src/assets/lib/mapbox-gl.js",
-              "src/assets/lib/jquery.min.js"
+              "src/assets/lib/jquery.min.js",
+              "src/assets/lib/json2csv.js"
             ]
           },
           "configurations": {

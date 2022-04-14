@@ -1,5 +1,6 @@
 import { Injectable } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
+import * as $ from 'jquery';
 
 @Injectable({
   providedIn: 'root'
@@ -265,6 +266,8 @@ Palau: 585,
   Afghanistan: 4 
 };
 
+tableData:any = [];
+loadCounter = 0;
 metricList =[ 'CO2',
 'Final consumption expenditure - Constant',
 'CH4',
@@ -293,10 +296,10 @@ metricList =[ 'CO2',
   selectedMetices = [];
   yearRange = [2012,2018];
 
-  token = "kjp3vg918bruhqghcben3ltndol7tje0";
+  token = "3lgh4lvl86t3etr038720ti11ilsnhak";
   // token = "7a5jspkahtgg6qdnsefojt5t232afta1";
-  corsBypass = 'https://corsbypass.netlify.app/.netlify/functions/api/request';
-  metricUrl = "https://undata.i.tgcloud.io:14240/restpp/query/UN_Data_test/generalised_query_1?";
+  corsBypass = 'https://aa5b-35-240-145-18.ap.ngrok.io/request';
+  metricUrl = "https://28544b4eae384c8dabf7ee5d40d80c2f.i.tgcloud.io:14240/restpp/query/UN_Data/generalised_query_main?";
 
   setData(data:any){
     this.Observable_data.next(data);
@@ -315,11 +318,15 @@ metricList =[ 'CO2',
     _yearList.forEach(year => _url = _url + `&years=${year}`);
     _url = _url.replace('generalised_query_1?&', 'generalised_query_1?');
 
-
-    this.getDataFor2metrics(_metric[0],_metric[1],_yearList[0]);
+    if(_metric.length>1){
+      console.log(_url);
+      this.getAllData(_url);
+    }
   });
 
-  private async fetchData(url:string, token:string = this.token) {
+  private async fetchData(url:String, token:String = this.token) {
+    $('.loaderWrapper').fadeIn();
+    this.loadCounter+=1;
     const data = await (await fetch(this.corsBypass,{
       method: 'POST',
       headers: {
@@ -327,1652 +334,4188 @@ metricList =[ 'CO2',
       },
       body:JSON.stringify({ url, token}),
     })).json();
-
+    this.loadCounter-=1;
+    if(this.loadCounter ==0){
+      $('.loaderWrapper').fadeOut();
+    }
     return data;
   }
 
-  async getDataFor2metrics(metric1:string, metric2:string, year:number){
-      console.log(metric1, metric2, year);
-      if(metric1 && metric2 && year){
-        const data = await this.fetchData(
-            `https://undata.i.tgcloud.io:14240/restpp/query/UN_Data_test/all_countries_2_metrics_1_year?met1=${metric1}&met2=${metric2}&someyear=${year}`
-            );
-          console.log(data);
-      }
+  data:any = {
+    data:{
+      results:[
+        {
+          "@@test_tuple":[
+            {
+                "countryname": "Venezuela (Bolivarian Republic of)",
+                "countrycode": 862,
+                "metricName": "Homicide",
+                "MetricValue": 940,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005141"
+            },
+            {
+                "countryname": "Venezuela (Bolivarian Republic of)",
+                "countrycode": 862,
+                "metricName": "Homicide",
+                "MetricValue": 15131,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001975"
+            },
+            {
+                "countryname": "Vanuatu",
+                "countrycode": 548,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005090"
+            },
+            {
+                "countryname": "Vanuatu",
+                "countrycode": 548,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001922"
+            },
+            {
+                "countryname": "Uzbekistan",
+                "countrycode": 860,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001974"
+            },
+            {
+                "countryname": "Uzbekistan",
+                "countrycode": 860,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005140"
+            },
+            {
+                "countryname": "Uruguay",
+                "countrycode": 858,
+                "metricName": "Homicide",
+                "MetricValue": 38,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005139"
+            },
+            {
+                "countryname": "Uruguay",
+                "countrycode": 858,
+                "metricName": "Homicide",
+                "MetricValue": 229,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001973"
+            },
+            {
+                "countryname": "United States Virgin Islands",
+                "countrycode": 850,
+                "metricName": "Homicide",
+                "MetricValue": 2,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005138"
+            },
+            {
+                "countryname": "United States Virgin Islands",
+                "countrycode": 850,
+                "metricName": "Homicide",
+                "MetricValue": 50,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001972"
+            },
+            {
+                "countryname": "United States",
+                "countrycode": 840,
+                "metricName": "Homicide",
+                "MetricValue": 3301,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005137"
+            },
+            {
+                "countryname": "United States",
+                "countrycode": 840,
+                "metricName": "Homicide",
+                "MetricValue": 11555,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001971"
+            },
+            {
+                "countryname": "United States",
+                "countrycode": 840,
+                "metricName": "HFCs",
+                "MetricValue": 147052.65625,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002428"
+            },
+            {
+                "countryname": "United Rep. of Tanzania",
+                "countrycode": 834,
+                "metricName": "Homicide",
+                "MetricValue": 521,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005136"
+            },
+            {
+                "countryname": "United Rep. of Tanzania",
+                "countrycode": 834,
+                "metricName": "Homicide",
+                "MetricValue": 3571,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001970"
+            },
+            {
+                "countryname": "United Kingdom",
+                "countrycode": 826,
+                "metricName": "HFCs",
+                "MetricValue": 13118.70508,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002398"
+            },
+            {
+                "countryname": "United Arab Emirates",
+                "countrycode": 784,
+                "metricName": "Homicide",
+                "MetricValue": 16,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005128"
+            },
+            {
+                "countryname": "United Arab Emirates",
+                "countrycode": 784,
+                "metricName": "Homicide",
+                "MetricValue": 52,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001962"
+            },
+            {
+                "countryname": "Ukraine",
+                "countrycode": 804,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001967"
+            },
+            {
+                "countryname": "Ukraine",
+                "countrycode": 804,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005133"
+            },
+            {
+                "countryname": "Ukraine",
+                "countrycode": 804,
+                "metricName": "HFCs",
+                "MetricValue": 840.75537,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002375"
+            },
+            {
+                "countryname": "Uganda",
+                "countrycode": 800,
+                "metricName": "Homicide",
+                "MetricValue": 741,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005132"
+            },
+            {
+                "countryname": "Uganda",
+                "countrycode": 800,
+                "metricName": "Homicide",
+                "MetricValue": 3325,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001966"
+            },
+            {
+                "countryname": "Turks and Caicos Islands",
+                "countrycode": 796,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005131"
+            },
+            {
+                "countryname": "Turks and Caicos Islands",
+                "countrycode": 796,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001965"
+            },
+            {
+                "countryname": "Turkey",
+                "countrycode": 792,
+                "metricName": "Homicide",
+                "MetricValue": 606,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005130"
+            },
+            {
+                "countryname": "Turkey",
+                "countrycode": 792,
+                "metricName": "Homicide",
+                "MetricValue": 2610,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001964"
+            },
+            {
+                "countryname": "Turkey",
+                "countrycode": 792,
+                "metricName": "HFCs",
+                "MetricValue": 4256.83447,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002355"
+            },
+            {
+                "countryname": "Tunisia",
+                "countrycode": 788,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005129"
+            },
+            {
+                "countryname": "Tunisia",
+                "countrycode": 788,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001963"
+            },
+            {
+                "countryname": "Trinidad and Tobago",
+                "countrycode": 780,
+                "metricName": "Homicide",
+                "MetricValue": 45,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005127"
+            },
+            {
+                "countryname": "Trinidad and Tobago",
+                "countrycode": 780,
+                "metricName": "Homicide",
+                "MetricValue": 335,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001961"
+            },
+            {
+                "countryname": "Tonga",
+                "countrycode": 776,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001960"
+            },
+            {
+                "countryname": "Tonga",
+                "countrycode": 776,
+                "metricName": "Homicide",
+                "MetricValue": 1,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005126"
+            },
+            {
+                "countryname": "The former Yugoslav Rep. of Macedonia",
+                "countrycode": 807,
+                "metricName": "Homicide",
+                "MetricValue": 11,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005134"
+            },
+            {
+                "countryname": "The former Yugoslav Rep. of Macedonia",
+                "countrycode": 807,
+                "metricName": "Homicide",
+                "MetricValue": 18,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001968"
+            },
+            {
+                "countryname": "Thailand",
+                "countrycode": 764,
+                "metricName": "Homicide",
+                "MetricValue": 474,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005125"
+            },
+            {
+                "countryname": "Thailand",
+                "countrycode": 764,
+                "metricName": "Homicide",
+                "MetricValue": 2848,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001959"
+            },
+            {
+                "countryname": "Tajikistan",
+                "countrycode": 762,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005124"
+            },
+            {
+                "countryname": "Tajikistan",
+                "countrycode": 762,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001958"
+            },
+            {
+                "countryname": "Syrian Arab Rep.",
+                "countrycode": 760,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001957"
+            },
+            {
+                "countryname": "Syrian Arab Rep.",
+                "countrycode": 760,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005123"
+            },
+            {
+                "countryname": "Switzerland",
+                "countrycode": 756,
+                "metricName": "Homicide",
+                "MetricValue": 17,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005122"
+            },
+            {
+                "countryname": "Switzerland",
+                "countrycode": 756,
+                "metricName": "Homicide",
+                "MetricValue": 28,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001956"
+            },
+            {
+                "countryname": "Switzerland",
+                "countrycode": 756,
+                "metricName": "HFCs",
+                "MetricValue": 1454.45374,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002325"
+            },
+            {
+                "countryname": "Sweden",
+                "countrycode": 752,
+                "metricName": "Homicide",
+                "MetricValue": 21,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005121"
+            },
+            {
+                "countryname": "Sweden",
+                "countrycode": 752,
+                "metricName": "Homicide",
+                "MetricValue": 46,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001955"
+            },
+            {
+                "countryname": "Sweden",
+                "countrycode": 752,
+                "metricName": "HFCs",
+                "MetricValue": 1087.92407,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002295"
+            },
+            {
+                "countryname": "Suriname",
+                "countrycode": 740,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005120"
+            },
+            {
+                "countryname": "Suriname",
+                "countrycode": 740,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001954"
+            },
+            {
+                "countryname": "State of Palestine",
+                "countrycode": 275,
+                "metricName": "Homicide",
+                "MetricValue": 4,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005043"
+            },
+            {
+                "countryname": "State of Palestine",
+                "countrycode": 275,
+                "metricName": "Homicide",
+                "MetricValue": 22,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001875"
+            },
+            {
+                "countryname": "Sri Lanka",
+                "countrycode": 144,
+                "metricName": "Homicide",
+                "MetricValue": 171,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005024"
+            },
+            {
+                "countryname": "Sri Lanka",
+                "countrycode": 144,
+                "metricName": "Homicide",
+                "MetricValue": 505,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001855"
+            },
+            {
+                "countryname": "Spain",
+                "countrycode": 724,
+                "metricName": "Homicide",
+                "MetricValue": 124,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005119"
+            },
+            {
+                "countryname": "Spain",
+                "countrycode": 724,
+                "metricName": "Homicide",
+                "MetricValue": 239,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001953"
+            },
+            {
+                "countryname": "Spain",
+                "countrycode": 724,
+                "metricName": "HFCs",
+                "MetricValue": 15735.2168,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002265"
+            },
+            {
+                "countryname": "South Africa",
+                "countrycode": 710,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001952"
+            },
+            {
+                "countryname": "South Africa",
+                "countrycode": 710,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005118"
+            },
+            {
+                "countryname": "Slovenia",
+                "countrycode": 705,
+                "metricName": "Homicide",
+                "MetricValue": 6,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005117"
+            },
+            {
+                "countryname": "Slovenia",
+                "countrycode": 705,
+                "metricName": "Homicide",
+                "MetricValue": 8,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001951"
+            },
+            {
+                "countryname": "Slovenia",
+                "countrycode": 705,
+                "metricName": "HFCs",
+                "MetricValue": 294.66211,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002238"
+            },
+            {
+                "countryname": "Slovakia",
+                "countrycode": 703,
+                "metricName": "Homicide",
+                "MetricValue": 18,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005116"
+            },
+            {
+                "countryname": "Slovakia",
+                "countrycode": 703,
+                "metricName": "Homicide",
+                "MetricValue": 45,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001950"
+            },
+            {
+                "countryname": "Slovakia",
+                "countrycode": 703,
+                "metricName": "HFCs",
+                "MetricValue": 628.19543,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002212"
+            },
+            {
+                "countryname": "Singapore",
+                "countrycode": 702,
+                "metricName": "Homicide",
+                "MetricValue": 5,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001949"
+            },
+            {
+                "countryname": "Singapore",
+                "countrycode": 702,
+                "metricName": "Homicide",
+                "MetricValue": 6,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005115"
+            },
+            {
+                "countryname": "Seychelles",
+                "countrycode": 690,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005114"
+            },
+            {
+                "countryname": "Seychelles",
+                "countrycode": 690,
+                "metricName": "Homicide",
+                "MetricValue": 3,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001948"
+            },
+            {
+                "countryname": "Serbia (and Kosovo: S/RES/1244 (1999))",
+                "countrycode": 688,
+                "metricName": "Homicide",
+                "MetricValue": 38,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005113"
+            },
+            {
+                "countryname": "Serbia (and Kosovo: S/RES/1244 (1999))",
+                "countrycode": 688,
+                "metricName": "Homicide",
+                "MetricValue": 73,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001947"
+            },
+            {
+                "countryname": "Sao Tome and Principe",
+                "countrycode": 678,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005112"
+            },
+            {
+                "countryname": "Sao Tome and Principe",
+                "countrycode": 678,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001946"
+            },
+            {
+                "countryname": "San Marino",
+                "countrycode": 674,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001945"
+            },
+            {
+                "countryname": "San Marino",
+                "countrycode": 674,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005111"
+            },
+            {
+                "countryname": "Saint Vincent and the Grenadines",
+                "countrycode": 670,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005110"
+            },
+            {
+                "countryname": "Saint Vincent and the Grenadines",
+                "countrycode": 670,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001944"
+            },
+            {
+                "countryname": "Saint Pierre and Miquelon",
+                "countrycode": 666,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005109"
+            },
+            {
+                "countryname": "Saint Pierre and Miquelon",
+                "countrycode": 666,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001943"
+            },
+            {
+                "countryname": "Saint Lucia",
+                "countrycode": 662,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001941"
+            },
+            {
+                "countryname": "Saint Lucia",
+                "countrycode": 662,
+                "metricName": "Homicide",
+                "MetricValue": 6,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005108"
+            },
+            {
+                "countryname": "Saint Lucia",
+                "countrycode": 662,
+                "metricName": "Homicide",
+                "MetricValue": 32,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001942"
+            },
+            {
+                "countryname": "Saint Kitts and Nevis",
+                "countrycode": 659,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001939"
+            },
+            {
+                "countryname": "Saint Kitts and Nevis",
+                "countrycode": 659,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001938"
+            },
+            {
+                "countryname": "Saint Kitts and Nevis",
+                "countrycode": 659,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005106"
+            },
+            {
+                "countryname": "Réunion",
+                "countrycode": 638,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001935"
+            },
+            {
+                "countryname": "Réunion",
+                "countrycode": 638,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005103"
+            },
+            {
+                "countryname": "Russian Federation",
+                "countrycode": 643,
+                "metricName": "Homicide",
+                "MetricValue": 128,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001937"
+            },
+            {
+                "countryname": "Russian Federation",
+                "countrycode": 643,
+                "metricName": "Homicide",
+                "MetricValue": 4239,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005105"
+            },
+            {
+                "countryname": "Russian Federation",
+                "countrycode": 643,
+                "metricName": "HFCs",
+                "MetricValue": 17840.44922,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002182"
+            },
+            {
+                "countryname": "Romania",
+                "countrycode": 642,
+                "metricName": "Homicide",
+                "MetricValue": 83,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005104"
+            },
+            {
+                "countryname": "Romania",
+                "countrycode": 642,
+                "metricName": "Homicide",
+                "MetricValue": 129,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001936"
+            },
+            {
+                "countryname": "Romania",
+                "countrycode": 642,
+                "metricName": "HFCs",
+                "MetricValue": 1200.96008,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002152"
+            },
+            {
+                "countryname": "Rep. of Moldova",
+                "countrycode": 498,
+                "metricName": "Homicide",
+                "MetricValue": 63,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005081"
+            },
+            {
+                "countryname": "Rep. of Moldova",
+                "countrycode": 498,
+                "metricName": "Homicide",
+                "MetricValue": 166,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001913"
+            },
+            {
+                "countryname": "Rep. of Korea",
+                "countrycode": 410,
+                "metricName": "Homicide",
+                "MetricValue": 216,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001898"
+            },
+            {
+                "countryname": "Rep. of Korea",
+                "countrycode": 410,
+                "metricName": "Homicide",
+                "MetricValue": 219,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005066"
+            },
+            {
+                "countryname": "Qatar",
+                "countrycode": 634,
+                "metricName": "Homicide",
+                "MetricValue": 1,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005102"
+            },
+            {
+                "countryname": "Qatar",
+                "countrycode": 634,
+                "metricName": "Homicide",
+                "MetricValue": 6,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001934"
+            },
+            {
+                "countryname": "Puerto Rico",
+                "countrycode": 630,
+                "metricName": "Homicide",
+                "MetricValue": 83,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005101"
+            },
+            {
+                "countryname": "Puerto Rico",
+                "countrycode": 630,
+                "metricName": "Homicide",
+                "MetricValue": 932,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001933"
+            },
+            {
+                "countryname": "Portugal",
+                "countrycode": 620,
+                "metricName": "Homicide",
+                "MetricValue": 41,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005100"
+            },
+            {
+                "countryname": "Portugal",
+                "countrycode": 620,
+                "metricName": "Homicide",
+                "MetricValue": 80,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001932"
+            },
+            {
+                "countryname": "Portugal",
+                "countrycode": 620,
+                "metricName": "HFCs",
+                "MetricValue": 2371.0459,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002127"
+            },
+            {
+                "countryname": "Poland",
+                "countrycode": 616,
+                "metricName": "Homicide",
+                "MetricValue": 110,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005099"
+            },
+            {
+                "countryname": "Poland",
+                "countrycode": 616,
+                "metricName": "Homicide",
+                "MetricValue": 298,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001931"
+            },
+            {
+                "countryname": "Poland",
+                "countrycode": 616,
+                "metricName": "HFCs",
+                "MetricValue": 6865.55029,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002102"
+            },
+            {
+                "countryname": "Philippines",
+                "countrycode": 608,
+                "metricName": "Homicide",
+                "MetricValue": 1086,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005098"
+            },
+            {
+                "countryname": "Philippines",
+                "countrycode": 608,
+                "metricName": "Homicide",
+                "MetricValue": 7397,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001930"
+            },
+            {
+                "countryname": "Peru",
+                "countrycode": 604,
+                "metricName": "Homicide",
+                "MetricValue": 317,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005097"
+            },
+            {
+                "countryname": "Peru",
+                "countrycode": 604,
+                "metricName": "Homicide",
+                "MetricValue": 1650,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001929"
+            },
+            {
+                "countryname": "Paraguay",
+                "countrycode": 600,
+                "metricName": "Homicide",
+                "MetricValue": 73,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005096"
+            },
+            {
+                "countryname": "Paraguay",
+                "countrycode": 600,
+                "metricName": "Homicide",
+                "MetricValue": 576,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001928"
+            },
+            {
+                "countryname": "Panama",
+                "countrycode": 591,
+                "metricName": "Homicide",
+                "MetricValue": 34,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005095"
+            },
+            {
+                "countryname": "Panama",
+                "countrycode": 591,
+                "metricName": "Homicide",
+                "MetricValue": 602,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001927"
+            },
+            {
+                "countryname": "Oman",
+                "countrycode": 512,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001917"
+            },
+            {
+                "countryname": "Oman",
+                "countrycode": 512,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005085"
+            },
+            {
+                "countryname": "Norway",
+                "countrycode": 578,
+                "metricName": "Homicide",
+                "MetricValue": 9,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005093"
+            },
+            {
+                "countryname": "Norway",
+                "countrycode": 578,
+                "metricName": "Homicide",
+                "MetricValue": 18,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001925"
+            },
+            {
+                "countryname": "Norway",
+                "countrycode": 578,
+                "metricName": "HFCs",
+                "MetricValue": 1029.06421,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002072"
+            },
+            {
+                "countryname": "Nicaragua",
+                "countrycode": 558,
+                "metricName": "Homicide",
+                "MetricValue": 64,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005092"
+            },
+            {
+                "countryname": "Nicaragua",
+                "countrycode": 558,
+                "metricName": "Homicide",
+                "MetricValue": 608,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001924"
+            },
+            {
+                "countryname": "New Zealand",
+                "countrycode": 554,
+                "metricName": "Homicide",
+                "MetricValue": 20,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001923"
+            },
+            {
+                "countryname": "New Zealand",
+                "countrycode": 554,
+                "metricName": "Homicide",
+                "MetricValue": 21,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005091"
+            },
+            {
+                "countryname": "New Zealand",
+                "countrycode": 554,
+                "metricName": "HFCs",
+                "MetricValue": 1230.55798,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002044"
+            },
+            {
+                "countryname": "Netherlands",
+                "countrycode": 528,
+                "metricName": "Homicide",
+                "MetricValue": 50,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005087"
+            },
+            {
+                "countryname": "Netherlands",
+                "countrycode": 528,
+                "metricName": "Homicide",
+                "MetricValue": 95,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001919"
+            },
+            {
+                "countryname": "Netherlands",
+                "countrycode": 528,
+                "metricName": "HFCs",
+                "MetricValue": 1831.62952,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000002014"
+            },
+            {
+                "countryname": "Namibia",
+                "countrycode": 516,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001918"
+            },
+            {
+                "countryname": "Namibia",
+                "countrycode": 516,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005086"
+            },
+            {
+                "countryname": "Myanmar",
+                "countrycode": 104,
+                "metricName": "Homicide",
+                "MetricValue": 241,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005017"
+            },
+            {
+                "countryname": "Myanmar",
+                "countrycode": 104,
+                "metricName": "Homicide",
+                "MetricValue": 1195,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001848"
+            },
+            {
+                "countryname": "Morocco",
+                "countrycode": 504,
+                "metricName": "Homicide",
+                "MetricValue": 56,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005084"
+            },
+            {
+                "countryname": "Morocco",
+                "countrycode": 504,
+                "metricName": "Homicide",
+                "MetricValue": 327,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001916"
+            },
+            {
+                "countryname": "Montserrat",
+                "countrycode": 500,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001915"
+            },
+            {
+                "countryname": "Montserrat",
+                "countrycode": 500,
+                "metricName": "Homicide",
+                "MetricValue": 1,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005083"
+            },
+            {
+                "countryname": "Montenegro",
+                "countrycode": 499,
+                "metricName": "Homicide",
+                "MetricValue": 3,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005082"
+            },
+            {
+                "countryname": "Montenegro",
+                "countrycode": 499,
+                "metricName": "Homicide",
+                "MetricValue": 14,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001914"
+            },
+            {
+                "countryname": "Mongolia",
+                "countrycode": 496,
+                "metricName": "Homicide",
+                "MetricValue": 57,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005080"
+            },
+            {
+                "countryname": "Mongolia",
+                "countrycode": 496,
+                "metricName": "Homicide",
+                "MetricValue": 142,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001912"
+            },
+            {
+                "countryname": "Monaco",
+                "countrycode": 492,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001911"
+            },
+            {
+                "countryname": "Monaco",
+                "countrycode": 492,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005079"
+            },
+            {
+                "countryname": "Monaco",
+                "countrycode": 492,
+                "metricName": "HFCs",
+                "MetricValue": 4.17538,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001985"
+            },
+            {
+                "countryname": "Micronesia (Federated States of)",
+                "countrycode": 583,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001926"
+            },
+            {
+                "countryname": "Micronesia (Federated States of)",
+                "countrycode": 583,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005094"
+            },
+            {
+                "countryname": "Mexico",
+                "countrycode": 484,
+                "metricName": "Homicide",
+                "MetricValue": 2787,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005078"
+            },
+            {
+                "countryname": "Mexico",
+                "countrycode": 484,
+                "metricName": "Homicide",
+                "MetricValue": 23179,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001910"
+            },
+            {
+                "countryname": "Mauritius",
+                "countrycode": 480,
+                "metricName": "Homicide",
+                "MetricValue": 10,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005077"
+            },
+            {
+                "countryname": "Mauritius",
+                "countrycode": 480,
+                "metricName": "Homicide",
+                "MetricValue": 18,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001909"
+            },
+            {
+                "countryname": "Martinique",
+                "countrycode": 474,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005076"
+            },
+            {
+                "countryname": "Martinique",
+                "countrycode": 474,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001908"
+            },
+            {
+                "countryname": "Malta",
+                "countrycode": 470,
+                "metricName": "Homicide",
+                "MetricValue": 3,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005075"
+            },
+            {
+                "countryname": "Malta",
+                "countrycode": 470,
+                "metricName": "Homicide",
+                "MetricValue": 9,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001907"
+            },
+            {
+                "countryname": "Malta",
+                "countrycode": 470,
+                "metricName": "HFCs",
+                "MetricValue": 204.83229,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001959"
+            },
+            {
+                "countryname": "Maldives",
+                "countrycode": 462,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001906"
+            },
+            {
+                "countryname": "Maldives",
+                "countrycode": 462,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005074"
+            },
+            {
+                "countryname": "Macao SAR- China",
+                "countrycode": 446,
+                "metricName": "Homicide",
+                "MetricValue": 1,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005073"
+            },
+            {
+                "countryname": "Macao SAR- China",
+                "countrycode": 446,
+                "metricName": "Homicide",
+                "MetricValue": 3,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001905"
+            },
+            {
+                "countryname": "Luxembourg",
+                "countrycode": 442,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005072"
+            },
+            {
+                "countryname": "Luxembourg",
+                "countrycode": 442,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001904"
+            },
+            {
+                "countryname": "Luxembourg",
+                "countrycode": 442,
+                "metricName": "HFCs",
+                "MetricValue": 58.91151,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001929"
+            },
+            {
+                "countryname": "Lithuania",
+                "countrycode": 440,
+                "metricName": "Homicide",
+                "MetricValue": 53,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005071"
+            },
+            {
+                "countryname": "Lithuania",
+                "countrycode": 440,
+                "metricName": "Homicide",
+                "MetricValue": 149,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001903"
+            },
+            {
+                "countryname": "Lithuania",
+                "countrycode": 440,
+                "metricName": "HFCs",
+                "MetricValue": 350.38318,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001902"
+            },
+            {
+                "countryname": "Liechtenstein",
+                "countrycode": 438,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001902"
+            },
+            {
+                "countryname": "Liechtenstein",
+                "countrycode": 438,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005070"
+            },
+            {
+                "countryname": "Liechtenstein",
+                "countrycode": 438,
+                "metricName": "HFCs",
+                "MetricValue": 9.80922,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001872"
+            },
+            {
+                "countryname": "Latvia",
+                "countrycode": 428,
+                "metricName": "Homicide",
+                "MetricValue": 33,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001901"
+            },
+            {
+                "countryname": "Latvia",
+                "countrycode": 428,
+                "metricName": "Homicide",
+                "MetricValue": 37,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005069"
+            },
+            {
+                "countryname": "Latvia",
+                "countrycode": 428,
+                "metricName": "HFCs",
+                "MetricValue": 216.00633,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001847"
+            },
+            {
+                "countryname": "Kyrgyzstan",
+                "countrycode": 417,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001900"
+            },
+            {
+                "countryname": "Kyrgyzstan",
+                "countrycode": 417,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005068"
+            },
+            {
+                "countryname": "Kuwait",
+                "countrycode": 414,
+                "metricName": "Homicide",
+                "MetricValue": 10,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005067"
+            },
+            {
+                "countryname": "Kuwait",
+                "countrycode": 414,
+                "metricName": "Homicide",
+                "MetricValue": 51,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001899"
+            },
+            {
+                "countryname": "Kosovo under UNSCR 1244",
+                "countrycode": 383,
+                "metricName": "Homicide",
+                "MetricValue": 11,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005060"
+            },
+            {
+                "countryname": "Kosovo under UNSCR 1244",
+                "countrycode": 383,
+                "metricName": "Homicide",
+                "MetricValue": 79,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001892"
+            },
+            {
+                "countryname": "Kenya",
+                "countrycode": 404,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001897"
+            },
+            {
+                "countryname": "Kenya",
+                "countrycode": 404,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005065"
+            },
+            {
+                "countryname": "Kazakhstan",
+                "countrycode": 398,
+                "metricName": "Homicide",
+                "MetricValue": 276,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005063"
+            },
+            {
+                "countryname": "Kazakhstan",
+                "countrycode": 398,
+                "metricName": "Homicide",
+                "MetricValue": 990,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001895"
+            },
+            {
+                "countryname": "Jordan",
+                "countrycode": 400,
+                "metricName": "Homicide",
+                "MetricValue": 25,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005064"
+            },
+            {
+                "countryname": "Jordan",
+                "countrycode": 400,
+                "metricName": "Homicide",
+                "MetricValue": 136,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001896"
+            },
+            {
+                "countryname": "Japan",
+                "countrycode": 392,
+                "metricName": "Homicide",
+                "MetricValue": 189,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001894"
+            },
+            {
+                "countryname": "Japan",
+                "countrycode": 392,
+                "metricName": "Homicide",
+                "MetricValue": 240,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005062"
+            },
+            {
+                "countryname": "Japan",
+                "countrycode": 392,
+                "metricName": "HFCs",
+                "MetricValue": 29376.67188,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001817"
+            },
+            {
+                "countryname": "Jamaica",
+                "countrycode": 388,
+                "metricName": "Homicide",
+                "MetricValue": 127,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005061"
+            },
+            {
+                "countryname": "Jamaica",
+                "countrycode": 388,
+                "metricName": "Homicide",
+                "MetricValue": 972,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001893"
+            },
+            {
+                "countryname": "Italy",
+                "countrycode": 380,
+                "metricName": "Homicide",
+                "MetricValue": 162,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005059"
+            },
+            {
+                "countryname": "Italy",
+                "countrycode": 380,
+                "metricName": "Homicide",
+                "MetricValue": 367,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001891"
+            },
+            {
+                "countryname": "Italy",
+                "countrycode": 380,
+                "metricName": "HFCs",
+                "MetricValue": 13596.64941,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001787"
+            },
+            {
+                "countryname": "Israel",
+                "countrycode": 376,
+                "metricName": "Homicide",
+                "MetricValue": 24,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005058"
+            },
+            {
+                "countryname": "Israel",
+                "countrycode": 376,
+                "metricName": "Homicide",
+                "MetricValue": 104,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001890"
+            },
+            {
+                "countryname": "Islamic Rep. of Iran",
+                "countrycode": 364,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005056"
+            },
+            {
+                "countryname": "Islamic Rep. of Iran",
+                "countrycode": 364,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001888"
+            },
+            {
+                "countryname": "Ireland",
+                "countrycode": 372,
+                "metricName": "Homicide",
+                "MetricValue": 12,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005057"
+            },
+            {
+                "countryname": "Ireland",
+                "countrycode": 372,
+                "metricName": "Homicide",
+                "MetricValue": 39,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001889"
+            },
+            {
+                "countryname": "Ireland",
+                "countrycode": 372,
+                "metricName": "HFCs",
+                "MetricValue": 1074.95093,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001757"
+            },
+            {
+                "countryname": "India",
+                "countrycode": 356,
+                "metricName": "Homicide",
+                "MetricValue": 18451,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005055"
+            },
+            {
+                "countryname": "India",
+                "countrycode": 356,
+                "metricName": "Homicide",
+                "MetricValue": 29027,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001887"
+            },
+            {
+                "countryname": "Iceland",
+                "countrycode": 352,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001886"
+            },
+            {
+                "countryname": "Iceland",
+                "countrycode": 352,
+                "metricName": "Homicide",
+                "MetricValue": 1,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005054"
+            },
+            {
+                "countryname": "Iceland",
+                "countrycode": 352,
+                "metricName": "HFCs",
+                "MetricValue": 140.7431,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001727"
+            },
+            {
+                "countryname": "Hungary",
+                "countrycode": 348,
+                "metricName": "Homicide",
+                "MetricValue": 58,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005053"
+            },
+            {
+                "countryname": "Hungary",
+                "countrycode": 348,
+                "metricName": "Homicide",
+                "MetricValue": 66,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001885"
+            },
+            {
+                "countryname": "Hungary",
+                "countrycode": 348,
+                "metricName": "HFCs",
+                "MetricValue": 1458.61377,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001697"
+            },
+            {
+                "countryname": "Hong Kong SAR- China",
+                "countrycode": 344,
+                "metricName": "Homicide",
+                "MetricValue": 12,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005142"
+            },
+            {
+                "countryname": "Hong Kong SAR- China",
+                "countrycode": 344,
+                "metricName": "Homicide",
+                "MetricValue": 15,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001976"
+            },
+            {
+                "countryname": "Honduras",
+                "countrycode": 340,
+                "metricName": "Homicide",
+                "MetricValue": 606,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005052"
+            },
+            {
+                "countryname": "Honduras",
+                "countrycode": 340,
+                "metricName": "Homicide",
+                "MetricValue": 6566,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001884"
+            },
+            {
+                "countryname": "Holy See (the)",
+                "countrycode": 336,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005051"
+            },
+            {
+                "countryname": "Holy See (the)",
+                "countrycode": 336,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001883"
+            },
+            {
+                "countryname": "Haiti",
+                "countrycode": 332,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001882"
+            },
+            {
+                "countryname": "Haiti",
+                "countrycode": 332,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005050"
+            },
+            {
+                "countryname": "Guyana",
+                "countrycode": 328,
+                "metricName": "Homicide",
+                "MetricValue": 27,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005049"
+            },
+            {
+                "countryname": "Guyana",
+                "countrycode": 328,
+                "metricName": "Homicide",
+                "MetricValue": 112,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001881"
+            },
+            {
+                "countryname": "Guatemala",
+                "countrycode": 320,
+                "metricName": "Homicide",
+                "MetricValue": 573,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005048"
+            },
+            {
+                "countryname": "Guatemala",
+                "countrycode": 320,
+                "metricName": "Homicide",
+                "MetricValue": 4582,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001880"
+            },
+            {
+                "countryname": "Guadeloupe",
+                "countrycode": 312,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005047"
+            },
+            {
+                "countryname": "Guadeloupe",
+                "countrycode": 312,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001879"
+            },
+            {
+                "countryname": "Grenada",
+                "countrycode": 308,
+                "metricName": "Homicide",
+                "MetricValue": 5,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005046"
+            },
+            {
+                "countryname": "Grenada",
+                "countrycode": 308,
+                "metricName": "Homicide",
+                "MetricValue": 9,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001878"
+            },
+            {
+                "countryname": "Greece",
+                "countrycode": 300,
+                "metricName": "Homicide",
+                "MetricValue": 39,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005045"
+            },
+            {
+                "countryname": "Greece",
+                "countrycode": 300,
+                "metricName": "Homicide",
+                "MetricValue": 127,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001877"
+            },
+            {
+                "countryname": "Greece",
+                "countrycode": 300,
+                "metricName": "HFCs",
+                "MetricValue": 5153.93115,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001667"
+            },
+            {
+                "countryname": "Germany",
+                "countrycode": 276,
+                "metricName": "Homicide",
+                "MetricValue": 296,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005044"
+            },
+            {
+                "countryname": "Germany",
+                "countrycode": 276,
+                "metricName": "Homicide",
+                "MetricValue": 363,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001876"
+            },
+            {
+                "countryname": "Germany",
+                "countrycode": 276,
+                "metricName": "HFCs",
+                "MetricValue": 10975.41504,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001637"
+            },
+            {
+                "countryname": "Georgia",
+                "countrycode": 268,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001874"
+            },
+            {
+                "countryname": "Georgia",
+                "countrycode": 268,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005042"
+            },
+            {
+                "countryname": "French Guiana",
+                "countrycode": 254,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005041"
+            },
+            {
+                "countryname": "French Guiana",
+                "countrycode": 254,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001873"
+            },
+            {
+                "countryname": "France",
+                "countrycode": 250,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001872"
+            },
+            {
+                "countryname": "France",
+                "countrycode": 250,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005040"
+            },
+            {
+                "countryname": "France",
+                "countrycode": 250,
+                "metricName": "HFCs",
+                "MetricValue": 18496.07617,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001607"
+            },
+            {
+                "countryname": "Finland",
+                "countrycode": 246,
+                "metricName": "Homicide",
+                "MetricValue": 40,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005039"
+            },
+            {
+                "countryname": "Finland",
+                "countrycode": 246,
+                "metricName": "Homicide",
+                "MetricValue": 48,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001871"
+            },
+            {
+                "countryname": "Finland",
+                "countrycode": 246,
+                "metricName": "HFCs",
+                "MetricValue": 1381.77917,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001577"
+            },
+            {
+                "countryname": "Fiji",
+                "countrycode": 242,
+                "metricName": "Homicide",
+                "MetricValue": 7,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005038"
+            },
+            {
+                "countryname": "Fiji",
+                "countrycode": 242,
+                "metricName": "Homicide",
+                "MetricValue": 13,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001870"
+            },
+            {
+                "countryname": "Estonia",
+                "countrycode": 233,
+                "metricName": "Homicide",
+                "MetricValue": 17,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005037"
+            },
+            {
+                "countryname": "Estonia",
+                "countrycode": 233,
+                "metricName": "Homicide",
+                "MetricValue": 46,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001869"
+            },
+            {
+                "countryname": "Estonia",
+                "countrycode": 233,
+                "metricName": "HFCs",
+                "MetricValue": 193.34386,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001549"
+            },
+            {
+                "countryname": "El Salvador",
+                "countrycode": 222,
+                "metricName": "Homicide",
+                "MetricValue": 322,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005036"
+            },
+            {
+                "countryname": "El Salvador",
+                "countrycode": 222,
+                "metricName": "Homicide",
+                "MetricValue": 2272,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001868"
+            },
+            {
+                "countryname": "Egypt",
+                "countrycode": 818,
+                "metricName": "Homicide",
+                "MetricValue": 261,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005135"
+            },
+            {
+                "countryname": "Egypt",
+                "countrycode": 818,
+                "metricName": "Homicide",
+                "MetricValue": 1945,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001969"
+            },
+            {
+                "countryname": "Ecuador",
+                "countrycode": 218,
+                "metricName": "Homicide",
+                "MetricValue": 233,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005035"
+            },
+            {
+                "countryname": "Ecuador",
+                "countrycode": 218,
+                "metricName": "Homicide",
+                "MetricValue": 1690,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001867"
+            },
+            {
+                "countryname": "Dominican Rep.",
+                "countrycode": 214,
+                "metricName": "Homicide",
+                "MetricValue": 201,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005034"
+            },
+            {
+                "countryname": "Dominican Rep.",
+                "countrycode": 214,
+                "metricName": "Homicide",
+                "MetricValue": 2067,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001866"
+            },
+            {
+                "countryname": "Dominica",
+                "countrycode": 212,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001865"
+            },
+            {
+                "countryname": "Dominica",
+                "countrycode": 212,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005033"
+            },
+            {
+                "countryname": "Denmark",
+                "countrycode": 208,
+                "metricName": "Homicide",
+                "MetricValue": 16,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005032"
+            },
+            {
+                "countryname": "Denmark",
+                "countrycode": 208,
+                "metricName": "Homicide",
+                "MetricValue": 31,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001864"
+            },
+            {
+                "countryname": "Denmark",
+                "countrycode": 208,
+                "metricName": "HFCs",
+                "MetricValue": 784.24323,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001521"
+            },
+            {
+                "countryname": "Czechia",
+                "countrycode": 203,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001863"
+            },
+            {
+                "countryname": "Czechia",
+                "countrycode": 203,
+                "metricName": "Homicide",
+                "MetricValue": 48,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005031"
+            },
+            {
+                "countryname": "Czechia",
+                "countrycode": 203,
+                "metricName": "Homicide",
+                "MetricValue": 57,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001862"
+            },
+            {
+                "countryname": "Czechia",
+                "countrycode": 203,
+                "metricName": "HFCs",
+                "MetricValue": 2796.37012,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001496"
+            },
+            {
+                "countryname": "Cyprus",
+                "countrycode": 196,
+                "metricName": "Homicide",
+                "MetricValue": 5,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005030"
+            },
+            {
+                "countryname": "Cyprus",
+                "countrycode": 196,
+                "metricName": "Homicide",
+                "MetricValue": 17,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001861"
+            },
+            {
+                "countryname": "Cyprus",
+                "countrycode": 196,
+                "metricName": "HFCs",
+                "MetricValue": 256.14908,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001468"
+            },
+            {
+                "countryname": "CuraÃ§ao",
+                "countrycode": 531,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005088"
+            },
+            {
+                "countryname": "CuraÃ§ao",
+                "countrycode": 531,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001920"
+            },
+            {
+                "countryname": "Cuba",
+                "countrycode": 192,
+                "metricName": "Homicide",
+                "MetricValue": 138,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005029"
+            },
+            {
+                "countryname": "Cuba",
+                "countrycode": 192,
+                "metricName": "Homicide",
+                "MetricValue": 483,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001860"
+            },
+            {
+                "countryname": "Croatia",
+                "countrycode": 191,
+                "metricName": "Homicide",
+                "MetricValue": 18,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005028"
+            },
+            {
+                "countryname": "Croatia",
+                "countrycode": 191,
+                "metricName": "Homicide",
+                "MetricValue": 33,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001859"
+            },
+            {
+                "countryname": "Croatia",
+                "countrycode": 191,
+                "metricName": "HFCs",
+                "MetricValue": 450.90186,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001443"
+            },
+            {
+                "countryname": "Costa Rica",
+                "countrycode": 188,
+                "metricName": "Homicide",
+                "MetricValue": 50,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005027"
+            },
+            {
+                "countryname": "Costa Rica",
+                "countrycode": 188,
+                "metricName": "Homicide",
+                "MetricValue": 357,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001858"
+            },
+            {
+                "countryname": "Colombia",
+                "countrycode": 170,
+                "metricName": "Homicide",
+                "MetricValue": 1387,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005026"
+            },
+            {
+                "countryname": "Colombia",
+                "countrycode": 170,
+                "metricName": "Homicide",
+                "MetricValue": 15053,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001857"
+            },
+            {
+                "countryname": "Chile",
+                "countrycode": 152,
+                "metricName": "Homicide",
+                "MetricValue": 37,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005025"
+            },
+            {
+                "countryname": "Chile",
+                "countrycode": 152,
+                "metricName": "Homicide",
+                "MetricValue": 397,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001856"
+            },
+            {
+                "countryname": "Cayman Islands",
+                "countrycode": 136,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005023"
+            },
+            {
+                "countryname": "Cayman Islands",
+                "countrycode": 136,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001854"
+            },
+            {
+                "countryname": "Canada",
+                "countrycode": 124,
+                "metricName": "Homicide",
+                "MetricValue": 157,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005021"
+            },
+            {
+                "countryname": "Canada",
+                "countrycode": 124,
+                "metricName": "Homicide",
+                "MetricValue": 391,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001852"
+            },
+            {
+                "countryname": "Canada",
+                "countrycode": 124,
+                "metricName": "HFCs",
+                "MetricValue": 9084.7334,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001415"
+            },
+            {
+                "countryname": "Cameroon",
+                "countrycode": 120,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001851"
+            },
+            {
+                "countryname": "Cameroon",
+                "countrycode": 120,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005020"
+            },
+            {
+                "countryname": "Cabo Verde",
+                "countrycode": 132,
+                "metricName": "Homicide",
+                "MetricValue": 10,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005022"
+            },
+            {
+                "countryname": "Cabo Verde",
+                "countrycode": 132,
+                "metricName": "Homicide",
+                "MetricValue": 45,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001853"
+            },
+            {
+                "countryname": "Burundi",
+                "countrycode": 108,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005018"
+            },
+            {
+                "countryname": "Burundi",
+                "countrycode": 108,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001849"
+            },
+            {
+                "countryname": "Bulgaria",
+                "countrycode": 100,
+                "metricName": "Homicide",
+                "MetricValue": 37,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005016"
+            },
+            {
+                "countryname": "Bulgaria",
+                "countrycode": 100,
+                "metricName": "Homicide",
+                "MetricValue": 104,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001847"
+            },
+            {
+                "countryname": "Bulgaria",
+                "countrycode": 100,
+                "metricName": "HFCs",
+                "MetricValue": 823.14209,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001386"
+            },
+            {
+                "countryname": "Brunei Darussalam",
+                "countrycode": 96,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001846"
+            },
+            {
+                "countryname": "Brunei Darussalam",
+                "countrycode": 96,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005015"
+            },
+            {
+                "countryname": "British Virgin Islands",
+                "countrycode": 92,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005014"
+            },
+            {
+                "countryname": "British Virgin Islands",
+                "countrycode": 92,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001845"
+            },
+            {
+                "countryname": "Brazil",
+                "countrycode": 76,
+                "metricName": "Homicide",
+                "MetricValue": 4719,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005012"
+            },
+            {
+                "countryname": "Brazil",
+                "countrycode": 76,
+                "metricName": "Homicide",
+                "MetricValue": 51544,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001843"
+            },
+            {
+                "countryname": "Bosnia and Herzegovina",
+                "countrycode": 70,
+                "metricName": "Homicide",
+                "MetricValue": 24,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005011"
+            },
+            {
+                "countryname": "Bosnia and Herzegovina",
+                "countrycode": 70,
+                "metricName": "Homicide",
+                "MetricValue": 39,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001842"
+            },
+            {
+                "countryname": "Bolivia (Plurinational State of)",
+                "countrycode": 68,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005010"
+            },
+            {
+                "countryname": "Bolivia (Plurinational State of)",
+                "countrycode": 68,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001841"
+            },
+            {
+                "countryname": "Bhutan",
+                "countrycode": 64,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001840"
+            },
+            {
+                "countryname": "Bhutan",
+                "countrycode": 64,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005009"
+            },
+            {
+                "countryname": "Bermuda",
+                "countrycode": 60,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005008"
+            },
+            {
+                "countryname": "Bermuda",
+                "countrycode": 60,
+                "metricName": "Homicide",
+                "MetricValue": 6,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001839"
+            },
+            {
+                "countryname": "Belize",
+                "countrycode": 84,
+                "metricName": "Homicide",
+                "MetricValue": 14,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005013"
+            },
+            {
+                "countryname": "Belize",
+                "countrycode": 84,
+                "metricName": "Homicide",
+                "MetricValue": 131,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001844"
+            },
+            {
+                "countryname": "Belgium",
+                "countrycode": 56,
+                "metricName": "Homicide",
+                "MetricValue": 77,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005007"
+            },
+            {
+                "countryname": "Belgium",
+                "countrycode": 56,
+                "metricName": "Homicide",
+                "MetricValue": 127,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001838"
+            },
+            {
+                "countryname": "Belgium",
+                "countrycode": 56,
+                "metricName": "HFCs",
+                "MetricValue": 3566.97583,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001358"
+            },
+            {
+                "countryname": "Belarus",
+                "countrycode": 112,
+                "metricName": "Homicide",
+                "MetricValue": 126,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005019"
+            },
+            {
+                "countryname": "Belarus",
+                "countrycode": 112,
+                "metricName": "Homicide",
+                "MetricValue": 214,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001850"
+            },
+            {
+                "countryname": "Barbados",
+                "countrycode": 52,
+                "metricName": "Homicide",
+                "MetricValue": 2,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005006"
+            },
+            {
+                "countryname": "Barbados",
+                "countrycode": 52,
+                "metricName": "Homicide",
+                "MetricValue": 20,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001837"
+            },
+            {
+                "countryname": "Bahrain",
+                "countrycode": 48,
+                "metricName": "Homicide",
+                "MetricValue": 1,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005004"
+            },
+            {
+                "countryname": "Bahrain",
+                "countrycode": 48,
+                "metricName": "Homicide",
+                "MetricValue": 6,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001835"
+            },
+            {
+                "countryname": "Bahamas",
+                "countrycode": 44,
+                "metricName": "Homicide",
+                "MetricValue": 10,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005003"
+            },
+            {
+                "countryname": "Bahamas",
+                "countrycode": 44,
+                "metricName": "Homicide",
+                "MetricValue": 101,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001834"
+            },
+            {
+                "countryname": "Azerbaijan",
+                "countrycode": 31,
+                "metricName": "Homicide",
+                "MetricValue": 58,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000004999"
+            },
+            {
+                "countryname": "Azerbaijan",
+                "countrycode": 31,
+                "metricName": "Homicide",
+                "MetricValue": 144,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001830"
+            },
+            {
+                "countryname": "Austria",
+                "countrycode": 40,
+                "metricName": "Homicide",
+                "MetricValue": 38,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005002"
+            },
+            {
+                "countryname": "Austria",
+                "countrycode": 40,
+                "metricName": "Homicide",
+                "MetricValue": 41,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001833"
+            },
+            {
+                "countryname": "Austria",
+                "countrycode": 40,
+                "metricName": "HFCs",
+                "MetricValue": 1489.93408,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001328"
+            },
+            {
+                "countryname": "Australia",
+                "countrycode": 36,
+                "metricName": "Homicide",
+                "MetricValue": 83,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005001"
+            },
+            {
+                "countryname": "Australia",
+                "countrycode": 36,
+                "metricName": "Homicide",
+                "MetricValue": 160,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001832"
+            },
+            {
+                "countryname": "Australia",
+                "countrycode": 36,
+                "metricName": "HFCs",
+                "MetricValue": 6740.37939,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "T000001298"
+            },
+            {
+                "countryname": "Aruba",
+                "countrycode": 533,
+                "metricName": "Homicide",
+                "MetricValue": 1,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005089"
+            },
+            {
+                "countryname": "Aruba",
+                "countrycode": 533,
+                "metricName": "Homicide",
+                "MetricValue": 3,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001921"
+            },
+            {
+                "countryname": "Armenia",
+                "countrycode": 51,
+                "metricName": "Homicide",
+                "MetricValue": 19,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005005"
+            },
+            {
+                "countryname": "Armenia",
+                "countrycode": 51,
+                "metricName": "Homicide",
+                "MetricValue": 46,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001836"
+            },
+            {
+                "countryname": "Argentina",
+                "countrycode": 32,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005000"
+            },
+            {
+                "countryname": "Argentina",
+                "countrycode": 32,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001831"
+            },
+            {
+                "countryname": "Antigua and Barbuda",
+                "countrycode": 28,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001829"
+            },
+            {
+                "countryname": "Antigua and Barbuda",
+                "countrycode": 28,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000004998"
+            },
+            {
+                "countryname": "Anguilla",
+                "countrycode": 660,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001940"
+            },
+            {
+                "countryname": "Anguilla",
+                "countrycode": 660,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000005107"
+            },
+            {
+                "countryname": "Andorra",
+                "countrycode": 20,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001828"
+            },
+            {
+                "countryname": "Andorra",
+                "countrycode": 20,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000004997"
+            },
+            {
+                "countryname": "Algeria",
+                "countrycode": 12,
+                "metricName": "Homicide",
+                "MetricValue": 52,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000004996"
+            },
+            {
+                "countryname": "Algeria",
+                "countrycode": 12,
+                "metricName": "Homicide",
+                "MetricValue": 195,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001827"
+            },
+            {
+                "countryname": "Albania",
+                "countrycode": 8,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000004995"
+            },
+            {
+                "countryname": "Albania",
+                "countrycode": 8,
+                "metricName": "Homicide",
+                "MetricValue": 26,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000004994"
+            },
+            {
+                "countryname": "Albania",
+                "countrycode": 8,
+                "metricName": "Homicide",
+                "MetricValue": 131,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001826"
+            },
+            {
+                "countryname": "Afghanistan",
+                "countrycode": 4,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000004993"
+            },
+            {
+                "countryname": "Afghanistan",
+                "countrycode": 4,
+                "metricName": "Homicide",
+                "MetricValue": 0,
+                "valueType": "Absolute",
+                "yearReported": 2012,
+                "startAge": 0,
+                "endAge": 130,
+                "gendergroup": "No gender specified",
+                "metricid": "J000001825"
+            }
+        ]
+        }
+      ]
+    }
+  };
 
+  async getAllData(url:String){
+    console.log(url);
+      const data = await this.fetchData(url);
+      this.parseData_newSchema(data);
   }
  
   debounce(cb:any, delay = 700) {
     let timeout:any;
     return (...args:any) => {
-      clearTimeout(timeout)
+      clearTimeout(timeout) 
       timeout = setTimeout(() => {
         cb(...args)
       }, delay)
     }
   } 
 
-  data = {
-    "data": {
-        "version": {
-            "edition": "enterprise",
-            "api": "v2",
-            "schema": 104
-        },
-        "error": false,
-        "message": "",
-        "results": [
+  
+
+  parseData_newSchema(data:any){
+    const dataOBJ:any = {};
+    
+    console.log(data.data.results[0]["@@test_tuple"]);
+
+    data.data.results[0]["@@test_tuple"].forEach((item:any)=>{
+      if(!dataOBJ[`${item.countryname}_${item.yearReported}`]){
+        dataOBJ[`${item.countryname}_${item.yearReported}`] = {
+          country: item.countryname,
+          countryCode: item.countrycode,
+          year: item.yearReported,
+          data: [
             {
-                "@@data_tuple": [
-                    {
-                        "countryname": "Afghanistan",
-                        "value": 20.8
-                    },
-                    {
-                        "countryname": "Albania",
-                        "value": 47.6
-                    },
-                    {
-                        "countryname": "Algeria",
-                        "value": 84.1
-                    },
-                    {
-                        "countryname": "Andorra",
-                        "value": 76.6
-                    },
-                    {
-                        "countryname": "Angola",
-                        "value": 62.2
-                    },
-                    {
-                        "countryname": "Antigua and Barbuda",
-                        "value": 75.4
-                    },
-                    {
-                        "countryname": "Argentina",
-                        "value": 69.2
-                    },
-                    {
-                        "countryname": "Armenia",
-                        "value": 41.9
-                    },
-                    {
-                        "countryname": "Australia",
-                        "value": 66.9
-                    },
-                    {
-                        "countryname": "Austria",
-                        "value": 75.6
-                    },
-                    {
-                        "countryname": "Azerbaijan",
-                        "value": 22.8
-                    },
-                    {
-                        "countryname": "Bahamas",
-                        "value": 46.1
-                    },
-                    {
-                        "countryname": "Bahrain",
-                        "value": 71.9
-                    },
-                    {
-                        "countryname": "Bangladesh",
-                        "value": 34.4
-                    },
-                    {
-                        "countryname": "Barbados",
-                        "value": 65.6
-                    },
-                    {
-                        "countryname": "Belarus",
-                        "value": 77.2
-                    },
-                    {
-                        "countryname": "Belgium",
-                        "value": 75.9
-                    },
-                    {
-                        "countryname": "Belize",
-                        "value": 64.9
-                    },
-                    {
-                        "countryname": "Benin",
-                        "value": 51.5
-                    },
-                    {
-                        "countryname": "Bhutan",
-                        "value": 83.9
-                    },
-                    {
-                        "countryname": "Bolivia (Plurinational State of)",
-                        "value": 71.8
-                    },
-                    {
-                        "countryname": "Bosnia and Herzegovina",
-                        "value": 71.2
-                    },
-                    {
-                        "countryname": "Botswana",
-                        "value": 56.4
-                    },
-                    {
-                        "countryname": "Brazil",
-                        "value": 46.4
-                    },
-                    {
-                        "countryname": "Brunei Darussalam",
-                        "value": 91.8
-                    },
-                    {
-                        "countryname": "Bulgaria",
-                        "value": 56.3
-                    },
-                    {
-                        "countryname": "Burkina Faso",
-                        "value": 54.3
-                    },
-                    {
-                        "countryname": "Burundi",
-                        "value": 59.5
-                    },
-                    {
-                        "countryname": "Cabo Verde",
-                        "value": 77.4
-                    },
-                    {
-                        "countryname": "Cambodia",
-                        "value": 24.7
-                    },
-                    {
-                        "countryname": "Cameroon",
-                        "value": 33.5
-                    },
-                    {
-                        "countryname": "Canada",
-                        "value": 70.1
-                    },
-                    {
-                        "countryname": "Central African Republic",
-                        "value": 49.7
-                    },
-                    {
-                        "countryname": "Chad",
-                        "value": 31.3
-                    },
-                    {
-                        "countryname": "Chile",
-                        "value": 48.6
-                    },
-                    {
-                        "countryname": "China",
-                        "value": 56
-                    },
-                    {
-                        "countryname": "Colombia",
-                        "value": 75.8
-                    },
-                    {
-                        "countryname": "Comoros",
-                        "value": 55.9
-                    },
-                    {
-                        "countryname": "Congo",
-                        "value": 73.9
-                    },
-                    {
-                        "countryname": "Cook Islands",
-                        "value": 91.1
-                    },
-                    {
-                        "countryname": "Costa Rica",
-                        "value": 74.6
-                    },
-                    {
-                        "countryname": "Croatia",
-                        "value": 82.3
-                    },
-                    {
-                        "countryname": "Cuba",
-                        "value": 94.2
-                    },
-                    {
-                        "countryname": "Cyprus",
-                        "value": 43.1
-                    },
-                    {
-                        "countryname": "Czech Republic",
-                        "value": 84.8
-                    },
-                    {
-                        "countryname": "Côte dIvoire",
-                        "value": 27.5
-                    },
-                    {
-                        "countryname": "Democratic Republic of the Congo",
-                        "value": 51.4
-                    },
-                    {
-                        "countryname": "Denmark",
-                        "value": 85.5
-                    },
-                    {
-                        "countryname": "Djibouti",
-                        "value": 59.7
-                    },
-                    {
-                        "countryname": "Dominica",
-                        "value": 72
-                    },
-                    {
-                        "countryname": "Dominican Republic",
-                        "value": 50.9
-                    },
-                    {
-                        "countryname": "Ecuador",
-                        "value": 44.8
-                    },
-                    {
-                        "countryname": "Egypt",
-                        "value": 39
-                    },
-                    {
-                        "countryname": "El Salvador",
-                        "value": 62.8
-                    },
-                    {
-                        "countryname": "Equatorial Guinea",
-                        "value": 54.3
-                    },
-                    {
-                        "countryname": "Eritrea",
-                        "value": 47.5
-                    },
-                    {
-                        "countryname": "Estonia",
-                        "value": 79.9
-                    },
-                    {
-                        "countryname": "Ethiopia",
-                        "value": 48.4
-                    },
-                    {
-                        "countryname": "Ethiopia",
-                        "value": 48.4
-                    },
-                    {
-                        "countryname": "Fiji",
-                        "value": 64.9
-                    },
-                    {
-                        "countryname": "Finland",
-                        "value": 75.4
-                    },
-                    {
-                        "countryname": "France",
-                        "value": 77
-                    },
-                    {
-                        "countryname": "Gabon",
-                        "value": 51.2
-                    },
-                    {
-                        "countryname": "Gambia",
-                        "value": 66
-                    },
-                    {
-                        "countryname": "Georgia",
-                        "value": 18
-                    },
-                    {
-                        "countryname": "Germany",
-                        "value": 76.3
-                    },
-                    {
-                        "countryname": "Ghana",
-                        "value": 57.1
-                    },
-                    {
-                        "countryname": "Greece",
-                        "value": 67.5
-                    },
-                    {
-                        "countryname": "Grenada",
-                        "value": 46.6
-                    },
-                    {
-                        "countryname": "Guatemala",
-                        "value": 39.5
-                    },
-                    {
-                        "countryname": "Guinea",
-                        "value": 28.1
-                    },
-                    {
-                        "countryname": "Guinea-Bissau",
-                        "value": 22.7
-                    },
-                    {
-                        "countryname": "Guyana",
-                        "value": 66.1
-                    },
-                    {
-                        "countryname": "Haiti",
-                        "value": 22.8
-                    },
-                    {
-                        "countryname": "Honduras",
-                        "value": 50.3
-                    },
-                    {
-                        "countryname": "Hungary",
-                        "value": 63.6
-                    },
-                    {
-                        "countryname": "Iceland",
-                        "value": 80.7
-                    },
-                    {
-                        "countryname": "India",
-                        "value": 33.1
-                    },
-                    {
-                        "countryname": "Indonesia",
-                        "value": 39.6
-                    },
-                    {
-                        "countryname": "Iran (Islamic Republic of)",
-                        "value": 40.4
-                    },
-                    {
-                        "countryname": "Iraq",
-                        "value": 53.6
-                    },
-                    {
-                        "countryname": "Ireland",
-                        "value": 64.5
-                    },
-                    {
-                        "countryname": "Israel",
-                        "value": 61.7
-                    },
-                    {
-                        "countryname": "Italy",
-                        "value": 78.2
-                    },
-                    {
-                        "countryname": "Jamaica",
-                        "value": 54.9
-                    },
-                    {
-                        "countryname": "Japan",
-                        "value": 82.5
-                    },
-                    {
-                        "countryname": "Jordan",
-                        "value": 63.1
-                    },
-                    {
-                        "countryname": "Kazakhstan",
-                        "value": 57.8
-                    },
-                    {
-                        "countryname": "Kenya",
-                        "value": 38.1
-                    },
-                    {
-                        "countryname": "Kiribati",
-                        "value": 82.6
-                    },
-                    {
-                        "countryname": "Kuwait",
-                        "value": 82.5
-                    },
-                    {
-                        "countryname": "Kyrgyzstan",
-                        "value": 60.1
-                    },
-                    {
-                        "countryname": "Lao Peoples Democratic Republic",
-                        "value": 51.2
-                    },
-                    {
-                        "countryname": "Latvia",
-                        "value": 56.7
-                    },
-                    {
-                        "countryname": "Lebanon",
-                        "value": 37.9
-                    },
-                    {
-                        "countryname": "Lesotho",
-                        "value": 78.6
-                    },
-                    {
-                        "countryname": "Liberia",
-                        "value": 29.8
-                    },
-                    {
-                        "countryname": "Libya",
-                        "value": 77.3
-                    },
-                    {
-                        "countryname": "Lithuania",
-                        "value": 70.8
-                    },
-                    {
-                        "countryname": "Luxembourg",
-                        "value": 84.5
-                    },
-                    {
-                        "countryname": "Madagascar",
-                        "value": 60.8
-                    },
-                    {
-                        "countryname": "Malawi",
-                        "value": 76.5
-                    },
-                    {
-                        "countryname": "Malaysia",
-                        "value": 55
-                    },
-                    {
-                        "countryname": "Maldives",
-                        "value": 45.3
-                    },
-                    {
-                        "countryname": "Mali",
-                        "value": 39
-                    },
-                    {
-                        "countryname": "Malta",
-                        "value": 65.6
-                    },
-                    {
-                        "countryname": "Marshall Islands",
-                        "value": 82.6
-                    },
-                    {
-                        "countryname": "Mauritania",
-                        "value": 63.9
-                    },
-                    {
-                        "countryname": "Mauritius",
-                        "value": 48.9
-                    },
-                    {
-                        "countryname": "Mexico",
-                        "value": 51.8
-                    },
-                    {
-                        "countryname": "Micronesia (Federated States of)",
-                        "value": 90.3
-                    },
-                    {
-                        "countryname": "Monaco",
-                        "value": 88.6
-                    },
-                    {
-                        "countryname": "Mongolia",
-                        "value": 62.8
-                    },
-                    {
-                        "countryname": "Montenegro",
-                        "value": 59.7
-                    },
-                    {
-                        "countryname": "Morocco",
-                        "value": 33.5
-                    },
-                    {
-                        "countryname": "Mozambique",
-                        "value": 44.3
-                    },
-                    {
-                        "countryname": "Myanmar",
-                        "value": 23.9
-                    },
-                    {
-                        "countryname": "Namibia",
-                        "value": 61.7
-                    },
-                    {
-                        "countryname": "Nauru",
-                        "value": 87.2
-                    },
-                    {
-                        "countryname": "Nepal",
-                        "value": 39.5
-                    },
-                    {
-                        "countryname": "Netherlands",
-                        "value": 79.8
-                    },
-                    {
-                        "countryname": "New Zealand",
-                        "value": 82.7
-                    },
-                    {
-                        "countryname": "Nicaragua",
-                        "value": 54.3
-                    },
-                    {
-                        "countryname": "Niger",
-                        "value": 39.7
-                    },
-                    {
-                        "countryname": "Nigeria",
-                        "value": 31.2
-                    },
-                    {
-                        "countryname": "Niue",
-                        "value": 98.2
-                    },
-                    {
-                        "countryname": "Norway",
-                        "value": 85.1
-                    },
-                    {
-                        "countryname": "Oman",
-                        "value": 80.4
-                    },
-                    {
-                        "countryname": "Pakistan",
-                        "value": 31.4
-                    },
-                    {
-                        "countryname": "Palau",
-                        "value": 77.1
-                    },
-                    {
-                        "countryname": "Panama",
-                        "value": 68.6
-                    },
-                    {
-                        "countryname": "Panama",
-                        "value": 68.6
-                    },
-                    {
-                        "countryname": "Papua New Guinea",
-                        "value": 83.1
-                    },
-                    {
-                        "countryname": "Paraguay",
-                        "value": 42
-                    },
-                    {
-                        "countryname": "Peru",
-                        "value": 58.9
-                    },
-                    {
-                        "countryname": "Philippines",
-                        "value": 37.7
-                    },
-                    {
-                        "countryname": "Poland",
-                        "value": 70.1
-                    },
-                    {
-                        "countryname": "Portugal",
-                        "value": 62.6
-                    },
-                    {
-                        "countryname": "Qatar",
-                        "value": 83.6
-                    },
-                    {
-                        "countryname": "Republic of Korea",
-                        "value": 54.4
-                    },
-                    {
-                        "countryname": "Republic of Moldova",
-                        "value": 45.5
-                    },
-                    {
-                        "countryname": "Romania",
-                        "value": 77.7
-                    },
-                    {
-                        "countryname": "Russian Federation",
-                        "value": 61
-                    },
-                    {
-                        "countryname": "Rwanda",
-                        "value": 57.3
-                    },
-                    {
-                        "countryname": "Saint Kitts and Nevis",
-                        "value": 39.3
-                    },
-                    {
-                        "countryname": "Saint Lucia",
-                        "value": 55.2
-                    },
-                    {
-                        "countryname": "Saint Vincent and the Grenadines",
-                        "value": 82.1
-                    },
-                    {
-                        "countryname": "Samoa",
-                        "value": 88.3
-                    },
-                    {
-                        "countryname": "San Marino",
-                        "value": 87.2
-                    },
-                    {
-                        "countryname": "Sao Tome and Principe",
-                        "value": 31.7
-                    },
-                    {
-                        "countryname": "Saudi Arabia",
-                        "value": 65.8
-                    },
-                    {
-                        "countryname": "Senegal",
-                        "value": 55.9
-                    },
-                    {
-                        "countryname": "Serbia",
-                        "value": 61.2
-                    },
-                    {
-                        "countryname": "Seychelles",
-                        "value": 93.3
-                    },
-                    {
-                        "countryname": "Sierra Leone",
-                        "value": 16.6
-                    },
-                    {
-                        "countryname": "Singapore",
-                        "value": 37.6
-                    },
-                    {
-                        "countryname": "Slovakia",
-                        "value": 70.5
-                    },
-                    {
-                        "countryname": "Slovenia",
-                        "value": 73.3
-                    },
-                    {
-                        "countryname": "Solomon Islands",
-                        "value": 96.2
-                    },
-                    {
-                        "countryname": "South Africa",
-                        "value": 47.9
-                    },
-                    {
-                        "countryname": "South Sudan",
-                        "value": 38.7
-                    },
-                    {
-                        "countryname": "Spain",
-                        "value": 73.6
-                    },
-                    {
-                        "countryname": "Sri Lanka",
-                        "value": 39.8
-                    },
-                    {
-                        "countryname": "Sudan",
-                        "value": 23.4
-                    },
-                    {
-                        "countryname": "Sudan",
-                        "value": 23.4
-                    },
-                    {
-                        "countryname": "Suriname",
-                        "value": 57
-                    },
-                    {
-                        "countryname": "Swaziland",
-                        "value": 74.1
-                    },
-                    {
-                        "countryname": "Sweden",
-                        "value": 81.7
-                    },
-                    {
-                        "countryname": "Switzerland",
-                        "value": 61.7
-                    },
-                    {
-                        "countryname": "Syrian Arab Republic",
-                        "value": 46.1
-                    },
-                    {
-                        "countryname": "Tajikistan",
-                        "value": 29.7
-                    },
-                    {
-                        "countryname": "Thailand",
-                        "value": 76.4
-                    },
-                    {
-                        "countryname": "The former Yugoslav Republic of Macedonia",
-                        "value": 64.1
-                    },
-                    {
-                        "countryname": "Timor-Leste",
-                        "value": 73.8
-                    },
-                    {
-                        "countryname": "Togo",
-                        "value": 51.4
-                    },
-                    {
-                        "countryname": "Tonga",
-                        "value": 84
-                    },
-                    {
-                        "countryname": "Trinidad and Tobago",
-                        "value": 50.4
-                    },
-                    {
-                        "countryname": "Tunisia",
-                        "value": 59
-                    },
-                    {
-                        "countryname": "Turkey",
-                        "value": 73.9
-                    },
-                    {
-                        "countryname": "Turkmenistan",
-                        "value": 63.2
-                    },
-                    {
-                        "countryname": "Tuvalu",
-                        "value": 99.9
-                    },
-                    {
-                        "countryname": "Uganda",
-                        "value": 23.9
-                    },
-                    {
-                        "countryname": "Ukraine",
-                        "value": 54.9
-                    },
-                    {
-                        "countryname": "United Arab Emirates",
-                        "value": 67.7
-                    },
-                    {
-                        "countryname": "United Kingdom",
-                        "value": 82.5
-                    },
-                    {
-                        "countryname": "United Republic of Tanzania",
-                        "value": 39.3
-                    },
-                    {
-                        "countryname": "United States of America",
-                        "value": 46.4
-                    },
-                    {
-                        "countryname": "Uruguay",
-                        "value": 67.9
-                    },
-                    {
-                        "countryname": "Uzbekistan",
-                        "value": 53.1
-                    },
-                    {
-                        "countryname": "Vanuatu",
-                        "value": 86.6
-                    },
-                    {
-                        "countryname": "Venezuela (Bolivarian Republic of)",
-                        "value": 33.7
-                    },
-                    {
-                        "countryname": "Viet Nam",
-                        "value": 42.6
-                    },
-                    {
-                        "countryname": "Yemen",
-                        "value": 27.4
-                    },
-                    {
-                        "countryname": "Yemen",
-                        "value": 27.4
-                    },
-                    {
-                        "countryname": "Zambia",
-                        "value": 64.1
-                    }
-                ]
-            },
-            {
-                "@@data_tuple2": [
-                    {
-                        "countryname": "Afghanistan",
-                        "value": 7.1
-                    },
-                    {
-                        "countryname": "Albania",
-                        "value": 9.9
-                    },
-                    {
-                        "countryname": "Algeria",
-                        "value": 9.8
-                    },
-                    {
-                        "countryname": "Angola",
-                        "value": 5.6
-                    },
-                    {
-                        "countryname": "Antigua and Barbuda",
-                        "value": 17.8
-                    },
-                    {
-                        "countryname": "Argentina",
-                        "value": 22.5
-                    },
-                    {
-                        "countryname": "Armenia",
-                        "value": 7.9
-                    },
-                    {
-                        "countryname": "Australia",
-                        "value": 17.8
-                    },
-                    {
-                        "countryname": "Austria",
-                        "value": 16.9
-                    },
-                    {
-                        "countryname": "Azerbaijan",
-                        "value": 3.9
-                    },
-                    {
-                        "countryname": "Bahamas",
-                        "value": 15.7
-                    },
-                    {
-                        "countryname": "Bahrain",
-                        "value": 9.6
-                    },
-                    {
-                        "countryname": "Bangladesh",
-                        "value": 7.7
-                    },
-                    {
-                        "countryname": "Barbados",
-                        "value": 9.9
-                    },
-                    {
-                        "countryname": "Belarus",
-                        "value": 13.2
-                    },
-                    {
-                        "countryname": "Belgium",
-                        "value": 15
-                    },
-                    {
-                        "countryname": "Belize",
-                        "value": 12.1
-                    },
-                    {
-                        "countryname": "Benin",
-                        "value": 10.3
-                    },
-                    {
-                        "countryname": "Bhutan",
-                        "value": 7
-                    },
-                    {
-                        "countryname": "Bolivia (Plurinational State of)",
-                        "value": 9.5
-                    },
-                    {
-                        "countryname": "Bosnia and Herzegovina",
-                        "value": 16.6
-                    },
-                    {
-                        "countryname": "Botswana",
-                        "value": 8.1
-                    },
-                    {
-                        "countryname": "Brazil",
-                        "value": 7.6
-                    },
-                    {
-                        "countryname": "Brunei Darussalam",
-                        "value": 6
-                    },
-                    {
-                        "countryname": "Bulgaria",
-                        "value": 11.8
-                    },
-                    {
-                        "countryname": "Burkina Faso",
-                        "value": 11.9
-                    },
-                    {
-                        "countryname": "Burundi",
-                        "value": 13.7
-                    },
-                    {
-                        "countryname": "Cabo Verde",
-                        "value": 8.8
-                    },
-                    {
-                        "countryname": "Cambodia",
-                        "value": 6.7
-                    },
-                    {
-                        "countryname": "Cameroon",
-                        "value": 8.5
-                    },
-                    {
-                        "countryname": "Canada",
-                        "value": 17.4
-                    },
-                    {
-                        "countryname": "Central African Republic",
-                        "value": 11.2
-                    },
-                    {
-                        "countryname": "Chad",
-                        "value": 3.3
-                    },
-                    {
-                        "countryname": "Chile",
-                        "value": 15.2
-                    },
-                    {
-                        "countryname": "China",
-                        "value": 12.5
-                    },
-                    {
-                        "countryname": "Colombia",
-                        "value": 18.5
-                    },
-                    {
-                        "countryname": "Comoros",
-                        "value": 9.9
-                    },
-                    {
-                        "countryname": "Congo",
-                        "value": 6.5
-                    },
-                    {
-                        "countryname": "Cook Islands",
-                        "value": 9.6
-                    },
-                    {
-                        "countryname": "Costa Rica",
-                        "value": 27.7
-                    },
-                    {
-                        "countryname": "Croatia",
-                        "value": 15.1
-                    },
-                    {
-                        "countryname": "Cuba",
-                        "value": 11.6
-                    },
-                    {
-                        "countryname": "Cyprus",
-                        "value": 6.9
-                    },
-                    {
-                        "countryname": "Czech Republic",
-                        "value": 14.6
-                    },
-                    {
-                        "countryname": "Côte dIvoire",
-                        "value": 8
-                    },
-                    {
-                        "countryname": "Democratic Republic of the Congo",
-                        "value": 12.8
-                    },
-                    {
-                        "countryname": "Denmark",
-                        "value": 16.1
-                    },
-                    {
-                        "countryname": "Djibouti",
-                        "value": 14.1
-                    },
-                    {
-                        "countryname": "Dominica",
-                        "value": 10.5
-                    },
-                    {
-                        "countryname": "Dominican Republic",
-                        "value": 14.3
-                    },
-                    {
-                        "countryname": "Ecuador",
-                        "value": 7.1
-                    },
-                    {
-                        "countryname": "Egypt",
-                        "value": 5.9
-                    },
-                    {
-                        "countryname": "El Salvador",
-                        "value": 15.5
-                    },
-                    {
-                        "countryname": "Equatorial Guinea",
-                        "value": 7
-                    },
-                    {
-                        "countryname": "Eritrea",
-                        "value": 3.6
-                    },
-                    {
-                        "countryname": "Estonia",
-                        "value": 11.7
-                    },
-                    {
-                        "countryname": "Ethiopia",
-                        "value": 11.1
-                    },
-                    {
-                        "countryname": "Ethiopia",
-                        "value": 11.1
-                    },
-                    {
-                        "countryname": "Fiji",
-                        "value": 8.9
-                    },
-                    {
-                        "countryname": "Finland",
-                        "value": 12.3
-                    },
-                    {
-                        "countryname": "France",
-                        "value": 15.9
-                    },
-                    {
-                        "countryname": "Gabon",
-                        "value": 7.2
-                    },
-                    {
-                        "countryname": "Gambia",
-                        "value": 11.2
-                    },
-                    {
-                        "countryname": "Georgia",
-                        "value": 5.2
-                    },
-                    {
-                        "countryname": "Germany",
-                        "value": 19.1
-                    },
-                    {
-                        "countryname": "Ghana",
-                        "value": 9.7
-                    },
-                    {
-                        "countryname": "Greece",
-                        "value": 11.4
-                    },
-                    {
-                        "countryname": "Grenada",
-                        "value": 9
-                    },
-                    {
-                        "countryname": "Guatemala",
-                        "value": 19.5
-                    },
-                    {
-                        "countryname": "Guinea",
-                        "value": 6.8
-                    },
-                    {
-                        "countryname": "Guinea-Bissau",
-                        "value": 7.8
-                    },
-                    {
-                        "countryname": "Guyana",
-                        "value": 13.1
-                    },
-                    {
-                        "countryname": "Haiti",
-                        "value": 5.5
-                    },
-                    {
-                        "countryname": "Honduras",
-                        "value": 11.8
-                    },
-                    {
-                        "countryname": "Hungary",
-                        "value": 10.3
-                    },
-                    {
-                        "countryname": "Iceland",
-                        "value": 15.7
-                    },
-                    {
-                        "countryname": "India",
-                        "value": 9.4
-                    },
-                    {
-                        "countryname": "Indonesia",
-                        "value": 6.9
-                    },
-                    {
-                        "countryname": "Iran (Islamic Republic of)",
-                        "value": 15.4
-                    },
-                    {
-                        "countryname": "Iraq",
-                        "value": 4.4
-                    },
-                    {
-                        "countryname": "Ireland",
-                        "value": 12.4
-                    },
-                    {
-                        "countryname": "Israel",
-                        "value": 10.4
-                    },
-                    {
-                        "countryname": "Italy",
-                        "value": 14.2
-                    },
-                    {
-                        "countryname": "Jamaica",
-                        "value": 10.7
-                    },
-                    {
-                        "countryname": "Japan",
-                        "value": 19.4
-                    },
-                    {
-                        "countryname": "Jordan",
-                        "value": 17.8
-                    },
-                    {
-                        "countryname": "Kazakhstan",
-                        "value": 10.9
-                    },
-                    {
-                        "countryname": "Kenya",
-                        "value": 5.9
-                    },
-                    {
-                        "countryname": "Kiribati",
-                        "value": 10.3
-                    },
-                    {
-                        "countryname": "Kuwait",
-                        "value": 5.6
-                    },
-                    {
-                        "countryname": "Kyrgyzstan",
-                        "value": 12.2
-                    },
-                    {
-                        "countryname": "Lao Peoples Democratic Republic",
-                        "value": 6.1
-                    },
-                    {
-                        "countryname": "Latvia",
-                        "value": 8.9
-                    },
-                    {
-                        "countryname": "Lebanon",
-                        "value": 8.9
-                    },
-                    {
-                        "countryname": "Lesotho",
-                        "value": 14.5
-                    },
-                    {
-                        "countryname": "Liberia",
-                        "value": 19.2
-                    },
-                    {
-                        "countryname": "Libya",
-                        "value": 6.9
-                    },
-                    {
-                        "countryname": "Lithuania",
-                        "value": 12.7
-                    },
-                    {
-                        "countryname": "Luxembourg",
-                        "value": 13.5
-                    },
-                    {
-                        "countryname": "Madagascar",
-                        "value": 12.8
-                    },
-                    {
-                        "countryname": "Malawi",
-                        "value": 17.8
-                    },
-                    {
-                        "countryname": "Malaysia",
-                        "value": 6.2
-                    },
-                    {
-                        "countryname": "Maldives",
-                        "value": 9.3
-                    },
-                    {
-                        "countryname": "Mali",
-                        "value": 12.5
-                    },
-                    {
-                        "countryname": "Malta",
-                        "value": 13.3
-                    },
-                    {
-                        "countryname": "Marshall Islands",
-                        "value": 24.4
-                    },
-                    {
-                        "countryname": "Mauritania",
-                        "value": 9.9
-                    },
-                    {
-                        "countryname": "Mauritius",
-                        "value": 10.1
-                    },
-                    {
-                        "countryname": "Mexico",
-                        "value": 15.8
-                    },
-                    {
-                        "countryname": "Micronesia (Federated States of)",
-                        "value": 18
-                    },
-                    {
-                        "countryname": "Monaco",
-                        "value": 18.8
-                    },
-                    {
-                        "countryname": "Mongolia",
-                        "value": 9
-                    },
-                    {
-                        "countryname": "Montenegro",
-                        "value": 10
-                    },
-                    {
-                        "countryname": "Morocco",
-                        "value": 6
-                    },
-                    {
-                        "countryname": "Mozambique",
-                        "value": 8.8
-                    },
-                    {
-                        "countryname": "Myanmar",
-                        "value": 1.5
-                    },
-                    {
-                        "countryname": "Namibia",
-                        "value": 13.9
-                    },
-                    {
-                        "countryname": "Nauru",
-                        "value": 11.5
-                    },
-                    {
-                        "countryname": "Nepal",
-                        "value": 10.4
-                    },
-                    {
-                        "countryname": "Netherlands",
-                        "value": 19.7
-                    },
-                    {
-                        "countryname": "New Zealand",
-                        "value": 20.3
-                    },
-                    {
-                        "countryname": "Nicaragua",
-                        "value": 19.7
-                    },
-                    {
-                        "countryname": "Niger",
-                        "value": 10.3
-                    },
-                    {
-                        "countryname": "Nigeria",
-                        "value": 6.7
-                    },
-                    {
-                        "countryname": "Niue",
-                        "value": 5
-                    },
-                    {
-                        "countryname": "Norway",
-                        "value": 17.8
-                    },
-                    {
-                        "countryname": "Oman",
-                        "value": 5.5
-                    },
-                    {
-                        "countryname": "Pakistan",
-                        "value": 4.7
-                    },
-                    {
-                        "countryname": "Palau",
-                        "value": 16.4
-                    },
-                    {
-                        "countryname": "Panama",
-                        "value": 12.7
-                    },
-                    {
-                        "countryname": "Panama",
-                        "value": 12.7
-                    },
-                    {
-                        "countryname": "Papua New Guinea",
-                        "value": 14
-                    },
-                    {
-                        "countryname": "Paraguay",
-                        "value": 11.2
-                    },
-                    {
-                        "countryname": "Peru",
-                        "value": 18.3
-                    },
-                    {
-                        "countryname": "Philippines",
-                        "value": 10.3
-                    },
-                    {
-                        "countryname": "Poland",
-                        "value": 11.1
-                    },
-                    {
-                        "countryname": "Portugal",
-                        "value": 12.5
-                    },
-                    {
-                        "countryname": "Qatar",
-                        "value": 5.3
-                    },
-                    {
-                        "countryname": "Republic of Korea",
-                        "value": 13.6
-                    },
-                    {
-                        "countryname": "Republic of Moldova",
-                        "value": 13.3
-                    },
-                    {
-                        "countryname": "Romania",
-                        "value": 11.3
-                    },
-                    {
-                        "countryname": "Russian Federation",
-                        "value": 10.3
-                    },
-                    {
-                        "countryname": "Rwanda",
-                        "value": 22.1
-                    },
-                    {
-                        "countryname": "Saint Kitts and Nevis",
-                        "value": 7.1
-                    },
-                    {
-                        "countryname": "Saint Lucia",
-                        "value": 10.3
-                    },
-                    {
-                        "countryname": "Saint Vincent and the Grenadines",
-                        "value": 12.5
-                    },
-                    {
-                        "countryname": "Samoa",
-                        "value": 13.5
-                    },
-                    {
-                        "countryname": "San Marino",
-                        "value": 13.1
-                    },
-                    {
-                        "countryname": "Sao Tome and Principe",
-                        "value": 5.6
-                    },
-                    {
-                        "countryname": "Saudi Arabia",
-                        "value": 5.7
-                    },
-                    {
-                        "countryname": "Senegal",
-                        "value": 9.6
-                    },
-                    {
-                        "countryname": "Serbia",
-                        "value": 13.4
-                    },
-                    {
-                        "countryname": "Seychelles",
-                        "value": 10.8
-                    },
-                    {
-                        "countryname": "Sierra Leone",
-                        "value": 12.3
-                    },
-                    {
-                        "countryname": "Singapore",
-                        "value": 11.4
-                    },
-                    {
-                        "countryname": "Slovakia",
-                        "value": 14.7
-                    },
-                    {
-                        "countryname": "Slovenia",
-                        "value": 13.1
-                    },
-                    {
-                        "countryname": "Solomon Islands",
-                        "value": 19.9
-                    },
-                    {
-                        "countryname": "South Africa",
-                        "value": 12.9
-                    },
-                    {
-                        "countryname": "South Sudan",
-                        "value": 4
-                    },
-                    {
-                        "countryname": "Spain",
-                        "value": 15
-                    },
-                    {
-                        "countryname": "Sri Lanka",
-                        "value": 6.4
-                    },
-                    {
-                        "countryname": "Sudan",
-                        "value": 10.7
-                    },
-                    {
-                        "countryname": "Sudan",
-                        "value": 10.7
-                    },
-                    {
-                        "countryname": "Suriname",
-                        "value": 11.9
-                    },
-                    {
-                        "countryname": "Swaziland",
-                        "value": 18.1
-                    },
-                    {
-                        "countryname": "Sweden",
-                        "value": 15.1
-                    },
-                    {
-                        "countryname": "Switzerland",
-                        "value": 20.6
-                    },
-                    {
-                        "countryname": "Syrian Arab Republic",
-                        "value": 5.6
-                    },
-                    {
-                        "countryname": "Tajikistan",
-                        "value": 6.8
-                    },
-                    {
-                        "countryname": "Thailand",
-                        "value": 14.2
-                    },
-                    {
-                        "countryname": "The former Yugoslav Republic of Macedonia",
-                        "value": 13.6
-                    },
-                    {
-                        "countryname": "Timor-Leste",
-                        "value": 2.6
-                    },
-                    {
-                        "countryname": "Togo",
-                        "value": 15.4
-                    },
-                    {
-                        "countryname": "Tonga",
-                        "value": 12.8
-                    },
-                    {
-                        "countryname": "Trinidad and Tobago",
-                        "value": 7.6
-                    },
-                    {
-                        "countryname": "Tunisia",
-                        "value": 13.3
-                    },
-                    {
-                        "countryname": "Turkey",
-                        "value": 12.8
-                    },
-                    {
-                        "countryname": "Turkmenistan",
-                        "value": 8.7
-                    },
-                    {
-                        "countryname": "Tuvalu",
-                        "value": 17.9
-                    },
-                    {
-                        "countryname": "Uganda",
-                        "value": 10.2
-                    },
-                    {
-                        "countryname": "Ukraine",
-                        "value": 11.5
-                    },
-                    {
-                        "countryname": "United Arab Emirates",
-                        "value": 9.3
-                    },
-                    {
-                        "countryname": "United Kingdom",
-                        "value": 16.1
-                    },
-                    {
-                        "countryname": "United Republic of Tanzania",
-                        "value": 10.3
-                    },
-                    {
-                        "countryname": "United States of America",
-                        "value": 19.9
-                    },
-                    {
-                        "countryname": "Uruguay",
-                        "value": 0
-                    },
-                    {
-                        "countryname": "Uzbekistan",
-                        "value": 9.7
-                    },
-                    {
-                        "countryname": "Vanuatu",
-                        "value": 13.6
-                    },
-                    {
-                        "countryname": "Venezuela (Bolivarian Republic of)",
-                        "value": 5.5
-                    },
-                    {
-                        "countryname": "Viet Nam",
-                        "value": 9.5
-                    },
-                    {
-                        "countryname": "Yemen",
-                        "value": 4
-                    },
-                    {
-                        "countryname": "Yemen",
-                        "value": 4
-                    },
-                    {
-                        "countryname": "Zambia",
-                        "value": 16.4
-                    }
-                ]
+              metric: item.metricName,
+              value: item.MetricValue,
             }
-        ]
-    },
-    "success": true
-}
+          ]
+        };
 
-parsedData = [];
-  parseData_oldSchema(){
-    const _data:any = {};
-    _data.metric1 = this.data.data.results[0]["@@data_tuple"];
-    _data.metric2 = this.data.data.results[1]["@@data_tuple2"];
-    _data.ObjMetric1 = {};
-    _data.ObjMetric2 = {};
-    _data.metric1.forEach((x:any) => _data.ObjMetric1[x.countryname] = x.value);
-    _data.metric2.forEach((x:any) => _data.ObjMetric2[x.countryname] = x.value);
+        dataOBJ[`${item.countryname}_${item.yearReported}`][item.metricName] = item.MetricValue;
+      } else {
+        dataOBJ[`${item.countryname}_${item.yearReported}`].data.push({
+          metric: item.metricName,
+          value: item.MetricValue,
+        });
+        dataOBJ[`${item.countryname}_${item.yearReported}`][item.metricName] = item.MetricValue;
+      }
+    });
 
-    const finalData:any = [];
-    if(_data.metric1.length > _data.metric2.length){
-      Object.entries(_data.ObjMetric1).forEach(([key,value]):any => {
-        if(_data.ObjMetric2[key]){
-          finalData.push({
-              country: key,
-              metric1: value,
-              metric2: _data.ObjMetric2[key],
-              x: value,
-              y: _data.ObjMetric2[key],
-              year:2015
-            });
-        }
-      });
-    } else {
-
-      Object.entries(_data.ObjMetric2).forEach(([key,value]):any => {
-        if(_data.ObjMetric1[key]){
-          finalData.push({
-              country: key,
-              metric1: _data.ObjMetric1[key],
-              metric2: value,
-              x: _data.ObjMetric1[key],
-              y: value,
-              year:2015
-            });
-        }
-      });
-
-    }
-    this.parsedData = finalData;
-    this.setData(finalData);
+    this.tableData = Object.values(dataOBJ);
+    console.log(this.tableData);
   }
-
 }
