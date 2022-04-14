@@ -1,4 +1,4 @@
-import { Component, Input, OnInit } from '@angular/core';
+import { Component, Input, OnDestroy, OnInit } from '@angular/core';
 import { Chart, registerables} from 'chart.js';
 import { GetDataService } from 'src/app/services/get-data/get-data.service';
 Chart.register(...registerables);
@@ -8,14 +8,18 @@ Chart.register(...registerables);
   templateUrl: './chart.component.html',
   styleUrls: ['./chart.component.scss']
 })
-export class ChartComponent implements OnInit {
+export class ChartComponent implements OnInit, OnDestroy {
   
   @Input() setHeight:string = '100%';
   chart:any;
+  subscription1:any;
   constructor(
     private readonly getData: GetDataService
   ) { }
 
+  ngOnDestroy(){
+    this.subscription1?.unsubscribe();
+  }
   ngOnInit() {
     
     const canvas = <HTMLCanvasElement> document.getElementById('myChart');
@@ -26,19 +30,7 @@ export class ChartComponent implements OnInit {
         datasets: [
           {
           label: 'Metric1 vs Metric2',
-          data: [{
-            x: -10,
-            y: 0
-          }, {
-            x: 0,
-            y: 10
-          }, {
-            x: 10,
-            y: 5
-          }, {
-            x: 0.5,
-            y: 5.5
-          }],
+          data: [],
           backgroundColor: 'rgb(255, 99, 132)'
         }
       ],
@@ -61,27 +53,38 @@ export class ChartComponent implements OnInit {
               }
             }
         },
-        // plugins : { 
-        //   tooltip : { 
-        //   enabled: true,
-        //   callbacks : {
-        //     title: () => 'Metric1 vs Metric2',
-        //     label:(tooltipItem:any, data:any) => {
-        //       console.log(data, tooltipItem['index']);
-        //       return 'test';
-        //     }
-        //   }}
-        // }
       }
     });
 
-    this.getData.getData.subscribe((data:any) =>{
+    this.subscription1 =this.getData.getData.subscribe((data:any) =>{
       if(data){
-        this.chart.data.datasets[0].data = data;
-        this.chart.data.datasets[0].label = '2015';
-        this.chart.data.datasets[0].backgroundColor = 'rgb(255, 99, 132)';
-        this.chart.options.scales.x.title.text = 'Metric1';
-        this.chart.options.scales.y.title.text = 'Metric1';
+        const yearData:any = {};
+        data.tableData.forEach((item:any) => {
+          if(!yearData[item.year]){
+            yearData[item.year] = [];
+          }
+          yearData[item.year].push(item);
+        });
+        const datasets:any = [];
+        Object.keys(yearData).forEach((year:any) => {
+          const data:any = yearData[year];
+          const dataset:any = {
+            label: year,
+            data: data,
+            backgroundColor: this.randomRGB(),
+            parsing : {
+              xAxisKey: this.getData.selectedMetices[0],
+              yAxisKey: this.getData.selectedMetices[1],
+             
+          }
+          };
+          
+          datasets.push(dataset);
+
+        });
+        this.chart.data.datasets = datasets;
+        this.chart.options.scales.x.title.text = this.getData.selectedMetices[0];
+        this.chart.options.scales.y.title.text = this.getData.selectedMetices[1];
         this.chart.options.plugins = { tooltip : { 
           enabled: true,
           callbacks : {
@@ -92,11 +95,8 @@ export class ChartComponent implements OnInit {
               });
              return title.slice(0, -1);
             },
-            // afterTitle: (tooltipItem:any) => {
-            //   return 'Metric1 -- Metric2';
-            // },
             label:(tooltipItem:any) => {
-              return `X : ${tooltipItem.raw.metric1} , Y : ${tooltipItem.raw.metric2}`;
+              return `X : ${tooltipItem.raw[this.getData.selectedMetices[0]]} , Y : ${tooltipItem.raw[this.getData.selectedMetices[1]]}`;
             }
           }}
         };
@@ -104,5 +104,9 @@ export class ChartComponent implements OnInit {
       }
     });
   }
+
+  randomNum = () => Math.floor(Math.random() * (235 - 52 + 1) + 52);
+
+  randomRGB = () => `rgb(${this.randomNum()}, ${this.randomNum()}, ${this.randomNum()})`;
 
 }

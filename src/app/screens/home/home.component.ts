@@ -18,7 +18,7 @@ export class HomeComponent implements OnInit {
   height2 = 'calc(50vh - 40px)';
   activeView:number = 0;
   checked:boolean = false;
-  yearRange: number[] = [2012,2018];
+  yearRange: number[] = this.getData.yearRange;
   maxYear = new Date().getFullYear();
   calculationOptions = [
       {name:'Value'},
@@ -33,7 +33,7 @@ export class HomeComponent implements OnInit {
 }
 
 export(){
-    const fields = Object.keys(this.getData.tableData[0]).filter(x => x !== 'data');
+    const fields = this.getData.tableHeader.map((x:any) => x.name);
     const csv = json2csv.parse(this.getData.tableData, {fields});
     const element = document.createElement('a');
     element.setAttribute('href', 'data:text/plain;charset=utf-8,' + encodeURIComponent(csv));
