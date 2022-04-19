@@ -22,6 +22,7 @@
                 [filter] = "false"
                 optionLabel="name" 
                 styleClass="genderDropdown"
+                (onChange)="updateData()"
                 >
         </p-dropdown>
         <div style="height:10px"></div>
@@ -42,8 +43,21 @@
         [filter] = "false"
         optionLabel="name" 
         styleClass="genderDropdown"
+        (onChange)="updateData()"
         >
-</p-dropdown>
+    </p-dropdown>
+        <div style="height:10px"></div>
+        Refugee Type:
+        <p-dropdown 
+        [options]="refugeeOptions" 
+        [(ngModel)]="refugeeSelection" 
+        defaultLabel="Select Currency" 
+        [filter] = "false"
+        optionLabel="name" 
+        styleClass="genderDropdown"
+        (onChange)="updateData()"
+        >
+    </p-dropdown>
     </div>
     <div class="stats">
         

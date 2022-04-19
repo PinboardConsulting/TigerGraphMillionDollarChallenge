@@ -22,16 +22,22 @@ export class SideMenuComponent implements OnInit {
     {name:'USD'},
     {name:'EUR'},
     {name:'CYN'},
+  ];
+
+  refugeeOptions = [
+    {name: 'Both'},
+    {name: 'Inbound'},
+    {name: 'Outbound'},
   ]
 
   currencySelection:any;
-
+  refugeeSelection:any;
   metricInTreeOptions:any =  [];
 
 
 
   genderSelections:any;
-  metricInTreeSelections:any;
+  metricInTreeSelections:any = [];
 
   ngOnInit(): void {
   this.metricInTreeOptions = this.getData.metricList.map((label:String) => ({label}));
@@ -39,7 +45,10 @@ export class SideMenuComponent implements OnInit {
 
   async updateData(){
     await new Promise(r => setTimeout(r , 100));
-    this.getData.selectedMetices = this.metricInTreeSelections.map((item:any) => item.label);
+    this.getData.selectedMetices = this.metricInTreeSelections?.map((item:any) => item.label);
+    this.getData.selectedGender = this.genderSelections;
+    this.getData.selectedCurrency = this.currencySelection;
+    this.getData.selectedRefugee = this.refugeeSelection;
     // this.getData.loadData();
   }
 

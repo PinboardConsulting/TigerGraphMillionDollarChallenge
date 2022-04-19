@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
 import * as $ from 'jquery';
+import {environment as env } from 'src/environments/environment';
 
 @Injectable({
   providedIn: 'root'
@@ -269,8 +270,9 @@ export class GetDataService {
 tableData:any = [];
 tableHeader:any = [];
 loadCounter = 0;
-currencySelection:any = {name:'Local'};
-genderSelection:any = {name: 'All'};
+selectedGender:any = {name:'Local'};
+selectedCurrency:any = {name: 'All'};
+selectedRefugee:any = {name: 'Both'};
 
 metricList =[
   "Diseases of the circulatory system",
@@ -1100,10 +1102,13 @@ GenderMetrics = [
   selectedMetices = [];
   yearRange = [2012,2013];
 
-  token = "3lgh4lvl86t3etr038720ti11ilsnhak";
-  // token = "7a5jspkahtgg6qdnsefojt5t232afta1";
-  corsBypass = 'https://7aa7-117-216-20-170.in.ngrok.io/request';
-  metricUrl = "https://28544b4eae384c8dabf7ee5d40d80c2f.i.tgcloud.io:14240/restpp/query/UN_Data/generalised_query_main?";
+  token = env.token;
+  corsBypass = env.corsBypass;
+  serverURL = env.serverUrl;
+  generalizedURL = env.generalizedURL;
+  genederURL = env.genederURL;
+  currencyURL =env.currencyURL;
+  RefugeeURL = env.RefugeeURL;
 
   setData(data:any){
     this.Observable_data.next(data);
@@ -1111,23 +1116,53 @@ GenderMetrics = [
 
   loadData =  this.debounce(() => {
     const _country = this.selectedCountries;
-    const _metric  = this.selectedMetices;
-    const _yearList = [];
-    let _url = this.metricUrl;
-    for(let i = this.yearRange[0]; i <= this.yearRange[1]; i++){
-      _yearList.push(i);
-    } 
-    _country.forEach(code => _url = _url + `&country=${code}&country.type=Country`);
-    _metric.forEach(metric => _url = _url + `&mets=${metric}&mets.type=Metric_Type`);
-    _yearList.forEach(year => _url = _url + `&years=${year}`);
-    _url = _url.replace('generalised_query_1?&', 'generalised_query_1?');
+    if(this.selectedMetices.length>0){
+        const _metricGender  = this.selectedMetices.filter(item => this.GenderMetrics.includes(item));
+        const _metricCurrency  = this.selectedMetices.filter(item => this.currencyMetcis.includes(item));
+        const _metricRefugee  = this.selectedMetices.filter(item => this.refugeeMetrics.includes(item));
+        const _metricGeneral  = this.selectedMetices.filter(item => 
+          !_metricGender.includes(item) &&
+          !_metricCurrency.includes(item) &&
+          !_metricRefugee.includes(item)
+        );
+        const _yearList:number[] = [];
+        for(let i = this.yearRange[0]; i <= this.yearRange[1]; i++){
+          _yearList.push(i);
+        } 
+        const _generalURL = this.getGeneralURL(_metricGeneral, this.selectedGender.name);
+        const _currencyURL = this.getCurrencyURL(_metricCurrency , this.selectedCurrency.name);
+        const _refugeeURL = this.getRefugeeURL(_metricRefugee , this.selectedRefugee.name);
+        const _genderURL = this.getGenederURL(_metricGender, this.selectedGender.name);
 
-    if(_metric.length>0){
-      this.getAllData(_url);
+        const validUrls = [];
+        if(_generalURL){
+          validUrls.push(_generalURL);
+        }
+        if(_genderURL){
+          validUrls.push(_genderURL);
+        }
+        if(_currencyURL){
+          validUrls.push(_currencyURL);
+        }
+        if(_refugeeURL){
+          validUrls.push(_refugeeURL);
+        }
+
+        validUrls.forEach((item,i) => {
+          _country.forEach(code => validUrls[i] = item + `&country=${code}&country.type=Country`);
+          _yearList.forEach(year =>  validUrls[i] = item + `&years=${year}`);
+        });
+
+        this.getAllData(validUrls);
+    } else {
+      this.tableData = [];
+      this.tableHeader = [];
+      this.setData({tableData:this.tableData,tableHeader:this.tableHeader});
     }
   });
 
   private async fetchData(url:String, token:String = this.token) {
+    console.log(url);
     $('.loaderWrapper').fadeIn();
     this.loadCounter+=1;
     const data = await (await fetch(this.corsBypass,{
@@ -1145,9 +1180,64 @@ GenderMetrics = [
   }
 
 
-  async getAllData(url:String){
-      const data = await this.fetchData(url);
-      this.parseData_newSchema(data);
+  getGeneralURL(metricList:any , gender:string){
+    if(metricList.length>0){
+        let _url = this.serverURL + this.generalizedURL;
+        metricList.forEach((metric:any) => _url = _url + `&mets=${metric}&mets.type=Metric_Type`);
+        _url = _url.replace('?&', '?');
+        _url = _url + `&gender=${gender}`;
+        return _url;
+    } else {
+      return null;
+    }
+  }
+
+  getRefugeeURL(metricList:any, refugee:string){
+    if(metricList.length>0){
+      let _url = this.serverURL + this.RefugeeURL;
+      metricList.forEach((metric:any) => _url = _url + `&mets=${metric}&mets.type=Metric_Type`);
+      _url = _url.replace('?&', '?');
+      _url = _url + `&direction=${refugee}`;
+      return _url;
+    } else {
+      return null;
+    }
+
+  }
+
+  getCurrencyURL(metricList:any , currency:string){
+    if(metricList.length>0){
+      let _url = this.serverURL + this.currencyURL;
+      metricList.forEach((metric:any) => _url = _url + `&mets=${metric}&mets.type=Metric_Type`);
+      _url = _url.replace('?&', '?');
+      _url = _url + `&convertTo=${currency}`;
+      return _url;
+    } else {
+      return null;
+    }
+
+  }
+
+  getGenederURL(metricList:any,  gender:string){
+
+    if(metricList.length>0){
+      let _url = this.serverURL + this.genederURL;
+      metricList.forEach((metric:any) => _url = _url + `&mets=${metric}&mets.type=Metric_Type`);
+      _url = _url.replace('?&', '?');
+      _url = _url + `&gendertype=${gender}`
+      return _url;
+    } else {
+      return null;
+    }
+  }
+
+  async getAllData(urlList:any){
+    Promise.all(urlList.map((x:string) => this.fetchData(x))).then(data =>{
+      console.log(data);
+      // this.parseData_newSchema(data);
+    });
+     
+
   }
  
   debounce(cb:any, delay = 700) {
