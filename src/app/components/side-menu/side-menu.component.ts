@@ -40,7 +40,7 @@ export class SideMenuComponent implements OnInit {
   async updateData(){
     await new Promise(r => setTimeout(r , 100));
     this.getData.selectedMetices = this.metricInTreeSelections.map((item:any) => item.label);
-    this.getData.loadData();
+    // this.getData.loadData();
   }
 
 }

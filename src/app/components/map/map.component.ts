@@ -162,7 +162,7 @@ export class MapComponent implements OnInit, OnChanges {
       _list.push(this.getData.countryList[x.name_en]);
     });
     this.getData.selectedCountries = _list;
-    this.getData.loadData();
+    // this.getData.loadData();
   }
 
 }

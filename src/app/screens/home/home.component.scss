@@ -193,3 +193,15 @@
     }
 
 }
+.textButton{
+    background-color: #b1d3de;
+    padding: 3px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 4px 1px #85a0aae0;
+    font-weight: bold;
+    transition: 1s;
+    cursor: pointer;
+    &:hover{
+        box-shadow: inset 0px 0px 0px 0px #acccd837;
+    }
+}

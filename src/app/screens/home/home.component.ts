@@ -48,12 +48,16 @@ export(){
 }
 onYearRangeChange(){
    this.getData.yearRange = this.yearRange;
-   this.getData.loadData();
+//    this.getData.loadData();
 }
 
 toggle(index:number){
     this.openTabs[index] = !this.openTabs[index];
     this.updateTabHeight();
+}
+
+fetchData(){
+    this.getData.loadData();
 }
 
 async updateTabHeight(){
