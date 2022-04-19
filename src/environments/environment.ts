@@ -8,7 +8,7 @@ export const environment = {
   generalizedURL : "/restpp/query/UN_Data/generalised_query_main?",
   genederURL : "/restpp/query/UN_Data/gender_test?",
   currencyURL : "/restpp/query/UN_Data/currency_test?",
-  RefugeeURL : "/restpp/query/UN_Data/refugee_test?",
+  RefugeeURL : "/restpp/query/UN_Data/refugees_test?",
 };
 
 

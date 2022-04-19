@@ -1161,17 +1161,41 @@ GenderMetrics = [
     }
   });
 
-  private async fetchData(url:String, token:String = this.token) {
+  private async fetchData(url:string, token:string = this.token) {
     console.log(url);
+
     $('.loaderWrapper').fadeIn();
     this.loadCounter+=1;
-    const data = await (await fetch(this.corsBypass,{
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-      },
-      body:JSON.stringify({ url, token}),
-    })).json();
+    let data;
+    if(env.enableCorsServer){
+      data = await (await fetch(this.corsBypass,{
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body:JSON.stringify({ url, token}),
+      })).json();
+    } else {
+
+      if(env.addToken){
+        data = await (await fetch(url,{
+          method: 'GET',
+          headers: {
+            'Content-Type': 'application/json',
+            'Authorization': `Bearer ${token}`,
+          },
+        })).json();
+      } else {
+        data = await (await fetch(url,{
+          method: 'GET',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+        })).json();
+      }
+     
+    }
+    
     this.loadCounter-=1;
     if(this.loadCounter ==0){
       $('.loaderWrapper').fadeOut();
@@ -1185,7 +1209,7 @@ GenderMetrics = [
         let _url = this.serverURL + this.generalizedURL;
         metricList.forEach((metric:any) => _url = _url + `&mets=${metric}&mets.type=Metric_Type`);
         _url = _url.replace('?&', '?');
-        _url = _url + `&gender=${gender}`;
+        // _url = _url + `&gender=${gender}`;
         return _url;
     } else {
       return null;
@@ -1210,7 +1234,9 @@ GenderMetrics = [
       let _url = this.serverURL + this.currencyURL;
       metricList.forEach((metric:any) => _url = _url + `&mets=${metric}&mets.type=Metric_Type`);
       _url = _url.replace('?&', '?');
-      _url = _url + `&convertTo=${currency}`;
+      if(currency !== 'Local'){
+        _url = _url + `&convertTo=${currency}`;
+      }
       return _url;
     } else {
       return null;
@@ -1232,9 +1258,16 @@ GenderMetrics = [
   }
 
   async getAllData(urlList:any){
-    Promise.all(urlList.map((x:string) => this.fetchData(x))).then(data =>{
-      console.log(data);
-      // this.parseData_newSchema(data);
+    Promise.all(urlList.map((x:string) => this.fetchData(x))).then((data:any) =>{
+      let finalData:any = [];
+      data.forEach((item:any) => {
+        let _data = item?.data?.results[0] || null;
+        if(_data){
+          _data =  _data["@@test_tuple"] || null;
+        }
+        finalData = finalData.concat(_data || []);
+      });
+      this.parseData_newSchema(finalData);
     });
      
 
@@ -1254,7 +1287,7 @@ GenderMetrics = [
 
   parseData_newSchema(data:any){
     const dataOBJ:any = {};
-    data.data.results[0]["@@test_tuple"].forEach((item:any)=>{
+    data.forEach((item:any)=>{
       if(!dataOBJ[`${item.countryname}_${item.yearReported}`]){
         dataOBJ[`${item.countryname}_${item.yearReported}`] = {
           country: item.countryname,
