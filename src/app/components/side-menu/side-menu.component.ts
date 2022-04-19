@@ -18,6 +18,7 @@ export class SideMenuComponent implements OnInit {
   ];
 
   currencyOptions = [
+    {name: 'Local'},
     {name:'USD'},
     {name:'EUR'},
     {name:'CYN'},
