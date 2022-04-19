@@ -1134,7 +1134,7 @@ GenderMetrics = [
         const _refugeeURL = this.getRefugeeURL(_metricRefugee , this.selectedRefugee.name);
         const _genderURL = this.getGenederURL(_metricGender, this.selectedGender.name);
 
-        const validUrls = [];
+        const validUrls:any = [];
         if(_generalURL){
           validUrls.push(_generalURL);
         }
@@ -1148,9 +1148,9 @@ GenderMetrics = [
           validUrls.push(_refugeeURL);
         }
 
-        validUrls.forEach((item,i) => {
-          _country.forEach(code => validUrls[i] = item + `&country=${code}&country.type=Country`);
-          _yearList.forEach(year =>  validUrls[i] = item + `&years=${year}`);
+        validUrls.forEach((item:any,i:number) => {
+          _country.forEach(code => validUrls[i] = validUrls[i] + `&country=${code}&country.type=Country`);
+          _yearList.forEach(year =>  validUrls[i] = validUrls[i] + `&years=${year}`);
         });
 
         this.getAllData(validUrls);
