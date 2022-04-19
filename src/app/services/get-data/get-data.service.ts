@@ -269,6 +269,9 @@ export class GetDataService {
 tableData:any = [];
 tableHeader:any = [];
 loadCounter = 0;
+currencySelection:any = {name:'Local'};
+genderSelection:any = {name: 'All'};
+
 metricList =[
   "Diseases of the circulatory system",
   "Chestnut-Yield",
