@@ -1,0 +1,36 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Australia,2011,0,Plague,Absolute,All,All,PLAGNRC1,0,130,36,No
+1,Cambodia,2011,0,Plague,Absolute,All,All,PLAGNRC2,0,130,116,No
+2,China,2011,1,Plague,Absolute,All,All,PLAGNRC3,0,130,156,No
+3,China,2010,5,Plague,Absolute,All,All,PLAGNRC4,0,130,156,No
+4,Cook Islands,2011,0,Plague,Absolute,All,All,PLAGNRC5,0,130,184,No
+5,Democratic Republic of the Congo,2012,131,Plague,Absolute,All,All,PLAGNRC6,0,130,180,No
+6,Democratic Republic of the Congo,2010,152,Plague,Absolute,All,All,PLAGNRC7,0,130,180,No
+7,Fiji,2011,0,Plague,Absolute,All,All,PLAGNRC8,0,130,242,No
+8,Japan,2011,0,Plague,Absolute,All,All,PLAGNRC9,0,130,392,No
+9,Japan,2011,0,Plague,Absolute,All,All,PLAGNRC9,0,130,392,No
+10,Kiribati,2011,0,Plague,Absolute,All,All,PLAGNRC10,0,130,296,No
+11,Lao Peoples Democratic Republic,2011,0,Plague,Absolute,All,All,PLAGNRC11,0,130,418,No
+12,Madagascar,2012,256,Plague,Absolute,All,All,PLAGNRC12,0,130,450,No
+13,Madagascar,2010,313,Plague,Absolute,All,All,PLAGNRC13,0,130,450,No
+14,Marshall Islands,2011,0,Plague,Absolute,All,All,PLAGNRC14,0,130,584,No
+15,Micronesia (Federated States of),2011,0,Plague,Absolute,All,All,PLAGNRC15,0,130,583,No
+16,Mongolia,2011,1,Plague,Absolute,All,All,PLAGNRC16,0,130,496,No
+17,Nauru,2011,0,Plague,Absolute,All,All,PLAGNRC17,0,130,520,No
+18,New Zealand,2011,0,Plague,Absolute,All,All,PLAGNRC18,0,130,554,No
+19,New Zealand,2011,0,Plague,Absolute,All,All,PLAGNRC18,0,130,554,No
+20,Niue,2011,0,Plague,Absolute,All,All,PLAGNRC19,0,130,570,No
+21,Palau,2011,0,Plague,Absolute,All,All,PLAGNRC20,0,130,585,No
+22,Papua New Guinea,2011,0,Plague,Absolute,All,All,PLAGNRC21,0,130,598,No
+23,Peru,2012,5,Plague,Absolute,All,All,PLAGNRC22,0,130,604,No
+24,Peru,2010,27,Plague,Absolute,All,All,PLAGNRC23,0,130,604,No
+25,Republic of Korea,2011,0,Plague,Absolute,All,All,PLAGNRC24,0,130,410,No
+26,Samoa,2011,0,Plague,Absolute,All,All,PLAGNRC25,0,130,882,No
+27,Solomon Islands,2011,0,Plague,Absolute,All,All,PLAGNRC26,0,130,90,No
+28,Tonga,2011,0,Plague,Absolute,All,All,PLAGNRC27,0,130,776,No
+29,Tuvalu,2011,0,Plague,Absolute,All,All,PLAGNRC28,0,130,798,No
+30,United Republic of Tanzania,2012,7,Plague,Absolute,All,All,PLAGNRC29,0,130,834,No
+31,United Republic of Tanzania,2010,9,Plague,Absolute,All,All,PLAGNRC30,0,130,834,No
+32,United States of America,2012,1,Plague,Absolute,All,All,PLAGNRC31,0,130,840,No
+33,United States of America,2010,1,Plague,Absolute,All,All,PLAGNRC32,0,130,840,No
+34,Vanuatu,2011,0,Plague,Absolute,All,All,PLAGNRC33,0,130,548,No

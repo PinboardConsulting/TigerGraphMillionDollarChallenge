@@ -1,0 +1,1502 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2004,6.3,Overweight Children,Percent,5,Male,OVCH5Y1,5,5,4,No
+1,Afghanistan,2004,4.6,Overweight Children,Percent,5,All,OVCH5Y2,5,5,4,No
+2,Afghanistan,2004,2.6,Overweight Children,Percent,5,Female,OVCH5Y3,5,5,4,No
+3,Afghanistan,1997,6.5,Overweight Children,Percent,5,All,OVCH5Y4,5,5,4,No
+4,Albania,2009,23.4,Overweight Children,Percent,5,All,OVCH5Y5,5,5,8,No
+5,Albania,2009,23.4,Overweight Children,Percent,5,Female,OVCH5Y6,5,5,8,No
+6,Albania,2009,23.3,Overweight Children,Percent,5,Male,OVCH5Y7,5,5,8,No
+7,Albania,2005,25.2,Overweight Children,Percent,5,All,OVCH5Y8,5,5,8,No
+8,Albania,2005,25.1,Overweight Children,Percent,5,Male,OVCH5Y9,5,5,8,No
+9,Albania,2005,25.2,Overweight Children,Percent,5,Female,OVCH5Y10,5,5,8,No
+10,Albania,2000,30.0,Overweight Children,Percent,5,All,OVCH5Y11,5,5,8,No
+11,Albania,2000,29.4,Overweight Children,Percent,5,Male,OVCH5Y12,5,5,8,No
+12,Albania,2000,30.6,Overweight Children,Percent,5,Female,OVCH5Y13,5,5,8,No
+13,Albania,1998,9.5,Overweight Children,Percent,5,All,OVCH5Y14,5,5,8,No
+14,Algeria,2005,13.4,Overweight Children,Percent,5,Male,OVCH5Y15,5,5,12,No
+15,Algeria,2005,12.4,Overweight Children,Percent,5,Female,OVCH5Y16,5,5,12,No
+16,Algeria,2005,12.9,Overweight Children,Percent,5,All,OVCH5Y17,5,5,12,No
+17,Algeria,2002,15.3,Overweight Children,Percent,5,Male,OVCH5Y18,5,5,12,No
+18,Algeria,2002,14.0,Overweight Children,Percent,5,Female,OVCH5Y19,5,5,12,No
+19,Algeria,2002,14.7,Overweight Children,Percent,5,All,OVCH5Y20,5,5,12,No
+20,Algeria,2000,14.1,Overweight Children,Percent,5,Male,OVCH5Y21,5,5,12,No
+21,Algeria,2000,15.4,Overweight Children,Percent,5,Female,OVCH5Y22,5,5,12,No
+22,Algeria,2000,14.7,Overweight Children,Percent,5,All,OVCH5Y23,5,5,12,No
+23,Algeria,1995,13.8,Overweight Children,Percent,5,Male,OVCH5Y24,5,5,12,No
+24,Algeria,1995,12.5,Overweight Children,Percent,5,Female,OVCH5Y25,5,5,12,No
+25,Algeria,1995,13.2,Overweight Children,Percent,5,All,OVCH5Y26,5,5,12,No
+26,Algeria,1992,8.4,Overweight Children,Percent,5,Female,OVCH5Y27,5,5,12,No
+27,Algeria,1992,8.7,Overweight Children,Percent,5,All,OVCH5Y28,5,5,12,No
+28,Algeria,1992,9.0,Overweight Children,Percent,5,Male,OVCH5Y29,5,5,12,No
+29,Angola,1996,2.1,Overweight Children,Percent,5,Male,OVCH5Y30,5,5,24,No
+30,Angola,1996,1.6,Overweight Children,Percent,5,All,OVCH5Y31,5,5,24,No
+31,Angola,1996,1.1,Overweight Children,Percent,5,Female,OVCH5Y32,5,5,24,No
+32,Argentina,2005,10.2,Overweight Children,Percent,5,Male,OVCH5Y33,5,5,32,No
+33,Argentina,2005,9.5,Overweight Children,Percent,5,Female,OVCH5Y34,5,5,32,No
+34,Argentina,2005,9.9,Overweight Children,Percent,5,All,OVCH5Y35,5,5,32,No
+35,Argentina,1996,13.5,Overweight Children,Percent,5,All,OVCH5Y36,5,5,32,No
+36,Argentina,1994,11.1,Overweight Children,Percent,5,All,OVCH5Y37,5,5,32,No
+37,Armenia,2010,18.8,Overweight Children,Percent,5,Male,OVCH5Y38,5,5,51,No
+38,Armenia,2010,16.8,Overweight Children,Percent,5,All,OVCH5Y39,5,5,51,No
+39,Armenia,2010,14.6,Overweight Children,Percent,5,Female,OVCH5Y40,5,5,51,No
+40,Armenia,2005,13.9,Overweight Children,Percent,5,Male,OVCH5Y41,5,5,51,No
+41,Armenia,2005,9.1,Overweight Children,Percent,5,Female,OVCH5Y42,5,5,51,No
+42,Armenia,2005,11.7,Overweight Children,Percent,5,All,OVCH5Y43,5,5,51,No
+43,Armenia,2001,10.9,Overweight Children,Percent,5,Female,OVCH5Y44,5,5,51,No
+44,Armenia,2001,16.0,Overweight Children,Percent,5,All,OVCH5Y45,5,5,51,No
+45,Armenia,2001,19.8,Overweight Children,Percent,5,Male,OVCH5Y46,5,5,51,No
+46,Armenia,1998,10.4,Overweight Children,Percent,5,Male,OVCH5Y47,5,5,51,No
+47,Armenia,1998,11.4,Overweight Children,Percent,5,Female,OVCH5Y48,5,5,51,No
+48,Armenia,1998,10.8,Overweight Children,Percent,5,All,OVCH5Y49,5,5,51,No
+49,Australia,2007,8.0,Overweight Children,Percent,5,All,OVCH5Y50,5,5,36,No
+50,Australia,1996,8.2,Overweight Children,Percent,5,All,OVCH5Y51,5,5,36,No
+51,Azerbaijan,2006,14.9,Overweight Children,Percent,5,Male,OVCH5Y52,5,5,31,No
+52,Azerbaijan,2006,13.9,Overweight Children,Percent,5,All,OVCH5Y53,5,5,31,No
+53,Azerbaijan,2006,12.7,Overweight Children,Percent,5,Female,OVCH5Y54,5,5,31,No
+54,Azerbaijan,2001,4.4,Overweight Children,Percent,5,All,OVCH5Y55,5,5,31,No
+55,Azerbaijan,2000,6.7,Overweight Children,Percent,5,Male,OVCH5Y56,5,5,31,No
+56,Azerbaijan,2000,5.7,Overweight Children,Percent,5,Female,OVCH5Y57,5,5,31,No
+57,Azerbaijan,2000,6.2,Overweight Children,Percent,5,All,OVCH5Y58,5,5,31,No
+58,Azerbaijan,1996,6.1,Overweight Children,Percent,5,All,OVCH5Y59,5,5,31,No
+59,Bahrain,1989,7.5,Overweight Children,Percent,5,All,OVCH5Y60,5,5,48,No
+60,Bangladesh,2011,1.9,Overweight Children,Percent,5,All,OVCH5Y61,5,5,50,No
+61,Bangladesh,2011,1.7,Overweight Children,Percent,5,Male,OVCH5Y62,5,5,50,No
+62,Bangladesh,2011,2.1,Overweight Children,Percent,5,Female,OVCH5Y63,5,5,50,No
+63,Bangladesh,2007,1.2,Overweight Children,Percent,5,Male,OVCH5Y64,5,5,50,No
+64,Bangladesh,2007,1.0,Overweight Children,Percent,5,Female,OVCH5Y65,5,5,50,No
+65,Bangladesh,2007,1.1,Overweight Children,Percent,5,All,OVCH5Y66,5,5,50,No
+66,Bangladesh,2006,0.5,Overweight Children,Percent,5,Female,OVCH5Y67,5,5,50,No
+67,Bangladesh,2006,0.7,Overweight Children,Percent,5,All,OVCH5Y68,5,5,50,No
+68,Bangladesh,2006,0.8,Overweight Children,Percent,5,Male,OVCH5Y69,5,5,50,No
+69,Bangladesh,2005,0.9,Overweight Children,Percent,5,Male,OVCH5Y70,5,5,50,No
+70,Bangladesh,2005,0.9,Overweight Children,Percent,5,All,OVCH5Y71,5,5,50,No
+71,Bangladesh,2005,0.8,Overweight Children,Percent,5,Female,OVCH5Y72,5,5,50,No
+72,Bangladesh,2004,0.9,Overweight Children,Percent,5,Male,OVCH5Y73,5,5,50,No
+73,Bangladesh,2004,1.1,Overweight Children,Percent,5,Female,OVCH5Y74,5,5,50,No
+74,Bangladesh,2004,0.8,Overweight Children,Percent,5,Male,OVCH5Y75,5,5,50,No
+75,Bangladesh,2004,0.9,Overweight Children,Percent,5,All,OVCH5Y76,5,5,50,No
+76,Bangladesh,2004,0.7,Overweight Children,Percent,5,Female,OVCH5Y77,5,5,50,No
+77,Bangladesh,2004,0.8,Overweight Children,Percent,5,All,OVCH5Y78,5,5,50,No
+78,Bangladesh,2003,0.8,Overweight Children,Percent,5,Female,OVCH5Y79,5,5,50,No
+79,Bangladesh,2003,1.0,Overweight Children,Percent,5,Male,OVCH5Y80,5,5,50,No
+80,Bangladesh,2003,0.9,Overweight Children,Percent,5,All,OVCH5Y81,5,5,50,No
+81,Bangladesh,2002,1.0,Overweight Children,Percent,5,Male,OVCH5Y82,5,5,50,No
+82,Bangladesh,2002,0.8,Overweight Children,Percent,5,Female,OVCH5Y83,5,5,50,No
+83,Bangladesh,2002,0.9,Overweight Children,Percent,5,All,OVCH5Y84,5,5,50,No
+84,Bangladesh,2001,0.9,Overweight Children,Percent,5,Male,OVCH5Y85,5,5,50,No
+85,Bangladesh,2001,0.8,Overweight Children,Percent,5,All,OVCH5Y86,5,5,50,No
+86,Bangladesh,2001,0.7,Overweight Children,Percent,5,Female,OVCH5Y87,5,5,50,No
+87,Bangladesh,2000,0.7,Overweight Children,Percent,5,Female,OVCH5Y88,5,5,50,No
+88,Bangladesh,2000,1.0,Overweight Children,Percent,5,Male,OVCH5Y89,5,5,50,No
+89,Bangladesh,2000,0.9,Overweight Children,Percent,5,All,OVCH5Y90,5,5,50,No
+90,Bangladesh,2000,0.8,Overweight Children,Percent,5,Male,OVCH5Y91,5,5,50,No
+91,Bangladesh,2000,0.8,Overweight Children,Percent,5,All,OVCH5Y92,5,5,50,No
+92,Bangladesh,2000,0.8,Overweight Children,Percent,5,Female,OVCH5Y93,5,5,50,No
+93,Bangladesh,1999,0.5,Overweight Children,Percent,5,Female,OVCH5Y94,5,5,50,No
+94,Bangladesh,1999,0.5,Overweight Children,Percent,5,All,OVCH5Y95,5,5,50,No
+95,Bangladesh,1999,0.4,Overweight Children,Percent,5,Male,OVCH5Y96,5,5,50,No
+96,Bangladesh,1998,0.3,Overweight Children,Percent,5,Male,OVCH5Y97,5,5,50,No
+97,Bangladesh,1998,0.2,Overweight Children,Percent,5,All,OVCH5Y98,5,5,50,No
+98,Bangladesh,1998,0.2,Overweight Children,Percent,5,Female,OVCH5Y99,5,5,50,No
+99,Bangladesh,1997,1.4,Overweight Children,Percent,5,Male,OVCH5Y100,5,5,50,No
+100,Bangladesh,1997,2.0,Overweight Children,Percent,5,Female,OVCH5Y101,5,5,50,No
+101,Bangladesh,1997,1.7,Overweight Children,Percent,5,All,OVCH5Y102,5,5,50,No
+102,Bangladesh,1996,0.8,Overweight Children,Percent,5,All,OVCH5Y103,5,5,50,No
+103,Bangladesh,1996,0.3,Overweight Children,Percent,5,Male,OVCH5Y104,5,5,50,No
+104,Bangladesh,1996,0.2,Overweight Children,Percent,5,Female,OVCH5Y105,5,5,50,No
+105,Bangladesh,1996,0.3,Overweight Children,Percent,5,All,OVCH5Y106,5,5,50,No
+106,Bangladesh,1995,0.2,Overweight Children,Percent,5,Female,OVCH5Y107,5,5,50,No
+107,Bangladesh,1995,0.3,Overweight Children,Percent,5,Male,OVCH5Y108,5,5,50,No
+108,Bangladesh,1995,0.2,Overweight Children,Percent,5,All,OVCH5Y109,5,5,50,No
+109,Bangladesh,1994,0.2,Overweight Children,Percent,5,Male,OVCH5Y110,5,5,50,No
+110,Bangladesh,1994,0.2,Overweight Children,Percent,5,Female,OVCH5Y111,5,5,50,No
+111,Bangladesh,1994,0.2,Overweight Children,Percent,5,All,OVCH5Y112,5,5,50,No
+112,Bangladesh,1993,0.4,Overweight Children,Percent,5,Male,OVCH5Y113,5,5,50,No
+113,Bangladesh,1993,0.4,Overweight Children,Percent,5,All,OVCH5Y114,5,5,50,No
+114,Bangladesh,1993,0.3,Overweight Children,Percent,5,Female,OVCH5Y115,5,5,50,No
+115,Bangladesh,1992,0.4,Overweight Children,Percent,5,All,OVCH5Y116,5,5,50,No
+116,Bangladesh,1992,0.3,Overweight Children,Percent,5,Male,OVCH5Y117,5,5,50,No
+117,Bangladesh,1992,0.2,Overweight Children,Percent,5,Female,OVCH5Y118,5,5,50,No
+118,Bangladesh,1992,0.2,Overweight Children,Percent,5,All,OVCH5Y119,5,5,50,No
+119,Bangladesh,1991,0.2,Overweight Children,Percent,5,Female,OVCH5Y120,5,5,50,No
+120,Bangladesh,1991,0.3,Overweight Children,Percent,5,All,OVCH5Y121,5,5,50,No
+121,Bangladesh,1991,0.3,Overweight Children,Percent,5,Male,OVCH5Y122,5,5,50,No
+122,Bangladesh,1990,0.6,Overweight Children,Percent,5,All,OVCH5Y123,5,5,50,No
+123,Bangladesh,1986,0.2,Overweight Children,Percent,5,All,OVCH5Y124,5,5,50,No
+124,Bangladesh,1983,0.2,Overweight Children,Percent,5,All,OVCH5Y125,5,5,50,No
+125,Barbados,1981,5.1,Overweight Children,Percent,5,Male,OVCH5Y126,5,5,52,No
+126,Barbados,1981,5.7,Overweight Children,Percent,5,All,OVCH5Y127,5,5,52,No
+127,Barbados,1981,6.3,Overweight Children,Percent,5,Female,OVCH5Y128,5,5,52,No
+128,Belarus,2005,11.3,Overweight Children,Percent,5,Male,OVCH5Y129,5,5,112,No
+129,Belarus,2005,8.1,Overweight Children,Percent,5,Female,OVCH5Y130,5,5,112,No
+130,Belarus,2005,9.7,Overweight Children,Percent,5,All,OVCH5Y131,5,5,112,No
+131,Belize,2011,8.6,Overweight Children,Percent,5,Male,OVCH5Y132,5,5,84,No
+132,Belize,2011,7.9,Overweight Children,Percent,5,All,OVCH5Y133,5,5,84,No
+133,Belize,2011,7.1,Overweight Children,Percent,5,Female,OVCH5Y134,5,5,84,No
+134,Belize,2006,15.9,Overweight Children,Percent,5,Male,OVCH5Y135,5,5,84,No
+135,Belize,2006,11.8,Overweight Children,Percent,5,Female,OVCH5Y136,5,5,84,No
+136,Belize,2006,13.7,Overweight Children,Percent,5,All,OVCH5Y137,5,5,84,No
+137,Benin,2006,11.3,Overweight Children,Percent,5,Female,OVCH5Y138,5,5,204,No
+138,Benin,2006,11.4,Overweight Children,Percent,5,All,OVCH5Y139,5,5,204,No
+139,Benin,2006,11.6,Overweight Children,Percent,5,Male,OVCH5Y140,5,5,204,No
+140,Benin,2001,3.3,Overweight Children,Percent,5,Male,OVCH5Y141,5,5,204,No
+141,Benin,2001,3.0,Overweight Children,Percent,5,All,OVCH5Y142,5,5,204,No
+142,Benin,2001,2.7,Overweight Children,Percent,5,Female,OVCH5Y143,5,5,204,No
+143,Benin,1996,2.7,Overweight Children,Percent,5,Male,OVCH5Y144,5,5,204,No
+144,Benin,1996,2.2,Overweight Children,Percent,5,Female,OVCH5Y145,5,5,204,No
+145,Benin,1996,2.5,Overweight Children,Percent,5,All,OVCH5Y146,5,5,204,No
+146,Bhutan,2010,7.5,Overweight Children,Percent,5,Male,OVCH5Y147,5,5,64,No
+147,Bhutan,2010,7.6,Overweight Children,Percent,5,All,OVCH5Y148,5,5,64,No
+148,Bhutan,2010,7.6,Overweight Children,Percent,5,Female,OVCH5Y149,5,5,64,No
+149,Bhutan,2008,4.8,Overweight Children,Percent,5,Male,OVCH5Y150,5,5,64,No
+150,Bhutan,2008,4.0,Overweight Children,Percent,5,Female,OVCH5Y151,5,5,64,No
+151,Bhutan,2008,4.4,Overweight Children,Percent,5,All,OVCH5Y152,5,5,64,No
+152,Bhutan,1999,4.6,Overweight Children,Percent,5,Male,OVCH5Y153,5,5,64,No
+153,Bhutan,1999,3.9,Overweight Children,Percent,5,All,OVCH5Y154,5,5,64,No
+154,Bhutan,1999,3.3,Overweight Children,Percent,5,Female,OVCH5Y155,5,5,64,No
+155,Bhutan,1988,3.5,Overweight Children,Percent,5,All,OVCH5Y156,5,5,64,No
+156,Bolivia (Plurinational State of),2008,8.1,Overweight Children,Percent,5,Female,OVCH5Y157,5,5,68,No
+157,Bolivia (Plurinational State of),2008,8.7,Overweight Children,Percent,5,All,OVCH5Y158,5,5,68,No
+158,Bolivia (Plurinational State of),2008,9.2,Overweight Children,Percent,5,Male,OVCH5Y159,5,5,68,No
+159,Bolivia (Plurinational State of),2004,9.1,Overweight Children,Percent,5,Male,OVCH5Y160,5,5,68,No
+160,Bolivia (Plurinational State of),2004,9.3,Overweight Children,Percent,5,Female,OVCH5Y161,5,5,68,No
+161,Bolivia (Plurinational State of),2004,9.2,Overweight Children,Percent,5,All,OVCH5Y162,5,5,68,No
+162,Bolivia (Plurinational State of),1998,9.9,Overweight Children,Percent,5,Female,OVCH5Y163,5,5,68,No
+163,Bolivia (Plurinational State of),1998,11.3,Overweight Children,Percent,5,Male,OVCH5Y164,5,5,68,No
+164,Bolivia (Plurinational State of),1998,10.7,Overweight Children,Percent,5,All,OVCH5Y165,5,5,68,No
+165,Bolivia (Plurinational State of),1994,7.4,Overweight Children,Percent,5,Male,OVCH5Y166,5,5,68,No
+166,Bolivia (Plurinational State of),1994,6.8,Overweight Children,Percent,5,Female,OVCH5Y167,5,5,68,No
+167,Bolivia (Plurinational State of),1994,7.1,Overweight Children,Percent,5,All,OVCH5Y168,5,5,68,No
+168,Bolivia (Plurinational State of),1989,7.8,Overweight Children,Percent,5,All,OVCH5Y169,5,5,68,No
+169,Bolivia (Plurinational State of),1989,8.1,Overweight Children,Percent,5,Female,OVCH5Y170,5,5,68,No
+170,Bolivia (Plurinational State of),1989,7.5,Overweight Children,Percent,5,Male,OVCH5Y171,5,5,68,No
+171,Bosnia and Herzegovina,2012,16.7,Overweight Children,Percent,5,Male,OVCH5Y172,5,5,70,No
+172,Bosnia and Herzegovina,2012,18.0,Overweight Children,Percent,5,Female,OVCH5Y173,5,5,70,No
+173,Bosnia and Herzegovina,2012,17.4,Overweight Children,Percent,5,All,OVCH5Y174,5,5,70,No
+174,Bosnia and Herzegovina,2006,27.4,Overweight Children,Percent,5,Male,OVCH5Y175,5,5,70,No
+175,Bosnia and Herzegovina,2006,23.9,Overweight Children,Percent,5,Female,OVCH5Y176,5,5,70,No
+176,Bosnia and Herzegovina,2006,25.6,Overweight Children,Percent,5,All,OVCH5Y177,5,5,70,No
+177,Bosnia and Herzegovina,2000,16.7,Overweight Children,Percent,5,Male,OVCH5Y178,5,5,70,No
+178,Bosnia and Herzegovina,2000,16.3,Overweight Children,Percent,5,All,OVCH5Y179,5,5,70,No
+179,Bosnia and Herzegovina,2000,15.9,Overweight Children,Percent,5,Female,OVCH5Y180,5,5,70,No
+180,Botswana,2008,11.3,Overweight Children,Percent,5,Male,OVCH5Y181,5,5,72,No
+181,Botswana,2008,11.1,Overweight Children,Percent,5,Female,OVCH5Y182,5,5,72,No
+182,Botswana,2008,11.2,Overweight Children,Percent,5,All,OVCH5Y183,5,5,72,No
+183,Botswana,2000,10.3,Overweight Children,Percent,5,Male,OVCH5Y184,5,5,72,No
+184,Botswana,2000,10.5,Overweight Children,Percent,5,Female,OVCH5Y185,5,5,72,No
+185,Botswana,2000,10.4,Overweight Children,Percent,5,All,OVCH5Y186,5,5,72,No
+186,Brazil,2007,7.7,Overweight Children,Percent,5,Female,OVCH5Y187,5,5,76,No
+187,Brazil,2007,6.9,Overweight Children,Percent,5,Male,OVCH5Y188,5,5,76,No
+188,Brazil,2007,7.3,Overweight Children,Percent,5,All,OVCH5Y189,5,5,76,No
+189,Brazil,1996,7.4,Overweight Children,Percent,5,Male,OVCH5Y190,5,5,76,No
+190,Brazil,1996,6.6,Overweight Children,Percent,5,All,OVCH5Y191,5,5,76,No
+191,Brazil,1996,5.8,Overweight Children,Percent,5,Female,OVCH5Y192,5,5,76,No
+192,Bulgaria,2004,12.6,Overweight Children,Percent,5,Female,OVCH5Y193,5,5,100,No
+193,Bulgaria,2004,14.8,Overweight Children,Percent,5,Male,OVCH5Y194,5,5,100,No
+194,Bulgaria,2004,13.6,Overweight Children,Percent,5,All,OVCH5Y195,5,5,100,No
+195,Burkina Faso,2010,2.9,Overweight Children,Percent,5,Female,OVCH5Y196,5,5,854,No
+196,Burkina Faso,2010,2.7,Overweight Children,Percent,5,Male,OVCH5Y197,5,5,854,No
+197,Burkina Faso,2010,2.8,Overweight Children,Percent,5,All,OVCH5Y198,5,5,854,No
+198,Burkina Faso,2006,7.2,Overweight Children,Percent,5,Male,OVCH5Y199,5,5,854,No
+199,Burkina Faso,2006,6.9,Overweight Children,Percent,5,All,OVCH5Y200,5,5,854,No
+200,Burkina Faso,2006,6.6,Overweight Children,Percent,5,Female,OVCH5Y201,5,5,854,No
+201,Burkina Faso,2003,5.4,Overweight Children,Percent,5,All,OVCH5Y202,5,5,854,No
+202,Burkina Faso,2003,5.1,Overweight Children,Percent,5,Female,OVCH5Y203,5,5,854,No
+203,Burkina Faso,2003,5.8,Overweight Children,Percent,5,Male,OVCH5Y204,5,5,854,No
+204,Burkina Faso,1999,2.1,Overweight Children,Percent,5,Male,OVCH5Y205,5,5,854,No
+205,Burkina Faso,1999,1.7,Overweight Children,Percent,5,Female,OVCH5Y206,5,5,854,No
+206,Burkina Faso,1999,1.9,Overweight Children,Percent,5,All,OVCH5Y207,5,5,854,No
+207,Burkina Faso,1993,2.7,Overweight Children,Percent,5,Female,OVCH5Y208,5,5,854,No
+208,Burkina Faso,1993,2.9,Overweight Children,Percent,5,Male,OVCH5Y209,5,5,854,No
+209,Burkina Faso,1993,2.8,Overweight Children,Percent,5,All,OVCH5Y210,5,5,854,No
+210,Burundi,2011,3.1,Overweight Children,Percent,5,Male,OVCH5Y211,5,5,108,No
+211,Burundi,2011,2.9,Overweight Children,Percent,5,All,OVCH5Y212,5,5,108,No
+212,Burundi,2011,2.6,Overweight Children,Percent,5,Female,OVCH5Y213,5,5,108,No
+213,Burundi,2000,1.7,Overweight Children,Percent,5,Male,OVCH5Y214,5,5,108,No
+214,Burundi,2000,1.4,Overweight Children,Percent,5,All,OVCH5Y215,5,5,108,No
+215,Burundi,2000,1.2,Overweight Children,Percent,5,Female,OVCH5Y216,5,5,108,No
+216,Burundi,1987,1.5,Overweight Children,Percent,5,Male,OVCH5Y217,5,5,108,No
+217,Burundi,1987,1.3,Overweight Children,Percent,5,All,OVCH5Y218,5,5,108,No
+218,Burundi,1987,1.1,Overweight Children,Percent,5,Female,OVCH5Y219,5,5,108,No
+219,Cambodia,2011,1.9,Overweight Children,Percent,5,All,OVCH5Y220,5,5,116,No
+220,Cambodia,2011,1.9,Overweight Children,Percent,5,Male,OVCH5Y221,5,5,116,No
+221,Cambodia,2011,1.9,Overweight Children,Percent,5,Female,OVCH5Y222,5,5,116,No
+222,Cambodia,2008,2.1,Overweight Children,Percent,5,Female,OVCH5Y223,5,5,116,No
+223,Cambodia,2008,1.9,Overweight Children,Percent,5,Male,OVCH5Y224,5,5,116,No
+224,Cambodia,2008,2.0,Overweight Children,Percent,5,All,OVCH5Y225,5,5,116,No
+225,Cambodia,2006,1.7,Overweight Children,Percent,5,All,OVCH5Y226,5,5,116,No
+226,Cambodia,2006,2.1,Overweight Children,Percent,5,Male,OVCH5Y227,5,5,116,No
+227,Cambodia,2006,1.3,Overweight Children,Percent,5,Female,OVCH5Y228,5,5,116,No
+228,Cambodia,2000,4.1,Overweight Children,Percent,5,Male,OVCH5Y229,5,5,116,No
+229,Cambodia,2000,3.9,Overweight Children,Percent,5,Female,OVCH5Y230,5,5,116,No
+230,Cambodia,2000,4.0,Overweight Children,Percent,5,All,OVCH5Y231,5,5,116,No
+231,Cambodia,1996,5.2,Overweight Children,Percent,5,Male,OVCH5Y232,5,5,116,No
+232,Cambodia,1996,7.7,Overweight Children,Percent,5,Female,OVCH5Y233,5,5,116,No
+233,Cambodia,1996,6.5,Overweight Children,Percent,5,All,OVCH5Y234,5,5,116,No
+234,Cameroon,2011,7.9,Overweight Children,Percent,5,Male,OVCH5Y235,5,5,120,No
+235,Cameroon,2011,6.5,Overweight Children,Percent,5,All,OVCH5Y236,5,5,120,No
+236,Cameroon,2011,5.1,Overweight Children,Percent,5,Female,OVCH5Y237,5,5,120,No
+237,Cameroon,2006,9.8,Overweight Children,Percent,5,Male,OVCH5Y238,5,5,120,No
+238,Cameroon,2006,9.6,Overweight Children,Percent,5,All,OVCH5Y239,5,5,120,No
+239,Cameroon,2006,9.5,Overweight Children,Percent,5,Female,OVCH5Y240,5,5,120,No
+240,Cameroon,2004,10.3,Overweight Children,Percent,5,Male,OVCH5Y241,5,5,120,No
+241,Cameroon,2004,7.1,Overweight Children,Percent,5,Female,OVCH5Y242,5,5,120,No
+242,Cameroon,2004,8.7,Overweight Children,Percent,5,All,OVCH5Y243,5,5,120,No
+243,Cameroon,1998,8.2,Overweight Children,Percent,5,Male,OVCH5Y244,5,5,120,No
+244,Cameroon,1998,8.3,Overweight Children,Percent,5,Female,OVCH5Y245,5,5,120,No
+245,Cameroon,1998,8.2,Overweight Children,Percent,5,All,OVCH5Y246,5,5,120,No
+246,Cameroon,1991,6.0,Overweight Children,Percent,5,Male,OVCH5Y247,5,5,120,No
+247,Cameroon,1991,3.3,Overweight Children,Percent,5,Female,OVCH5Y248,5,5,120,No
+248,Cameroon,1991,4.7,Overweight Children,Percent,5,All,OVCH5Y249,5,5,120,No
+249,Canada,1972,9.6,Overweight Children,Percent,5,Male,OVCH5Y250,5,5,124,No
+250,Canada,1972,5.2,Overweight Children,Percent,5,Female,OVCH5Y251,5,5,124,No
+251,Canada,1972,7.6,Overweight Children,Percent,5,All,OVCH5Y252,5,5,124,No
+252,Central African Republic,2006,9.1,Overweight Children,Percent,5,Female,OVCH5Y253,5,5,140,No
+253,Central African Republic,2006,8.5,Overweight Children,Percent,5,All,OVCH5Y254,5,5,140,No
+254,Central African Republic,2006,7.9,Overweight Children,Percent,5,Male,OVCH5Y255,5,5,140,No
+255,Central African Republic,2000,10.6,Overweight Children,Percent,5,Male,OVCH5Y256,5,5,140,No
+256,Central African Republic,2000,10.9,Overweight Children,Percent,5,Female,OVCH5Y257,5,5,140,No
+257,Central African Republic,2000,10.8,Overweight Children,Percent,5,All,OVCH5Y258,5,5,140,No
+258,Central African Republic,1995,3.7,Overweight Children,Percent,5,Female,OVCH5Y259,5,5,140,No
+259,Central African Republic,1995,4.6,Overweight Children,Percent,5,Male,OVCH5Y260,5,5,140,No
+260,Central African Republic,1995,4.2,Overweight Children,Percent,5,All,OVCH5Y261,5,5,140,No
+261,Central African Republic,1995,1.5,Overweight Children,Percent,5,All,OVCH5Y262,5,5,140,No
+262,Chad,2004,4.4,Overweight Children,Percent,5,Female,OVCH5Y263,5,5,148,No
+263,Chad,2004,4.5,Overweight Children,Percent,5,Male,OVCH5Y264,5,5,148,No
+264,Chad,2004,4.4,Overweight Children,Percent,5,All,OVCH5Y265,5,5,148,No
+265,Chad,2000,3.1,Overweight Children,Percent,5,Male,OVCH5Y266,5,5,148,No
+266,Chad,2000,2.7,Overweight Children,Percent,5,All,OVCH5Y267,5,5,148,No
+267,Chad,2000,2.3,Overweight Children,Percent,5,Female,OVCH5Y268,5,5,148,No
+268,Chad,1997,2.4,Overweight Children,Percent,5,Female,OVCH5Y269,5,5,148,No
+269,Chad,1997,2.7,Overweight Children,Percent,5,All,OVCH5Y270,5,5,148,No
+270,Chad,1997,3.1,Overweight Children,Percent,5,Male,OVCH5Y271,5,5,148,No
+271,Chile,2008,9.8,Overweight Children,Percent,5,Male,OVCH5Y272,5,5,152,No
+272,Chile,2008,9.5,Overweight Children,Percent,5,All,OVCH5Y273,5,5,152,No
+273,Chile,2008,9.1,Overweight Children,Percent,5,Female,OVCH5Y274,5,5,152,No
+274,Chile,2007,9.8,Overweight Children,Percent,5,All,OVCH5Y275,5,5,152,No
+275,Chile,2006,11.7,Overweight Children,Percent,5,All,OVCH5Y276,5,5,152,No
+276,Chile,2004,12.1,Overweight Children,Percent,5,All,OVCH5Y277,5,5,152,No
+277,Chile,2003,12.1,Overweight Children,Percent,5,All,OVCH5Y278,5,5,152,No
+278,Chile,2002,12.0,Overweight Children,Percent,5,All,OVCH5Y279,5,5,152,No
+279,Chile,2001,12.9,Overweight Children,Percent,5,All,OVCH5Y280,5,5,152,No
+280,Chile,1999,11.9,Overweight Children,Percent,5,All,OVCH5Y281,5,5,152,No
+281,Chile,1998,11.2,Overweight Children,Percent,5,All,OVCH5Y282,5,5,152,No
+282,Chile,1996,10.7,Overweight Children,Percent,5,All,OVCH5Y283,5,5,152,No
+283,Chile,1995,10.9,Overweight Children,Percent,5,All,OVCH5Y284,5,5,152,No
+284,Chile,1994,10.1,Overweight Children,Percent,5,All,OVCH5Y285,5,5,152,No
+285,Chile,1986,15.4,Overweight Children,Percent,5,All,OVCH5Y286,5,5,152,No
+286,China,2010,6.6,Overweight Children,Percent,5,All,OVCH5Y287,5,5,156,No
+287,China,2010,7.5,Overweight Children,Percent,5,Male,OVCH5Y288,5,5,156,No
+288,China,2010,5.6,Overweight Children,Percent,5,Female,OVCH5Y289,5,5,156,No
+289,China,2009,5.3,Overweight Children,Percent,5,All,OVCH5Y290,5,5,156,No
+290,China,2009,6.1,Overweight Children,Percent,5,Male,OVCH5Y291,5,5,156,No
+291,China,2009,4.4,Overweight Children,Percent,5,Female,OVCH5Y292,5,5,156,No
+292,China,2008,5.4,Overweight Children,Percent,5,All,OVCH5Y293,5,5,156,No
+293,China,2005,5.2,Overweight Children,Percent,5,Female,OVCH5Y294,5,5,156,No
+294,China,2005,5.9,Overweight Children,Percent,5,All,OVCH5Y295,5,5,156,No
+295,China,2005,6.5,Overweight Children,Percent,5,Male,OVCH5Y296,5,5,156,No
+296,China,2002,9.9,Overweight Children,Percent,5,Male,OVCH5Y297,5,5,156,No
+297,China,2002,8.2,Overweight Children,Percent,5,Female,OVCH5Y298,5,5,156,No
+298,China,2002,9.2,Overweight Children,Percent,5,All,OVCH5Y299,5,5,156,No
+299,China,2000,3.4,Overweight Children,Percent,5,All,OVCH5Y300,5,5,156,No
+300,China,2000,3.9,Overweight Children,Percent,5,Male,OVCH5Y301,5,5,156,No
+301,China,2000,2.8,Overweight Children,Percent,5,Female,OVCH5Y302,5,5,156,No
+302,China,1998,6.1,Overweight Children,Percent,5,Male,OVCH5Y303,5,5,156,No
+303,China,1998,4.8,Overweight Children,Percent,5,Female,OVCH5Y304,5,5,156,No
+304,China,1998,5.5,Overweight Children,Percent,5,All,OVCH5Y305,5,5,156,No
+305,China,1995,13.6,Overweight Children,Percent,5,All,OVCH5Y306,5,5,156,No
+306,China,1995,13.3,Overweight Children,Percent,5,Male,OVCH5Y307,5,5,156,No
+307,China,1995,13.8,Overweight Children,Percent,5,Female,OVCH5Y308,5,5,156,No
+308,China,1992,6.9,Overweight Children,Percent,5,Female,OVCH5Y309,5,5,156,No
+309,China,1992,7.2,Overweight Children,Percent,5,All,OVCH5Y310,5,5,156,No
+310,China,1992,7.4,Overweight Children,Percent,5,Male,OVCH5Y311,5,5,156,No
+311,China,1990,5.3,Overweight Children,Percent,5,Male,OVCH5Y312,5,5,156,No
+312,China,1990,5.4,Overweight Children,Percent,5,Female,OVCH5Y313,5,5,156,No
+313,China,1990,5.3,Overweight Children,Percent,5,All,OVCH5Y314,5,5,156,No
+314,Colombia,2010,5.4,Overweight Children,Percent,5,Male,OVCH5Y315,5,5,170,No
+315,Colombia,2010,4.8,Overweight Children,Percent,5,All,OVCH5Y316,5,5,170,No
+316,Colombia,2010,4.2,Overweight Children,Percent,5,Female,OVCH5Y317,5,5,170,No
+317,Colombia,2005,4.3,Overweight Children,Percent,5,Male,OVCH5Y318,5,5,170,No
+318,Colombia,2005,4.2,Overweight Children,Percent,5,Female,OVCH5Y319,5,5,170,No
+319,Colombia,2005,4.2,Overweight Children,Percent,5,All,OVCH5Y320,5,5,170,No
+320,Colombia,2000,6.3,Overweight Children,Percent,5,Male,OVCH5Y321,5,5,170,No
+321,Colombia,2000,4.3,Overweight Children,Percent,5,Female,OVCH5Y322,5,5,170,No
+322,Colombia,2000,5.3,Overweight Children,Percent,5,All,OVCH5Y323,5,5,170,No
+323,Colombia,1995,4.9,Overweight Children,Percent,5,Male,OVCH5Y324,5,5,170,No
+324,Colombia,1995,4.1,Overweight Children,Percent,5,Female,OVCH5Y325,5,5,170,No
+325,Colombia,1995,4.5,Overweight Children,Percent,5,All,OVCH5Y326,5,5,170,No
+326,Colombia,1986,4.8,Overweight Children,Percent,5,Male,OVCH5Y327,5,5,170,No
+327,Colombia,1986,4.9,Overweight Children,Percent,5,All,OVCH5Y328,5,5,170,No
+328,Colombia,1986,5.0,Overweight Children,Percent,5,Female,OVCH5Y329,5,5,170,No
+329,Comoros,2000,21.0,Overweight Children,Percent,5,Male,OVCH5Y330,5,5,174,No
+330,Comoros,2000,21.9,Overweight Children,Percent,5,Female,OVCH5Y331,5,5,174,No
+331,Comoros,2000,21.5,Overweight Children,Percent,5,All,OVCH5Y332,5,5,174,No
+332,Comoros,1996,5.9,Overweight Children,Percent,5,All,OVCH5Y333,5,5,174,No
+333,Comoros,1996,6.2,Overweight Children,Percent,5,Female,OVCH5Y334,5,5,174,No
+334,Comoros,1996,5.6,Overweight Children,Percent,5,Male,OVCH5Y335,5,5,174,No
+335,Congo,2005,8.4,Overweight Children,Percent,5,Male,OVCH5Y336,5,5,178,No
+336,Congo,2005,8.6,Overweight Children,Percent,5,Female,OVCH5Y337,5,5,178,No
+337,Congo,2005,8.5,Overweight Children,Percent,5,All,OVCH5Y338,5,5,178,No
+338,Congo,1987,1.4,Overweight Children,Percent,5,All,OVCH5Y339,5,5,178,No
+339,Costa Rica,2009,8.3,Overweight Children,Percent,5,Male,OVCH5Y340,5,5,188,No
+340,Costa Rica,2009,8.1,Overweight Children,Percent,5,All,OVCH5Y341,5,5,188,No
+341,Costa Rica,2009,7.9,Overweight Children,Percent,5,Female,OVCH5Y342,5,5,188,No
+342,Costa Rica,1996,9.6,Overweight Children,Percent,5,All,OVCH5Y343,5,5,188,No
+343,Costa Rica,1982,4.0,Overweight Children,Percent,5,All,OVCH5Y344,5,5,188,No
+344,Côte dIvoire,2007,4.9,Overweight Children,Percent,5,Female,OVCH5Y345,5,5,384,No
+345,Côte dIvoire,2007,4.9,Overweight Children,Percent,5,All,OVCH5Y346,5,5,384,No
+346,Côte dIvoire,2007,5.0,Overweight Children,Percent,5,Male,OVCH5Y347,5,5,384,No
+347,Côte dIvoire,2006,9.4,Overweight Children,Percent,5,Male,OVCH5Y348,5,5,384,No
+348,Côte dIvoire,2006,8.6,Overweight Children,Percent,5,Female,OVCH5Y349,5,5,384,No
+349,Côte dIvoire,2006,9.0,Overweight Children,Percent,5,All,OVCH5Y350,5,5,384,No
+350,Côte dIvoire,1999,4.6,Overweight Children,Percent,5,All,OVCH5Y351,5,5,384,No
+351,Côte dIvoire,1999,5.2,Overweight Children,Percent,5,Male,OVCH5Y352,5,5,384,No
+352,Côte dIvoire,1999,4.0,Overweight Children,Percent,5,Female,OVCH5Y353,5,5,384,No
+353,Côte dIvoire,1994,2.4,Overweight Children,Percent,5,Male,OVCH5Y354,5,5,384,No
+354,Côte dIvoire,1994,3.0,Overweight Children,Percent,5,Female,OVCH5Y355,5,5,384,No
+355,Côte dIvoire,1994,2.7,Overweight Children,Percent,5,All,OVCH5Y356,5,5,384,No
+356,Croatia,1996,9.2,Overweight Children,Percent,5,All,OVCH5Y357,5,5,191,No
+357,Croatia,1995,7.8,Overweight Children,Percent,5,All,OVCH5Y358,5,5,191,No
+358,Croatia,1994,6.7,Overweight Children,Percent,5,All,OVCH5Y359,5,5,191,No
+359,Czech Republic,2002,4.1,Overweight Children,Percent,5,Female,OVCH5Y360,5,5,203,No
+360,Czech Republic,2002,4.4,Overweight Children,Percent,5,All,OVCH5Y361,5,5,203,No
+361,Czech Republic,2002,4.7,Overweight Children,Percent,5,Male,OVCH5Y362,5,5,203,No
+362,Czech Republic,1991,6.7,Overweight Children,Percent,5,All,OVCH5Y363,5,5,203,No
+363,Democratic Peoples Republic of Korea,2009,0.0,Overweight Children,Percent,5,Male,OVCH5Y364,5,5,408,No
+364,Democratic Peoples Republic of Korea,2009,0.0,Overweight Children,Percent,5,Female,OVCH5Y365,5,5,408,No
+365,Democratic Peoples Republic of Korea,2009,0.0,Overweight Children,Percent,5,All,OVCH5Y366,5,5,408,No
+366,Democratic Peoples Republic of Korea,2002,0.7,Overweight Children,Percent,5,Male,OVCH5Y367,5,5,408,No
+367,Democratic Peoples Republic of Korea,2002,1.1,Overweight Children,Percent,5,Female,OVCH5Y368,5,5,408,No
+368,Democratic Peoples Republic of Korea,2002,0.9,Overweight Children,Percent,5,All,OVCH5Y369,5,5,408,No
+369,Democratic Republic of the Congo,2010,4.7,Overweight Children,Percent,5,Female,OVCH5Y370,5,5,180,No
+370,Democratic Republic of the Congo,2010,5.1,Overweight Children,Percent,5,Male,OVCH5Y371,5,5,180,No
+371,Democratic Republic of the Congo,2010,4.9,Overweight Children,Percent,5,All,OVCH5Y372,5,5,180,No
+372,Democratic Republic of the Congo,2007,6.8,Overweight Children,Percent,5,All,OVCH5Y373,5,5,180,No
+373,Democratic Republic of the Congo,2007,6.5,Overweight Children,Percent,5,Male,OVCH5Y374,5,5,180,No
+374,Democratic Republic of the Congo,2007,7.2,Overweight Children,Percent,5,Female,OVCH5Y375,5,5,180,No
+375,Democratic Republic of the Congo,2001,6.6,Overweight Children,Percent,5,Male,OVCH5Y376,5,5,180,No
+376,Democratic Republic of the Congo,2001,6.5,Overweight Children,Percent,5,All,OVCH5Y377,5,5,180,No
+377,Democratic Republic of the Congo,2001,6.3,Overweight Children,Percent,5,Female,OVCH5Y378,5,5,180,No
+378,Djibouti,2012,7.7,Overweight Children,Percent,5,Male,OVCH5Y379,5,5,262,No
+379,Djibouti,2012,8.5,Overweight Children,Percent,5,Female,OVCH5Y380,5,5,262,No
+380,Djibouti,2012,8.1,Overweight Children,Percent,5,All,OVCH5Y381,5,5,262,No
+381,Djibouti,2006,13.1,Overweight Children,Percent,5,Male,OVCH5Y382,5,5,262,No
+382,Djibouti,2006,13.8,Overweight Children,Percent,5,Female,OVCH5Y383,5,5,262,No
+383,Djibouti,2006,13.4,Overweight Children,Percent,5,All,OVCH5Y384,5,5,262,No
+384,Djibouti,2002,8.4,Overweight Children,Percent,5,All,OVCH5Y385,5,5,262,No
+385,Djibouti,2002,7.9,Overweight Children,Percent,5,Male,OVCH5Y386,5,5,262,No
+386,Djibouti,2002,8.8,Overweight Children,Percent,5,Female,OVCH5Y387,5,5,262,No
+387,Dominican Republic,2007,9.0,Overweight Children,Percent,5,Male,OVCH5Y388,5,5,214,No
+388,Dominican Republic,2007,7.5,Overweight Children,Percent,5,Female,OVCH5Y389,5,5,214,No
+389,Dominican Republic,2007,8.3,Overweight Children,Percent,5,All,OVCH5Y390,5,5,214,No
+390,Dominican Republic,2006,7.4,Overweight Children,Percent,5,All,OVCH5Y391,5,5,214,No
+391,Dominican Republic,2002,8.1,Overweight Children,Percent,5,Female,OVCH5Y392,5,5,214,No
+392,Dominican Republic,2002,9.1,Overweight Children,Percent,5,Male,OVCH5Y393,5,5,214,No
+393,Dominican Republic,2002,8.6,Overweight Children,Percent,5,All,OVCH5Y394,5,5,214,No
+394,Dominican Republic,2000,6.6,Overweight Children,Percent,5,Male,OVCH5Y395,5,5,214,No
+395,Dominican Republic,2000,7.1,Overweight Children,Percent,5,Female,OVCH5Y396,5,5,214,No
+396,Dominican Republic,2000,6.9,Overweight Children,Percent,5,All,OVCH5Y397,5,5,214,No
+397,Dominican Republic,1996,6.5,Overweight Children,Percent,5,Female,OVCH5Y398,5,5,214,No
+398,Dominican Republic,1996,6.9,Overweight Children,Percent,5,All,OVCH5Y399,5,5,214,No
+399,Dominican Republic,1996,7.2,Overweight Children,Percent,5,Male,OVCH5Y400,5,5,214,No
+400,Dominican Republic,1991,4.4,Overweight Children,Percent,5,Male,OVCH5Y401,5,5,214,No
+401,Dominican Republic,1991,4.4,Overweight Children,Percent,5,Female,OVCH5Y402,5,5,214,No
+402,Dominican Republic,1991,4.4,Overweight Children,Percent,5,All,OVCH5Y403,5,5,214,No
+403,Dominican Republic,1986,3.8,Overweight Children,Percent,5,Male,OVCH5Y404,5,5,214,No
+404,Dominican Republic,1986,3.9,Overweight Children,Percent,5,All,OVCH5Y405,5,5,214,No
+405,Dominican Republic,1986,4.0,Overweight Children,Percent,5,Female,OVCH5Y406,5,5,214,No
+406,Ecuador,2004,5.2,Overweight Children,Percent,5,Male,OVCH5Y407,5,5,218,No
+407,Ecuador,2004,5.1,Overweight Children,Percent,5,All,OVCH5Y408,5,5,218,No
+408,Ecuador,2004,5.0,Overweight Children,Percent,5,Female,OVCH5Y409,5,5,218,No
+409,Egypt,2008,19.8,Overweight Children,Percent,5,Male,OVCH5Y410,5,5,818,No
+410,Egypt,2008,20.5,Overweight Children,Percent,5,All,OVCH5Y411,5,5,818,No
+411,Egypt,2008,21.2,Overweight Children,Percent,5,Female,OVCH5Y412,5,5,818,No
+412,Egypt,2005,13.8,Overweight Children,Percent,5,Female,OVCH5Y413,5,5,818,No
+413,Egypt,2005,14.4,Overweight Children,Percent,5,Male,OVCH5Y414,5,5,818,No
+414,Egypt,2005,14.1,Overweight Children,Percent,5,All,OVCH5Y415,5,5,818,No
+415,Egypt,2003,9.2,Overweight Children,Percent,5,All,OVCH5Y416,5,5,818,No
+416,Egypt,2003,8.9,Overweight Children,Percent,5,Male,OVCH5Y417,5,5,818,No
+417,Egypt,2003,9.4,Overweight Children,Percent,5,Female,OVCH5Y418,5,5,818,No
+418,Egypt,2000,17.4,Overweight Children,Percent,5,Female,OVCH5Y419,5,5,818,No
+419,Egypt,2000,18.2,Overweight Children,Percent,5,All,OVCH5Y420,5,5,818,No
+420,Egypt,2000,18.9,Overweight Children,Percent,5,Male,OVCH5Y421,5,5,818,No
+421,Egypt,1996,14.7,Overweight Children,Percent,5,Male,OVCH5Y422,5,5,818,No
+422,Egypt,1996,14.7,Overweight Children,Percent,5,Female,OVCH5Y423,5,5,818,No
+423,Egypt,1996,14.7,Overweight Children,Percent,5,All,OVCH5Y424,5,5,818,No
+424,Egypt,1993,13.6,Overweight Children,Percent,5,Female,OVCH5Y425,5,5,818,No
+425,Egypt,1993,14.4,Overweight Children,Percent,5,All,OVCH5Y426,5,5,818,No
+426,Egypt,1993,15.1,Overweight Children,Percent,5,Male,OVCH5Y427,5,5,818,No
+427,Egypt,1991,14.9,Overweight Children,Percent,5,All,OVCH5Y428,5,5,818,No
+428,Egypt,1991,15.9,Overweight Children,Percent,5,Male,OVCH5Y429,5,5,818,No
+429,Egypt,1991,13.8,Overweight Children,Percent,5,Female,OVCH5Y430,5,5,818,No
+430,Egypt,1988,6.1,Overweight Children,Percent,5,Female,OVCH5Y431,5,5,818,No
+431,Egypt,1988,7.4,Overweight Children,Percent,5,Male,OVCH5Y432,5,5,818,No
+432,Egypt,1988,6.8,Overweight Children,Percent,5,All,OVCH5Y433,5,5,818,No
+433,Egypt,1978,3.8,Overweight Children,Percent,5,All,OVCH5Y434,5,5,818,No
+434,El Salvador,2008,5.0,Overweight Children,Percent,5,Female,OVCH5Y435,5,5,222,No
+435,El Salvador,2008,6.3,Overweight Children,Percent,5,Male,OVCH5Y436,5,5,222,No
+436,El Salvador,2008,5.7,Overweight Children,Percent,5,All,OVCH5Y437,5,5,222,No
+437,El Salvador,2003,6.6,Overweight Children,Percent,5,Male,OVCH5Y438,5,5,222,No
+438,El Salvador,2003,4.8,Overweight Children,Percent,5,Female,OVCH5Y439,5,5,222,No
+439,El Salvador,2003,5.8,Overweight Children,Percent,5,All,OVCH5Y440,5,5,222,No
+440,El Salvador,1998,4.6,Overweight Children,Percent,5,Male,OVCH5Y441,5,5,222,No
+441,El Salvador,1998,3.2,Overweight Children,Percent,5,Female,OVCH5Y442,5,5,222,No
+442,El Salvador,1998,3.9,Overweight Children,Percent,5,All,OVCH5Y443,5,5,222,No
+443,El Salvador,1993,4.1,Overweight Children,Percent,5,Male,OVCH5Y444,5,5,222,No
+444,El Salvador,1993,3.9,Overweight Children,Percent,5,All,OVCH5Y445,5,5,222,No
+445,El Salvador,1993,3.7,Overweight Children,Percent,5,Female,OVCH5Y446,5,5,222,No
+446,El Salvador,1988,3.8,Overweight Children,Percent,5,Male,OVCH5Y447,5,5,222,No
+447,El Salvador,1988,2.2,Overweight Children,Percent,5,Female,OVCH5Y448,5,5,222,No
+448,El Salvador,1988,3.0,Overweight Children,Percent,5,All,OVCH5Y449,5,5,222,No
+449,Equatorial Guinea,2004,12.0,Overweight Children,Percent,5,Male,OVCH5Y450,5,5,226,No
+450,Equatorial Guinea,2004,4.0,Overweight Children,Percent,5,Female,OVCH5Y451,5,5,226,No
+451,Equatorial Guinea,2004,8.3,Overweight Children,Percent,5,All,OVCH5Y452,5,5,226,No
+452,Equatorial Guinea,2000,14.0,Overweight Children,Percent,5,All,OVCH5Y453,5,5,226,No
+453,Equatorial Guinea,2000,14.3,Overweight Children,Percent,5,Male,OVCH5Y454,5,5,226,No
+454,Equatorial Guinea,2000,13.6,Overweight Children,Percent,5,Female,OVCH5Y455,5,5,226,No
+455,Equatorial Guinea,1997,5.3,Overweight Children,Percent,5,Male,OVCH5Y456,5,5,226,No
+456,Equatorial Guinea,1997,1.5,Overweight Children,Percent,5,Female,OVCH5Y457,5,5,226,No
+457,Equatorial Guinea,1997,3.4,Overweight Children,Percent,5,All,OVCH5Y458,5,5,226,No
+458,Eritrea,2002,1.4,Overweight Children,Percent,5,Female,OVCH5Y459,5,5,232,No
+459,Eritrea,2002,1.6,Overweight Children,Percent,5,All,OVCH5Y460,5,5,232,No
+460,Eritrea,2002,1.8,Overweight Children,Percent,5,Male,OVCH5Y461,5,5,232,No
+461,Eritrea,1996,1.2,Overweight Children,Percent,5,All,OVCH5Y462,5,5,232,No
+462,Eritrea,1996,1.3,Overweight Children,Percent,5,Male,OVCH5Y463,5,5,232,No
+463,Eritrea,1996,1.1,Overweight Children,Percent,5,Female,OVCH5Y464,5,5,232,No
+464,Ethiopia,2011,1.8,Overweight Children,Percent,5,All,OVCH5Y465,5,5,231,No
+465,Ethiopia,2011,1.8,Overweight Children,Percent,5,All,OVCH5Y465,5,5,230,No
+466,Ethiopia,2011,2.0,Overweight Children,Percent,5,Female,OVCH5Y466,5,5,231,No
+467,Ethiopia,2011,2.0,Overweight Children,Percent,5,Female,OVCH5Y466,5,5,230,No
+468,Ethiopia,2011,1.7,Overweight Children,Percent,5,Male,OVCH5Y467,5,5,231,No
+469,Ethiopia,2011,1.7,Overweight Children,Percent,5,Male,OVCH5Y467,5,5,230,No
+470,Ethiopia,2005,5.7,Overweight Children,Percent,5,Male,OVCH5Y468,5,5,231,No
+471,Ethiopia,2005,5.7,Overweight Children,Percent,5,Male,OVCH5Y468,5,5,230,No
+472,Ethiopia,2005,4.5,Overweight Children,Percent,5,Female,OVCH5Y469,5,5,231,No
+473,Ethiopia,2005,4.5,Overweight Children,Percent,5,Female,OVCH5Y469,5,5,230,No
+474,Ethiopia,2005,5.1,Overweight Children,Percent,5,All,OVCH5Y470,5,5,231,No
+475,Ethiopia,2005,5.1,Overweight Children,Percent,5,All,OVCH5Y470,5,5,230,No
+476,Ethiopia,2000,2.0,Overweight Children,Percent,5,All,OVCH5Y471,5,5,231,No
+477,Ethiopia,2000,2.0,Overweight Children,Percent,5,All,OVCH5Y471,5,5,230,No
+478,Ethiopia,2000,2.0,Overweight Children,Percent,5,Male,OVCH5Y472,5,5,231,No
+479,Ethiopia,2000,2.0,Overweight Children,Percent,5,Male,OVCH5Y472,5,5,230,No
+480,Ethiopia,2000,1.9,Overweight Children,Percent,5,Female,OVCH5Y473,5,5,231,No
+481,Ethiopia,2000,1.9,Overweight Children,Percent,5,Female,OVCH5Y473,5,5,230,No
+482,Fiji,2004,5.1,Overweight Children,Percent,5,All,OVCH5Y474,5,5,242,No
+483,Fiji,2004,5.4,Overweight Children,Percent,5,Male,OVCH5Y475,5,5,242,No
+484,Fiji,2004,4.8,Overweight Children,Percent,5,Female,OVCH5Y476,5,5,242,No
+485,Fiji,1993,2.2,Overweight Children,Percent,5,All,OVCH5Y477,5,5,242,No
+486,Gabon,2012,7.7,Overweight Children,Percent,5,All,OVCH5Y478,5,5,266,No
+487,Gabon,2012,6.2,Overweight Children,Percent,5,Female,OVCH5Y479,5,5,266,No
+488,Gabon,2012,9.2,Overweight Children,Percent,5,Male,OVCH5Y480,5,5,266,No
+489,Gabon,2001,6.1,Overweight Children,Percent,5,Male,OVCH5Y481,5,5,266,No
+490,Gabon,2001,5.0,Overweight Children,Percent,5,Female,OVCH5Y482,5,5,266,No
+491,Gabon,2001,5.6,Overweight Children,Percent,5,All,OVCH5Y483,5,5,266,No
+492,Gambia,2006,2.5,Overweight Children,Percent,5,Female,OVCH5Y484,5,5,270,No
+493,Gambia,2006,2.9,Overweight Children,Percent,5,Male,OVCH5Y485,5,5,270,No
+494,Gambia,2006,2.7,Overweight Children,Percent,5,All,OVCH5Y486,5,5,270,No
+495,Gambia,2000,3.0,Overweight Children,Percent,5,Male,OVCH5Y487,5,5,270,No
+496,Gambia,2000,3.0,Overweight Children,Percent,5,Female,OVCH5Y488,5,5,270,No
+497,Gambia,2000,3.0,Overweight Children,Percent,5,All,OVCH5Y489,5,5,270,No
+498,Georgia,2009,18.3,Overweight Children,Percent,5,Female,OVCH5Y490,5,5,268,No
+499,Georgia,2009,19.9,Overweight Children,Percent,5,All,OVCH5Y491,5,5,268,No
+500,Georgia,2009,21.3,Overweight Children,Percent,5,Male,OVCH5Y492,5,5,268,No
+501,Georgia,2005,20.7,Overweight Children,Percent,5,Female,OVCH5Y493,5,5,268,No
+502,Georgia,2005,21.0,Overweight Children,Percent,5,All,OVCH5Y494,5,5,268,No
+503,Georgia,2005,21.2,Overweight Children,Percent,5,Male,OVCH5Y495,5,5,268,No
+504,Georgia,1999,17.9,Overweight Children,Percent,5,All,OVCH5Y496,5,5,268,No
+505,Germany,2006,3.3,Overweight Children,Percent,5,Female,OVCH5Y497,5,5,276,No
+506,Germany,2006,3.5,Overweight Children,Percent,5,All,OVCH5Y498,5,5,276,No
+507,Germany,2006,3.6,Overweight Children,Percent,5,Male,OVCH5Y499,5,5,276,No
+508,Ghana,2008,5.8,Overweight Children,Percent,5,Male,OVCH5Y500,5,5,288,No
+509,Ghana,2008,5.9,Overweight Children,Percent,5,Female,OVCH5Y501,5,5,288,No
+510,Ghana,2008,5.9,Overweight Children,Percent,5,All,OVCH5Y502,5,5,288,No
+511,Ghana,2006,2.7,Overweight Children,Percent,5,Male,OVCH5Y503,5,5,288,No
+512,Ghana,2006,2.5,Overweight Children,Percent,5,Female,OVCH5Y504,5,5,288,No
+513,Ghana,2006,2.6,Overweight Children,Percent,5,All,OVCH5Y505,5,5,288,No
+514,Ghana,2003,5.3,Overweight Children,Percent,5,Male,OVCH5Y506,5,5,288,No
+515,Ghana,2003,4.5,Overweight Children,Percent,5,All,OVCH5Y507,5,5,288,No
+516,Ghana,2003,3.6,Overweight Children,Percent,5,Female,OVCH5Y508,5,5,288,No
+517,Ghana,1999,2.7,Overweight Children,Percent,5,All,OVCH5Y509,5,5,288,No
+518,Ghana,1999,2.5,Overweight Children,Percent,5,Female,OVCH5Y510,5,5,288,No
+519,Ghana,1999,2.9,Overweight Children,Percent,5,Male,OVCH5Y511,5,5,288,No
+520,Ghana,1994,2.9,Overweight Children,Percent,5,Female,OVCH5Y512,5,5,288,No
+521,Ghana,1994,2.9,Overweight Children,Percent,5,All,OVCH5Y513,5,5,288,No
+522,Ghana,1994,3.0,Overweight Children,Percent,5,Male,OVCH5Y514,5,5,288,No
+523,Ghana,1988,1.0,Overweight Children,Percent,5,Male,OVCH5Y515,5,5,288,No
+524,Ghana,1988,0.7,Overweight Children,Percent,5,Female,OVCH5Y516,5,5,288,No
+525,Ghana,1988,0.9,Overweight Children,Percent,5,All,OVCH5Y517,5,5,288,No
+526,Ghana,1988,1.4,Overweight Children,Percent,5,All,OVCH5Y518,5,5,288,No
+527,Guatemala,2009,4.9,Overweight Children,Percent,5,All,OVCH5Y519,5,5,320,No
+528,Guatemala,2009,5.3,Overweight Children,Percent,5,Male,OVCH5Y520,5,5,320,No
+529,Guatemala,2009,4.6,Overweight Children,Percent,5,Female,OVCH5Y521,5,5,320,No
+530,Guatemala,2002,6.4,Overweight Children,Percent,5,Male,OVCH5Y522,5,5,320,No
+531,Guatemala,2002,4.7,Overweight Children,Percent,5,Female,OVCH5Y523,5,5,320,No
+532,Guatemala,2002,5.6,Overweight Children,Percent,5,All,OVCH5Y524,5,5,320,No
+533,Guatemala,2000,8.5,Overweight Children,Percent,5,All,OVCH5Y525,5,5,320,No
+534,Guatemala,1999,7.6,Overweight Children,Percent,5,Male,OVCH5Y526,5,5,320,No
+535,Guatemala,1999,6.2,Overweight Children,Percent,5,Female,OVCH5Y527,5,5,320,No
+536,Guatemala,1999,6.9,Overweight Children,Percent,5,All,OVCH5Y528,5,5,320,No
+537,Guatemala,1995,6.2,Overweight Children,Percent,5,All,OVCH5Y529,5,5,320,No
+538,Guatemala,1995,5.6,Overweight Children,Percent,5,Female,OVCH5Y530,5,5,320,No
+539,Guatemala,1995,6.8,Overweight Children,Percent,5,Male,OVCH5Y531,5,5,320,No
+540,Guatemala,1987,2.2,Overweight Children,Percent,5,Female,OVCH5Y532,5,5,320,No
+541,Guatemala,1987,3.5,Overweight Children,Percent,5,Male,OVCH5Y533,5,5,320,No
+542,Guatemala,1987,2.8,Overweight Children,Percent,5,All,OVCH5Y534,5,5,320,No
+543,Guinea,2012,3.4,Overweight Children,Percent,5,Male,OVCH5Y535,5,5,324,No
+544,Guinea,2012,2.7,Overweight Children,Percent,5,Female,OVCH5Y536,5,5,324,No
+545,Guinea,2012,3.1,Overweight Children,Percent,5,All,OVCH5Y537,5,5,324,No
+546,Guinea,2005,5.2,Overweight Children,Percent,5,Male,OVCH5Y538,5,5,324,No
+547,Guinea,2005,5.0,Overweight Children,Percent,5,Female,OVCH5Y539,5,5,324,No
+548,Guinea,2005,5.1,Overweight Children,Percent,5,All,OVCH5Y540,5,5,324,No
+549,Guinea,1999,4.1,Overweight Children,Percent,5,Female,OVCH5Y541,5,5,324,No
+550,Guinea,1999,4.4,Overweight Children,Percent,5,Male,OVCH5Y542,5,5,324,No
+551,Guinea,1999,4.3,Overweight Children,Percent,5,All,OVCH5Y543,5,5,324,No
+552,Guinea-Bissau,2008,1.8,Overweight Children,Percent,5,Male,OVCH5Y544,5,5,624,No
+553,Guinea-Bissau,2008,2.5,Overweight Children,Percent,5,Female,OVCH5Y545,5,5,624,No
+554,Guinea-Bissau,2008,2.2,Overweight Children,Percent,5,All,OVCH5Y546,5,5,624,No
+555,Guinea-Bissau,2006,17.6,Overweight Children,Percent,5,Male,OVCH5Y547,5,5,624,No
+556,Guinea-Bissau,2006,17.0,Overweight Children,Percent,5,All,OVCH5Y548,5,5,624,No
+557,Guinea-Bissau,2006,16.5,Overweight Children,Percent,5,Female,OVCH5Y549,5,5,624,No
+558,Guinea-Bissau,2000,5.3,Overweight Children,Percent,5,Male,OVCH5Y550,5,5,624,No
+559,Guinea-Bissau,2000,4.8,Overweight Children,Percent,5,Female,OVCH5Y551,5,5,624,No
+560,Guinea-Bissau,2000,5.1,Overweight Children,Percent,5,All,OVCH5Y552,5,5,624,No
+561,Guyana,2009,8.4,Overweight Children,Percent,5,Female,OVCH5Y553,5,5,328,No
+562,Guyana,2009,4.9,Overweight Children,Percent,5,Male,OVCH5Y554,5,5,328,No
+563,Guyana,2009,6.7,Overweight Children,Percent,5,All,OVCH5Y555,5,5,328,No
+564,Guyana,2007,6.4,Overweight Children,Percent,5,Male,OVCH5Y556,5,5,328,No
+565,Guyana,2007,7.3,Overweight Children,Percent,5,Female,OVCH5Y557,5,5,328,No
+566,Guyana,2007,6.8,Overweight Children,Percent,5,All,OVCH5Y558,5,5,328,No
+567,Guyana,2000,5.4,Overweight Children,Percent,5,Male,OVCH5Y559,5,5,328,No
+568,Guyana,2000,5.6,Overweight Children,Percent,5,Female,OVCH5Y560,5,5,328,No
+569,Guyana,2000,5.5,Overweight Children,Percent,5,All,OVCH5Y561,5,5,328,No
+570,Guyana,1997,1.9,Overweight Children,Percent,5,All,OVCH5Y562,5,5,328,No
+571,Guyana,1981,4.0,Overweight Children,Percent,5,All,OVCH5Y563,5,5,328,No
+572,Haiti,2012,4.1,Overweight Children,Percent,5,Male,OVCH5Y564,5,5,332,No
+573,Haiti,2012,3.1,Overweight Children,Percent,5,Female,OVCH5Y565,5,5,332,No
+574,Haiti,2012,3.6,Overweight Children,Percent,5,All,OVCH5Y566,5,5,332,No
+575,Haiti,2006,4.4,Overweight Children,Percent,5,Male,OVCH5Y567,5,5,332,No
+576,Haiti,2006,3.9,Overweight Children,Percent,5,All,OVCH5Y568,5,5,332,No
+577,Haiti,2006,3.5,Overweight Children,Percent,5,Female,OVCH5Y569,5,5,332,No
+578,Haiti,2000,3.8,Overweight Children,Percent,5,Male,OVCH5Y570,5,5,332,No
+579,Haiti,2000,2.3,Overweight Children,Percent,5,Female,OVCH5Y571,5,5,332,No
+580,Haiti,2000,3.1,Overweight Children,Percent,5,All,OVCH5Y572,5,5,332,No
+581,Haiti,1995,3.7,Overweight Children,Percent,5,Male,OVCH5Y573,5,5,332,No
+582,Haiti,1995,4.9,Overweight Children,Percent,5,Female,OVCH5Y574,5,5,332,No
+583,Haiti,1995,4.3,Overweight Children,Percent,5,All,OVCH5Y575,5,5,332,No
+584,Haiti,1978,1.5,Overweight Children,Percent,5,All,OVCH5Y576,5,5,332,No
+585,Honduras,2012,5.5,Overweight Children,Percent,5,Male,OVCH5Y577,5,5,340,No
+586,Honduras,2012,5.2,Overweight Children,Percent,5,All,OVCH5Y578,5,5,340,No
+587,Honduras,2012,4.8,Overweight Children,Percent,5,Female,OVCH5Y579,5,5,340,No
+588,Honduras,2006,5.2,Overweight Children,Percent,5,Female,OVCH5Y580,5,5,340,No
+589,Honduras,2006,6.3,Overweight Children,Percent,5,Male,OVCH5Y581,5,5,340,No
+590,Honduras,2006,5.8,Overweight Children,Percent,5,All,OVCH5Y582,5,5,340,No
+591,Honduras,2001,3.3,Overweight Children,Percent,5,Male,OVCH5Y583,5,5,340,No
+592,Honduras,2001,2.8,Overweight Children,Percent,5,Female,OVCH5Y584,5,5,340,No
+593,Honduras,2001,3.0,Overweight Children,Percent,5,All,OVCH5Y585,5,5,340,No
+594,Honduras,1996,2.3,Overweight Children,Percent,5,Male,OVCH5Y586,5,5,340,No
+595,Honduras,1996,2.4,Overweight Children,Percent,5,All,OVCH5Y587,5,5,340,No
+596,Honduras,1996,2.6,Overweight Children,Percent,5,Female,OVCH5Y588,5,5,340,No
+597,Honduras,1987,2.7,Overweight Children,Percent,5,All,OVCH5Y589,5,5,340,No
+598,Hungary,1988,2.7,Overweight Children,Percent,5,Female,OVCH5Y590,5,5,348,No
+599,Hungary,1988,3.2,Overweight Children,Percent,5,Male,OVCH5Y591,5,5,348,No
+600,Hungary,1988,3.0,Overweight Children,Percent,5,All,OVCH5Y592,5,5,348,No
+601,India,2006,2.2,Overweight Children,Percent,5,Male,OVCH5Y593,5,5,356,No
+602,India,2006,1.7,Overweight Children,Percent,5,Female,OVCH5Y594,5,5,356,No
+603,India,2006,1.9,Overweight Children,Percent,5,All,OVCH5Y595,5,5,356,No
+604,India,1999,3.6,Overweight Children,Percent,5,All,OVCH5Y596,5,5,356,No
+605,India,1999,3.9,Overweight Children,Percent,5,Male,OVCH5Y597,5,5,356,No
+606,India,1999,3.3,Overweight Children,Percent,5,Female,OVCH5Y598,5,5,356,No
+607,India,1993,3.2,Overweight Children,Percent,5,Male,OVCH5Y599,5,5,356,No
+608,India,1993,3.1,Overweight Children,Percent,5,Female,OVCH5Y600,5,5,356,No
+609,India,1993,3.2,Overweight Children,Percent,5,All,OVCH5Y601,5,5,356,No
+610,Indonesia,2010,11.7,Overweight Children,Percent,5,Male,OVCH5Y602,5,5,360,No
+611,Indonesia,2010,13.0,Overweight Children,Percent,5,Female,OVCH5Y603,5,5,360,No
+612,Indonesia,2010,12.3,Overweight Children,Percent,5,All,OVCH5Y604,5,5,360,No
+613,Indonesia,2007,11.3,Overweight Children,Percent,5,Male,OVCH5Y605,5,5,360,No
+614,Indonesia,2007,11.2,Overweight Children,Percent,5,Female,OVCH5Y606,5,5,360,No
+615,Indonesia,2007,11.2,Overweight Children,Percent,5,All,OVCH5Y607,5,5,360,No
+616,Indonesia,2004,5.5,Overweight Children,Percent,5,Male,OVCH5Y608,5,5,360,No
+617,Indonesia,2004,4.8,Overweight Children,Percent,5,Female,OVCH5Y609,5,5,360,No
+618,Indonesia,2004,5.1,Overweight Children,Percent,5,All,OVCH5Y610,5,5,360,No
+619,Indonesia,2001,1.7,Overweight Children,Percent,5,Male,OVCH5Y611,5,5,360,No
+620,Indonesia,2001,1.3,Overweight Children,Percent,5,Female,OVCH5Y612,5,5,360,No
+621,Indonesia,2001,1.5,Overweight Children,Percent,5,All,OVCH5Y613,5,5,360,No
+622,Indonesia,2000,1.3,Overweight Children,Percent,5,Female,OVCH5Y614,5,5,360,No
+623,Indonesia,2000,1.7,Overweight Children,Percent,5,Male,OVCH5Y615,5,5,360,No
+624,Indonesia,2000,1.5,Overweight Children,Percent,5,All,OVCH5Y616,5,5,360,No
+625,Indonesia,1995,6.5,Overweight Children,Percent,5,All,OVCH5Y617,5,5,360,No
+626,Iran (Islamic Republic of),1998,6.9,Overweight Children,Percent,5,All,OVCH5Y618,5,5,364,No
+627,Iran (Islamic Republic of),1995,5.5,Overweight Children,Percent,5,All,OVCH5Y619,5,5,364,No
+628,Iraq,2006,15.6,Overweight Children,Percent,5,Male,OVCH5Y620,5,5,368,No
+629,Iraq,2006,15.0,Overweight Children,Percent,5,All,OVCH5Y621,5,5,368,No
+630,Iraq,2006,14.3,Overweight Children,Percent,5,Female,OVCH5Y622,5,5,368,No
+631,Iraq,2000,5.4,Overweight Children,Percent,5,Female,OVCH5Y623,5,5,368,No
+632,Iraq,2000,5.5,Overweight Children,Percent,5,All,OVCH5Y624,5,5,368,No
+633,Iraq,2000,5.7,Overweight Children,Percent,5,Male,OVCH5Y625,5,5,368,No
+634,Italy,1977,7.1,Overweight Children,Percent,5,All,OVCH5Y626,5,5,380,No
+635,Jamaica,2010,3.3,Overweight Children,Percent,5,Male,OVCH5Y627,5,5,388,No
+636,Jamaica,2010,4.8,Overweight Children,Percent,5,Female,OVCH5Y628,5,5,388,No
+637,Jamaica,2010,4.0,Overweight Children,Percent,5,All,OVCH5Y629,5,5,388,No
+638,Jamaica,2008,6.1,Overweight Children,Percent,5,Female,OVCH5Y630,5,5,388,No
+639,Jamaica,2008,5.5,Overweight Children,Percent,5,Male,OVCH5Y631,5,5,388,No
+640,Jamaica,2008,6.1,Overweight Children,Percent,5,All,OVCH5Y632,5,5,388,No
+641,Jamaica,2007,9.2,Overweight Children,Percent,5,Male,OVCH5Y633,5,5,388,No
+642,Jamaica,2007,7.7,Overweight Children,Percent,5,Female,OVCH5Y634,5,5,388,No
+643,Jamaica,2007,8.5,Overweight Children,Percent,5,All,OVCH5Y635,5,5,388,No
+644,Jamaica,2006,9.0,Overweight Children,Percent,5,Male,OVCH5Y636,5,5,388,No
+645,Jamaica,2006,6.1,Overweight Children,Percent,5,All,OVCH5Y637,5,5,388,No
+646,Jamaica,2006,3.3,Overweight Children,Percent,5,Female,OVCH5Y638,5,5,388,No
+647,Jamaica,2004,7.7,Overweight Children,Percent,5,Male,OVCH5Y639,5,5,388,No
+648,Jamaica,2004,7.2,Overweight Children,Percent,5,Female,OVCH5Y640,5,5,388,No
+649,Jamaica,2004,7.5,Overweight Children,Percent,5,All,OVCH5Y641,5,5,388,No
+650,Jamaica,2002,8.6,Overweight Children,Percent,5,Male,OVCH5Y642,5,5,388,No
+651,Jamaica,2002,8.5,Overweight Children,Percent,5,All,OVCH5Y643,5,5,388,No
+652,Jamaica,2002,8.3,Overweight Children,Percent,5,Female,OVCH5Y644,5,5,388,No
+653,Jamaica,2001,5.7,Overweight Children,Percent,5,All,OVCH5Y645,5,5,388,No
+654,Jamaica,2001,7.2,Overweight Children,Percent,5,Male,OVCH5Y646,5,5,388,No
+655,Jamaica,2001,4.2,Overweight Children,Percent,5,Female,OVCH5Y647,5,5,388,No
+656,Jamaica,2000,9.5,Overweight Children,Percent,5,Male,OVCH5Y648,5,5,388,No
+657,Jamaica,2000,4.8,Overweight Children,Percent,5,Female,OVCH5Y649,5,5,388,No
+658,Jamaica,2000,7.3,Overweight Children,Percent,5,All,OVCH5Y650,5,5,388,No
+659,Jamaica,1999,6.1,Overweight Children,Percent,5,Male,OVCH5Y651,5,5,388,No
+660,Jamaica,1999,5.9,Overweight Children,Percent,5,All,OVCH5Y652,5,5,388,No
+661,Jamaica,1999,5.7,Overweight Children,Percent,5,Female,OVCH5Y653,5,5,388,No
+662,Jamaica,1998,4.7,Overweight Children,Percent,5,Female,OVCH5Y654,5,5,388,No
+663,Jamaica,1998,5.2,Overweight Children,Percent,5,All,OVCH5Y655,5,5,388,No
+664,Jamaica,1998,5.8,Overweight Children,Percent,5,Male,OVCH5Y656,5,5,388,No
+665,Jamaica,1997,5.5,Overweight Children,Percent,5,All,OVCH5Y657,5,5,388,No
+666,Jamaica,1997,4.7,Overweight Children,Percent,5,Female,OVCH5Y658,5,5,388,No
+667,Jamaica,1997,6.5,Overweight Children,Percent,5,Male,OVCH5Y659,5,5,388,No
+668,Jamaica,1996,4.1,Overweight Children,Percent,5,Female,OVCH5Y660,5,5,388,No
+669,Jamaica,1996,3.8,Overweight Children,Percent,5,All,OVCH5Y661,5,5,388,No
+670,Jamaica,1996,3.4,Overweight Children,Percent,5,Male,OVCH5Y662,5,5,388,No
+671,Jamaica,1995,3.2,Overweight Children,Percent,5,Female,OVCH5Y663,5,5,388,No
+672,Jamaica,1995,5.2,Overweight Children,Percent,5,All,OVCH5Y664,5,5,388,No
+673,Jamaica,1995,7.1,Overweight Children,Percent,5,Male,OVCH5Y665,5,5,388,No
+674,Jamaica,1994,6.2,Overweight Children,Percent,5,All,OVCH5Y666,5,5,388,No
+675,Jamaica,1994,6.7,Overweight Children,Percent,5,Male,OVCH5Y667,5,5,388,No
+676,Jamaica,1994,5.7,Overweight Children,Percent,5,Female,OVCH5Y668,5,5,388,No
+677,Jamaica,1993,9.3,Overweight Children,Percent,5,All,OVCH5Y669,5,5,388,No
+678,Jamaica,1992,4.4,Overweight Children,Percent,5,All,OVCH5Y670,5,5,388,No
+679,Jamaica,1978,15.6,Overweight Children,Percent,5,All,OVCH5Y671,5,5,388,No
+680,Japan,1981,2.9,Overweight Children,Percent,5,All,OVCH5Y672,5,5,392,No
+681,Japan,1981,2.9,Overweight Children,Percent,5,All,OVCH5Y672,5,5,392,No
+682,Jordan,2012,4.7,Overweight Children,Percent,5,All,OVCH5Y673,5,5,400,No
+683,Jordan,2012,5.6,Overweight Children,Percent,5,Male,OVCH5Y674,5,5,400,No
+684,Jordan,2012,3.9,Overweight Children,Percent,5,Female,OVCH5Y675,5,5,400,No
+685,Jordan,2009,6.6,Overweight Children,Percent,5,All,OVCH5Y676,5,5,400,No
+686,Jordan,2009,7.9,Overweight Children,Percent,5,Male,OVCH5Y677,5,5,400,No
+687,Jordan,2009,5.2,Overweight Children,Percent,5,Female,OVCH5Y678,5,5,400,No
+688,Jordan,2002,4.9,Overweight Children,Percent,5,Male,OVCH5Y679,5,5,400,No
+689,Jordan,2002,4.7,Overweight Children,Percent,5,All,OVCH5Y680,5,5,400,No
+690,Jordan,2002,4.5,Overweight Children,Percent,5,Female,OVCH5Y681,5,5,400,No
+691,Jordan,1997,4.9,Overweight Children,Percent,5,Male,OVCH5Y682,5,5,400,No
+692,Jordan,1997,3.7,Overweight Children,Percent,5,Female,OVCH5Y683,5,5,400,No
+693,Jordan,1997,4.4,Overweight Children,Percent,5,All,OVCH5Y684,5,5,400,No
+694,Jordan,1990,9.7,Overweight Children,Percent,5,Male,OVCH5Y685,5,5,400,No
+695,Jordan,1990,8.6,Overweight Children,Percent,5,All,OVCH5Y686,5,5,400,No
+696,Jordan,1990,7.5,Overweight Children,Percent,5,Female,OVCH5Y687,5,5,400,No
+697,Kazakhstan,2011,14.8,Overweight Children,Percent,5,Male,OVCH5Y688,5,5,398,No
+698,Kazakhstan,2011,11.8,Overweight Children,Percent,5,Female,OVCH5Y689,5,5,398,No
+699,Kazakhstan,2011,13.3,Overweight Children,Percent,5,All,OVCH5Y690,5,5,398,No
+700,Kazakhstan,2006,17.5,Overweight Children,Percent,5,Male,OVCH5Y691,5,5,398,No
+701,Kazakhstan,2006,16.4,Overweight Children,Percent,5,Female,OVCH5Y692,5,5,398,No
+702,Kazakhstan,2006,16.9,Overweight Children,Percent,5,All,OVCH5Y693,5,5,398,No
+703,Kazakhstan,1999,5.3,Overweight Children,Percent,5,All,OVCH5Y694,5,5,398,No
+704,Kazakhstan,1999,3.1,Overweight Children,Percent,5,Female,OVCH5Y695,5,5,398,No
+705,Kazakhstan,1999,7.8,Overweight Children,Percent,5,Male,OVCH5Y696,5,5,398,No
+706,Kazakhstan,1995,7.1,Overweight Children,Percent,5,Male,OVCH5Y697,5,5,398,No
+707,Kazakhstan,1995,4.8,Overweight Children,Percent,5,Female,OVCH5Y698,5,5,398,No
+708,Kazakhstan,1995,5.9,Overweight Children,Percent,5,All,OVCH5Y699,5,5,398,No
+709,Kenya,2009,4.7,Overweight Children,Percent,5,Male,OVCH5Y700,5,5,404,No
+710,Kenya,2009,5.3,Overweight Children,Percent,5,Female,OVCH5Y701,5,5,404,No
+711,Kenya,2009,5.0,Overweight Children,Percent,5,All,OVCH5Y702,5,5,404,No
+712,Kenya,2003,6.0,Overweight Children,Percent,5,Male,OVCH5Y703,5,5,404,No
+713,Kenya,2003,5.6,Overweight Children,Percent,5,Female,OVCH5Y704,5,5,404,No
+714,Kenya,2003,5.8,Overweight Children,Percent,5,All,OVCH5Y705,5,5,404,No
+715,Kenya,2000,8.5,Overweight Children,Percent,5,Female,OVCH5Y706,5,5,404,No
+716,Kenya,2000,7.8,Overweight Children,Percent,5,Male,OVCH5Y707,5,5,404,No
+717,Kenya,2000,8.1,Overweight Children,Percent,5,All,OVCH5Y708,5,5,404,No
+718,Kenya,1998,7.9,Overweight Children,Percent,5,Male,OVCH5Y709,5,5,404,No
+719,Kenya,1998,7.2,Overweight Children,Percent,5,Female,OVCH5Y710,5,5,404,No
+720,Kenya,1998,7.6,Overweight Children,Percent,5,All,OVCH5Y711,5,5,404,No
+721,Kenya,1993,5.9,Overweight Children,Percent,5,Male,OVCH5Y712,5,5,404,No
+722,Kenya,1993,5.9,Overweight Children,Percent,5,Female,OVCH5Y713,5,5,404,No
+723,Kenya,1993,5.9,Overweight Children,Percent,5,All,OVCH5Y714,5,5,404,No
+724,Kiribati,1985,15.9,Overweight Children,Percent,5,All,OVCH5Y715,5,5,296,No
+725,Kuwait,2012,10.2,Overweight Children,Percent,5,Male,OVCH5Y716,5,5,414,No
+726,Kuwait,2012,8.9,Overweight Children,Percent,5,Female,OVCH5Y717,5,5,414,No
+727,Kuwait,2012,9.5,Overweight Children,Percent,5,All,OVCH5Y718,5,5,414,No
+728,Kuwait,2011,8.6,Overweight Children,Percent,5,Male,OVCH5Y719,5,5,414,No
+729,Kuwait,2011,8.0,Overweight Children,Percent,5,Female,OVCH5Y720,5,5,414,No
+730,Kuwait,2011,8.3,Overweight Children,Percent,5,All,OVCH5Y721,5,5,414,No
+731,Kuwait,2010,7.9,Overweight Children,Percent,5,Female,OVCH5Y722,5,5,414,No
+732,Kuwait,2010,7.7,Overweight Children,Percent,5,Male,OVCH5Y723,5,5,414,No
+733,Kuwait,2010,7.8,Overweight Children,Percent,5,All,OVCH5Y724,5,5,414,No
+734,Kuwait,2009,10.0,Overweight Children,Percent,5,Male,OVCH5Y725,5,5,414,No
+735,Kuwait,2009,8.0,Overweight Children,Percent,5,Female,OVCH5Y726,5,5,414,No
+736,Kuwait,2009,9.0,Overweight Children,Percent,5,All,OVCH5Y727,5,5,414,No
+737,Kuwait,2008,9.5,Overweight Children,Percent,5,Female,OVCH5Y728,5,5,414,No
+738,Kuwait,2008,9.1,Overweight Children,Percent,5,Male,OVCH5Y729,5,5,414,No
+739,Kuwait,2008,9.3,Overweight Children,Percent,5,All,OVCH5Y730,5,5,414,No
+740,Kuwait,2007,8.5,Overweight Children,Percent,5,All,OVCH5Y731,5,5,414,No
+741,Kuwait,2007,7.8,Overweight Children,Percent,5,Male,OVCH5Y732,5,5,414,No
+742,Kuwait,2007,9.2,Overweight Children,Percent,5,Female,OVCH5Y733,5,5,414,No
+743,Kuwait,2006,8.9,Overweight Children,Percent,5,Male,OVCH5Y734,5,5,414,No
+744,Kuwait,2006,8.4,Overweight Children,Percent,5,Female,OVCH5Y735,5,5,414,No
+745,Kuwait,2006,8.7,Overweight Children,Percent,5,All,OVCH5Y736,5,5,414,No
+746,Kuwait,2005,7.1,Overweight Children,Percent,5,Female,OVCH5Y737,5,5,414,No
+747,Kuwait,2005,7.5,Overweight Children,Percent,5,All,OVCH5Y738,5,5,414,No
+748,Kuwait,2005,7.9,Overweight Children,Percent,5,Male,OVCH5Y739,5,5,414,No
+749,Kuwait,2004,7.9,Overweight Children,Percent,5,Male,OVCH5Y740,5,5,414,No
+750,Kuwait,2004,6.3,Overweight Children,Percent,5,Female,OVCH5Y741,5,5,414,No
+751,Kuwait,2004,7.1,Overweight Children,Percent,5,All,OVCH5Y742,5,5,414,No
+752,Kuwait,2003,7.6,Overweight Children,Percent,5,Male,OVCH5Y743,5,5,414,No
+753,Kuwait,2003,6.8,Overweight Children,Percent,5,All,OVCH5Y744,5,5,414,No
+754,Kuwait,2003,6.0,Overweight Children,Percent,5,Female,OVCH5Y745,5,5,414,No
+755,Kuwait,2002,6.4,Overweight Children,Percent,5,Female,OVCH5Y746,5,5,414,No
+756,Kuwait,2002,6.8,Overweight Children,Percent,5,Male,OVCH5Y747,5,5,414,No
+757,Kuwait,2002,6.6,Overweight Children,Percent,5,All,OVCH5Y748,5,5,414,No
+758,Kuwait,2001,11.1,Overweight Children,Percent,5,Male,OVCH5Y749,5,5,414,No
+759,Kuwait,2001,11.0,Overweight Children,Percent,5,Female,OVCH5Y750,5,5,414,No
+760,Kuwait,2001,11.0,Overweight Children,Percent,5,All,OVCH5Y751,5,5,414,No
+761,Kuwait,1997,8.9,Overweight Children,Percent,5,All,OVCH5Y752,5,5,414,No
+762,Kuwait,1995,23.3,Overweight Children,Percent,5,All,OVCH5Y753,5,5,414,No
+763,Kyrgyzstan,2009,4.4,Overweight Children,Percent,5,All,OVCH5Y754,5,5,417,No
+764,Kyrgyzstan,2006,10.7,Overweight Children,Percent,5,All,OVCH5Y755,5,5,417,No
+765,Kyrgyzstan,2006,12.7,Overweight Children,Percent,5,Male,OVCH5Y756,5,5,417,No
+766,Kyrgyzstan,2006,8.6,Overweight Children,Percent,5,Female,OVCH5Y757,5,5,417,No
+767,Kyrgyzstan,1997,9.7,Overweight Children,Percent,5,Male,OVCH5Y758,5,5,417,No
+768,Kyrgyzstan,1997,8.7,Overweight Children,Percent,5,Female,OVCH5Y759,5,5,417,No
+769,Kyrgyzstan,1997,9.2,Overweight Children,Percent,5,All,OVCH5Y760,5,5,417,No
+770,Lao Peoples Democratic Republic,2006,1.5,Overweight Children,Percent,5,Male,OVCH5Y761,5,5,418,No
+771,Lao Peoples Democratic Republic,2006,1.0,Overweight Children,Percent,5,Female,OVCH5Y762,5,5,418,No
+772,Lao Peoples Democratic Republic,2006,1.3,Overweight Children,Percent,5,All,OVCH5Y763,5,5,418,No
+773,Lao Peoples Democratic Republic,2000,2.9,Overweight Children,Percent,5,Female,OVCH5Y764,5,5,418,No
+774,Lao Peoples Democratic Republic,2000,2.4,Overweight Children,Percent,5,Male,OVCH5Y765,5,5,418,No
+775,Lao Peoples Democratic Republic,2000,2.7,Overweight Children,Percent,5,All,OVCH5Y766,5,5,418,No
+776,Lebanon,2004,15.3,Overweight Children,Percent,5,Male,OVCH5Y767,5,5,422,No
+777,Lebanon,2004,18.0,Overweight Children,Percent,5,Female,OVCH5Y768,5,5,422,No
+778,Lebanon,2004,16.7,Overweight Children,Percent,5,All,OVCH5Y769,5,5,422,No
+779,Lebanon,1996,21.5,Overweight Children,Percent,5,Male,OVCH5Y770,5,5,422,No
+780,Lebanon,1996,20.2,Overweight Children,Percent,5,Female,OVCH5Y771,5,5,422,No
+781,Lebanon,1996,20.8,Overweight Children,Percent,5,All,OVCH5Y772,5,5,422,No
+782,Lesotho,2010,7.7,Overweight Children,Percent,5,Male,OVCH5Y773,5,5,426,No
+783,Lesotho,2010,7.3,Overweight Children,Percent,5,All,OVCH5Y774,5,5,426,No
+784,Lesotho,2010,6.9,Overweight Children,Percent,5,Female,OVCH5Y775,5,5,426,No
+785,Lesotho,2005,7.3,Overweight Children,Percent,5,Male,OVCH5Y776,5,5,426,No
+786,Lesotho,2005,6.8,Overweight Children,Percent,5,All,OVCH5Y777,5,5,426,No
+787,Lesotho,2005,6.2,Overweight Children,Percent,5,Female,OVCH5Y778,5,5,426,No
+788,Lesotho,2000,21.6,Overweight Children,Percent,5,Male,OVCH5Y779,5,5,426,No
+789,Lesotho,2000,20.4,Overweight Children,Percent,5,Female,OVCH5Y780,5,5,426,No
+790,Lesotho,2000,21.0,Overweight Children,Percent,5,All,OVCH5Y781,5,5,426,No
+791,Liberia,2007,4.9,Overweight Children,Percent,5,Male,OVCH5Y782,5,5,430,No
+792,Liberia,2007,4.2,Overweight Children,Percent,5,All,OVCH5Y783,5,5,430,No
+793,Liberia,2007,3.5,Overweight Children,Percent,5,Female,OVCH5Y784,5,5,430,No
+794,Liberia,2000,4.6,Overweight Children,Percent,5,Male,OVCH5Y785,5,5,430,No
+795,Liberia,2000,4.6,Overweight Children,Percent,5,Female,OVCH5Y786,5,5,430,No
+796,Liberia,2000,4.6,Overweight Children,Percent,5,All,OVCH5Y787,5,5,430,No
+797,Libya,2007,23.2,Overweight Children,Percent,5,Male,OVCH5Y788,5,5,434,No
+798,Libya,2007,21.6,Overweight Children,Percent,5,Female,OVCH5Y789,5,5,434,No
+799,Libya,2007,22.4,Overweight Children,Percent,5,All,OVCH5Y790,5,5,434,No
+800,Libya,1995,12.9,Overweight Children,Percent,5,Female,OVCH5Y791,5,5,434,No
+801,Libya,1995,13.9,Overweight Children,Percent,5,Male,OVCH5Y792,5,5,434,No
+802,Libya,1995,13.4,Overweight Children,Percent,5,All,OVCH5Y793,5,5,434,No
+803,Madagascar,2004,6.1,Overweight Children,Percent,5,Female,OVCH5Y794,5,5,450,No
+804,Madagascar,2004,6.3,Overweight Children,Percent,5,Male,OVCH5Y795,5,5,450,No
+805,Madagascar,2004,6.2,Overweight Children,Percent,5,All,OVCH5Y796,5,5,450,No
+806,Madagascar,1997,3.0,Overweight Children,Percent,5,Female,OVCH5Y797,5,5,450,No
+807,Madagascar,1997,2.9,Overweight Children,Percent,5,Male,OVCH5Y798,5,5,450,No
+808,Madagascar,1997,2.9,Overweight Children,Percent,5,All,OVCH5Y799,5,5,450,No
+809,Madagascar,1992,1.5,Overweight Children,Percent,5,Female,OVCH5Y800,5,5,450,No
+810,Madagascar,1992,1.8,Overweight Children,Percent,5,Male,OVCH5Y801,5,5,450,No
+811,Madagascar,1992,1.6,Overweight Children,Percent,5,All,OVCH5Y802,5,5,450,No
+812,Madagascar,1984,4.1,Overweight Children,Percent,5,All,OVCH5Y803,5,5,450,No
+813,Malawi,2010,10.3,Overweight Children,Percent,5,Male,OVCH5Y804,5,5,454,No
+814,Malawi,2010,9.2,Overweight Children,Percent,5,All,OVCH5Y805,5,5,454,No
+815,Malawi,2010,8.2,Overweight Children,Percent,5,Female,OVCH5Y806,5,5,454,No
+816,Malawi,2009,6.2,Overweight Children,Percent,5,Male,OVCH5Y807,5,5,454,No
+817,Malawi,2009,3.7,Overweight Children,Percent,5,Female,OVCH5Y808,5,5,454,No
+818,Malawi,2009,4.9,Overweight Children,Percent,5,All,OVCH5Y809,5,5,454,No
+819,Malawi,2006,11.9,Overweight Children,Percent,5,Male,OVCH5Y810,5,5,454,No
+820,Malawi,2006,10.7,Overweight Children,Percent,5,Female,OVCH5Y811,5,5,454,No
+821,Malawi,2006,11.3,Overweight Children,Percent,5,All,OVCH5Y812,5,5,454,No
+822,Malawi,2005,10.4,Overweight Children,Percent,5,Male,OVCH5Y813,5,5,454,No
+823,Malawi,2005,9.9,Overweight Children,Percent,5,Female,OVCH5Y814,5,5,454,No
+824,Malawi,2005,10.2,Overweight Children,Percent,5,All,OVCH5Y815,5,5,454,No
+825,Malawi,2000,7.9,Overweight Children,Percent,5,Female,OVCH5Y816,5,5,454,No
+826,Malawi,2000,8.8,Overweight Children,Percent,5,All,OVCH5Y817,5,5,454,No
+827,Malawi,2000,9.8,Overweight Children,Percent,5,Male,OVCH5Y818,5,5,454,No
+828,Malawi,1992,9.9,Overweight Children,Percent,5,All,OVCH5Y819,5,5,454,No
+829,Malawi,1992,10.2,Overweight Children,Percent,5,Male,OVCH5Y820,5,5,454,No
+830,Malawi,1992,9.6,Overweight Children,Percent,5,Female,OVCH5Y821,5,5,454,No
+831,Malaysia,1999,5.5,Overweight Children,Percent,5,All,OVCH5Y822,5,5,458,No
+832,Maldives,2009,7.9,Overweight Children,Percent,5,Male,OVCH5Y823,5,5,462,No
+833,Maldives,2009,6.4,Overweight Children,Percent,5,Female,OVCH5Y824,5,5,462,No
+834,Maldives,2009,6.5,Overweight Children,Percent,5,All,OVCH5Y825,5,5,462,No
+835,Maldives,2001,4.2,Overweight Children,Percent,5,Female,OVCH5Y826,5,5,462,No
+836,Maldives,2001,3.6,Overweight Children,Percent,5,Male,OVCH5Y827,5,5,462,No
+837,Maldives,2001,3.9,Overweight Children,Percent,5,All,OVCH5Y828,5,5,462,No
+838,Maldives,1998,6.8,Overweight Children,Percent,5,Male,OVCH5Y829,5,5,462,No
+839,Maldives,1998,7.0,Overweight Children,Percent,5,Female,OVCH5Y830,5,5,462,No
+840,Maldives,1998,6.9,Overweight Children,Percent,5,All,OVCH5Y831,5,5,462,No
+841,Maldives,1995,2.2,Overweight Children,Percent,5,All,OVCH5Y832,5,5,462,No
+842,Maldives,1994,1.3,Overweight Children,Percent,5,Male,OVCH5Y833,5,5,462,No
+843,Maldives,1994,1.0,Overweight Children,Percent,5,Female,OVCH5Y834,5,5,462,No
+844,Maldives,1994,1.2,Overweight Children,Percent,5,All,OVCH5Y835,5,5,462,No
+845,Mali,2006,4.9,Overweight Children,Percent,5,Male,OVCH5Y836,5,5,466,No
+846,Mali,2006,4.7,Overweight Children,Percent,5,All,OVCH5Y837,5,5,466,No
+847,Mali,2006,4.6,Overweight Children,Percent,5,Female,OVCH5Y838,5,5,466,No
+848,Mali,2001,3.2,Overweight Children,Percent,5,Male,OVCH5Y839,5,5,466,No
+849,Mali,2001,3.1,Overweight Children,Percent,5,All,OVCH5Y840,5,5,466,No
+850,Mali,2001,2.9,Overweight Children,Percent,5,Female,OVCH5Y841,5,5,466,No
+851,Mali,1996,2.3,Overweight Children,Percent,5,Male,OVCH5Y842,5,5,466,No
+852,Mali,1996,2.0,Overweight Children,Percent,5,Female,OVCH5Y843,5,5,466,No
+853,Mali,1996,2.1,Overweight Children,Percent,5,All,OVCH5Y844,5,5,466,No
+854,Mali,1987,0.5,Overweight Children,Percent,5,All,OVCH5Y845,5,5,466,No
+855,Mali,1987,0.9,Overweight Children,Percent,5,Male,OVCH5Y846,5,5,466,No
+856,Mali,1987,0.2,Overweight Children,Percent,5,Female,OVCH5Y847,5,5,466,No
+857,Mauritania,2012,1.2,Overweight Children,Percent,5,Female,OVCH5Y848,5,5,478,No
+858,Mauritania,2012,1.1,Overweight Children,Percent,5,Male,OVCH5Y849,5,5,478,No
+859,Mauritania,2012,1.2,Overweight Children,Percent,5,All,OVCH5Y850,5,5,478,No
+860,Mauritania,2008,1.3,Overweight Children,Percent,5,Male,OVCH5Y851,5,5,478,No
+861,Mauritania,2008,1.0,Overweight Children,Percent,5,All,OVCH5Y852,5,5,478,No
+862,Mauritania,2008,0.6,Overweight Children,Percent,5,Female,OVCH5Y853,5,5,478,No
+863,Mauritania,2007,2.4,Overweight Children,Percent,5,Male,OVCH5Y854,5,5,478,No
+864,Mauritania,2007,2.2,Overweight Children,Percent,5,Female,OVCH5Y855,5,5,478,No
+865,Mauritania,2007,2.3,Overweight Children,Percent,5,All,OVCH5Y856,5,5,478,No
+866,Mauritania,2001,3.9,Overweight Children,Percent,5,Male,OVCH5Y857,5,5,478,No
+867,Mauritania,2001,3.8,Overweight Children,Percent,5,All,OVCH5Y858,5,5,478,No
+868,Mauritania,2001,3.7,Overweight Children,Percent,5,Female,OVCH5Y859,5,5,478,No
+869,Mauritania,1990,6.5,Overweight Children,Percent,5,Male,OVCH5Y860,5,5,478,No
+870,Mauritania,1990,7.0,Overweight Children,Percent,5,Female,OVCH5Y861,5,5,478,No
+871,Mauritania,1990,6.8,Overweight Children,Percent,5,All,OVCH5Y862,5,5,478,No
+872,Mauritius,1995,6.5,Overweight Children,Percent,5,All,OVCH5Y863,5,5,480,No
+873,Mauritius,1985,8.8,Overweight Children,Percent,5,All,OVCH5Y864,5,5,480,No
+874,Mexico,2012,9.0,Overweight Children,Percent,5,All,OVCH5Y865,5,5,484,No
+875,Mexico,2012,9.0,Overweight Children,Percent,5,Male,OVCH5Y866,5,5,484,No
+876,Mexico,2012,9.0,Overweight Children,Percent,5,Female,OVCH5Y867,5,5,484,No
+877,Mexico,2006,8.4,Overweight Children,Percent,5,Male,OVCH5Y868,5,5,484,No
+878,Mexico,2006,6.7,Overweight Children,Percent,5,Female,OVCH5Y869,5,5,484,No
+879,Mexico,2006,7.6,Overweight Children,Percent,5,All,OVCH5Y870,5,5,484,No
+880,Mexico,1999,7.6,Overweight Children,Percent,5,All,OVCH5Y871,5,5,484,No
+881,Mexico,1999,7.4,Overweight Children,Percent,5,Female,OVCH5Y872,5,5,484,No
+882,Mexico,1999,7.9,Overweight Children,Percent,5,Male,OVCH5Y873,5,5,484,No
+883,Mexico,1989,10.1,Overweight Children,Percent,5,Male,OVCH5Y874,5,5,484,No
+884,Mexico,1989,9.5,Overweight Children,Percent,5,Female,OVCH5Y875,5,5,484,No
+885,Mexico,1989,9.8,Overweight Children,Percent,5,All,OVCH5Y876,5,5,484,No
+886,Mexico,1988,6.1,Overweight Children,Percent,5,All,OVCH5Y877,5,5,484,No
+887,Mongolia,2005,15.6,Overweight Children,Percent,5,Male,OVCH5Y878,5,5,496,No
+888,Mongolia,2005,12.6,Overweight Children,Percent,5,Female,OVCH5Y879,5,5,496,No
+889,Mongolia,2005,14.2,Overweight Children,Percent,5,All,OVCH5Y880,5,5,496,No
+890,Mongolia,2004,6.1,Overweight Children,Percent,5,All,OVCH5Y881,5,5,496,No
+891,Mongolia,2004,6.2,Overweight Children,Percent,5,Male,OVCH5Y882,5,5,496,No
+892,Mongolia,2004,6.0,Overweight Children,Percent,5,Female,OVCH5Y883,5,5,496,No
+893,Mongolia,2000,13.2,Overweight Children,Percent,5,Male,OVCH5Y884,5,5,496,No
+894,Mongolia,2000,12.2,Overweight Children,Percent,5,Female,OVCH5Y885,5,5,496,No
+895,Mongolia,2000,12.7,Overweight Children,Percent,5,All,OVCH5Y886,5,5,496,No
+896,Mongolia,1999,8.3,Overweight Children,Percent,5,Male,OVCH5Y887,5,5,496,No
+897,Mongolia,1999,5.7,Overweight Children,Percent,5,Female,OVCH5Y888,5,5,496,No
+898,Mongolia,1999,7.0,Overweight Children,Percent,5,All,OVCH5Y889,5,5,496,No
+899,Montenegro,2006,12.6,Overweight Children,Percent,5,Female,OVCH5Y890,5,5,499,No
+900,Montenegro,2006,18.6,Overweight Children,Percent,5,Male,OVCH5Y891,5,5,499,No
+901,Montenegro,2006,15.6,Overweight Children,Percent,5,All,OVCH5Y892,5,5,499,No
+902,Morocco,2011,12.5,Overweight Children,Percent,5,Male,OVCH5Y893,5,5,504,No
+903,Morocco,2011,8.8,Overweight Children,Percent,5,Female,OVCH5Y894,5,5,504,No
+904,Morocco,2011,10.7,Overweight Children,Percent,5,All,OVCH5Y895,5,5,504,No
+905,Morocco,2004,13.3,Overweight Children,Percent,5,All,OVCH5Y896,5,5,504,No
+906,Morocco,2004,14.3,Overweight Children,Percent,5,Male,OVCH5Y897,5,5,504,No
+907,Morocco,2004,12.4,Overweight Children,Percent,5,Female,OVCH5Y898,5,5,504,No
+908,Morocco,1997,15.4,Overweight Children,Percent,5,Male,OVCH5Y899,5,5,504,No
+909,Morocco,1997,11.9,Overweight Children,Percent,5,Female,OVCH5Y900,5,5,504,No
+910,Morocco,1997,13.7,Overweight Children,Percent,5,All,OVCH5Y901,5,5,504,No
+911,Morocco,1992,11.0,Overweight Children,Percent,5,Male,OVCH5Y902,5,5,504,No
+912,Morocco,1992,10.4,Overweight Children,Percent,5,Female,OVCH5Y903,5,5,504,No
+913,Morocco,1992,10.7,Overweight Children,Percent,5,All,OVCH5Y904,5,5,504,No
+914,Morocco,1987,5.9,Overweight Children,Percent,5,Male,OVCH5Y905,5,5,504,No
+915,Morocco,1987,5.2,Overweight Children,Percent,5,Female,OVCH5Y906,5,5,504,No
+916,Morocco,1987,5.5,Overweight Children,Percent,5,All,OVCH5Y907,5,5,504,No
+917,Mozambique,2011,8.1,Overweight Children,Percent,5,Male,OVCH5Y908,5,5,508,No
+918,Mozambique,2011,7.7,Overweight Children,Percent,5,Female,OVCH5Y909,5,5,508,No
+919,Mozambique,2011,7.9,Overweight Children,Percent,5,All,OVCH5Y910,5,5,508,No
+920,Mozambique,2008,4.1,Overweight Children,Percent,5,Male,OVCH5Y911,5,5,508,No
+921,Mozambique,2008,3.6,Overweight Children,Percent,5,All,OVCH5Y912,5,5,508,No
+922,Mozambique,2008,3.2,Overweight Children,Percent,5,Female,OVCH5Y913,5,5,508,No
+923,Mozambique,2003,5.3,Overweight Children,Percent,5,Female,OVCH5Y914,5,5,508,No
+924,Mozambique,2003,7.3,Overweight Children,Percent,5,Male,OVCH5Y915,5,5,508,No
+925,Mozambique,2003,6.3,Overweight Children,Percent,5,All,OVCH5Y916,5,5,508,No
+926,Mozambique,1997,6.0,Overweight Children,Percent,5,All,OVCH5Y917,5,5,508,No
+927,Mozambique,1997,5.5,Overweight Children,Percent,5,Male,OVCH5Y918,5,5,508,No
+928,Mozambique,1997,6.4,Overweight Children,Percent,5,Female,OVCH5Y919,5,5,508,No
+929,Myanmar,2010,2.7,Overweight Children,Percent,5,Male,OVCH5Y920,5,5,104,No
+930,Myanmar,2010,2.6,Overweight Children,Percent,5,Female,OVCH5Y921,5,5,104,No
+931,Myanmar,2010,2.6,Overweight Children,Percent,5,All,OVCH5Y922,5,5,104,No
+932,Myanmar,2003,2.4,Overweight Children,Percent,5,All,OVCH5Y923,5,5,104,No
+933,Myanmar,2003,2.2,Overweight Children,Percent,5,Male,OVCH5Y924,5,5,104,No
+934,Myanmar,2003,2.6,Overweight Children,Percent,5,Female,OVCH5Y925,5,5,104,No
+935,Myanmar,2000,2.2,Overweight Children,Percent,5,Male,OVCH5Y926,5,5,104,No
+936,Myanmar,2000,2.4,Overweight Children,Percent,5,All,OVCH5Y927,5,5,104,No
+937,Myanmar,2000,2.6,Overweight Children,Percent,5,Female,OVCH5Y928,5,5,104,No
+938,Myanmar,1997,11.6,Overweight Children,Percent,5,All,OVCH5Y929,5,5,104,No
+939,Namibia,2007,4.9,Overweight Children,Percent,5,Male,OVCH5Y930,5,5,516,No
+940,Namibia,2007,4.4,Overweight Children,Percent,5,Female,OVCH5Y931,5,5,516,No
+941,Namibia,2007,4.6,Overweight Children,Percent,5,All,OVCH5Y932,5,5,516,No
+942,Namibia,2000,2.9,Overweight Children,Percent,5,Female,OVCH5Y933,5,5,516,No
+943,Namibia,2000,3.7,Overweight Children,Percent,5,Male,OVCH5Y934,5,5,516,No
+944,Namibia,2000,3.3,Overweight Children,Percent,5,All,OVCH5Y935,5,5,516,No
+945,Namibia,1992,5.2,Overweight Children,Percent,5,Male,OVCH5Y936,5,5,516,No
+946,Namibia,1992,3.9,Overweight Children,Percent,5,Female,OVCH5Y937,5,5,516,No
+947,Namibia,1992,4.5,Overweight Children,Percent,5,All,OVCH5Y938,5,5,516,No
+948,Nauru,2007,2.8,Overweight Children,Percent,5,All,OVCH5Y939,5,5,520,No
+949,Nepal,2011,1.5,Overweight Children,Percent,5,Male,OVCH5Y940,5,5,524,No
+950,Nepal,2011,1.5,Overweight Children,Percent,5,All,OVCH5Y941,5,5,524,No
+951,Nepal,2011,1.6,Overweight Children,Percent,5,Female,OVCH5Y942,5,5,524,No
+952,Nepal,2006,0.6,Overweight Children,Percent,5,Male,OVCH5Y943,5,5,524,No
+953,Nepal,2006,0.6,Overweight Children,Percent,5,Female,OVCH5Y944,5,5,524,No
+954,Nepal,2006,0.6,Overweight Children,Percent,5,All,OVCH5Y945,5,5,524,No
+955,Nepal,2001,0.6,Overweight Children,Percent,5,Male,OVCH5Y946,5,5,524,No
+956,Nepal,2001,0.7,Overweight Children,Percent,5,All,OVCH5Y947,5,5,524,No
+957,Nepal,2001,0.7,Overweight Children,Percent,5,Female,OVCH5Y948,5,5,524,No
+958,Nepal,1998,0.4,Overweight Children,Percent,5,Female,OVCH5Y949,5,5,524,No
+959,Nepal,1998,0.5,Overweight Children,Percent,5,Male,OVCH5Y950,5,5,524,No
+960,Nepal,1998,0.4,Overweight Children,Percent,5,All,OVCH5Y951,5,5,524,No
+961,Nepal,1996,0.7,Overweight Children,Percent,5,Female,OVCH5Y952,5,5,524,No
+962,Nepal,1996,1.0,Overweight Children,Percent,5,All,OVCH5Y953,5,5,524,No
+963,Nepal,1996,1.3,Overweight Children,Percent,5,Male,OVCH5Y954,5,5,524,No
+964,Nepal,1995,1.2,Overweight Children,Percent,5,All,OVCH5Y955,5,5,524,No
+965,Nepal,1975,0.4,Overweight Children,Percent,5,Male,OVCH5Y956,5,5,524,No
+966,Nepal,1975,0.1,Overweight Children,Percent,5,Female,OVCH5Y957,5,5,524,No
+967,Nepal,1975,0.3,Overweight Children,Percent,5,All,OVCH5Y958,5,5,524,No
+968,Netherlands,1980,2.3,Overweight Children,Percent,5,All,OVCH5Y959,5,5,528,No
+969,Netherlands,1980,2.1,Overweight Children,Percent,5,Female,OVCH5Y960,5,5,528,No
+970,Netherlands,1980,2.5,Overweight Children,Percent,5,Male,OVCH5Y961,5,5,528,No
+971,Nicaragua,2007,6.7,Overweight Children,Percent,5,Male,OVCH5Y962,5,5,558,No
+972,Nicaragua,2007,5.6,Overweight Children,Percent,5,Female,OVCH5Y963,5,5,558,No
+973,Nicaragua,2007,6.2,Overweight Children,Percent,5,All,OVCH5Y964,5,5,558,No
+974,Nicaragua,2005,5.2,Overweight Children,Percent,5,All,OVCH5Y965,5,5,558,No
+975,Nicaragua,2005,6.7,Overweight Children,Percent,5,Male,OVCH5Y966,5,5,558,No
+976,Nicaragua,2005,3.7,Overweight Children,Percent,5,Female,OVCH5Y967,5,5,558,No
+977,Nicaragua,2001,8.1,Overweight Children,Percent,5,Male,OVCH5Y968,5,5,558,No
+978,Nicaragua,2001,6.2,Overweight Children,Percent,5,Female,OVCH5Y969,5,5,558,No
+979,Nicaragua,2001,7.1,Overweight Children,Percent,5,All,OVCH5Y970,5,5,558,No
+980,Nicaragua,1998,7.5,Overweight Children,Percent,5,Male,OVCH5Y971,5,5,558,No
+981,Nicaragua,1998,6.4,Overweight Children,Percent,5,Female,OVCH5Y972,5,5,558,No
+982,Nicaragua,1998,7.0,Overweight Children,Percent,5,All,OVCH5Y973,5,5,558,No
+983,Nicaragua,1998,4.0,Overweight Children,Percent,5,All,OVCH5Y974,5,5,558,No
+984,Nicaragua,1998,4.0,Overweight Children,Percent,5,Male,OVCH5Y975,5,5,558,No
+985,Nicaragua,1998,3.9,Overweight Children,Percent,5,Female,OVCH5Y976,5,5,558,No
+986,Nicaragua,1993,5.8,Overweight Children,Percent,5,Male,OVCH5Y977,5,5,558,No
+987,Nicaragua,1993,5.5,Overweight Children,Percent,5,Female,OVCH5Y978,5,5,558,No
+988,Nicaragua,1993,5.7,Overweight Children,Percent,5,All,OVCH5Y979,5,5,558,No
+989,Nicaragua,1982,3.8,Overweight Children,Percent,5,All,OVCH5Y980,5,5,558,No
+990,Niger,2006,3.6,Overweight Children,Percent,5,Male,OVCH5Y981,5,5,562,No
+991,Niger,2006,3.5,Overweight Children,Percent,5,Female,OVCH5Y982,5,5,562,No
+992,Niger,2006,3.5,Overweight Children,Percent,5,All,OVCH5Y983,5,5,562,No
+993,Niger,2000,1.6,Overweight Children,Percent,5,All,OVCH5Y984,5,5,562,No
+994,Niger,2000,1.9,Overweight Children,Percent,5,Male,OVCH5Y985,5,5,562,No
+995,Niger,2000,1.4,Overweight Children,Percent,5,Female,OVCH5Y986,5,5,562,No
+996,Niger,1998,0.8,Overweight Children,Percent,5,Male,OVCH5Y987,5,5,562,No
+997,Niger,1998,1.6,Overweight Children,Percent,5,Female,OVCH5Y988,5,5,562,No
+998,Niger,1998,1.2,Overweight Children,Percent,5,All,OVCH5Y989,5,5,562,No
+999,Niger,1992,2.1,Overweight Children,Percent,5,Male,OVCH5Y990,5,5,562,No
+1000,Niger,1992,1.9,Overweight Children,Percent,5,Female,OVCH5Y991,5,5,562,No
+1001,Niger,1992,2.0,Overweight Children,Percent,5,All,OVCH5Y992,5,5,562,No
+1002,Nigeria,2011,3.2,Overweight Children,Percent,5,Male,OVCH5Y993,5,5,566,No
+1003,Nigeria,2011,2.7,Overweight Children,Percent,5,Female,OVCH5Y994,5,5,566,No
+1004,Nigeria,2011,3.0,Overweight Children,Percent,5,All,OVCH5Y995,5,5,566,No
+1005,Nigeria,2008,10.3,Overweight Children,Percent,5,Male,OVCH5Y996,5,5,566,No
+1006,Nigeria,2008,10.5,Overweight Children,Percent,5,All,OVCH5Y997,5,5,566,No
+1007,Nigeria,2008,10.7,Overweight Children,Percent,5,Female,OVCH5Y998,5,5,566,No
+1008,Nigeria,2007,13.3,Overweight Children,Percent,5,All,OVCH5Y999,5,5,566,No
+1009,Nigeria,2007,13.5,Overweight Children,Percent,5,Male,OVCH5Y1000,5,5,566,No
+1010,Nigeria,2007,13.1,Overweight Children,Percent,5,Female,OVCH5Y1001,5,5,566,No
+1011,Nigeria,2003,6.5,Overweight Children,Percent,5,Male,OVCH5Y1002,5,5,566,No
+1012,Nigeria,2003,6.2,Overweight Children,Percent,5,All,OVCH5Y1003,5,5,566,No
+1013,Nigeria,2003,6.0,Overweight Children,Percent,5,Female,OVCH5Y1004,5,5,566,No
+1014,Nigeria,1993,5.5,Overweight Children,Percent,5,All,OVCH5Y1005,5,5,566,No
+1015,Nigeria,1990,3.2,Overweight Children,Percent,5,Male,OVCH5Y1006,5,5,566,No
+1016,Nigeria,1990,3.2,Overweight Children,Percent,5,All,OVCH5Y1007,5,5,566,No
+1017,Nigeria,1990,3.2,Overweight Children,Percent,5,Female,OVCH5Y1008,5,5,566,No
+1018,Oman,2009,1.5,Overweight Children,Percent,5,Male,OVCH5Y1009,5,5,512,No
+1019,Oman,2009,2.0,Overweight Children,Percent,5,Female,OVCH5Y1010,5,5,512,No
+1020,Oman,2009,1.7,Overweight Children,Percent,5,All,OVCH5Y1011,5,5,512,No
+1021,Oman,1999,1.6,Overweight Children,Percent,5,All,OVCH5Y1012,5,5,512,No
+1022,Oman,1999,1.7,Overweight Children,Percent,5,Male,OVCH5Y1013,5,5,512,No
+1023,Oman,1999,1.5,Overweight Children,Percent,5,Female,OVCH5Y1014,5,5,512,No
+1024,Oman,1995,1.6,Overweight Children,Percent,5,Female,OVCH5Y1015,5,5,512,No
+1025,Oman,1995,0.6,Overweight Children,Percent,5,Male,OVCH5Y1016,5,5,512,No
+1026,Oman,1995,1.1,Overweight Children,Percent,5,All,OVCH5Y1017,5,5,512,No
+1027,Oman,1991,5.5,Overweight Children,Percent,5,All,OVCH5Y1018,5,5,512,No
+1028,Pakistan,2011,6.6,Overweight Children,Percent,5,Male,OVCH5Y1019,5,5,586,No
+1029,Pakistan,2011,6.1,Overweight Children,Percent,5,Female,OVCH5Y1020,5,5,586,No
+1030,Pakistan,2011,6.4,Overweight Children,Percent,5,All,OVCH5Y1021,5,5,586,No
+1031,Pakistan,2001,4.8,Overweight Children,Percent,5,Male,OVCH5Y1022,5,5,586,No
+1032,Pakistan,2001,4.8,Overweight Children,Percent,5,Female,OVCH5Y1023,5,5,586,No
+1033,Pakistan,2001,4.8,Overweight Children,Percent,5,All,OVCH5Y1024,5,5,586,No
+1034,Pakistan,1994,1.3,Overweight Children,Percent,5,Male,OVCH5Y1025,5,5,586,No
+1035,Pakistan,1994,2.0,Overweight Children,Percent,5,Female,OVCH5Y1026,5,5,586,No
+1036,Pakistan,1994,1.6,Overweight Children,Percent,5,All,OVCH5Y1027,5,5,586,No
+1037,Pakistan,1991,5.2,Overweight Children,Percent,5,Male,OVCH5Y1028,5,5,586,No
+1038,Pakistan,1991,5.6,Overweight Children,Percent,5,Female,OVCH5Y1029,5,5,586,No
+1039,Pakistan,1991,5.4,Overweight Children,Percent,5,All,OVCH5Y1030,5,5,586,No
+1040,Pakistan,1987,7.8,Overweight Children,Percent,5,All,OVCH5Y1031,5,5,586,No
+1041,Pakistan,1977,6.2,Overweight Children,Percent,5,All,OVCH5Y1032,5,5,586,No
+1042,Panama,1997,6.2,Overweight Children,Percent,5,Male,OVCH5Y1033,5,5,591,No
+1043,Panama,1997,6.2,Overweight Children,Percent,5,Male,OVCH5Y1033,5,5,590,No
+1044,Panama,1997,6.2,Overweight Children,Percent,5,All,OVCH5Y1034,5,5,591,No
+1045,Panama,1997,6.2,Overweight Children,Percent,5,All,OVCH5Y1034,5,5,590,No
+1046,Panama,1997,6.2,Overweight Children,Percent,5,Female,OVCH5Y1035,5,5,591,No
+1047,Panama,1997,6.2,Overweight Children,Percent,5,Female,OVCH5Y1035,5,5,590,No
+1048,Panama,1980,6.9,Overweight Children,Percent,5,All,OVCH5Y1036,5,5,591,No
+1049,Panama,1980,6.9,Overweight Children,Percent,5,All,OVCH5Y1036,5,5,590,No
+1050,Papua New Guinea,2005,2.5,Overweight Children,Percent,5,Female,OVCH5Y1037,5,5,598,No
+1051,Papua New Guinea,2005,4.2,Overweight Children,Percent,5,Male,OVCH5Y1038,5,5,598,No
+1052,Papua New Guinea,2005,3.4,Overweight Children,Percent,5,All,OVCH5Y1039,5,5,598,No
+1053,Papua New Guinea,1983,2.4,Overweight Children,Percent,5,Female,OVCH5Y1040,5,5,598,No
+1054,Papua New Guinea,1983,3.1,Overweight Children,Percent,5,Male,OVCH5Y1041,5,5,598,No
+1055,Papua New Guinea,1983,2.7,Overweight Children,Percent,5,All,OVCH5Y1042,5,5,598,No
+1056,Paraguay,2005,7.1,Overweight Children,Percent,5,All,OVCH5Y1043,5,5,600,No
+1057,Paraguay,1990,7.8,Overweight Children,Percent,5,Male,OVCH5Y1044,5,5,600,No
+1058,Paraguay,1990,4.7,Overweight Children,Percent,5,Female,OVCH5Y1045,5,5,600,No
+1059,Paraguay,1990,6.3,Overweight Children,Percent,5,All,OVCH5Y1046,5,5,600,No
+1060,Peru,2010,6.9,Overweight Children,Percent,5,All,OVCH5Y1047,5,5,604,No
+1061,Peru,2008,9.8,Overweight Children,Percent,5,Female,OVCH5Y1048,5,5,604,No
+1062,Peru,2008,9.8,Overweight Children,Percent,5,Male,OVCH5Y1049,5,5,604,No
+1063,Peru,2008,9.8,Overweight Children,Percent,5,All,OVCH5Y1050,5,5,604,No
+1064,Peru,2005,10.9,Overweight Children,Percent,5,Male,OVCH5Y1051,5,5,604,No
+1065,Peru,2005,7.1,Overweight Children,Percent,5,Female,OVCH5Y1052,5,5,604,No
+1066,Peru,2005,9.1,Overweight Children,Percent,5,All,OVCH5Y1053,5,5,604,No
+1067,Peru,2000,12.9,Overweight Children,Percent,5,Male,OVCH5Y1054,5,5,604,No
+1068,Peru,2000,10.7,Overweight Children,Percent,5,Female,OVCH5Y1055,5,5,604,No
+1069,Peru,2000,11.8,Overweight Children,Percent,5,All,OVCH5Y1056,5,5,604,No
+1070,Peru,1996,10.9,Overweight Children,Percent,5,Male,OVCH5Y1057,5,5,604,No
+1071,Peru,1996,8.9,Overweight Children,Percent,5,Female,OVCH5Y1058,5,5,604,No
+1072,Peru,1996,9.9,Overweight Children,Percent,5,All,OVCH5Y1059,5,5,604,No
+1073,Peru,1992,9.9,Overweight Children,Percent,5,Male,OVCH5Y1060,5,5,604,No
+1074,Peru,1992,8.8,Overweight Children,Percent,5,Female,OVCH5Y1061,5,5,604,No
+1075,Peru,1992,9.3,Overweight Children,Percent,5,All,OVCH5Y1062,5,5,604,No
+1076,Philippines,2011,4.7,Overweight Children,Percent,5,Male,OVCH5Y1063,5,5,608,No
+1077,Philippines,2011,3.9,Overweight Children,Percent,5,Female,OVCH5Y1064,5,5,608,No
+1078,Philippines,2011,4.3,Overweight Children,Percent,5,All,OVCH5Y1065,5,5,608,No
+1079,Philippines,2008,3.3,Overweight Children,Percent,5,All,OVCH5Y1066,5,5,608,No
+1080,Philippines,2008,3.6,Overweight Children,Percent,5,Male,OVCH5Y1067,5,5,608,No
+1081,Philippines,2008,2.9,Overweight Children,Percent,5,Female,OVCH5Y1068,5,5,608,No
+1082,Philippines,2003,2.2,Overweight Children,Percent,5,Female,OVCH5Y1069,5,5,608,No
+1083,Philippines,2003,2.4,Overweight Children,Percent,5,All,OVCH5Y1070,5,5,608,No
+1084,Philippines,2003,2.7,Overweight Children,Percent,5,Male,OVCH5Y1071,5,5,608,No
+1085,Philippines,1998,1.9,Overweight Children,Percent,5,All,OVCH5Y1072,5,5,608,No
+1086,Philippines,1992,1.7,Overweight Children,Percent,5,All,OVCH5Y1073,5,5,608,No
+1087,Philippines,1975,0.8,Overweight Children,Percent,5,All,OVCH5Y1074,5,5,608,No
+1088,Qatar,1995,10.4,Overweight Children,Percent,5,All,OVCH5Y1075,5,5,634,No
+1089,Republic of Moldova,2005,9.3,Overweight Children,Percent,5,Female,OVCH5Y1076,5,5,498,No
+1090,Republic of Moldova,2005,9.1,Overweight Children,Percent,5,All,OVCH5Y1077,5,5,498,No
+1091,Republic of Moldova,2005,8.9,Overweight Children,Percent,5,Male,OVCH5Y1078,5,5,498,No
+1092,Romania,2002,8.1,Overweight Children,Percent,5,Female,OVCH5Y1079,5,5,642,No
+1093,Romania,2002,8.6,Overweight Children,Percent,5,Male,OVCH5Y1080,5,5,642,No
+1094,Romania,2002,8.3,Overweight Children,Percent,5,All,OVCH5Y1081,5,5,642,No
+1095,Romania,2001,9.1,Overweight Children,Percent,5,Male,OVCH5Y1082,5,5,642,No
+1096,Romania,2001,9.0,Overweight Children,Percent,5,Female,OVCH5Y1083,5,5,642,No
+1097,Romania,2001,9.1,Overweight Children,Percent,5,All,OVCH5Y1084,5,5,642,No
+1098,Romania,2000,9.4,Overweight Children,Percent,5,Male,OVCH5Y1085,5,5,642,No
+1099,Romania,2000,8.5,Overweight Children,Percent,5,Female,OVCH5Y1086,5,5,642,No
+1100,Romania,2000,8.9,Overweight Children,Percent,5,All,OVCH5Y1087,5,5,642,No
+1101,Romania,1999,10.2,Overweight Children,Percent,5,Male,OVCH5Y1088,5,5,642,No
+1102,Romania,1999,10.1,Overweight Children,Percent,5,All,OVCH5Y1089,5,5,642,No
+1103,Romania,1999,10.0,Overweight Children,Percent,5,Female,OVCH5Y1090,5,5,642,No
+1104,Romania,1991,4.0,Overweight Children,Percent,5,All,OVCH5Y1091,5,5,642,No
+1105,Rwanda,2011,7.1,Overweight Children,Percent,5,Male,OVCH5Y1092,5,5,646,No
+1106,Rwanda,2011,7.1,Overweight Children,Percent,5,All,OVCH5Y1093,5,5,646,No
+1107,Rwanda,2011,7.1,Overweight Children,Percent,5,Female,OVCH5Y1094,5,5,646,No
+1108,Rwanda,2005,6.3,Overweight Children,Percent,5,Female,OVCH5Y1095,5,5,646,No
+1109,Rwanda,2005,7.2,Overweight Children,Percent,5,Male,OVCH5Y1096,5,5,646,No
+1110,Rwanda,2005,6.7,Overweight Children,Percent,5,All,OVCH5Y1097,5,5,646,No
+1111,Rwanda,2000,7.5,Overweight Children,Percent,5,Male,OVCH5Y1098,5,5,646,No
+1112,Rwanda,2000,7.2,Overweight Children,Percent,5,All,OVCH5Y1099,5,5,646,No
+1113,Rwanda,2000,7.0,Overweight Children,Percent,5,Female,OVCH5Y1100,5,5,646,No
+1114,Rwanda,1992,4.3,Overweight Children,Percent,5,Male,OVCH5Y1101,5,5,646,No
+1115,Rwanda,1992,3.6,Overweight Children,Percent,5,Female,OVCH5Y1102,5,5,646,No
+1116,Rwanda,1992,4.0,Overweight Children,Percent,5,All,OVCH5Y1103,5,5,646,No
+1117,Rwanda,1976,2.2,Overweight Children,Percent,5,All,OVCH5Y1104,5,5,646,No
+1118,Saint Lucia,1976,4.3,Overweight Children,Percent,5,All,OVCH5Y1105,5,5,662,No
+1119,Samoa,1999,6.2,Overweight Children,Percent,5,All,OVCH5Y1106,5,5,882,No
+1120,Sao Tome and Principe,2009,12.1,Overweight Children,Percent,5,Female,OVCH5Y1107,5,5,678,No
+1121,Sao Tome and Principe,2009,11.6,Overweight Children,Percent,5,All,OVCH5Y1108,5,5,678,No
+1122,Sao Tome and Principe,2009,11.1,Overweight Children,Percent,5,Male,OVCH5Y1109,5,5,678,No
+1123,Sao Tome and Principe,2006,15.4,Overweight Children,Percent,5,All,OVCH5Y1110,5,5,678,No
+1124,Sao Tome and Principe,2000,9.8,Overweight Children,Percent,5,Male,OVCH5Y1111,5,5,678,No
+1125,Sao Tome and Principe,2000,8.7,Overweight Children,Percent,5,Female,OVCH5Y1112,5,5,678,No
+1126,Sao Tome and Principe,2000,9.2,Overweight Children,Percent,5,All,OVCH5Y1113,5,5,678,No
+1127,Saudi Arabia,2005,6.1,Overweight Children,Percent,5,All,OVCH5Y1114,5,5,682,No
+1128,Saudi Arabia,2005,6.3,Overweight Children,Percent,5,Male,OVCH5Y1115,5,5,682,No
+1129,Saudi Arabia,2005,6.0,Overweight Children,Percent,5,Female,OVCH5Y1116,5,5,682,No
+1130,Saudi Arabia,1994,1.2,Overweight Children,Percent,5,All,OVCH5Y1117,5,5,682,No
+1131,Senegal,2012,0.8,Overweight Children,Percent,5,Male,OVCH5Y1118,5,5,686,No
+1132,Senegal,2012,0.6,Overweight Children,Percent,5,Female,OVCH5Y1119,5,5,686,No
+1133,Senegal,2012,0.7,Overweight Children,Percent,5,All,OVCH5Y1120,5,5,686,No
+1134,Senegal,2011,2.8,Overweight Children,Percent,5,Male,OVCH5Y1121,5,5,686,No
+1135,Senegal,2011,2.9,Overweight Children,Percent,5,Female,OVCH5Y1122,5,5,686,No
+1136,Senegal,2011,2.8,Overweight Children,Percent,5,All,OVCH5Y1123,5,5,686,No
+1137,Senegal,2005,2.4,Overweight Children,Percent,5,All,OVCH5Y1124,5,5,686,No
+1138,Senegal,2005,3.0,Overweight Children,Percent,5,Male,OVCH5Y1125,5,5,686,No
+1139,Senegal,2005,1.8,Overweight Children,Percent,5,Female,OVCH5Y1126,5,5,686,No
+1140,Senegal,2000,3.2,Overweight Children,Percent,5,All,OVCH5Y1127,5,5,686,No
+1141,Senegal,2000,3.1,Overweight Children,Percent,5,Male,OVCH5Y1128,5,5,686,No
+1142,Senegal,2000,3.2,Overweight Children,Percent,5,Female,OVCH5Y1129,5,5,686,No
+1143,Senegal,1993,3.9,Overweight Children,Percent,5,Female,OVCH5Y1130,5,5,686,No
+1144,Senegal,1993,4.1,Overweight Children,Percent,5,Male,OVCH5Y1131,5,5,686,No
+1145,Senegal,1993,4.0,Overweight Children,Percent,5,All,OVCH5Y1132,5,5,686,No
+1146,Senegal,1986,1.0,Overweight Children,Percent,5,Male,OVCH5Y1133,5,5,686,No
+1147,Senegal,1986,3.5,Overweight Children,Percent,5,Female,OVCH5Y1134,5,5,686,No
+1148,Senegal,1986,2.2,Overweight Children,Percent,5,All,OVCH5Y1135,5,5,686,No
+1149,Serbia,2010,16.6,Overweight Children,Percent,5,Male,OVCH5Y1136,5,5,688,No
+1150,Serbia,2010,14.7,Overweight Children,Percent,5,Female,OVCH5Y1137,5,5,688,No
+1151,Serbia,2010,15.6,Overweight Children,Percent,5,All,OVCH5Y1138,5,5,688,No
+1152,Serbia,2006,19.3,Overweight Children,Percent,5,All,OVCH5Y1139,5,5,688,No
+1153,Serbia,2006,20.4,Overweight Children,Percent,5,Male,OVCH5Y1140,5,5,688,No
+1154,Serbia,2006,18.2,Overweight Children,Percent,5,Female,OVCH5Y1141,5,5,688,No
+1155,Seychelles,1988,5.8,Overweight Children,Percent,5,All,OVCH5Y1142,5,5,690,No
+1156,Sierra Leone,2010,10.6,Overweight Children,Percent,5,Female,OVCH5Y1143,5,5,694,No
+1157,Sierra Leone,2010,10.3,Overweight Children,Percent,5,All,OVCH5Y1144,5,5,694,No
+1158,Sierra Leone,2010,1.5,Overweight Children,Percent,5,Female,OVCH5Y1145,5,5,694,No
+1159,Sierra Leone,2010,9.9,Overweight Children,Percent,5,Male,OVCH5Y1146,5,5,694,No
+1160,Sierra Leone,2010,1.4,Overweight Children,Percent,5,Male,OVCH5Y1147,5,5,694,No
+1161,Sierra Leone,2010,1.4,Overweight Children,Percent,5,All,OVCH5Y1148,5,5,694,No
+1162,Sierra Leone,2008,9.9,Overweight Children,Percent,5,Female,OVCH5Y1149,5,5,694,No
+1163,Sierra Leone,2008,10.3,Overweight Children,Percent,5,Male,OVCH5Y1150,5,5,694,No
+1164,Sierra Leone,2008,10.1,Overweight Children,Percent,5,All,OVCH5Y1151,5,5,694,No
+1165,Sierra Leone,2005,6.3,Overweight Children,Percent,5,Male,OVCH5Y1152,5,5,694,No
+1166,Sierra Leone,2005,5.5,Overweight Children,Percent,5,Female,OVCH5Y1153,5,5,694,No
+1167,Sierra Leone,2005,5.9,Overweight Children,Percent,5,All,OVCH5Y1154,5,5,694,No
+1168,Sierra Leone,2000,5.4,Overweight Children,Percent,5,Male,OVCH5Y1155,5,5,694,No
+1169,Sierra Leone,2000,4.1,Overweight Children,Percent,5,Female,OVCH5Y1156,5,5,694,No
+1170,Sierra Leone,2000,4.7,Overweight Children,Percent,5,All,OVCH5Y1157,5,5,694,No
+1171,Sierra Leone,1975,12.4,Overweight Children,Percent,5,All,OVCH5Y1158,5,5,694,No
+1172,Singapore,2000,3.1,Overweight Children,Percent,5,Male,OVCH5Y1159,5,5,702,No
+1173,Singapore,2000,2.0,Overweight Children,Percent,5,Female,OVCH5Y1160,5,5,702,No
+1174,Singapore,2000,2.6,Overweight Children,Percent,5,All,OVCH5Y1161,5,5,702,No
+1175,Singapore,1977,0.7,Overweight Children,Percent,5,Male,OVCH5Y1162,5,5,702,No
+1176,Singapore,1977,0.5,Overweight Children,Percent,5,Female,OVCH5Y1163,5,5,702,No
+1177,Singapore,1977,0.6,Overweight Children,Percent,5,All,OVCH5Y1164,5,5,702,No
+1178,Solomon Islands,2007,2.5,Overweight Children,Percent,5,All,OVCH5Y1165,5,5,90,No
+1179,Solomon Islands,1989,2.3,Overweight Children,Percent,5,Male,OVCH5Y1166,5,5,90,No
+1180,Solomon Islands,1989,1.9,Overweight Children,Percent,5,All,OVCH5Y1167,5,5,90,No
+1181,Solomon Islands,1989,1.5,Overweight Children,Percent,5,Female,OVCH5Y1168,5,5,90,No
+1182,Solomon Islands,1970,4.1,Overweight Children,Percent,5,Male,OVCH5Y1169,5,5,90,No
+1183,Solomon Islands,1970,4.1,Overweight Children,Percent,5,Female,OVCH5Y1170,5,5,90,No
+1184,Solomon Islands,1970,4.1,Overweight Children,Percent,5,All,OVCH5Y1171,5,5,90,No
+1185,Somalia,2006,4.9,Overweight Children,Percent,5,Male,OVCH5Y1172,5,5,706,No
+1186,Somalia,2006,4.5,Overweight Children,Percent,5,Female,OVCH5Y1173,5,5,706,No
+1187,Somalia,2006,4.7,Overweight Children,Percent,5,All,OVCH5Y1174,5,5,706,No
+1188,South Africa,2005,20.6,Overweight Children,Percent,5,Male,OVCH5Y1175,5,5,710,No
+1189,South Africa,2005,19.2,Overweight Children,Percent,5,All,OVCH5Y1176,5,5,710,No
+1190,South Africa,2005,17.7,Overweight Children,Percent,5,Female,OVCH5Y1177,5,5,710,No
+1191,South Africa,1999,9.6,Overweight Children,Percent,5,All,OVCH5Y1178,5,5,710,No
+1192,South Africa,1995,10.3,Overweight Children,Percent,5,All,OVCH5Y1179,5,5,710,No
+1193,South Sudan,2006,11.2,Overweight Children,Percent,5,Female,OVCH5Y1180,5,5,728,No
+1194,South Sudan,2006,10.9,Overweight Children,Percent,5,All,OVCH5Y1181,5,5,728,No
+1195,South Sudan,2006,10.7,Overweight Children,Percent,5,Male,OVCH5Y1182,5,5,728,No
+1196,Sri Lanka,2009,1.0,Overweight Children,Percent,5,Female,OVCH5Y1183,5,5,144,No
+1197,Sri Lanka,2009,0.7,Overweight Children,Percent,5,Male,OVCH5Y1184,5,5,144,No
+1198,Sri Lanka,2009,0.8,Overweight Children,Percent,5,All,OVCH5Y1185,5,5,144,No
+1199,Sri Lanka,2007,1.6,Overweight Children,Percent,5,Male,OVCH5Y1186,5,5,144,No
+1200,Sri Lanka,2007,1.6,Overweight Children,Percent,5,All,OVCH5Y1187,5,5,144,No
+1201,Sri Lanka,2007,1.5,Overweight Children,Percent,5,Female,OVCH5Y1188,5,5,144,No
+1202,Sri Lanka,2000,0.8,Overweight Children,Percent,5,Male,OVCH5Y1189,5,5,144,No
+1203,Sri Lanka,2000,1.0,Overweight Children,Percent,5,All,OVCH5Y1190,5,5,144,No
+1204,Sri Lanka,2000,1.2,Overweight Children,Percent,5,Female,OVCH5Y1191,5,5,144,No
+1205,Sri Lanka,1987,0.3,Overweight Children,Percent,5,Male,OVCH5Y1192,5,5,144,No
+1206,Sri Lanka,1987,0.4,Overweight Children,Percent,5,Female,OVCH5Y1193,5,5,144,No
+1207,Sri Lanka,1987,0.4,Overweight Children,Percent,5,All,OVCH5Y1194,5,5,144,No
+1208,Sri Lanka,1978,0.2,Overweight Children,Percent,5,All,OVCH5Y1195,5,5,144,No
+1209,Sudan,2006,4.2,Overweight Children,Percent,5,All,OVCH5Y1196,5,5,729,No
+1210,Sudan,2006,4.2,Overweight Children,Percent,5,All,OVCH5Y1196,5,5,736,No
+1211,Sudan,2006,4.4,Overweight Children,Percent,5,Female,OVCH5Y1197,5,5,729,No
+1212,Sudan,2006,4.4,Overweight Children,Percent,5,Female,OVCH5Y1197,5,5,736,No
+1213,Sudan,2006,4.1,Overweight Children,Percent,5,Male,OVCH5Y1198,5,5,729,No
+1214,Sudan,2006,4.1,Overweight Children,Percent,5,Male,OVCH5Y1198,5,5,736,No
+1215,Suriname,2010,4.0,Overweight Children,Percent,5,All,OVCH5Y1199,5,5,740,No
+1216,Suriname,2010,5.0,Overweight Children,Percent,5,Male,OVCH5Y1200,5,5,740,No
+1217,Suriname,2010,3.0,Overweight Children,Percent,5,Female,OVCH5Y1201,5,5,740,No
+1218,Suriname,2006,3.4,Overweight Children,Percent,5,Female,OVCH5Y1202,5,5,740,No
+1219,Suriname,2006,4.0,Overweight Children,Percent,5,All,OVCH5Y1203,5,5,740,No
+1220,Suriname,2006,4.6,Overweight Children,Percent,5,Male,OVCH5Y1204,5,5,740,No
+1221,Suriname,2000,2.9,Overweight Children,Percent,5,All,OVCH5Y1205,5,5,740,No
+1222,Suriname,2000,3.0,Overweight Children,Percent,5,Male,OVCH5Y1206,5,5,740,No
+1223,Suriname,2000,2.7,Overweight Children,Percent,5,Female,OVCH5Y1207,5,5,740,No
+1224,Swaziland,2010,11.2,Overweight Children,Percent,5,Female,OVCH5Y1208,5,5,748,No
+1225,Swaziland,2010,10.1,Overweight Children,Percent,5,Male,OVCH5Y1209,5,5,748,No
+1226,Swaziland,2010,10.7,Overweight Children,Percent,5,All,OVCH5Y1210,5,5,748,No
+1227,Swaziland,2007,11.8,Overweight Children,Percent,5,Male,OVCH5Y1211,5,5,748,No
+1228,Swaziland,2007,11.4,Overweight Children,Percent,5,All,OVCH5Y1212,5,5,748,No
+1229,Swaziland,2007,10.9,Overweight Children,Percent,5,Female,OVCH5Y1213,5,5,748,No
+1230,Swaziland,2000,13.9,Overweight Children,Percent,5,Female,OVCH5Y1214,5,5,748,No
+1231,Swaziland,2000,15.8,Overweight Children,Percent,5,Male,OVCH5Y1215,5,5,748,No
+1232,Swaziland,2000,14.9,Overweight Children,Percent,5,All,OVCH5Y1216,5,5,748,No
+1233,Syrian Arab Republic,2009,17.8,Overweight Children,Percent,5,Male,OVCH5Y1217,5,5,760,No
+1234,Syrian Arab Republic,2009,18.1,Overweight Children,Percent,5,Female,OVCH5Y1218,5,5,760,No
+1235,Syrian Arab Republic,2009,17.9,Overweight Children,Percent,5,All,OVCH5Y1219,5,5,760,No
+1236,Syrian Arab Republic,2006,18.7,Overweight Children,Percent,5,All,OVCH5Y1220,5,5,760,No
+1237,Syrian Arab Republic,2006,19.2,Overweight Children,Percent,5,Male,OVCH5Y1221,5,5,760,No
+1238,Syrian Arab Republic,2006,18.1,Overweight Children,Percent,5,Female,OVCH5Y1222,5,5,760,No
+1239,Syrian Arab Republic,2001,19.1,Overweight Children,Percent,5,Female,OVCH5Y1223,5,5,760,No
+1240,Syrian Arab Republic,2001,20.3,Overweight Children,Percent,5,Male,OVCH5Y1224,5,5,760,No
+1241,Syrian Arab Republic,2001,19.7,Overweight Children,Percent,5,All,OVCH5Y1225,5,5,760,No
+1242,Syrian Arab Republic,1993,15.6,Overweight Children,Percent,5,Male,OVCH5Y1226,5,5,760,No
+1243,Syrian Arab Republic,1993,15.0,Overweight Children,Percent,5,All,OVCH5Y1227,5,5,760,No
+1244,Syrian Arab Republic,1993,14.4,Overweight Children,Percent,5,Female,OVCH5Y1228,5,5,760,No
+1245,Tajikistan,2009,4.2,Overweight Children,Percent,5,All,OVCH5Y1229,5,5,762,No
+1246,Tajikistan,2009,4.3,Overweight Children,Percent,5,Male,OVCH5Y1230,5,5,762,No
+1247,Tajikistan,2009,4.0,Overweight Children,Percent,5,Female,OVCH5Y1231,5,5,762,No
+1248,Tajikistan,2005,7.2,Overweight Children,Percent,5,Male,OVCH5Y1232,5,5,762,No
+1249,Tajikistan,2005,6.2,Overweight Children,Percent,5,Female,OVCH5Y1233,5,5,762,No
+1250,Tajikistan,2005,6.7,Overweight Children,Percent,5,All,OVCH5Y1234,5,5,762,No
+1251,Thailand,2006,8.8,Overweight Children,Percent,5,Male,OVCH5Y1235,5,5,764,No
+1252,Thailand,2006,7.2,Overweight Children,Percent,5,Female,OVCH5Y1236,5,5,764,No
+1253,Thailand,2006,8.0,Overweight Children,Percent,5,All,OVCH5Y1237,5,5,764,No
+1254,Thailand,1995,4.7,Overweight Children,Percent,5,All,OVCH5Y1238,5,5,764,No
+1255,Thailand,1987,1.5,Overweight Children,Percent,5,Male,OVCH5Y1239,5,5,764,No
+1256,Thailand,1987,1.0,Overweight Children,Percent,5,Female,OVCH5Y1240,5,5,764,No
+1257,Thailand,1987,1.3,Overweight Children,Percent,5,All,OVCH5Y1241,5,5,764,No
+1258,The former Yugoslav Republic of Macedonia,2005,16.2,Overweight Children,Percent,5,All,OVCH5Y1242,5,5,807,No
+1259,The former Yugoslav Republic of Macedonia,2005,15.8,Overweight Children,Percent,5,Female,OVCH5Y1243,5,5,807,No
+1260,The former Yugoslav Republic of Macedonia,2005,16.6,Overweight Children,Percent,5,Male,OVCH5Y1244,5,5,807,No
+1261,The former Yugoslav Republic of Macedonia,2004,8.2,Overweight Children,Percent,5,Male,OVCH5Y1245,5,5,807,No
+1262,The former Yugoslav Republic of Macedonia,2004,7.6,Overweight Children,Percent,5,Female,OVCH5Y1246,5,5,807,No
+1263,The former Yugoslav Republic of Macedonia,2004,7.9,Overweight Children,Percent,5,All,OVCH5Y1247,5,5,807,No
+1264,The former Yugoslav Republic of Macedonia,1999,8.8,Overweight Children,Percent,5,Female,OVCH5Y1248,5,5,807,No
+1265,The former Yugoslav Republic of Macedonia,1999,10.2,Overweight Children,Percent,5,Male,OVCH5Y1249,5,5,807,No
+1266,The former Yugoslav Republic of Macedonia,1999,9.6,Overweight Children,Percent,5,All,OVCH5Y1250,5,5,807,No
+1267,Timor-Leste,2010,6.0,Overweight Children,Percent,5,Male,OVCH5Y1251,5,5,626,No
+1268,Timor-Leste,2010,5.7,Overweight Children,Percent,5,Female,OVCH5Y1252,5,5,626,No
+1269,Timor-Leste,2010,5.8,Overweight Children,Percent,5,All,OVCH5Y1253,5,5,626,No
+1270,Timor-Leste,2002,5.0,Overweight Children,Percent,5,Male,OVCH5Y1254,5,5,626,No
+1271,Timor-Leste,2002,6.5,Overweight Children,Percent,5,Female,OVCH5Y1255,5,5,626,No
+1272,Timor-Leste,2002,5.7,Overweight Children,Percent,5,All,OVCH5Y1256,5,5,626,No
+1273,Togo,2010,1.9,Overweight Children,Percent,5,Male,OVCH5Y1257,5,5,768,No
+1274,Togo,2010,1.2,Overweight Children,Percent,5,Female,OVCH5Y1258,5,5,768,No
+1275,Togo,2010,1.6,Overweight Children,Percent,5,All,OVCH5Y1259,5,5,768,No
+1276,Togo,2006,4.2,Overweight Children,Percent,5,Male,OVCH5Y1260,5,5,768,No
+1277,Togo,2006,4.7,Overweight Children,Percent,5,All,OVCH5Y1261,5,5,768,No
+1278,Togo,2006,5.1,Overweight Children,Percent,5,Female,OVCH5Y1262,5,5,768,No
+1279,Togo,1998,2.1,Overweight Children,Percent,5,Female,OVCH5Y1263,5,5,768,No
+1280,Togo,1998,3.1,Overweight Children,Percent,5,Male,OVCH5Y1264,5,5,768,No
+1281,Togo,1998,2.6,Overweight Children,Percent,5,All,OVCH5Y1265,5,5,768,No
+1282,Togo,1988,3.9,Overweight Children,Percent,5,Male,OVCH5Y1266,5,5,768,No
+1283,Togo,1988,2.5,Overweight Children,Percent,5,Female,OVCH5Y1267,5,5,768,No
+1284,Togo,1988,3.2,Overweight Children,Percent,5,All,OVCH5Y1268,5,5,768,No
+1285,Togo,1977,0.8,Overweight Children,Percent,5,All,OVCH5Y1269,5,5,768,No
+1286,Trinidad and Tobago,2000,6.2,Overweight Children,Percent,5,Female,OVCH5Y1270,5,5,780,No
+1287,Trinidad and Tobago,2000,3.8,Overweight Children,Percent,5,Male,OVCH5Y1271,5,5,780,No
+1288,Trinidad and Tobago,2000,4.9,Overweight Children,Percent,5,All,OVCH5Y1272,5,5,780,No
+1289,Trinidad and Tobago,1987,3.8,Overweight Children,Percent,5,Female,OVCH5Y1273,5,5,780,No
+1290,Trinidad and Tobago,1987,4.0,Overweight Children,Percent,5,All,OVCH5Y1274,5,5,780,No
+1291,Trinidad and Tobago,1987,4.3,Overweight Children,Percent,5,Male,OVCH5Y1275,5,5,780,No
+1292,Trinidad and Tobago,1976,8.2,Overweight Children,Percent,5,All,OVCH5Y1276,5,5,780,No
+1293,Tunisia,2006,8.8,Overweight Children,Percent,5,All,OVCH5Y1277,5,5,788,No
+1294,Tunisia,2006,8.5,Overweight Children,Percent,5,Male,OVCH5Y1278,5,5,788,No
+1295,Tunisia,2006,9.2,Overweight Children,Percent,5,Female,OVCH5Y1279,5,5,788,No
+1296,Tunisia,1997,1.4,Overweight Children,Percent,5,All,OVCH5Y1280,5,5,788,No
+1297,Tunisia,1995,25.8,Overweight Children,Percent,5,Male,OVCH5Y1281,5,5,788,No
+1298,Tunisia,1995,24.9,Overweight Children,Percent,5,Female,OVCH5Y1282,5,5,788,No
+1299,Tunisia,1995,25.4,Overweight Children,Percent,5,All,OVCH5Y1283,5,5,788,No
+1300,Tunisia,1988,4.2,Overweight Children,Percent,5,Female,OVCH5Y1284,5,5,788,No
+1301,Tunisia,1988,4.4,Overweight Children,Percent,5,Male,OVCH5Y1285,5,5,788,No
+1302,Tunisia,1988,4.3,Overweight Children,Percent,5,All,OVCH5Y1286,5,5,788,No
+1303,Tunisia,1975,5.1,Overweight Children,Percent,5,Male,OVCH5Y1287,5,5,788,No
+1304,Tunisia,1975,1.9,Overweight Children,Percent,5,Female,OVCH5Y1288,5,5,788,No
+1305,Tunisia,1975,3.6,Overweight Children,Percent,5,All,OVCH5Y1289,5,5,788,No
+1306,Turkey,2004,9.1,Overweight Children,Percent,5,All,OVCH5Y1290,5,5,792,No
+1307,Turkey,2004,10.6,Overweight Children,Percent,5,Male,OVCH5Y1291,5,5,792,No
+1308,Turkey,2004,7.5,Overweight Children,Percent,5,Female,OVCH5Y1292,5,5,792,No
+1309,Turkey,1998,4.4,Overweight Children,Percent,5,Male,OVCH5Y1293,5,5,792,No
+1310,Turkey,1998,3.5,Overweight Children,Percent,5,Female,OVCH5Y1294,5,5,792,No
+1311,Turkey,1998,4.0,Overweight Children,Percent,5,All,OVCH5Y1295,5,5,792,No
+1312,Turkey,1993,4.2,Overweight Children,Percent,5,Female,OVCH5Y1296,5,5,792,No
+1313,Turkey,1993,5.0,Overweight Children,Percent,5,All,OVCH5Y1297,5,5,792,No
+1314,Turkey,1993,5.7,Overweight Children,Percent,5,Male,OVCH5Y1298,5,5,792,No
+1315,Tuvalu,2007,6.3,Overweight Children,Percent,5,All,OVCH5Y1299,5,5,798,No
+1316,Uganda,2011,4.5,Overweight Children,Percent,5,Male,OVCH5Y1300,5,5,800,No
+1317,Uganda,2011,3.1,Overweight Children,Percent,5,Female,OVCH5Y1301,5,5,800,No
+1318,Uganda,2011,3.8,Overweight Children,Percent,5,All,OVCH5Y1302,5,5,800,No
+1319,Uganda,2006,5.0,Overweight Children,Percent,5,Male,OVCH5Y1303,5,5,800,No
+1320,Uganda,2006,4.7,Overweight Children,Percent,5,Female,OVCH5Y1304,5,5,800,No
+1321,Uganda,2006,4.9,Overweight Children,Percent,5,All,OVCH5Y1305,5,5,800,No
+1322,Uganda,2001,4.9,Overweight Children,Percent,5,All,OVCH5Y1306,5,5,800,No
+1323,Uganda,2001,5.3,Overweight Children,Percent,5,Male,OVCH5Y1307,5,5,800,No
+1324,Uganda,2001,4.5,Overweight Children,Percent,5,Female,OVCH5Y1308,5,5,800,No
+1325,Uganda,1995,5.1,Overweight Children,Percent,5,All,OVCH5Y1309,5,5,800,No
+1326,Uganda,1995,5.6,Overweight Children,Percent,5,Male,OVCH5Y1310,5,5,800,No
+1327,Uganda,1995,4.6,Overweight Children,Percent,5,Female,OVCH5Y1311,5,5,800,No
+1328,Uganda,1989,3.6,Overweight Children,Percent,5,Male,OVCH5Y1312,5,5,800,No
+1329,Uganda,1989,3.7,Overweight Children,Percent,5,Female,OVCH5Y1313,5,5,800,No
+1330,Uganda,1989,3.6,Overweight Children,Percent,5,All,OVCH5Y1314,5,5,800,No
+1331,Ukraine,2000,27.3,Overweight Children,Percent,5,Male,OVCH5Y1315,5,5,804,No
+1332,Ukraine,2000,26.5,Overweight Children,Percent,5,All,OVCH5Y1316,5,5,804,No
+1333,Ukraine,2000,25.5,Overweight Children,Percent,5,Female,OVCH5Y1317,5,5,804,No
+1334,United Kingdom,1979,4.9,Overweight Children,Percent,5,All,OVCH5Y1318,5,5,826,No
+1335,United Republic of Tanzania,2010,6.0,Overweight Children,Percent,5,Male,OVCH5Y1319,5,5,834,No
+1336,United Republic of Tanzania,2010,5.0,Overweight Children,Percent,5,Female,OVCH5Y1320,5,5,834,No
+1337,United Republic of Tanzania,2010,5.5,Overweight Children,Percent,5,All,OVCH5Y1321,5,5,834,No
+1338,United Republic of Tanzania,2005,5.5,Overweight Children,Percent,5,Male,OVCH5Y1322,5,5,834,No
+1339,United Republic of Tanzania,2005,4.9,Overweight Children,Percent,5,All,OVCH5Y1323,5,5,834,No
+1340,United Republic of Tanzania,2005,4.3,Overweight Children,Percent,5,Female,OVCH5Y1324,5,5,834,No
+1341,United Republic of Tanzania,1999,4.7,Overweight Children,Percent,5,Male,OVCH5Y1325,5,5,834,No
+1342,United Republic of Tanzania,1999,1.8,Overweight Children,Percent,5,Female,OVCH5Y1326,5,5,834,No
+1343,United Republic of Tanzania,1999,3.3,Overweight Children,Percent,5,All,OVCH5Y1327,5,5,834,No
+1344,United Republic of Tanzania,1996,5.0,Overweight Children,Percent,5,Male,OVCH5Y1328,5,5,834,No
+1345,United Republic of Tanzania,1996,4.2,Overweight Children,Percent,5,Female,OVCH5Y1329,5,5,834,No
+1346,United Republic of Tanzania,1996,4.6,Overweight Children,Percent,5,All,OVCH5Y1330,5,5,834,No
+1347,United Republic of Tanzania,1992,5.6,Overweight Children,Percent,5,Female,OVCH5Y1331,5,5,834,No
+1348,United Republic of Tanzania,1992,5.9,Overweight Children,Percent,5,Male,OVCH5Y1332,5,5,834,No
+1349,United Republic of Tanzania,1992,5.7,Overweight Children,Percent,5,All,OVCH5Y1333,5,5,834,No
+1350,United States of America,2004,8.1,Overweight Children,Percent,5,Female,OVCH5Y1334,5,5,840,No
+1351,United States of America,2004,7.9,Overweight Children,Percent,5,Male,OVCH5Y1335,5,5,840,No
+1352,United States of America,2004,8.0,Overweight Children,Percent,5,All,OVCH5Y1336,5,5,840,No
+1353,United States of America,2002,6.9,Overweight Children,Percent,5,Female,OVCH5Y1337,5,5,840,No
+1354,United States of America,2002,7.1,Overweight Children,Percent,5,Male,OVCH5Y1338,5,5,840,No
+1355,United States of America,2002,7.0,Overweight Children,Percent,5,All,OVCH5Y1339,5,5,840,No
+1356,United States of America,1994,5.8,Overweight Children,Percent,5,Male,OVCH5Y1340,5,5,840,No
+1357,United States of America,1994,5.1,Overweight Children,Percent,5,Female,OVCH5Y1341,5,5,840,No
+1358,United States of America,1994,5.4,Overweight Children,Percent,5,All,OVCH5Y1342,5,5,840,No
+1359,United States of America,1975,4.0,Overweight Children,Percent,5,All,OVCH5Y1343,5,5,840,No
+1360,Uruguay,2011,7.6,Overweight Children,Percent,5,Female,OVCH5Y1344,5,5,858,No
+1361,Uruguay,2011,7.7,Overweight Children,Percent,5,All,OVCH5Y1345,5,5,858,No
+1362,Uruguay,2011,7.8,Overweight Children,Percent,5,Male,OVCH5Y1346,5,5,858,No
+1363,Uruguay,2007,7.2,Overweight Children,Percent,5,Female,OVCH5Y1347,5,5,858,No
+1364,Uruguay,2007,9.5,Overweight Children,Percent,5,Male,OVCH5Y1348,5,5,858,No
+1365,Uruguay,2007,8.4,Overweight Children,Percent,5,All,OVCH5Y1349,5,5,858,No
+1366,Uruguay,2004,10.1,Overweight Children,Percent,5,Male,OVCH5Y1350,5,5,858,No
+1367,Uruguay,2004,9.4,Overweight Children,Percent,5,All,OVCH5Y1351,5,5,858,No
+1368,Uruguay,2004,8.6,Overweight Children,Percent,5,Female,OVCH5Y1352,5,5,858,No
+1369,Uruguay,2003,12.2,Overweight Children,Percent,5,All,OVCH5Y1353,5,5,858,No
+1370,Uruguay,2003,13.4,Overweight Children,Percent,5,Male,OVCH5Y1354,5,5,858,No
+1371,Uruguay,2003,11.0,Overweight Children,Percent,5,Female,OVCH5Y1355,5,5,858,No
+1372,Uruguay,2002,10.2,Overweight Children,Percent,5,Male,OVCH5Y1356,5,5,858,No
+1373,Uruguay,2002,9.8,Overweight Children,Percent,5,Female,OVCH5Y1357,5,5,858,No
+1374,Uruguay,2002,10.0,Overweight Children,Percent,5,All,OVCH5Y1358,5,5,858,No
+1375,Uruguay,1999,10.6,Overweight Children,Percent,5,Male,OVCH5Y1359,5,5,858,No
+1376,Uruguay,1999,8.6,Overweight Children,Percent,5,Female,OVCH5Y1360,5,5,858,No
+1377,Uruguay,1999,9.6,Overweight Children,Percent,5,All,OVCH5Y1361,5,5,858,No
+1378,Uzbekistan,2006,13.1,Overweight Children,Percent,5,Male,OVCH5Y1362,5,5,860,No
+1379,Uzbekistan,2006,12.5,Overweight Children,Percent,5,Female,OVCH5Y1363,5,5,860,No
+1380,Uzbekistan,2006,12.8,Overweight Children,Percent,5,All,OVCH5Y1364,5,5,860,No
+1381,Uzbekistan,2002,11.5,Overweight Children,Percent,5,Male,OVCH5Y1365,5,5,860,No
+1382,Uzbekistan,2002,10.7,Overweight Children,Percent,5,Female,OVCH5Y1366,5,5,860,No
+1383,Uzbekistan,2002,11.1,Overweight Children,Percent,5,All,OVCH5Y1367,5,5,860,No
+1384,Uzbekistan,1996,18.2,Overweight Children,Percent,5,Male,OVCH5Y1368,5,5,860,No
+1385,Uzbekistan,1996,18.5,Overweight Children,Percent,5,All,OVCH5Y1369,5,5,860,No
+1386,Uzbekistan,1996,18.8,Overweight Children,Percent,5,Female,OVCH5Y1370,5,5,860,No
+1387,Vanuatu,2007,5.4,Overweight Children,Percent,5,Male,OVCH5Y1371,5,5,548,No
+1388,Vanuatu,2007,4.7,Overweight Children,Percent,5,All,OVCH5Y1372,5,5,548,No
+1389,Vanuatu,2007,4.0,Overweight Children,Percent,5,Female,OVCH5Y1373,5,5,548,No
+1390,Venezuela (Bolivarian Republic of),2009,6.4,Overweight Children,Percent,5,All,OVCH5Y1374,5,5,862,No
+1391,Venezuela (Bolivarian Republic of),2008,6.3,Overweight Children,Percent,5,All,OVCH5Y1375,5,5,862,No
+1392,Venezuela (Bolivarian Republic of),2007,6.1,Overweight Children,Percent,5,All,OVCH5Y1376,5,5,862,No
+1393,Venezuela (Bolivarian Republic of),2006,6.1,Overweight Children,Percent,5,All,OVCH5Y1377,5,5,862,No
+1394,Venezuela (Bolivarian Republic of),2005,5.5,Overweight Children,Percent,5,All,OVCH5Y1378,5,5,862,No
+1395,Venezuela (Bolivarian Republic of),2004,5.2,Overweight Children,Percent,5,All,OVCH5Y1379,5,5,862,No
+1396,Venezuela (Bolivarian Republic of),2003,5.3,Overweight Children,Percent,5,All,OVCH5Y1380,5,5,862,No
+1397,Venezuela (Bolivarian Republic of),2002,5.4,Overweight Children,Percent,5,All,OVCH5Y1381,5,5,862,No
+1398,Venezuela (Bolivarian Republic of),2001,5.4,Overweight Children,Percent,5,All,OVCH5Y1382,5,5,862,No
+1399,Venezuela (Bolivarian Republic of),2000,5.3,Overweight Children,Percent,5,All,OVCH5Y1383,5,5,862,No
+1400,Venezuela (Bolivarian Republic of),1999,5.2,Overweight Children,Percent,5,All,OVCH5Y1384,5,5,862,No
+1401,Venezuela (Bolivarian Republic of),1998,4.9,Overweight Children,Percent,5,All,OVCH5Y1385,5,5,862,No
+1402,Venezuela (Bolivarian Republic of),1997,5.0,Overweight Children,Percent,5,All,OVCH5Y1386,5,5,862,No
+1403,Venezuela (Bolivarian Republic of),1996,4.7,Overweight Children,Percent,5,All,OVCH5Y1387,5,5,862,No
+1404,Venezuela (Bolivarian Republic of),1995,4.7,Overweight Children,Percent,5,All,OVCH5Y1388,5,5,862,No
+1405,Venezuela (Bolivarian Republic of),1994,5.0,Overweight Children,Percent,5,All,OVCH5Y1389,5,5,862,No
+1406,Venezuela (Bolivarian Republic of),1993,4.9,Overweight Children,Percent,5,All,OVCH5Y1390,5,5,862,No
+1407,Venezuela (Bolivarian Republic of),1992,4.9,Overweight Children,Percent,5,All,OVCH5Y1391,5,5,862,No
+1408,Venezuela (Bolivarian Republic of),1991,4.3,Overweight Children,Percent,5,All,OVCH5Y1392,5,5,862,No
+1409,Venezuela (Bolivarian Republic of),1990,4.0,Overweight Children,Percent,5,All,OVCH5Y1393,5,5,862,No
+1410,Venezuela (Bolivarian Republic of),1987,9.0,Overweight Children,Percent,5,All,OVCH5Y1394,5,5,862,No
+1411,Venezuela (Bolivarian Republic of),1982,5.5,Overweight Children,Percent,5,All,OVCH5Y1395,5,5,862,No
+1412,Viet Nam,2011,5.5,Overweight Children,Percent,5,Male,OVCH5Y1396,5,5,704,No
+1413,Viet Nam,2011,4.6,Overweight Children,Percent,5,All,OVCH5Y1397,5,5,704,No
+1414,Viet Nam,2011,3.8,Overweight Children,Percent,5,Female,OVCH5Y1398,5,5,704,No
+1415,Viet Nam,2008,3.4,Overweight Children,Percent,5,Male,OVCH5Y1399,5,5,704,No
+1416,Viet Nam,2008,2.5,Overweight Children,Percent,5,Female,OVCH5Y1400,5,5,704,No
+1417,Viet Nam,2008,3.0,Overweight Children,Percent,5,All,OVCH5Y1401,5,5,704,No
+1418,Viet Nam,2007,3.2,Overweight Children,Percent,5,Male,OVCH5Y1402,5,5,704,No
+1419,Viet Nam,2007,2.9,Overweight Children,Percent,5,All,OVCH5Y1403,5,5,704,No
+1420,Viet Nam,2007,2.5,Overweight Children,Percent,5,Female,OVCH5Y1404,5,5,704,No
+1421,Viet Nam,2006,2.6,Overweight Children,Percent,5,Female,OVCH5Y1405,5,5,704,No
+1422,Viet Nam,2006,3.1,Overweight Children,Percent,5,All,OVCH5Y1406,5,5,704,No
+1423,Viet Nam,2006,3.5,Overweight Children,Percent,5,Male,OVCH5Y1407,5,5,704,No
+1424,Viet Nam,2005,2.9,Overweight Children,Percent,5,Male,OVCH5Y1408,5,5,704,No
+1425,Viet Nam,2005,2.3,Overweight Children,Percent,5,Female,OVCH5Y1409,5,5,704,No
+1426,Viet Nam,2005,2.6,Overweight Children,Percent,5,All,OVCH5Y1410,5,5,704,No
+1427,Viet Nam,2004,3.0,Overweight Children,Percent,5,Male,OVCH5Y1411,5,5,704,No
+1428,Viet Nam,2004,2.7,Overweight Children,Percent,5,All,OVCH5Y1412,5,5,704,No
+1429,Viet Nam,2004,2.2,Overweight Children,Percent,5,Female,OVCH5Y1413,5,5,704,No
+1430,Viet Nam,2003,1.9,Overweight Children,Percent,5,Female,OVCH5Y1414,5,5,704,No
+1431,Viet Nam,2003,2.2,Overweight Children,Percent,5,All,OVCH5Y1415,5,5,704,No
+1432,Viet Nam,2003,2.4,Overweight Children,Percent,5,Male,OVCH5Y1416,5,5,704,No
+1433,Viet Nam,2002,2.8,Overweight Children,Percent,5,Male,OVCH5Y1417,5,5,704,No
+1434,Viet Nam,2002,2.3,Overweight Children,Percent,5,Female,OVCH5Y1418,5,5,704,No
+1435,Viet Nam,2002,2.6,Overweight Children,Percent,5,All,OVCH5Y1419,5,5,704,No
+1436,Viet Nam,2000,2.5,Overweight Children,Percent,5,Male,OVCH5Y1420,5,5,704,No
+1437,Viet Nam,2000,2.4,Overweight Children,Percent,5,Male,OVCH5Y1421,5,5,704,No
+1438,Viet Nam,2000,2.3,Overweight Children,Percent,5,All,OVCH5Y1422,5,5,704,No
+1439,Viet Nam,2000,2.5,Overweight Children,Percent,5,All,OVCH5Y1423,5,5,704,No
+1440,Viet Nam,2000,2.6,Overweight Children,Percent,5,Female,OVCH5Y1424,5,5,704,No
+1441,Viet Nam,2000,2.3,Overweight Children,Percent,5,Female,OVCH5Y1425,5,5,704,No
+1442,Viet Nam,2000,4.6,Overweight Children,Percent,5,All,OVCH5Y1426,5,5,704,No
+1443,Viet Nam,1999,1.8,Overweight Children,Percent,5,All,OVCH5Y1427,5,5,704,No
+1444,Viet Nam,1999,2.0,Overweight Children,Percent,5,Male,OVCH5Y1428,5,5,704,No
+1445,Viet Nam,1999,1.6,Overweight Children,Percent,5,Female,OVCH5Y1429,5,5,704,No
+1446,Viet Nam,1999,2.0,Overweight Children,Percent,5,All,OVCH5Y1430,5,5,704,No
+1447,Viet Nam,1998,1.4,Overweight Children,Percent,5,All,OVCH5Y1431,5,5,704,No
+1448,Viet Nam,1993,2.8,Overweight Children,Percent,5,All,OVCH5Y1432,5,5,704,No
+1449,Viet Nam,1993,3.2,Overweight Children,Percent,5,Male,OVCH5Y1433,5,5,704,No
+1450,Viet Nam,1993,2.5,Overweight Children,Percent,5,Female,OVCH5Y1434,5,5,704,No
+1451,Yemen,2003,5.3,Overweight Children,Percent,5,Female,OVCH5Y1435,5,5,887,No
+1452,Yemen,2003,5.3,Overweight Children,Percent,5,Female,OVCH5Y1435,5,5,886,No
+1453,Yemen,2003,4.6,Overweight Children,Percent,5,Male,OVCH5Y1436,5,5,887,No
+1454,Yemen,2003,4.6,Overweight Children,Percent,5,Male,OVCH5Y1436,5,5,886,No
+1455,Yemen,2003,5.0,Overweight Children,Percent,5,All,OVCH5Y1437,5,5,887,No
+1456,Yemen,2003,5.0,Overweight Children,Percent,5,All,OVCH5Y1437,5,5,886,No
+1457,Yemen,1997,3.7,Overweight Children,Percent,5,All,OVCH5Y1438,5,5,887,No
+1458,Yemen,1997,3.7,Overweight Children,Percent,5,All,OVCH5Y1438,5,5,886,No
+1459,Yemen,1997,3.7,Overweight Children,Percent,5,Male,OVCH5Y1439,5,5,887,No
+1460,Yemen,1997,3.7,Overweight Children,Percent,5,Male,OVCH5Y1439,5,5,886,No
+1461,Yemen,1997,3.8,Overweight Children,Percent,5,Female,OVCH5Y1440,5,5,887,No
+1462,Yemen,1997,3.8,Overweight Children,Percent,5,Female,OVCH5Y1440,5,5,886,No
+1463,Yemen,1996,6.9,Overweight Children,Percent,5,All,OVCH5Y1441,5,5,887,No
+1464,Yemen,1996,6.9,Overweight Children,Percent,5,All,OVCH5Y1441,5,5,886,No
+1465,Yemen,1992,4.7,Overweight Children,Percent,5,Male,OVCH5Y1442,5,5,887,No
+1466,Yemen,1992,4.7,Overweight Children,Percent,5,Male,OVCH5Y1442,5,5,886,No
+1467,Yemen,1992,10.8,Overweight Children,Percent,5,Female,OVCH5Y1443,5,5,887,No
+1468,Yemen,1992,10.8,Overweight Children,Percent,5,Female,OVCH5Y1443,5,5,886,No
+1469,Yemen,1992,8.1,Overweight Children,Percent,5,All,OVCH5Y1444,5,5,887,No
+1470,Yemen,1992,8.1,Overweight Children,Percent,5,All,OVCH5Y1444,5,5,886,No
+1471,Zambia,2007,8.6,Overweight Children,Percent,5,Male,OVCH5Y1445,5,5,894,No
+1472,Zambia,2007,8.2,Overweight Children,Percent,5,Female,OVCH5Y1446,5,5,894,No
+1473,Zambia,2007,8.4,Overweight Children,Percent,5,All,OVCH5Y1447,5,5,894,No
+1474,Zambia,2002,5.4,Overweight Children,Percent,5,Female,OVCH5Y1448,5,5,894,No
+1475,Zambia,2002,6.4,Overweight Children,Percent,5,Male,OVCH5Y1449,5,5,894,No
+1476,Zambia,2002,5.9,Overweight Children,Percent,5,All,OVCH5Y1450,5,5,894,No
+1477,Zambia,1999,11.8,Overweight Children,Percent,5,Male,OVCH5Y1451,5,5,894,No
+1478,Zambia,1999,12.9,Overweight Children,Percent,5,Female,OVCH5Y1452,5,5,894,No
+1479,Zambia,1999,12.3,Overweight Children,Percent,5,All,OVCH5Y1453,5,5,894,No
+1480,Zambia,1997,6.3,Overweight Children,Percent,5,Male,OVCH5Y1454,5,5,894,No
+1481,Zambia,1997,6.2,Overweight Children,Percent,5,All,OVCH5Y1455,5,5,894,No
+1482,Zambia,1997,6.0,Overweight Children,Percent,5,Female,OVCH5Y1456,5,5,894,No
+1483,Zambia,1992,5.2,Overweight Children,Percent,5,Male,OVCH5Y1457,5,5,894,No
+1484,Zambia,1992,4.7,Overweight Children,Percent,5,All,OVCH5Y1458,5,5,894,No
+1485,Zambia,1992,4.2,Overweight Children,Percent,5,Female,OVCH5Y1459,5,5,894,No
+1486,Zimbabwe,2011,6.7,Overweight Children,Percent,5,Male,OVCH5Y1460,5,5,716,No
+1487,Zimbabwe,2011,5.0,Overweight Children,Percent,5,Female,OVCH5Y1461,5,5,716,No
+1488,Zimbabwe,2011,5.8,Overweight Children,Percent,5,All,OVCH5Y1462,5,5,716,No
+1489,Zimbabwe,2006,8.7,Overweight Children,Percent,5,Female,OVCH5Y1463,5,5,716,No
+1490,Zimbabwe,2006,9.5,Overweight Children,Percent,5,Male,OVCH5Y1464,5,5,716,No
+1491,Zimbabwe,2006,9.1,Overweight Children,Percent,5,All,OVCH5Y1465,5,5,716,No
+1492,Zimbabwe,1999,11.0,Overweight Children,Percent,5,Male,OVCH5Y1466,5,5,716,No
+1493,Zimbabwe,1999,10.6,Overweight Children,Percent,5,All,OVCH5Y1467,5,5,716,No
+1494,Zimbabwe,1999,10.2,Overweight Children,Percent,5,Female,OVCH5Y1468,5,5,716,No
+1495,Zimbabwe,1994,7.6,Overweight Children,Percent,5,All,OVCH5Y1469,5,5,716,No
+1496,Zimbabwe,1994,7.5,Overweight Children,Percent,5,Male,OVCH5Y1470,5,5,716,No
+1497,Zimbabwe,1994,7.6,Overweight Children,Percent,5,Female,OVCH5Y1471,5,5,716,No
+1498,Zimbabwe,1988,6.8,Overweight Children,Percent,5,Male,OVCH5Y1472,5,5,716,No
+1499,Zimbabwe,1988,3.9,Overweight Children,Percent,5,Female,OVCH5Y1473,5,5,716,No
+1500,Zimbabwe,1988,5.4,Overweight Children,Percent,5,All,OVCH5Y1474,5,5,716,No

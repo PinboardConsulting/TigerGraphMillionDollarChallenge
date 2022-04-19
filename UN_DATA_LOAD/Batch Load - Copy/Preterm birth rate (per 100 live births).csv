@@ -1,0 +1,190 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR1,0,130,4,No
+1,Albania,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR2,0,130,8,No
+2,Algeria,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR3,0,130,12,No
+3,Angola,2010,13,Preterm birth rate,per 100 pop,All,All,PREBR4,0,130,24,No
+4,Antigua and Barbuda,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR5,0,130,28,No
+5,Argentina,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR6,0,130,32,No
+6,Armenia,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR7,0,130,51,No
+7,Australia,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR8,0,130,36,No
+8,Austria,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR9,0,130,40,No
+9,Azerbaijan,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR10,0,130,31,No
+10,Bahamas,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR11,0,130,44,No
+11,Bahrain,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR12,0,130,48,No
+12,Bangladesh,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR13,0,130,50,No
+13,Barbados,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR14,0,130,52,No
+14,Belarus,2010,4,Preterm birth rate,per 100 pop,All,All,PREBR15,0,130,112,No
+15,Belgium,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR16,0,130,56,No
+16,Belize,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR17,0,130,84,No
+17,Benin,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR18,0,130,204,No
+18,Bhutan,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR19,0,130,64,No
+19,Bolivia (Plurinational State of),2010,9,Preterm birth rate,per 100 pop,All,All,PREBR20,0,130,68,No
+20,Bosnia and Herzegovina,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR21,0,130,70,No
+21,Botswana,2010,15,Preterm birth rate,per 100 pop,All,All,PREBR22,0,130,72,No
+22,Brazil,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR23,0,130,76,No
+23,Brunei Darussalam,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR24,0,130,96,No
+24,Bulgaria,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR25,0,130,100,No
+25,Burkina Faso,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR26,0,130,854,No
+26,Burundi,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR27,0,130,108,No
+27,Cabo Verde,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR28,0,130,132,No
+28,Cambodia,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR29,0,130,116,No
+29,Cameroon,2010,13,Preterm birth rate,per 100 pop,All,All,PREBR30,0,130,120,No
+30,Canada,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR31,0,130,124,No
+31,Central African Republic,2010,13,Preterm birth rate,per 100 pop,All,All,PREBR32,0,130,140,No
+32,Chad,2010,13,Preterm birth rate,per 100 pop,All,All,PREBR33,0,130,148,No
+33,Chile,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR34,0,130,152,No
+34,China,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR35,0,130,156,No
+35,Colombia,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR36,0,130,170,No
+36,Comoros,2010,17,Preterm birth rate,per 100 pop,All,All,PREBR37,0,130,174,No
+37,Congo,2010,17,Preterm birth rate,per 100 pop,All,All,PREBR38,0,130,178,No
+38,Costa Rica,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR39,0,130,188,No
+39,Côte dIvoire,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR40,0,130,384,No
+40,Croatia,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR41,0,130,191,No
+41,Cuba,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR42,0,130,192,No
+42,Cyprus,2010,15,Preterm birth rate,per 100 pop,All,All,PREBR43,0,130,196,No
+43,Czech Republic,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR44,0,130,203,No
+44,Democratic Peoples Republic of Korea,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR45,0,130,408,No
+45,Democratic Republic of the Congo,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR46,0,130,180,No
+46,Denmark,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR47,0,130,208,No
+47,Djibouti,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR48,0,130,262,No
+48,Dominica,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR49,0,130,212,No
+49,Dominican Republic,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR50,0,130,214,No
+50,Ecuador,2010,5,Preterm birth rate,per 100 pop,All,All,PREBR51,0,130,218,No
+51,Egypt,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR52,0,130,818,No
+52,El Salvador,2010,13,Preterm birth rate,per 100 pop,All,All,PREBR53,0,130,222,No
+53,Equatorial Guinea,2010,17,Preterm birth rate,per 100 pop,All,All,PREBR54,0,130,226,No
+54,Eritrea,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR55,0,130,232,No
+55,Estonia,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR56,0,130,233,No
+56,Ethiopia,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR57,0,130,231,No
+57,Ethiopia,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR57,0,130,230,No
+58,Fiji,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR58,0,130,242,No
+59,Finland,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR59,0,130,246,No
+60,France,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR60,0,130,250,No
+61,Gabon,2010,16,Preterm birth rate,per 100 pop,All,All,PREBR61,0,130,266,No
+62,Gambia,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR62,0,130,270,No
+63,Georgia,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR63,0,130,268,No
+64,Germany,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR64,0,130,276,No
+65,Ghana,2010,15,Preterm birth rate,per 100 pop,All,All,PREBR65,0,130,288,No
+66,Greece,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR66,0,130,300,No
+67,Grenada,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR67,0,130,308,No
+68,Guatemala,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR68,0,130,320,No
+69,Guinea,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR69,0,130,324,No
+70,Guinea-Bissau,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR70,0,130,624,No
+71,Guyana,2010,13,Preterm birth rate,per 100 pop,All,All,PREBR71,0,130,328,No
+72,Haiti,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR72,0,130,332,No
+73,Honduras,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR73,0,130,340,No
+74,Hungary,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR74,0,130,348,No
+75,Iceland,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR75,0,130,352,No
+76,India,2010,13,Preterm birth rate,per 100 pop,All,All,PREBR76,0,130,356,No
+77,Indonesia,2010,16,Preterm birth rate,per 100 pop,All,All,PREBR77,0,130,360,No
+78,Iran (Islamic Republic of),2010,13,Preterm birth rate,per 100 pop,All,All,PREBR78,0,130,364,No
+79,Iraq,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR79,0,130,368,No
+80,Ireland,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR80,0,130,372,No
+81,Israel,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR81,0,130,376,No
+82,Italy,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR82,0,130,380,No
+83,Jamaica,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR83,0,130,388,No
+84,Japan,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR84,0,130,392,No
+85,Japan,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR84,0,130,392,No
+86,Jordan,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR85,0,130,400,No
+87,Kazakhstan,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR86,0,130,398,No
+88,Kenya,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR87,0,130,404,No
+89,Kiribati,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR88,0,130,296,No
+90,Kuwait,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR89,0,130,414,No
+91,Kyrgyzstan,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR90,0,130,417,No
+92,Lao Peoples Democratic Republic,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR91,0,130,418,No
+93,Latvia,2010,5,Preterm birth rate,per 100 pop,All,All,PREBR92,0,130,428,No
+94,Lebanon,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR93,0,130,422,No
+95,Lesotho,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR94,0,130,426,No
+96,Liberia,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR95,0,130,430,No
+97,Libya,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR96,0,130,434,No
+98,Lithuania,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR97,0,130,440,No
+99,Luxembourg,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR98,0,130,442,No
+100,Madagascar,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR99,0,130,450,No
+101,Malawi,2010,18,Preterm birth rate,per 100 pop,All,All,PREBR100,0,130,454,No
+102,Malaysia,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR101,0,130,458,No
+103,Maldives,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR102,0,130,462,No
+104,Mali,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR103,0,130,466,No
+105,Malta,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR104,0,130,470,No
+106,Marshall Islands,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR105,0,130,584,No
+107,Mauritania,2010,15,Preterm birth rate,per 100 pop,All,All,PREBR106,0,130,478,No
+108,Mauritius,2010,13,Preterm birth rate,per 100 pop,All,All,PREBR107,0,130,480,No
+109,Mexico,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR108,0,130,484,No
+110,Micronesia (Federated States of),2010,11,Preterm birth rate,per 100 pop,All,All,PREBR109,0,130,583,No
+111,Mongolia,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR110,0,130,496,No
+112,Montenegro,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR111,0,130,499,No
+113,Morocco,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR112,0,130,504,No
+114,Mozambique,2010,16,Preterm birth rate,per 100 pop,All,All,PREBR113,0,130,508,No
+115,Myanmar,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR114,0,130,104,No
+116,Namibia,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR115,0,130,516,No
+117,Nepal,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR116,0,130,524,No
+118,Netherlands,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR117,0,130,528,No
+119,New Zealand,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR118,0,130,554,No
+120,New Zealand,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR118,0,130,554,No
+121,Nicaragua,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR119,0,130,558,No
+122,Niger,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR120,0,130,562,No
+123,Nigeria,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR121,0,130,566,No
+124,Norway,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR122,0,130,578,No
+125,Oman,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR123,0,130,512,No
+126,Pakistan,2010,16,Preterm birth rate,per 100 pop,All,All,PREBR124,0,130,586,No
+127,Panama,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR125,0,130,591,No
+128,Panama,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR125,0,130,590,No
+129,Papua New Guinea,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR126,0,130,598,No
+130,Paraguay,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR127,0,130,600,No
+131,Peru,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR128,0,130,604,No
+132,Philippines,2010,15,Preterm birth rate,per 100 pop,All,All,PREBR129,0,130,608,No
+133,Poland,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR130,0,130,616,No
+134,Portugal,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR131,0,130,620,No
+135,Qatar,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR132,0,130,634,No
+136,Republic of Korea,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR133,0,130,410,No
+137,Republic of Moldova,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR134,0,130,498,No
+138,Romania,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR135,0,130,642,No
+139,Russian Federation,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR136,0,130,643,No
+140,Rwanda,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR137,0,130,646,No
+141,Saint Lucia,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR138,0,130,662,No
+142,Saint Vincent and the Grenadines,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR139,0,130,670,No
+143,Samoa,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR140,0,130,882,No
+144,Sao Tome and Principe,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR141,0,130,678,No
+145,Saudi Arabia,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR142,0,130,682,No
+146,Senegal,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR143,0,130,686,No
+147,Serbia,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR144,0,130,688,No
+148,Seychelles,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR145,0,130,690,No
+149,Sierra Leone,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR146,0,130,694,No
+150,Singapore,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR147,0,130,702,No
+151,Slovakia,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR148,0,130,703,No
+152,Slovenia,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR149,0,130,705,No
+153,Solomon Islands,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR150,0,130,90,No
+154,Somalia,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR151,0,130,706,No
+155,South Africa,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR152,0,130,710,No
+156,Spain,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR153,0,130,724,No
+157,Sri Lanka,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR154,0,130,144,No
+158,Suriname,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR155,0,130,740,No
+159,Swaziland,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR156,0,130,748,No
+160,Sweden,2010,6,Preterm birth rate,per 100 pop,All,All,PREBR157,0,130,752,No
+161,Switzerland,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR158,0,130,756,No
+162,Switzerland,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR158,0,130,756,No
+163,Syrian Arab Republic,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR159,0,130,760,No
+164,Tajikistan,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR160,0,130,762,No
+165,Thailand,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR161,0,130,764,No
+166,The former Yugoslav Republic of Macedonia,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR162,0,130,807,No
+167,Timor-Leste,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR163,0,130,626,No
+168,Togo,2010,13,Preterm birth rate,per 100 pop,All,All,PREBR164,0,130,768,No
+169,Tonga,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR165,0,130,776,No
+170,Trinidad and Tobago,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR166,0,130,780,No
+171,Tunisia,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR167,0,130,788,No
+172,Turkey,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR168,0,130,792,No
+173,Turkmenistan,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR169,0,130,795,No
+174,Uganda,2010,14,Preterm birth rate,per 100 pop,All,All,PREBR170,0,130,800,No
+175,Ukraine,2010,7,Preterm birth rate,per 100 pop,All,All,PREBR171,0,130,804,No
+176,United Arab Emirates,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR172,0,130,784,No
+177,United Kingdom,2010,8,Preterm birth rate,per 100 pop,All,All,PREBR173,0,130,826,No
+178,United Republic of Tanzania,2010,11,Preterm birth rate,per 100 pop,All,All,PREBR174,0,130,834,No
+179,United States of America,2010,12,Preterm birth rate,per 100 pop,All,All,PREBR175,0,130,840,No
+180,Uruguay,2010,10,Preterm birth rate,per 100 pop,All,All,PREBR176,0,130,858,No
+181,Uzbekistan,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR177,0,130,860,No
+182,Vanuatu,2010,13,Preterm birth rate,per 100 pop,All,All,PREBR178,0,130,548,No
+183,Venezuela (Bolivarian Republic of),2010,8,Preterm birth rate,per 100 pop,All,All,PREBR179,0,130,862,No
+184,Viet Nam,2010,9,Preterm birth rate,per 100 pop,All,All,PREBR180,0,130,704,No
+185,Yemen,2010,13,Preterm birth rate,per 100 pop,All,All,PREBR181,0,130,887,No
+186,Yemen,2010,13,Preterm birth rate,per 100 pop,All,All,PREBR181,0,130,886,No
+187,Zambia,2010,13,Preterm birth rate,per 100 pop,All,All,PREBR182,0,130,894,No
+188,Zimbabwe,2010,17,Preterm birth rate,per 100 pop,All,All,PREBR183,0,130,716,No

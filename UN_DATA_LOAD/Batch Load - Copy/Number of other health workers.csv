@@ -1,0 +1,614 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2010,12163,Number of other health workers,Absolute,All,All,NOOHWO1,0,130,4,No
+1,Afghanistan,2009,12344,Number of other health workers,Absolute,All,All,NOOHWO2,0,130,4,No
+2,Afghanistan,2008,12113,Number of other health workers,Absolute,All,All,NOOHWO3,0,130,4,No
+3,Algeria,2007,112252,Number of other health workers,Absolute,All,All,NOOHWO4,0,130,12,No
+4,Algeria,2005,99158,Number of other health workers,Absolute,All,All,NOOHWO5,0,130,12,No
+5,Algeria,2002,5654,Number of other health workers,Absolute,All,All,NOOHWO6,0,130,12,No
+6,Angola,2009,5435,Number of other health workers,Absolute,All,All,NOOHWO7,0,130,24,No
+7,Angola,2004,254,Number of other health workers,Absolute,All,All,NOOHWO8,0,130,24,No
+8,Argentina,2004,79533,Number of other health workers,Absolute,All,All,NOOHWO9,0,130,32,No
+9,Armenia,2012,5249,Number of other health workers,Absolute,All,All,NOOHWO10,0,130,51,No
+10,Australia,2012,14566,Number of other health workers,Absolute,All,All,NOOHWO11,0,130,36,No
+11,Australia,2011,16870,Number of other health workers,Absolute,All,All,NOOHWO12,0,130,36,No
+12,Australia,2010,20365,Number of other health workers,Absolute,All,All,NOOHWO13,0,130,36,No
+13,Australia,2009,96800,Number of other health workers,Absolute,All,All,NOOHWO14,0,130,36,No
+14,Australia,2006,212780,Number of other health workers,Absolute,All,All,NOOHWO15,0,130,36,No
+15,Australia,2001,38339,Number of other health workers,Absolute,All,All,NOOHWO16,0,130,36,No
+16,Australia,1996,122141,Number of other health workers,Absolute,All,All,NOOHWO17,0,130,36,No
+17,Austria,2011,8021,Number of other health workers,Absolute,All,All,NOOHWO18,0,130,40,No
+18,Azerbaijan,2012,328,Number of other health workers,Absolute,All,All,NOOHWO19,0,130,31,No
+19,Bahamas,2008,143,Number of other health workers,Absolute,All,All,NOOHWO20,0,130,44,No
+20,Bahrain,2011,351,Number of other health workers,Absolute,All,All,NOOHWO21,0,130,48,No
+21,Bahrain,2010,350,Number of other health workers,Absolute,All,All,NOOHWO22,0,130,48,No
+22,Bahrain,2009,321,Number of other health workers,Absolute,All,All,NOOHWO23,0,130,48,No
+23,Bahrain,2008,303,Number of other health workers,Absolute,All,All,NOOHWO24,0,130,48,No
+24,Bahrain,2004,1401,Number of other health workers,Absolute,All,All,NOOHWO25,0,130,48,No
+25,Bangladesh,2011,7911,Number of other health workers,Absolute,All,All,NOOHWO26,0,130,50,No
+26,Bangladesh,2005,6548,Number of other health workers,Absolute,All,All,NOOHWO27,0,130,50,No
+27,Bangladesh,2004,5847,Number of other health workers,Absolute,All,All,NOOHWO28,0,130,50,No
+28,Bangladesh,2002,581,Number of other health workers,Absolute,All,All,NOOHWO29,0,130,50,No
+29,Barbados,2005,115,Number of other health workers,Absolute,All,All,NOOHWO30,0,130,52,No
+30,Barbados,2001,131,Number of other health workers,Absolute,All,All,NOOHWO31,0,130,52,No
+31,Barbados,2000,2119,Number of other health workers,Absolute,All,All,NOOHWO32,0,130,52,No
+32,Barbados,1995,33,Number of other health workers,Absolute,All,All,NOOHWO33,0,130,52,No
+33,Belgium,2011,18325,Number of other health workers,Absolute,All,All,NOOHWO34,0,130,56,No
+34,Belgium,2010,94837,Number of other health workers,Absolute,All,All,NOOHWO35,0,130,56,No
+35,Belgium,2009,85981,Number of other health workers,Absolute,All,All,NOOHWO36,0,130,56,No
+36,Belgium,2008,74295,Number of other health workers,Absolute,All,All,NOOHWO37,0,130,56,No
+37,Belize,2009,126,Number of other health workers,Absolute,All,All,NOOHWO38,0,130,84,No
+38,Benin,2008,100,Number of other health workers,Absolute,All,All,NOOHWO39,0,130,204,No
+39,Benin,2004,130,Number of other health workers,Absolute,All,All,NOOHWO40,0,130,204,No
+40,Bhutan,2012,864,Number of other health workers,Absolute,All,All,NOOHWO41,0,130,64,No
+41,Bhutan,2008,957,Number of other health workers,Absolute,All,All,NOOHWO42,0,130,64,No
+42,Bhutan,2007,416,Number of other health workers,Absolute,All,All,NOOHWO43,0,130,64,No
+43,Bhutan,2004,143,Number of other health workers,Absolute,All,All,NOOHWO44,0,130,64,No
+44,Bolivia (Plurinational State of),2011,1747,Number of other health workers,Absolute,All,All,NOOHWO45,0,130,68,No
+45,Bolivia (Plurinational State of),2010,1300,Number of other health workers,Absolute,All,All,NOOHWO46,0,130,68,No
+46,Bolivia (Plurinational State of),2007,847,Number of other health workers,Absolute,All,All,NOOHWO47,0,130,68,No
+47,Bolivia (Plurinational State of),2001,4978,Number of other health workers,Absolute,All,All,NOOHWO48,0,130,68,No
+48,Bosnia and Herzegovina,2010,961,Number of other health workers,Absolute,All,All,NOOHWO49,0,130,70,No
+49,Botswana,2004,829,Number of other health workers,Absolute,All,All,NOOHWO50,0,130,72,No
+50,Brazil,2009,63331,Number of other health workers,Absolute,All,All,NOOHWO51,0,130,76,No
+51,Brazil,2008,214858,Number of other health workers,Absolute,All,All,NOOHWO52,0,130,76,No
+52,Brazil,2007,37660,Number of other health workers,Absolute,All,All,NOOHWO53,0,130,76,No
+53,Brazil,2006,37374,Number of other health workers,Absolute,All,All,NOOHWO54,0,130,76,No
+54,Brazil,2005,29119,Number of other health workers,Absolute,All,All,NOOHWO55,0,130,76,No
+55,Brazil,2004,27644,Number of other health workers,Absolute,All,All,NOOHWO56,0,130,76,No
+56,Brazil,2000,191518,Number of other health workers,Absolute,All,All,NOOHWO57,0,130,76,No
+57,Brazil,1991,161817,Number of other health workers,Absolute,All,All,NOOHWO58,0,130,76,No
+58,Brunei Darussalam,2011,117,Number of other health workers,Absolute,All,All,NOOHWO59,0,130,96,No
+59,Brunei Darussalam,2007,27,Number of other health workers,Absolute,All,All,NOOHWO60,0,130,96,No
+60,Bulgaria,2011,1513,Number of other health workers,Absolute,All,All,NOOHWO61,0,130,100,No
+61,Burkina Faso,2010,2618,Number of other health workers,Absolute,All,All,NOOHWO62,0,130,854,No
+62,Burkina Faso,2006,1652,Number of other health workers,Absolute,All,All,NOOHWO63,0,130,854,No
+63,Burkina Faso,2004,1870,Number of other health workers,Absolute,All,All,NOOHWO64,0,130,854,No
+64,Burundi,2004,1186,Number of other health workers,Absolute,All,All,NOOHWO65,0,130,108,No
+65,Cabo Verde,2010,25,Number of other health workers,Absolute,All,All,NOOHWO66,0,130,132,No
+66,Cabo Verde,2009,28,Number of other health workers,Absolute,All,All,NOOHWO67,0,130,132,No
+67,Cabo Verde,2008,1,Number of other health workers,Absolute,All,All,NOOHWO68,0,130,132,No
+68,Cabo Verde,2007,26,Number of other health workers,Absolute,All,All,NOOHWO69,0,130,132,No
+69,Cabo Verde,2006,29,Number of other health workers,Absolute,All,All,NOOHWO70,0,130,132,No
+70,Cabo Verde,2004,42,Number of other health workers,Absolute,All,All,NOOHWO71,0,130,132,No
+71,Cambodia,2008,518,Number of other health workers,Absolute,All,All,NOOHWO72,0,130,116,No
+72,Cambodia,1998,1757,Number of other health workers,Absolute,All,All,NOOHWO73,0,130,116,No
+73,Cambodia,1996,1511,Number of other health workers,Absolute,All,All,NOOHWO74,0,130,116,No
+74,Cameroon,2009,8047,Number of other health workers,Absolute,All,All,NOOHWO75,0,130,120,No
+75,Cameroon,2007,6154,Number of other health workers,Absolute,All,All,NOOHWO76,0,130,120,No
+76,Cameroon,2005,2499,Number of other health workers,Absolute,All,All,NOOHWO77,0,130,120,No
+77,Cameroon,2004,16,Number of other health workers,Absolute,All,All,NOOHWO78,0,130,120,No
+78,Canada,2011,17653,Number of other health workers,Absolute,All,All,NOOHWO79,0,130,124,No
+79,Canada,2010,16885,Number of other health workers,Absolute,All,All,NOOHWO80,0,130,124,No
+80,Canada,2009,30434,Number of other health workers,Absolute,All,All,NOOHWO81,0,130,124,No
+81,Canada,2008,107678,Number of other health workers,Absolute,All,All,NOOHWO82,0,130,124,No
+82,Canada,2007,28716,Number of other health workers,Absolute,All,All,NOOHWO83,0,130,124,No
+83,Canada,2006,110390,Number of other health workers,Absolute,All,All,NOOHWO84,0,130,124,No
+84,Canada,2004,103097,Number of other health workers,Absolute,All,All,NOOHWO85,0,130,124,No
+85,Canada,2002,91893,Number of other health workers,Absolute,All,All,NOOHWO86,0,130,124,No
+86,Canada,2001,87757,Number of other health workers,Absolute,All,All,NOOHWO87,0,130,124,No
+87,Canada,1998,70415,Number of other health workers,Absolute,All,All,NOOHWO88,0,130,124,No
+88,Central African Republic,2009,287,Number of other health workers,Absolute,All,All,NOOHWO89,0,130,140,No
+89,Central African Republic,2008,291,Number of other health workers,Absolute,All,All,NOOHWO90,0,130,140,No
+90,Central African Republic,2004,461,Number of other health workers,Absolute,All,All,NOOHWO91,0,130,140,No
+91,Chad,2004,153,Number of other health workers,Absolute,All,All,NOOHWO92,0,130,148,No
+92,Chile,2009,10218,Number of other health workers,Absolute,All,All,NOOHWO93,0,130,152,No
+93,Chile,2008,10213,Number of other health workers,Absolute,All,All,NOOHWO94,0,130,152,No
+94,Chile,2007,8243,Number of other health workers,Absolute,All,All,NOOHWO95,0,130,152,No
+95,Chile,2006,8119,Number of other health workers,Absolute,All,All,NOOHWO96,0,130,152,No
+96,Chile,2005,6253,Number of other health workers,Absolute,All,All,NOOHWO97,0,130,152,No
+97,Chile,2004,6119,Number of other health workers,Absolute,All,All,NOOHWO98,0,130,152,No
+98,Chile,2003,5394,Number of other health workers,Absolute,All,All,NOOHWO99,0,130,152,No
+99,Chile,2002,4160,Number of other health workers,Absolute,All,All,NOOHWO100,0,130,152,No
+100,Chile,1992,40280,Number of other health workers,Absolute,All,All,NOOHWO101,0,130,152,No
+101,China,2010,730580,Number of other health workers,Absolute,All,All,NOOHWO102,0,130,156,No
+102,China,2009,1487271,Number of other health workers,Absolute,All,All,NOOHWO103,0,130,156,No
+103,China,2001,1061000,Number of other health workers,Absolute,All,All,NOOHWO104,0,130,156,No
+104,Comoros,2004,10,Number of other health workers,Absolute,All,All,NOOHWO105,0,130,174,No
+105,Congo,2007,313,Number of other health workers,Absolute,All,All,NOOHWO106,0,130,178,No
+106,Congo,2006,2662,Number of other health workers,Absolute,All,All,NOOHWO107,0,130,178,No
+107,Congo,2004,957,Number of other health workers,Absolute,All,All,NOOHWO108,0,130,178,No
+108,Congo,1998,431,Number of other health workers,Absolute,All,All,NOOHWO109,0,130,178,No
+109,Cook Islands,2009,74,Number of other health workers,Absolute,All,All,NOOHWO110,0,130,184,No
+110,Costa Rica,2013,237,Number of other health workers,Absolute,All,All,NOOHWO111,0,130,188,No
+111,Costa Rica,2000,12450,Number of other health workers,Absolute,All,All,NOOHWO112,0,130,188,No
+112,Côte dIvoire,2008,3140,Number of other health workers,Absolute,All,All,NOOHWO113,0,130,384,No
+113,Côte dIvoire,2005,4239,Number of other health workers,Absolute,All,All,NOOHWO114,0,130,384,No
+114,Côte dIvoire,2004,172,Number of other health workers,Absolute,All,All,NOOHWO115,0,130,384,No
+115,Croatia,2011,3100,Number of other health workers,Absolute,All,All,NOOHWO116,0,130,191,No
+116,Cuba,2010,60763,Number of other health workers,Absolute,All,All,NOOHWO117,0,130,192,No
+117,Cuba,2007,96433,Number of other health workers,Absolute,All,All,NOOHWO118,0,130,192,No
+118,Cyprus,2011,82,Number of other health workers,Absolute,All,All,NOOHWO119,0,130,196,No
+119,Cyprus,2010,1031,Number of other health workers,Absolute,All,All,NOOHWO120,0,130,196,No
+120,Cyprus,2009,1032,Number of other health workers,Absolute,All,All,NOOHWO121,0,130,196,No
+121,Cyprus,2008,210,Number of other health workers,Absolute,All,All,NOOHWO122,0,130,196,No
+122,Cyprus,2006,185,Number of other health workers,Absolute,All,All,NOOHWO123,0,130,196,No
+123,Cyprus,2000,556,Number of other health workers,Absolute,All,All,NOOHWO124,0,130,196,No
+124,Cyprus,1995,544,Number of other health workers,Absolute,All,All,NOOHWO125,0,130,196,No
+125,Cyprus,1990,451,Number of other health workers,Absolute,All,All,NOOHWO126,0,130,196,No
+126,Cyprus,1985,359,Number of other health workers,Absolute,All,All,NOOHWO127,0,130,196,No
+127,Cyprus,1980,324,Number of other health workers,Absolute,All,All,NOOHWO128,0,130,196,No
+128,Cyprus,1976,319,Number of other health workers,Absolute,All,All,NOOHWO129,0,130,196,No
+129,Cyprus,1960,151,Number of other health workers,Absolute,All,All,NOOHWO130,0,130,196,No
+130,Czech Republic,2011,31509,Number of other health workers,Absolute,All,All,NOOHWO131,0,130,203,No
+131,Democratic Peoples Republic of Korea,2003,67957,Number of other health workers,Absolute,All,All,NOOHWO132,0,130,408,No
+132,Democratic Republic of the Congo,2004,1042,Number of other health workers,Absolute,All,All,NOOHWO133,0,130,180,No
+133,Denmark,2009,63651,Number of other health workers,Absolute,All,All,NOOHWO134,0,130,208,No
+134,Denmark,2008,7412,Number of other health workers,Absolute,All,All,NOOHWO135,0,130,208,No
+135,Djibouti,2005,162,Number of other health workers,Absolute,All,All,NOOHWO136,0,130,262,No
+136,Djibouti,2004,159,Number of other health workers,Absolute,All,All,NOOHWO137,0,130,262,No
+137,Djibouti,1999,55,Number of other health workers,Absolute,All,All,NOOHWO138,0,130,262,No
+138,Dominica,2001,158,Number of other health workers,Absolute,All,All,NOOHWO139,0,130,212,No
+139,Dominican Republic,2011,1106,Number of other health workers,Absolute,All,All,NOOHWO140,0,130,214,No
+140,Dominican Republic,2009,939,Number of other health workers,Absolute,All,All,NOOHWO141,0,130,214,No
+141,Dominican Republic,2008,834,Number of other health workers,Absolute,All,All,NOOHWO142,0,130,214,No
+142,Ecuador,2009,12286,Number of other health workers,Absolute,All,All,NOOHWO143,0,130,218,No
+143,Ecuador,2003,10512,Number of other health workers,Absolute,All,All,NOOHWO144,0,130,218,No
+144,Ecuador,2002,11234,Number of other health workers,Absolute,All,All,NOOHWO145,0,130,218,No
+145,Ecuador,2001,10551,Number of other health workers,Absolute,All,All,NOOHWO146,0,130,218,No
+146,Ecuador,2000,10660,Number of other health workers,Absolute,All,All,NOOHWO147,0,130,218,No
+147,Ecuador,1999,10727,Number of other health workers,Absolute,All,All,NOOHWO148,0,130,218,No
+148,Ecuador,1998,10511,Number of other health workers,Absolute,All,All,NOOHWO149,0,130,218,No
+149,Ecuador,1997,10458,Number of other health workers,Absolute,All,All,NOOHWO150,0,130,218,No
+150,Ecuador,1996,9888,Number of other health workers,Absolute,All,All,NOOHWO151,0,130,218,No
+151,Ecuador,1995,431,Number of other health workers,Absolute,All,All,NOOHWO152,0,130,218,No
+152,Ecuador,1994,9277,Number of other health workers,Absolute,All,All,NOOHWO153,0,130,218,No
+153,Ecuador,1993,8678,Number of other health workers,Absolute,All,All,NOOHWO154,0,130,218,No
+154,Ecuador,1992,9196,Number of other health workers,Absolute,All,All,NOOHWO155,0,130,218,No
+155,Ecuador,1991,8926,Number of other health workers,Absolute,All,All,NOOHWO156,0,130,218,No
+156,Ecuador,1990,8193,Number of other health workers,Absolute,All,All,NOOHWO157,0,130,218,No
+157,Ecuador,1989,8161,Number of other health workers,Absolute,All,All,NOOHWO158,0,130,218,No
+158,Ecuador,1988,8156,Number of other health workers,Absolute,All,All,NOOHWO159,0,130,218,No
+159,Ecuador,1987,7748,Number of other health workers,Absolute,All,All,NOOHWO160,0,130,218,No
+160,Ecuador,1986,6938,Number of other health workers,Absolute,All,All,NOOHWO161,0,130,218,No
+161,Ecuador,1985,6967,Number of other health workers,Absolute,All,All,NOOHWO162,0,130,218,No
+162,Ecuador,1984,6938,Number of other health workers,Absolute,All,All,NOOHWO163,0,130,218,No
+163,Ecuador,1983,6362,Number of other health workers,Absolute,All,All,NOOHWO164,0,130,218,No
+164,Ecuador,1982,6166,Number of other health workers,Absolute,All,All,NOOHWO165,0,130,218,No
+165,Ecuador,1981,5996,Number of other health workers,Absolute,All,All,NOOHWO166,0,130,218,No
+166,Egypt,2004,3694,Number of other health workers,Absolute,All,All,NOOHWO167,0,130,818,No
+167,El Salvador,2008,5504,Number of other health workers,Absolute,All,All,NOOHWO168,0,130,222,No
+168,El Salvador,2005,4252,Number of other health workers,Absolute,All,All,NOOHWO169,0,130,222,No
+169,El Salvador,1999,2074,Number of other health workers,Absolute,All,All,NOOHWO170,0,130,222,No
+170,Eritrea,2004,56,Number of other health workers,Absolute,All,All,NOOHWO171,0,130,232,No
+171,Estonia,2011,4045,Number of other health workers,Absolute,All,All,NOOHWO172,0,130,233,No
+172,Estonia,2010,10504,Number of other health workers,Absolute,All,All,NOOHWO173,0,130,233,No
+173,Estonia,2000,5795,Number of other health workers,Absolute,All,All,NOOHWO174,0,130,233,No
+174,Ethiopia,2009,4825,Number of other health workers,Absolute,All,All,NOOHWO175,0,130,231,No
+175,Ethiopia,2009,4825,Number of other health workers,Absolute,All,All,NOOHWO175,0,130,230,No
+176,Ethiopia,2008,3381,Number of other health workers,Absolute,All,All,NOOHWO176,0,130,231,No
+177,Ethiopia,2008,3381,Number of other health workers,Absolute,All,All,NOOHWO176,0,130,230,No
+178,Ethiopia,2007,4304,Number of other health workers,Absolute,All,All,NOOHWO177,0,130,231,No
+179,Ethiopia,2007,4304,Number of other health workers,Absolute,All,All,NOOHWO177,0,130,230,No
+180,Ethiopia,2006,7152,Number of other health workers,Absolute,All,All,NOOHWO178,0,130,231,No
+181,Ethiopia,2006,7152,Number of other health workers,Absolute,All,All,NOOHWO178,0,130,230,No
+182,Ethiopia,2005,7139,Number of other health workers,Absolute,All,All,NOOHWO179,0,130,231,No
+183,Ethiopia,2005,7139,Number of other health workers,Absolute,All,All,NOOHWO179,0,130,230,No
+184,Ethiopia,2004,7311,Number of other health workers,Absolute,All,All,NOOHWO180,0,130,231,No
+185,Ethiopia,2004,7311,Number of other health workers,Absolute,All,All,NOOHWO180,0,130,230,No
+186,Ethiopia,2003,7354,Number of other health workers,Absolute,All,All,NOOHWO181,0,130,231,No
+187,Ethiopia,2003,7354,Number of other health workers,Absolute,All,All,NOOHWO181,0,130,230,No
+188,Fiji,2009,124,Number of other health workers,Absolute,All,All,NOOHWO182,0,130,242,No
+189,Finland,2010,114884,Number of other health workers,Absolute,All,All,NOOHWO183,0,130,246,No
+190,Finland,2009,9380,Number of other health workers,Absolute,All,All,NOOHWO184,0,130,246,No
+191,Finland,2002,19202,Number of other health workers,Absolute,All,All,NOOHWO185,0,130,246,No
+192,France,2012,77778,Number of other health workers,Absolute,All,All,NOOHWO186,0,130,250,No
+193,France,2011,194295,Number of other health workers,Absolute,All,All,NOOHWO187,0,130,250,No
+194,France,2008,156151,Number of other health workers,Absolute,All,All,NOOHWO188,0,130,250,No
+195,France,2007,155918,Number of other health workers,Absolute,All,All,NOOHWO189,0,130,250,No
+196,France,2006,147163,Number of other health workers,Absolute,All,All,NOOHWO190,0,130,250,No
+197,France,2005,142143,Number of other health workers,Absolute,All,All,NOOHWO191,0,130,250,No
+198,France,2004,136682,Number of other health workers,Absolute,All,All,NOOHWO192,0,130,250,No
+199,France,2003,131541,Number of other health workers,Absolute,All,All,NOOHWO193,0,130,250,No
+200,France,2002,126855,Number of other health workers,Absolute,All,All,NOOHWO194,0,130,250,No
+201,France,2001,122529,Number of other health workers,Absolute,All,All,NOOHWO195,0,130,250,No
+202,France,2000,117855,Number of other health workers,Absolute,All,All,NOOHWO196,0,130,250,No
+203,France,1999,113382,Number of other health workers,Absolute,All,All,NOOHWO197,0,130,250,No
+204,Gabon,2004,197,Number of other health workers,Absolute,All,All,NOOHWO198,0,130,266,No
+205,Gambia,2008,1610,Number of other health workers,Absolute,All,All,NOOHWO199,0,130,270,No
+206,Gambia,2007,1591,Number of other health workers,Absolute,All,All,NOOHWO200,0,130,270,No
+207,Gambia,2003,3,Number of other health workers,Absolute,All,All,NOOHWO201,0,130,270,No
+208,Georgia,2012,98,Number of other health workers,Absolute,All,All,NOOHWO202,0,130,268,No
+209,Georgia,2009,10617,Number of other health workers,Absolute,All,All,NOOHWO203,0,130,268,No
+210,Georgia,2008,11031,Number of other health workers,Absolute,All,All,NOOHWO204,0,130,268,No
+211,Germany,2011,116000,Number of other health workers,Absolute,All,All,NOOHWO205,0,130,276,No
+212,Ghana,2008,602,Number of other health workers,Absolute,All,All,NOOHWO206,0,130,288,No
+213,Ghana,2007,2836,Number of other health workers,Absolute,All,All,NOOHWO207,0,130,288,No
+214,Ghana,2004,7132,Number of other health workers,Absolute,All,All,NOOHWO208,0,130,288,No
+215,Greece,2011,5582,Number of other health workers,Absolute,All,All,NOOHWO209,0,130,300,No
+216,Grenada,2006,394,Number of other health workers,Absolute,All,All,NOOHWO210,0,130,308,No
+217,Grenada,2003,7,Number of other health workers,Absolute,All,All,NOOHWO211,0,130,308,No
+218,Grenada,2002,7,Number of other health workers,Absolute,All,All,NOOHWO212,0,130,308,No
+219,Grenada,2001,7,Number of other health workers,Absolute,All,All,NOOHWO213,0,130,308,No
+220,Grenada,2000,7,Number of other health workers,Absolute,All,All,NOOHWO214,0,130,308,No
+221,Grenada,1999,7,Number of other health workers,Absolute,All,All,NOOHWO215,0,130,308,No
+222,Guinea,2005,4289,Number of other health workers,Absolute,All,All,NOOHWO216,0,130,324,No
+223,Guinea,2004,430,Number of other health workers,Absolute,All,All,NOOHWO217,0,130,324,No
+224,Guinea,2000,565,Number of other health workers,Absolute,All,All,NOOHWO218,0,130,324,No
+225,Guinea-Bissau,2009,1526,Number of other health workers,Absolute,All,All,NOOHWO219,0,130,624,No
+226,Guinea-Bissau,2008,37,Number of other health workers,Absolute,All,All,NOOHWO220,0,130,624,No
+227,Guinea-Bissau,2004,61,Number of other health workers,Absolute,All,All,NOOHWO221,0,130,624,No
+228,Guyana,2010,77,Number of other health workers,Absolute,All,All,NOOHWO222,0,130,328,No
+229,Guyana,2009,105,Number of other health workers,Absolute,All,All,NOOHWO223,0,130,328,No
+230,Honduras,2005,3056,Number of other health workers,Absolute,All,All,NOOHWO224,0,130,340,No
+231,Honduras,2000,2936,Number of other health workers,Absolute,All,All,NOOHWO225,0,130,340,No
+232,Hungary,2011,28856,Number of other health workers,Absolute,All,All,NOOHWO226,0,130,348,No
+233,Iceland,2012,498,Number of other health workers,Absolute,All,All,NOOHWO227,0,130,352,No
+234,Iceland,2010,1061,Number of other health workers,Absolute,All,All,NOOHWO228,0,130,352,No
+235,Iceland,2009,1017,Number of other health workers,Absolute,All,All,NOOHWO229,0,130,352,No
+236,Iceland,2008,990,Number of other health workers,Absolute,All,All,NOOHWO230,0,130,352,No
+237,Iceland,2007,919,Number of other health workers,Absolute,All,All,NOOHWO231,0,130,352,No
+238,Iceland,2006,590,Number of other health workers,Absolute,All,All,NOOHWO232,0,130,352,No
+239,Iceland,2005,576,Number of other health workers,Absolute,All,All,NOOHWO233,0,130,352,No
+240,Iceland,2004,557,Number of other health workers,Absolute,All,All,NOOHWO234,0,130,352,No
+241,Iceland,2002,123,Number of other health workers,Absolute,All,All,NOOHWO235,0,130,352,No
+242,Iceland,2001,625,Number of other health workers,Absolute,All,All,NOOHWO236,0,130,352,No
+243,Iceland,2000,581,Number of other health workers,Absolute,All,All,NOOHWO237,0,130,352,No
+244,India,2011,628634,Number of other health workers,Absolute,All,All,NOOHWO238,0,130,356,No
+245,India,2010,712121,Number of other health workers,Absolute,All,All,NOOHWO239,0,130,356,No
+246,India,2009,752254,Number of other health workers,Absolute,All,All,NOOHWO240,0,130,356,No
+247,India,2008,754985,Number of other health workers,Absolute,All,All,NOOHWO241,0,130,356,No
+248,India,2007,725568,Number of other health workers,Absolute,All,All,NOOHWO242,0,130,356,No
+249,India,2006,713684,Number of other health workers,Absolute,All,All,NOOHWO243,0,130,356,No
+250,India,2005,717860,Number of other health workers,Absolute,All,All,NOOHWO244,0,130,356,No
+251,India,2004,699883,Number of other health workers,Absolute,All,All,NOOHWO245,0,130,356,No
+252,India,2003,1796509,Number of other health workers,Absolute,All,All,NOOHWO246,0,130,356,No
+253,India,1991,1328343,Number of other health workers,Absolute,All,All,NOOHWO247,0,130,356,No
+254,Indonesia,2012,54040,Number of other health workers,Absolute,All,All,NOOHWO248,0,130,360,No
+255,Indonesia,2010,38014,Number of other health workers,Absolute,All,All,NOOHWO249,0,130,360,No
+256,Indonesia,2009,10671,Number of other health workers,Absolute,All,All,NOOHWO250,0,130,360,No
+257,Indonesia,2003,20981,Number of other health workers,Absolute,All,All,NOOHWO251,0,130,360,No
+258,Indonesia,1992,40298,Number of other health workers,Absolute,All,All,NOOHWO252,0,130,360,No
+259,Iran (Islamic Republic of),2004,84207,Number of other health workers,Absolute,All,All,NOOHWO253,0,130,364,No
+260,Ireland,2012,26317,Number of other health workers,Absolute,All,All,NOOHWO254,0,130,372,No
+261,Israel,2011,91200,Number of other health workers,Absolute,All,All,NOOHWO255,0,130,376,No
+262,Israel,1995,9383,Number of other health workers,Absolute,All,All,NOOHWO256,0,130,376,No
+263,Italy,2011,50513,Number of other health workers,Absolute,All,All,NOOHWO257,0,130,380,No
+264,Jamaica,2008,1144,Number of other health workers,Absolute,All,All,NOOHWO258,0,130,388,No
+265,Japan,2010,338176,Number of other health workers,Absolute,All,All,NOOHWO259,0,130,392,No
+266,Japan,2010,338176,Number of other health workers,Absolute,All,All,NOOHWO259,0,130,392,No
+267,Japan,2008,316696,Number of other health workers,Absolute,All,All,NOOHWO260,0,130,392,No
+268,Japan,2008,316696,Number of other health workers,Absolute,All,All,NOOHWO260,0,130,392,No
+269,Japan,2006,301025,Number of other health workers,Absolute,All,All,NOOHWO261,0,130,392,No
+270,Japan,2006,301025,Number of other health workers,Absolute,All,All,NOOHWO261,0,130,392,No
+271,Japan,2004,284968,Number of other health workers,Absolute,All,All,NOOHWO262,0,130,392,No
+272,Japan,2004,284968,Number of other health workers,Absolute,All,All,NOOHWO262,0,130,392,No
+273,Japan,2002,276070,Number of other health workers,Absolute,All,All,NOOHWO263,0,130,392,No
+274,Japan,2002,276070,Number of other health workers,Absolute,All,All,NOOHWO263,0,130,392,No
+275,Japan,2000,269315,Number of other health workers,Absolute,All,All,NOOHWO264,0,130,392,No
+276,Japan,2000,269315,Number of other health workers,Absolute,All,All,NOOHWO264,0,130,392,No
+277,Japan,1998,260724,Number of other health workers,Absolute,All,All,NOOHWO265,0,130,392,No
+278,Japan,1998,260724,Number of other health workers,Absolute,All,All,NOOHWO265,0,130,392,No
+279,Japan,1996,263759,Number of other health workers,Absolute,All,All,NOOHWO266,0,130,392,No
+280,Japan,1996,263759,Number of other health workers,Absolute,All,All,NOOHWO266,0,130,392,No
+281,Japan,1994,253271,Number of other health workers,Absolute,All,All,NOOHWO267,0,130,392,No
+282,Japan,1994,253271,Number of other health workers,Absolute,All,All,NOOHWO267,0,130,392,No
+283,Japan,1992,244897,Number of other health workers,Absolute,All,All,NOOHWO268,0,130,392,No
+284,Japan,1992,244897,Number of other health workers,Absolute,All,All,NOOHWO268,0,130,392,No
+285,Japan,1990,234833,Number of other health workers,Absolute,All,All,NOOHWO269,0,130,392,No
+286,Japan,1990,234833,Number of other health workers,Absolute,All,All,NOOHWO269,0,130,392,No
+287,Japan,1988,219505,Number of other health workers,Absolute,All,All,NOOHWO270,0,130,392,No
+288,Japan,1988,219505,Number of other health workers,Absolute,All,All,NOOHWO270,0,130,392,No
+289,Japan,1986,214316,Number of other health workers,Absolute,All,All,NOOHWO271,0,130,392,No
+290,Japan,1986,214316,Number of other health workers,Absolute,All,All,NOOHWO271,0,130,392,No
+291,Japan,1984,207030,Number of other health workers,Absolute,All,All,NOOHWO272,0,130,392,No
+292,Japan,1984,207030,Number of other health workers,Absolute,All,All,NOOHWO272,0,130,392,No
+293,Japan,1982,196299,Number of other health workers,Absolute,All,All,NOOHWO273,0,130,392,No
+294,Japan,1982,196299,Number of other health workers,Absolute,All,All,NOOHWO273,0,130,392,No
+295,Japan,1980,185463,Number of other health workers,Absolute,All,All,NOOHWO274,0,130,392,No
+296,Japan,1980,185463,Number of other health workers,Absolute,All,All,NOOHWO274,0,130,392,No
+297,Jordan,2004,6569,Number of other health workers,Absolute,All,All,NOOHWO275,0,130,400,No
+298,Kazakhstan,2012,593,Number of other health workers,Absolute,All,All,NOOHWO276,0,130,398,No
+299,Kazakhstan,2011,159870,Number of other health workers,Absolute,All,All,NOOHWO277,0,130,398,No
+300,Kazakhstan,2010,143822,Number of other health workers,Absolute,All,All,NOOHWO278,0,130,398,No
+301,Kazakhstan,2009,138610,Number of other health workers,Absolute,All,All,NOOHWO279,0,130,398,No
+302,Kazakhstan,2008,131668,Number of other health workers,Absolute,All,All,NOOHWO280,0,130,398,No
+303,Kazakhstan,2007,129975,Number of other health workers,Absolute,All,All,NOOHWO281,0,130,398,No
+304,Kazakhstan,2006,125167,Number of other health workers,Absolute,All,All,NOOHWO282,0,130,398,No
+305,Kazakhstan,2005,119581,Number of other health workers,Absolute,All,All,NOOHWO283,0,130,398,No
+306,Kazakhstan,2004,116959,Number of other health workers,Absolute,All,All,NOOHWO284,0,130,398,No
+307,Kazakhstan,2003,115006,Number of other health workers,Absolute,All,All,NOOHWO285,0,130,398,No
+308,Kenya,2004,3186,Number of other health workers,Absolute,All,All,NOOHWO286,0,130,404,No
+309,Kenya,2002,4610,Number of other health workers,Absolute,All,All,NOOHWO287,0,130,404,No
+310,Kiribati,2008,54,Number of other health workers,Absolute,All,All,NOOHWO288,0,130,296,No
+311,Kuwait,2009,7530,Number of other health workers,Absolute,All,All,NOOHWO289,0,130,414,No
+312,Kuwait,2008,7522,Number of other health workers,Absolute,All,All,NOOHWO290,0,130,414,No
+313,Kuwait,2007,7151,Number of other health workers,Absolute,All,All,NOOHWO291,0,130,414,No
+314,Kuwait,2006,6600,Number of other health workers,Absolute,All,All,NOOHWO292,0,130,414,No
+315,Kyrgyzstan,2012,862,Number of other health workers,Absolute,All,All,NOOHWO293,0,130,417,No
+316,Lao Peoples Democratic Republic,2012,2356,Number of other health workers,Absolute,All,All,NOOHWO294,0,130,418,No
+317,Lao Peoples Democratic Republic,2009,1449,Number of other health workers,Absolute,All,All,NOOHWO295,0,130,418,No
+318,Lao Peoples Democratic Republic,2005,1547,Number of other health workers,Absolute,All,All,NOOHWO296,0,130,418,No
+319,Lao Peoples Democratic Republic,2004,3800,Number of other health workers,Absolute,All,All,NOOHWO297,0,130,418,No
+320,Lao Peoples Democratic Republic,2000,1706,Number of other health workers,Absolute,All,All,NOOHWO298,0,130,418,No
+321,Lao Peoples Democratic Republic,1995,2800,Number of other health workers,Absolute,All,All,NOOHWO299,0,130,418,No
+322,Latvia,2011,2413,Number of other health workers,Absolute,All,All,NOOHWO300,0,130,428,No
+323,Lebanon,2005,1103,Number of other health workers,Absolute,All,All,NOOHWO301,0,130,422,No
+324,Lesotho,2003,35,Number of other health workers,Absolute,All,All,NOOHWO302,0,130,426,No
+325,Liberia,2008,195,Number of other health workers,Absolute,All,All,NOOHWO303,0,130,430,No
+326,Liberia,2004,540,Number of other health workers,Absolute,All,All,NOOHWO304,0,130,430,No
+327,Lithuania,2011,9328,Number of other health workers,Absolute,All,All,NOOHWO305,0,130,440,No
+328,Luxembourg,2012,4022,Number of other health workers,Absolute,All,All,NOOHWO306,0,130,442,No
+329,Madagascar,2007,3857,Number of other health workers,Absolute,All,All,NOOHWO307,0,130,450,No
+330,Madagascar,2004,530,Number of other health workers,Absolute,All,All,NOOHWO308,0,130,450,No
+331,Malawi,2009,1941,Number of other health workers,Absolute,All,All,NOOHWO309,0,130,454,No
+332,Malawi,2008,2000,Number of other health workers,Absolute,All,All,NOOHWO310,0,130,454,No
+333,Malawi,2004,707,Number of other health workers,Absolute,All,All,NOOHWO311,0,130,454,No
+334,Malaysia,2010,15510,Number of other health workers,Absolute,All,All,NOOHWO312,0,130,458,No
+335,Malaysia,2007,7948,Number of other health workers,Absolute,All,All,NOOHWO313,0,130,458,No
+336,Maldives,2010,22,Number of other health workers,Absolute,All,All,NOOHWO314,0,130,462,No
+337,Maldives,2009,21,Number of other health workers,Absolute,All,All,NOOHWO315,0,130,462,No
+338,Maldives,2007,15,Number of other health workers,Absolute,All,All,NOOHWO316,0,130,462,No
+339,Maldives,2004,14,Number of other health workers,Absolute,All,All,NOOHWO317,0,130,462,No
+340,Maldives,1996,84,Number of other health workers,Absolute,All,All,NOOHWO318,0,130,462,No
+341,Maldives,1993,43,Number of other health workers,Absolute,All,All,NOOHWO319,0,130,462,No
+342,Maldives,1991,39,Number of other health workers,Absolute,All,All,NOOHWO320,0,130,462,No
+343,Maldives,1989,28,Number of other health workers,Absolute,All,All,NOOHWO321,0,130,462,No
+344,Mali,2010,4717,Number of other health workers,Absolute,All,All,NOOHWO322,0,130,466,No
+345,Mali,2009,4302,Number of other health workers,Absolute,All,All,NOOHWO323,0,130,466,No
+346,Mali,2008,1694,Number of other health workers,Absolute,All,All,NOOHWO324,0,130,466,No
+347,Mali,2007,1548,Number of other health workers,Absolute,All,All,NOOHWO325,0,130,466,No
+348,Mali,2004,377,Number of other health workers,Absolute,All,All,NOOHWO326,0,130,466,No
+349,Malta,2012,360,Number of other health workers,Absolute,All,All,NOOHWO327,0,130,470,No
+350,Marshall Islands,2008,33,Number of other health workers,Absolute,All,All,NOOHWO328,0,130,584,No
+351,Mauritania,2009,211,Number of other health workers,Absolute,All,All,NOOHWO329,0,130,478,No
+352,Mauritania,2004,48,Number of other health workers,Absolute,All,All,NOOHWO330,0,130,478,No
+353,Mauritius,2004,145,Number of other health workers,Absolute,All,All,NOOHWO331,0,130,480,No
+354,Mexico,2000,236861,Number of other health workers,Absolute,All,All,NOOHWO332,0,130,484,No
+355,Micronesia (Federated States of),2008,101,Number of other health workers,Absolute,All,All,NOOHWO333,0,130,583,No
+356,Monaco,2011,514,Number of other health workers,Absolute,All,All,NOOHWO334,0,130,492,No
+357,Mongolia,2008,1177,Number of other health workers,Absolute,All,All,NOOHWO335,0,130,496,No
+358,Mongolia,2002,7147,Number of other health workers,Absolute,All,All,NOOHWO336,0,130,496,No
+359,Morocco,2004,1123,Number of other health workers,Absolute,All,All,NOOHWO337,0,130,504,No
+360,Mozambique,2008,2660,Number of other health workers,Absolute,All,All,NOOHWO338,0,130,508,No
+361,Mozambique,2006,2525,Number of other health workers,Absolute,All,All,NOOHWO339,0,130,508,No
+362,Mozambique,2004,1659,Number of other health workers,Absolute,All,All,NOOHWO340,0,130,508,No
+363,Myanmar,2011,1893,Number of other health workers,Absolute,All,All,NOOHWO341,0,130,104,No
+364,Myanmar,2010,1899,Number of other health workers,Absolute,All,All,NOOHWO342,0,130,104,No
+365,Myanmar,2009,1845,Number of other health workers,Absolute,All,All,NOOHWO343,0,130,104,No
+366,Myanmar,2008,1822,Number of other health workers,Absolute,All,All,NOOHWO344,0,130,104,No
+367,Myanmar,2007,1788,Number of other health workers,Absolute,All,All,NOOHWO345,0,130,104,No
+368,Myanmar,2006,1778,Number of other health workers,Absolute,All,All,NOOHWO346,0,130,104,No
+369,Myanmar,2005,1771,Number of other health workers,Absolute,All,All,NOOHWO347,0,130,104,No
+370,Myanmar,2004,2077,Number of other health workers,Absolute,All,All,NOOHWO348,0,130,104,No
+371,Myanmar,1988,1238,Number of other health workers,Absolute,All,All,NOOHWO349,0,130,104,No
+372,Namibia,2007,338,Number of other health workers,Absolute,All,All,NOOHWO350,0,130,516,No
+373,Namibia,2004,597,Number of other health workers,Absolute,All,All,NOOHWO351,0,130,516,No
+374,Nauru,2009,16,Number of other health workers,Absolute,All,All,NOOHWO352,0,130,520,No
+375,Nauru,2008,19,Number of other health workers,Absolute,All,All,NOOHWO353,0,130,520,No
+376,Nepal,2004,1892,Number of other health workers,Absolute,All,All,NOOHWO354,0,130,524,No
+377,Netherlands,2010,30165,Number of other health workers,Absolute,All,All,NOOHWO355,0,130,528,No
+378,New Zealand,2001,48000,Number of other health workers,Absolute,All,All,NOOHWO356,0,130,554,No
+379,New Zealand,2001,48000,Number of other health workers,Absolute,All,All,NOOHWO356,0,130,554,No
+380,Niger,2008,30,Number of other health workers,Absolute,All,All,NOOHWO357,0,130,562,No
+381,Niger,2004,485,Number of other health workers,Absolute,All,All,NOOHWO358,0,130,562,No
+382,Nigeria,2009,7356,Number of other health workers,Absolute,All,All,NOOHWO359,0,130,566,No
+383,Nigeria,2008,1473,Number of other health workers,Absolute,All,All,NOOHWO360,0,130,566,No
+384,Nigeria,2007,2943,Number of other health workers,Absolute,All,All,NOOHWO361,0,130,566,No
+385,Nigeria,2006,49,Number of other health workers,Absolute,All,All,NOOHWO362,0,130,566,No
+386,Nigeria,2005,20785,Number of other health workers,Absolute,All,All,NOOHWO363,0,130,566,No
+387,Nigeria,2004,1220,Number of other health workers,Absolute,All,All,NOOHWO364,0,130,566,No
+388,Niue,2008,7,Number of other health workers,Absolute,All,All,NOOHWO365,0,130,570,No
+389,Norway,2011,51004,Number of other health workers,Absolute,All,All,NOOHWO366,0,130,578,No
+390,Norway,2009,8637,Number of other health workers,Absolute,All,All,NOOHWO367,0,130,578,No
+391,Oman,2011,299,Number of other health workers,Absolute,All,All,NOOHWO368,0,130,512,No
+392,Oman,2010,281,Number of other health workers,Absolute,All,All,NOOHWO369,0,130,512,No
+393,Oman,2009,263,Number of other health workers,Absolute,All,All,NOOHWO370,0,130,512,No
+394,Oman,2008,9202,Number of other health workers,Absolute,All,All,NOOHWO371,0,130,512,No
+395,Oman,2007,5458,Number of other health workers,Absolute,All,All,NOOHWO372,0,130,512,No
+396,Oman,2006,198,Number of other health workers,Absolute,All,All,NOOHWO373,0,130,512,No
+397,Oman,2005,4825,Number of other health workers,Absolute,All,All,NOOHWO374,0,130,512,No
+398,Oman,2004,1256,Number of other health workers,Absolute,All,All,NOOHWO375,0,130,512,No
+399,Oman,2000,3506,Number of other health workers,Absolute,All,All,NOOHWO376,0,130,512,No
+400,Oman,1999,5537,Number of other health workers,Absolute,All,All,NOOHWO377,0,130,512,No
+401,Oman,1998,5287,Number of other health workers,Absolute,All,All,NOOHWO378,0,130,512,No
+402,Oman,1997,5470,Number of other health workers,Absolute,All,All,NOOHWO379,0,130,512,No
+403,Oman,1995,3579,Number of other health workers,Absolute,All,All,NOOHWO380,0,130,512,No
+404,Oman,1990,50,Number of other health workers,Absolute,All,All,NOOHWO381,0,130,512,No
+405,Oman,1985,44,Number of other health workers,Absolute,All,All,NOOHWO382,0,130,512,No
+406,Pakistan,2004,19082,Number of other health workers,Absolute,All,All,NOOHWO383,0,130,586,No
+407,Palau,1998,7,Number of other health workers,Absolute,All,All,NOOHWO384,0,130,585,No
+408,Panama,2000,2229,Number of other health workers,Absolute,All,All,NOOHWO385,0,130,591,No
+409,Panama,2000,2229,Number of other health workers,Absolute,All,All,NOOHWO385,0,130,590,No
+410,Papua New Guinea,2008,2261,Number of other health workers,Absolute,All,All,NOOHWO386,0,130,598,No
+411,Paraguay,2002,8833,Number of other health workers,Absolute,All,All,NOOHWO387,0,130,600,No
+412,Peru,2012,21449,Number of other health workers,Absolute,All,All,NOOHWO388,0,130,604,No
+413,Peru,2009,22176,Number of other health workers,Absolute,All,All,NOOHWO389,0,130,604,No
+414,Philippines,2000,90788,Number of other health workers,Absolute,All,All,NOOHWO390,0,130,608,No
+415,Poland,2011,21975,Number of other health workers,Absolute,All,All,NOOHWO391,0,130,616,No
+416,Poland,2010,30078,Number of other health workers,Absolute,All,All,NOOHWO392,0,130,616,No
+417,Portugal,2011,1384,Number of other health workers,Absolute,All,All,NOOHWO393,0,130,620,No
+418,Portugal,2010,1704,Number of other health workers,Absolute,All,All,NOOHWO394,0,130,620,No
+419,Qatar,2006,111,Number of other health workers,Absolute,All,All,NOOHWO395,0,130,634,No
+420,Republic of Korea,2012,25475,Number of other health workers,Absolute,All,All,NOOHWO396,0,130,410,No
+421,Republic of Korea,2011,24017,Number of other health workers,Absolute,All,All,NOOHWO397,0,130,410,No
+422,Republic of Korea,2010,22827,Number of other health workers,Absolute,All,All,NOOHWO398,0,130,410,No
+423,Republic of Korea,2009,356108,Number of other health workers,Absolute,All,All,NOOHWO399,0,130,410,No
+424,Republic of Korea,2008,338392,Number of other health workers,Absolute,All,All,NOOHWO400,0,130,410,No
+425,Republic of Korea,2007,319896,Number of other health workers,Absolute,All,All,NOOHWO401,0,130,410,No
+426,Republic of Korea,2006,303282,Number of other health workers,Absolute,All,All,NOOHWO402,0,130,410,No
+427,Republic of Korea,2005,287239,Number of other health workers,Absolute,All,All,NOOHWO403,0,130,410,No
+428,Republic of Korea,2004,171642,Number of other health workers,Absolute,All,All,NOOHWO404,0,130,410,No
+429,Republic of Moldova,2012,12111,Number of other health workers,Absolute,All,All,NOOHWO405,0,130,498,No
+430,Republic of Moldova,2011,27445,Number of other health workers,Absolute,All,All,NOOHWO406,0,130,498,No
+431,Republic of Moldova,2010,27519,Number of other health workers,Absolute,All,All,NOOHWO407,0,130,498,No
+432,Romania,2011,60738,Number of other health workers,Absolute,All,All,NOOHWO408,0,130,642,No
+433,Romania,2002,188011,Number of other health workers,Absolute,All,All,NOOHWO409,0,130,642,No
+434,Russian Federation,2000,1105861,Number of other health workers,Absolute,All,All,NOOHWO410,0,130,643,No
+435,Rwanda,2010,2716,Number of other health workers,Absolute,All,All,NOOHWO411,0,130,646,No
+436,Rwanda,2009,2838,Number of other health workers,Absolute,All,All,NOOHWO412,0,130,646,No
+437,Rwanda,2008,2637,Number of other health workers,Absolute,All,All,NOOHWO413,0,130,646,No
+438,Rwanda,2004,1047,Number of other health workers,Absolute,All,All,NOOHWO414,0,130,646,No
+439,Saint Lucia,2001,769,Number of other health workers,Absolute,All,All,NOOHWO415,0,130,662,No
+440,Saint Vincent and the Grenadines,2001,274,Number of other health workers,Absolute,All,All,NOOHWO416,0,130,670,No
+441,Samoa,2008,56,Number of other health workers,Absolute,All,All,NOOHWO417,0,130,882,No
+442,San Marino,2012,170,Number of other health workers,Absolute,All,All,NOOHWO418,0,130,674,No
+443,Sao Tome and Principe,2004,291,Number of other health workers,Absolute,All,All,NOOHWO419,0,130,678,No
+444,Saudi Arabia,2009,38144,Number of other health workers,Absolute,All,All,NOOHWO420,0,130,682,No
+445,Saudi Arabia,2008,28752,Number of other health workers,Absolute,All,All,NOOHWO421,0,130,682,No
+446,Senegal,2008,2231,Number of other health workers,Absolute,All,All,NOOHWO422,0,130,686,No
+447,Senegal,2004,704,Number of other health workers,Absolute,All,All,NOOHWO423,0,130,686,No
+448,Serbia,2012,2641,Number of other health workers,Absolute,All,All,NOOHWO424,0,130,688,No
+449,Seychelles,2004,35,Number of other health workers,Absolute,All,All,NOOHWO425,0,130,690,No
+450,Sierra Leone,2010,857,Number of other health workers,Absolute,All,All,NOOHWO426,0,130,694,No
+451,Sierra Leone,2008,23,Number of other health workers,Absolute,All,All,NOOHWO427,0,130,694,No
+452,Sierra Leone,2004,4,Number of other health workers,Absolute,All,All,NOOHWO428,0,130,694,No
+453,Singapore,2010,2419,Number of other health workers,Absolute,All,All,NOOHWO429,0,130,702,No
+454,Slovakia,2011,7977,Number of other health workers,Absolute,All,All,NOOHWO430,0,130,703,No
+455,Slovenia,2011,4184,Number of other health workers,Absolute,All,All,NOOHWO431,0,130,705,No
+456,Somalia,2005,522,Number of other health workers,Absolute,All,All,NOOHWO432,0,130,706,No
+457,South Africa,2013,106118,Number of other health workers,Absolute,All,All,NOOHWO433,0,130,710,No
+458,South Africa,2011,106508,Number of other health workers,Absolute,All,All,NOOHWO434,0,130,710,No
+459,South Africa,2004,45638,Number of other health workers,Absolute,All,All,NOOHWO435,0,130,710,No
+460,Spain,2012,467500,Number of other health workers,Absolute,All,All,NOOHWO436,0,130,724,No
+461,Spain,2011,37480,Number of other health workers,Absolute,All,All,NOOHWO437,0,130,724,No
+462,Sri Lanka,2010,1107,Number of other health workers,Absolute,All,All,NOOHWO438,0,130,144,No
+463,Sri Lanka,2009,1046,Number of other health workers,Absolute,All,All,NOOHWO439,0,130,144,No
+464,Sri Lanka,2008,1134,Number of other health workers,Absolute,All,All,NOOHWO440,0,130,144,No
+465,Sri Lanka,2007,37480,Number of other health workers,Absolute,All,All,NOOHWO441,0,130,144,No
+466,Sri Lanka,2006,1183,Number of other health workers,Absolute,All,All,NOOHWO442,0,130,144,No
+467,Sri Lanka,2005,1274,Number of other health workers,Absolute,All,All,NOOHWO443,0,130,144,No
+468,Sri Lanka,2004,1546,Number of other health workers,Absolute,All,All,NOOHWO444,0,130,144,No
+469,Sri Lanka,2001,1343,Number of other health workers,Absolute,All,All,NOOHWO445,0,130,144,No
+470,Sri Lanka,2000,1349,Number of other health workers,Absolute,All,All,NOOHWO446,0,130,144,No
+471,Sri Lanka,1999,1340,Number of other health workers,Absolute,All,All,NOOHWO447,0,130,144,No
+472,Sri Lanka,1998,1324,Number of other health workers,Absolute,All,All,NOOHWO448,0,130,144,No
+473,Sri Lanka,1997,1384,Number of other health workers,Absolute,All,All,NOOHWO449,0,130,144,No
+474,Sri Lanka,1996,1397,Number of other health workers,Absolute,All,All,NOOHWO450,0,130,144,No
+475,Sri Lanka,1993,2230,Number of other health workers,Absolute,All,All,NOOHWO451,0,130,144,No
+476,Sri Lanka,1988,1100,Number of other health workers,Absolute,All,All,NOOHWO452,0,130,144,No
+477,Sri Lanka,1980,1018,Number of other health workers,Absolute,All,All,NOOHWO453,0,130,144,No
+478,Sudan,2006,21723,Number of other health workers,Absolute,All,All,NOOHWO454,0,130,729,No
+479,Sudan,2006,21723,Number of other health workers,Absolute,All,All,NOOHWO454,0,130,736,No
+480,Sudan,2004,8667,Number of other health workers,Absolute,All,All,NOOHWO455,0,130,729,No
+481,Sudan,2004,8667,Number of other health workers,Absolute,All,All,NOOHWO455,0,130,736,No
+482,Swaziland,2009,1329,Number of other health workers,Absolute,All,All,NOOHWO456,0,130,748,No
+483,Swaziland,2004,616,Number of other health workers,Absolute,All,All,NOOHWO457,0,130,748,No
+484,Swaziland,2000,82,Number of other health workers,Absolute,All,All,NOOHWO458,0,130,748,No
+485,Sweden,2010,11812,Number of other health workers,Absolute,All,All,NOOHWO459,0,130,752,No
+486,Sweden,2007,10916,Number of other health workers,Absolute,All,All,NOOHWO460,0,130,752,No
+487,Switzerland,2011,55374,Number of other health workers,Absolute,All,All,NOOHWO461,0,130,756,No
+488,Switzerland,2011,55374,Number of other health workers,Absolute,All,All,NOOHWO461,0,130,756,No
+489,Syrian Arab Republic,2004,16542,Number of other health workers,Absolute,All,All,NOOHWO462,0,130,760,No
+490,Syrian Arab Republic,2003,14798,Number of other health workers,Absolute,All,All,NOOHWO463,0,130,760,No
+491,Syrian Arab Republic,2002,14057,Number of other health workers,Absolute,All,All,NOOHWO464,0,130,760,No
+492,Syrian Arab Republic,2000,12030,Number of other health workers,Absolute,All,All,NOOHWO465,0,130,760,No
+493,Syrian Arab Republic,1999,11233,Number of other health workers,Absolute,All,All,NOOHWO466,0,130,760,No
+494,Thailand,2010,7881,Number of other health workers,Absolute,All,All,NOOHWO467,0,130,764,No
+495,Thailand,2009,7613,Number of other health workers,Absolute,All,All,NOOHWO468,0,130,764,No
+496,Thailand,2008,8036,Number of other health workers,Absolute,All,All,NOOHWO469,0,130,764,No
+497,Thailand,2007,7635,Number of other health workers,Absolute,All,All,NOOHWO470,0,130,764,No
+498,Thailand,2006,7761,Number of other health workers,Absolute,All,All,NOOHWO471,0,130,764,No
+499,Thailand,2000,50296,Number of other health workers,Absolute,All,All,NOOHWO472,0,130,764,No
+500,The former Yugoslav Republic of Macedonia,2009,13364,Number of other health workers,Absolute,All,All,NOOHWO473,0,130,807,No
+501,Timor-Leste,2011,46,Number of other health workers,Absolute,All,All,NOOHWO474,0,130,626,No
+502,Timor-Leste,2010,46,Number of other health workers,Absolute,All,All,NOOHWO475,0,130,626,No
+503,Timor-Leste,2009,21,Number of other health workers,Absolute,All,All,NOOHWO476,0,130,626,No
+504,Timor-Leste,2008,18,Number of other health workers,Absolute,All,All,NOOHWO477,0,130,626,No
+505,Timor-Leste,2007,19,Number of other health workers,Absolute,All,All,NOOHWO478,0,130,626,No
+506,Timor-Leste,2004,18,Number of other health workers,Absolute,All,All,NOOHWO479,0,130,626,No
+507,Timor-Leste,2001,5,Number of other health workers,Absolute,All,All,NOOHWO480,0,130,626,No
+508,Togo,2008,2919,Number of other health workers,Absolute,All,All,NOOHWO481,0,130,768,No
+509,Togo,2007,1548,Number of other health workers,Absolute,All,All,NOOHWO482,0,130,768,No
+510,Togo,2004,606,Number of other health workers,Absolute,All,All,NOOHWO483,0,130,768,No
+511,Tonga,2009,165,Number of other health workers,Absolute,All,All,NOOHWO484,0,130,776,No
+512,Trinidad and Tobago,2007,98,Number of other health workers,Absolute,All,All,NOOHWO485,0,130,780,No
+513,Trinidad and Tobago,2006,100,Number of other health workers,Absolute,All,All,NOOHWO486,0,130,780,No
+514,Tunisia,2010,34195,Number of other health workers,Absolute,All,All,NOOHWO487,0,130,788,No
+515,Tunisia,2007,31758,Number of other health workers,Absolute,All,All,NOOHWO488,0,130,788,No
+516,Tunisia,2006,40465,Number of other health workers,Absolute,All,All,NOOHWO489,0,130,788,No
+517,Tunisia,2005,29607,Number of other health workers,Absolute,All,All,NOOHWO490,0,130,788,No
+518,Tunisia,2004,10799,Number of other health workers,Absolute,All,All,NOOHWO491,0,130,788,No
+519,Tunisia,2002,28629,Number of other health workers,Absolute,All,All,NOOHWO492,0,130,788,No
+520,Tunisia,2001,30392,Number of other health workers,Absolute,All,All,NOOHWO493,0,130,788,No
+521,Tunisia,2000,27392,Number of other health workers,Absolute,All,All,NOOHWO494,0,130,788,No
+522,Tunisia,1999,27050,Number of other health workers,Absolute,All,All,NOOHWO495,0,130,788,No
+523,Tunisia,1998,26676,Number of other health workers,Absolute,All,All,NOOHWO496,0,130,788,No
+524,Tunisia,1997,26369,Number of other health workers,Absolute,All,All,NOOHWO497,0,130,788,No
+525,Tunisia,1996,26130,Number of other health workers,Absolute,All,All,NOOHWO498,0,130,788,No
+526,Tunisia,1995,25874,Number of other health workers,Absolute,All,All,NOOHWO499,0,130,788,No
+527,Tunisia,1994,25466,Number of other health workers,Absolute,All,All,NOOHWO500,0,130,788,No
+528,Tunisia,1993,25291,Number of other health workers,Absolute,All,All,NOOHWO501,0,130,788,No
+529,Tunisia,1992,25070,Number of other health workers,Absolute,All,All,NOOHWO502,0,130,788,No
+530,Tunisia,1991,24555,Number of other health workers,Absolute,All,All,NOOHWO503,0,130,788,No
+531,Tunisia,1990,23743,Number of other health workers,Absolute,All,All,NOOHWO504,0,130,788,No
+532,Turkey,2011,110862,Number of other health workers,Absolute,All,All,NOOHWO505,0,130,792,No
+533,Turkey,2010,99302,Number of other health workers,Absolute,All,All,NOOHWO506,0,130,792,No
+534,Turkey,2009,93550,Number of other health workers,Absolute,All,All,NOOHWO507,0,130,792,No
+535,Turkey,2008,89540,Number of other health workers,Absolute,All,All,NOOHWO508,0,130,792,No
+536,Turkey,2007,79441,Number of other health workers,Absolute,All,All,NOOHWO509,0,130,792,No
+537,Turkey,2006,67514,Number of other health workers,Absolute,All,All,NOOHWO510,0,130,792,No
+538,Turkey,2005,62035,Number of other health workers,Absolute,All,All,NOOHWO511,0,130,792,No
+539,Turkey,2004,60959,Number of other health workers,Absolute,All,All,NOOHWO512,0,130,792,No
+540,Turkey,2003,57416,Number of other health workers,Absolute,All,All,NOOHWO513,0,130,792,No
+541,Turkey,2002,50106,Number of other health workers,Absolute,All,All,NOOHWO514,0,130,792,No
+542,Turkey,2001,52993,Number of other health workers,Absolute,All,All,NOOHWO515,0,130,792,No
+543,Turkey,2000,51887,Number of other health workers,Absolute,All,All,NOOHWO516,0,130,792,No
+544,Turkey,1999,43032,Number of other health workers,Absolute,All,All,NOOHWO517,0,130,792,No
+545,Turkey,1998,41461,Number of other health workers,Absolute,All,All,NOOHWO518,0,130,792,No
+546,Turkey,1997,39658,Number of other health workers,Absolute,All,All,NOOHWO519,0,130,792,No
+547,Turkey,1996,39075,Number of other health workers,Absolute,All,All,NOOHWO520,0,130,792,No
+548,Turkey,1995,34342,Number of other health workers,Absolute,All,All,NOOHWO521,0,130,792,No
+549,Turkey,1994,30811,Number of other health workers,Absolute,All,All,NOOHWO522,0,130,792,No
+550,Turkey,1993,28776,Number of other health workers,Absolute,All,All,NOOHWO523,0,130,792,No
+551,Turkey,1992,24160,Number of other health workers,Absolute,All,All,NOOHWO524,0,130,792,No
+552,Turkey,1991,23813,Number of other health workers,Absolute,All,All,NOOHWO525,0,130,792,No
+553,Turkey,1990,21547,Number of other health workers,Absolute,All,All,NOOHWO526,0,130,792,No
+554,Turkey,1989,18869,Number of other health workers,Absolute,All,All,NOOHWO527,0,130,792,No
+555,Turkey,1988,18831,Number of other health workers,Absolute,All,All,NOOHWO528,0,130,792,No
+556,Turkey,1987,12352,Number of other health workers,Absolute,All,All,NOOHWO529,0,130,792,No
+557,Turkey,1986,11684,Number of other health workers,Absolute,All,All,NOOHWO530,0,130,792,No
+558,Turkey,1985,10525,Number of other health workers,Absolute,All,All,NOOHWO531,0,130,792,No
+559,Turkey,1984,10456,Number of other health workers,Absolute,All,All,NOOHWO532,0,130,792,No
+560,Turkey,1983,10704,Number of other health workers,Absolute,All,All,NOOHWO533,0,130,792,No
+561,Turkey,1982,11830,Number of other health workers,Absolute,All,All,NOOHWO534,0,130,792,No
+562,Turkey,1981,12226,Number of other health workers,Absolute,All,All,NOOHWO535,0,130,792,No
+563,Turkey,1980,11664,Number of other health workers,Absolute,All,All,NOOHWO536,0,130,792,No
+564,Turkey,1979,11606,Number of other health workers,Absolute,All,All,NOOHWO537,0,130,792,No
+565,Turkey,1978,11141,Number of other health workers,Absolute,All,All,NOOHWO538,0,130,792,No
+566,Turkey,1977,11183,Number of other health workers,Absolute,All,All,NOOHWO539,0,130,792,No
+567,Turkey,1976,11517,Number of other health workers,Absolute,All,All,NOOHWO540,0,130,792,No
+568,Turkey,1975,11021,Number of other health workers,Absolute,All,All,NOOHWO541,0,130,792,No
+569,Turkey,1974,8479,Number of other health workers,Absolute,All,All,NOOHWO542,0,130,792,No
+570,Turkey,1973,11025,Number of other health workers,Absolute,All,All,NOOHWO543,0,130,792,No
+571,Turkey,1972,10426,Number of other health workers,Absolute,All,All,NOOHWO544,0,130,792,No
+572,Turkey,1971,10285,Number of other health workers,Absolute,All,All,NOOHWO545,0,130,792,No
+573,Turkey,1970,9954,Number of other health workers,Absolute,All,All,NOOHWO546,0,130,792,No
+574,Turkmenistan,2012,89,Number of other health workers,Absolute,All,All,NOOHWO547,0,130,795,No
+575,Turkmenistan,2002,7846,Number of other health workers,Absolute,All,All,NOOHWO548,0,130,795,No
+576,Tuvalu,2008,9,Number of other health workers,Absolute,All,All,NOOHWO549,0,130,798,No
+577,Uganda,2005,15400,Number of other health workers,Absolute,All,All,NOOHWO550,0,130,800,No
+578,Uganda,2004,4128,Number of other health workers,Absolute,All,All,NOOHWO551,0,130,800,No
+579,Ukraine,2012,56211,Number of other health workers,Absolute,All,All,NOOHWO552,0,130,804,No
+580,United Kingdom,2012,27455,Number of other health workers,Absolute,All,All,NOOHWO553,0,130,826,No
+581,United Kingdom,1997,651492,Number of other health workers,Absolute,All,All,NOOHWO554,0,130,826,No
+582,United Republic of Tanzania,2006,6811,Number of other health workers,Absolute,All,All,NOOHWO555,0,130,834,No
+583,United Republic of Tanzania,2002,30051,Number of other health workers,Absolute,All,All,NOOHWO556,0,130,834,No
+584,United States of America,2011,2648360,Number of other health workers,Absolute,All,All,NOOHWO557,0,130,840,No
+585,United States of America,2010,2678940,Number of other health workers,Absolute,All,All,NOOHWO558,0,130,840,No
+586,United States of America,2009,2630330,Number of other health workers,Absolute,All,All,NOOHWO559,0,130,840,No
+587,United States of America,2005,1474000,Number of other health workers,Absolute,All,All,NOOHWO560,0,130,840,No
+588,United States of America,2000,4138567,Number of other health workers,Absolute,All,All,NOOHWO561,0,130,840,No
+589,United States of America,1995,1757000,Number of other health workers,Absolute,All,All,NOOHWO562,0,130,840,No
+590,Uruguay,2008,4838,Number of other health workers,Absolute,All,All,NOOHWO563,0,130,858,No
+591,Uzbekistan,2012,414,Number of other health workers,Absolute,All,All,NOOHWO564,0,130,860,No
+592,Vanuatu,2008,58,Number of other health workers,Absolute,All,All,NOOHWO565,0,130,548,No
+593,Vanuatu,2007,228,Number of other health workers,Absolute,All,All,NOOHWO566,0,130,548,No
+594,Yemen,2010,7429,Number of other health workers,Absolute,All,All,NOOHWO567,0,130,887,No
+595,Yemen,2010,7429,Number of other health workers,Absolute,All,All,NOOHWO567,0,130,886,No
+596,Yemen,2004,4580,Number of other health workers,Absolute,All,All,NOOHWO568,0,130,887,No
+597,Yemen,2004,4580,Number of other health workers,Absolute,All,All,NOOHWO568,0,130,886,No
+598,Yemen,1997,3758,Number of other health workers,Absolute,All,All,NOOHWO569,0,130,887,No
+599,Yemen,1997,3758,Number of other health workers,Absolute,All,All,NOOHWO569,0,130,886,No
+600,Zambia,2010,14261,Number of other health workers,Absolute,All,All,NOOHWO570,0,130,894,No
+601,Zambia,2009,14718,Number of other health workers,Absolute,All,All,NOOHWO571,0,130,894,No
+602,Zambia,2008,1573,Number of other health workers,Absolute,All,All,NOOHWO572,0,130,894,No
+603,Zambia,2006,1632,Number of other health workers,Absolute,All,All,NOOHWO573,0,130,894,No
+604,Zambia,2005,12392,Number of other health workers,Absolute,All,All,NOOHWO574,0,130,894,No
+605,Zambia,2004,3330,Number of other health workers,Absolute,All,All,NOOHWO575,0,130,894,No
+606,Zimbabwe,2009,1428,Number of other health workers,Absolute,All,All,NOOHWO576,0,130,716,No
+607,Zimbabwe,2008,1456,Number of other health workers,Absolute,All,All,NOOHWO577,0,130,716,No
+608,Zimbabwe,2007,1342,Number of other health workers,Absolute,All,All,NOOHWO578,0,130,716,No
+609,Zimbabwe,2004,3185,Number of other health workers,Absolute,All,All,NOOHWO579,0,130,716,No
+610,Zimbabwe,1995,115,Number of other health workers,Absolute,All,All,NOOHWO580,0,130,716,No
+611,Zimbabwe,1990,57,Number of other health workers,Absolute,All,All,NOOHWO581,0,130,716,No
+612,Zimbabwe,1985,37,Number of other health workers,Absolute,All,All,NOOHWO582,0,130,716,No

@@ -1,0 +1,179 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Algeria,2007,389,Number of dental technician assistants,Absolute,All,All,NODTA1,0,130,12,No
+1,Algeria,2002,692,Number of dental technician assistants,Absolute,All,All,NODTA2,0,130,12,No
+2,Australia,2001,13096,Number of dental technician assistants,Absolute,All,All,NODTA3,0,130,36,No
+3,Bahamas,2008,36,Number of dental technician assistants,Absolute,All,All,NODTA4,0,130,44,No
+4,Bahrain,2011,181,Number of dental technician assistants,Absolute,All,All,NODTA5,0,130,48,No
+5,Bahrain,2010,172,Number of dental technician assistants,Absolute,All,All,NODTA6,0,130,48,No
+6,Bahrain,2009,159,Number of dental technician assistants,Absolute,All,All,NODTA7,0,130,48,No
+7,Bahrain,2008,154,Number of dental technician assistants,Absolute,All,All,NODTA8,0,130,48,No
+8,Bahrain,2004,162,Number of dental technician assistants,Absolute,All,All,NODTA9,0,130,48,No
+9,Bangladesh,2004,589,Number of dental technician assistants,Absolute,All,All,NODTA10,0,130,50,No
+10,Barbados,2005,11,Number of dental technician assistants,Absolute,All,All,NODTA11,0,130,52,No
+11,Barbados,2001,2,Number of dental technician assistants,Absolute,All,All,NODTA12,0,130,52,No
+12,Barbados,1995,11,Number of dental technician assistants,Absolute,All,All,NODTA13,0,130,52,No
+13,Benin,2004,1,Number of dental technician assistants,Absolute,All,All,NODTA14,0,130,204,No
+14,Bhutan,2007,58,Number of dental technician assistants,Absolute,All,All,NODTA15,0,130,64,No
+15,Bhutan,2004,48,Number of dental technician assistants,Absolute,All,All,NODTA16,0,130,64,No
+16,Bolivia (Plurinational State of),2001,742,Number of dental technician assistants,Absolute,All,All,NODTA17,0,130,68,No
+17,Brazil,2000,37036,Number of dental technician assistants,Absolute,All,All,NODTA18,0,130,76,No
+18,Cabo Verde,2004,5,Number of dental technician assistants,Absolute,All,All,NODTA19,0,130,132,No
+19,Cambodia,1998,143,Number of dental technician assistants,Absolute,All,All,NODTA20,0,130,116,No
+20,Cambodia,1996,125,Number of dental technician assistants,Absolute,All,All,NODTA21,0,130,116,No
+21,Canada,2008,22365,Number of dental technician assistants,Absolute,All,All,NODTA22,0,130,124,No
+22,Canada,2006,19385,Number of dental technician assistants,Absolute,All,All,NODTA23,0,130,124,No
+23,Canada,2004,17553,Number of dental technician assistants,Absolute,All,All,NODTA24,0,130,124,No
+24,Canada,2002,16128,Number of dental technician assistants,Absolute,All,All,NODTA25,0,130,124,No
+25,Canada,2001,15553,Number of dental technician assistants,Absolute,All,All,NODTA26,0,130,124,No
+26,Canada,1998,14213,Number of dental technician assistants,Absolute,All,All,NODTA27,0,130,124,No
+27,Central African Republic,2009,8,Number of dental technician assistants,Absolute,All,All,NODTA28,0,130,140,No
+28,Central African Republic,2004,7,Number of dental technician assistants,Absolute,All,All,NODTA29,0,130,140,No
+29,Chad,2004,8,Number of dental technician assistants,Absolute,All,All,NODTA30,0,130,148,No
+30,Chile,1992,4390,Number of dental technician assistants,Absolute,All,All,NODTA31,0,130,152,No
+31,Comoros,2004,12,Number of dental technician assistants,Absolute,All,All,NODTA32,0,130,174,No
+32,Congo,2004,2,Number of dental technician assistants,Absolute,All,All,NODTA33,0,130,178,No
+33,Cook Islands,2009,15,Number of dental technician assistants,Absolute,All,All,NODTA34,0,130,184,No
+34,Costa Rica,2000,438,Number of dental technician assistants,Absolute,All,All,NODTA35,0,130,188,No
+35,Cyprus,2008,49,Number of dental technician assistants,Absolute,All,All,NODTA36,0,130,196,No
+36,Democratic Peoples Republic of Korea,2003,4360,Number of dental technician assistants,Absolute,All,All,NODTA37,0,130,408,No
+37,Egypt,2004,1724,Number of dental technician assistants,Absolute,All,All,NODTA38,0,130,818,No
+38,Equatorial Guinea,2004,10,Number of dental technician assistants,Absolute,All,All,NODTA39,0,130,226,No
+39,Estonia,2000,838,Number of dental technician assistants,Absolute,All,All,NODTA40,0,130,233,No
+40,Ethiopia,2003,33,Number of dental technician assistants,Absolute,All,All,NODTA41,0,130,231,No
+41,Ethiopia,2003,33,Number of dental technician assistants,Absolute,All,All,NODTA41,0,130,230,No
+42,Finland,2002,2016,Number of dental technician assistants,Absolute,All,All,NODTA42,0,130,246,No
+43,Gabon,2004,52,Number of dental technician assistants,Absolute,All,All,NODTA43,0,130,266,No
+44,Gambia,2008,35,Number of dental technician assistants,Absolute,All,All,NODTA44,0,130,270,No
+45,Gambia,2007,35,Number of dental technician assistants,Absolute,All,All,NODTA45,0,130,270,No
+46,Gambia,2003,36,Number of dental technician assistants,Absolute,All,All,NODTA46,0,130,270,No
+47,Ghana,2008,103,Number of dental technician assistants,Absolute,All,All,NODTA47,0,130,288,No
+48,Ghana,2004,289,Number of dental technician assistants,Absolute,All,All,NODTA48,0,130,288,No
+49,Grenada,2003,4,Number of dental technician assistants,Absolute,All,All,NODTA49,0,130,308,No
+50,Grenada,2002,4,Number of dental technician assistants,Absolute,All,All,NODTA50,0,130,308,No
+51,Grenada,2001,4,Number of dental technician assistants,Absolute,All,All,NODTA51,0,130,308,No
+52,Grenada,2000,5,Number of dental technician assistants,Absolute,All,All,NODTA52,0,130,308,No
+53,Grenada,1999,5,Number of dental technician assistants,Absolute,All,All,NODTA53,0,130,308,No
+54,Grenada,1998,5,Number of dental technician assistants,Absolute,All,All,NODTA54,0,130,308,No
+55,Guinea,2005,16,Number of dental technician assistants,Absolute,All,All,NODTA55,0,130,324,No
+56,Guinea,2004,38,Number of dental technician assistants,Absolute,All,All,NODTA56,0,130,324,No
+57,Guinea,2000,20,Number of dental technician assistants,Absolute,All,All,NODTA57,0,130,324,No
+58,Guinea-Bissau,2009,6,Number of dental technician assistants,Absolute,All,All,NODTA58,0,130,624,No
+59,Guinea-Bissau,2008,4,Number of dental technician assistants,Absolute,All,All,NODTA59,0,130,624,No
+60,Guinea-Bissau,2004,19,Number of dental technician assistants,Absolute,All,All,NODTA60,0,130,624,No
+61,Guyana,2009,35,Number of dental technician assistants,Absolute,All,All,NODTA61,0,130,328,No
+62,Honduras,2000,230,Number of dental technician assistants,Absolute,All,All,NODTA62,0,130,340,No
+63,Iceland,2011,15,Number of dental technician assistants,Absolute,All,All,NODTA63,0,130,352,No
+64,Iceland,2010,14,Number of dental technician assistants,Absolute,All,All,NODTA64,0,130,352,No
+65,Iceland,2009,14,Number of dental technician assistants,Absolute,All,All,NODTA65,0,130,352,No
+66,Iceland,2008,18,Number of dental technician assistants,Absolute,All,All,NODTA66,0,130,352,No
+67,Iceland,2007,19,Number of dental technician assistants,Absolute,All,All,NODTA67,0,130,352,No
+68,Iceland,2006,19,Number of dental technician assistants,Absolute,All,All,NODTA68,0,130,352,No
+69,Iceland,2005,25,Number of dental technician assistants,Absolute,All,All,NODTA69,0,130,352,No
+70,India,1991,6366,Number of dental technician assistants,Absolute,All,All,NODTA70,0,130,356,No
+71,Indonesia,2012,13581,Number of dental technician assistants,Absolute,All,All,NODTA71,0,130,360,No
+72,Indonesia,2010,9723,Number of dental technician assistants,Absolute,All,All,NODTA72,0,130,360,No
+73,Indonesia,2009,7231,Number of dental technician assistants,Absolute,All,All,NODTA73,0,130,360,No
+74,Indonesia,2003,1826,Number of dental technician assistants,Absolute,All,All,NODTA74,0,130,360,No
+75,Indonesia,1992,3778,Number of dental technician assistants,Absolute,All,All,NODTA75,0,130,360,No
+76,Iran (Islamic Republic of),2004,2487,Number of dental technician assistants,Absolute,All,All,NODTA76,0,130,364,No
+77,Israel,1995,3233,Number of dental technician assistants,Absolute,All,All,NODTA77,0,130,376,No
+78,Jamaica,2008,198,Number of dental technician assistants,Absolute,All,All,NODTA78,0,130,388,No
+79,Jordan,2004,3297,Number of dental technician assistants,Absolute,All,All,NODTA79,0,130,400,No
+80,Kenya,2002,594,Number of dental technician assistants,Absolute,All,All,NODTA80,0,130,404,No
+81,Lao Peoples Democratic Republic,2009,96,Number of dental technician assistants,Absolute,All,All,NODTA81,0,130,418,No
+82,Lesotho,2003,13,Number of dental technician assistants,Absolute,All,All,NODTA82,0,130,426,No
+83,Liberia,2004,10,Number of dental technician assistants,Absolute,All,All,NODTA83,0,130,430,No
+84,Malawi,2009,180,Number of dental technician assistants,Absolute,All,All,NODTA84,0,130,454,No
+85,Malawi,2008,211,Number of dental technician assistants,Absolute,All,All,NODTA85,0,130,454,No
+86,Malaysia,2010,6185,Number of dental technician assistants,Absolute,All,All,NODTA86,0,130,458,No
+87,Maldives,2004,4,Number of dental technician assistants,Absolute,All,All,NODTA87,0,130,462,No
+88,Mali,2010,68,Number of dental technician assistants,Absolute,All,All,NODTA88,0,130,466,No
+89,Mali,2009,80,Number of dental technician assistants,Absolute,All,All,NODTA89,0,130,466,No
+90,Mali,2008,4,Number of dental technician assistants,Absolute,All,All,NODTA90,0,130,466,No
+91,Mali,2007,15,Number of dental technician assistants,Absolute,All,All,NODTA91,0,130,466,No
+92,Mali,2004,40,Number of dental technician assistants,Absolute,All,All,NODTA92,0,130,466,No
+93,Mauritania,2009,23,Number of dental technician assistants,Absolute,All,All,NODTA93,0,130,478,No
+94,Mauritania,2004,17,Number of dental technician assistants,Absolute,All,All,NODTA94,0,130,478,No
+95,Mauritius,2004,66,Number of dental technician assistants,Absolute,All,All,NODTA95,0,130,480,No
+96,Mexico,2000,18598,Number of dental technician assistants,Absolute,All,All,NODTA96,0,130,484,No
+97,Micronesia (Federated States of),2008,26,Number of dental technician assistants,Absolute,All,All,NODTA97,0,130,583,No
+98,Mongolia,2002,22,Number of dental technician assistants,Absolute,All,All,NODTA98,0,130,496,No
+99,Mozambique,2004,143,Number of dental technician assistants,Absolute,All,All,NODTA99,0,130,508,No
+100,Myanmar,2012,344,Number of dental technician assistants,Absolute,All,All,NODTA100,0,130,104,No
+101,Myanmar,2011,316,Number of dental technician assistants,Absolute,All,All,NODTA101,0,130,104,No
+102,Myanmar,2010,287,Number of dental technician assistants,Absolute,All,All,NODTA102,0,130,104,No
+103,Myanmar,2009,262,Number of dental technician assistants,Absolute,All,All,NODTA103,0,130,104,No
+104,Myanmar,2008,244,Number of dental technician assistants,Absolute,All,All,NODTA104,0,130,104,No
+105,Myanmar,2007,177,Number of dental technician assistants,Absolute,All,All,NODTA105,0,130,104,No
+106,Myanmar,2006,165,Number of dental technician assistants,Absolute,All,All,NODTA106,0,130,104,No
+107,Myanmar,2005,162,Number of dental technician assistants,Absolute,All,All,NODTA107,0,130,104,No
+108,Myanmar,2004,67,Number of dental technician assistants,Absolute,All,All,NODTA108,0,130,104,No
+109,Myanmar,1988,96,Number of dental technician assistants,Absolute,All,All,NODTA109,0,130,104,No
+110,Namibia,2004,24,Number of dental technician assistants,Absolute,All,All,NODTA110,0,130,516,No
+111,Nauru,2009,2,Number of dental technician assistants,Absolute,All,All,NODTA111,0,130,520,No
+112,Nepal,2004,114,Number of dental technician assistants,Absolute,All,All,NODTA112,0,130,524,No
+113,New Zealand,2001,1155,Number of dental technician assistants,Absolute,All,All,NODTA113,0,130,554,No
+114,New Zealand,2001,1155,Number of dental technician assistants,Absolute,All,All,NODTA113,0,130,554,No
+115,Nigeria,2008,1210,Number of dental technician assistants,Absolute,All,All,NODTA114,0,130,566,No
+116,Nigeria,2007,1517,Number of dental technician assistants,Absolute,All,All,NODTA115,0,130,566,No
+117,Niue,2008,2,Number of dental technician assistants,Absolute,All,All,NODTA116,0,130,570,No
+118,Oman,2004,128,Number of dental technician assistants,Absolute,All,All,NODTA117,0,130,512,No
+119,Pakistan,2004,1410,Number of dental technician assistants,Absolute,All,All,NODTA118,0,130,586,No
+120,Panama,2000,1059,Number of dental technician assistants,Absolute,All,All,NODTA119,0,130,591,No
+121,Panama,2000,1059,Number of dental technician assistants,Absolute,All,All,NODTA119,0,130,590,No
+122,Paraguay,2002,756,Number of dental technician assistants,Absolute,All,All,NODTA120,0,130,600,No
+123,Republic of Korea,2004,44572,Number of dental technician assistants,Absolute,All,All,NODTA121,0,130,410,No
+124,Romania,2002,4931,Number of dental technician assistants,Absolute,All,All,NODTA122,0,130,642,No
+125,Rwanda,2010,44,Number of dental technician assistants,Absolute,All,All,NODTA123,0,130,646,No
+126,Rwanda,2009,77,Number of dental technician assistants,Absolute,All,All,NODTA124,0,130,646,No
+127,Rwanda,2008,61,Number of dental technician assistants,Absolute,All,All,NODTA125,0,130,646,No
+128,Rwanda,2004,12,Number of dental technician assistants,Absolute,All,All,NODTA126,0,130,646,No
+129,Samoa,2008,46,Number of dental technician assistants,Absolute,All,All,NODTA127,0,130,882,No
+130,Sao Tome and Principe,2004,11,Number of dental technician assistants,Absolute,All,All,NODTA128,0,130,678,No
+131,Senegal,2004,27,Number of dental technician assistants,Absolute,All,All,NODTA129,0,130,686,No
+132,Seychelles,2004,54,Number of dental technician assistants,Absolute,All,All,NODTA130,0,130,690,No
+133,Sierra Leone,2008,18,Number of dental technician assistants,Absolute,All,All,NODTA131,0,130,694,No
+134,South Africa,2013,4508,Number of dental technician assistants,Absolute,All,All,NODTA132,0,130,710,No
+135,South Africa,2011,3581,Number of dental technician assistants,Absolute,All,All,NODTA133,0,130,710,No
+136,South Africa,2004,7,Number of dental technician assistants,Absolute,All,All,NODTA134,0,130,710,No
+137,Sri Lanka,2007,27,Number of dental technician assistants,Absolute,All,All,NODTA135,0,130,144,No
+138,Sri Lanka,2004,474,Number of dental technician assistants,Absolute,All,All,NODTA136,0,130,144,No
+139,Sudan,2004,381,Number of dental technician assistants,Absolute,All,All,NODTA137,0,130,729,No
+140,Sudan,2004,381,Number of dental technician assistants,Absolute,All,All,NODTA137,0,130,736,No
+141,Swaziland,2009,30,Number of dental technician assistants,Absolute,All,All,NODTA138,0,130,748,No
+142,Swaziland,2004,15,Number of dental technician assistants,Absolute,All,All,NODTA139,0,130,748,No
+143,Swaziland,2000,17,Number of dental technician assistants,Absolute,All,All,NODTA140,0,130,748,No
+144,Thailand,2010,5375,Number of dental technician assistants,Absolute,All,All,NODTA141,0,130,764,No
+145,Thailand,2009,4250,Number of dental technician assistants,Absolute,All,All,NODTA142,0,130,764,No
+146,Thailand,2008,3501,Number of dental technician assistants,Absolute,All,All,NODTA143,0,130,764,No
+147,Thailand,2007,3279,Number of dental technician assistants,Absolute,All,All,NODTA144,0,130,764,No
+148,Thailand,2006,3693,Number of dental technician assistants,Absolute,All,All,NODTA145,0,130,764,No
+149,Thailand,2000,3493,Number of dental technician assistants,Absolute,All,All,NODTA146,0,130,764,No
+150,Timor-Leste,2011,39,Number of dental technician assistants,Absolute,All,All,NODTA147,0,130,626,No
+151,Timor-Leste,2010,37,Number of dental technician assistants,Absolute,All,All,NODTA148,0,130,626,No
+152,Timor-Leste,2009,34,Number of dental technician assistants,Absolute,All,All,NODTA149,0,130,626,No
+153,Timor-Leste,2008,29,Number of dental technician assistants,Absolute,All,All,NODTA150,0,130,626,No
+154,Timor-Leste,2007,28,Number of dental technician assistants,Absolute,All,All,NODTA151,0,130,626,No
+155,Timor-Leste,2004,43,Number of dental technician assistants,Absolute,All,All,NODTA152,0,130,626,No
+156,Timor-Leste,2001,9,Number of dental technician assistants,Absolute,All,All,NODTA153,0,130,626,No
+157,Togo,2008,4,Number of dental technician assistants,Absolute,All,All,NODTA154,0,130,768,No
+158,Togo,2007,4,Number of dental technician assistants,Absolute,All,All,NODTA155,0,130,768,No
+159,Togo,2004,1,Number of dental technician assistants,Absolute,All,All,NODTA156,0,130,768,No
+160,Tonga,2009,26,Number of dental technician assistants,Absolute,All,All,NODTA157,0,130,776,No
+161,Tunisia,2004,352,Number of dental technician assistants,Absolute,All,All,NODTA158,0,130,788,No
+162,Tuvalu,2008,2,Number of dental technician assistants,Absolute,All,All,NODTA159,0,130,798,No
+163,Uganda,2005,342,Number of dental technician assistants,Absolute,All,All,NODTA160,0,130,800,No
+164,Uganda,2004,246,Number of dental technician assistants,Absolute,All,All,NODTA161,0,130,800,No
+165,United Kingdom,1997,64085,Number of dental technician assistants,Absolute,All,All,NODTA162,0,130,826,No
+166,United Republic of Tanzania,2006,187,Number of dental technician assistants,Absolute,All,All,NODTA163,0,130,834,No
+167,United Republic of Tanzania,2002,120,Number of dental technician assistants,Absolute,All,All,NODTA164,0,130,834,No
+168,United States of America,2000,329418,Number of dental technician assistants,Absolute,All,All,NODTA165,0,130,840,No
+169,Yemen,2010,324,Number of dental technician assistants,Absolute,All,All,NODTA166,0,130,887,No
+170,Yemen,2010,324,Number of dental technician assistants,Absolute,All,All,NODTA166,0,130,886,No
+171,Yemen,2004,372,Number of dental technician assistants,Absolute,All,All,NODTA167,0,130,887,No
+172,Yemen,2004,372,Number of dental technician assistants,Absolute,All,All,NODTA167,0,130,886,No
+173,Zambia,2004,222,Number of dental technician assistants,Absolute,All,All,NODTA168,0,130,894,No
+174,Zimbabwe,2004,136,Number of dental technician assistants,Absolute,All,All,NODTA169,0,130,716,No
+175,Zimbabwe,1995,33,Number of dental technician assistants,Absolute,All,All,NODTA170,0,130,716,No
+176,Zimbabwe,1990,22,Number of dental technician assistants,Absolute,All,All,NODTA171,0,130,716,No
+177,Zimbabwe,1985,14,Number of dental technician assistants,Absolute,All,All,NODTA172,0,130,716,No

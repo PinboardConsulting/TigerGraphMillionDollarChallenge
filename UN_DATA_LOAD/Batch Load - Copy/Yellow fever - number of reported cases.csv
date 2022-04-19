@@ -1,0 +1,590 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC1,0,130,4,No
+1,Albania,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC2,0,130,8,No
+2,Albania,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC3,0,130,8,No
+3,Algeria,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC4,0,130,12,No
+4,Algeria,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC5,0,130,12,No
+5,Algeria,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC6,0,130,12,No
+6,Algeria,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC7,0,130,12,No
+7,Andorra,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC8,0,130,20,No
+8,Andorra,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC9,0,130,20,No
+9,Andorra,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC10,0,130,20,No
+10,Andorra,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC11,0,130,20,No
+11,Angola,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC12,0,130,24,No
+12,Angola,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC13,0,130,24,No
+13,Angola,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC14,0,130,24,No
+14,Antigua and Barbuda,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC15,0,130,28,No
+15,Antigua and Barbuda,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC16,0,130,28,No
+16,Antigua and Barbuda,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC17,0,130,28,No
+17,Antigua and Barbuda,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC18,0,130,28,No
+18,Argentina,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC19,0,130,32,No
+19,Argentina,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC20,0,130,32,No
+20,Argentina,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC21,0,130,32,No
+21,Argentina,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC22,0,130,32,No
+22,Armenia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC23,0,130,51,No
+23,Armenia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC24,0,130,51,No
+24,Australia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC25,0,130,36,No
+25,Australia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC26,0,130,36,No
+26,Australia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC27,0,130,36,No
+27,Australia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC28,0,130,36,No
+28,Austria,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC29,0,130,40,No
+29,Austria,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC30,0,130,40,No
+30,Austria,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC31,0,130,40,No
+31,Austria,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC32,0,130,40,No
+32,Azerbaijan,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC33,0,130,31,No
+33,Azerbaijan,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC34,0,130,31,No
+34,Azerbaijan,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC35,0,130,31,No
+35,Bahamas,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC36,0,130,44,No
+36,Bahamas,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC37,0,130,44,No
+37,Bahamas,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC38,0,130,44,No
+38,Bahamas,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC39,0,130,44,No
+39,Bahrain,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC40,0,130,48,No
+40,Bahrain,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC41,0,130,48,No
+41,Bahrain,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC42,0,130,48,No
+42,Bahrain,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC43,0,130,48,No
+43,Barbados,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC44,0,130,52,No
+44,Barbados,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC45,0,130,52,No
+45,Barbados,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC46,0,130,52,No
+46,Barbados,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC47,0,130,52,No
+47,Belarus,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC48,0,130,112,No
+48,Belarus,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC49,0,130,112,No
+49,Belarus,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC50,0,130,112,No
+50,Belarus,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC51,0,130,112,No
+51,Belgium,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC52,0,130,56,No
+52,Belgium,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC53,0,130,56,No
+53,Belgium,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC54,0,130,56,No
+54,Belgium,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC55,0,130,56,No
+55,Belize,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC56,0,130,84,No
+56,Belize,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC57,0,130,84,No
+57,Belize,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC58,0,130,84,No
+58,Belize,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC59,0,130,84,No
+59,Benin,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC60,0,130,204,No
+60,Benin,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC61,0,130,204,No
+61,Benin,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC62,0,130,204,No
+62,Benin,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC63,0,130,204,No
+63,Bhutan,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC64,0,130,64,No
+64,Bhutan,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC65,0,130,64,No
+65,Bhutan,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC66,0,130,64,No
+66,Bhutan,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC67,0,130,64,No
+67,Bolivia (Plurinational State of),2012,3,Yellow Fever,Absolute,All,All,YELFEVNRC68,0,130,68,No
+68,Bolivia (Plurinational State of),2011,2,Yellow Fever,Absolute,All,All,YELFEVNRC69,0,130,68,No
+69,Bolivia (Plurinational State of),2010,3,Yellow Fever,Absolute,All,All,YELFEVNRC70,0,130,68,No
+70,Bolivia (Plurinational State of),2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC71,0,130,68,No
+71,Bosnia and Herzegovina,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC72,0,130,70,No
+72,Brazil,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC73,0,130,76,No
+73,Brazil,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC74,0,130,76,No
+74,Brazil,2010,2,Yellow Fever,Absolute,All,All,YELFEVNRC75,0,130,76,No
+75,Brazil,2009,46,Yellow Fever,Absolute,All,All,YELFEVNRC76,0,130,76,No
+76,Brunei Darussalam,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC77,0,130,96,No
+77,Brunei Darussalam,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC78,0,130,96,No
+78,Brunei Darussalam,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC79,0,130,96,No
+79,Bulgaria,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC80,0,130,100,No
+80,Bulgaria,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC81,0,130,100,No
+81,Bulgaria,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC82,0,130,100,No
+82,Bulgaria,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC83,0,130,100,No
+83,Burkina Faso,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC84,0,130,854,No
+84,Burkina Faso,2011,1024,Yellow Fever,Absolute,All,All,YELFEVNRC85,0,130,854,No
+85,Burkina Faso,2010,7,Yellow Fever,Absolute,All,All,YELFEVNRC86,0,130,854,No
+86,Burkina Faso,2009,1,Yellow Fever,Absolute,All,All,YELFEVNRC87,0,130,854,No
+87,Burundi,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC88,0,130,108,No
+88,Burundi,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC89,0,130,108,No
+89,Burundi,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC90,0,130,108,No
+90,Cabo Verde,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC91,0,130,132,No
+91,Cabo Verde,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC92,0,130,132,No
+92,Cabo Verde,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC93,0,130,132,No
+93,Cabo Verde,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC94,0,130,132,No
+94,Cambodia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC95,0,130,116,No
+95,Cameroon,2012,31,Yellow Fever,Absolute,All,All,YELFEVNRC96,0,130,120,No
+96,Cameroon,2011,29,Yellow Fever,Absolute,All,All,YELFEVNRC97,0,130,120,No
+97,Cameroon,2010,16,Yellow Fever,Absolute,All,All,YELFEVNRC98,0,130,120,No
+98,Cameroon,2009,8,Yellow Fever,Absolute,All,All,YELFEVNRC99,0,130,120,No
+99,Canada,2012,3,Yellow Fever,Absolute,All,All,YELFEVNRC100,0,130,124,No
+100,Canada,2011,2,Yellow Fever,Absolute,All,All,YELFEVNRC101,0,130,124,No
+101,Canada,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC102,0,130,124,No
+102,Canada,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC103,0,130,124,No
+103,Central African Republic,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC104,0,130,140,No
+104,Central African Republic,2011,7,Yellow Fever,Absolute,All,All,YELFEVNRC105,0,130,140,No
+105,Central African Republic,2010,6,Yellow Fever,Absolute,All,All,YELFEVNRC106,0,130,140,No
+106,Central African Republic,2009,29,Yellow Fever,Absolute,All,All,YELFEVNRC107,0,130,140,No
+107,Chad,2012,48,Yellow Fever,Absolute,All,All,YELFEVNRC108,0,130,148,No
+108,Chad,2011,122,Yellow Fever,Absolute,All,All,YELFEVNRC109,0,130,148,No
+109,Chad,2010,79,Yellow Fever,Absolute,All,All,YELFEVNRC110,0,130,148,No
+110,Chad,2009,3,Yellow Fever,Absolute,All,All,YELFEVNRC111,0,130,148,No
+111,Chile,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC112,0,130,152,No
+112,Chile,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC113,0,130,152,No
+113,Chile,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC114,0,130,152,No
+114,Chile,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC115,0,130,152,No
+115,Colombia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC116,0,130,170,No
+116,Colombia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC117,0,130,170,No
+117,Colombia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC118,0,130,170,No
+118,Colombia,2009,5,Yellow Fever,Absolute,All,All,YELFEVNRC119,0,130,170,No
+119,Comoros,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC120,0,130,174,No
+120,Comoros,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC121,0,130,174,No
+121,Congo,2012,1,Yellow Fever,Absolute,All,All,YELFEVNRC122,0,130,178,No
+122,Congo,2011,188,Yellow Fever,Absolute,All,All,YELFEVNRC123,0,130,178,No
+123,Congo,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC124,0,130,178,No
+124,Congo,2009,1,Yellow Fever,Absolute,All,All,YELFEVNRC125,0,130,178,No
+125,Cook Islands,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC126,0,130,184,No
+126,Cook Islands,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC127,0,130,184,No
+127,Costa Rica,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC128,0,130,188,No
+128,Costa Rica,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC129,0,130,188,No
+129,Costa Rica,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC130,0,130,188,No
+130,Costa Rica,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC131,0,130,188,No
+131,Côte dIvoire,2012,4,Yellow Fever,Absolute,All,All,YELFEVNRC132,0,130,384,No
+132,Côte dIvoire,2011,10,Yellow Fever,Absolute,All,All,YELFEVNRC133,0,130,384,No
+133,Côte dIvoire,2010,49,Yellow Fever,Absolute,All,All,YELFEVNRC134,0,130,384,No
+134,Côte dIvoire,2009,22,Yellow Fever,Absolute,All,All,YELFEVNRC135,0,130,384,No
+135,Croatia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC136,0,130,191,No
+136,Croatia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC137,0,130,191,No
+137,Croatia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC138,0,130,191,No
+138,Croatia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC139,0,130,191,No
+139,Cuba,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC140,0,130,192,No
+140,Cuba,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC141,0,130,192,No
+141,Cuba,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC142,0,130,192,No
+142,Cuba,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC143,0,130,192,No
+143,Cyprus,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC144,0,130,196,No
+144,Cyprus,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC145,0,130,196,No
+145,Cyprus,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC146,0,130,196,No
+146,Cyprus,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC147,0,130,196,No
+147,Czech Republic,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC148,0,130,203,No
+148,Czech Republic,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC149,0,130,203,No
+149,Czech Republic,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC150,0,130,203,No
+150,Czech Republic,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC151,0,130,203,No
+151,Democratic Peoples Republic of Korea,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC152,0,130,408,No
+152,Democratic Peoples Republic of Korea,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC153,0,130,408,No
+153,Democratic Peoples Republic of Korea,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC154,0,130,408,No
+154,Democratic Republic of the Congo,2012,1,Yellow Fever,Absolute,All,All,YELFEVNRC155,0,130,180,No
+155,Democratic Republic of the Congo,2011,195,Yellow Fever,Absolute,All,All,YELFEVNRC156,0,130,180,No
+156,Democratic Republic of the Congo,2010,289,Yellow Fever,Absolute,All,All,YELFEVNRC157,0,130,180,No
+157,Democratic Republic of the Congo,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC158,0,130,180,No
+158,Djibouti,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC159,0,130,262,No
+159,Djibouti,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC160,0,130,262,No
+160,Dominica,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC161,0,130,212,No
+161,Dominica,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC162,0,130,212,No
+162,Dominica,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC163,0,130,212,No
+163,Dominica,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC164,0,130,212,No
+164,Dominican Republic,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC165,0,130,214,No
+165,Dominican Republic,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC166,0,130,214,No
+166,Dominican Republic,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC167,0,130,214,No
+167,Dominican Republic,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC168,0,130,214,No
+168,Ecuador,2012,1,Yellow Fever,Absolute,All,All,YELFEVNRC169,0,130,218,No
+169,Ecuador,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC170,0,130,218,No
+170,Ecuador,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC171,0,130,218,No
+171,Ecuador,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC172,0,130,218,No
+172,El Salvador,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC173,0,130,222,No
+173,El Salvador,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC174,0,130,222,No
+174,El Salvador,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC175,0,130,222,No
+175,El Salvador,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC176,0,130,222,No
+176,Equatorial Guinea,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC177,0,130,226,No
+177,Equatorial Guinea,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC178,0,130,226,No
+178,Equatorial Guinea,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC179,0,130,226,No
+179,Equatorial Guinea,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC180,0,130,226,No
+180,Eritrea,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC181,0,130,232,No
+181,Estonia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC182,0,130,233,No
+182,Estonia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC183,0,130,233,No
+183,Estonia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC184,0,130,233,No
+184,Estonia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC185,0,130,233,No
+185,Ethiopia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC186,0,130,231,No
+186,Ethiopia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC186,0,130,230,No
+187,Fiji,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC187,0,130,242,No
+188,Fiji,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC188,0,130,242,No
+189,Finland,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC189,0,130,246,No
+190,Finland,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC190,0,130,246,No
+191,Finland,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC191,0,130,246,No
+192,France,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC192,0,130,250,No
+193,France,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC193,0,130,250,No
+194,Gabon,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC194,0,130,266,No
+195,Gabon,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC195,0,130,266,No
+196,Gabon,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC196,0,130,266,No
+197,Gabon,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC197,0,130,266,No
+198,Gambia,2012,1,Yellow Fever,Absolute,All,All,YELFEVNRC198,0,130,270,No
+199,Gambia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC199,0,130,270,No
+200,Gambia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC200,0,130,270,No
+201,Gambia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC201,0,130,270,No
+202,Georgia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC202,0,130,268,No
+203,Georgia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC203,0,130,268,No
+204,Georgia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC204,0,130,268,No
+205,Georgia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC205,0,130,268,No
+206,Germany,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC206,0,130,276,No
+207,Germany,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC207,0,130,276,No
+208,Germany,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC208,0,130,276,No
+209,Ghana,2012,3,Yellow Fever,Absolute,All,All,YELFEVNRC209,0,130,288,No
+210,Ghana,2011,30,Yellow Fever,Absolute,All,All,YELFEVNRC210,0,130,288,No
+211,Ghana,2010,155,Yellow Fever,Absolute,All,All,YELFEVNRC211,0,130,288,No
+212,Ghana,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC212,0,130,288,No
+213,Greece,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC213,0,130,300,No
+214,Greece,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC214,0,130,300,No
+215,Greece,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC215,0,130,300,No
+216,Greece,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC216,0,130,300,No
+217,Grenada,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC217,0,130,308,No
+218,Grenada,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC218,0,130,308,No
+219,Grenada,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC219,0,130,308,No
+220,Grenada,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC220,0,130,308,No
+221,Guatemala,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC221,0,130,320,No
+222,Guatemala,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC222,0,130,320,No
+223,Guatemala,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC223,0,130,320,No
+224,Guatemala,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC224,0,130,320,No
+225,Guinea,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC225,0,130,324,No
+226,Guinea,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC226,0,130,324,No
+227,Guinea,2010,2,Yellow Fever,Absolute,All,All,YELFEVNRC227,0,130,324,No
+228,Guinea,2009,4,Yellow Fever,Absolute,All,All,YELFEVNRC228,0,130,324,No
+229,Guinea-Bissau,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC229,0,130,624,No
+230,Guinea-Bissau,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC230,0,130,624,No
+231,Guinea-Bissau,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC231,0,130,624,No
+232,Guinea-Bissau,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC232,0,130,624,No
+233,Guyana,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC233,0,130,328,No
+234,Guyana,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC234,0,130,328,No
+235,Guyana,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC235,0,130,328,No
+236,Guyana,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC236,0,130,328,No
+237,Haiti,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC237,0,130,332,No
+238,Haiti,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC238,0,130,332,No
+239,Haiti,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC239,0,130,332,No
+240,Honduras,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC240,0,130,340,No
+241,Honduras,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC241,0,130,340,No
+242,Honduras,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC242,0,130,340,No
+243,Honduras,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC243,0,130,340,No
+244,Hungary,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC244,0,130,348,No
+245,Hungary,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC245,0,130,348,No
+246,Hungary,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC246,0,130,348,No
+247,Hungary,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC247,0,130,348,No
+248,Iceland,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC248,0,130,352,No
+249,Iceland,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC249,0,130,352,No
+250,Iceland,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC250,0,130,352,No
+251,Iceland,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC251,0,130,352,No
+252,Indonesia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC252,0,130,360,No
+253,Indonesia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC253,0,130,360,No
+254,Iraq,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC254,0,130,368,No
+255,Ireland,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC255,0,130,372,No
+256,Ireland,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC256,0,130,372,No
+257,Ireland,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC257,0,130,372,No
+258,Ireland,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC258,0,130,372,No
+259,Israel,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC259,0,130,376,No
+260,Israel,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC260,0,130,376,No
+261,Israel,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC261,0,130,376,No
+262,Israel,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC262,0,130,376,No
+263,Italy,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC263,0,130,380,No
+264,Jamaica,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC264,0,130,388,No
+265,Jamaica,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC265,0,130,388,No
+266,Jamaica,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC266,0,130,388,No
+267,Jamaica,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC267,0,130,388,No
+268,Japan,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC268,0,130,392,No
+269,Japan,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC268,0,130,392,No
+270,Japan,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC269,0,130,392,No
+271,Japan,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC269,0,130,392,No
+272,Japan,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC270,0,130,392,No
+273,Japan,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC270,0,130,392,No
+274,Japan,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC271,0,130,392,No
+275,Japan,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC271,0,130,392,No
+276,Jordan,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC272,0,130,400,No
+277,Jordan,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC273,0,130,400,No
+278,Jordan,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC274,0,130,400,No
+279,Kazakhstan,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC275,0,130,398,No
+280,Kazakhstan,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC276,0,130,398,No
+281,Kazakhstan,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC277,0,130,398,No
+282,Kenya,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC278,0,130,404,No
+283,Kenya,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC279,0,130,404,No
+284,Kenya,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC280,0,130,404,No
+285,Kiribati,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC281,0,130,296,No
+286,Kiribati,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC282,0,130,296,No
+287,Kiribati,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC283,0,130,296,No
+288,Kuwait,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC284,0,130,414,No
+289,Kuwait,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC285,0,130,414,No
+290,Kuwait,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC286,0,130,414,No
+291,Lao Peoples Democratic Republic,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC287,0,130,418,No
+292,Latvia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC288,0,130,428,No
+293,Latvia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC289,0,130,428,No
+294,Latvia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC290,0,130,428,No
+295,Latvia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC291,0,130,428,No
+296,Lebanon,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC292,0,130,422,No
+297,Lebanon,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC293,0,130,422,No
+298,Lebanon,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC294,0,130,422,No
+299,Lebanon,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC295,0,130,422,No
+300,Lesotho,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC296,0,130,426,No
+301,Lesotho,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC297,0,130,426,No
+302,Lesotho,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC298,0,130,426,No
+303,Lesotho,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC299,0,130,426,No
+304,Liberia,2012,17,Yellow Fever,Absolute,All,All,YELFEVNRC300,0,130,430,No
+305,Liberia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC301,0,130,430,No
+306,Liberia,2010,1,Yellow Fever,Absolute,All,All,YELFEVNRC302,0,130,430,No
+307,Liberia,2009,1,Yellow Fever,Absolute,All,All,YELFEVNRC303,0,130,430,No
+308,Libya,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC304,0,130,434,No
+309,Libya,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC305,0,130,434,No
+310,Lithuania,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC306,0,130,440,No
+311,Lithuania,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC307,0,130,440,No
+312,Lithuania,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC308,0,130,440,No
+313,Luxembourg,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC309,0,130,442,No
+314,Luxembourg,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC310,0,130,442,No
+315,Luxembourg,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC311,0,130,442,No
+316,Luxembourg,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC312,0,130,442,No
+317,Madagascar,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC313,0,130,450,No
+318,Madagascar,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC314,0,130,450,No
+319,Madagascar,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC315,0,130,450,No
+320,Malaysia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC316,0,130,458,No
+321,Malaysia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC317,0,130,458,No
+322,Maldives,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC318,0,130,462,No
+323,Maldives,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC319,0,130,462,No
+324,Maldives,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC320,0,130,462,No
+325,Maldives,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC321,0,130,462,No
+326,Mali,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC322,0,130,466,No
+327,Mali,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC323,0,130,466,No
+328,Mali,2010,3,Yellow Fever,Absolute,All,All,YELFEVNRC324,0,130,466,No
+329,Mali,2009,4,Yellow Fever,Absolute,All,All,YELFEVNRC325,0,130,466,No
+330,Malta,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC326,0,130,470,No
+331,Malta,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC327,0,130,470,No
+332,Malta,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC328,0,130,470,No
+333,Marshall Islands,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC329,0,130,584,No
+334,Marshall Islands,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC330,0,130,584,No
+335,Marshall Islands,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC331,0,130,584,No
+336,Marshall Islands,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC332,0,130,584,No
+337,Mauritania,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC333,0,130,478,No
+338,Mauritius,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC334,0,130,480,No
+339,Mauritius,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC335,0,130,480,No
+340,Mauritius,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC336,0,130,480,No
+341,Mauritius,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC337,0,130,480,No
+342,Mexico,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC338,0,130,484,No
+343,Mexico,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC339,0,130,484,No
+344,Mexico,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC340,0,130,484,No
+345,Mexico,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC341,0,130,484,No
+346,Micronesia (Federated States of),2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC342,0,130,583,No
+347,Micronesia (Federated States of),2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC343,0,130,583,No
+348,Mongolia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC344,0,130,496,No
+349,Mongolia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC345,0,130,496,No
+350,Mongolia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC346,0,130,496,No
+351,Mongolia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC347,0,130,496,No
+352,Montenegro,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC348,0,130,499,No
+353,Montenegro,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC349,0,130,499,No
+354,Montenegro,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC350,0,130,499,No
+355,Morocco,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC351,0,130,504,No
+356,Namibia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC352,0,130,516,No
+357,Namibia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC353,0,130,516,No
+358,Namibia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC354,0,130,516,No
+359,Nauru,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC355,0,130,520,No
+360,Nauru,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC356,0,130,520,No
+361,Nauru,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC357,0,130,520,No
+362,Netherlands,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC358,0,130,528,No
+363,New Zealand,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC359,0,130,554,No
+364,New Zealand,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC359,0,130,554,No
+365,New Zealand,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC360,0,130,554,No
+366,New Zealand,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC360,0,130,554,No
+367,New Zealand,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC361,0,130,554,No
+368,New Zealand,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC361,0,130,554,No
+369,New Zealand,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC362,0,130,554,No
+370,New Zealand,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC362,0,130,554,No
+371,Nicaragua,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC363,0,130,558,No
+372,Nicaragua,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC364,0,130,558,No
+373,Nicaragua,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC365,0,130,558,No
+374,Nicaragua,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC366,0,130,558,No
+375,Niger,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC367,0,130,562,No
+376,Niger,2011,20,Yellow Fever,Absolute,All,All,YELFEVNRC368,0,130,562,No
+377,Niger,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC369,0,130,562,No
+378,Niger,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC370,0,130,562,No
+379,Nigeria,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC371,0,130,566,No
+380,Nigeria,2011,387,Yellow Fever,Absolute,All,All,YELFEVNRC372,0,130,566,No
+381,Nigeria,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC373,0,130,566,No
+382,Nigeria,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC374,0,130,566,No
+383,Niue,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC375,0,130,570,No
+384,Niue,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC376,0,130,570,No
+385,Niue,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC377,0,130,570,No
+386,Niue,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC378,0,130,570,No
+387,Norway,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC379,0,130,578,No
+388,Norway,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC380,0,130,578,No
+389,Norway,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC381,0,130,578,No
+390,Norway,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC382,0,130,578,No
+391,Oman,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC383,0,130,512,No
+392,Oman,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC384,0,130,512,No
+393,Oman,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC385,0,130,512,No
+394,Oman,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC386,0,130,512,No
+395,Palau,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC387,0,130,585,No
+396,Palau,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC388,0,130,585,No
+397,Palau,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC389,0,130,585,No
+398,Palau,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC390,0,130,585,No
+399,Panama,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC391,0,130,591,No
+400,Panama,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC391,0,130,590,No
+401,Panama,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC392,0,130,591,No
+402,Panama,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC392,0,130,590,No
+403,Panama,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC393,0,130,591,No
+404,Panama,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC393,0,130,590,No
+405,Panama,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC394,0,130,591,No
+406,Panama,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC394,0,130,590,No
+407,Paraguay,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC395,0,130,600,No
+408,Paraguay,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC396,0,130,600,No
+409,Paraguay,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC397,0,130,600,No
+410,Paraguay,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC398,0,130,600,No
+411,Peru,2012,9,Yellow Fever,Absolute,All,All,YELFEVNRC399,0,130,604,No
+412,Peru,2011,13,Yellow Fever,Absolute,All,All,YELFEVNRC400,0,130,604,No
+413,Peru,2010,18,Yellow Fever,Absolute,All,All,YELFEVNRC401,0,130,604,No
+414,Peru,2009,8,Yellow Fever,Absolute,All,All,YELFEVNRC402,0,130,604,No
+415,Philippines,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC403,0,130,608,No
+416,Poland,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC404,0,130,616,No
+417,Poland,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC405,0,130,616,No
+418,Poland,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC406,0,130,616,No
+419,Portugal,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC407,0,130,620,No
+420,Portugal,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC408,0,130,620,No
+421,Qatar,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC409,0,130,634,No
+422,Qatar,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC410,0,130,634,No
+423,Qatar,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC411,0,130,634,No
+424,Qatar,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC412,0,130,634,No
+425,Republic of Korea,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC413,0,130,410,No
+426,Republic of Korea,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC414,0,130,410,No
+427,Republic of Korea,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC415,0,130,410,No
+428,Republic of Korea,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC416,0,130,410,No
+429,Republic of Moldova,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC417,0,130,498,No
+430,Republic of Moldova,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC418,0,130,498,No
+431,Republic of Moldova,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC419,0,130,498,No
+432,Romania,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC420,0,130,642,No
+433,Romania,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC421,0,130,642,No
+434,Romania,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC422,0,130,642,No
+435,Romania,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC423,0,130,642,No
+436,Russian Federation,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC424,0,130,643,No
+437,Rwanda,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC425,0,130,646,No
+438,Rwanda,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC426,0,130,646,No
+439,Saint Kitts and Nevis,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC427,0,130,659,No
+440,Saint Kitts and Nevis,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC428,0,130,659,No
+441,Saint Kitts and Nevis,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC429,0,130,659,No
+442,Saint Kitts and Nevis,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC430,0,130,659,No
+443,Saint Lucia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC431,0,130,662,No
+444,Saint Lucia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC432,0,130,662,No
+445,Saint Lucia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC433,0,130,662,No
+446,Saint Lucia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC434,0,130,662,No
+447,Saint Vincent and the Grenadines,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC435,0,130,670,No
+448,Saint Vincent and the Grenadines,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC436,0,130,670,No
+449,Saint Vincent and the Grenadines,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC437,0,130,670,No
+450,Saint Vincent and the Grenadines,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC438,0,130,670,No
+451,Samoa,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC439,0,130,882,No
+452,Samoa,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC440,0,130,882,No
+453,Samoa,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC441,0,130,882,No
+454,Samoa,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC442,0,130,882,No
+455,San Marino,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC443,0,130,674,No
+456,San Marino,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC444,0,130,674,No
+457,San Marino,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC445,0,130,674,No
+458,San Marino,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC446,0,130,674,No
+459,Sao Tome and Principe,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC447,0,130,678,No
+460,Sao Tome and Principe,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC448,0,130,678,No
+461,Sao Tome and Principe,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC449,0,130,678,No
+462,Sao Tome and Principe,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC450,0,130,678,No
+463,Saudi Arabia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC451,0,130,682,No
+464,Saudi Arabia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC452,0,130,682,No
+465,Saudi Arabia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC453,0,130,682,No
+466,Senegal,2012,1,Yellow Fever,Absolute,All,All,YELFEVNRC454,0,130,686,No
+467,Senegal,2011,7,Yellow Fever,Absolute,All,All,YELFEVNRC455,0,130,686,No
+468,Senegal,2010,1,Yellow Fever,Absolute,All,All,YELFEVNRC456,0,130,686,No
+469,Senegal,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC457,0,130,686,No
+470,Seychelles,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC458,0,130,690,No
+471,Seychelles,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC459,0,130,690,No
+472,Seychelles,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC460,0,130,690,No
+473,Seychelles,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC461,0,130,690,No
+474,Sierra Leone,2012,94,Yellow Fever,Absolute,All,All,YELFEVNRC462,0,130,694,No
+475,Sierra Leone,2011,361,Yellow Fever,Absolute,All,All,YELFEVNRC463,0,130,694,No
+476,Sierra Leone,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC464,0,130,694,No
+477,Sierra Leone,2009,3,Yellow Fever,Absolute,All,All,YELFEVNRC465,0,130,694,No
+478,Singapore,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC466,0,130,702,No
+479,Singapore,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC467,0,130,702,No
+480,Singapore,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC468,0,130,702,No
+481,Singapore,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC469,0,130,702,No
+482,Slovakia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC470,0,130,703,No
+483,Slovakia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC471,0,130,703,No
+484,Slovakia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC472,0,130,703,No
+485,Slovakia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC473,0,130,703,No
+486,Slovenia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC474,0,130,705,No
+487,Slovenia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC475,0,130,705,No
+488,Slovenia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC476,0,130,705,No
+489,Slovenia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC477,0,130,705,No
+490,Solomon Islands,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC478,0,130,90,No
+491,Solomon Islands,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC479,0,130,90,No
+492,Solomon Islands,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC480,0,130,90,No
+493,Solomon Islands,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC481,0,130,90,No
+494,South Africa,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC482,0,130,710,No
+495,South Africa,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC483,0,130,710,No
+496,South Sudan,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC484,0,130,728,No
+497,South Sudan,2011,128,Yellow Fever,Absolute,All,All,YELFEVNRC485,0,130,728,No
+498,Spain,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC486,0,130,724,No
+499,Spain,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC487,0,130,724,No
+500,Spain,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC488,0,130,724,No
+501,Spain,2009,1,Yellow Fever,Absolute,All,All,YELFEVNRC489,0,130,724,No
+502,Sri Lanka,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC490,0,130,144,No
+503,Sri Lanka,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC491,0,130,144,No
+504,Sri Lanka,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC492,0,130,144,No
+505,Sri Lanka,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC493,0,130,144,No
+506,Suriname,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC494,0,130,740,No
+507,Suriname,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC495,0,130,740,No
+508,Suriname,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC496,0,130,740,No
+509,Suriname,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC497,0,130,740,No
+510,Swaziland,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC498,0,130,748,No
+511,Swaziland,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC499,0,130,748,No
+512,Swaziland,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC500,0,130,748,No
+513,Sweden,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC501,0,130,752,No
+514,Sweden,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC502,0,130,752,No
+515,Sweden,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC503,0,130,752,No
+516,Sweden,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC504,0,130,752,No
+517,Switzerland,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC505,0,130,756,No
+518,Switzerland,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC505,0,130,756,No
+519,Syrian Arab Republic,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC506,0,130,760,No
+520,Syrian Arab Republic,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC507,0,130,760,No
+521,Syrian Arab Republic,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC508,0,130,760,No
+522,Syrian Arab Republic,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC509,0,130,760,No
+523,Thailand,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC510,0,130,764,No
+524,Thailand,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC511,0,130,764,No
+525,Thailand,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC512,0,130,764,No
+526,Thailand,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC513,0,130,764,No
+527,The former Yugoslav Republic of Macedonia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC514,0,130,807,No
+528,The former Yugoslav Republic of Macedonia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC515,0,130,807,No
+529,The former Yugoslav Republic of Macedonia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC516,0,130,807,No
+530,The former Yugoslav Republic of Macedonia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC517,0,130,807,No
+531,Timor-Leste,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC518,0,130,626,No
+532,Timor-Leste,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC519,0,130,626,No
+533,Timor-Leste,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC520,0,130,626,No
+534,Togo,2012,12,Yellow Fever,Absolute,All,All,YELFEVNRC521,0,130,768,No
+535,Togo,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC522,0,130,768,No
+536,Togo,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC523,0,130,768,No
+537,Togo,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC524,0,130,768,No
+538,Tonga,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC525,0,130,776,No
+539,Tonga,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC526,0,130,776,No
+540,Tonga,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC527,0,130,776,No
+541,Tonga,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC528,0,130,776,No
+542,Trinidad and Tobago,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC529,0,130,780,No
+543,Trinidad and Tobago,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC530,0,130,780,No
+544,Trinidad and Tobago,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC531,0,130,780,No
+545,Trinidad and Tobago,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC532,0,130,780,No
+546,Tunisia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC533,0,130,788,No
+547,Turkey,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC534,0,130,792,No
+548,Turkey,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC535,0,130,792,No
+549,Turkey,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC536,0,130,792,No
+550,Uganda,2012,32,Yellow Fever,Absolute,All,All,YELFEVNRC537,0,130,800,No
+551,Uganda,2011,66,Yellow Fever,Absolute,All,All,YELFEVNRC538,0,130,800,No
+552,Uganda,2010,106,Yellow Fever,Absolute,All,All,YELFEVNRC539,0,130,800,No
+553,Uganda,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC540,0,130,800,No
+554,Ukraine,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC541,0,130,804,No
+555,United Arab Emirates,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC542,0,130,784,No
+556,United Kingdom,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC543,0,130,826,No
+557,United Kingdom,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC544,0,130,826,No
+558,United Kingdom,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC545,0,130,826,No
+559,United Kingdom,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC546,0,130,826,No
+560,United Republic of Tanzania,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC547,0,130,834,No
+561,United States of America,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC548,0,130,840,No
+562,United States of America,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC549,0,130,840,No
+563,United States of America,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC550,0,130,840,No
+564,Uruguay,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC551,0,130,858,No
+565,Uruguay,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC552,0,130,858,No
+566,Uruguay,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC553,0,130,858,No
+567,Uruguay,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC554,0,130,858,No
+568,Uzbekistan,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC555,0,130,860,No
+569,Uzbekistan,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC556,0,130,860,No
+570,Uzbekistan,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC557,0,130,860,No
+571,Venezuela (Bolivarian Republic of),2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC558,0,130,862,No
+572,Venezuela (Bolivarian Republic of),2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC559,0,130,862,No
+573,Venezuela (Bolivarian Republic of),2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC560,0,130,862,No
+574,Venezuela (Bolivarian Republic of),2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC561,0,130,862,No
+575,Yemen,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC562,0,130,887,No
+576,Yemen,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC562,0,130,886,No
+577,Yemen,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC563,0,130,887,No
+578,Yemen,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC563,0,130,886,No
+579,Yemen,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC564,0,130,887,No
+580,Yemen,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC564,0,130,886,No
+581,Yemen,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC565,0,130,887,No
+582,Yemen,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC565,0,130,886,No
+583,Zambia,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC566,0,130,894,No
+584,Zambia,2011,0,Yellow Fever,Absolute,All,All,YELFEVNRC567,0,130,894,No
+585,Zambia,2010,0,Yellow Fever,Absolute,All,All,YELFEVNRC568,0,130,894,No
+586,Zambia,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC569,0,130,894,No
+587,Zimbabwe,2012,0,Yellow Fever,Absolute,All,All,YELFEVNRC570,0,130,716,No
+588,Zimbabwe,2009,0,Yellow Fever,Absolute,All,All,YELFEVNRC571,0,130,716,No

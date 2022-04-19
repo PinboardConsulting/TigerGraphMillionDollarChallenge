@@ -1,0 +1,138 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Australia,2006,1012,Number of community health workers,Absolute,All,All,NOCHW1,0,130,36,No
+1,Australia,1996,708,Number of community health workers,Absolute,All,All,NOCHW2,0,130,36,No
+2,Bangladesh,2011,50221,Number of community health workers,Absolute,All,All,NOCHW3,0,130,50,No
+3,Bangladesh,2007,48692,Number of community health workers,Absolute,All,All,NOCHW4,0,130,50,No
+4,Bangladesh,2005,21000,Number of community health workers,Absolute,All,All,NOCHW5,0,130,50,No
+5,Bangladesh,2004,21202,Number of community health workers,Absolute,All,All,NOCHW6,0,130,50,No
+6,Belize,2009,158,Number of community health workers,Absolute,All,All,NOCHW7,0,130,84,No
+7,Bhutan,2012,578,Number of community health workers,Absolute,All,All,NOCHW8,0,130,64,No
+8,Bhutan,2007,195,Number of community health workers,Absolute,All,All,NOCHW9,0,130,64,No
+9,Bhutan,2004,405,Number of community health workers,Absolute,All,All,NOCHW10,0,130,64,No
+10,Botswana,2006,920,Number of community health workers,Absolute,All,All,NOCHW11,0,130,72,No
+11,Botswana,2005,920,Number of community health workers,Absolute,All,All,NOCHW12,0,130,72,No
+12,Botswana,2003,867,Number of community health workers,Absolute,All,All,NOCHW13,0,130,72,No
+13,Botswana,2002,862,Number of community health workers,Absolute,All,All,NOCHW14,0,130,72,No
+14,Botswana,2001,821,Number of community health workers,Absolute,All,All,NOCHW15,0,130,72,No
+15,Botswana,2000,1269,Number of community health workers,Absolute,All,All,NOCHW16,0,130,72,No
+16,Botswana,1999,775,Number of community health workers,Absolute,All,All,NOCHW17,0,130,72,No
+17,Botswana,1998,742,Number of community health workers,Absolute,All,All,NOCHW18,0,130,72,No
+18,Burkina Faso,2010,1976,Number of community health workers,Absolute,All,All,NOCHW19,0,130,854,No
+19,Burkina Faso,2006,1238,Number of community health workers,Absolute,All,All,NOCHW20,0,130,854,No
+20,Burkina Faso,2004,1201,Number of community health workers,Absolute,All,All,NOCHW21,0,130,854,No
+21,Burundi,2004,548,Number of community health workers,Absolute,All,All,NOCHW22,0,130,108,No
+22,Cabo Verde,2004,65,Number of community health workers,Absolute,All,All,NOCHW23,0,130,132,No
+23,Cambodia,2004,1638,Number of community health workers,Absolute,All,All,NOCHW24,0,130,116,No
+24,Central African Republic,2009,1713,Number of community health workers,Absolute,All,All,NOCHW25,0,130,140,No
+25,Central African Republic,2008,1746,Number of community health workers,Absolute,All,All,NOCHW26,0,130,140,No
+26,Central African Republic,2004,99,Number of community health workers,Absolute,All,All,NOCHW27,0,130,140,No
+27,Chad,2004,154,Number of community health workers,Absolute,All,All,NOCHW28,0,130,148,No
+28,China,2010,1091863,Number of community health workers,Absolute,All,All,NOCHW29,0,130,156,No
+29,China,2009,1113331,Number of community health workers,Absolute,All,All,NOCHW30,0,130,156,No
+30,Cook Islands,2009,9,Number of community health workers,Absolute,All,All,NOCHW31,0,130,184,No
+31,Equatorial Guinea,2004,308,Number of community health workers,Absolute,All,All,NOCHW32,0,130,226,No
+32,Ethiopia,2009,30950,Number of community health workers,Absolute,All,All,NOCHW33,0,130,231,No
+33,Ethiopia,2009,30950,Number of community health workers,Absolute,All,All,NOCHW33,0,130,230,No
+34,Ethiopia,2008,24571,Number of community health workers,Absolute,All,All,NOCHW34,0,130,231,No
+35,Ethiopia,2008,24571,Number of community health workers,Absolute,All,All,NOCHW34,0,130,230,No
+36,Ethiopia,2007,17653,Number of community health workers,Absolute,All,All,NOCHW35,0,130,231,No
+37,Ethiopia,2007,17653,Number of community health workers,Absolute,All,All,NOCHW35,0,130,230,No
+38,Ethiopia,2006,8901,Number of community health workers,Absolute,All,All,NOCHW36,0,130,231,No
+39,Ethiopia,2006,8901,Number of community health workers,Absolute,All,All,NOCHW36,0,130,230,No
+40,Ethiopia,2005,2737,Number of community health workers,Absolute,All,All,NOCHW37,0,130,231,No
+41,Ethiopia,2005,2737,Number of community health workers,Absolute,All,All,NOCHW37,0,130,230,No
+42,Ethiopia,2004,15752,Number of community health workers,Absolute,All,All,NOCHW38,0,130,231,No
+43,Ethiopia,2004,15752,Number of community health workers,Absolute,All,All,NOCHW38,0,130,230,No
+44,Ethiopia,2003,13433,Number of community health workers,Absolute,All,All,NOCHW39,0,130,231,No
+45,Ethiopia,2003,13433,Number of community health workers,Absolute,All,All,NOCHW39,0,130,230,No
+46,Gambia,2008,1150,Number of community health workers,Absolute,All,All,NOCHW40,0,130,270,No
+47,Gambia,2007,1156,Number of community health workers,Absolute,All,All,NOCHW41,0,130,270,No
+48,Gambia,2003,412,Number of community health workers,Absolute,All,All,NOCHW42,0,130,270,No
+49,Ghana,2008,4502,Number of community health workers,Absolute,All,All,NOCHW43,0,130,288,No
+50,Grenada,2003,45,Number of community health workers,Absolute,All,All,NOCHW44,0,130,308,No
+51,Grenada,2002,45,Number of community health workers,Absolute,All,All,NOCHW45,0,130,308,No
+52,Grenada,2001,45,Number of community health workers,Absolute,All,All,NOCHW46,0,130,308,No
+53,Grenada,2000,45,Number of community health workers,Absolute,All,All,NOCHW47,0,130,308,No
+54,Grenada,1999,45,Number of community health workers,Absolute,All,All,NOCHW48,0,130,308,No
+55,Grenada,1998,40,Number of community health workers,Absolute,All,All,NOCHW49,0,130,308,No
+56,Guinea-Bissau,2004,2355,Number of community health workers,Absolute,All,All,NOCHW50,0,130,624,No
+57,Guyana,2010,245,Number of community health workers,Absolute,All,All,NOCHW51,0,130,328,No
+58,Guyana,2009,245,Number of community health workers,Absolute,All,All,NOCHW52,0,130,328,No
+59,Indonesia,2003,0,Number of community health workers,Absolute,All,All,NOCHW53,0,130,360,No
+60,Iran (Islamic Republic of),2004,25242,Number of community health workers,Absolute,All,All,NOCHW54,0,130,364,No
+61,Jamaica,2008,727,Number of community health workers,Absolute,All,All,NOCHW55,0,130,388,No
+62,Madagascar,2004,385,Number of community health workers,Absolute,All,All,NOCHW56,0,130,450,No
+63,Malawi,2008,10055,Number of community health workers,Absolute,All,All,NOCHW57,0,130,454,No
+64,Maldives,2010,591,Number of community health workers,Absolute,All,All,NOCHW58,0,130,462,No
+65,Maldives,2009,513,Number of community health workers,Absolute,All,All,NOCHW59,0,130,462,No
+66,Maldives,2007,478,Number of community health workers,Absolute,All,All,NOCHW60,0,130,462,No
+67,Maldives,2004,515,Number of community health workers,Absolute,All,All,NOCHW61,0,130,462,No
+68,Maldives,1996,323,Number of community health workers,Absolute,All,All,NOCHW62,0,130,462,No
+69,Maldives,1993,286,Number of community health workers,Absolute,All,All,NOCHW63,0,130,462,No
+70,Maldives,1991,234,Number of community health workers,Absolute,All,All,NOCHW64,0,130,462,No
+71,Maldives,1989,224,Number of community health workers,Absolute,All,All,NOCHW65,0,130,462,No
+72,Mali,2010,110,Number of community health workers,Absolute,All,All,NOCHW66,0,130,466,No
+73,Mali,2009,114,Number of community health workers,Absolute,All,All,NOCHW67,0,130,466,No
+74,Mali,2004,68,Number of community health workers,Absolute,All,All,NOCHW68,0,130,466,No
+75,Mauritius,2004,236,Number of community health workers,Absolute,All,All,NOCHW69,0,130,480,No
+76,Micronesia (Federated States of),2008,31,Number of community health workers,Absolute,All,All,NOCHW70,0,130,583,No
+77,Mongolia,2008,61,Number of community health workers,Absolute,All,All,NOCHW71,0,130,496,No
+78,Myanmar,2012,3397,Number of community health workers,Absolute,All,All,NOCHW72,0,130,104,No
+79,Myanmar,2011,3371,Number of community health workers,Absolute,All,All,NOCHW73,0,130,104,No
+80,Myanmar,2010,3344,Number of community health workers,Absolute,All,All,NOCHW74,0,130,104,No
+81,Myanmar,2009,3278,Number of community health workers,Absolute,All,All,NOCHW75,0,130,104,No
+82,Myanmar,2008,3247,Number of community health workers,Absolute,All,All,NOCHW76,0,130,104,No
+83,Myanmar,2007,3197,Number of community health workers,Absolute,All,All,NOCHW77,0,130,104,No
+84,Myanmar,2006,3137,Number of community health workers,Absolute,All,All,NOCHW78,0,130,104,No
+85,Myanmar,2005,3025,Number of community health workers,Absolute,All,All,NOCHW79,0,130,104,No
+86,Myanmar,2004,44293,Number of community health workers,Absolute,All,All,NOCHW80,0,130,104,No
+87,Myanmar,1988,1557,Number of community health workers,Absolute,All,All,NOCHW81,0,130,104,No
+88,Nauru,2009,3,Number of community health workers,Absolute,All,All,NOCHW82,0,130,520,No
+89,Nauru,2008,14,Number of community health workers,Absolute,All,All,NOCHW83,0,130,520,No
+90,Nepal,2004,16206,Number of community health workers,Absolute,All,All,NOCHW84,0,130,524,No
+91,Nigeria,2008,19268,Number of community health workers,Absolute,All,All,NOCHW85,0,130,566,No
+92,Nigeria,2007,19268,Number of community health workers,Absolute,All,All,NOCHW86,0,130,566,No
+93,Nigeria,2004,115761,Number of community health workers,Absolute,All,All,NOCHW87,0,130,566,No
+94,Pakistan,2010,11510,Number of community health workers,Absolute,All,All,NOCHW88,0,130,586,No
+95,Pakistan,2009,10731,Number of community health workers,Absolute,All,All,NOCHW89,0,130,586,No
+96,Pakistan,2008,10002,Number of community health workers,Absolute,All,All,NOCHW90,0,130,586,No
+97,Pakistan,2001,5669,Number of community health workers,Absolute,All,All,NOCHW91,0,130,586,No
+98,Pakistan,2000,5443,Number of community health workers,Absolute,All,All,NOCHW92,0,130,586,No
+99,Pakistan,1999,5299,Number of community health workers,Absolute,All,All,NOCHW93,0,130,586,No
+100,Pakistan,1998,4959,Number of community health workers,Absolute,All,All,NOCHW94,0,130,586,No
+101,Pakistan,1997,4589,Number of community health workers,Absolute,All,All,NOCHW95,0,130,586,No
+102,Pakistan,1996,4407,Number of community health workers,Absolute,All,All,NOCHW96,0,130,586,No
+103,Pakistan,1995,4185,Number of community health workers,Absolute,All,All,NOCHW97,0,130,586,No
+104,Pakistan,1994,4107,Number of community health workers,Absolute,All,All,NOCHW98,0,130,586,No
+105,Pakistan,1993,3920,Number of community health workers,Absolute,All,All,NOCHW99,0,130,586,No
+106,Pakistan,1992,3796,Number of community health workers,Absolute,All,All,NOCHW100,0,130,586,No
+107,Papua New Guinea,2008,3883,Number of community health workers,Absolute,All,All,NOCHW101,0,130,598,No
+108,Rwanda,2004,12000,Number of community health workers,Absolute,All,All,NOCHW102,0,130,646,No
+109,Saint Kitts and Nevis,2001,48,Number of community health workers,Absolute,All,All,NOCHW103,0,130,659,No
+110,Saint Kitts and Nevis,1999,32,Number of community health workers,Absolute,All,All,NOCHW104,0,130,659,No
+111,Saint Kitts and Nevis,1998,32,Number of community health workers,Absolute,All,All,NOCHW105,0,130,659,No
+112,Saint Kitts and Nevis,1997,17,Number of community health workers,Absolute,All,All,NOCHW106,0,130,659,No
+113,Saint Kitts and Nevis,1996,17,Number of community health workers,Absolute,All,All,NOCHW107,0,130,659,No
+114,Saint Kitts and Nevis,1995,17,Number of community health workers,Absolute,All,All,NOCHW108,0,130,659,No
+115,Saint Kitts and Nevis,1994,17,Number of community health workers,Absolute,All,All,NOCHW109,0,130,659,No
+116,Saint Kitts and Nevis,1993,17,Number of community health workers,Absolute,All,All,NOCHW110,0,130,659,No
+117,Saint Kitts and Nevis,1992,17,Number of community health workers,Absolute,All,All,NOCHW111,0,130,659,No
+118,Saint Kitts and Nevis,1991,17,Number of community health workers,Absolute,All,All,NOCHW112,0,130,659,No
+119,Saint Kitts and Nevis,1990,17,Number of community health workers,Absolute,All,All,NOCHW113,0,130,659,No
+120,Saint Vincent and the Grenadines,2000,45,Number of community health workers,Absolute,All,All,NOCHW114,0,130,670,No
+121,Sao Tome and Principe,2004,150,Number of community health workers,Absolute,All,All,NOCHW115,0,130,678,No
+122,Sierra Leone,2010,132,Number of community health workers,Absolute,All,All,NOCHW116,0,130,694,No
+123,Sierra Leone,2008,132,Number of community health workers,Absolute,All,All,NOCHW117,0,130,694,No
+124,Sierra Leone,2004,558,Number of community health workers,Absolute,All,All,NOCHW118,0,130,694,No
+125,Sudan,2004,4716,Number of community health workers,Absolute,All,All,NOCHW119,0,130,729,No
+126,Sudan,2004,4716,Number of community health workers,Absolute,All,All,NOCHW119,0,130,736,No
+127,Swaziland,2004,4000,Number of community health workers,Absolute,All,All,NOCHW120,0,130,748,No
+128,Timor-Leste,2004,10,Number of community health workers,Absolute,All,All,NOCHW121,0,130,626,No
+129,Vanuatu,2008,212,Number of community health workers,Absolute,All,All,NOCHW122,0,130,548,No
+130,Vanuatu,2007,113,Number of community health workers,Absolute,All,All,NOCHW123,0,130,548,No
+131,Yemen,2010,19,Number of community health workers,Absolute,All,All,NOCHW124,0,130,887,No
+132,Yemen,2010,19,Number of community health workers,Absolute,All,All,NOCHW124,0,130,886,No
+133,Yemen,2004,2542,Number of community health workers,Absolute,All,All,NOCHW125,0,130,887,No
+134,Yemen,2004,2542,Number of community health workers,Absolute,All,All,NOCHW125,0,130,886,No
+135,Zambia,2008,3762,Number of community health workers,Absolute,All,All,NOCHW126,0,130,894,No
+136,Zambia,2005,4480,Number of community health workers,Absolute,All,All,NOCHW127,0,130,894,No

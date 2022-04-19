@@ -1,0 +1,679 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2011,0.061,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP1,0,130,4,No
+1,Afghanistan,2010,0.023,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP2,0,130,4,No
+2,Afghanistan,2009,0.025,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP3,0,130,4,No
+3,Afghanistan,2008,0.025,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP4,0,130,4,No
+4,Afghanistan,2007,0.026,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP5,0,130,4,No
+5,Afghanistan,2006,0.027,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP6,0,130,4,No
+6,Afghanistan,2005,0.03,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP7,0,130,4,No
+7,Afghanistan,2001,0.024,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP8,0,130,4,No
+8,Algeria,2007,0.243,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP9,0,130,12,No
+9,Algeria,2005,0.186,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP10,0,130,12,No
+10,Algeria,2002,0.203,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP11,0,130,12,No
+11,Andorra,2003,1.03,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP12,0,130,20,No
+12,Angola,2004,0.065,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP13,0,130,24,No
+13,Angola,1997,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP14,0,130,24,No
+14,Argentina,2004,0.502,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP15,0,130,32,No
+15,Argentina,1998,0.423,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP16,0,130,32,No
+16,Armenia,2012,0.04,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP17,0,130,51,No
+17,Australia,2012,1.016,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP18,0,130,36,No
+18,Australia,2011,1.09,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP19,0,130,36,No
+19,Australia,2010,0.907,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP20,0,130,36,No
+20,Australia,2009,1.038,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP21,0,130,36,No
+21,Australia,2006,0.753,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP22,0,130,36,No
+22,Australia,2001,0.721,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP23,0,130,36,No
+23,Australia,1996,0.673,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP24,0,130,36,No
+24,Austria,2012,0.691,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP25,0,130,40,No
+25,Austria,2003,0.6,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP26,0,130,40,No
+26,Azerbaijan,2012,0.177,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP27,0,130,31,No
+27,Bahamas,2008,0.476,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP28,0,130,44,No
+28,Bahrain,2011,0.146,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP29,0,130,48,No
+29,Bahrain,2010,0.248,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP30,0,130,48,No
+30,Bahrain,2009,0.239,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP31,0,130,48,No
+31,Bahrain,2008,0.243,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP32,0,130,48,No
+32,Bahrain,2007,0.24,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP33,0,130,48,No
+33,Bahrain,2004,0.622,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP34,0,130,48,No
+34,Bangladesh,2007,0.064,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP35,0,130,50,No
+35,Bangladesh,2004,0.063,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP36,0,130,50,No
+36,Bangladesh,2002,0.053,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP37,0,130,50,No
+37,Barbados,2005,0.93,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP38,0,130,52,No
+38,Barbados,2001,0.69,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP39,0,130,52,No
+39,Barbados,1995,0.643,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP40,0,130,52,No
+40,Belarus,2011,0.314,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP41,0,130,112,No
+41,Belgium,2011,1.194,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP42,0,130,56,No
+42,Belgium,2010,1.56,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP43,0,130,56,No
+43,Belgium,2002,1.144,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP44,0,130,56,No
+44,Belize,2009,0.385,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP45,0,130,84,No
+45,Benin,2008,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP46,0,130,204,No
+46,Benin,2004,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP47,0,130,204,No
+47,Bhutan,2012,0.015,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP48,0,130,64,No
+48,Bhutan,2008,0.039,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP49,0,130,64,No
+49,Bhutan,2007,0.038,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP50,0,130,64,No
+50,Bhutan,2004,0.034,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP51,0,130,64,No
+51,Bolivia (Plurinational State of),2011,0.065,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP52,0,130,68,No
+52,Bolivia (Plurinational State of),2010,0.057,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP53,0,130,68,No
+53,Bolivia (Plurinational State of),2007,0.035,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP54,0,130,68,No
+54,Bolivia (Plurinational State of),2001,0.551,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP55,0,130,68,No
+55,Botswana,2004,0.186,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP56,0,130,72,No
+56,Brazil,2008,0.537,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP57,0,130,76,No
+57,Brazil,2007,0.544,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP58,0,130,76,No
+58,Brazil,2006,0.551,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP59,0,130,76,No
+59,Brazil,2005,0.535,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP60,0,130,76,No
+60,Brazil,2000,0.299,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP61,0,130,76,No
+61,Brazil,1991,0.15,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP62,0,130,76,No
+62,Brunei Darussalam,2011,0.118,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP63,0,130,96,No
+63,Brunei Darussalam,2010,0.104,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP64,0,130,96,No
+64,Brunei Darussalam,2008,0.113,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP65,0,130,96,No
+65,Brunei Darussalam,2007,0.108,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP66,0,130,96,No
+66,Brunei Darussalam,2002,0.086,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP67,0,130,96,No
+67,Brunei Darussalam,2000,0.269,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP68,0,130,96,No
+68,Bulgaria,2001,0.127,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP69,0,130,100,No
+69,Burkina Faso,2010,0.022,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP70,0,130,854,No
+70,Burkina Faso,2008,0.024,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP71,0,130,854,No
+71,Burkina Faso,2006,0.009,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP72,0,130,854,No
+72,Burkina Faso,2004,0.026,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP73,0,130,854,No
+73,Burundi,2011,0.02,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP74,0,130,108,No
+74,Burundi,2004,0.011,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP75,0,130,108,No
+75,Cabo Verde,2010,0.007,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP76,0,130,132,No
+76,Cabo Verde,2009,0.007,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP77,0,130,132,No
+77,Cabo Verde,2007,0.006,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP78,0,130,132,No
+78,Cabo Verde,2006,0.008,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP79,0,130,132,No
+79,Cabo Verde,2004,0.091,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP80,0,130,132,No
+80,Cambodia,2011,0.103,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP81,0,130,116,No
+81,Cambodia,2008,0.038,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP82,0,130,116,No
+82,Cambodia,2000,0.043,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP83,0,130,116,No
+83,Cambodia,1998,0.049,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP84,0,130,116,No
+84,Cambodia,1996,0.042,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP85,0,130,116,No
+85,Cameroon,2009,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP86,0,130,120,No
+86,Cameroon,2007,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP87,0,130,120,No
+87,Cameroon,2005,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP88,0,130,120,No
+88,Cameroon,2004,0.043,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP89,0,130,120,No
+89,Canada,2012,1.025,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP90,0,130,124,No
+90,Canada,2010,0.76,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP91,0,130,124,No
+91,Canada,2009,0.915,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP92,0,130,124,No
+92,Canada,2008,0.876,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP93,0,130,124,No
+93,Canada,2007,0.867,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP94,0,130,124,No
+94,Canada,2006,0.831,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP95,0,130,124,No
+95,Canada,2004,0.857,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP96,0,130,124,No
+96,Canada,2003,0.667,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP97,0,130,124,No
+97,Canada,2002,0.85,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP98,0,130,124,No
+98,Canada,2001,0.832,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP99,0,130,124,No
+99,Canada,1998,0.766,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP100,0,130,124,No
+100,Central African Republic,2009,0.003,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP101,0,130,140,No
+101,Central African Republic,2008,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP102,0,130,140,No
+102,Central African Republic,2004,0.004,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP103,0,130,140,No
+103,Chad,2004,0.004,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP104,0,130,148,No
+104,Chile,2009,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP105,0,130,152,No
+105,Chile,2008,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP106,0,130,152,No
+106,Chile,2007,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP107,0,130,152,No
+107,Chile,2006,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP108,0,130,152,No
+108,Chile,2005,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP109,0,130,152,No
+109,Chile,2004,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP110,0,130,152,No
+110,Chile,2003,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP111,0,130,152,No
+111,Chile,2002,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP112,0,130,152,No
+112,Chile,1992,0.376,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP113,0,130,152,No
+113,China,2010,0.261,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP114,0,130,156,No
+114,China,2009,0.254,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP115,0,130,156,No
+115,China,2002,0.27,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP116,0,130,156,No
+116,China,2001,0.278,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP117,0,130,156,No
+117,Comoros,2004,0.052,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP118,0,130,174,No
+118,Congo,2007,0.015,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP119,0,130,178,No
+119,Congo,2006,0.027,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP120,0,130,178,No
+120,Congo,2004,0.026,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP121,0,130,178,No
+121,Congo,1998,0.078,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP122,0,130,178,No
+122,Cook Islands,2009,0.444,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP123,0,130,184,No
+123,Cook Islands,2004,0.118,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP124,0,130,184,No
+124,Cook Islands,2001,0.111,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP125,0,130,184,No
+125,Costa Rica,2013,0.183,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP126,0,130,188,No
+126,Costa Rica,2011,0.8,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP127,0,130,188,No
+127,Costa Rica,2000,0.535,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP128,0,130,188,No
+128,Côte dIvoire,2008,0.022,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP129,0,130,384,No
+129,Côte dIvoire,2005,0.007,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP130,0,130,384,No
+130,Côte dIvoire,2004,0.06,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP131,0,130,384,No
+131,Croatia,2012,0.7,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP132,0,130,191,No
+132,Croatia,2011,0.676,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP133,0,130,191,No
+133,Croatia,1999,0.338,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP134,0,130,191,No
+134,Croatia,1998,0.351,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP135,0,130,191,No
+135,Croatia,1997,0.365,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP136,0,130,191,No
+136,Croatia,1996,0.36,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP137,0,130,191,No
+137,Croatia,1995,0.347,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP138,0,130,191,No
+138,Croatia,1994,0.353,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP139,0,130,191,No
+139,Croatia,1993,0.368,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP140,0,130,191,No
+140,Croatia,1992,0.369,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP141,0,130,191,No
+141,Croatia,1991,0.359,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP142,0,130,191,No
+142,Croatia,1990,0.384,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP143,0,130,191,No
+143,Cyprus,2011,0.17,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP144,0,130,196,No
+144,Cyprus,2008,0.243,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP145,0,130,196,No
+145,Cyprus,2002,0.181,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP146,0,130,196,No
+146,Czech Republic,2012,0.761,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP147,0,130,203,No
+147,Czech Republic,2011,0.591,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP148,0,130,203,No
+148,Czech Republic,2003,0.548,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP149,0,130,203,No
+149,Democratic Peoples Republic of Korea,2003,0.596,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP150,0,130,408,No
+150,Democratic Republic of the Congo,2012,0.004,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP151,0,130,180,No
+151,Democratic Republic of the Congo,2004,0.022,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP152,0,130,180,No
+152,Djibouti,2008,0.319,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP153,0,130,262,No
+153,Djibouti,2006,0.02,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP154,0,130,262,No
+154,Djibouti,2005,0.052,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP155,0,130,262,No
+155,Djibouti,2004,0.025,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP156,0,130,262,No
+156,Djibouti,1999,0.012,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP157,0,130,262,No
+157,Dominica,2001,0.231,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP158,0,130,212,No
+158,Dominican Republic,2000,0.399,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP159,0,130,214,No
+159,Ecuador,2009,0.047,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP160,0,130,218,No
+160,Ecuador,2003,0.038,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP161,0,130,218,No
+161,Ecuador,2002,0.039,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP162,0,130,218,No
+162,Ecuador,2001,0.039,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP163,0,130,218,No
+163,Ecuador,2000,0.039,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP164,0,130,218,No
+164,Ecuador,1999,0.035,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP165,0,130,218,No
+165,Ecuador,1998,0.032,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP166,0,130,218,No
+166,Ecuador,1997,0.03,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP167,0,130,218,No
+167,Ecuador,1996,0.028,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP168,0,130,218,No
+168,Ecuador,1994,0.024,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP169,0,130,218,No
+169,Ecuador,1993,0.024,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP170,0,130,218,No
+170,Ecuador,1992,0.025,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP171,0,130,218,No
+171,Ecuador,1991,0.024,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP172,0,130,218,No
+172,Ecuador,1990,0.022,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP173,0,130,218,No
+173,Egypt,2009,1.67,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP174,0,130,818,No
+174,Egypt,2007,1.51,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP175,0,130,818,No
+175,Egypt,2005,1.25,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP176,0,130,818,No
+176,Egypt,2004,0.097,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP177,0,130,818,No
+177,El Salvador,2008,0.32,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP178,0,130,222,No
+178,El Salvador,2005,0.331,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP179,0,130,222,No
+179,El Salvador,1999,0.266,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP180,0,130,222,No
+180,Equatorial Guinea,2004,0.239,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP181,0,130,226,No
+181,Eritrea,2004,0.025,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP182,0,130,232,No
+182,Estonia,2011,0.621,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP183,0,130,233,No
+183,Estonia,2010,1.117,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP184,0,130,233,No
+184,Estonia,2000,0.424,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP185,0,130,233,No
+185,Ethiopia,2009,0.031,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP186,0,130,231,No
+186,Ethiopia,2009,0.031,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP186,0,130,230,No
+187,Ethiopia,2008,0.041,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP187,0,130,231,No
+188,Ethiopia,2008,0.041,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP187,0,130,230,No
+189,Ethiopia,2007,0.015,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP188,0,130,231,No
+190,Ethiopia,2007,0.015,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP188,0,130,230,No
+191,Ethiopia,2006,0.025,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP189,0,130,231,No
+192,Ethiopia,2006,0.025,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP189,0,130,230,No
+193,Ethiopia,2005,0.021,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP190,0,130,231,No
+194,Ethiopia,2005,0.021,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP190,0,130,230,No
+195,Ethiopia,2004,0.019,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP191,0,130,231,No
+196,Ethiopia,2004,0.019,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP191,0,130,230,No
+197,Ethiopia,2003,0.019,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP192,0,130,231,No
+198,Ethiopia,2003,0.019,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP192,0,130,230,No
+199,Fiji,2009,0.087,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP193,0,130,242,No
+200,Fiji,2003,0.107,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP194,0,130,242,No
+201,Fiji,1999,0.073,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP195,0,130,242,No
+202,Finland,2010,1.12,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP196,0,130,246,No
+203,Finland,2002,1.122,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP197,0,130,246,No
+204,France,2012,1.096,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP198,0,130,250,No
+205,France,2011,1.153,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP199,0,130,250,No
+206,France,2008,1.18,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP200,0,130,250,No
+207,France,2007,1.157,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP201,0,130,250,No
+208,France,2003,1.063,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP202,0,130,250,No
+209,France,2002,1.037,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP203,0,130,250,No
+210,France,2001,1.013,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP204,0,130,250,No
+211,France,2000,0.985,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP205,0,130,250,No
+212,France,1999,0.952,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP206,0,130,250,No
+213,France,1998,1.0,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP207,0,130,250,No
+214,France,1997,0.941,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP208,0,130,250,No
+215,France,1996,0.945,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP209,0,130,250,No
+216,France,1995,0.926,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP210,0,130,250,No
+217,France,1994,0.917,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP211,0,130,250,No
+218,France,1993,0.914,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP212,0,130,250,No
+219,France,1992,0.9,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP213,0,130,250,No
+220,France,1991,0.894,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP214,0,130,250,No
+221,Gabon,2004,0.047,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP215,0,130,266,No
+222,Gabon,1999,0.028,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP216,0,130,266,No
+223,Gabon,1998,0.028,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP217,0,130,266,No
+224,Gabon,1997,0.027,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP218,0,130,266,No
+225,Gabon,1996,0.024,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP219,0,130,266,No
+226,Gabon,1995,0.021,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP220,0,130,266,No
+227,Gabon,1994,0.023,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP221,0,130,266,No
+228,Gabon,1993,0.025,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP222,0,130,266,No
+229,Gambia,2008,0.046,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP223,0,130,270,No
+230,Gambia,2007,0.036,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP224,0,130,270,No
+231,Gambia,2006,0.007,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP225,0,130,270,No
+232,Gambia,2005,0.007,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP226,0,130,270,No
+233,Gambia,2004,0.01,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP227,0,130,270,No
+234,Gambia,2003,0.034,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP228,0,130,270,No
+235,Germany,2011,0.617,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP229,0,130,276,No
+236,Germany,2010,1.586,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP230,0,130,276,No
+237,Ghana,2008,0.071,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP231,0,130,288,No
+238,Ghana,2007,0.045,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP232,0,130,288,No
+239,Ghana,2004,0.065,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP233,0,130,288,No
+240,Greece,2000,0.823,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP234,0,130,300,No
+241,Grenada,2011,0.849,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP235,0,130,308,No
+242,Grenada,2006,0.202,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP236,0,130,308,No
+243,Grenada,2003,0.275,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP237,0,130,308,No
+244,Grenada,2002,0.272,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP238,0,130,308,No
+245,Grenada,2001,0.272,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP239,0,130,308,No
+246,Grenada,2000,0.272,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP240,0,130,308,No
+247,Grenada,1999,0.272,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP241,0,130,308,No
+248,Grenada,1998,0.841,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP242,0,130,308,No
+249,Guinea,2005,0.021,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP243,0,130,324,No
+250,Guinea,2004,0.061,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP244,0,130,324,No
+251,Guinea,2000,0.025,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP245,0,130,324,No
+252,Guinea-Bissau,2009,0.012,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP246,0,130,624,No
+253,Guinea-Bissau,2008,0.022,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP247,0,130,624,No
+254,Guinea-Bissau,2004,0.026,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP248,0,130,624,No
+255,Guyana,2009,0.116,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP249,0,130,328,No
+256,Honduras,2000,0.143,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP250,0,130,340,No
+257,Hungary,2012,0.571,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP251,0,130,348,No
+258,Hungary,2003,0.519,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP252,0,130,348,No
+259,Iceland,2012,1.09,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP253,0,130,352,No
+260,Iceland,2011,1.908,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP254,0,130,352,No
+261,Iceland,2010,1.938,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP255,0,130,352,No
+262,Iceland,2009,1.911,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP256,0,130,352,No
+263,Iceland,2008,1.924,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP257,0,130,352,No
+264,Iceland,2007,1.373,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP258,0,130,352,No
+265,Iceland,2006,1.333,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP259,0,130,352,No
+266,Iceland,2005,1.315,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP260,0,130,352,No
+267,Iceland,2004,1.305,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP261,0,130,352,No
+268,Iceland,2003,1.297,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP262,0,130,352,No
+269,Iceland,2002,1.303,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP263,0,130,352,No
+270,Iceland,2001,1.218,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP264,0,130,352,No
+271,Iceland,2000,1.184,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP265,0,130,352,No
+272,India,2012,0.501,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP266,0,130,356,No
+273,India,2011,0.529,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP267,0,130,356,No
+274,India,2010,0.554,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP268,0,130,356,No
+275,India,2009,0.562,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP269,0,130,356,No
+276,India,2006,0.516,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP270,0,130,356,No
+277,India,2003,0.525,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP271,0,130,356,No
+278,India,1991,0.244,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP272,0,130,356,No
+279,Indonesia,2012,0.104,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP273,0,130,360,No
+280,Indonesia,2010,0.076,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP274,0,130,360,No
+281,Indonesia,2009,0.046,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP275,0,130,360,No
+282,Indonesia,2003,0.034,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP276,0,130,360,No
+283,Indonesia,1992,0.024,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP277,0,130,360,No
+284,Iran (Islamic Republic of),2011,0.535,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP278,0,130,364,No
+285,Iran (Islamic Republic of),2005,0.2,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP279,0,130,364,No
+286,Iran (Islamic Republic of),2004,0.203,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP280,0,130,364,No
+287,Iraq,2010,0.174,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP281,0,130,368,No
+288,Ireland,2011,1.172,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP282,0,130,372,No
+289,Ireland,2004,0.975,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP283,0,130,372,No
+290,Israel,2011,0.767,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP284,0,130,376,No
+291,Israel,1995,0.816,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP285,0,130,376,No
+292,Italy,2003,1.151,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP286,0,130,380,No
+293,Jamaica,2008,0.064,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP287,0,130,388,No
+294,Japan,2010,2.153,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP288,0,130,392,No
+295,Japan,2010,2.153,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP288,0,130,392,No
+296,Japan,2008,2.085,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP289,0,130,392,No
+297,Japan,2008,2.085,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP289,0,130,392,No
+298,Japan,2006,1.97,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP290,0,130,392,No
+299,Japan,2006,1.97,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP290,0,130,392,No
+300,Japan,2004,1.889,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP291,0,130,392,No
+301,Japan,2004,1.889,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP291,0,130,392,No
+302,Japan,2002,1.802,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP292,0,130,392,No
+303,Japan,2002,1.802,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP292,0,130,392,No
+304,Japan,2000,1.712,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP293,0,130,392,No
+305,Japan,2000,1.712,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP293,0,130,392,No
+306,Japan,1998,1.628,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP294,0,130,392,No
+307,Japan,1998,1.628,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP294,0,130,392,No
+308,Japan,1996,1.544,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP295,0,130,392,No
+309,Japan,1996,1.544,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP295,0,130,392,No
+310,Japan,1994,1.414,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP296,0,130,392,No
+311,Japan,1994,1.414,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP296,0,130,392,No
+312,Japan,1992,1.303,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP297,0,130,392,No
+313,Japan,1992,1.303,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP297,0,130,392,No
+314,Japan,1990,1.219,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP298,0,130,392,No
+315,Japan,1990,1.219,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP298,0,130,392,No
+316,Jordan,2012,2.143,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP299,0,130,400,No
+317,Jordan,2010,1.444,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP300,0,130,400,No
+318,Jordan,2009,1.353,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP301,0,130,400,No
+319,Jordan,2008,1.267,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP302,0,130,400,No
+320,Jordan,2007,1.356,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP303,0,130,400,No
+321,Jordan,2006,1.152,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP304,0,130,400,No
+322,Jordan,2005,1.245,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP305,0,130,400,No
+323,Jordan,2004,3.145,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP306,0,130,400,No
+324,Jordan,2003,1.157,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP307,0,130,400,No
+325,Jordan,2002,1.119,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP308,0,130,400,No
+326,Jordan,2001,0.962,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP309,0,130,400,No
+327,Jordan,2000,0.86,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP310,0,130,400,No
+328,Jordan,1999,0.783,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP311,0,130,400,No
+329,Jordan,1998,0.759,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP312,0,130,400,No
+330,Kazakhstan,2012,0.827,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP313,0,130,398,No
+331,Kenya,2011,0.156,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP314,0,130,404,No
+332,Kenya,2010,0.079,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP315,0,130,404,No
+333,Kenya,2009,0.077,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP316,0,130,404,No
+334,Kenya,2008,0.077,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP317,0,130,404,No
+335,Kenya,2004,0.095,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP318,0,130,404,No
+336,Kiribati,2008,0.21,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP319,0,130,296,No
+337,Kiribati,2006,0.01,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP320,0,130,296,No
+338,Kiribati,2004,0.023,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP321,0,130,296,No
+339,Kiribati,1998,0.049,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP322,0,130,296,No
+340,Kuwait,2009,0.298,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP323,0,130,414,No
+341,Kuwait,2008,0.276,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP324,0,130,414,No
+342,Kuwait,2007,0.261,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP325,0,130,414,No
+343,Kuwait,2006,0.259,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP326,0,130,414,No
+344,Kuwait,2001,0.307,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP327,0,130,414,No
+345,Kyrgyzstan,2012,0.052,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP328,0,130,417,No
+346,Lao Peoples Democratic Republic,2012,0.115,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP329,0,130,418,No
+347,Latvia,2011,0.605,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP330,0,130,428,No
+348,Lebanon,2011,1.57,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP331,0,130,422,No
+349,Lebanon,2010,1.46,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP332,0,130,422,No
+350,Lebanon,2009,1.22,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP333,0,130,422,No
+351,Lebanon,2007,1.278,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP334,0,130,422,No
+352,Lebanon,2005,1.148,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP335,0,130,422,No
+353,Lebanon,2004,0.809,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP336,0,130,422,No
+354,Lebanon,2001,0.95,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP337,0,130,422,No
+355,Lesotho,2003,0.034,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP338,0,130,426,No
+356,Liberia,2008,0.075,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP339,0,130,430,No
+357,Liberia,2004,0.01,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP340,0,130,430,No
+358,Libya,2009,0.36,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP341,0,130,434,No
+359,Libya,2008,0.36,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP342,0,130,434,No
+360,Libya,2004,0.2,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP343,0,130,434,No
+361,Libya,1997,0.248,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP344,0,130,434,No
+362,Lithuania,2012,0.741,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP345,0,130,440,No
+363,Luxembourg,2011,0.725,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP346,0,130,442,No
+364,Madagascar,2004,0.01,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP347,0,130,450,No
+365,Malawi,2008,0.021,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP348,0,130,454,No
+366,Malaysia,2011,0.43,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP349,0,130,458,No
+367,Malaysia,2010,0.402,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP350,0,130,458,No
+368,Malaysia,2007,0.174,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP351,0,130,458,No
+369,Malaysia,2002,0.12,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP352,0,130,458,No
+370,Malaysia,2000,0.101,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP353,0,130,458,No
+371,Maldives,2010,0.666,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP354,0,130,462,No
+372,Maldives,2009,0.567,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP355,0,130,462,No
+373,Maldives,2007,0.824,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP356,0,130,462,No
+374,Maldives,2004,0.735,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP357,0,130,462,No
+375,Maldives,1996,0.787,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP358,0,130,462,No
+376,Maldives,1993,0.585,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP359,0,130,462,No
+377,Maldives,1991,0.486,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP360,0,130,462,No
+378,Mali,2010,0.009,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP361,0,130,466,No
+379,Mali,2009,0.008,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP362,0,130,466,No
+380,Mali,2008,0.008,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP363,0,130,466,No
+381,Mali,2007,0.015,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP364,0,130,466,No
+382,Mali,2004,0.026,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP365,0,130,466,No
+383,Malta,2012,1.164,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP366,0,130,470,No
+384,Marshall Islands,2008,0.147,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP367,0,130,584,No
+385,Marshall Islands,2000,0.039,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP368,0,130,584,No
+386,Mauritania,2009,0.036,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP369,0,130,478,No
+387,Mauritania,2004,0.027,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP370,0,130,478,No
+388,Mauritius,2004,1.158,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP371,0,130,480,No
+389,Mexico,2004,0.762,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP372,0,130,484,No
+390,Mexico,2000,0.032,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP373,0,130,484,No
+391,Micronesia (Federated States of),2005,0.145,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP374,0,130,583,No
+392,Micronesia (Federated States of),2003,0.183,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP375,0,130,583,No
+393,Monaco,2012,2.709,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP376,0,130,492,No
+394,Mongolia,2008,0.396,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP377,0,130,496,No
+395,Mongolia,2002,0.427,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP378,0,130,496,No
+396,Montenegro,2011,0.146,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP379,0,130,499,No
+397,Morocco,2009,0.27,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP380,0,130,504,No
+398,Morocco,2004,0.237,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP381,0,130,504,No
+399,Mozambique,2012,0.057,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP382,0,130,508,No
+400,Mozambique,2011,0.053,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP383,0,130,508,No
+401,Mozambique,2010,0.055,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP384,0,130,508,No
+402,Mozambique,2008,0.039,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP385,0,130,508,No
+403,Mozambique,2006,0.041,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP386,0,130,508,No
+404,Mozambique,2004,0.032,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP387,0,130,508,No
+405,Myanmar,2004,0.003,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP388,0,130,104,No
+406,Namibia,2007,0.181,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP389,0,130,516,No
+407,Namibia,2004,0.143,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP390,0,130,516,No
+408,Nauru,2008,0.071,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP391,0,130,520,No
+409,Nauru,2004,0.769,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP392,0,130,520,No
+410,Nepal,2012,0.135,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP393,0,130,524,No
+411,Nepal,2004,0.014,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP394,0,130,524,No
+412,Netherlands,2010,0.201,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP395,0,130,528,No
+413,Netherlands,2003,0.194,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP396,0,130,528,No
+414,New Zealand,2011,1.006,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP397,0,130,554,No
+415,New Zealand,2011,1.006,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP397,0,130,554,No
+416,New Zealand,2007,0.706,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP398,0,130,554,No
+417,New Zealand,2007,0.706,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP398,0,130,554,No
+418,New Zealand,2002,1.019,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP399,0,130,554,No
+419,New Zealand,2002,1.019,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP399,0,130,554,No
+420,New Zealand,2001,0.916,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP400,0,130,554,No
+421,New Zealand,2001,0.916,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP400,0,130,554,No
+422,Niger,2008,0.001,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP401,0,130,562,No
+423,Niger,2004,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP402,0,130,562,No
+424,Nigeria,2011,0.105,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP403,0,130,566,No
+425,Nigeria,2008,0.133,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP404,0,130,566,No
+426,Nigeria,2007,0.136,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP405,0,130,566,No
+427,Nigeria,2006,0.093,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP406,0,130,566,No
+428,Nigeria,2005,0.092,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP407,0,130,566,No
+429,Nigeria,2004,0.05,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP408,0,130,566,No
+430,Niue,2008,1.0,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP409,0,130,570,No
+431,Niue,2006,1.0,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP410,0,130,570,No
+432,Niue,2004,0.5,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP411,0,130,570,No
+433,Niue,1996,0.5,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP412,0,130,570,No
+434,Norway,2011,0.256,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP413,0,130,578,No
+435,Norway,2003,0.37,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP414,0,130,578,No
+436,Oman,2011,1.072,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP415,0,130,512,No
+437,Oman,2010,0.972,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP416,0,130,512,No
+438,Oman,2009,0.889,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP417,0,130,512,No
+439,Oman,2008,0.813,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP418,0,130,512,No
+440,Oman,2007,0.45,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP419,0,130,512,No
+441,Oman,2006,0.702,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP420,0,130,512,No
+442,Oman,2005,0.355,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP421,0,130,512,No
+443,Oman,2004,0.528,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP422,0,130,512,No
+444,Oman,2000,0.264,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP423,0,130,512,No
+445,Oman,1999,0.206,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP424,0,130,512,No
+446,Oman,1998,0.199,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP425,0,130,512,No
+447,Oman,1997,0.189,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP426,0,130,512,No
+448,Oman,1995,0.164,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP427,0,130,512,No
+449,Oman,1990,0.235,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP428,0,130,512,No
+450,Pakistan,2004,0.052,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP429,0,130,586,No
+451,Palau,2007,0.05,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP430,0,130,585,No
+452,Palau,1998,0.778,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP431,0,130,585,No
+453,Panama,2000,0.856,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP432,0,130,591,No
+454,Panama,2000,0.856,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP432,0,130,590,No
+455,Papua New Guinea,2012,0.049,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP433,0,130,598,No
+456,Paraguay,2002,0.325,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP434,0,130,600,No
+457,Peru,2012,0.051,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP435,0,130,604,No
+458,Peru,2009,0.061,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP436,0,130,604,No
+459,Philippines,2011,0.886,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP437,0,130,608,No
+460,Philippines,2004,0.61,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP438,0,130,608,No
+461,Philippines,2002,0.59,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP439,0,130,608,No
+462,Philippines,2000,0.033,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP440,0,130,608,No
+463,Poland,2011,0.686,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP441,0,130,616,No
+464,Poland,2010,0.655,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP442,0,130,616,No
+465,Poland,2003,0.658,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP443,0,130,616,No
+466,Portugal,2011,0.742,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP444,0,130,620,No
+467,Portugal,2003,0.949,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP445,0,130,620,No
+468,Qatar,2006,1.259,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP446,0,130,634,No
+469,Qatar,2005,1.353,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP447,0,130,634,No
+470,Qatar,2001,0.897,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP448,0,130,634,No
+471,Republic of Korea,2012,0.67,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP449,0,130,410,No
+472,Republic of Korea,2011,0.695,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP450,0,130,410,No
+473,Republic of Korea,2010,0.662,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP451,0,130,410,No
+474,Republic of Korea,2009,1.233,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP452,0,130,410,No
+475,Republic of Korea,2008,1.209,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP453,0,130,410,No
+476,Republic of Korea,2007,1.188,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP454,0,130,410,No
+477,Republic of Korea,2006,1.164,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP455,0,130,410,No
+478,Republic of Korea,2005,1.147,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP456,0,130,410,No
+479,Republic of Korea,2004,1.116,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP457,0,130,410,No
+480,Republic of Korea,2000,1.081,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP458,0,130,410,No
+481,Republic of Moldova,2011,0.529,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP459,0,130,498,No
+482,Romania,2011,0.676,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP460,0,130,642,No
+483,Romania,2002,0.675,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP461,0,130,642,No
+484,Russian Federation,2006,0.081,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP462,0,130,643,No
+485,Rwanda,2010,0.006,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP463,0,130,646,No
+486,Rwanda,2009,0.005,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP464,0,130,646,No
+487,Rwanda,2008,0.004,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP465,0,130,646,No
+488,Rwanda,2004,0.033,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP466,0,130,646,No
+489,Saint Lucia,2001,0.156,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP467,0,130,662,No
+490,Saint Vincent and the Grenadines,2001,0.195,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP468,0,130,670,No
+491,Samoa,2008,0.314,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP469,0,130,882,No
+492,Samoa,2005,0.016,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP470,0,130,882,No
+493,Samoa,2003,0.112,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP471,0,130,882,No
+494,Samoa,1999,0.029,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP472,0,130,882,No
+495,San Marino,2012,0.72,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP473,0,130,674,No
+496,Sao Tome and Principe,2004,0.145,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP474,0,130,678,No
+497,Saudi Arabia,2009,0.061,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP475,0,130,682,No
+498,Saudi Arabia,2008,0.058,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP476,0,130,682,No
+499,Saudi Arabia,2000,0.039,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP477,0,130,682,No
+500,Senegal,2008,0.01,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP478,0,130,686,No
+501,Senegal,2004,0.008,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP479,0,130,686,No
+502,Serbia,2009,0.206,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP480,0,130,688,No
+503,Seychelles,2004,0.763,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP481,0,130,690,No
+504,Sierra Leone,2010,0.019,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP482,0,130,694,No
+505,Sierra Leone,2008,0.032,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP483,0,130,694,No
+506,Sierra Leone,2004,0.066,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP484,0,130,694,No
+507,Singapore,2011,0.388,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP485,0,130,702,No
+508,Singapore,2010,0.395,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP486,0,130,702,No
+509,Singapore,2009,0.365,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP487,0,130,702,No
+510,Singapore,2008,0.344,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP488,0,130,702,No
+511,Singapore,2007,0.334,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP489,0,130,702,No
+512,Singapore,2006,0.324,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP490,0,130,702,No
+513,Singapore,2005,0.307,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP491,0,130,702,No
+514,Singapore,2004,0.298,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP492,0,130,702,No
+515,Singapore,2003,0.301,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP493,0,130,702,No
+516,Singapore,2001,0.278,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP494,0,130,702,No
+517,Singapore,1999,0.266,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP495,0,130,702,No
+518,Slovakia,2007,0.466,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP496,0,130,703,No
+519,Slovenia,2011,0.556,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP497,0,130,705,No
+520,Solomon Islands,2005,0.111,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP498,0,130,90,No
+521,Solomon Islands,1999,0.066,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP499,0,130,90,No
+522,Somalia,2006,0.006,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP500,0,130,706,No
+523,Somalia,1997,0.001,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP501,0,130,706,No
+524,South Africa,2012,0.413,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP502,0,130,710,No
+525,South Africa,2011,0.369,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP503,0,130,710,No
+526,South Africa,2004,0.277,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP504,0,130,710,No
+527,Spain,2012,1.028,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP505,0,130,724,No
+528,Spain,2003,0.872,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP506,0,130,724,No
+529,Sri Lanka,2007,0.042,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP507,0,130,144,No
+530,Sri Lanka,2004,0.052,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP508,0,130,144,No
+531,Sri Lanka,1993,0.033,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP509,0,130,144,No
+532,Sudan,2008,0.01,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP510,0,130,729,No
+533,Sudan,2008,0.01,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP510,0,130,736,No
+534,Sudan,2007,0.01,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP511,0,130,729,No
+535,Sudan,2007,0.01,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP511,0,130,736,No
+536,Sudan,2006,0.041,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP512,0,130,729,No
+537,Sudan,2006,0.041,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP512,0,130,736,No
+538,Sudan,2004,0.104,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP513,0,130,729,No
+539,Sudan,2004,0.104,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP513,0,130,736,No
+540,Swaziland,2009,0.05,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP514,0,130,748,No
+541,Swaziland,2004,0.065,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP515,0,130,748,No
+542,Swaziland,2000,0.044,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP516,0,130,748,No
+543,Sweden,2002,0.664,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP517,0,130,752,No
+544,Sweden,1998,0.674,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP518,0,130,752,No
+545,Switzerland,2011,0.547,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP519,0,130,756,No
+546,Switzerland,2011,0.547,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP519,0,130,756,No
+547,Syrian Arab Republic,2008,0.81,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP520,0,130,760,No
+548,Syrian Arab Republic,2007,0.65,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP521,0,130,760,No
+549,Syrian Arab Republic,2004,0.698,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP522,0,130,760,No
+550,Syrian Arab Republic,2003,0.607,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP523,0,130,760,No
+551,Syrian Arab Republic,2002,0.579,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP524,0,130,760,No
+552,Syrian Arab Republic,2001,0.522,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP525,0,130,760,No
+553,Syrian Arab Republic,2000,0.536,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP526,0,130,760,No
+554,Syrian Arab Republic,1999,0.507,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP527,0,130,760,No
+555,Tajikistan,2003,0.109,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP528,0,130,762,No
+556,Thailand,2010,0.13,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP529,0,130,764,No
+557,Thailand,2009,0.127,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP530,0,130,764,No
+558,Thailand,2008,0.13,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP531,0,130,764,No
+559,Thailand,2007,0.122,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP532,0,130,764,No
+560,Thailand,2006,0.123,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP533,0,130,764,No
+561,Thailand,2004,0.117,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP534,0,130,764,No
+562,Thailand,2002,0.118,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP535,0,130,764,No
+563,Thailand,2001,0.111,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP536,0,130,764,No
+564,Thailand,2000,0.254,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP537,0,130,764,No
+565,Thailand,1999,0.101,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP538,0,130,764,No
+566,Thailand,1998,0.099,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP539,0,130,764,No
+567,Thailand,1997,0.101,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP540,0,130,764,No
+568,Thailand,1995,0.101,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP541,0,130,764,No
+569,Thailand,1993,0.084,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP542,0,130,764,No
+570,Thailand,1991,0.079,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP543,0,130,764,No
+571,The former Yugoslav Republic of Macedonia,2011,1.585,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP544,0,130,807,No
+572,Timor-Leste,2011,0.114,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP545,0,130,626,No
+573,Timor-Leste,2010,0.105,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP546,0,130,626,No
+574,Timor-Leste,2009,0.051,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP547,0,130,626,No
+575,Timor-Leste,2008,0.044,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP548,0,130,626,No
+576,Timor-Leste,2007,0.022,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP549,0,130,626,No
+577,Timor-Leste,2004,0.017,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP550,0,130,626,No
+578,Timor-Leste,2001,0.004,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP551,0,130,626,No
+579,Togo,2008,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP552,0,130,768,No
+580,Togo,2007,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP553,0,130,768,No
+581,Togo,2004,0.027,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP554,0,130,768,No
+582,Tonga,2012,0.086,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP555,0,130,776,No
+583,Tonga,2009,0.146,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP556,0,130,776,No
+584,Tonga,2002,0.039,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP557,0,130,776,No
+585,Tonga,2001,0.167,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP558,0,130,776,No
+586,Trinidad and Tobago,2007,0.488,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP559,0,130,780,No
+587,Trinidad and Tobago,2006,0.432,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP560,0,130,780,No
+588,Tunisia,2010,0.304,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP561,0,130,788,No
+589,Tunisia,2009,0.2,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP562,0,130,788,No
+590,Tunisia,2008,0.2,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP563,0,130,788,No
+591,Tunisia,2006,0.221,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP564,0,130,788,No
+592,Tunisia,2005,0.209,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP565,0,130,788,No
+593,Tunisia,2004,0.293,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP566,0,130,788,No
+594,Tunisia,2002,0.211,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP567,0,130,788,No
+595,Tunisia,2001,0.208,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP568,0,130,788,No
+596,Tunisia,2000,0.205,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP569,0,130,788,No
+597,Tunisia,1999,0.18,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP570,0,130,788,No
+598,Tunisia,1998,0.174,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP571,0,130,788,No
+599,Tunisia,1997,0.17,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP572,0,130,788,No
+600,Tunisia,1996,0.169,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP573,0,130,788,No
+601,Tunisia,1995,0.167,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP574,0,130,788,No
+602,Tunisia,1994,0.161,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP575,0,130,788,No
+603,Tunisia,1993,0.153,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP576,0,130,788,No
+604,Tunisia,1992,0.156,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP577,0,130,788,No
+605,Tunisia,1991,0.156,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP578,0,130,788,No
+606,Tunisia,1990,0.151,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP579,0,130,788,No
+607,Turkey,2011,0.354,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP580,0,130,792,No
+608,Turkey,2010,0.339,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP581,0,130,792,No
+609,Turkey,2009,0.327,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP582,0,130,792,No
+610,Turkey,2008,0.325,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP583,0,130,792,No
+611,Turkey,2007,0.319,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP584,0,130,792,No
+612,Turkey,2006,0.312,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP585,0,130,792,No
+613,Turkey,2005,0.311,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP586,0,130,792,No
+614,Turkey,2004,0.313,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP587,0,130,792,No
+615,Turkey,2003,0.314,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP588,0,130,792,No
+616,Turkey,2002,0.317,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP589,0,130,792,No
+617,Turkey,2001,0.319,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP590,0,130,792,No
+618,Turkey,2000,0.321,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP591,0,130,792,No
+619,Turkey,1999,0.328,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP592,0,130,792,No
+620,Turkey,1998,0.324,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP593,0,130,792,No
+621,Turkey,1997,0.315,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP594,0,130,792,No
+622,Turkey,1996,0.307,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP595,0,130,792,No
+623,Turkey,1995,0.303,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP596,0,130,792,No
+624,Turkey,1994,0.296,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP597,0,130,792,No
+625,Turkey,1993,0.291,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP598,0,130,792,No
+626,Turkey,1992,0.277,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP599,0,130,792,No
+627,Turkey,1991,0.273,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP600,0,130,792,No
+628,Turkey,1990,0.274,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP601,0,130,792,No
+629,Turkmenistan,2012,0.172,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP602,0,130,795,No
+630,Turkmenistan,2002,0.339,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP603,0,130,795,No
+631,Tuvalu,2008,0.182,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP604,0,130,798,No
+632,Tuvalu,2003,0.182,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP605,0,130,798,No
+633,Tuvalu,2002,0.091,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP606,0,130,798,No
+634,Uganda,2012,0.034,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP607,0,130,800,No
+635,Uganda,2005,0.026,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP608,0,130,800,No
+636,Uganda,2004,0.026,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP609,0,130,800,No
+637,Ukraine,2012,0.04,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP610,0,130,804,No
+638,Ukraine,2001,0.478,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP611,0,130,804,No
+639,United Arab Emirates,2007,0.59,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP612,0,130,784,No
+640,United Arab Emirates,2004,0.657,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP613,0,130,784,No
+641,United Arab Emirates,2002,0.409,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP614,0,130,784,No
+642,United Arab Emirates,2001,0.377,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP615,0,130,784,No
+643,United Kingdom,2012,0.67,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP616,0,130,826,No
+644,United Kingdom,1997,0.512,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP617,0,130,826,No
+645,United Republic of Tanzania,2006,0.002,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP618,0,130,834,No
+646,United Republic of Tanzania,2002,0.01,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP619,0,130,834,No
+647,United States of America,2010,0.881,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP620,0,130,840,No
+648,United States of America,2000,0.876,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP621,0,130,840,No
+649,Uruguay,2008,0.531,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP622,0,130,858,No
+650,Uzbekistan,2012,0.04,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP623,0,130,860,No
+651,Vanuatu,2008,0.009,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP624,0,130,548,No
+652,Viet Nam,2011,0.312,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP625,0,130,704,No
+653,Viet Nam,2008,0.324,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP626,0,130,704,No
+654,Viet Nam,2007,0.308,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP627,0,130,704,No
+655,Viet Nam,2006,0.283,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP628,0,130,704,No
+656,Viet Nam,2005,0.276,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP629,0,130,704,No
+657,Viet Nam,2002,0.3,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP630,0,130,704,No
+658,Viet Nam,2001,0.075,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP631,0,130,704,No
+659,Yemen,2010,0.094,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP632,0,130,887,No
+660,Yemen,2010,0.094,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP632,0,130,886,No
+661,Yemen,2004,0.127,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP633,0,130,887,No
+662,Yemen,2004,0.127,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP633,0,130,886,No
+663,Yemen,1997,0.074,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP634,0,130,887,No
+664,Yemen,1997,0.074,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP634,0,130,886,No
+665,Zambia,2011,0.13,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP635,0,130,894,No
+666,Zambia,2010,0.025,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP636,0,130,894,No
+667,Zambia,2009,0.025,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP637,0,130,894,No
+668,Zambia,2008,0.007,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP638,0,130,894,No
+669,Zambia,2006,0.009,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP639,0,130,894,No
+670,Zambia,2005,0.009,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP640,0,130,894,No
+671,Zambia,2004,0.073,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP641,0,130,894,No
+672,Zimbabwe,2009,0.19,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP642,0,130,716,No
+673,Zimbabwe,2008,0.025,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP643,0,130,716,No
+674,Zimbabwe,2007,0.024,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP644,0,130,716,No
+675,Zimbabwe,2004,0.068,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP645,0,130,716,No
+676,Zimbabwe,1995,0.06,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP646,0,130,716,No
+677,Zimbabwe,1990,0.048,Pharmaceutical personnel density,per 1k pop,All,All,PHPEDEP647,0,130,716,No

@@ -1,0 +1,230 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Algeria,2007,4922,Number of laboratory technician assistants,Absolute,All,All,NOLTAS1,0,130,12,No
+1,Algeria,2002,898,Number of laboratory technician assistants,Absolute,All,All,NOLTAS2,0,130,12,No
+2,Angola,2004,1376,Number of laboratory technician assistants,Absolute,All,All,NOLTAS3,0,130,24,No
+3,Bahamas,2008,114,Number of laboratory technician assistants,Absolute,All,All,NOLTAS4,0,130,44,No
+4,Bahrain,2011,302,Number of laboratory technician assistants,Absolute,All,All,NOLTAS5,0,130,48,No
+5,Bahrain,2010,307,Number of laboratory technician assistants,Absolute,All,All,NOLTAS6,0,130,48,No
+6,Bahrain,2009,271,Number of laboratory technician assistants,Absolute,All,All,NOLTAS7,0,130,48,No
+7,Bahrain,2008,269,Number of laboratory technician assistants,Absolute,All,All,NOLTAS8,0,130,48,No
+8,Bahrain,2004,219,Number of laboratory technician assistants,Absolute,All,All,NOLTAS9,0,130,48,No
+9,Bangladesh,2005,1311,Number of laboratory technician assistants,Absolute,All,All,NOLTAS10,0,130,50,No
+10,Bangladesh,2004,2581,Number of laboratory technician assistants,Absolute,All,All,NOLTAS11,0,130,50,No
+11,Bangladesh,2002,2220,Number of laboratory technician assistants,Absolute,All,All,NOLTAS12,0,130,50,No
+12,Barbados,2005,2,Number of laboratory technician assistants,Absolute,All,All,NOLTAS13,0,130,52,No
+13,Barbados,2001,51,Number of laboratory technician assistants,Absolute,All,All,NOLTAS14,0,130,52,No
+14,Barbados,1995,49,Number of laboratory technician assistants,Absolute,All,All,NOLTAS15,0,130,52,No
+15,Benin,2008,245,Number of laboratory technician assistants,Absolute,All,All,NOLTAS16,0,130,204,No
+16,Benin,2004,399,Number of laboratory technician assistants,Absolute,All,All,NOLTAS17,0,130,204,No
+17,Bhutan,2012,27,Number of laboratory technician assistants,Absolute,All,All,NOLTAS18,0,130,64,No
+18,Bhutan,2008,10,Number of laboratory technician assistants,Absolute,All,All,NOLTAS19,0,130,64,No
+19,Bhutan,2007,123,Number of laboratory technician assistants,Absolute,All,All,NOLTAS20,0,130,64,No
+20,Bhutan,2004,102,Number of laboratory technician assistants,Absolute,All,All,NOLTAS21,0,130,64,No
+21,Bolivia (Plurinational State of),2011,562,Number of laboratory technician assistants,Absolute,All,All,NOLTAS22,0,130,68,No
+22,Bolivia (Plurinational State of),2010,489,Number of laboratory technician assistants,Absolute,All,All,NOLTAS23,0,130,68,No
+23,Bolivia (Plurinational State of),2007,327,Number of laboratory technician assistants,Absolute,All,All,NOLTAS24,0,130,68,No
+24,Botswana,2004,181,Number of laboratory technician assistants,Absolute,All,All,NOLTAS25,0,130,72,No
+25,Brazil,2000,75753,Number of laboratory technician assistants,Absolute,All,All,NOLTAS26,0,130,76,No
+26,Brazil,1991,20815,Number of laboratory technician assistants,Absolute,All,All,NOLTAS27,0,130,76,No
+27,Brunei Darussalam,2011,252,Number of laboratory technician assistants,Absolute,All,All,NOLTAS28,0,130,96,No
+28,Burkina Faso,2010,478,Number of laboratory technician assistants,Absolute,All,All,NOLTAS29,0,130,854,No
+29,Burkina Faso,2006,260,Number of laboratory technician assistants,Absolute,All,All,NOLTAS30,0,130,854,No
+30,Burkina Faso,2004,315,Number of laboratory technician assistants,Absolute,All,All,NOLTAS31,0,130,854,No
+31,Cabo Verde,2010,32,Number of laboratory technician assistants,Absolute,All,All,NOLTAS32,0,130,132,No
+32,Cabo Verde,2009,18,Number of laboratory technician assistants,Absolute,All,All,NOLTAS33,0,130,132,No
+33,Cabo Verde,2007,16,Number of laboratory technician assistants,Absolute,All,All,NOLTAS34,0,130,132,No
+34,Cabo Verde,2006,17,Number of laboratory technician assistants,Absolute,All,All,NOLTAS35,0,130,132,No
+35,Cabo Verde,2004,53,Number of laboratory technician assistants,Absolute,All,All,NOLTAS36,0,130,132,No
+36,Cambodia,1998,204,Number of laboratory technician assistants,Absolute,All,All,NOLTAS37,0,130,116,No
+37,Cambodia,1996,167,Number of laboratory technician assistants,Absolute,All,All,NOLTAS38,0,130,116,No
+38,Cameroon,2004,1793,Number of laboratory technician assistants,Absolute,All,All,NOLTAS39,0,130,120,No
+39,Canada,2009,19885,Number of laboratory technician assistants,Absolute,All,All,NOLTAS40,0,130,124,No
+40,Canada,2008,19859,Number of laboratory technician assistants,Absolute,All,All,NOLTAS41,0,130,124,No
+41,Canada,2007,19813,Number of laboratory technician assistants,Absolute,All,All,NOLTAS42,0,130,124,No
+42,Canada,2006,19841,Number of laboratory technician assistants,Absolute,All,All,NOLTAS43,0,130,124,No
+43,Canada,2005,20103,Number of laboratory technician assistants,Absolute,All,All,NOLTAS44,0,130,124,No
+44,Canada,2004,19389,Number of laboratory technician assistants,Absolute,All,All,NOLTAS45,0,130,124,No
+45,Canada,2003,19092,Number of laboratory technician assistants,Absolute,All,All,NOLTAS46,0,130,124,No
+46,Canada,2002,18259,Number of laboratory technician assistants,Absolute,All,All,NOLTAS47,0,130,124,No
+47,Canada,2001,17935,Number of laboratory technician assistants,Absolute,All,All,NOLTAS48,0,130,124,No
+48,Canada,2000,17789,Number of laboratory technician assistants,Absolute,All,All,NOLTAS49,0,130,124,No
+49,Canada,1998,17534,Number of laboratory technician assistants,Absolute,All,All,NOLTAS50,0,130,124,No
+50,Central African Republic,2009,40,Number of laboratory technician assistants,Absolute,All,All,NOLTAS51,0,130,140,No
+51,Central African Republic,2008,32,Number of laboratory technician assistants,Absolute,All,All,NOLTAS52,0,130,140,No
+52,Central African Republic,2004,36,Number of laboratory technician assistants,Absolute,All,All,NOLTAS53,0,130,140,No
+53,Chad,2004,195,Number of laboratory technician assistants,Absolute,All,All,NOLTAS54,0,130,148,No
+54,China,2010,230572,Number of laboratory technician assistants,Absolute,All,All,NOLTAS55,0,130,156,No
+55,China,2009,220695,Number of laboratory technician assistants,Absolute,All,All,NOLTAS56,0,130,156,No
+56,China,2001,203000,Number of laboratory technician assistants,Absolute,All,All,NOLTAS57,0,130,156,No
+57,Comoros,2004,52,Number of laboratory technician assistants,Absolute,All,All,NOLTAS58,0,130,174,No
+58,Congo,2007,54,Number of laboratory technician assistants,Absolute,All,All,NOLTAS59,0,130,178,No
+59,Congo,2004,536,Number of laboratory technician assistants,Absolute,All,All,NOLTAS60,0,130,178,No
+60,Congo,1998,250,Number of laboratory technician assistants,Absolute,All,All,NOLTAS61,0,130,178,No
+61,Cook Islands,2009,1,Number of laboratory technician assistants,Absolute,All,All,NOLTAS62,0,130,184,No
+62,Côte dIvoire,2004,460,Number of laboratory technician assistants,Absolute,All,All,NOLTAS63,0,130,384,No
+63,Cuba,2010,6742,Number of laboratory technician assistants,Absolute,All,All,NOLTAS64,0,130,192,No
+64,Cuba,2007,7728,Number of laboratory technician assistants,Absolute,All,All,NOLTAS65,0,130,192,No
+65,Cyprus,2008,312,Number of laboratory technician assistants,Absolute,All,All,NOLTAS66,0,130,196,No
+66,Cyprus,2006,240,Number of laboratory technician assistants,Absolute,All,All,NOLTAS67,0,130,196,No
+67,Democratic Republic of the Congo,2004,322,Number of laboratory technician assistants,Absolute,All,All,NOLTAS68,0,130,180,No
+68,Djibouti,2005,56,Number of laboratory technician assistants,Absolute,All,All,NOLTAS69,0,130,262,No
+69,Djibouti,2004,56,Number of laboratory technician assistants,Absolute,All,All,NOLTAS70,0,130,262,No
+70,Egypt,2004,9043,Number of laboratory technician assistants,Absolute,All,All,NOLTAS71,0,130,818,No
+71,Equatorial Guinea,2004,80,Number of laboratory technician assistants,Absolute,All,All,NOLTAS72,0,130,226,No
+72,Eritrea,2004,183,Number of laboratory technician assistants,Absolute,All,All,NOLTAS73,0,130,232,No
+73,Ethiopia,2009,2823,Number of laboratory technician assistants,Absolute,All,All,NOLTAS74,0,130,231,No
+74,Ethiopia,2009,2823,Number of laboratory technician assistants,Absolute,All,All,NOLTAS74,0,130,230,No
+75,Ethiopia,2008,2843,Number of laboratory technician assistants,Absolute,All,All,NOLTAS75,0,130,231,No
+76,Ethiopia,2008,2843,Number of laboratory technician assistants,Absolute,All,All,NOLTAS75,0,130,230,No
+77,Ethiopia,2007,1644,Number of laboratory technician assistants,Absolute,All,All,NOLTAS76,0,130,231,No
+78,Ethiopia,2007,1644,Number of laboratory technician assistants,Absolute,All,All,NOLTAS76,0,130,230,No
+79,Ethiopia,2006,1935,Number of laboratory technician assistants,Absolute,All,All,NOLTAS77,0,130,231,No
+80,Ethiopia,2006,1935,Number of laboratory technician assistants,Absolute,All,All,NOLTAS77,0,130,230,No
+81,Ethiopia,2005,2837,Number of laboratory technician assistants,Absolute,All,All,NOLTAS78,0,130,231,No
+82,Ethiopia,2005,2837,Number of laboratory technician assistants,Absolute,All,All,NOLTAS78,0,130,230,No
+83,Ethiopia,2004,2403,Number of laboratory technician assistants,Absolute,All,All,NOLTAS79,0,130,231,No
+84,Ethiopia,2004,2403,Number of laboratory technician assistants,Absolute,All,All,NOLTAS79,0,130,230,No
+85,Ethiopia,2003,2403,Number of laboratory technician assistants,Absolute,All,All,NOLTAS80,0,130,231,No
+86,Ethiopia,2003,2403,Number of laboratory technician assistants,Absolute,All,All,NOLTAS80,0,130,230,No
+87,Fiji,2009,125,Number of laboratory technician assistants,Absolute,All,All,NOLTAS81,0,130,242,No
+88,Finland,2002,6822,Number of laboratory technician assistants,Absolute,All,All,NOLTAS82,0,130,246,No
+89,Gabon,2004,228,Number of laboratory technician assistants,Absolute,All,All,NOLTAS83,0,130,266,No
+90,Gambia,2008,84,Number of laboratory technician assistants,Absolute,All,All,NOLTAS84,0,130,270,No
+91,Gambia,2007,67,Number of laboratory technician assistants,Absolute,All,All,NOLTAS85,0,130,270,No
+92,Gambia,2003,96,Number of laboratory technician assistants,Absolute,All,All,NOLTAS86,0,130,270,No
+93,Ghana,2008,213,Number of laboratory technician assistants,Absolute,All,All,NOLTAS87,0,130,288,No
+94,Ghana,2004,881,Number of laboratory technician assistants,Absolute,All,All,NOLTAS88,0,130,288,No
+95,Grenada,2003,13,Number of laboratory technician assistants,Absolute,All,All,NOLTAS89,0,130,308,No
+96,Grenada,2002,13,Number of laboratory technician assistants,Absolute,All,All,NOLTAS90,0,130,308,No
+97,Grenada,2001,13,Number of laboratory technician assistants,Absolute,All,All,NOLTAS91,0,130,308,No
+98,Grenada,2000,13,Number of laboratory technician assistants,Absolute,All,All,NOLTAS92,0,130,308,No
+99,Grenada,1999,13,Number of laboratory technician assistants,Absolute,All,All,NOLTAS93,0,130,308,No
+100,Guinea,2005,167,Number of laboratory technician assistants,Absolute,All,All,NOLTAS94,0,130,324,No
+101,Guinea,2004,19,Number of laboratory technician assistants,Absolute,All,All,NOLTAS95,0,130,324,No
+102,Guinea,2000,220,Number of laboratory technician assistants,Absolute,All,All,NOLTAS96,0,130,324,No
+103,Guinea-Bissau,2009,207,Number of laboratory technician assistants,Absolute,All,All,NOLTAS97,0,130,624,No
+104,Guinea-Bissau,2008,194,Number of laboratory technician assistants,Absolute,All,All,NOLTAS98,0,130,624,No
+105,Guinea-Bissau,2004,203,Number of laboratory technician assistants,Absolute,All,All,NOLTAS99,0,130,624,No
+106,Guyana,2009,65,Number of laboratory technician assistants,Absolute,All,All,NOLTAS100,0,130,328,No
+107,Indonesia,2009,1829,Number of laboratory technician assistants,Absolute,All,All,NOLTAS101,0,130,360,No
+108,Indonesia,2003,7339,Number of laboratory technician assistants,Absolute,All,All,NOLTAS102,0,130,360,No
+109,Indonesia,1992,4331,Number of laboratory technician assistants,Absolute,All,All,NOLTAS103,0,130,360,No
+110,Iran (Islamic Republic of),2004,9858,Number of laboratory technician assistants,Absolute,All,All,NOLTAS104,0,130,364,No
+111,Jordan,2004,2350,Number of laboratory technician assistants,Absolute,All,All,NOLTAS105,0,130,400,No
+112,Kiribati,2008,27,Number of laboratory technician assistants,Absolute,All,All,NOLTAS106,0,130,296,No
+113,Lao Peoples Democratic Republic,2012,460,Number of laboratory technician assistants,Absolute,All,All,NOLTAS107,0,130,418,No
+114,Lesotho,2003,73,Number of laboratory technician assistants,Absolute,All,All,NOLTAS108,0,130,426,No
+115,Liberia,2008,115,Number of laboratory technician assistants,Absolute,All,All,NOLTAS109,0,130,430,No
+116,Liberia,2004,51,Number of laboratory technician assistants,Absolute,All,All,NOLTAS110,0,130,430,No
+117,Madagascar,2004,103,Number of laboratory technician assistants,Absolute,All,All,NOLTAS111,0,130,450,No
+118,Malawi,2009,380,Number of laboratory technician assistants,Absolute,All,All,NOLTAS112,0,130,454,No
+119,Malawi,2008,473,Number of laboratory technician assistants,Absolute,All,All,NOLTAS113,0,130,454,No
+120,Malawi,2004,16,Number of laboratory technician assistants,Absolute,All,All,NOLTAS114,0,130,454,No
+121,Malaysia,2010,4980,Number of laboratory technician assistants,Absolute,All,All,NOLTAS115,0,130,458,No
+122,Maldives,2010,276,Number of laboratory technician assistants,Absolute,All,All,NOLTAS116,0,130,462,No
+123,Maldives,2009,261,Number of laboratory technician assistants,Absolute,All,All,NOLTAS117,0,130,462,No
+124,Maldives,2007,254,Number of laboratory technician assistants,Absolute,All,All,NOLTAS118,0,130,462,No
+125,Maldives,2004,141,Number of laboratory technician assistants,Absolute,All,All,NOLTAS119,0,130,462,No
+126,Maldives,1996,48,Number of laboratory technician assistants,Absolute,All,All,NOLTAS120,0,130,462,No
+127,Maldives,1993,21,Number of laboratory technician assistants,Absolute,All,All,NOLTAS121,0,130,462,No
+128,Maldives,1991,17,Number of laboratory technician assistants,Absolute,All,All,NOLTAS122,0,130,462,No
+129,Maldives,1989,11,Number of laboratory technician assistants,Absolute,All,All,NOLTAS123,0,130,462,No
+130,Mali,2010,398,Number of laboratory technician assistants,Absolute,All,All,NOLTAS124,0,130,466,No
+131,Mali,2009,317,Number of laboratory technician assistants,Absolute,All,All,NOLTAS125,0,130,466,No
+132,Mali,2008,91,Number of laboratory technician assistants,Absolute,All,All,NOLTAS126,0,130,466,No
+133,Mali,2004,207,Number of laboratory technician assistants,Absolute,All,All,NOLTAS127,0,130,466,No
+134,Marshall Islands,2008,35,Number of laboratory technician assistants,Absolute,All,All,NOLTAS128,0,130,584,No
+135,Mauritania,2009,41,Number of laboratory technician assistants,Absolute,All,All,NOLTAS129,0,130,478,No
+136,Mauritania,2004,70,Number of laboratory technician assistants,Absolute,All,All,NOLTAS130,0,130,478,No
+137,Mauritius,2004,198,Number of laboratory technician assistants,Absolute,All,All,NOLTAS131,0,130,480,No
+138,Mexico,2000,45482,Number of laboratory technician assistants,Absolute,All,All,NOLTAS132,0,130,484,No
+139,Micronesia (Federated States of),2008,33,Number of laboratory technician assistants,Absolute,All,All,NOLTAS133,0,130,583,No
+140,Morocco,2004,827,Number of laboratory technician assistants,Absolute,All,All,NOLTAS134,0,130,504,No
+141,Mozambique,2012,1420,Number of laboratory technician assistants,Absolute,All,All,NOLTAS135,0,130,508,No
+142,Mozambique,2011,1309,Number of laboratory technician assistants,Absolute,All,All,NOLTAS136,0,130,508,No
+143,Mozambique,2010,1180,Number of laboratory technician assistants,Absolute,All,All,NOLTAS137,0,130,508,No
+144,Mozambique,2008,665,Number of laboratory technician assistants,Absolute,All,All,NOLTAS138,0,130,508,No
+145,Mozambique,2006,656,Number of laboratory technician assistants,Absolute,All,All,NOLTAS139,0,130,508,No
+146,Mozambique,2004,727,Number of laboratory technician assistants,Absolute,All,All,NOLTAS140,0,130,508,No
+147,Myanmar,2004,1673,Number of laboratory technician assistants,Absolute,All,All,NOLTAS141,0,130,104,No
+148,Namibia,2004,160,Number of laboratory technician assistants,Absolute,All,All,NOLTAS142,0,130,516,No
+149,Nauru,2009,5,Number of laboratory technician assistants,Absolute,All,All,NOLTAS143,0,130,520,No
+150,Nepal,2004,3104,Number of laboratory technician assistants,Absolute,All,All,NOLTAS144,0,130,524,No
+151,New Zealand,2001,3696,Number of laboratory technician assistants,Absolute,All,All,NOLTAS145,0,130,554,No
+152,New Zealand,2001,3696,Number of laboratory technician assistants,Absolute,All,All,NOLTAS145,0,130,554,No
+153,Niger,2008,203,Number of laboratory technician assistants,Absolute,All,All,NOLTAS146,0,130,562,No
+154,Niger,2004,53,Number of laboratory technician assistants,Absolute,All,All,NOLTAS147,0,130,562,No
+155,Nigeria,2008,9980,Number of laboratory technician assistants,Absolute,All,All,NOLTAS148,0,130,566,No
+156,Nigeria,2007,11483,Number of laboratory technician assistants,Absolute,All,All,NOLTAS149,0,130,566,No
+157,Niue,2008,1,Number of laboratory technician assistants,Absolute,All,All,NOLTAS150,0,130,570,No
+158,Oman,2011,1885,Number of laboratory technician assistants,Absolute,All,All,NOLTAS151,0,130,512,No
+159,Oman,2010,1707,Number of laboratory technician assistants,Absolute,All,All,NOLTAS152,0,130,512,No
+160,Oman,2009,1546,Number of laboratory technician assistants,Absolute,All,All,NOLTAS153,0,130,512,No
+161,Oman,2008,1429,Number of laboratory technician assistants,Absolute,All,All,NOLTAS154,0,130,512,No
+162,Oman,2007,1331,Number of laboratory technician assistants,Absolute,All,All,NOLTAS155,0,130,512,No
+163,Oman,2006,1258,Number of laboratory technician assistants,Absolute,All,All,NOLTAS156,0,130,512,No
+164,Oman,2005,1169,Number of laboratory technician assistants,Absolute,All,All,NOLTAS157,0,130,512,No
+165,Oman,2004,483,Number of laboratory technician assistants,Absolute,All,All,NOLTAS158,0,130,512,No
+166,Oman,2000,910,Number of laboratory technician assistants,Absolute,All,All,NOLTAS159,0,130,512,No
+167,Oman,1999,669,Number of laboratory technician assistants,Absolute,All,All,NOLTAS160,0,130,512,No
+168,Oman,1998,635,Number of laboratory technician assistants,Absolute,All,All,NOLTAS161,0,130,512,No
+169,Oman,1997,597,Number of laboratory technician assistants,Absolute,All,All,NOLTAS162,0,130,512,No
+170,Oman,1995,670,Number of laboratory technician assistants,Absolute,All,All,NOLTAS163,0,130,512,No
+171,Oman,1990,408,Number of laboratory technician assistants,Absolute,All,All,NOLTAS164,0,130,512,No
+172,Oman,1985,247,Number of laboratory technician assistants,Absolute,All,All,NOLTAS165,0,130,512,No
+173,Pakistan,2004,6323,Number of laboratory technician assistants,Absolute,All,All,NOLTAS166,0,130,586,No
+174,Palau,1998,13,Number of laboratory technician assistants,Absolute,All,All,NOLTAS167,0,130,585,No
+175,Republic of Korea,2004,35220,Number of laboratory technician assistants,Absolute,All,All,NOLTAS168,0,130,410,No
+176,Rwanda,2010,862,Number of laboratory technician assistants,Absolute,All,All,NOLTAS169,0,130,646,No
+177,Rwanda,2009,896,Number of laboratory technician assistants,Absolute,All,All,NOLTAS170,0,130,646,No
+178,Rwanda,2008,722,Number of laboratory technician assistants,Absolute,All,All,NOLTAS171,0,130,646,No
+179,Rwanda,2004,21,Number of laboratory technician assistants,Absolute,All,All,NOLTAS172,0,130,646,No
+180,Samoa,2008,44,Number of laboratory technician assistants,Absolute,All,All,NOLTAS173,0,130,882,No
+181,Sao Tome and Principe,2004,44,Number of laboratory technician assistants,Absolute,All,All,NOLTAS174,0,130,678,No
+182,Senegal,2008,90,Number of laboratory technician assistants,Absolute,All,All,NOLTAS175,0,130,686,No
+183,Senegal,2004,19,Number of laboratory technician assistants,Absolute,All,All,NOLTAS176,0,130,686,No
+184,Seychelles,2004,46,Number of laboratory technician assistants,Absolute,All,All,NOLTAS177,0,130,690,No
+185,Sierra Leone,2010,14,Number of laboratory technician assistants,Absolute,All,All,NOLTAS178,0,130,694,No
+186,Sierra Leone,2008,43,Number of laboratory technician assistants,Absolute,All,All,NOLTAS179,0,130,694,No
+187,Somalia,2005,149,Number of laboratory technician assistants,Absolute,All,All,NOLTAS180,0,130,706,No
+188,South Africa,2013,541,Number of laboratory technician assistants,Absolute,All,All,NOLTAS181,0,130,710,No
+189,South Africa,2011,430,Number of laboratory technician assistants,Absolute,All,All,NOLTAS182,0,130,710,No
+190,South Africa,2004,697,Number of laboratory technician assistants,Absolute,All,All,NOLTAS183,0,130,710,No
+191,Sri Lanka,2007,901,Number of laboratory technician assistants,Absolute,All,All,NOLTAS184,0,130,144,No
+192,Sri Lanka,2004,913,Number of laboratory technician assistants,Absolute,All,All,NOLTAS185,0,130,144,No
+193,Sri Lanka,1993,587,Number of laboratory technician assistants,Absolute,All,All,NOLTAS186,0,130,144,No
+194,Sudan,2004,2416,Number of laboratory technician assistants,Absolute,All,All,NOLTAS187,0,130,729,No
+195,Sudan,2004,2416,Number of laboratory technician assistants,Absolute,All,All,NOLTAS187,0,130,736,No
+196,Swaziland,2009,57,Number of laboratory technician assistants,Absolute,All,All,NOLTAS188,0,130,748,No
+197,Swaziland,2004,47,Number of laboratory technician assistants,Absolute,All,All,NOLTAS189,0,130,748,No
+198,Swaziland,2000,11,Number of laboratory technician assistants,Absolute,All,All,NOLTAS190,0,130,748,No
+199,Timor-Leste,2011,132,Number of laboratory technician assistants,Absolute,All,All,NOLTAS191,0,130,626,No
+200,Timor-Leste,2010,123,Number of laboratory technician assistants,Absolute,All,All,NOLTAS192,0,130,626,No
+201,Timor-Leste,2009,114,Number of laboratory technician assistants,Absolute,All,All,NOLTAS193,0,130,626,No
+202,Timor-Leste,2008,75,Number of laboratory technician assistants,Absolute,All,All,NOLTAS194,0,130,626,No
+203,Timor-Leste,2007,49,Number of laboratory technician assistants,Absolute,All,All,NOLTAS195,0,130,626,No
+204,Timor-Leste,2004,32,Number of laboratory technician assistants,Absolute,All,All,NOLTAS196,0,130,626,No
+205,Timor-Leste,2001,23,Number of laboratory technician assistants,Absolute,All,All,NOLTAS197,0,130,626,No
+206,Togo,2008,360,Number of laboratory technician assistants,Absolute,All,All,NOLTAS198,0,130,768,No
+207,Togo,2007,405,Number of laboratory technician assistants,Absolute,All,All,NOLTAS199,0,130,768,No
+208,Togo,2004,310,Number of laboratory technician assistants,Absolute,All,All,NOLTAS200,0,130,768,No
+209,Tonga,2009,21,Number of laboratory technician assistants,Absolute,All,All,NOLTAS201,0,130,776,No
+210,Tunisia,2004,1942,Number of laboratory technician assistants,Absolute,All,All,NOLTAS202,0,130,788,No
+211,Tuvalu,2008,1,Number of laboratory technician assistants,Absolute,All,All,NOLTAS203,0,130,798,No
+212,Uganda,2004,1538,Number of laboratory technician assistants,Absolute,All,All,NOLTAS204,0,130,800,No
+213,United Republic of Tanzania,2006,454,Number of laboratory technician assistants,Absolute,All,All,NOLTAS205,0,130,834,No
+214,United Republic of Tanzania,2002,1327,Number of laboratory technician assistants,Absolute,All,All,NOLTAS206,0,130,834,No
+215,United States of America,2000,382300,Number of laboratory technician assistants,Absolute,All,All,NOLTAS207,0,130,840,No
+216,Yemen,2010,1809,Number of laboratory technician assistants,Absolute,All,All,NOLTAS208,0,130,887,No
+217,Yemen,2010,1809,Number of laboratory technician assistants,Absolute,All,All,NOLTAS208,0,130,886,No
+218,Yemen,2004,2405,Number of laboratory technician assistants,Absolute,All,All,NOLTAS209,0,130,887,No
+219,Yemen,2004,2405,Number of laboratory technician assistants,Absolute,All,All,NOLTAS209,0,130,886,No
+220,Yemen,1997,791,Number of laboratory technician assistants,Absolute,All,All,NOLTAS210,0,130,887,No
+221,Yemen,1997,791,Number of laboratory technician assistants,Absolute,All,All,NOLTAS210,0,130,886,No
+222,Zambia,2010,546,Number of laboratory technician assistants,Absolute,All,All,NOLTAS211,0,130,894,No
+223,Zambia,2006,392,Number of laboratory technician assistants,Absolute,All,All,NOLTAS212,0,130,894,No
+224,Zambia,2005,417,Number of laboratory technician assistants,Absolute,All,All,NOLTAS213,0,130,894,No
+225,Zambia,2004,1163,Number of laboratory technician assistants,Absolute,All,All,NOLTAS214,0,130,894,No
+226,Zimbabwe,1995,543,Number of laboratory technician assistants,Absolute,All,All,NOLTAS215,0,130,716,No
+227,Zimbabwe,1990,168,Number of laboratory technician assistants,Absolute,All,All,NOLTAS216,0,130,716,No
+228,Zimbabwe,1985,150,Number of laboratory technician assistants,Absolute,All,All,NOLTAS217,0,130,716,No

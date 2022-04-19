@@ -1,0 +1,381 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2012,5.14,Total Fertility Rate ,Absolute,15-49,Female,TFRPW1,15,49,4,No
+1,Afghanistan,2011,5.4,Total Fertility Rate ,Absolute,15-49,Female,TFRPW2,15,49,4,No
+2,Albania,2012,1.76,Total Fertility Rate ,Absolute,15-49,Female,TFRPW3,15,49,8,No
+3,Albania,2011,1.75,Total Fertility Rate ,Absolute,15-49,Female,TFRPW4,15,49,8,No
+4,Algeria,2012,2.82,Total Fertility Rate ,Absolute,15-49,Female,TFRPW5,15,49,12,No
+5,Algeria,2011,2.83,Total Fertility Rate ,Absolute,15-49,Female,TFRPW6,15,49,12,No
+6,Angola,2012,5.98,Total Fertility Rate ,Absolute,15-49,Female,TFRPW7,15,49,24,No
+7,Angola,2011,6.1,Total Fertility Rate ,Absolute,15-49,Female,TFRPW8,15,49,24,No
+8,Antigua and Barbuda,2012,2.1,Total Fertility Rate ,Absolute,15-49,Female,TFRPW9,15,49,28,No
+9,Antigua and Barbuda,2011,2.12,Total Fertility Rate ,Absolute,15-49,Female,TFRPW10,15,49,28,No
+10,Argentina,2012,2.19,Total Fertility Rate ,Absolute,15-49,Female,TFRPW11,15,49,32,No
+11,Argentina,2011,2.2,Total Fertility Rate ,Absolute,15-49,Female,TFRPW12,15,49,32,No
+12,Armenia,2012,1.74,Total Fertility Rate ,Absolute,15-49,Female,TFRPW13,15,49,51,No
+13,Armenia,2011,1.74,Total Fertility Rate ,Absolute,15-49,Female,TFRPW14,15,49,51,No
+14,Australia,2012,1.89,Total Fertility Rate ,Absolute,15-49,Female,TFRPW15,15,49,36,No
+15,Australia,2011,1.89,Total Fertility Rate ,Absolute,15-49,Female,TFRPW16,15,49,36,No
+16,Austria,2012,1.46,Total Fertility Rate ,Absolute,15-49,Female,TFRPW17,15,49,40,No
+17,Austria,2011,1.44,Total Fertility Rate ,Absolute,15-49,Female,TFRPW18,15,49,40,No
+18,Azerbaijan,2012,1.94,Total Fertility Rate ,Absolute,15-49,Female,TFRPW19,15,49,31,No
+19,Azerbaijan,2011,1.96,Total Fertility Rate ,Absolute,15-49,Female,TFRPW20,15,49,31,No
+20,Bahamas,2012,1.89,Total Fertility Rate ,Absolute,15-49,Female,TFRPW21,15,49,44,No
+21,Bahamas,2011,1.9,Total Fertility Rate ,Absolute,15-49,Female,TFRPW22,15,49,44,No
+22,Bahrain,2012,2.09,Total Fertility Rate ,Absolute,15-49,Female,TFRPW23,15,49,48,No
+23,Bahrain,2011,2.12,Total Fertility Rate ,Absolute,15-49,Female,TFRPW24,15,49,48,No
+24,Bangladesh,2012,2.21,Total Fertility Rate ,Absolute,15-49,Female,TFRPW25,15,49,50,No
+25,Bangladesh,2011,2.24,Total Fertility Rate ,Absolute,15-49,Female,TFRPW26,15,49,50,No
+26,Barbados,2012,1.85,Total Fertility Rate ,Absolute,15-49,Female,TFRPW27,15,49,52,No
+27,Barbados,2011,1.84,Total Fertility Rate ,Absolute,15-49,Female,TFRPW28,15,49,52,No
+28,Belarus,2012,1.48,Total Fertility Rate ,Absolute,15-49,Female,TFRPW29,15,49,112,No
+29,Belarus,2011,1.47,Total Fertility Rate ,Absolute,15-49,Female,TFRPW30,15,49,112,No
+30,Belgium,2012,1.85,Total Fertility Rate ,Absolute,15-49,Female,TFRPW31,15,49,56,No
+31,Belgium,2011,1.85,Total Fertility Rate ,Absolute,15-49,Female,TFRPW32,15,49,56,No
+32,Belize,2012,2.72,Total Fertility Rate ,Absolute,15-49,Female,TFRPW33,15,49,84,No
+33,Belize,2011,2.76,Total Fertility Rate ,Absolute,15-49,Female,TFRPW34,15,49,84,No
+34,Benin,2012,4.93,Total Fertility Rate ,Absolute,15-49,Female,TFRPW35,15,49,204,No
+35,Benin,2011,5.01,Total Fertility Rate ,Absolute,15-49,Female,TFRPW36,15,49,204,No
+36,Bhutan,2012,2.28,Total Fertility Rate ,Absolute,15-49,Female,TFRPW37,15,49,64,No
+37,Bhutan,2011,2.32,Total Fertility Rate ,Absolute,15-49,Female,TFRPW38,15,49,64,No
+38,Bolivia (Plurinational State of),2012,3.26,Total Fertility Rate ,Absolute,15-49,Female,TFRPW39,15,49,68,No
+39,Bolivia (Plurinational State of),2011,3.31,Total Fertility Rate ,Absolute,15-49,Female,TFRPW40,15,49,68,No
+40,Bosnia and Herzegovina,2012,1.27,Total Fertility Rate ,Absolute,15-49,Female,TFRPW41,15,49,70,No
+41,Bosnia and Herzegovina,2011,1.26,Total Fertility Rate ,Absolute,15-49,Female,TFRPW42,15,49,70,No
+42,Botswana,2012,2.67,Total Fertility Rate ,Absolute,15-49,Female,TFRPW43,15,49,72,No
+43,Botswana,2011,2.71,Total Fertility Rate ,Absolute,15-49,Female,TFRPW44,15,49,72,No
+44,Brazil,2012,1.81,Total Fertility Rate ,Absolute,15-49,Female,TFRPW45,15,49,76,No
+45,Brazil,2011,1.82,Total Fertility Rate ,Absolute,15-49,Female,TFRPW46,15,49,76,No
+46,Brunei Darussalam,2012,2.01,Total Fertility Rate ,Absolute,15-49,Female,TFRPW47,15,49,96,No
+47,Brunei Darussalam,2011,2.03,Total Fertility Rate ,Absolute,15-49,Female,TFRPW48,15,49,96,No
+48,Bulgaria,2012,1.52,Total Fertility Rate ,Absolute,15-49,Female,TFRPW49,15,49,100,No
+49,Bulgaria,2011,1.51,Total Fertility Rate ,Absolute,15-49,Female,TFRPW50,15,49,100,No
+50,Burkina Faso,2012,5.69,Total Fertility Rate ,Absolute,15-49,Female,TFRPW51,15,49,854,No
+51,Burkina Faso,2011,5.78,Total Fertility Rate ,Absolute,15-49,Female,TFRPW52,15,49,854,No
+52,Burundi,2012,6.12,Total Fertility Rate ,Absolute,15-49,Female,TFRPW53,15,49,108,No
+53,Burundi,2011,6.21,Total Fertility Rate ,Absolute,15-49,Female,TFRPW54,15,49,108,No
+54,Cabo Verde,2012,2.33,Total Fertility Rate ,Absolute,15-49,Female,TFRPW55,15,49,132,No
+55,Cabo Verde,2011,2.38,Total Fertility Rate ,Absolute,15-49,Female,TFRPW56,15,49,132,No
+56,Cambodia,2012,2.89,Total Fertility Rate ,Absolute,15-49,Female,TFRPW57,15,49,116,No
+57,Cambodia,2011,2.93,Total Fertility Rate ,Absolute,15-49,Female,TFRPW58,15,49,116,No
+58,Cameroon,2012,4.86,Total Fertility Rate ,Absolute,15-49,Female,TFRPW59,15,49,120,No
+59,Cameroon,2011,4.94,Total Fertility Rate ,Absolute,15-49,Female,TFRPW60,15,49,120,No
+60,Canada,2012,1.66,Total Fertility Rate ,Absolute,15-49,Female,TFRPW61,15,49,124,No
+61,Canada,2011,1.66,Total Fertility Rate ,Absolute,15-49,Female,TFRPW62,15,49,124,No
+62,Central African Republic,2012,4.45,Total Fertility Rate ,Absolute,15-49,Female,TFRPW63,15,49,140,No
+63,Central African Republic,2011,4.54,Total Fertility Rate ,Absolute,15-49,Female,TFRPW64,15,49,140,No
+64,Chad,2012,6.38,Total Fertility Rate ,Absolute,15-49,Female,TFRPW65,15,49,148,No
+65,Chad,2011,6.49,Total Fertility Rate ,Absolute,15-49,Female,TFRPW66,15,49,148,No
+66,Chile,2012,1.83,Total Fertility Rate ,Absolute,15-49,Female,TFRPW67,15,49,152,No
+67,Chile,2011,1.84,Total Fertility Rate ,Absolute,15-49,Female,TFRPW68,15,49,152,No
+68,China,2012,1.66,Total Fertility Rate ,Absolute,15-49,Female,TFRPW69,15,49,156,No
+69,China,2011,1.66,Total Fertility Rate ,Absolute,15-49,Female,TFRPW70,15,49,156,No
+70,Colombia,2012,2.32,Total Fertility Rate ,Absolute,15-49,Female,TFRPW71,15,49,170,No
+71,Colombia,2011,2.35,Total Fertility Rate ,Absolute,15-49,Female,TFRPW72,15,49,170,No
+72,Comoros,2012,4.78,Total Fertility Rate ,Absolute,15-49,Female,TFRPW73,15,49,174,No
+73,Comoros,2011,4.85,Total Fertility Rate ,Absolute,15-49,Female,TFRPW74,15,49,174,No
+74,Congo,2012,5.01,Total Fertility Rate ,Absolute,15-49,Female,TFRPW75,15,49,178,No
+75,Congo,2011,5.05,Total Fertility Rate ,Absolute,15-49,Female,TFRPW76,15,49,178,No
+76,Costa Rica,2012,1.81,Total Fertility Rate ,Absolute,15-49,Female,TFRPW77,15,49,188,No
+77,Costa Rica,2011,1.83,Total Fertility Rate ,Absolute,15-49,Female,TFRPW78,15,49,188,No
+78,Côte dIvoire,2012,4.89,Total Fertility Rate ,Absolute,15-49,Female,TFRPW79,15,49,384,No
+79,Côte dIvoire,2011,4.91,Total Fertility Rate ,Absolute,15-49,Female,TFRPW80,15,49,384,No
+80,Croatia,2012,1.49,Total Fertility Rate ,Absolute,15-49,Female,TFRPW81,15,49,191,No
+81,Croatia,2011,1.48,Total Fertility Rate ,Absolute,15-49,Female,TFRPW82,15,49,191,No
+82,Cuba,2012,1.45,Total Fertility Rate ,Absolute,15-49,Female,TFRPW83,15,49,192,No
+83,Cuba,2011,1.46,Total Fertility Rate ,Absolute,15-49,Female,TFRPW84,15,49,192,No
+84,Cyprus,2012,1.47,Total Fertility Rate ,Absolute,15-49,Female,TFRPW85,15,49,196,No
+85,Cyprus,2011,1.47,Total Fertility Rate ,Absolute,15-49,Female,TFRPW86,15,49,196,No
+86,Czech Republic,2012,1.55,Total Fertility Rate ,Absolute,15-49,Female,TFRPW87,15,49,203,No
+87,Czech Republic,2011,1.53,Total Fertility Rate ,Absolute,15-49,Female,TFRPW88,15,49,203,No
+88,Democratic Peoples Republic of Korea,2012,2.0,Total Fertility Rate ,Absolute,15-49,Female,TFRPW89,15,49,408,No
+89,Democratic Peoples Republic of Korea,2011,2.0,Total Fertility Rate ,Absolute,15-49,Female,TFRPW90,15,49,408,No
+90,Democratic Republic of the Congo,2012,6.04,Total Fertility Rate ,Absolute,15-49,Female,TFRPW91,15,49,180,No
+91,Democratic Republic of the Congo,2011,6.15,Total Fertility Rate ,Absolute,15-49,Female,TFRPW92,15,49,180,No
+92,Denmark,2012,1.88,Total Fertility Rate ,Absolute,15-49,Female,TFRPW93,15,49,208,No
+93,Denmark,2011,1.88,Total Fertility Rate ,Absolute,15-49,Female,TFRPW94,15,49,208,No
+94,Djibouti,2012,3.46,Total Fertility Rate ,Absolute,15-49,Female,TFRPW95,15,49,262,No
+95,Djibouti,2011,3.53,Total Fertility Rate ,Absolute,15-49,Female,TFRPW96,15,49,262,No
+96,Dominican Republic,2012,2.52,Total Fertility Rate ,Absolute,15-49,Female,TFRPW97,15,49,214,No
+97,Dominican Republic,2011,2.55,Total Fertility Rate ,Absolute,15-49,Female,TFRPW98,15,49,214,No
+98,Ecuador,2012,2.59,Total Fertility Rate ,Absolute,15-49,Female,TFRPW99,15,49,218,No
+99,Ecuador,2011,2.62,Total Fertility Rate ,Absolute,15-49,Female,TFRPW100,15,49,218,No
+100,Egypt,2012,2.81,Total Fertility Rate ,Absolute,15-49,Female,TFRPW101,15,49,818,No
+101,Egypt,2011,2.85,Total Fertility Rate ,Absolute,15-49,Female,TFRPW102,15,49,818,No
+102,El Salvador,2012,2.21,Total Fertility Rate ,Absolute,15-49,Female,TFRPW103,15,49,222,No
+103,El Salvador,2011,2.24,Total Fertility Rate ,Absolute,15-49,Female,TFRPW104,15,49,222,No
+104,Equatorial Guinea,2012,4.95,Total Fertility Rate ,Absolute,15-49,Female,TFRPW105,15,49,226,No
+105,Equatorial Guinea,2011,5.04,Total Fertility Rate ,Absolute,15-49,Female,TFRPW106,15,49,226,No
+106,Eritrea,2012,4.79,Total Fertility Rate ,Absolute,15-49,Female,TFRPW107,15,49,232,No
+107,Eritrea,2011,4.88,Total Fertility Rate ,Absolute,15-49,Female,TFRPW108,15,49,232,No
+108,Estonia,2012,1.61,Total Fertility Rate ,Absolute,15-49,Female,TFRPW109,15,49,233,No
+109,Estonia,2011,1.62,Total Fertility Rate ,Absolute,15-49,Female,TFRPW110,15,49,233,No
+110,Ethiopia,2012,4.64,Total Fertility Rate ,Absolute,15-49,Female,TFRPW111,15,49,231,No
+111,Ethiopia,2012,4.64,Total Fertility Rate ,Absolute,15-49,Female,TFRPW111,15,49,230,No
+112,Ethiopia,2011,4.77,Total Fertility Rate ,Absolute,15-49,Female,TFRPW112,15,49,231,No
+113,Ethiopia,2011,4.77,Total Fertility Rate ,Absolute,15-49,Female,TFRPW112,15,49,230,No
+114,Fiji,2012,2.62,Total Fertility Rate ,Absolute,15-49,Female,TFRPW113,15,49,242,No
+115,Fiji,2011,2.64,Total Fertility Rate ,Absolute,15-49,Female,TFRPW114,15,49,242,No
+116,Finland,2012,1.85,Total Fertility Rate ,Absolute,15-49,Female,TFRPW115,15,49,246,No
+117,Finland,2011,1.85,Total Fertility Rate ,Absolute,15-49,Female,TFRPW116,15,49,246,No
+118,France,2012,1.98,Total Fertility Rate ,Absolute,15-49,Female,TFRPW117,15,49,250,No
+119,France,2011,1.98,Total Fertility Rate ,Absolute,15-49,Female,TFRPW118,15,49,250,No
+120,Gabon,2012,4.14,Total Fertility Rate ,Absolute,15-49,Female,TFRPW119,15,49,266,No
+121,Gabon,2011,4.18,Total Fertility Rate ,Absolute,15-49,Female,TFRPW120,15,49,266,No
+122,Gambia,2012,5.78,Total Fertility Rate ,Absolute,15-49,Female,TFRPW121,15,49,270,No
+123,Gambia,2011,5.79,Total Fertility Rate ,Absolute,15-49,Female,TFRPW122,15,49,270,No
+124,Georgia,2012,1.82,Total Fertility Rate ,Absolute,15-49,Female,TFRPW123,15,49,268,No
+125,Georgia,2011,1.82,Total Fertility Rate ,Absolute,15-49,Female,TFRPW124,15,49,268,No
+126,Germany,2012,1.41,Total Fertility Rate ,Absolute,15-49,Female,TFRPW125,15,49,276,No
+127,Germany,2011,1.4,Total Fertility Rate ,Absolute,15-49,Female,TFRPW126,15,49,276,No
+128,Ghana,2012,3.92,Total Fertility Rate ,Absolute,15-49,Female,TFRPW127,15,49,288,No
+129,Ghana,2011,3.99,Total Fertility Rate ,Absolute,15-49,Female,TFRPW128,15,49,288,No
+130,Greece,2012,1.52,Total Fertility Rate ,Absolute,15-49,Female,TFRPW129,15,49,300,No
+131,Greece,2011,1.51,Total Fertility Rate ,Absolute,15-49,Female,TFRPW130,15,49,300,No
+132,Grenada,2012,2.19,Total Fertility Rate ,Absolute,15-49,Female,TFRPW131,15,49,308,No
+133,Grenada,2011,2.22,Total Fertility Rate ,Absolute,15-49,Female,TFRPW132,15,49,308,No
+134,Guatemala,2012,3.84,Total Fertility Rate ,Absolute,15-49,Female,TFRPW133,15,49,320,No
+135,Guatemala,2011,3.91,Total Fertility Rate ,Absolute,15-49,Female,TFRPW134,15,49,320,No
+136,Guinea,2012,5.0,Total Fertility Rate ,Absolute,15-49,Female,TFRPW135,15,49,324,No
+137,Guinea,2011,5.09,Total Fertility Rate ,Absolute,15-49,Female,TFRPW136,15,49,324,No
+138,Guinea-Bissau,2012,4.99,Total Fertility Rate ,Absolute,15-49,Female,TFRPW137,15,49,624,No
+139,Guinea-Bissau,2011,5.05,Total Fertility Rate ,Absolute,15-49,Female,TFRPW138,15,49,624,No
+140,Guyana,2012,2.59,Total Fertility Rate ,Absolute,15-49,Female,TFRPW139,15,49,328,No
+141,Guyana,2011,2.64,Total Fertility Rate ,Absolute,15-49,Female,TFRPW140,15,49,328,No
+142,Haiti,2012,3.21,Total Fertility Rate ,Absolute,15-49,Female,TFRPW141,15,49,332,No
+143,Haiti,2011,3.28,Total Fertility Rate ,Absolute,15-49,Female,TFRPW142,15,49,332,No
+144,Honduras,2012,3.05,Total Fertility Rate ,Absolute,15-49,Female,TFRPW143,15,49,340,No
+145,Honduras,2011,3.1,Total Fertility Rate ,Absolute,15-49,Female,TFRPW144,15,49,340,No
+146,Hungary,2012,1.4,Total Fertility Rate ,Absolute,15-49,Female,TFRPW145,15,49,348,No
+147,Hungary,2011,1.38,Total Fertility Rate ,Absolute,15-49,Female,TFRPW146,15,49,348,No
+148,Iceland,2012,2.1,Total Fertility Rate ,Absolute,15-49,Female,TFRPW147,15,49,352,No
+149,Iceland,2011,2.11,Total Fertility Rate ,Absolute,15-49,Female,TFRPW148,15,49,352,No
+150,India,2012,2.51,Total Fertility Rate ,Absolute,15-49,Female,TFRPW149,15,49,356,No
+151,India,2011,2.53,Total Fertility Rate ,Absolute,15-49,Female,TFRPW150,15,49,356,No
+152,Indonesia,2012,2.37,Total Fertility Rate ,Absolute,15-49,Female,TFRPW151,15,49,360,No
+153,Indonesia,2011,2.4,Total Fertility Rate ,Absolute,15-49,Female,TFRPW152,15,49,360,No
+154,Iran (Islamic Republic of),2012,1.92,Total Fertility Rate ,Absolute,15-49,Female,TFRPW153,15,49,364,No
+155,Iran (Islamic Republic of),2011,1.91,Total Fertility Rate ,Absolute,15-49,Female,TFRPW154,15,49,364,No
+156,Iraq,2012,4.09,Total Fertility Rate ,Absolute,15-49,Female,TFRPW155,15,49,368,No
+157,Iraq,2011,4.15,Total Fertility Rate ,Absolute,15-49,Female,TFRPW156,15,49,368,No
+158,Ireland,2012,2.0,Total Fertility Rate ,Absolute,15-49,Female,TFRPW157,15,49,372,No
+159,Ireland,2011,2.0,Total Fertility Rate ,Absolute,15-49,Female,TFRPW158,15,49,372,No
+160,Israel,2012,2.91,Total Fertility Rate ,Absolute,15-49,Female,TFRPW159,15,49,376,No
+161,Israel,2011,2.92,Total Fertility Rate ,Absolute,15-49,Female,TFRPW160,15,49,376,No
+162,Italy,2012,1.47,Total Fertility Rate ,Absolute,15-49,Female,TFRPW161,15,49,380,No
+163,Italy,2011,1.45,Total Fertility Rate ,Absolute,15-49,Female,TFRPW162,15,49,380,No
+164,Jamaica,2012,2.28,Total Fertility Rate ,Absolute,15-49,Female,TFRPW163,15,49,388,No
+165,Jamaica,2011,2.31,Total Fertility Rate ,Absolute,15-49,Female,TFRPW164,15,49,388,No
+166,Japan,2012,1.41,Total Fertility Rate ,Absolute,15-49,Female,TFRPW165,15,49,392,No
+167,Japan,2012,1.41,Total Fertility Rate ,Absolute,15-49,Female,TFRPW165,15,49,392,No
+168,Japan,2011,1.39,Total Fertility Rate ,Absolute,15-49,Female,TFRPW166,15,49,392,No
+169,Japan,2011,1.39,Total Fertility Rate ,Absolute,15-49,Female,TFRPW166,15,49,392,No
+170,Jordan,2012,3.31,Total Fertility Rate ,Absolute,15-49,Female,TFRPW167,15,49,400,No
+171,Jordan,2011,3.39,Total Fertility Rate ,Absolute,15-49,Female,TFRPW168,15,49,400,No
+172,Kazakhstan,2012,2.49,Total Fertility Rate ,Absolute,15-49,Female,TFRPW169,15,49,398,No
+173,Kazakhstan,2011,2.52,Total Fertility Rate ,Absolute,15-49,Female,TFRPW170,15,49,398,No
+174,Kenya,2012,4.46,Total Fertility Rate ,Absolute,15-49,Female,TFRPW171,15,49,404,No
+175,Kenya,2011,4.54,Total Fertility Rate ,Absolute,15-49,Female,TFRPW172,15,49,404,No
+176,Kiribati,2012,2.98,Total Fertility Rate ,Absolute,15-49,Female,TFRPW173,15,49,296,No
+177,Kiribati,2011,3.01,Total Fertility Rate ,Absolute,15-49,Female,TFRPW174,15,49,296,No
+178,Kuwait,2012,2.63,Total Fertility Rate ,Absolute,15-49,Female,TFRPW175,15,49,414,No
+179,Kuwait,2011,2.65,Total Fertility Rate ,Absolute,15-49,Female,TFRPW176,15,49,414,No
+180,Kyrgyzstan,2012,3.06,Total Fertility Rate ,Absolute,15-49,Female,TFRPW177,15,49,417,No
+181,Kyrgyzstan,2011,3.03,Total Fertility Rate ,Absolute,15-49,Female,TFRPW178,15,49,417,No
+182,Lao Peoples Democratic Republic,2012,3.11,Total Fertility Rate ,Absolute,15-49,Female,TFRPW179,15,49,418,No
+183,Lao Peoples Democratic Republic,2011,3.2,Total Fertility Rate ,Absolute,15-49,Female,TFRPW180,15,49,418,No
+184,Latvia,2012,1.59,Total Fertility Rate ,Absolute,15-49,Female,TFRPW181,15,49,428,No
+185,Latvia,2011,1.57,Total Fertility Rate ,Absolute,15-49,Female,TFRPW182,15,49,428,No
+186,Lebanon,2012,1.5,Total Fertility Rate ,Absolute,15-49,Female,TFRPW183,15,49,422,No
+187,Lebanon,2011,1.5,Total Fertility Rate ,Absolute,15-49,Female,TFRPW184,15,49,422,No
+188,Lesotho,2012,3.09,Total Fertility Rate ,Absolute,15-49,Female,TFRPW185,15,49,426,No
+189,Lesotho,2011,3.15,Total Fertility Rate ,Absolute,15-49,Female,TFRPW186,15,49,426,No
+190,Liberia,2012,4.87,Total Fertility Rate ,Absolute,15-49,Female,TFRPW187,15,49,430,No
+191,Liberia,2011,4.95,Total Fertility Rate ,Absolute,15-49,Female,TFRPW188,15,49,430,No
+192,Libya,2012,2.41,Total Fertility Rate ,Absolute,15-49,Female,TFRPW189,15,49,434,No
+193,Libya,2011,2.47,Total Fertility Rate ,Absolute,15-49,Female,TFRPW190,15,49,434,No
+194,Lithuania,2012,1.5,Total Fertility Rate ,Absolute,15-49,Female,TFRPW191,15,49,440,No
+195,Lithuania,2011,1.49,Total Fertility Rate ,Absolute,15-49,Female,TFRPW192,15,49,440,No
+196,Luxembourg,2012,1.66,Total Fertility Rate ,Absolute,15-49,Female,TFRPW193,15,49,442,No
+197,Luxembourg,2011,1.65,Total Fertility Rate ,Absolute,15-49,Female,TFRPW194,15,49,442,No
+198,Madagascar,2012,4.53,Total Fertility Rate ,Absolute,15-49,Female,TFRPW195,15,49,450,No
+199,Madagascar,2011,4.59,Total Fertility Rate ,Absolute,15-49,Female,TFRPW196,15,49,450,No
+200,Malawi,2012,5.47,Total Fertility Rate ,Absolute,15-49,Female,TFRPW197,15,49,454,No
+201,Malawi,2011,5.55,Total Fertility Rate ,Absolute,15-49,Female,TFRPW198,15,49,454,No
+202,Malaysia,2012,1.98,Total Fertility Rate ,Absolute,15-49,Female,TFRPW199,15,49,458,No
+203,Malaysia,2011,1.99,Total Fertility Rate ,Absolute,15-49,Female,TFRPW200,15,49,458,No
+204,Maldives,2012,2.29,Total Fertility Rate ,Absolute,15-49,Female,TFRPW201,15,49,462,No
+205,Maldives,2011,2.31,Total Fertility Rate ,Absolute,15-49,Female,TFRPW202,15,49,462,No
+206,Mali,2012,6.85,Total Fertility Rate ,Absolute,15-49,Female,TFRPW203,15,49,466,No
+207,Mali,2011,6.85,Total Fertility Rate ,Absolute,15-49,Female,TFRPW204,15,49,466,No
+208,Malta,2012,1.36,Total Fertility Rate ,Absolute,15-49,Female,TFRPW205,15,49,470,No
+209,Malta,2011,1.37,Total Fertility Rate ,Absolute,15-49,Female,TFRPW206,15,49,470,No
+210,Mauritania,2012,4.73,Total Fertility Rate ,Absolute,15-49,Female,TFRPW207,15,49,478,No
+211,Mauritania,2011,4.78,Total Fertility Rate ,Absolute,15-49,Female,TFRPW208,15,49,478,No
+212,Mauritius,2012,1.5,Total Fertility Rate ,Absolute,15-49,Female,TFRPW209,15,49,480,No
+213,Mauritius,2011,1.51,Total Fertility Rate ,Absolute,15-49,Female,TFRPW210,15,49,480,No
+214,Mexico,2012,2.22,Total Fertility Rate ,Absolute,15-49,Female,TFRPW211,15,49,484,No
+215,Mexico,2011,2.25,Total Fertility Rate ,Absolute,15-49,Female,TFRPW212,15,49,484,No
+216,Micronesia (Federated States of),2012,3.35,Total Fertility Rate ,Absolute,15-49,Female,TFRPW213,15,49,583,No
+217,Micronesia (Federated States of),2011,3.4,Total Fertility Rate ,Absolute,15-49,Female,TFRPW214,15,49,583,No
+218,Mongolia,2012,2.45,Total Fertility Rate ,Absolute,15-49,Female,TFRPW215,15,49,496,No
+219,Mongolia,2011,2.45,Total Fertility Rate ,Absolute,15-49,Female,TFRPW216,15,49,496,No
+220,Montenegro,2012,1.68,Total Fertility Rate ,Absolute,15-49,Female,TFRPW217,15,49,499,No
+221,Montenegro,2011,1.69,Total Fertility Rate ,Absolute,15-49,Female,TFRPW218,15,49,499,No
+222,Morocco,2012,2.71,Total Fertility Rate ,Absolute,15-49,Female,TFRPW219,15,49,504,No
+223,Morocco,2011,2.65,Total Fertility Rate ,Absolute,15-49,Female,TFRPW220,15,49,504,No
+224,Mozambique,2012,5.26,Total Fertility Rate ,Absolute,15-49,Female,TFRPW221,15,49,508,No
+225,Mozambique,2011,5.34,Total Fertility Rate ,Absolute,15-49,Female,TFRPW222,15,49,508,No
+226,Myanmar,2012,1.96,Total Fertility Rate ,Absolute,15-49,Female,TFRPW223,15,49,104,No
+227,Myanmar,2011,1.98,Total Fertility Rate ,Absolute,15-49,Female,TFRPW224,15,49,104,No
+228,Namibia,2012,3.11,Total Fertility Rate ,Absolute,15-49,Female,TFRPW225,15,49,516,No
+229,Namibia,2011,3.17,Total Fertility Rate ,Absolute,15-49,Female,TFRPW226,15,49,516,No
+230,Nepal,2012,2.39,Total Fertility Rate ,Absolute,15-49,Female,TFRPW227,15,49,524,No
+231,Nepal,2011,2.5,Total Fertility Rate ,Absolute,15-49,Female,TFRPW228,15,49,524,No
+232,Netherlands,2012,1.77,Total Fertility Rate ,Absolute,15-49,Female,TFRPW229,15,49,528,No
+233,Netherlands,2011,1.76,Total Fertility Rate ,Absolute,15-49,Female,TFRPW230,15,49,528,No
+234,New Zealand,2012,2.07,Total Fertility Rate ,Absolute,15-49,Female,TFRPW231,15,49,554,No
+235,New Zealand,2012,2.07,Total Fertility Rate ,Absolute,15-49,Female,TFRPW231,15,49,554,No
+236,New Zealand,2011,2.1,Total Fertility Rate ,Absolute,15-49,Female,TFRPW232,15,49,554,No
+237,New Zealand,2011,2.1,Total Fertility Rate ,Absolute,15-49,Female,TFRPW232,15,49,554,No
+238,Nicaragua,2012,2.54,Total Fertility Rate ,Absolute,15-49,Female,TFRPW233,15,49,558,No
+239,Nicaragua,2011,2.59,Total Fertility Rate ,Absolute,15-49,Female,TFRPW234,15,49,558,No
+240,Niger,2012,7.57,Total Fertility Rate ,Absolute,15-49,Female,TFRPW235,15,49,562,No
+241,Niger,2011,7.58,Total Fertility Rate ,Absolute,15-49,Female,TFRPW236,15,49,562,No
+242,Nigeria,2012,6.0,Total Fertility Rate ,Absolute,15-49,Female,TFRPW237,15,49,566,No
+243,Nigeria,2011,6.02,Total Fertility Rate ,Absolute,15-49,Female,TFRPW238,15,49,566,No
+244,Norway,2012,1.93,Total Fertility Rate ,Absolute,15-49,Female,TFRPW239,15,49,578,No
+245,Norway,2011,1.93,Total Fertility Rate ,Absolute,15-49,Female,TFRPW240,15,49,578,No
+246,Oman,2012,2.88,Total Fertility Rate ,Absolute,15-49,Female,TFRPW241,15,49,512,No
+247,Oman,2011,2.9,Total Fertility Rate ,Absolute,15-49,Female,TFRPW242,15,49,512,No
+248,Pakistan,2012,3.26,Total Fertility Rate ,Absolute,15-49,Female,TFRPW243,15,49,586,No
+249,Pakistan,2011,3.35,Total Fertility Rate ,Absolute,15-49,Female,TFRPW244,15,49,586,No
+250,Panama,2012,2.49,Total Fertility Rate ,Absolute,15-49,Female,TFRPW245,15,49,591,No
+251,Panama,2012,2.49,Total Fertility Rate ,Absolute,15-49,Female,TFRPW245,15,49,590,No
+252,Panama,2011,2.52,Total Fertility Rate ,Absolute,15-49,Female,TFRPW246,15,49,591,No
+253,Panama,2011,2.52,Total Fertility Rate ,Absolute,15-49,Female,TFRPW246,15,49,590,No
+254,Papua New Guinea,2012,3.84,Total Fertility Rate ,Absolute,15-49,Female,TFRPW247,15,49,598,No
+255,Papua New Guinea,2011,3.9,Total Fertility Rate ,Absolute,15-49,Female,TFRPW248,15,49,598,No
+256,Paraguay,2012,2.9,Total Fertility Rate ,Absolute,15-49,Female,TFRPW249,15,49,600,No
+257,Paraguay,2011,2.93,Total Fertility Rate ,Absolute,15-49,Female,TFRPW250,15,49,600,No
+258,Peru,2012,2.45,Total Fertility Rate ,Absolute,15-49,Female,TFRPW251,15,49,604,No
+259,Peru,2011,2.48,Total Fertility Rate ,Absolute,15-49,Female,TFRPW252,15,49,604,No
+260,Philippines,2012,3.08,Total Fertility Rate ,Absolute,15-49,Female,TFRPW253,15,49,608,No
+261,Philippines,2011,3.11,Total Fertility Rate ,Absolute,15-49,Female,TFRPW254,15,49,608,No
+262,Poland,2012,1.4,Total Fertility Rate ,Absolute,15-49,Female,TFRPW255,15,49,616,No
+263,Poland,2011,1.39,Total Fertility Rate ,Absolute,15-49,Female,TFRPW256,15,49,616,No
+264,Portugal,2012,1.32,Total Fertility Rate ,Absolute,15-49,Female,TFRPW257,15,49,620,No
+265,Portugal,2011,1.33,Total Fertility Rate ,Absolute,15-49,Female,TFRPW258,15,49,620,No
+266,Qatar,2012,2.04,Total Fertility Rate ,Absolute,15-49,Female,TFRPW259,15,49,634,No
+267,Qatar,2011,2.06,Total Fertility Rate ,Absolute,15-49,Female,TFRPW260,15,49,634,No
+268,Republic of Korea,2012,1.3,Total Fertility Rate ,Absolute,15-49,Female,TFRPW261,15,49,410,No
+269,Republic of Korea,2011,1.29,Total Fertility Rate ,Absolute,15-49,Female,TFRPW262,15,49,410,No
+270,Republic of Moldova,2012,1.46,Total Fertility Rate ,Absolute,15-49,Female,TFRPW263,15,49,498,No
+271,Republic of Moldova,2011,1.47,Total Fertility Rate ,Absolute,15-49,Female,TFRPW264,15,49,498,No
+272,Romania,2012,1.4,Total Fertility Rate ,Absolute,15-49,Female,TFRPW265,15,49,642,No
+273,Romania,2011,1.39,Total Fertility Rate ,Absolute,15-49,Female,TFRPW266,15,49,642,No
+274,Russian Federation,2012,1.52,Total Fertility Rate ,Absolute,15-49,Female,TFRPW267,15,49,643,No
+275,Russian Federation,2011,1.51,Total Fertility Rate ,Absolute,15-49,Female,TFRPW268,15,49,643,No
+276,Rwanda,2012,4.62,Total Fertility Rate ,Absolute,15-49,Female,TFRPW269,15,49,646,No
+277,Rwanda,2011,4.73,Total Fertility Rate ,Absolute,15-49,Female,TFRPW270,15,49,646,No
+278,Saint Lucia,2012,1.94,Total Fertility Rate ,Absolute,15-49,Female,TFRPW271,15,49,662,No
+279,Saint Lucia,2011,1.96,Total Fertility Rate ,Absolute,15-49,Female,TFRPW272,15,49,662,No
+280,Saint Vincent and the Grenadines,2012,2.02,Total Fertility Rate ,Absolute,15-49,Female,TFRPW273,15,49,670,No
+281,Saint Vincent and the Grenadines,2011,2.05,Total Fertility Rate ,Absolute,15-49,Female,TFRPW274,15,49,670,No
+282,Samoa,2012,4.21,Total Fertility Rate ,Absolute,15-49,Female,TFRPW275,15,49,882,No
+283,Samoa,2011,4.28,Total Fertility Rate ,Absolute,15-49,Female,TFRPW276,15,49,882,No
+284,Sao Tome and Principe,2012,4.15,Total Fertility Rate ,Absolute,15-49,Female,TFRPW277,15,49,678,No
+285,Sao Tome and Principe,2011,4.22,Total Fertility Rate ,Absolute,15-49,Female,TFRPW278,15,49,678,No
+286,Saudi Arabia,2012,2.7,Total Fertility Rate ,Absolute,15-49,Female,TFRPW279,15,49,682,No
+287,Saudi Arabia,2011,2.76,Total Fertility Rate ,Absolute,15-49,Female,TFRPW280,15,49,682,No
+288,Senegal,2012,4.98,Total Fertility Rate ,Absolute,15-49,Female,TFRPW281,15,49,686,No
+289,Senegal,2011,5.02,Total Fertility Rate ,Absolute,15-49,Female,TFRPW282,15,49,686,No
+290,Serbia,2012,1.37,Total Fertility Rate ,Absolute,15-49,Female,TFRPW283,15,49,688,No
+291,Serbia,2011,1.37,Total Fertility Rate ,Absolute,15-49,Female,TFRPW284,15,49,688,No
+292,Seychelles,2012,2.21,Total Fertility Rate ,Absolute,15-49,Female,TFRPW285,15,49,690,No
+293,Seychelles,2011,2.23,Total Fertility Rate ,Absolute,15-49,Female,TFRPW286,15,49,690,No
+294,Sierra Leone,2012,4.78,Total Fertility Rate ,Absolute,15-49,Female,TFRPW287,15,49,694,No
+295,Sierra Leone,2011,4.86,Total Fertility Rate ,Absolute,15-49,Female,TFRPW288,15,49,694,No
+296,Singapore,2012,1.28,Total Fertility Rate ,Absolute,15-49,Female,TFRPW289,15,49,702,No
+297,Singapore,2011,1.27,Total Fertility Rate ,Absolute,15-49,Female,TFRPW290,15,49,702,No
+298,Slovakia,2012,1.38,Total Fertility Rate ,Absolute,15-49,Female,TFRPW291,15,49,703,No
+299,Slovakia,2011,1.37,Total Fertility Rate ,Absolute,15-49,Female,TFRPW292,15,49,703,No
+300,Slovenia,2012,1.5,Total Fertility Rate ,Absolute,15-49,Female,TFRPW293,15,49,705,No
+301,Slovenia,2011,1.49,Total Fertility Rate ,Absolute,15-49,Female,TFRPW294,15,49,705,No
+302,Solomon Islands,2012,4.1,Total Fertility Rate ,Absolute,15-49,Female,TFRPW295,15,49,90,No
+303,Solomon Islands,2011,4.17,Total Fertility Rate ,Absolute,15-49,Female,TFRPW296,15,49,90,No
+304,Somalia,2012,6.67,Total Fertility Rate ,Absolute,15-49,Female,TFRPW297,15,49,706,No
+305,Somalia,2011,6.77,Total Fertility Rate ,Absolute,15-49,Female,TFRPW298,15,49,706,No
+306,South Africa,2012,2.41,Total Fertility Rate ,Absolute,15-49,Female,TFRPW299,15,49,710,No
+307,South Africa,2011,2.44,Total Fertility Rate ,Absolute,15-49,Female,TFRPW300,15,49,710,No
+308,South Sudan,2012,5.01,Total Fertility Rate ,Absolute,15-49,Female,TFRPW301,15,49,728,No
+309,South Sudan,2011,5.1,Total Fertility Rate ,Absolute,15-49,Female,TFRPW302,15,49,728,No
+310,Spain,2012,1.49,Total Fertility Rate ,Absolute,15-49,Female,TFRPW303,15,49,724,No
+311,Spain,2011,1.47,Total Fertility Rate ,Absolute,15-49,Female,TFRPW304,15,49,724,No
+312,Sri Lanka,2012,2.35,Total Fertility Rate ,Absolute,15-49,Female,TFRPW305,15,49,144,No
+313,Sri Lanka,2011,2.35,Total Fertility Rate ,Absolute,15-49,Female,TFRPW306,15,49,144,No
+314,Sudan,2012,4.49,Total Fertility Rate ,Absolute,15-49,Female,TFRPW307,15,49,729,No
+315,Sudan,2012,4.49,Total Fertility Rate ,Absolute,15-49,Female,TFRPW307,15,49,736,No
+316,Sudan,2011,4.56,Total Fertility Rate ,Absolute,15-49,Female,TFRPW308,15,49,729,No
+317,Sudan,2011,4.56,Total Fertility Rate ,Absolute,15-49,Female,TFRPW308,15,49,736,No
+318,Suriname,2012,2.29,Total Fertility Rate ,Absolute,15-49,Female,TFRPW309,15,49,740,No
+319,Suriname,2011,2.32,Total Fertility Rate ,Absolute,15-49,Female,TFRPW310,15,49,740,No
+320,Swaziland,2012,3.41,Total Fertility Rate ,Absolute,15-49,Female,TFRPW311,15,49,748,No
+321,Swaziland,2011,3.48,Total Fertility Rate ,Absolute,15-49,Female,TFRPW312,15,49,748,No
+322,Sweden,2012,1.93,Total Fertility Rate ,Absolute,15-49,Female,TFRPW313,15,49,752,No
+323,Sweden,2011,1.93,Total Fertility Rate ,Absolute,15-49,Female,TFRPW314,15,49,752,No
+324,Switzerland,2012,1.52,Total Fertility Rate ,Absolute,15-49,Female,TFRPW315,15,49,756,No
+325,Switzerland,2012,1.52,Total Fertility Rate ,Absolute,15-49,Female,TFRPW315,15,49,756,No
+326,Switzerland,2011,1.51,Total Fertility Rate ,Absolute,15-49,Female,TFRPW316,15,49,756,No
+327,Switzerland,2011,1.51,Total Fertility Rate ,Absolute,15-49,Female,TFRPW316,15,49,756,No
+328,Syrian Arab Republic,2012,3.0,Total Fertility Rate ,Absolute,15-49,Female,TFRPW317,15,49,760,No
+329,Syrian Arab Republic,2011,3.04,Total Fertility Rate ,Absolute,15-49,Female,TFRPW318,15,49,760,No
+330,Tajikistan,2012,3.82,Total Fertility Rate ,Absolute,15-49,Female,TFRPW319,15,49,762,No
+331,Tajikistan,2011,3.81,Total Fertility Rate ,Absolute,15-49,Female,TFRPW320,15,49,762,No
+332,Thailand,2012,1.41,Total Fertility Rate ,Absolute,15-49,Female,TFRPW321,15,49,764,No
+333,Thailand,2011,1.43,Total Fertility Rate ,Absolute,15-49,Female,TFRPW322,15,49,764,No
+334,The former Yugoslav Republic of Macedonia,2012,1.44,Total Fertility Rate ,Absolute,15-49,Female,TFRPW323,15,49,807,No
+335,The former Yugoslav Republic of Macedonia,2011,1.44,Total Fertility Rate ,Absolute,15-49,Female,TFRPW324,15,49,807,No
+336,Timor-Leste,2012,5.98,Total Fertility Rate ,Absolute,15-49,Female,TFRPW325,15,49,626,No
+337,Timor-Leste,2011,6.11,Total Fertility Rate ,Absolute,15-49,Female,TFRPW326,15,49,626,No
+338,Togo,2012,4.7,Total Fertility Rate ,Absolute,15-49,Female,TFRPW327,15,49,768,No
+339,Togo,2011,4.75,Total Fertility Rate ,Absolute,15-49,Female,TFRPW328,15,49,768,No
+340,Tonga,2012,3.82,Total Fertility Rate ,Absolute,15-49,Female,TFRPW329,15,49,776,No
+341,Tonga,2011,3.86,Total Fertility Rate ,Absolute,15-49,Female,TFRPW330,15,49,776,No
+342,Trinidad and Tobago,2012,1.8,Total Fertility Rate ,Absolute,15-49,Female,TFRPW331,15,49,780,No
+343,Trinidad and Tobago,2011,1.8,Total Fertility Rate ,Absolute,15-49,Female,TFRPW332,15,49,780,No
+344,Tunisia,2012,2.02,Total Fertility Rate ,Absolute,15-49,Female,TFRPW333,15,49,788,No
+345,Tunisia,2011,2.04,Total Fertility Rate ,Absolute,15-49,Female,TFRPW334,15,49,788,No
+346,Turkey,2012,2.06,Total Fertility Rate ,Absolute,15-49,Female,TFRPW335,15,49,792,No
+347,Turkey,2011,2.08,Total Fertility Rate ,Absolute,15-49,Female,TFRPW336,15,49,792,No
+348,Turkmenistan,2012,2.35,Total Fertility Rate ,Absolute,15-49,Female,TFRPW337,15,49,795,No
+349,Turkmenistan,2011,2.38,Total Fertility Rate ,Absolute,15-49,Female,TFRPW338,15,49,795,No
+350,Uganda,2012,5.96,Total Fertility Rate ,Absolute,15-49,Female,TFRPW339,15,49,800,No
+351,Uganda,2011,6.06,Total Fertility Rate ,Absolute,15-49,Female,TFRPW340,15,49,800,No
+352,Ukraine,2012,1.46,Total Fertility Rate ,Absolute,15-49,Female,TFRPW341,15,49,804,No
+353,Ukraine,2011,1.45,Total Fertility Rate ,Absolute,15-49,Female,TFRPW342,15,49,804,No
+354,United Arab Emirates,2012,1.82,Total Fertility Rate ,Absolute,15-49,Female,TFRPW343,15,49,784,No
+355,United Arab Emirates,2011,1.84,Total Fertility Rate ,Absolute,15-49,Female,TFRPW344,15,49,784,No
+356,United Kingdom,2012,1.9,Total Fertility Rate ,Absolute,15-49,Female,TFRPW345,15,49,826,No
+357,United Kingdom,2011,1.9,Total Fertility Rate ,Absolute,15-49,Female,TFRPW346,15,49,826,No
+358,United Republic of Tanzania,2012,5.29,Total Fertility Rate ,Absolute,15-49,Female,TFRPW347,15,49,834,No
+359,United Republic of Tanzania,2011,5.36,Total Fertility Rate ,Absolute,15-49,Female,TFRPW348,15,49,834,No
+360,United States of America,2012,1.99,Total Fertility Rate ,Absolute,15-49,Female,TFRPW349,15,49,840,No
+361,United States of America,2011,2.0,Total Fertility Rate ,Absolute,15-49,Female,TFRPW350,15,49,840,No
+362,Uruguay,2012,2.06,Total Fertility Rate ,Absolute,15-49,Female,TFRPW351,15,49,858,No
+363,Uruguay,2011,2.07,Total Fertility Rate ,Absolute,15-49,Female,TFRPW352,15,49,858,No
+364,Uzbekistan,2012,2.34,Total Fertility Rate ,Absolute,15-49,Female,TFRPW353,15,49,860,No
+365,Uzbekistan,2011,2.38,Total Fertility Rate ,Absolute,15-49,Female,TFRPW354,15,49,860,No
+366,Vanuatu,2012,3.42,Total Fertility Rate ,Absolute,15-49,Female,TFRPW355,15,49,548,No
+367,Vanuatu,2011,3.46,Total Fertility Rate ,Absolute,15-49,Female,TFRPW356,15,49,548,No
+368,Venezuela (Bolivarian Republic of),2012,2.42,Total Fertility Rate ,Absolute,15-49,Female,TFRPW357,15,49,862,No
+369,Venezuela (Bolivarian Republic of),2011,2.44,Total Fertility Rate ,Absolute,15-49,Female,TFRPW358,15,49,862,No
+370,Viet Nam,2012,1.77,Total Fertility Rate ,Absolute,15-49,Female,TFRPW359,15,49,704,No
+371,Viet Nam,2011,1.79,Total Fertility Rate ,Absolute,15-49,Female,TFRPW360,15,49,704,No
+372,Yemen,2012,4.21,Total Fertility Rate ,Absolute,15-49,Female,TFRPW361,15,49,887,No
+373,Yemen,2012,4.21,Total Fertility Rate ,Absolute,15-49,Female,TFRPW361,15,49,886,No
+374,Yemen,2011,4.35,Total Fertility Rate ,Absolute,15-49,Female,TFRPW362,15,49,887,No
+375,Yemen,2011,4.35,Total Fertility Rate ,Absolute,15-49,Female,TFRPW362,15,49,886,No
+376,Zambia,2012,5.73,Total Fertility Rate ,Absolute,15-49,Female,TFRPW363,15,49,894,No
+377,Zambia,2011,5.77,Total Fertility Rate ,Absolute,15-49,Female,TFRPW364,15,49,894,No
+378,Zimbabwe,2012,3.56,Total Fertility Rate ,Absolute,15-49,Female,TFRPW365,15,49,716,No
+379,Zimbabwe,2011,3.64,Total Fertility Rate ,Absolute,15-49,Female,TFRPW366,15,49,716,No

@@ -1,0 +1,945 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2011,0.234,Physicians density ,per 1k pop,All,All,PHYDEN1,0,130,4,No
+1,Afghanistan,2010,0.194,Physicians density ,per 1k pop,All,All,PHYDEN2,0,130,4,No
+2,Afghanistan,2009,0.175,Physicians density ,per 1k pop,All,All,PHYDEN3,0,130,4,No
+3,Afghanistan,2008,0.145,Physicians density ,per 1k pop,All,All,PHYDEN4,0,130,4,No
+4,Afghanistan,2007,0.146,Physicians density ,per 1k pop,All,All,PHYDEN5,0,130,4,No
+5,Afghanistan,2006,0.136,Physicians density ,per 1k pop,All,All,PHYDEN6,0,130,4,No
+6,Afghanistan,2005,0.2,Physicians density ,per 1k pop,All,All,PHYDEN7,0,130,4,No
+7,Afghanistan,2001,0.186,Physicians density ,per 1k pop,All,All,PHYDEN8,0,130,4,No
+8,Albania,2012,1.145,Physicians density ,per 1k pop,All,All,PHYDEN9,0,130,8,No
+9,Albania,2011,1.113,Physicians density ,per 1k pop,All,All,PHYDEN10,0,130,8,No
+10,Algeria,2007,1.207,Physicians density ,per 1k pop,All,All,PHYDEN11,0,130,12,No
+11,Algeria,2005,1.033,Physicians density ,per 1k pop,All,All,PHYDEN12,0,130,12,No
+12,Algeria,2002,1.131,Physicians density ,per 1k pop,All,All,PHYDEN13,0,130,12,No
+13,Andorra,2003,3.697,Physicians density ,per 1k pop,All,All,PHYDEN14,0,130,20,No
+14,Angola,2009,0.166,Physicians density ,per 1k pop,All,All,PHYDEN15,0,130,24,No
+15,Angola,2004,0.083,Physicians density ,per 1k pop,All,All,PHYDEN16,0,130,24,No
+16,Angola,1997,0.077,Physicians density ,per 1k pop,All,All,PHYDEN17,0,130,24,No
+17,Antigua and Barbuda,1999,0.169,Physicians density ,per 1k pop,All,All,PHYDEN18,0,130,28,No
+18,Argentina,2004,3.155,Physicians density ,per 1k pop,All,All,PHYDEN19,0,130,32,No
+19,Argentina,1998,3.009,Physicians density ,per 1k pop,All,All,PHYDEN20,0,130,32,No
+20,Armenia,2012,2.687,Physicians density ,per 1k pop,All,All,PHYDEN21,0,130,51,No
+21,Armenia,2011,2.661,Physicians density ,per 1k pop,All,All,PHYDEN22,0,130,51,No
+22,Australia,2011,3.273,Physicians density ,per 1k pop,All,All,PHYDEN23,0,130,36,No
+23,Australia,2010,3.851,Physicians density ,per 1k pop,All,All,PHYDEN24,0,130,36,No
+24,Australia,2009,2.991,Physicians density ,per 1k pop,All,All,PHYDEN25,0,130,36,No
+25,Australia,2006,2.704,Physicians density ,per 1k pop,All,All,PHYDEN26,0,130,36,No
+26,Australia,2001,2.474,Physicians density ,per 1k pop,All,All,PHYDEN27,0,130,36,No
+27,Australia,1996,2.516,Physicians density ,per 1k pop,All,All,PHYDEN28,0,130,36,No
+28,Austria,2011,4.83,Physicians density ,per 1k pop,All,All,PHYDEN29,0,130,40,No
+29,Austria,2010,4.862,Physicians density ,per 1k pop,All,All,PHYDEN30,0,130,40,No
+30,Austria,2003,3.378,Physicians density ,per 1k pop,All,All,PHYDEN31,0,130,40,No
+31,Azerbaijan,2012,3.432,Physicians density ,per 1k pop,All,All,PHYDEN32,0,130,31,No
+32,Azerbaijan,2011,3.379,Physicians density ,per 1k pop,All,All,PHYDEN33,0,130,31,No
+33,Bahamas,2008,2.818,Physicians density ,per 1k pop,All,All,PHYDEN34,0,130,44,No
+34,Bahamas,1998,1.054,Physicians density ,per 1k pop,All,All,PHYDEN35,0,130,44,No
+35,Bahrain,2011,0.913,Physicians density ,per 1k pop,All,All,PHYDEN36,0,130,48,No
+36,Bahrain,2010,1.489,Physicians density ,per 1k pop,All,All,PHYDEN37,0,130,48,No
+37,Bahrain,2009,1.477,Physicians density ,per 1k pop,All,All,PHYDEN38,0,130,48,No
+38,Bahrain,2008,1.442,Physicians density ,per 1k pop,All,All,PHYDEN39,0,130,48,No
+39,Bahrain,2007,1.401,Physicians density ,per 1k pop,All,All,PHYDEN40,0,130,48,No
+40,Bahrain,2005,2.724,Physicians density ,per 1k pop,All,All,PHYDEN41,0,130,48,No
+41,Bahrain,2004,1.087,Physicians density ,per 1k pop,All,All,PHYDEN42,0,130,48,No
+42,Bangladesh,2011,0.356,Physicians density ,per 1k pop,All,All,PHYDEN43,0,130,50,No
+43,Bangladesh,2007,0.295,Physicians density ,per 1k pop,All,All,PHYDEN44,0,130,50,No
+44,Bangladesh,2006,0.309,Physicians density ,per 1k pop,All,All,PHYDEN45,0,130,50,No
+45,Bangladesh,2005,0.302,Physicians density ,per 1k pop,All,All,PHYDEN46,0,130,50,No
+46,Bangladesh,2004,0.257,Physicians density ,per 1k pop,All,All,PHYDEN47,0,130,50,No
+47,Bangladesh,2003,0.249,Physicians density ,per 1k pop,All,All,PHYDEN48,0,130,50,No
+48,Bangladesh,2001,0.231,Physicians density ,per 1k pop,All,All,PHYDEN49,0,130,50,No
+49,Barbados,2005,1.811,Physicians density ,per 1k pop,All,All,PHYDEN50,0,130,52,No
+50,Barbados,2001,1.567,Physicians density ,per 1k pop,All,All,PHYDEN51,0,130,52,No
+51,Barbados,2000,1.367,Physicians density ,per 1k pop,All,All,PHYDEN52,0,130,52,No
+52,Barbados,1995,1.361,Physicians density ,per 1k pop,All,All,PHYDEN53,0,130,52,No
+53,Belarus,2011,3.756,Physicians density ,per 1k pop,All,All,PHYDEN54,0,130,112,No
+54,Belarus,2010,3.511,Physicians density ,per 1k pop,All,All,PHYDEN55,0,130,112,No
+55,Belgium,2011,2.993,Physicians density ,per 1k pop,All,All,PHYDEN56,0,130,56,No
+56,Belgium,2010,3.782,Physicians density ,per 1k pop,All,All,PHYDEN57,0,130,56,No
+57,Belize,2009,0.828,Physicians density ,per 1k pop,All,All,PHYDEN58,0,130,84,No
+58,Belize,2000,1.046,Physicians density ,per 1k pop,All,All,PHYDEN59,0,130,84,No
+59,Benin,2008,0.059,Physicians density ,per 1k pop,All,All,PHYDEN60,0,130,204,No
+60,Benin,2004,0.045,Physicians density ,per 1k pop,All,All,PHYDEN61,0,130,204,No
+61,Bhutan,2012,0.259,Physicians density ,per 1k pop,All,All,PHYDEN62,0,130,64,No
+62,Bhutan,2008,0.074,Physicians density ,per 1k pop,All,All,PHYDEN63,0,130,64,No
+63,Bhutan,2007,0.064,Physicians density ,per 1k pop,All,All,PHYDEN64,0,130,64,No
+64,Bhutan,2004,0.051,Physicians density ,per 1k pop,All,All,PHYDEN65,0,130,64,No
+65,Bolivia (Plurinational State of),2011,0.473,Physicians density ,per 1k pop,All,All,PHYDEN66,0,130,68,No
+66,Bolivia (Plurinational State of),2010,0.439,Physicians density ,per 1k pop,All,All,PHYDEN67,0,130,68,No
+67,Bolivia (Plurinational State of),2007,0.333,Physicians density ,per 1k pop,All,All,PHYDEN68,0,130,68,No
+68,Bolivia (Plurinational State of),2001,1.218,Physicians density ,per 1k pop,All,All,PHYDEN69,0,130,68,No
+69,Bosnia and Herzegovina,2010,1.694,Physicians density ,per 1k pop,All,All,PHYDEN70,0,130,70,No
+70,Bosnia and Herzegovina,2009,1.65,Physicians density ,per 1k pop,All,All,PHYDEN71,0,130,70,No
+71,Botswana,2006,0.336,Physicians density ,per 1k pop,All,All,PHYDEN72,0,130,72,No
+72,Botswana,2005,0.264,Physicians density ,per 1k pop,All,All,PHYDEN73,0,130,72,No
+73,Botswana,2004,0.398,Physicians density ,per 1k pop,All,All,PHYDEN74,0,130,72,No
+74,Botswana,2003,0.295,Physicians density ,per 1k pop,All,All,PHYDEN75,0,130,72,No
+75,Botswana,2002,0.303,Physicians density ,per 1k pop,All,All,PHYDEN76,0,130,72,No
+76,Botswana,2001,0.291,Physicians density ,per 1k pop,All,All,PHYDEN77,0,130,72,No
+77,Botswana,2000,0.289,Physicians density ,per 1k pop,All,All,PHYDEN78,0,130,72,No
+78,Botswana,1999,0.299,Physicians density ,per 1k pop,All,All,PHYDEN79,0,130,72,No
+79,Botswana,1998,0.255,Physicians density ,per 1k pop,All,All,PHYDEN80,0,130,72,No
+80,Brazil,2013,1.891,Physicians density ,per 1k pop,All,All,PHYDEN81,0,130,76,No
+81,Brazil,2011,1.857,Physicians density ,per 1k pop,All,All,PHYDEN82,0,130,76,No
+82,Brazil,2009,1.796,Physicians density ,per 1k pop,All,All,PHYDEN83,0,130,76,No
+83,Brazil,2008,1.764,Physicians density ,per 1k pop,All,All,PHYDEN84,0,130,76,No
+84,Brazil,2007,1.72,Physicians density ,per 1k pop,All,All,PHYDEN85,0,130,76,No
+85,Brazil,2006,1.694,Physicians density ,per 1k pop,All,All,PHYDEN86,0,130,76,No
+86,Brazil,2005,1.664,Physicians density ,per 1k pop,All,All,PHYDEN87,0,130,76,No
+87,Brazil,2004,1.616,Physicians density ,per 1k pop,All,All,PHYDEN88,0,130,76,No
+88,Brazil,2000,1.153,Physicians density ,per 1k pop,All,All,PHYDEN89,0,130,76,No
+89,Brazil,1991,0.998,Physicians density ,per 1k pop,All,All,PHYDEN90,0,130,76,No
+90,Brunei Darussalam,2011,1.498,Physicians density ,per 1k pop,All,All,PHYDEN91,0,130,96,No
+91,Brunei Darussalam,2010,1.36,Physicians density ,per 1k pop,All,All,PHYDEN92,0,130,96,No
+92,Brunei Darussalam,2008,1.417,Physicians density ,per 1k pop,All,All,PHYDEN93,0,130,96,No
+93,Brunei Darussalam,2007,1.008,Physicians density ,per 1k pop,All,All,PHYDEN94,0,130,96,No
+94,Brunei Darussalam,2002,1.143,Physicians density ,per 1k pop,All,All,PHYDEN95,0,130,96,No
+95,Brunei Darussalam,2000,1.006,Physicians density ,per 1k pop,All,All,PHYDEN96,0,130,96,No
+96,Bulgaria,2011,3.812,Physicians density ,per 1k pop,All,All,PHYDEN97,0,130,100,No
+97,Bulgaria,2010,3.76,Physicians density ,per 1k pop,All,All,PHYDEN98,0,130,100,No
+98,Burkina Faso,2010,0.047,Physicians density ,per 1k pop,All,All,PHYDEN99,0,130,854,No
+99,Burkina Faso,2008,0.064,Physicians density ,per 1k pop,All,All,PHYDEN100,0,130,854,No
+100,Burkina Faso,2006,0.028,Physicians density ,per 1k pop,All,All,PHYDEN101,0,130,854,No
+101,Burkina Faso,2004,0.053,Physicians density ,per 1k pop,All,All,PHYDEN102,0,130,854,No
+102,Burundi,2004,0.028,Physicians density ,per 1k pop,All,All,PHYDEN103,0,130,108,No
+103,Cabo Verde,2010,0.295,Physicians density ,per 1k pop,All,All,PHYDEN104,0,130,132,No
+104,Cabo Verde,2009,0.234,Physicians density ,per 1k pop,All,All,PHYDEN105,0,130,132,No
+105,Cabo Verde,2008,0.572,Physicians density ,per 1k pop,All,All,PHYDEN106,0,130,132,No
+106,Cabo Verde,2007,0.257,Physicians density ,per 1k pop,All,All,PHYDEN107,0,130,132,No
+107,Cabo Verde,2006,0.233,Physicians density ,per 1k pop,All,All,PHYDEN108,0,130,132,No
+108,Cabo Verde,2004,0.488,Physicians density ,per 1k pop,All,All,PHYDEN109,0,130,132,No
+109,Cambodia,2008,0.227,Physicians density ,per 1k pop,All,All,PHYDEN110,0,130,116,No
+110,Cambodia,2000,0.156,Physicians density ,per 1k pop,All,All,PHYDEN111,0,130,116,No
+111,Cambodia,1998,0.137,Physicians density ,per 1k pop,All,All,PHYDEN112,0,130,116,No
+112,Cambodia,1996,0.105,Physicians density ,per 1k pop,All,All,PHYDEN113,0,130,116,No
+113,Cameroon,2009,0.077,Physicians density ,per 1k pop,All,All,PHYDEN114,0,130,120,No
+114,Cameroon,2007,0.078,Physicians density ,per 1k pop,All,All,PHYDEN115,0,130,120,No
+115,Cameroon,2005,0.064,Physicians density ,per 1k pop,All,All,PHYDEN116,0,130,120,No
+116,Cameroon,2004,0.192,Physicians density ,per 1k pop,All,All,PHYDEN117,0,130,120,No
+117,Canada,2010,2.068,Physicians density ,per 1k pop,All,All,PHYDEN118,0,130,124,No
+118,Canada,2008,1.975,Physicians density ,per 1k pop,All,All,PHYDEN119,0,130,124,No
+119,Canada,2006,1.913,Physicians density ,per 1k pop,All,All,PHYDEN120,0,130,124,No
+120,Canada,2004,1.82,Physicians density ,per 1k pop,All,All,PHYDEN121,0,130,124,No
+121,Canada,2003,2.139,Physicians density ,per 1k pop,All,All,PHYDEN122,0,130,124,No
+122,Canada,2002,1.916,Physicians density ,per 1k pop,All,All,PHYDEN123,0,130,124,No
+123,Canada,2001,1.9,Physicians density ,per 1k pop,All,All,PHYDEN124,0,130,124,No
+124,Canada,1998,1.858,Physicians density ,per 1k pop,All,All,PHYDEN125,0,130,124,No
+125,Central African Republic,2009,0.048,Physicians density ,per 1k pop,All,All,PHYDEN126,0,130,140,No
+126,Central African Republic,2008,0.041,Physicians density ,per 1k pop,All,All,PHYDEN127,0,130,140,No
+127,Central African Republic,2004,0.085,Physicians density ,per 1k pop,All,All,PHYDEN128,0,130,140,No
+128,Chad,2006,0.037,Physicians density ,per 1k pop,All,All,PHYDEN129,0,130,148,No
+129,Chad,2004,0.039,Physicians density ,per 1k pop,All,All,PHYDEN130,0,130,148,No
+130,Chad,2000,0.03,Physicians density ,per 1k pop,All,All,PHYDEN131,0,130,148,No
+131,Chad,1999,0.03,Physicians density ,per 1k pop,All,All,PHYDEN132,0,130,148,No
+132,Chad,1998,0.021,Physicians density ,per 1k pop,All,All,PHYDEN133,0,130,148,No
+133,Chad,1997,0.027,Physicians density ,per 1k pop,All,All,PHYDEN134,0,130,148,No
+134,Chile,2009,1.024,Physicians density ,per 1k pop,All,All,PHYDEN135,0,130,152,No
+135,Chile,2008,1.033,Physicians density ,per 1k pop,All,All,PHYDEN136,0,130,152,No
+136,Chile,2007,1.03,Physicians density ,per 1k pop,All,All,PHYDEN137,0,130,152,No
+137,Chile,2006,1.033,Physicians density ,per 1k pop,All,All,PHYDEN138,0,130,152,No
+138,Chile,2005,0.974,Physicians density ,per 1k pop,All,All,PHYDEN139,0,130,152,No
+139,Chile,2004,0.985,Physicians density ,per 1k pop,All,All,PHYDEN140,0,130,152,No
+140,Chile,2003,0.949,Physicians density ,per 1k pop,All,All,PHYDEN141,0,130,152,No
+141,Chile,2002,0.896,Physicians density ,per 1k pop,All,All,PHYDEN142,0,130,152,No
+142,Chile,1992,1.008,Physicians density ,per 1k pop,All,All,PHYDEN143,0,130,152,No
+143,China,2010,1.456,Physicians density ,per 1k pop,All,All,PHYDEN144,0,130,156,No
+144,China,2009,1.415,Physicians density ,per 1k pop,All,All,PHYDEN145,0,130,156,No
+145,China,2003,1.42,Physicians density ,per 1k pop,All,All,PHYDEN146,0,130,156,No
+146,China,2001,1.055,Physicians density ,per 1k pop,All,All,PHYDEN147,0,130,156,No
+147,Colombia,2010,1.471,Physicians density ,per 1k pop,All,All,PHYDEN148,0,130,170,No
+148,Colombia,2009,1.452,Physicians density ,per 1k pop,All,All,PHYDEN149,0,130,170,No
+149,Colombia,2008,1.434,Physicians density ,per 1k pop,All,All,PHYDEN150,0,130,170,No
+150,Colombia,2007,1.415,Physicians density ,per 1k pop,All,All,PHYDEN151,0,130,170,No
+151,Colombia,2006,1.396,Physicians density ,per 1k pop,All,All,PHYDEN152,0,130,170,No
+152,Colombia,2005,1.377,Physicians density ,per 1k pop,All,All,PHYDEN153,0,130,170,No
+153,Colombia,2002,1.35,Physicians density ,per 1k pop,All,All,PHYDEN154,0,130,170,No
+154,Colombia,1999,1.25,Physicians density ,per 1k pop,All,All,PHYDEN155,0,130,170,No
+155,Colombia,1998,1.222,Physicians density ,per 1k pop,All,All,PHYDEN156,0,130,170,No
+156,Colombia,1997,1.192,Physicians density ,per 1k pop,All,All,PHYDEN157,0,130,170,No
+157,Colombia,1996,1.162,Physicians density ,per 1k pop,All,All,PHYDEN158,0,130,170,No
+158,Colombia,1994,1.11,Physicians density ,per 1k pop,All,All,PHYDEN159,0,130,170,No
+159,Colombia,1993,1.085,Physicians density ,per 1k pop,All,All,PHYDEN160,0,130,170,No
+160,Colombia,1992,1.046,Physicians density ,per 1k pop,All,All,PHYDEN161,0,130,170,No
+161,Colombia,1991,1.004,Physicians density ,per 1k pop,All,All,PHYDEN162,0,130,170,No
+162,Colombia,1990,0.96,Physicians density ,per 1k pop,All,All,PHYDEN163,0,130,170,No
+163,Comoros,2004,0.146,Physicians density ,per 1k pop,All,All,PHYDEN164,0,130,174,No
+164,Congo,2007,0.095,Physicians density ,per 1k pop,All,All,PHYDEN165,0,130,178,No
+165,Congo,2006,0.19,Physicians density ,per 1k pop,All,All,PHYDEN166,0,130,178,No
+166,Congo,2004,0.198,Physicians density ,per 1k pop,All,All,PHYDEN167,0,130,178,No
+167,Congo,1998,0.664,Physicians density ,per 1k pop,All,All,PHYDEN168,0,130,178,No
+168,Cook Islands,2009,1.333,Physicians density ,per 1k pop,All,All,PHYDEN169,0,130,184,No
+169,Cook Islands,2004,1.176,Physicians density ,per 1k pop,All,All,PHYDEN170,0,130,184,No
+170,Cook Islands,2001,0.778,Physicians density ,per 1k pop,All,All,PHYDEN171,0,130,184,No
+171,Costa Rica,2013,1.113,Physicians density ,per 1k pop,All,All,PHYDEN172,0,130,188,No
+172,Costa Rica,2000,1.325,Physicians density ,per 1k pop,All,All,PHYDEN173,0,130,188,No
+173,Côte dIvoire,2008,0.144,Physicians density ,per 1k pop,All,All,PHYDEN174,0,130,384,No
+174,Côte dIvoire,2005,0.094,Physicians density ,per 1k pop,All,All,PHYDEN175,0,130,384,No
+175,Côte dIvoire,2004,0.123,Physicians density ,per 1k pop,All,All,PHYDEN176,0,130,384,No
+176,Croatia,2011,2.842,Physicians density ,per 1k pop,All,All,PHYDEN177,0,130,191,No
+177,Croatia,2010,2.715,Physicians density ,per 1k pop,All,All,PHYDEN178,0,130,191,No
+178,Croatia,1999,1.813,Physicians density ,per 1k pop,All,All,PHYDEN179,0,130,191,No
+179,Croatia,1998,1.945,Physicians density ,per 1k pop,All,All,PHYDEN180,0,130,191,No
+180,Croatia,1997,2.112,Physicians density ,per 1k pop,All,All,PHYDEN181,0,130,191,No
+181,Croatia,1996,2.133,Physicians density ,per 1k pop,All,All,PHYDEN182,0,130,191,No
+182,Croatia,1995,2.041,Physicians density ,per 1k pop,All,All,PHYDEN183,0,130,191,No
+183,Croatia,1994,2.02,Physicians density ,per 1k pop,All,All,PHYDEN184,0,130,191,No
+184,Croatia,1993,2.007,Physicians density ,per 1k pop,All,All,PHYDEN185,0,130,191,No
+185,Croatia,1992,1.997,Physicians density ,per 1k pop,All,All,PHYDEN186,0,130,191,No
+186,Croatia,1991,1.934,Physicians density ,per 1k pop,All,All,PHYDEN187,0,130,191,No
+187,Croatia,1990,2.097,Physicians density ,per 1k pop,All,All,PHYDEN188,0,130,191,No
+188,Cuba,2010,6.723,Physicians density ,per 1k pop,All,All,PHYDEN189,0,130,192,No
+189,Cuba,2009,6.592,Physicians density ,per 1k pop,All,All,PHYDEN190,0,130,192,No
+190,Cuba,2008,6.574,Physicians density ,per 1k pop,All,All,PHYDEN191,0,130,192,No
+191,Cuba,2007,6.399,Physicians density ,per 1k pop,All,All,PHYDEN192,0,130,192,No
+192,Cuba,2006,6.33,Physicians density ,per 1k pop,All,All,PHYDEN193,0,130,192,No
+193,Cuba,2005,6.264,Physicians density ,per 1k pop,All,All,PHYDEN194,0,130,192,No
+194,Cuba,2004,6.154,Physicians density ,per 1k pop,All,All,PHYDEN195,0,130,192,No
+195,Cuba,2003,6.019,Physicians density ,per 1k pop,All,All,PHYDEN196,0,130,192,No
+196,Cuba,2002,5.951,Physicians density ,per 1k pop,All,All,PHYDEN197,0,130,192,No
+197,Cuba,2001,5.902,Physicians density ,per 1k pop,All,All,PHYDEN198,0,130,192,No
+198,Cuba,2000,5.892,Physicians density ,per 1k pop,All,All,PHYDEN199,0,130,192,No
+199,Cuba,1999,5.811,Physicians density ,per 1k pop,All,All,PHYDEN200,0,130,192,No
+200,Cuba,1998,5.71,Physicians density ,per 1k pop,All,All,PHYDEN201,0,130,192,No
+201,Cuba,1997,5.657,Physicians density ,per 1k pop,All,All,PHYDEN202,0,130,192,No
+202,Cuba,1996,5.457,Physicians density ,per 1k pop,All,All,PHYDEN203,0,130,192,No
+203,Cuba,1995,5.184,Physicians density ,per 1k pop,All,All,PHYDEN204,0,130,192,No
+204,Cuba,1994,4.956,Physicians density ,per 1k pop,All,All,PHYDEN205,0,130,192,No
+205,Cuba,1993,4.705,Physicians density ,per 1k pop,All,All,PHYDEN206,0,130,192,No
+206,Cuba,1992,4.345,Physicians density ,per 1k pop,All,All,PHYDEN207,0,130,192,No
+207,Cuba,1991,3.98,Physicians density ,per 1k pop,All,All,PHYDEN208,0,130,192,No
+208,Cuba,1990,3.64,Physicians density ,per 1k pop,All,All,PHYDEN209,0,130,192,No
+209,Cyprus,2011,2.286,Physicians density ,per 1k pop,All,All,PHYDEN210,0,130,196,No
+210,Cyprus,2010,2.772,Physicians density ,per 1k pop,All,All,PHYDEN211,0,130,196,No
+211,Cyprus,2009,2.653,Physicians density ,per 1k pop,All,All,PHYDEN212,0,130,196,No
+212,Cyprus,2008,2.57,Physicians density ,per 1k pop,All,All,PHYDEN213,0,130,196,No
+213,Cyprus,2007,2.509,Physicians density ,per 1k pop,All,All,PHYDEN214,0,130,196,No
+214,Cyprus,1995,2.16,Physicians density ,per 1k pop,All,All,PHYDEN215,0,130,196,No
+215,Cyprus,1990,1.761,Physicians density ,per 1k pop,All,All,PHYDEN216,0,130,196,No
+216,Czech Republic,2011,3.624,Physicians density ,per 1k pop,All,All,PHYDEN217,0,130,203,No
+217,Czech Republic,2010,3.708,Physicians density ,per 1k pop,All,All,PHYDEN218,0,130,203,No
+218,Czech Republic,2003,3.513,Physicians density ,per 1k pop,All,All,PHYDEN219,0,130,203,No
+219,Democratic Peoples Republic of Korea,2003,3.291,Physicians density ,per 1k pop,All,All,PHYDEN220,0,130,408,No
+220,Democratic Republic of the Congo,2004,0.107,Physicians density ,per 1k pop,All,All,PHYDEN221,0,130,180,No
+221,Denmark,2009,3.424,Physicians density ,per 1k pop,All,All,PHYDEN222,0,130,208,No
+222,Denmark,2008,3.408,Physicians density ,per 1k pop,All,All,PHYDEN223,0,130,208,No
+223,Denmark,2002,2.925,Physicians density ,per 1k pop,All,All,PHYDEN224,0,130,208,No
+224,Djibouti,2006,0.229,Physicians density ,per 1k pop,All,All,PHYDEN225,0,130,262,No
+225,Djibouti,2005,0.177,Physicians density ,per 1k pop,All,All,PHYDEN226,0,130,262,No
+226,Djibouti,2004,0.181,Physicians density ,per 1k pop,All,All,PHYDEN227,0,130,262,No
+227,Djibouti,1999,0.144,Physicians density ,per 1k pop,All,All,PHYDEN228,0,130,262,No
+228,Dominica,2001,1.59,Physicians density ,per 1k pop,All,All,PHYDEN229,0,130,212,No
+229,Dominica,1997,0.5,Physicians density ,per 1k pop,All,All,PHYDEN230,0,130,212,No
+230,Dominican Republic,2011,1.49,Physicians density ,per 1k pop,All,All,PHYDEN231,0,130,214,No
+231,Dominican Republic,2009,0.81,Physicians density ,per 1k pop,All,All,PHYDEN232,0,130,214,No
+232,Dominican Republic,2008,1.12,Physicians density ,per 1k pop,All,All,PHYDEN233,0,130,214,No
+233,Dominican Republic,2000,1.876,Physicians density ,per 1k pop,All,All,PHYDEN234,0,130,214,No
+234,Ecuador,2009,1.687,Physicians density ,per 1k pop,All,All,PHYDEN235,0,130,218,No
+235,Ecuador,2003,1.54,Physicians density ,per 1k pop,All,All,PHYDEN236,0,130,218,No
+236,Ecuador,2002,1.607,Physicians density ,per 1k pop,All,All,PHYDEN237,0,130,218,No
+237,Ecuador,2001,1.58,Physicians density ,per 1k pop,All,All,PHYDEN238,0,130,218,No
+238,Ecuador,2000,1.476,Physicians density ,per 1k pop,All,All,PHYDEN239,0,130,218,No
+239,Ecuador,1999,1.397,Physicians density ,per 1k pop,All,All,PHYDEN240,0,130,218,No
+240,Ecuador,1998,1.332,Physicians density ,per 1k pop,All,All,PHYDEN241,0,130,218,No
+241,Ecuador,1997,1.342,Physicians density ,per 1k pop,All,All,PHYDEN242,0,130,218,No
+242,Ecuador,1996,1.325,Physicians density ,per 1k pop,All,All,PHYDEN243,0,130,218,No
+243,Ecuador,1995,1.251,Physicians density ,per 1k pop,All,All,PHYDEN244,0,130,218,No
+244,Ecuador,1994,1.276,Physicians density ,per 1k pop,All,All,PHYDEN245,0,130,218,No
+245,Ecuador,1993,1.109,Physicians density ,per 1k pop,All,All,PHYDEN246,0,130,218,No
+246,Ecuador,1992,1.198,Physicians density ,per 1k pop,All,All,PHYDEN247,0,130,218,No
+247,Ecuador,1991,1.163,Physicians density ,per 1k pop,All,All,PHYDEN248,0,130,218,No
+248,Ecuador,1990,0.953,Physicians density ,per 1k pop,All,All,PHYDEN249,0,130,218,No
+249,Egypt,2009,2.83,Physicians density ,per 1k pop,All,All,PHYDEN250,0,130,818,No
+250,Egypt,2007,2.63,Physicians density ,per 1k pop,All,All,PHYDEN251,0,130,818,No
+251,Egypt,2005,2.43,Physicians density ,per 1k pop,All,All,PHYDEN252,0,130,818,No
+252,Egypt,2003,0.535,Physicians density ,per 1k pop,All,All,PHYDEN253,0,130,818,No
+253,El Salvador,2008,1.596,Physicians density ,per 1k pop,All,All,PHYDEN254,0,130,222,No
+254,El Salvador,2005,1.505,Physicians density ,per 1k pop,All,All,PHYDEN255,0,130,222,No
+255,El Salvador,2002,1.237,Physicians density ,per 1k pop,All,All,PHYDEN256,0,130,222,No
+256,El Salvador,1999,1.191,Physicians density ,per 1k pop,All,All,PHYDEN257,0,130,222,No
+257,Equatorial Guinea,2004,0.302,Physicians density ,per 1k pop,All,All,PHYDEN258,0,130,226,No
+258,Eritrea,2004,0.05,Physicians density ,per 1k pop,All,All,PHYDEN259,0,130,232,No
+259,Estonia,2011,3.261,Physicians density ,per 1k pop,All,All,PHYDEN260,0,130,233,No
+260,Estonia,2010,3.343,Physicians density ,per 1k pop,All,All,PHYDEN261,0,130,233,No
+261,Estonia,2000,4.475,Physicians density ,per 1k pop,All,All,PHYDEN262,0,130,233,No
+262,Ethiopia,2009,0.025,Physicians density ,per 1k pop,All,All,PHYDEN263,0,130,231,No
+263,Ethiopia,2009,0.025,Physicians density ,per 1k pop,All,All,PHYDEN263,0,130,230,No
+264,Ethiopia,2008,0.025,Physicians density ,per 1k pop,All,All,PHYDEN264,0,130,231,No
+265,Ethiopia,2008,0.025,Physicians density ,per 1k pop,All,All,PHYDEN264,0,130,230,No
+266,Ethiopia,2007,0.022,Physicians density ,per 1k pop,All,All,PHYDEN265,0,130,231,No
+267,Ethiopia,2007,0.022,Physicians density ,per 1k pop,All,All,PHYDEN265,0,130,230,No
+268,Ethiopia,2006,0.027,Physicians density ,per 1k pop,All,All,PHYDEN266,0,130,231,No
+269,Ethiopia,2006,0.027,Physicians density ,per 1k pop,All,All,PHYDEN266,0,130,230,No
+270,Ethiopia,2005,0.032,Physicians density ,per 1k pop,All,All,PHYDEN267,0,130,231,No
+271,Ethiopia,2005,0.032,Physicians density ,per 1k pop,All,All,PHYDEN267,0,130,230,No
+272,Ethiopia,2004,0.028,Physicians density ,per 1k pop,All,All,PHYDEN268,0,130,231,No
+273,Ethiopia,2004,0.028,Physicians density ,per 1k pop,All,All,PHYDEN268,0,130,230,No
+274,Ethiopia,2003,0.027,Physicians density ,per 1k pop,All,All,PHYDEN269,0,130,231,No
+275,Ethiopia,2003,0.027,Physicians density ,per 1k pop,All,All,PHYDEN269,0,130,230,No
+276,Fiji,2009,0.426,Physicians density ,per 1k pop,All,All,PHYDEN270,0,130,242,No
+277,Fiji,2008,0.389,Physicians density ,per 1k pop,All,All,PHYDEN271,0,130,242,No
+278,Fiji,2003,0.453,Physicians density ,per 1k pop,All,All,PHYDEN272,0,130,242,No
+279,Fiji,1999,0.337,Physicians density ,per 1k pop,All,All,PHYDEN273,0,130,242,No
+280,Finland,2009,2.905,Physicians density ,per 1k pop,All,All,PHYDEN274,0,130,246,No
+281,Finland,2008,2.735,Physicians density ,per 1k pop,All,All,PHYDEN275,0,130,246,No
+282,Finland,2002,3.165,Physicians density ,per 1k pop,All,All,PHYDEN276,0,130,246,No
+283,France,2012,3.18,Physicians density ,per 1k pop,All,All,PHYDEN277,0,130,250,No
+284,France,2011,3.381,Physicians density ,per 1k pop,All,All,PHYDEN278,0,130,250,No
+285,France,2007,3.736,Physicians density ,per 1k pop,All,All,PHYDEN279,0,130,250,No
+286,France,1996,3.229,Physicians density ,per 1k pop,All,All,PHYDEN280,0,130,250,No
+287,France,1991,3.077,Physicians density ,per 1k pop,All,All,PHYDEN281,0,130,250,No
+288,Gabon,2004,0.292,Physicians density ,per 1k pop,All,All,PHYDEN282,0,130,266,No
+289,Gabon,1995,0.289,Physicians density ,per 1k pop,All,All,PHYDEN283,0,130,266,No
+290,Gabon,1994,0.257,Physicians density ,per 1k pop,All,All,PHYDEN284,0,130,266,No
+291,Gabon,1993,0.215,Physicians density ,per 1k pop,All,All,PHYDEN285,0,130,266,No
+292,Gabon,1991,0.192,Physicians density ,per 1k pop,All,All,PHYDEN286,0,130,266,No
+293,Gambia,2008,0.107,Physicians density ,per 1k pop,All,All,PHYDEN287,0,130,270,No
+294,Gambia,2007,0.1,Physicians density ,per 1k pop,All,All,PHYDEN288,0,130,270,No
+295,Gambia,2006,0.112,Physicians density ,per 1k pop,All,All,PHYDEN289,0,130,270,No
+296,Gambia,2005,0.109,Physicians density ,per 1k pop,All,All,PHYDEN290,0,130,270,No
+297,Gambia,2004,0.114,Physicians density ,per 1k pop,All,All,PHYDEN291,0,130,270,No
+298,Gambia,2003,0.109,Physicians density ,per 1k pop,All,All,PHYDEN292,0,130,270,No
+299,Georgia,2012,4.236,Physicians density ,per 1k pop,All,All,PHYDEN293,0,130,268,No
+300,Georgia,2011,4.243,Physicians density ,per 1k pop,All,All,PHYDEN294,0,130,268,No
+301,Georgia,2009,4.762,Physicians density ,per 1k pop,All,All,PHYDEN295,0,130,268,No
+302,Georgia,2008,4.644,Physicians density ,per 1k pop,All,All,PHYDEN296,0,130,268,No
+303,Germany,2011,3.806,Physicians density ,per 1k pop,All,All,PHYDEN297,0,130,276,No
+304,Germany,2010,3.689,Physicians density ,per 1k pop,All,All,PHYDEN298,0,130,276,No
+305,Germany,2003,3.369,Physicians density ,per 1k pop,All,All,PHYDEN299,0,130,276,No
+306,Ghana,2010,0.096,Physicians density ,per 1k pop,All,All,PHYDEN300,0,130,288,No
+307,Ghana,2009,0.085,Physicians density ,per 1k pop,All,All,PHYDEN301,0,130,288,No
+308,Ghana,2008,0.11,Physicians density ,per 1k pop,All,All,PHYDEN302,0,130,288,No
+309,Ghana,2007,0.072,Physicians density ,per 1k pop,All,All,PHYDEN303,0,130,288,No
+310,Ghana,2004,0.152,Physicians density ,per 1k pop,All,All,PHYDEN304,0,130,288,No
+311,Greece,2001,4.38,Physicians density ,per 1k pop,All,All,PHYDEN305,0,130,300,No
+312,Grenada,2006,0.663,Physicians density ,per 1k pop,All,All,PHYDEN306,0,130,308,No
+313,Grenada,2003,0.725,Physicians density ,per 1k pop,All,All,PHYDEN307,0,130,308,No
+314,Grenada,2002,0.716,Physicians density ,per 1k pop,All,All,PHYDEN308,0,130,308,No
+315,Grenada,2001,0.716,Physicians density ,per 1k pop,All,All,PHYDEN309,0,130,308,No
+316,Grenada,2000,0.716,Physicians density ,per 1k pop,All,All,PHYDEN310,0,130,308,No
+317,Grenada,1999,0.728,Physicians density ,per 1k pop,All,All,PHYDEN311,0,130,308,No
+318,Grenada,1998,0.976,Physicians density ,per 1k pop,All,All,PHYDEN312,0,130,308,No
+319,Grenada,1997,0.5,Physicians density ,per 1k pop,All,All,PHYDEN313,0,130,308,No
+320,Guatemala,2009,0.932,Physicians density ,per 1k pop,All,All,PHYDEN314,0,130,320,No
+321,Guatemala,1999,0.896,Physicians density ,per 1k pop,All,All,PHYDEN315,0,130,320,No
+322,Guinea,2005,0.1,Physicians density ,per 1k pop,All,All,PHYDEN316,0,130,324,No
+323,Guinea,2004,0.115,Physicians density ,per 1k pop,All,All,PHYDEN317,0,130,324,No
+324,Guinea,2000,0.094,Physicians density ,per 1k pop,All,All,PHYDEN318,0,130,324,No
+325,Guinea-Bissau,2009,0.07,Physicians density ,per 1k pop,All,All,PHYDEN319,0,130,624,No
+326,Guinea-Bissau,2008,0.045,Physicians density ,per 1k pop,All,All,PHYDEN320,0,130,624,No
+327,Guinea-Bissau,2004,0.122,Physicians density ,per 1k pop,All,All,PHYDEN321,0,130,624,No
+328,Guyana,2010,0.214,Physicians density ,per 1k pop,All,All,PHYDEN322,0,130,328,No
+329,Guyana,2009,0.214,Physicians density ,per 1k pop,All,All,PHYDEN323,0,130,328,No
+330,Guyana,2000,0.482,Physicians density ,per 1k pop,All,All,PHYDEN324,0,130,328,No
+331,Haiti,1998,0.25,Physicians density ,per 1k pop,All,All,PHYDEN325,0,130,332,No
+332,Honduras,2005,0.372,Physicians density ,per 1k pop,All,All,PHYDEN326,0,130,340,No
+333,Honduras,2000,0.569,Physicians density ,per 1k pop,All,All,PHYDEN327,0,130,340,No
+334,Hungary,2011,2.96,Physicians density ,per 1k pop,All,All,PHYDEN328,0,130,348,No
+335,Hungary,2010,3.408,Physicians density ,per 1k pop,All,All,PHYDEN329,0,130,348,No
+336,Hungary,2009,3.523,Physicians density ,per 1k pop,All,All,PHYDEN330,0,130,348,No
+337,Hungary,2008,3.602,Physicians density ,per 1k pop,All,All,PHYDEN331,0,130,348,No
+338,Hungary,2007,3.206,Physicians density ,per 1k pop,All,All,PHYDEN332,0,130,348,No
+339,Hungary,2006,3.502,Physicians density ,per 1k pop,All,All,PHYDEN333,0,130,348,No
+340,Hungary,2005,3.225,Physicians density ,per 1k pop,All,All,PHYDEN334,0,130,348,No
+341,Hungary,2004,3.955,Physicians density ,per 1k pop,All,All,PHYDEN335,0,130,348,No
+342,Hungary,2003,3.872,Physicians density ,per 1k pop,All,All,PHYDEN336,0,130,348,No
+343,Hungary,2002,3.758,Physicians density ,per 1k pop,All,All,PHYDEN337,0,130,348,No
+344,Hungary,1999,3.618,Physicians density ,per 1k pop,All,All,PHYDEN338,0,130,348,No
+345,Hungary,1998,3.579,Physicians density ,per 1k pop,All,All,PHYDEN339,0,130,348,No
+346,Hungary,1997,3.499,Physicians density ,per 1k pop,All,All,PHYDEN340,0,130,348,No
+347,Hungary,1996,3.441,Physicians density ,per 1k pop,All,All,PHYDEN341,0,130,348,No
+348,Hungary,1995,3.391,Physicians density ,per 1k pop,All,All,PHYDEN342,0,130,348,No
+349,Hungary,1994,3.379,Physicians density ,per 1k pop,All,All,PHYDEN343,0,130,348,No
+350,Hungary,1993,3.318,Physicians density ,per 1k pop,All,All,PHYDEN344,0,130,348,No
+351,Hungary,1992,3.354,Physicians density ,per 1k pop,All,All,PHYDEN345,0,130,348,No
+352,Hungary,1991,3.277,Physicians density ,per 1k pop,All,All,PHYDEN346,0,130,348,No
+353,Hungary,1990,3.173,Physicians density ,per 1k pop,All,All,PHYDEN347,0,130,348,No
+354,Iceland,2012,3.476,Physicians density ,per 1k pop,All,All,PHYDEN348,0,130,352,No
+355,Iceland,2011,3.456,Physicians density ,per 1k pop,All,All,PHYDEN349,0,130,352,No
+356,Iceland,2010,3.733,Physicians density ,per 1k pop,All,All,PHYDEN350,0,130,352,No
+357,Iceland,2009,3.826,Physicians density ,per 1k pop,All,All,PHYDEN351,0,130,352,No
+358,Iceland,2008,3.834,Physicians density ,per 1k pop,All,All,PHYDEN352,0,130,352,No
+359,Iceland,2007,3.757,Physicians density ,per 1k pop,All,All,PHYDEN353,0,130,352,No
+360,Iceland,2006,3.68,Physicians density ,per 1k pop,All,All,PHYDEN354,0,130,352,No
+361,Iceland,2005,3.627,Physicians density ,per 1k pop,All,All,PHYDEN355,0,130,352,No
+362,Iceland,2004,3.616,Physicians density ,per 1k pop,All,All,PHYDEN356,0,130,352,No
+363,Iceland,2003,3.61,Physicians density ,per 1k pop,All,All,PHYDEN357,0,130,352,No
+364,Iceland,2002,3.585,Physicians density ,per 1k pop,All,All,PHYDEN358,0,130,352,No
+365,Iceland,2001,3.474,Physicians density ,per 1k pop,All,All,PHYDEN359,0,130,352,No
+366,Iceland,2000,3.433,Physicians density ,per 1k pop,All,All,PHYDEN360,0,130,352,No
+367,India,2012,0.702,Physicians density ,per 1k pop,All,All,PHYDEN361,0,130,356,No
+368,India,2011,0.743,Physicians density ,per 1k pop,All,All,PHYDEN362,0,130,356,No
+369,India,2010,0.69,Physicians density ,per 1k pop,All,All,PHYDEN363,0,130,356,No
+370,India,2009,0.649,Physicians density ,per 1k pop,All,All,PHYDEN364,0,130,356,No
+371,India,2008,0.64,Physicians density ,per 1k pop,All,All,PHYDEN365,0,130,356,No
+372,India,2007,0.623,Physicians density ,per 1k pop,All,All,PHYDEN366,0,130,356,No
+373,India,2006,0.609,Physicians density ,per 1k pop,All,All,PHYDEN367,0,130,356,No
+374,India,2005,0.599,Physicians density ,per 1k pop,All,All,PHYDEN368,0,130,356,No
+375,India,2004,0.597,Physicians density ,per 1k pop,All,All,PHYDEN369,0,130,356,No
+376,India,2003,0.587,Physicians density ,per 1k pop,All,All,PHYDEN370,0,130,356,No
+377,India,2002,0.578,Physicians density ,per 1k pop,All,All,PHYDEN371,0,130,356,No
+378,India,2001,0.558,Physicians density ,per 1k pop,All,All,PHYDEN372,0,130,356,No
+379,India,2000,0.546,Physicians density ,per 1k pop,All,All,PHYDEN373,0,130,356,No
+380,India,1991,1.26,Physicians density ,per 1k pop,All,All,PHYDEN374,0,130,356,No
+381,Indonesia,2012,0.204,Physicians density ,per 1k pop,All,All,PHYDEN375,0,130,360,No
+382,Indonesia,2010,0.143,Physicians density ,per 1k pop,All,All,PHYDEN376,0,130,360,No
+383,Indonesia,2009,0.148,Physicians density ,per 1k pop,All,All,PHYDEN377,0,130,360,No
+384,Indonesia,2003,0.134,Physicians density ,per 1k pop,All,All,PHYDEN378,0,130,360,No
+385,Indonesia,1993,0.058,Physicians density ,per 1k pop,All,All,PHYDEN379,0,130,360,No
+386,Iran (Islamic Republic of),2005,0.89,Physicians density ,per 1k pop,All,All,PHYDEN380,0,130,364,No
+387,Iran (Islamic Republic of),2004,0.871,Physicians density ,per 1k pop,All,All,PHYDEN381,0,130,364,No
+388,Iraq,2010,0.607,Physicians density ,per 1k pop,All,All,PHYDEN382,0,130,368,No
+389,Ireland,2012,2.719,Physicians density ,per 1k pop,All,All,PHYDEN383,0,130,372,No
+390,Ireland,2011,2.699,Physicians density ,per 1k pop,All,All,PHYDEN384,0,130,372,No
+391,Ireland,2004,2.786,Physicians density ,per 1k pop,All,All,PHYDEN385,0,130,372,No
+392,Israel,2011,3.346,Physicians density ,per 1k pop,All,All,PHYDEN386,0,130,376,No
+393,Israel,1995,4.842,Physicians density ,per 1k pop,All,All,PHYDEN387,0,130,376,No
+394,Italy,2011,4.092,Physicians density ,per 1k pop,All,All,PHYDEN388,0,130,380,No
+395,Italy,2004,4.203,Physicians density ,per 1k pop,All,All,PHYDEN389,0,130,380,No
+396,Jamaica,2008,0.411,Physicians density ,per 1k pop,All,All,PHYDEN390,0,130,388,No
+397,Jamaica,2003,0.85,Physicians density ,per 1k pop,All,All,PHYDEN391,0,130,388,No
+398,Japan,2010,2.297,Physicians density ,per 1k pop,All,All,PHYDEN392,0,130,392,No
+399,Japan,2010,2.297,Physicians density ,per 1k pop,All,All,PHYDEN392,0,130,392,No
+400,Japan,2008,2.233,Physicians density ,per 1k pop,All,All,PHYDEN393,0,130,392,No
+401,Japan,2008,2.233,Physicians density ,per 1k pop,All,All,PHYDEN393,0,130,392,No
+402,Japan,2006,2.168,Physicians density ,per 1k pop,All,All,PHYDEN394,0,130,392,No
+403,Japan,2006,2.168,Physicians density ,per 1k pop,All,All,PHYDEN394,0,130,392,No
+404,Japan,2004,2.116,Physicians density ,per 1k pop,All,All,PHYDEN395,0,130,392,No
+405,Japan,2004,2.116,Physicians density ,per 1k pop,All,All,PHYDEN395,0,130,392,No
+406,Japan,2002,2.061,Physicians density ,per 1k pop,All,All,PHYDEN396,0,130,392,No
+407,Japan,2002,2.061,Physicians density ,per 1k pop,All,All,PHYDEN396,0,130,392,No
+408,Japan,2000,2.014,Physicians density ,per 1k pop,All,All,PHYDEN397,0,130,392,No
+409,Japan,2000,2.014,Physicians density ,per 1k pop,All,All,PHYDEN397,0,130,392,No
+410,Japan,1998,1.966,Physicians density ,per 1k pop,All,All,PHYDEN398,0,130,392,No
+411,Japan,1998,1.966,Physicians density ,per 1k pop,All,All,PHYDEN398,0,130,392,No
+412,Japan,1996,1.915,Physicians density ,per 1k pop,All,All,PHYDEN399,0,130,392,No
+413,Japan,1996,1.915,Physicians density ,per 1k pop,All,All,PHYDEN399,0,130,392,No
+414,Japan,1994,1.842,Physicians density ,per 1k pop,All,All,PHYDEN400,0,130,392,No
+415,Japan,1994,1.842,Physicians density ,per 1k pop,All,All,PHYDEN400,0,130,392,No
+416,Japan,1992,1.766,Physicians density ,per 1k pop,All,All,PHYDEN401,0,130,392,No
+417,Japan,1992,1.766,Physicians density ,per 1k pop,All,All,PHYDEN401,0,130,392,No
+418,Japan,1990,1.714,Physicians density ,per 1k pop,All,All,PHYDEN402,0,130,392,No
+419,Japan,1990,1.714,Physicians density ,per 1k pop,All,All,PHYDEN402,0,130,392,No
+420,Jordan,2010,2.558,Physicians density ,per 1k pop,All,All,PHYDEN403,0,130,400,No
+421,Jordan,2009,2.361,Physicians density ,per 1k pop,All,All,PHYDEN404,0,130,400,No
+422,Jordan,2008,2.393,Physicians density ,per 1k pop,All,All,PHYDEN405,0,130,400,No
+423,Jordan,2007,2.561,Physicians density ,per 1k pop,All,All,PHYDEN406,0,130,400,No
+424,Jordan,2006,2.352,Physicians density ,per 1k pop,All,All,PHYDEN407,0,130,400,No
+425,Jordan,2005,2.264,Physicians density ,per 1k pop,All,All,PHYDEN408,0,130,400,No
+426,Jordan,2004,2.03,Physicians density ,per 1k pop,All,All,PHYDEN409,0,130,400,No
+427,Jordan,2003,2.261,Physicians density ,per 1k pop,All,All,PHYDEN410,0,130,400,No
+428,Jordan,2002,2.198,Physicians density ,per 1k pop,All,All,PHYDEN411,0,130,400,No
+429,Jordan,2001,2.05,Physicians density ,per 1k pop,All,All,PHYDEN412,0,130,400,No
+430,Jordan,2000,1.902,Physicians density ,per 1k pop,All,All,PHYDEN413,0,130,400,No
+431,Jordan,1999,1.981,Physicians density ,per 1k pop,All,All,PHYDEN414,0,130,400,No
+432,Jordan,1998,1.031,Physicians density ,per 1k pop,All,All,PHYDEN415,0,130,400,No
+433,Kazakhstan,2012,3.583,Physicians density ,per 1k pop,All,All,PHYDEN416,0,130,398,No
+434,Kazakhstan,2011,3.84,Physicians density ,per 1k pop,All,All,PHYDEN417,0,130,398,No
+435,Kazakhstan,2010,4.314,Physicians density ,per 1k pop,All,All,PHYDEN418,0,130,398,No
+436,Kazakhstan,2009,4.099,Physicians density ,per 1k pop,All,All,PHYDEN419,0,130,398,No
+437,Kazakhstan,2008,3.984,Physicians density ,per 1k pop,All,All,PHYDEN420,0,130,398,No
+438,Kazakhstan,2007,4.011,Physicians density ,per 1k pop,All,All,PHYDEN421,0,130,398,No
+439,Kazakhstan,2006,3.883,Physicians density ,per 1k pop,All,All,PHYDEN422,0,130,398,No
+440,Kazakhstan,2005,3.744,Physicians density ,per 1k pop,All,All,PHYDEN423,0,130,398,No
+441,Kazakhstan,2004,3.555,Physicians density ,per 1k pop,All,All,PHYDEN424,0,130,398,No
+442,Kazakhstan,2003,3.539,Physicians density ,per 1k pop,All,All,PHYDEN425,0,130,398,No
+443,Kenya,2011,0.181,Physicians density ,per 1k pop,All,All,PHYDEN426,0,130,404,No
+444,Kenya,2010,0.183,Physicians density ,per 1k pop,All,All,PHYDEN427,0,130,404,No
+445,Kenya,2009,0.182,Physicians density ,per 1k pop,All,All,PHYDEN428,0,130,404,No
+446,Kenya,2008,0.179,Physicians density ,per 1k pop,All,All,PHYDEN429,0,130,404,No
+447,Kenya,2004,0.037,Physicians density ,per 1k pop,All,All,PHYDEN430,0,130,404,No
+448,Kenya,2002,0.143,Physicians density ,per 1k pop,All,All,PHYDEN431,0,130,404,No
+449,Kiribati,2010,0.376,Physicians density ,per 1k pop,All,All,PHYDEN432,0,130,296,No
+450,Kiribati,2009,0.327,Physicians density ,per 1k pop,All,All,PHYDEN433,0,130,296,No
+451,Kiribati,2008,0.238,Physicians density ,per 1k pop,All,All,PHYDEN434,0,130,296,No
+452,Kiribati,2006,0.297,Physicians density ,per 1k pop,All,All,PHYDEN435,0,130,296,No
+453,Kiribati,2004,0.233,Physicians density ,per 1k pop,All,All,PHYDEN436,0,130,296,No
+454,Kiribati,1998,0.296,Physicians density ,per 1k pop,All,All,PHYDEN437,0,130,296,No
+455,Kuwait,2009,1.793,Physicians density ,per 1k pop,All,All,PHYDEN438,0,130,414,No
+456,Kuwait,2008,1.716,Physicians density ,per 1k pop,All,All,PHYDEN439,0,130,414,No
+457,Kuwait,2007,1.659,Physicians density ,per 1k pop,All,All,PHYDEN440,0,130,414,No
+458,Kuwait,2006,1.248,Physicians density ,per 1k pop,All,All,PHYDEN441,0,130,414,No
+459,Kuwait,2001,1.525,Physicians density ,per 1k pop,All,All,PHYDEN442,0,130,414,No
+460,Kyrgyzstan,2012,1.964,Physicians density ,per 1k pop,All,All,PHYDEN443,0,130,417,No
+461,Kyrgyzstan,2011,2.469,Physicians density ,per 1k pop,All,All,PHYDEN444,0,130,417,No
+462,Kyrgyzstan,2010,2.398,Physicians density ,per 1k pop,All,All,PHYDEN445,0,130,417,No
+463,Kyrgyzstan,2009,2.385,Physicians density ,per 1k pop,All,All,PHYDEN446,0,130,417,No
+464,Kyrgyzstan,2008,2.398,Physicians density ,per 1k pop,All,All,PHYDEN447,0,130,417,No
+465,Lao Peoples Democratic Republic,2012,0.182,Physicians density ,per 1k pop,All,All,PHYDEN448,0,130,418,No
+466,Lao Peoples Democratic Republic,2009,0.187,Physicians density ,per 1k pop,All,All,PHYDEN449,0,130,418,No
+467,Lao Peoples Democratic Republic,2005,0.272,Physicians density ,per 1k pop,All,All,PHYDEN450,0,130,418,No
+468,Lao Peoples Democratic Republic,2004,0.346,Physicians density ,per 1k pop,All,All,PHYDEN451,0,130,418,No
+469,Lao Peoples Democratic Republic,2000,0.287,Physicians density ,per 1k pop,All,All,PHYDEN452,0,130,418,No
+470,Lao Peoples Democratic Republic,1995,0.353,Physicians density ,per 1k pop,All,All,PHYDEN453,0,130,418,No
+471,Latvia,2011,2.878,Physicians density ,per 1k pop,All,All,PHYDEN454,0,130,428,No
+472,Latvia,2010,2.899,Physicians density ,per 1k pop,All,All,PHYDEN455,0,130,428,No
+473,Lebanon,2011,3.2,Physicians density ,per 1k pop,All,All,PHYDEN456,0,130,422,No
+474,Lebanon,2010,3.07,Physicians density ,per 1k pop,All,All,PHYDEN457,0,130,422,No
+475,Lebanon,2009,3.54,Physicians density ,per 1k pop,All,All,PHYDEN458,0,130,422,No
+476,Lebanon,2007,3.062,Physicians density ,per 1k pop,All,All,PHYDEN459,0,130,422,No
+477,Lebanon,2006,3.254,Physicians density ,per 1k pop,All,All,PHYDEN460,0,130,422,No
+478,Lebanon,2005,2.36,Physicians density ,per 1k pop,All,All,PHYDEN461,0,130,422,No
+479,Lebanon,2001,3.253,Physicians density ,per 1k pop,All,All,PHYDEN462,0,130,422,No
+480,Lesotho,2003,0.049,Physicians density ,per 1k pop,All,All,PHYDEN463,0,130,426,No
+481,Liberia,2008,0.014,Physicians density ,per 1k pop,All,All,PHYDEN464,0,130,430,No
+482,Liberia,2004,0.03,Physicians density ,per 1k pop,All,All,PHYDEN465,0,130,430,No
+483,Libya,2009,1.9,Physicians density ,per 1k pop,All,All,PHYDEN466,0,130,434,No
+484,Libya,2008,1.8,Physicians density ,per 1k pop,All,All,PHYDEN467,0,130,434,No
+485,Libya,2004,1.249,Physicians density ,per 1k pop,All,All,PHYDEN468,0,130,434,No
+486,Libya,1997,1.29,Physicians density ,per 1k pop,All,All,PHYDEN469,0,130,434,No
+487,Lithuania,2012,4.116,Physicians density ,per 1k pop,All,All,PHYDEN470,0,130,440,No
+488,Lithuania,2011,3.751,Physicians density ,per 1k pop,All,All,PHYDEN471,0,130,440,No
+489,Lithuania,2010,3.641,Physicians density ,per 1k pop,All,All,PHYDEN472,0,130,440,No
+490,Lithuania,1999,4.151,Physicians density ,per 1k pop,All,All,PHYDEN473,0,130,440,No
+491,Lithuania,1998,4.155,Physicians density ,per 1k pop,All,All,PHYDEN474,0,130,440,No
+492,Lithuania,1997,4.185,Physicians density ,per 1k pop,All,All,PHYDEN475,0,130,440,No
+493,Lithuania,1996,4.17,Physicians density ,per 1k pop,All,All,PHYDEN476,0,130,440,No
+494,Lithuania,1995,4.136,Physicians density ,per 1k pop,All,All,PHYDEN477,0,130,440,No
+495,Luxembourg,2012,2.824,Physicians density ,per 1k pop,All,All,PHYDEN478,0,130,442,No
+496,Luxembourg,2011,2.77,Physicians density ,per 1k pop,All,All,PHYDEN479,0,130,442,No
+497,Madagascar,2007,0.161,Physicians density ,per 1k pop,All,All,PHYDEN480,0,130,450,No
+498,Madagascar,2004,0.291,Physicians density ,per 1k pop,All,All,PHYDEN481,0,130,450,No
+499,Malawi,2009,0.019,Physicians density ,per 1k pop,All,All,PHYDEN482,0,130,454,No
+500,Malawi,2008,0.019,Physicians density ,per 1k pop,All,All,PHYDEN483,0,130,454,No
+501,Malawi,2004,0.022,Physicians density ,per 1k pop,All,All,PHYDEN484,0,130,454,No
+502,Malaysia,2010,1.198,Physicians density ,per 1k pop,All,All,PHYDEN485,0,130,458,No
+503,Malaysia,2008,0.941,Physicians density ,per 1k pop,All,All,PHYDEN486,0,130,458,No
+504,Malaysia,2002,0.71,Physicians density ,per 1k pop,All,All,PHYDEN487,0,130,458,No
+505,Malaysia,2000,0.702,Physicians density ,per 1k pop,All,All,PHYDEN488,0,130,458,No
+506,Maldives,2010,1.415,Physicians density ,per 1k pop,All,All,PHYDEN489,0,130,462,No
+507,Maldives,2009,1.449,Physicians density ,per 1k pop,All,All,PHYDEN490,0,130,462,No
+508,Maldives,2007,1.595,Physicians density ,per 1k pop,All,All,PHYDEN491,0,130,462,No
+509,Maldives,2004,0.921,Physicians density ,per 1k pop,All,All,PHYDEN492,0,130,462,No
+510,Maldives,1996,0.671,Physicians density ,per 1k pop,All,All,PHYDEN493,0,130,462,No
+511,Maldives,1993,0.292,Physicians density ,per 1k pop,All,All,PHYDEN494,0,130,462,No
+512,Maldives,1991,0.198,Physicians density ,per 1k pop,All,All,PHYDEN495,0,130,462,No
+513,Mali,2010,0.083,Physicians density ,per 1k pop,All,All,PHYDEN496,0,130,466,No
+514,Mali,2009,0.074,Physicians density ,per 1k pop,All,All,PHYDEN497,0,130,466,No
+515,Mali,2008,0.049,Physicians density ,per 1k pop,All,All,PHYDEN498,0,130,466,No
+516,Mali,2007,0.074,Physicians density ,per 1k pop,All,All,PHYDEN499,0,130,466,No
+517,Mali,2004,0.079,Physicians density ,per 1k pop,All,All,PHYDEN500,0,130,466,No
+518,Malta,2012,3.495,Physicians density ,per 1k pop,All,All,PHYDEN501,0,130,470,No
+519,Malta,2011,3.226,Physicians density ,per 1k pop,All,All,PHYDEN502,0,130,470,No
+520,Marshall Islands,2010,0.438,Physicians density ,per 1k pop,All,All,PHYDEN503,0,130,584,No
+521,Marshall Islands,2008,0.456,Physicians density ,per 1k pop,All,All,PHYDEN504,0,130,584,No
+522,Marshall Islands,2000,0.471,Physicians density ,per 1k pop,All,All,PHYDEN505,0,130,584,No
+523,Mauritania,2009,0.13,Physicians density ,per 1k pop,All,All,PHYDEN506,0,130,478,No
+524,Mauritania,2004,0.105,Physicians density ,per 1k pop,All,All,PHYDEN507,0,130,478,No
+525,Mauritius,2004,1.057,Physicians density ,per 1k pop,All,All,PHYDEN508,0,130,480,No
+526,Mexico,2011,2.095,Physicians density ,per 1k pop,All,All,PHYDEN509,0,130,484,No
+527,Mexico,2010,1.991,Physicians density ,per 1k pop,All,All,PHYDEN510,0,130,484,No
+528,Mexico,2009,1.959,Physicians density ,per 1k pop,All,All,PHYDEN511,0,130,484,No
+529,Mexico,2008,1.925,Physicians density ,per 1k pop,All,All,PHYDEN512,0,130,484,No
+530,Mexico,2007,1.888,Physicians density ,per 1k pop,All,All,PHYDEN513,0,130,484,No
+531,Mexico,2006,1.864,Physicians density ,per 1k pop,All,All,PHYDEN514,0,130,484,No
+532,Mexico,2005,1.749,Physicians density ,per 1k pop,All,All,PHYDEN515,0,130,484,No
+533,Mexico,2004,2.893,Physicians density ,per 1k pop,All,All,PHYDEN516,0,130,484,No
+534,Mexico,2000,1.98,Physicians density ,per 1k pop,All,All,PHYDEN517,0,130,484,No
+535,Micronesia (Federated States of),2009,0.177,Physicians density ,per 1k pop,All,All,PHYDEN518,0,130,583,No
+536,Micronesia (Federated States of),2008,0.566,Physicians density ,per 1k pop,All,All,PHYDEN519,0,130,583,No
+537,Micronesia (Federated States of),2005,0.564,Physicians density ,per 1k pop,All,All,PHYDEN520,0,130,583,No
+538,Micronesia (Federated States of),2003,0.55,Physicians density ,per 1k pop,All,All,PHYDEN521,0,130,583,No
+539,Micronesia (Federated States of),2000,0.598,Physicians density ,per 1k pop,All,All,PHYDEN522,0,130,583,No
+540,Monaco,2012,7.167,Physicians density ,per 1k pop,All,All,PHYDEN523,0,130,492,No
+541,Monaco,2011,7.056,Physicians density ,per 1k pop,All,All,PHYDEN524,0,130,492,No
+542,Mongolia,2008,2.763,Physicians density ,per 1k pop,All,All,PHYDEN525,0,130,496,No
+543,Mongolia,2002,2.631,Physicians density ,per 1k pop,All,All,PHYDEN526,0,130,496,No
+544,Montenegro,2011,1.979,Physicians density ,per 1k pop,All,All,PHYDEN527,0,130,499,No
+545,Montenegro,2010,2.026,Physicians density ,per 1k pop,All,All,PHYDEN528,0,130,499,No
+546,Morocco,2009,0.62,Physicians density ,per 1k pop,All,All,PHYDEN529,0,130,504,No
+547,Morocco,2007,0.564,Physicians density ,per 1k pop,All,All,PHYDEN530,0,130,504,No
+548,Morocco,2004,0.515,Physicians density ,per 1k pop,All,All,PHYDEN531,0,130,504,No
+549,Mozambique,2012,0.04,Physicians density ,per 1k pop,All,All,PHYDEN532,0,130,508,No
+550,Mozambique,2011,0.038,Physicians density ,per 1k pop,All,All,PHYDEN533,0,130,508,No
+551,Mozambique,2010,0.038,Physicians density ,per 1k pop,All,All,PHYDEN534,0,130,508,No
+552,Mozambique,2008,0.026,Physicians density ,per 1k pop,All,All,PHYDEN535,0,130,508,No
+553,Mozambique,2006,0.027,Physicians density ,per 1k pop,All,All,PHYDEN536,0,130,508,No
+554,Mozambique,2004,0.027,Physicians density ,per 1k pop,All,All,PHYDEN537,0,130,508,No
+555,Myanmar,2012,0.612,Physicians density ,per 1k pop,All,All,PHYDEN538,0,130,104,No
+556,Myanmar,2011,0.581,Physicians density ,per 1k pop,All,All,PHYDEN539,0,130,104,No
+557,Myanmar,2010,0.501,Physicians density ,per 1k pop,All,All,PHYDEN540,0,130,104,No
+558,Myanmar,2009,0.469,Physicians density ,per 1k pop,All,All,PHYDEN541,0,130,104,No
+559,Myanmar,2008,0.457,Physicians density ,per 1k pop,All,All,PHYDEN542,0,130,104,No
+560,Myanmar,2007,0.423,Physicians density ,per 1k pop,All,All,PHYDEN543,0,130,104,No
+561,Myanmar,2006,0.402,Physicians density ,per 1k pop,All,All,PHYDEN544,0,130,104,No
+562,Myanmar,2005,0.368,Physicians density ,per 1k pop,All,All,PHYDEN545,0,130,104,No
+563,Myanmar,2004,0.355,Physicians density ,per 1k pop,All,All,PHYDEN546,0,130,104,No
+564,Namibia,2007,0.374,Physicians density ,per 1k pop,All,All,PHYDEN547,0,130,516,No
+565,Namibia,2004,0.297,Physicians density ,per 1k pop,All,All,PHYDEN548,0,130,516,No
+566,Nauru,2010,0.714,Physicians density ,per 1k pop,All,All,PHYDEN549,0,130,520,No
+567,Nauru,2009,0.714,Physicians density ,per 1k pop,All,All,PHYDEN550,0,130,520,No
+568,Nauru,2008,0.714,Physicians density ,per 1k pop,All,All,PHYDEN551,0,130,520,No
+569,Nauru,2004,0.769,Physicians density ,per 1k pop,All,All,PHYDEN552,0,130,520,No
+570,Nauru,1995,1.455,Physicians density ,per 1k pop,All,All,PHYDEN553,0,130,520,No
+571,Nepal,2004,0.209,Physicians density ,per 1k pop,All,All,PHYDEN554,0,130,524,No
+572,Netherlands,2003,3.149,Physicians density ,per 1k pop,All,All,PHYDEN555,0,130,528,No
+573,New Zealand,2010,2.735,Physicians density ,per 1k pop,All,All,PHYDEN556,0,130,554,No
+574,New Zealand,2010,2.735,Physicians density ,per 1k pop,All,All,PHYDEN556,0,130,554,No
+575,New Zealand,2009,2.679,Physicians density ,per 1k pop,All,All,PHYDEN557,0,130,554,No
+576,New Zealand,2009,2.679,Physicians density ,per 1k pop,All,All,PHYDEN557,0,130,554,No
+577,New Zealand,2008,2.547,Physicians density ,per 1k pop,All,All,PHYDEN558,0,130,554,No
+578,New Zealand,2008,2.547,Physicians density ,per 1k pop,All,All,PHYDEN558,0,130,554,No
+579,New Zealand,2007,2.384,Physicians density ,per 1k pop,All,All,PHYDEN559,0,130,554,No
+580,New Zealand,2007,2.384,Physicians density ,per 1k pop,All,All,PHYDEN559,0,130,554,No
+581,New Zealand,2002,2.129,Physicians density ,per 1k pop,All,All,PHYDEN560,0,130,554,No
+582,New Zealand,2002,2.129,Physicians density ,per 1k pop,All,All,PHYDEN560,0,130,554,No
+583,New Zealand,2001,2.366,Physicians density ,per 1k pop,All,All,PHYDEN561,0,130,554,No
+584,New Zealand,2001,2.366,Physicians density ,per 1k pop,All,All,PHYDEN561,0,130,554,No
+585,Nicaragua,2003,0.374,Physicians density ,per 1k pop,All,All,PHYDEN562,0,130,558,No
+586,Niger,2008,0.019,Physicians density ,per 1k pop,All,All,PHYDEN563,0,130,562,No
+587,Niger,2004,0.024,Physicians density ,per 1k pop,All,All,PHYDEN564,0,130,562,No
+588,Nigeria,2009,0.408,Physicians density ,per 1k pop,All,All,PHYDEN565,0,130,566,No
+589,Nigeria,2008,0.403,Physicians density ,per 1k pop,All,All,PHYDEN566,0,130,566,No
+590,Nigeria,2007,0.403,Physicians density ,per 1k pop,All,All,PHYDEN567,0,130,566,No
+591,Nigeria,2006,0.369,Physicians density ,per 1k pop,All,All,PHYDEN568,0,130,566,No
+592,Nigeria,2005,0.298,Physicians density ,per 1k pop,All,All,PHYDEN569,0,130,566,No
+593,Nigeria,2003,0.282,Physicians density ,per 1k pop,All,All,PHYDEN570,0,130,566,No
+594,Niue,2008,3.0,Physicians density ,per 1k pop,All,All,PHYDEN571,0,130,570,No
+595,Niue,2006,4.0,Physicians density ,per 1k pop,All,All,PHYDEN572,0,130,570,No
+596,Niue,2004,2.0,Physicians density ,per 1k pop,All,All,PHYDEN573,0,130,570,No
+597,Niue,1996,1.5,Physicians density ,per 1k pop,All,All,PHYDEN574,0,130,570,No
+598,Norway,2011,3.739,Physicians density ,per 1k pop,All,All,PHYDEN575,0,130,578,No
+599,Norway,2009,4.159,Physicians density ,per 1k pop,All,All,PHYDEN576,0,130,578,No
+600,Oman,2011,2.223,Physicians density ,per 1k pop,All,All,PHYDEN577,0,130,512,No
+601,Oman,2010,2.048,Physicians density ,per 1k pop,All,All,PHYDEN578,0,130,512,No
+602,Oman,2009,1.988,Physicians density ,per 1k pop,All,All,PHYDEN579,0,130,512,No
+603,Oman,2008,1.901,Physicians density ,per 1k pop,All,All,PHYDEN580,0,130,512,No
+604,Oman,2007,1.84,Physicians density ,per 1k pop,All,All,PHYDEN581,0,130,512,No
+605,Oman,2006,1.753,Physicians density ,per 1k pop,All,All,PHYDEN582,0,130,512,No
+606,Oman,2005,1.629,Physicians density ,per 1k pop,All,All,PHYDEN583,0,130,512,No
+607,Oman,2004,1.319,Physicians density ,per 1k pop,All,All,PHYDEN584,0,130,512,No
+608,Oman,2000,1.249,Physicians density ,per 1k pop,All,All,PHYDEN585,0,130,512,No
+609,Oman,1999,0.858,Physicians density ,per 1k pop,All,All,PHYDEN586,0,130,512,No
+610,Oman,1998,0.853,Physicians density ,per 1k pop,All,All,PHYDEN587,0,130,512,No
+611,Oman,1997,0.804,Physicians density ,per 1k pop,All,All,PHYDEN588,0,130,512,No
+612,Oman,1995,1.106,Physicians density ,per 1k pop,All,All,PHYDEN589,0,130,512,No
+613,Oman,1990,0.781,Physicians density ,per 1k pop,All,All,PHYDEN590,0,130,512,No
+614,Pakistan,2010,0.827,Physicians density ,per 1k pop,All,All,PHYDEN591,0,130,586,No
+615,Pakistan,2009,0.813,Physicians density ,per 1k pop,All,All,PHYDEN592,0,130,586,No
+616,Pakistan,2008,0.797,Physicians density ,per 1k pop,All,All,PHYDEN593,0,130,586,No
+617,Pakistan,2007,0.777,Physicians density ,per 1k pop,All,All,PHYDEN594,0,130,586,No
+618,Pakistan,2005,0.8,Physicians density ,per 1k pop,All,All,PHYDEN595,0,130,586,No
+619,Pakistan,2004,0.739,Physicians density ,per 1k pop,All,All,PHYDEN596,0,130,586,No
+620,Pakistan,2001,0.658,Physicians density ,per 1k pop,All,All,PHYDEN597,0,130,586,No
+621,Pakistan,2000,0.644,Physicians density ,per 1k pop,All,All,PHYDEN598,0,130,586,No
+622,Pakistan,1999,0.627,Physicians density ,per 1k pop,All,All,PHYDEN599,0,130,586,No
+623,Pakistan,1998,0.611,Physicians density ,per 1k pop,All,All,PHYDEN600,0,130,586,No
+624,Pakistan,1997,0.595,Physicians density ,per 1k pop,All,All,PHYDEN601,0,130,586,No
+625,Pakistan,1996,0.578,Physicians density ,per 1k pop,All,All,PHYDEN602,0,130,586,No
+626,Pakistan,1995,0.557,Physicians density ,per 1k pop,All,All,PHYDEN603,0,130,586,No
+627,Pakistan,1994,0.542,Physicians density ,per 1k pop,All,All,PHYDEN604,0,130,586,No
+628,Pakistan,1993,0.528,Physicians density ,per 1k pop,All,All,PHYDEN605,0,130,586,No
+629,Pakistan,1992,0.515,Physicians density ,per 1k pop,All,All,PHYDEN606,0,130,586,No
+630,Palau,2010,1.381,Physicians density ,per 1k pop,All,All,PHYDEN607,0,130,585,No
+631,Palau,2009,1.45,Physicians density ,per 1k pop,All,All,PHYDEN608,0,130,585,No
+632,Palau,2006,1.3,Physicians density ,per 1k pop,All,All,PHYDEN609,0,130,585,No
+633,Palau,2000,1.579,Physicians density ,per 1k pop,All,All,PHYDEN610,0,130,585,No
+634,Palau,1998,1.444,Physicians density ,per 1k pop,All,All,PHYDEN611,0,130,585,No
+635,Panama,2011,1.554,Physicians density ,per 1k pop,All,All,PHYDEN612,0,130,591,No
+636,Panama,2011,1.554,Physicians density ,per 1k pop,All,All,PHYDEN612,0,130,590,No
+637,Panama,2010,1.459,Physicians density ,per 1k pop,All,All,PHYDEN613,0,130,591,No
+638,Panama,2010,1.459,Physicians density ,per 1k pop,All,All,PHYDEN613,0,130,590,No
+639,Panama,2006,1.391,Physicians density ,per 1k pop,All,All,PHYDEN614,0,130,591,No
+640,Panama,2006,1.391,Physicians density ,per 1k pop,All,All,PHYDEN614,0,130,590,No
+641,Panama,2005,1.389,Physicians density ,per 1k pop,All,All,PHYDEN615,0,130,591,No
+642,Panama,2005,1.389,Physicians density ,per 1k pop,All,All,PHYDEN615,0,130,590,No
+643,Panama,2004,1.36,Physicians density ,per 1k pop,All,All,PHYDEN616,0,130,591,No
+644,Panama,2004,1.36,Physicians density ,per 1k pop,All,All,PHYDEN616,0,130,590,No
+645,Panama,2003,1.379,Physicians density ,per 1k pop,All,All,PHYDEN617,0,130,591,No
+646,Panama,2003,1.379,Physicians density ,per 1k pop,All,All,PHYDEN617,0,130,590,No
+647,Panama,2002,1.372,Physicians density ,per 1k pop,All,All,PHYDEN618,0,130,591,No
+648,Panama,2002,1.372,Physicians density ,per 1k pop,All,All,PHYDEN618,0,130,590,No
+649,Panama,2001,1.278,Physicians density ,per 1k pop,All,All,PHYDEN619,0,130,591,No
+650,Panama,2001,1.278,Physicians density ,per 1k pop,All,All,PHYDEN619,0,130,590,No
+651,Panama,2000,1.502,Physicians density ,per 1k pop,All,All,PHYDEN620,0,130,591,No
+652,Panama,2000,1.502,Physicians density ,per 1k pop,All,All,PHYDEN620,0,130,590,No
+653,Papua New Guinea,2008,0.053,Physicians density ,per 1k pop,All,All,PHYDEN621,0,130,598,No
+654,Papua New Guinea,2000,0.052,Physicians density ,per 1k pop,All,All,PHYDEN622,0,130,598,No
+655,Paraguay,2002,1.107,Physicians density ,per 1k pop,All,All,PHYDEN623,0,130,600,No
+656,Peru,2012,1.132,Physicians density ,per 1k pop,All,All,PHYDEN624,0,130,604,No
+657,Peru,2009,0.92,Physicians density ,per 1k pop,All,All,PHYDEN625,0,130,604,No
+658,Peru,1999,1.167,Physicians density ,per 1k pop,All,All,PHYDEN626,0,130,604,No
+659,Philippines,2004,1.153,Physicians density ,per 1k pop,All,All,PHYDEN627,0,130,608,No
+660,Philippines,2002,1.15,Physicians density ,per 1k pop,All,All,PHYDEN628,0,130,608,No
+661,Philippines,2000,0.585,Physicians density ,per 1k pop,All,All,PHYDEN629,0,130,608,No
+662,Poland,2011,2.199,Physicians density ,per 1k pop,All,All,PHYDEN630,0,130,616,No
+663,Poland,2010,2.068,Physicians density ,per 1k pop,All,All,PHYDEN631,0,130,616,No
+664,Poland,2003,2.469,Physicians density ,per 1k pop,All,All,PHYDEN632,0,130,616,No
+665,Portugal,2003,3.423,Physicians density ,per 1k pop,All,All,PHYDEN633,0,130,620,No
+666,Qatar,2010,7.739,Physicians density ,per 1k pop,All,All,PHYDEN634,0,130,634,No
+667,Qatar,2009,5.818,Physicians density ,per 1k pop,All,All,PHYDEN635,0,130,634,No
+668,Qatar,2008,5.299,Physicians density ,per 1k pop,All,All,PHYDEN636,0,130,634,No
+669,Qatar,2006,2.757,Physicians density ,per 1k pop,All,All,PHYDEN637,0,130,634,No
+670,Qatar,2005,2.645,Physicians density ,per 1k pop,All,All,PHYDEN638,0,130,634,No
+671,Qatar,2001,2.217,Physicians density ,per 1k pop,All,All,PHYDEN639,0,130,634,No
+672,Republic of Korea,2012,2.143,Physicians density ,per 1k pop,All,All,PHYDEN640,0,130,410,No
+673,Republic of Korea,2011,2.095,Physicians density ,per 1k pop,All,All,PHYDEN641,0,130,410,No
+674,Republic of Korea,2010,2.024,Physicians density ,per 1k pop,All,All,PHYDEN642,0,130,410,No
+675,Republic of Korea,2009,2.032,Physicians density ,per 1k pop,All,All,PHYDEN643,0,130,410,No
+676,Republic of Korea,2008,1.969,Physicians density ,per 1k pop,All,All,PHYDEN644,0,130,410,No
+677,Republic of Korea,2007,1.9,Physicians density ,per 1k pop,All,All,PHYDEN645,0,130,410,No
+678,Republic of Korea,2006,1.838,Physicians density ,per 1k pop,All,All,PHYDEN646,0,130,410,No
+679,Republic of Korea,2005,1.785,Physicians density ,per 1k pop,All,All,PHYDEN647,0,130,410,No
+680,Republic of Korea,2004,1.71,Physicians density ,per 1k pop,All,All,PHYDEN648,0,130,410,No
+681,Republic of Korea,2003,1.573,Physicians density ,per 1k pop,All,All,PHYDEN649,0,130,410,No
+682,Republic of Moldova,2012,2.859,Physicians density ,per 1k pop,All,All,PHYDEN650,0,130,498,No
+683,Republic of Moldova,2011,3.643,Physicians density ,per 1k pop,All,All,PHYDEN651,0,130,498,No
+684,Republic of Moldova,2010,3.072,Physicians density ,per 1k pop,All,All,PHYDEN652,0,130,498,No
+685,Romania,2011,2.386,Physicians density ,per 1k pop,All,All,PHYDEN653,0,130,642,No
+686,Romania,2002,1.925,Physicians density ,per 1k pop,All,All,PHYDEN654,0,130,642,No
+687,Russian Federation,2006,4.309,Physicians density ,per 1k pop,All,All,PHYDEN655,0,130,643,No
+688,Rwanda,2010,0.056,Physicians density ,per 1k pop,All,All,PHYDEN656,0,130,646,No
+689,Rwanda,2009,0.056,Physicians density ,per 1k pop,All,All,PHYDEN657,0,130,646,No
+690,Rwanda,2008,0.052,Physicians density ,per 1k pop,All,All,PHYDEN658,0,130,646,No
+691,Rwanda,2004,0.051,Physicians density ,per 1k pop,All,All,PHYDEN659,0,130,646,No
+692,Saint Kitts and Nevis,2001,1.167,Physicians density ,per 1k pop,All,All,PHYDEN660,0,130,659,No
+693,Saint Kitts and Nevis,1999,1.07,Physicians density ,per 1k pop,All,All,PHYDEN661,0,130,659,No
+694,Saint Kitts and Nevis,1998,1.07,Physicians density ,per 1k pop,All,All,PHYDEN662,0,130,659,No
+695,Saint Kitts and Nevis,1997,1.116,Physicians density ,per 1k pop,All,All,PHYDEN663,0,130,659,No
+696,Saint Kitts and Nevis,1996,1.091,Physicians density ,per 1k pop,All,All,PHYDEN664,0,130,659,No
+697,Saint Kitts and Nevis,1995,1.045,Physicians density ,per 1k pop,All,All,PHYDEN665,0,130,659,No
+698,Saint Kitts and Nevis,1994,0.907,Physicians density ,per 1k pop,All,All,PHYDEN666,0,130,659,No
+699,Saint Kitts and Nevis,1993,0.744,Physicians density ,per 1k pop,All,All,PHYDEN667,0,130,659,No
+700,Saint Kitts and Nevis,1992,0.738,Physicians density ,per 1k pop,All,All,PHYDEN668,0,130,659,No
+701,Saint Kitts and Nevis,1991,0.683,Physicians density ,per 1k pop,All,All,PHYDEN669,0,130,659,No
+702,Saint Kitts and Nevis,1990,0.683,Physicians density ,per 1k pop,All,All,PHYDEN670,0,130,659,No
+703,Saint Lucia,2002,0.473,Physicians density ,per 1k pop,All,All,PHYDEN671,0,130,662,No
+704,Saint Lucia,2001,0.884,Physicians density ,per 1k pop,All,All,PHYDEN672,0,130,662,No
+705,Saint Lucia,1999,5.166,Physicians density ,per 1k pop,All,All,PHYDEN673,0,130,662,No
+706,Saint Vincent and the Grenadines,2001,0.525,Physicians density ,per 1k pop,All,All,PHYDEN674,0,130,670,No
+707,Saint Vincent and the Grenadines,2000,0.754,Physicians density ,per 1k pop,All,All,PHYDEN675,0,130,670,No
+708,Saint Vincent and the Grenadines,1997,0.871,Physicians density ,per 1k pop,All,All,PHYDEN676,0,130,670,No
+709,Samoa,2008,0.452,Physicians density ,per 1k pop,All,All,PHYDEN677,0,130,882,No
+710,Samoa,2005,0.27,Physicians density ,per 1k pop,All,All,PHYDEN678,0,130,882,No
+711,Samoa,2003,0.281,Physicians density ,per 1k pop,All,All,PHYDEN679,0,130,882,No
+712,Samoa,1999,0.702,Physicians density ,per 1k pop,All,All,PHYDEN680,0,130,882,No
+713,San Marino,2012,5.133,Physicians density ,per 1k pop,All,All,PHYDEN681,0,130,674,No
+714,San Marino,2011,4.883,Physicians density ,per 1k pop,All,All,PHYDEN682,0,130,674,No
+715,Sao Tome and Principe,2004,0.491,Physicians density ,per 1k pop,All,All,PHYDEN683,0,130,678,No
+716,Saudi Arabia,2009,0.767,Physicians density ,per 1k pop,All,All,PHYDEN684,0,130,682,No
+717,Saudi Arabia,2008,0.939,Physicians density ,per 1k pop,All,All,PHYDEN685,0,130,682,No
+718,Saudi Arabia,2001,0.634,Physicians density ,per 1k pop,All,All,PHYDEN686,0,130,682,No
+719,Saudi Arabia,2000,0.675,Physicians density ,per 1k pop,All,All,PHYDEN687,0,130,682,No
+720,Senegal,2008,0.059,Physicians density ,per 1k pop,All,All,PHYDEN688,0,130,686,No
+721,Senegal,2004,0.057,Physicians density ,per 1k pop,All,All,PHYDEN689,0,130,686,No
+722,Serbia,2009,2.114,Physicians density ,per 1k pop,All,All,PHYDEN690,0,130,688,No
+723,Seychelles,2004,1.513,Physicians density ,per 1k pop,All,All,PHYDEN691,0,130,690,No
+724,Sierra Leone,2010,0.022,Physicians density ,per 1k pop,All,All,PHYDEN692,0,130,694,No
+725,Sierra Leone,2008,0.016,Physicians density ,per 1k pop,All,All,PHYDEN693,0,130,694,No
+726,Sierra Leone,2004,0.033,Physicians density ,per 1k pop,All,All,PHYDEN694,0,130,694,No
+727,Singapore,2010,1.921,Physicians density ,per 1k pop,All,All,PHYDEN695,0,130,702,No
+728,Singapore,2009,1.833,Physicians density ,per 1k pop,All,All,PHYDEN696,0,130,702,No
+729,Singapore,2008,1.747,Physicians density ,per 1k pop,All,All,PHYDEN697,0,130,702,No
+730,Singapore,2007,1.665,Physicians density ,per 1k pop,All,All,PHYDEN698,0,130,702,No
+731,Singapore,2006,1.582,Physicians density ,per 1k pop,All,All,PHYDEN699,0,130,702,No
+732,Singapore,2005,1.56,Physicians density ,per 1k pop,All,All,PHYDEN700,0,130,702,No
+733,Singapore,2004,1.505,Physicians density ,per 1k pop,All,All,PHYDEN701,0,130,702,No
+734,Singapore,2003,1.5,Physicians density ,per 1k pop,All,All,PHYDEN702,0,130,702,No
+735,Singapore,2001,1.4,Physicians density ,per 1k pop,All,All,PHYDEN703,0,130,702,No
+736,Singapore,1999,1.359,Physicians density ,per 1k pop,All,All,PHYDEN704,0,130,702,No
+737,Slovakia,2007,3.0,Physicians density ,per 1k pop,All,All,PHYDEN705,0,130,703,No
+738,Slovakia,2003,3.179,Physicians density ,per 1k pop,All,All,PHYDEN706,0,130,703,No
+739,Slovenia,2011,2.516,Physicians density ,per 1k pop,All,All,PHYDEN707,0,130,705,No
+740,Slovenia,2010,2.542,Physicians density ,per 1k pop,All,All,PHYDEN708,0,130,705,No
+741,Solomon Islands,2009,0.224,Physicians density ,per 1k pop,All,All,PHYDEN709,0,130,90,No
+742,Solomon Islands,2005,0.186,Physicians density ,per 1k pop,All,All,PHYDEN710,0,130,90,No
+743,Solomon Islands,2003,0.126,Physicians density ,per 1k pop,All,All,PHYDEN711,0,130,90,No
+744,Solomon Islands,1999,0.127,Physicians density ,per 1k pop,All,All,PHYDEN712,0,130,90,No
+745,Somalia,2006,0.035,Physicians density ,per 1k pop,All,All,PHYDEN713,0,130,706,No
+746,Somalia,1997,0.04,Physicians density ,per 1k pop,All,All,PHYDEN714,0,130,706,No
+747,South Africa,2013,0.776,Physicians density ,per 1k pop,All,All,PHYDEN715,0,130,710,No
+748,South Africa,2011,0.758,Physicians density ,per 1k pop,All,All,PHYDEN716,0,130,710,No
+749,South Africa,2004,0.77,Physicians density ,per 1k pop,All,All,PHYDEN717,0,130,710,No
+750,Spain,2012,3.695,Physicians density ,per 1k pop,All,All,PHYDEN718,0,130,724,No
+751,Spain,2011,3.961,Physicians density ,per 1k pop,All,All,PHYDEN719,0,130,724,No
+752,Spain,2003,3.295,Physicians density ,per 1k pop,All,All,PHYDEN720,0,130,724,No
+753,Sri Lanka,2010,0.68,Physicians density ,per 1k pop,All,All,PHYDEN721,0,130,144,No
+754,Sri Lanka,2009,0.642,Physicians density ,per 1k pop,All,All,PHYDEN722,0,130,144,No
+755,Sri Lanka,2008,0.587,Physicians density ,per 1k pop,All,All,PHYDEN723,0,130,144,No
+756,Sri Lanka,2007,0.523,Physicians density ,per 1k pop,All,All,PHYDEN724,0,130,144,No
+757,Sri Lanka,2006,0.492,Physicians density ,per 1k pop,All,All,PHYDEN725,0,130,144,No
+758,Sri Lanka,2005,0.492,Physicians density ,per 1k pop,All,All,PHYDEN726,0,130,144,No
+759,Sri Lanka,2004,0.545,Physicians density ,per 1k pop,All,All,PHYDEN727,0,130,144,No
+760,Sri Lanka,2001,0.447,Physicians density ,per 1k pop,All,All,PHYDEN728,0,130,144,No
+761,Sri Lanka,2000,0.428,Physicians density ,per 1k pop,All,All,PHYDEN729,0,130,144,No
+762,Sri Lanka,1999,0.379,Physicians density ,per 1k pop,All,All,PHYDEN730,0,130,144,No
+763,Sri Lanka,1998,0.352,Physicians density ,per 1k pop,All,All,PHYDEN731,0,130,144,No
+764,Sri Lanka,1997,0.311,Physicians density ,per 1k pop,All,All,PHYDEN732,0,130,144,No
+765,Sri Lanka,1996,0.285,Physicians density ,per 1k pop,All,All,PHYDEN733,0,130,144,No
+766,Sri Lanka,1993,0.213,Physicians density ,per 1k pop,All,All,PHYDEN734,0,130,144,No
+767,Sudan,2008,0.28,Physicians density ,per 1k pop,All,All,PHYDEN735,0,130,729,No
+768,Sudan,2008,0.28,Physicians density ,per 1k pop,All,All,PHYDEN735,0,130,736,No
+769,Sudan,2007,0.3,Physicians density ,per 1k pop,All,All,PHYDEN736,0,130,729,No
+770,Sudan,2007,0.3,Physicians density ,per 1k pop,All,All,PHYDEN736,0,130,736,No
+771,Sudan,2006,0.3,Physicians density ,per 1k pop,All,All,PHYDEN737,0,130,729,No
+772,Sudan,2006,0.3,Physicians density ,per 1k pop,All,All,PHYDEN737,0,130,736,No
+773,Sudan,2004,0.22,Physicians density ,per 1k pop,All,All,PHYDEN738,0,130,729,No
+774,Sudan,2004,0.22,Physicians density ,per 1k pop,All,All,PHYDEN738,0,130,736,No
+775,Suriname,2004,0.911,Physicians density ,per 1k pop,All,All,PHYDEN739,0,130,740,No
+776,Suriname,2000,0.449,Physicians density ,per 1k pop,All,All,PHYDEN740,0,130,740,No
+777,Swaziland,2009,0.17,Physicians density ,per 1k pop,All,All,PHYDEN741,0,130,748,No
+778,Swaziland,2004,0.158,Physicians density ,per 1k pop,All,All,PHYDEN742,0,130,748,No
+779,Swaziland,2003,0.149,Physicians density ,per 1k pop,All,All,PHYDEN743,0,130,748,No
+780,Swaziland,2001,0.169,Physicians density ,per 1k pop,All,All,PHYDEN744,0,130,748,No
+781,Swaziland,2000,0.002,Physicians density ,per 1k pop,All,All,PHYDEN745,0,130,748,No
+782,Sweden,2007,3.265,Physicians density ,per 1k pop,All,All,PHYDEN746,0,130,752,No
+783,Sweden,2002,3.284,Physicians density ,per 1k pop,All,All,PHYDEN747,0,130,752,No
+784,Sweden,1994,2.793,Physicians density ,per 1k pop,All,All,PHYDEN748,0,130,752,No
+785,Switzerland,2011,3.938,Physicians density ,per 1k pop,All,All,PHYDEN749,0,130,756,No
+786,Switzerland,2011,3.938,Physicians density ,per 1k pop,All,All,PHYDEN749,0,130,756,No
+787,Switzerland,2010,4.082,Physicians density ,per 1k pop,All,All,PHYDEN750,0,130,756,No
+788,Switzerland,2010,4.082,Physicians density ,per 1k pop,All,All,PHYDEN750,0,130,756,No
+789,Switzerland,2002,3.615,Physicians density ,per 1k pop,All,All,PHYDEN751,0,130,756,No
+790,Switzerland,2002,3.615,Physicians density ,per 1k pop,All,All,PHYDEN751,0,130,756,No
+791,Syrian Arab Republic,2008,1.5,Physicians density ,per 1k pop,All,All,PHYDEN752,0,130,760,No
+792,Syrian Arab Republic,2007,1.48,Physicians density ,per 1k pop,All,All,PHYDEN753,0,130,760,No
+793,Syrian Arab Republic,2004,1.421,Physicians density ,per 1k pop,All,All,PHYDEN754,0,130,760,No
+794,Syrian Arab Republic,2003,1.375,Physicians density ,per 1k pop,All,All,PHYDEN755,0,130,760,No
+795,Syrian Arab Republic,2002,1.443,Physicians density ,per 1k pop,All,All,PHYDEN756,0,130,760,No
+796,Syrian Arab Republic,2001,1.399,Physicians density ,per 1k pop,All,All,PHYDEN757,0,130,760,No
+797,Syrian Arab Republic,2000,1.353,Physicians density ,per 1k pop,All,All,PHYDEN758,0,130,760,No
+798,Syrian Arab Republic,1999,1.324,Physicians density ,per 1k pop,All,All,PHYDEN759,0,130,760,No
+799,Tajikistan,2011,1.899,Physicians density ,per 1k pop,All,All,PHYDEN760,0,130,762,No
+800,Tajikistan,2010,1.828,Physicians density ,per 1k pop,All,All,PHYDEN761,0,130,762,No
+801,Thailand,2010,0.393,Physicians density ,per 1k pop,All,All,PHYDEN762,0,130,764,No
+802,Thailand,2009,0.342,Physicians density ,per 1k pop,All,All,PHYDEN763,0,130,764,No
+803,Thailand,2008,0.32,Physicians density ,per 1k pop,All,All,PHYDEN764,0,130,764,No
+804,Thailand,2007,0.3,Physicians density ,per 1k pop,All,All,PHYDEN765,0,130,764,No
+805,Thailand,2006,0.292,Physicians density ,per 1k pop,All,All,PHYDEN766,0,130,764,No
+806,Thailand,2004,0.298,Physicians density ,per 1k pop,All,All,PHYDEN767,0,130,764,No
+807,Thailand,2002,0.305,Physicians density ,per 1k pop,All,All,PHYDEN768,0,130,764,No
+808,Thailand,2001,0.308,Physicians density ,per 1k pop,All,All,PHYDEN769,0,130,764,No
+809,Thailand,2000,0.368,Physicians density ,per 1k pop,All,All,PHYDEN770,0,130,764,No
+810,Thailand,1999,0.301,Physicians density ,per 1k pop,All,All,PHYDEN771,0,130,764,No
+811,Thailand,1998,0.301,Physicians density ,per 1k pop,All,All,PHYDEN772,0,130,764,No
+812,Thailand,1997,0.28,Physicians density ,per 1k pop,All,All,PHYDEN773,0,130,764,No
+813,Thailand,1995,0.245,Physicians density ,per 1k pop,All,All,PHYDEN774,0,130,764,No
+814,Thailand,1993,0.241,Physicians density ,per 1k pop,All,All,PHYDEN775,0,130,764,No
+815,Thailand,1991,0.232,Physicians density ,per 1k pop,All,All,PHYDEN776,0,130,764,No
+816,The former Yugoslav Republic of Macedonia,2009,2.624,Physicians density ,per 1k pop,All,All,PHYDEN777,0,130,807,No
+817,Timor-Leste,2011,0.073,Physicians density ,per 1k pop,All,All,PHYDEN778,0,130,626,No
+818,Timor-Leste,2010,0.068,Physicians density ,per 1k pop,All,All,PHYDEN779,0,130,626,No
+819,Timor-Leste,2009,0.039,Physicians density ,per 1k pop,All,All,PHYDEN780,0,130,626,No
+820,Timor-Leste,2008,0.034,Physicians density ,per 1k pop,All,All,PHYDEN781,0,130,626,No
+821,Timor-Leste,2007,0.033,Physicians density ,per 1k pop,All,All,PHYDEN782,0,130,626,No
+822,Timor-Leste,2004,0.096,Physicians density ,per 1k pop,All,All,PHYDEN783,0,130,626,No
+823,Timor-Leste,2001,0.004,Physicians density ,per 1k pop,All,All,PHYDEN784,0,130,626,No
+824,Togo,2008,0.053,Physicians density ,per 1k pop,All,All,PHYDEN785,0,130,768,No
+825,Togo,2007,0.045,Physicians density ,per 1k pop,All,All,PHYDEN786,0,130,768,No
+826,Togo,2004,0.045,Physicians density ,per 1k pop,All,All,PHYDEN787,0,130,768,No
+827,Tonga,2010,0.563,Physicians density ,per 1k pop,All,All,PHYDEN788,0,130,776,No
+828,Tonga,2009,0.602,Physicians density ,per 1k pop,All,All,PHYDEN789,0,130,776,No
+829,Tonga,2008,0.553,Physicians density ,per 1k pop,All,All,PHYDEN790,0,130,776,No
+830,Tonga,2007,0.563,Physicians density ,per 1k pop,All,All,PHYDEN791,0,130,776,No
+831,Tonga,2002,0.291,Physicians density ,per 1k pop,All,All,PHYDEN792,0,130,776,No
+832,Tonga,2001,0.343,Physicians density ,per 1k pop,All,All,PHYDEN793,0,130,776,No
+833,Trinidad and Tobago,2007,1.175,Physicians density ,per 1k pop,All,All,PHYDEN794,0,130,780,No
+834,Trinidad and Tobago,2006,1.216,Physicians density ,per 1k pop,All,All,PHYDEN795,0,130,780,No
+835,Trinidad and Tobago,1997,0.788,Physicians density ,per 1k pop,All,All,PHYDEN796,0,130,780,No
+836,Tunisia,2010,1.222,Physicians density ,per 1k pop,All,All,PHYDEN797,0,130,788,No
+837,Tunisia,2009,1.19,Physicians density ,per 1k pop,All,All,PHYDEN798,0,130,788,No
+838,Tunisia,2008,1.16,Physicians density ,per 1k pop,All,All,PHYDEN799,0,130,788,No
+839,Tunisia,2007,1.023,Physicians density ,per 1k pop,All,All,PHYDEN800,0,130,788,No
+840,Tunisia,2005,0.933,Physicians density ,per 1k pop,All,All,PHYDEN801,0,130,788,No
+841,Tunisia,2004,1.341,Physicians density ,per 1k pop,All,All,PHYDEN802,0,130,788,No
+842,Tunisia,2003,0.833,Physicians density ,per 1k pop,All,All,PHYDEN803,0,130,788,No
+843,Tunisia,2002,0.819,Physicians density ,per 1k pop,All,All,PHYDEN804,0,130,788,No
+844,Tunisia,2001,0.807,Physicians density ,per 1k pop,All,All,PHYDEN805,0,130,788,No
+845,Tunisia,2000,0.782,Physicians density ,per 1k pop,All,All,PHYDEN806,0,130,788,No
+846,Tunisia,1999,0.76,Physicians density ,per 1k pop,All,All,PHYDEN807,0,130,788,No
+847,Tunisia,1998,0.733,Physicians density ,per 1k pop,All,All,PHYDEN808,0,130,788,No
+848,Tunisia,1997,0.703,Physicians density ,per 1k pop,All,All,PHYDEN809,0,130,788,No
+849,Tunisia,1996,0.681,Physicians density ,per 1k pop,All,All,PHYDEN810,0,130,788,No
+850,Tunisia,1995,0.666,Physicians density ,per 1k pop,All,All,PHYDEN811,0,130,788,No
+851,Tunisia,1994,0.606,Physicians density ,per 1k pop,All,All,PHYDEN812,0,130,788,No
+852,Tunisia,1993,0.606,Physicians density ,per 1k pop,All,All,PHYDEN813,0,130,788,No
+853,Tunisia,1992,0.598,Physicians density ,per 1k pop,All,All,PHYDEN814,0,130,788,No
+854,Tunisia,1991,0.538,Physicians density ,per 1k pop,All,All,PHYDEN815,0,130,788,No
+855,Tunisia,1990,0.539,Physicians density ,per 1k pop,All,All,PHYDEN816,0,130,788,No
+856,Turkey,2011,1.711,Physicians density ,per 1k pop,All,All,PHYDEN817,0,130,792,No
+857,Turkey,2010,1.581,Physicians density ,per 1k pop,All,All,PHYDEN818,0,130,792,No
+858,Turkey,2009,1.538,Physicians density ,per 1k pop,All,All,PHYDEN819,0,130,792,No
+859,Turkey,2008,1.486,Physicians density ,per 1k pop,All,All,PHYDEN820,0,130,792,No
+860,Turkey,2007,1.442,Physicians density ,per 1k pop,All,All,PHYDEN821,0,130,792,No
+861,Turkey,2006,1.408,Physicians density ,per 1k pop,All,All,PHYDEN822,0,130,792,No
+862,Turkey,2005,1.378,Physicians density ,per 1k pop,All,All,PHYDEN823,0,130,792,No
+863,Turkey,2004,1.343,Physicians density ,per 1k pop,All,All,PHYDEN824,0,130,792,No
+864,Turkey,2003,1.324,Physicians density ,per 1k pop,All,All,PHYDEN825,0,130,792,No
+865,Turkey,2002,1.308,Physicians density ,per 1k pop,All,All,PHYDEN826,0,130,792,No
+866,Turkey,2001,1.296,Physicians density ,per 1k pop,All,All,PHYDEN827,0,130,792,No
+867,Turkey,2000,1.248,Physicians density ,per 1k pop,All,All,PHYDEN828,0,130,792,No
+868,Turkey,1999,1.219,Physicians density ,per 1k pop,All,All,PHYDEN829,0,130,792,No
+869,Turkey,1998,1.168,Physicians density ,per 1k pop,All,All,PHYDEN830,0,130,792,No
+870,Turkey,1997,1.13,Physicians density ,per 1k pop,All,All,PHYDEN831,0,130,792,No
+871,Turkey,1996,1.106,Physicians density ,per 1k pop,All,All,PHYDEN832,0,130,792,No
+872,Turkey,1995,1.1,Physicians density ,per 1k pop,All,All,PHYDEN833,0,130,792,No
+873,Turkey,1994,1.062,Physicians density ,per 1k pop,All,All,PHYDEN834,0,130,792,No
+874,Turkey,1993,1.002,Physicians density ,per 1k pop,All,All,PHYDEN835,0,130,792,No
+875,Turkey,1992,0.953,Physicians density ,per 1k pop,All,All,PHYDEN836,0,130,792,No
+876,Turkey,1991,0.907,Physicians density ,per 1k pop,All,All,PHYDEN837,0,130,792,No
+877,Turkey,1990,0.879,Physicians density ,per 1k pop,All,All,PHYDEN838,0,130,792,No
+878,Turkmenistan,2002,4.179,Physicians density ,per 1k pop,All,All,PHYDEN839,0,130,795,No
+879,Tuvalu,2009,1.091,Physicians density ,per 1k pop,All,All,PHYDEN840,0,130,798,No
+880,Tuvalu,2008,0.909,Physicians density ,per 1k pop,All,All,PHYDEN841,0,130,798,No
+881,Tuvalu,2003,0.909,Physicians density ,per 1k pop,All,All,PHYDEN842,0,130,798,No
+882,Tuvalu,2002,0.545,Physicians density ,per 1k pop,All,All,PHYDEN843,0,130,798,No
+883,Uganda,2005,0.117,Physicians density ,per 1k pop,All,All,PHYDEN844,0,130,800,No
+884,Uganda,2004,0.083,Physicians density ,per 1k pop,All,All,PHYDEN845,0,130,800,No
+885,Ukraine,2012,3.531,Physicians density ,per 1k pop,All,All,PHYDEN846,0,130,804,No
+886,Ukraine,2011,3.517,Physicians density ,per 1k pop,All,All,PHYDEN847,0,130,804,No
+887,United Arab Emirates,2007,1.93,Physicians density ,per 1k pop,All,All,PHYDEN848,0,130,784,No
+888,United Arab Emirates,2005,1.545,Physicians density ,per 1k pop,All,All,PHYDEN849,0,130,784,No
+889,United Arab Emirates,2002,1.689,Physicians density ,per 1k pop,All,All,PHYDEN850,0,130,784,No
+890,United Arab Emirates,2001,2.023,Physicians density ,per 1k pop,All,All,PHYDEN851,0,130,784,No
+891,United Kingdom,2012,2.79,Physicians density ,per 1k pop,All,All,PHYDEN852,0,130,826,No
+892,United Kingdom,2011,2.778,Physicians density ,per 1k pop,All,All,PHYDEN853,0,130,826,No
+893,United Kingdom,1997,2.3,Physicians density ,per 1k pop,All,All,PHYDEN854,0,130,826,No
+894,United Republic of Tanzania,2006,0.008,Physicians density ,per 1k pop,All,All,PHYDEN855,0,130,834,No
+895,United Republic of Tanzania,2002,0.023,Physicians density ,per 1k pop,All,All,PHYDEN856,0,130,834,No
+896,United States of America,2011,2.452,Physicians density ,per 1k pop,All,All,PHYDEN857,0,130,840,No
+897,United States of America,2010,2.41,Physicians density ,per 1k pop,All,All,PHYDEN858,0,130,840,No
+898,United States of America,2009,2.422,Physicians density ,per 1k pop,All,All,PHYDEN859,0,130,840,No
+899,United States of America,2008,2.416,Physicians density ,per 1k pop,All,All,PHYDEN860,0,130,840,No
+900,United States of America,2007,2.41,Physicians density ,per 1k pop,All,All,PHYDEN861,0,130,840,No
+901,United States of America,2006,2.402,Physicians density ,per 1k pop,All,All,PHYDEN862,0,130,840,No
+902,United States of America,2005,2.409,Physicians density ,per 1k pop,All,All,PHYDEN863,0,130,840,No
+903,United States of America,2004,2.672,Physicians density ,per 1k pop,All,All,PHYDEN864,0,130,840,No
+904,United States of America,2000,2.564,Physicians density ,per 1k pop,All,All,PHYDEN865,0,130,840,No
+905,United States of America,1995,2.395,Physicians density ,per 1k pop,All,All,PHYDEN866,0,130,840,No
+906,Uruguay,2008,3.736,Physicians density ,per 1k pop,All,All,PHYDEN867,0,130,858,No
+907,Uruguay,2002,3.652,Physicians density ,per 1k pop,All,All,PHYDEN868,0,130,858,No
+908,Uzbekistan,2012,2.381,Physicians density ,per 1k pop,All,All,PHYDEN869,0,130,860,No
+909,Uzbekistan,2011,2.426,Physicians density ,per 1k pop,All,All,PHYDEN870,0,130,860,No
+910,Vanuatu,2008,0.116,Physicians density ,per 1k pop,All,All,PHYDEN871,0,130,548,No
+911,Vanuatu,2007,0.119,Physicians density ,per 1k pop,All,All,PHYDEN872,0,130,548,No
+912,Vanuatu,2004,0.138,Physicians density ,per 1k pop,All,All,PHYDEN873,0,130,548,No
+913,Vanuatu,1997,0.11,Physicians density ,per 1k pop,All,All,PHYDEN874,0,130,548,No
+914,Venezuela (Bolivarian Republic of),2001,1.939,Physicians density ,per 1k pop,All,All,PHYDEN875,0,130,862,No
+915,Viet Nam,2011,1.159,Physicians density ,per 1k pop,All,All,PHYDEN876,0,130,704,No
+916,Viet Nam,2008,1.224,Physicians density ,per 1k pop,All,All,PHYDEN877,0,130,704,No
+917,Viet Nam,2007,1.199,Physicians density ,per 1k pop,All,All,PHYDEN878,0,130,704,No
+918,Viet Nam,2006,1.191,Physicians density ,per 1k pop,All,All,PHYDEN879,0,130,704,No
+919,Viet Nam,2005,1.2,Physicians density ,per 1k pop,All,All,PHYDEN880,0,130,704,No
+920,Viet Nam,2002,0.56,Physicians density ,per 1k pop,All,All,PHYDEN881,0,130,704,No
+921,Viet Nam,2001,0.534,Physicians density ,per 1k pop,All,All,PHYDEN882,0,130,704,No
+922,Yemen,2010,0.197,Physicians density ,per 1k pop,All,All,PHYDEN883,0,130,887,No
+923,Yemen,2010,0.197,Physicians density ,per 1k pop,All,All,PHYDEN883,0,130,886,No
+924,Yemen,2009,0.3,Physicians density ,per 1k pop,All,All,PHYDEN884,0,130,887,No
+925,Yemen,2009,0.3,Physicians density ,per 1k pop,All,All,PHYDEN884,0,130,886,No
+926,Yemen,2008,0.3,Physicians density ,per 1k pop,All,All,PHYDEN885,0,130,887,No
+927,Yemen,2008,0.3,Physicians density ,per 1k pop,All,All,PHYDEN885,0,130,886,No
+928,Yemen,2004,0.325,Physicians density ,per 1k pop,All,All,PHYDEN886,0,130,887,No
+929,Yemen,2004,0.325,Physicians density ,per 1k pop,All,All,PHYDEN886,0,130,886,No
+930,Yemen,1997,0.234,Physicians density ,per 1k pop,All,All,PHYDEN887,0,130,887,No
+931,Yemen,1997,0.234,Physicians density ,per 1k pop,All,All,PHYDEN887,0,130,886,No
+932,Zambia,2010,0.066,Physicians density ,per 1k pop,All,All,PHYDEN888,0,130,894,No
+933,Zambia,2009,0.064,Physicians density ,per 1k pop,All,All,PHYDEN889,0,130,894,No
+934,Zambia,2008,0.065,Physicians density ,per 1k pop,All,All,PHYDEN890,0,130,894,No
+935,Zambia,2006,0.055,Physicians density ,per 1k pop,All,All,PHYDEN891,0,130,894,No
+936,Zambia,2005,0.055,Physicians density ,per 1k pop,All,All,PHYDEN892,0,130,894,No
+937,Zambia,2004,0.137,Physicians density ,per 1k pop,All,All,PHYDEN893,0,130,894,No
+938,Zimbabwe,2009,0.062,Physicians density ,per 1k pop,All,All,PHYDEN894,0,130,716,No
+939,Zimbabwe,2008,0.056,Physicians density ,per 1k pop,All,All,PHYDEN895,0,130,716,No
+940,Zimbabwe,2007,0.051,Physicians density ,per 1k pop,All,All,PHYDEN896,0,130,716,No
+941,Zimbabwe,2004,0.161,Physicians density ,per 1k pop,All,All,PHYDEN897,0,130,716,No
+942,Zimbabwe,1995,0.139,Physicians density ,per 1k pop,All,All,PHYDEN898,0,130,716,No
+943,Zimbabwe,1990,0.126,Physicians density ,per 1k pop,All,All,PHYDEN899,0,130,716,No

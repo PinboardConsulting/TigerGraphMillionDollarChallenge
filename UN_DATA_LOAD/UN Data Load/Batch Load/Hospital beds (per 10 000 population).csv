@@ -1,0 +1,339 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2010,4,Hospital beds,per 10k pop,All,All,HBP10KP1,0,130,4,No
+1,Afghanistan,2009,4,Hospital beds,per 10k pop,All,All,HBP10KP2,0,130,4,No
+2,Albania,2009,28,Hospital beds,per 10k pop,All,All,HBP10KP3,0,130,8,No
+3,Albania,2007,29,Hospital beds,per 10k pop,All,All,HBP10KP4,0,130,8,No
+4,Algeria,2004,17,Hospital beds,per 10k pop,All,All,HBP10KP5,0,130,12,No
+5,Andorra,2009,25,Hospital beds,per 10k pop,All,All,HBP10KP6,0,130,20,No
+6,Andorra,2007,26,Hospital beds,per 10k pop,All,All,HBP10KP7,0,130,20,No
+7,Angola,2005,8,Hospital beds,per 10k pop,All,All,HBP10KP8,0,130,24,No
+8,Antigua and Barbuda,2010,22,Hospital beds,per 10k pop,All,All,HBP10KP9,0,130,28,No
+9,Antigua and Barbuda,2009,22,Hospital beds,per 10k pop,All,All,HBP10KP10,0,130,28,No
+10,Argentina,2010,45,Hospital beds,per 10k pop,All,All,HBP10KP11,0,130,32,No
+11,Argentina,2000,41,Hospital beds,per 10k pop,All,All,HBP10KP12,0,130,32,No
+12,Armenia,2009,37,Hospital beds,per 10k pop,All,All,HBP10KP13,0,130,51,No
+13,Armenia,2007,41,Hospital beds,per 10k pop,All,All,HBP10KP14,0,130,51,No
+14,Australia,2009,38,Hospital beds,per 10k pop,All,All,HBP10KP15,0,130,36,No
+15,Austria,2009,77,Hospital beds,per 10k pop,All,All,HBP10KP16,0,130,40,No
+16,Austria,2008,77,Hospital beds,per 10k pop,All,All,HBP10KP17,0,130,40,No
+17,Azerbaijan,2009,75,Hospital beds,per 10k pop,All,All,HBP10KP18,0,130,31,No
+18,Azerbaijan,2007,79,Hospital beds,per 10k pop,All,All,HBP10KP19,0,130,31,No
+19,Bahamas,2009,31,Hospital beds,per 10k pop,All,All,HBP10KP20,0,130,44,No
+20,Bahamas,2008,31,Hospital beds,per 10k pop,All,All,HBP10KP21,0,130,44,No
+21,Bahrain,2009,18,Hospital beds,per 10k pop,All,All,HBP10KP22,0,130,48,No
+22,Bahrain,2008,19,Hospital beds,per 10k pop,All,All,HBP10KP23,0,130,48,No
+23,Bangladesh,2005,3,Hospital beds,per 10k pop,All,All,HBP10KP24,0,130,50,No
+24,Barbados,2009,68,Hospital beds,per 10k pop,All,All,HBP10KP25,0,130,52,No
+25,Barbados,2008,76,Hospital beds,per 10k pop,All,All,HBP10KP26,0,130,52,No
+26,Belarus,2009,111,Hospital beds,per 10k pop,All,All,HBP10KP27,0,130,112,No
+27,Belarus,2007,112,Hospital beds,per 10k pop,All,All,HBP10KP28,0,130,112,No
+28,Belgium,2010,65,Hospital beds,per 10k pop,All,All,HBP10KP29,0,130,56,No
+29,Belgium,2009,66,Hospital beds,per 10k pop,All,All,HBP10KP30,0,130,56,No
+30,Belize,2010,12,Hospital beds,per 10k pop,All,All,HBP10KP31,0,130,84,No
+31,Belize,2009,11,Hospital beds,per 10k pop,All,All,HBP10KP32,0,130,84,No
+32,Benin,2010,5,Hospital beds,per 10k pop,All,All,HBP10KP33,0,130,204,No
+33,Benin,2005,5,Hospital beds,per 10k pop,All,All,HBP10KP34,0,130,204,No
+34,Bhutan,2011,18,Hospital beds,per 10k pop,All,All,HBP10KP35,0,130,64,No
+35,Bhutan,2006,17,Hospital beds,per 10k pop,All,All,HBP10KP36,0,130,64,No
+36,Bolivia (Plurinational State of),2009,11,Hospital beds,per 10k pop,All,All,HBP10KP37,0,130,68,No
+37,Bosnia and Herzegovina,2009,34,Hospital beds,per 10k pop,All,All,HBP10KP38,0,130,70,No
+38,Bosnia and Herzegovina,2005,30,Hospital beds,per 10k pop,All,All,HBP10KP39,0,130,70,No
+39,Botswana,2010,18,Hospital beds,per 10k pop,All,All,HBP10KP40,0,130,72,No
+40,Botswana,2008,18,Hospital beds,per 10k pop,All,All,HBP10KP41,0,130,72,No
+41,Brazil,2010,24,Hospital beds,per 10k pop,All,All,HBP10KP42,0,130,76,No
+42,Brazil,2009,24,Hospital beds,per 10k pop,All,All,HBP10KP43,0,130,76,No
+43,Brunei Darussalam,2009,26,Hospital beds,per 10k pop,All,All,HBP10KP44,0,130,96,No
+44,Brunei Darussalam,2008,27,Hospital beds,per 10k pop,All,All,HBP10KP45,0,130,96,No
+45,Bulgaria,2009,66,Hospital beds,per 10k pop,All,All,HBP10KP46,0,130,100,No
+46,Bulgaria,2008,65,Hospital beds,per 10k pop,All,All,HBP10KP47,0,130,100,No
+47,Burkina Faso,2010,4,Hospital beds,per 10k pop,All,All,HBP10KP48,0,130,854,No
+48,Burkina Faso,2006,9,Hospital beds,per 10k pop,All,All,HBP10KP49,0,130,854,No
+49,Burundi,2011,19,Hospital beds,per 10k pop,All,All,HBP10KP50,0,130,108,No
+50,Burundi,2006,7,Hospital beds,per 10k pop,All,All,HBP10KP51,0,130,108,No
+51,Cabo Verde,2010,21,Hospital beds,per 10k pop,All,All,HBP10KP52,0,130,132,No
+52,Cabo Verde,2008,21,Hospital beds,per 10k pop,All,All,HBP10KP53,0,130,132,No
+53,Cameroon,2010,13,Hospital beds,per 10k pop,All,All,HBP10KP54,0,130,120,No
+54,Cameroon,2006,15,Hospital beds,per 10k pop,All,All,HBP10KP55,0,130,120,No
+55,Canada,2009,32,Hospital beds,per 10k pop,All,All,HBP10KP56,0,130,124,No
+56,Canada,2008,34,Hospital beds,per 10k pop,All,All,HBP10KP57,0,130,124,No
+57,Central African Republic,2011,10,Hospital beds,per 10k pop,All,All,HBP10KP58,0,130,140,No
+58,Central African Republic,2006,12,Hospital beds,per 10k pop,All,All,HBP10KP59,0,130,140,No
+59,Chad,2005,4,Hospital beds,per 10k pop,All,All,HBP10KP60,0,130,148,No
+60,Chile,2010,21,Hospital beds,per 10k pop,All,All,HBP10KP61,0,130,152,No
+61,Chile,2009,21,Hospital beds,per 10k pop,All,All,HBP10KP62,0,130,152,No
+62,China,2009,42,Hospital beds,per 10k pop,All,All,HBP10KP63,0,130,156,No
+63,Colombia,2007,10,Hospital beds,per 10k pop,All,All,HBP10KP64,0,130,170,No
+64,Comoros,2006,22,Hospital beds,per 10k pop,All,All,HBP10KP65,0,130,174,No
+65,Congo,2005,16,Hospital beds,per 10k pop,All,All,HBP10KP66,0,130,178,No
+66,Cook Islands,2005,63,Hospital beds,per 10k pop,All,All,HBP10KP67,0,130,184,No
+67,Costa Rica,2010,12,Hospital beds,per 10k pop,All,All,HBP10KP68,0,130,188,No
+68,Costa Rica,2008,12,Hospital beds,per 10k pop,All,All,HBP10KP69,0,130,188,No
+69,Côte dIvoire,2006,4,Hospital beds,per 10k pop,All,All,HBP10KP70,0,130,384,No
+70,Croatia,2009,54,Hospital beds,per 10k pop,All,All,HBP10KP71,0,130,191,No
+71,Croatia,2007,55,Hospital beds,per 10k pop,All,All,HBP10KP72,0,130,191,No
+72,Cuba,2010,59,Hospital beds,per 10k pop,All,All,HBP10KP73,0,130,192,No
+73,Cuba,2009,59,Hospital beds,per 10k pop,All,All,HBP10KP74,0,130,192,No
+74,Cyprus,2008,38,Hospital beds,per 10k pop,All,All,HBP10KP75,0,130,196,No
+75,Cyprus,2006,37,Hospital beds,per 10k pop,All,All,HBP10KP76,0,130,196,No
+76,Czech Republic,2009,71,Hospital beds,per 10k pop,All,All,HBP10KP77,0,130,203,No
+77,Czech Republic,2008,72,Hospital beds,per 10k pop,All,All,HBP10KP78,0,130,203,No
+78,Democratic Peoples Republic of Korea,2002,132,Hospital beds,per 10k pop,All,All,HBP10KP79,0,130,408,No
+79,Democratic Republic of the Congo,2006,8,Hospital beds,per 10k pop,All,All,HBP10KP80,0,130,180,No
+80,Denmark,2009,35,Hospital beds,per 10k pop,All,All,HBP10KP81,0,130,208,No
+81,Denmark,2008,36,Hospital beds,per 10k pop,All,All,HBP10KP82,0,130,208,No
+82,Djibouti,2010,14,Hospital beds,per 10k pop,All,All,HBP10KP83,0,130,262,No
+83,Dominica,2010,38,Hospital beds,per 10k pop,All,All,HBP10KP84,0,130,212,No
+84,Dominica,2009,38,Hospital beds,per 10k pop,All,All,HBP10KP85,0,130,212,No
+85,Dominican Republic,2010,16,Hospital beds,per 10k pop,All,All,HBP10KP86,0,130,214,No
+86,Dominican Republic,2009,10,Hospital beds,per 10k pop,All,All,HBP10KP87,0,130,214,No
+87,Ecuador,2009,15,Hospital beds,per 10k pop,All,All,HBP10KP88,0,130,218,No
+88,Ecuador,2008,15,Hospital beds,per 10k pop,All,All,HBP10KP89,0,130,218,No
+89,Egypt,2010,17,Hospital beds,per 10k pop,All,All,HBP10KP90,0,130,818,No
+90,Egypt,2009,17,Hospital beds,per 10k pop,All,All,HBP10KP91,0,130,818,No
+91,El Salvador,2010,10,Hospital beds,per 10k pop,All,All,HBP10KP92,0,130,222,No
+92,El Salvador,2009,11,Hospital beds,per 10k pop,All,All,HBP10KP93,0,130,222,No
+93,Equatorial Guinea,2010,21,Hospital beds,per 10k pop,All,All,HBP10KP94,0,130,226,No
+94,Equatorial Guinea,2009,19,Hospital beds,per 10k pop,All,All,HBP10KP95,0,130,226,No
+95,Eritrea,2011,7,Hospital beds,per 10k pop,All,All,HBP10KP96,0,130,232,No
+96,Eritrea,2006,12,Hospital beds,per 10k pop,All,All,HBP10KP97,0,130,232,No
+97,Estonia,2009,54,Hospital beds,per 10k pop,All,All,HBP10KP98,0,130,233,No
+98,Estonia,2008,57,Hospital beds,per 10k pop,All,All,HBP10KP99,0,130,233,No
+99,Ethiopia,2011,63,Hospital beds,per 10k pop,All,All,HBP10KP100,0,130,231,No
+100,Ethiopia,2011,63,Hospital beds,per 10k pop,All,All,HBP10KP100,0,130,230,No
+101,Ethiopia,2008,2,Hospital beds,per 10k pop,All,All,HBP10KP101,0,130,231,No
+102,Ethiopia,2008,2,Hospital beds,per 10k pop,All,All,HBP10KP101,0,130,230,No
+103,Fiji,2009,21,Hospital beds,per 10k pop,All,All,HBP10KP102,0,130,242,No
+104,Fiji,2008,21,Hospital beds,per 10k pop,All,All,HBP10KP103,0,130,242,No
+105,Finland,2009,62,Hospital beds,per 10k pop,All,All,HBP10KP104,0,130,246,No
+106,Finland,2008,65,Hospital beds,per 10k pop,All,All,HBP10KP105,0,130,246,No
+107,France,2009,69,Hospital beds,per 10k pop,All,All,HBP10KP106,0,130,250,No
+108,France,2008,71,Hospital beds,per 10k pop,All,All,HBP10KP107,0,130,250,No
+109,Gabon,2010,63,Hospital beds,per 10k pop,All,All,HBP10KP108,0,130,266,No
+110,Gabon,2008,13,Hospital beds,per 10k pop,All,All,HBP10KP109,0,130,266,No
+111,Gambia,2011,11,Hospital beds,per 10k pop,All,All,HBP10KP110,0,130,270,No
+112,Gambia,2009,11,Hospital beds,per 10k pop,All,All,HBP10KP111,0,130,270,No
+113,Georgia,2009,31,Hospital beds,per 10k pop,All,All,HBP10KP112,0,130,268,No
+114,Georgia,2007,33,Hospital beds,per 10k pop,All,All,HBP10KP113,0,130,268,No
+115,Germany,2009,82,Hospital beds,per 10k pop,All,All,HBP10KP114,0,130,276,No
+116,Germany,2008,82,Hospital beds,per 10k pop,All,All,HBP10KP115,0,130,276,No
+117,Ghana,2011,9,Hospital beds,per 10k pop,All,All,HBP10KP116,0,130,288,No
+118,Ghana,2009,9,Hospital beds,per 10k pop,All,All,HBP10KP117,0,130,288,No
+119,Greece,2009,48,Hospital beds,per 10k pop,All,All,HBP10KP118,0,130,300,No
+120,Greece,2008,48,Hospital beds,per 10k pop,All,All,HBP10KP119,0,130,300,No
+121,Grenada,2009,24,Hospital beds,per 10k pop,All,All,HBP10KP120,0,130,308,No
+122,Guatemala,2010,6,Hospital beds,per 10k pop,All,All,HBP10KP121,0,130,320,No
+123,Guatemala,2009,6,Hospital beds,per 10k pop,All,All,HBP10KP122,0,130,320,No
+124,Guinea,2011,3,Hospital beds,per 10k pop,All,All,HBP10KP123,0,130,324,No
+125,Guinea,2005,3,Hospital beds,per 10k pop,All,All,HBP10KP124,0,130,324,No
+126,Guinea-Bissau,2009,10,Hospital beds,per 10k pop,All,All,HBP10KP125,0,130,624,No
+127,Guyana,2009,20,Hospital beds,per 10k pop,All,All,HBP10KP126,0,130,328,No
+128,Guyana,2007,19,Hospital beds,per 10k pop,All,All,HBP10KP127,0,130,328,No
+129,Haiti,2007,13,Hospital beds,per 10k pop,All,All,HBP10KP128,0,130,332,No
+130,Honduras,2010,8,Hospital beds,per 10k pop,All,All,HBP10KP129,0,130,340,No
+131,Honduras,2009,8,Hospital beds,per 10k pop,All,All,HBP10KP130,0,130,340,No
+132,Hungary,2009,71,Hospital beds,per 10k pop,All,All,HBP10KP131,0,130,348,No
+133,Hungary,2008,70,Hospital beds,per 10k pop,All,All,HBP10KP132,0,130,348,No
+134,Iceland,2007,58,Hospital beds,per 10k pop,All,All,HBP10KP133,0,130,352,No
+135,India,2005,9,Hospital beds,per 10k pop,All,All,HBP10KP134,0,130,356,No
+136,Indonesia,2010,6,Hospital beds,per 10k pop,All,All,HBP10KP135,0,130,360,No
+137,Indonesia,2002,6,Hospital beds,per 10k pop,All,All,HBP10KP136,0,130,360,No
+138,Iran (Islamic Republic of),2009,17,Hospital beds,per 10k pop,All,All,HBP10KP137,0,130,364,No
+139,Iran (Islamic Republic of),2006,14,Hospital beds,per 10k pop,All,All,HBP10KP138,0,130,364,No
+140,Iraq,2010,13,Hospital beds,per 10k pop,All,All,HBP10KP139,0,130,368,No
+141,Iraq,2009,13,Hospital beds,per 10k pop,All,All,HBP10KP140,0,130,368,No
+142,Ireland,2008,49,Hospital beds,per 10k pop,All,All,HBP10KP141,0,130,372,No
+143,Ireland,2007,52,Hospital beds,per 10k pop,All,All,HBP10KP142,0,130,372,No
+144,Israel,2010,35,Hospital beds,per 10k pop,All,All,HBP10KP143,0,130,376,No
+145,Israel,2007,58,Hospital beds,per 10k pop,All,All,HBP10KP144,0,130,376,No
+146,Italy,2009,36,Hospital beds,per 10k pop,All,All,HBP10KP145,0,130,380,No
+147,Italy,2008,37,Hospital beds,per 10k pop,All,All,HBP10KP146,0,130,380,No
+148,Jamaica,2010,19,Hospital beds,per 10k pop,All,All,HBP10KP147,0,130,388,No
+149,Jamaica,2009,17,Hospital beds,per 10k pop,All,All,HBP10KP148,0,130,388,No
+150,Japan,2009,137,Hospital beds,per 10k pop,All,All,HBP10KP149,0,130,392,No
+151,Japan,2009,137,Hospital beds,per 10k pop,All,All,HBP10KP149,0,130,392,No
+152,Japan,2008,138,Hospital beds,per 10k pop,All,All,HBP10KP150,0,130,392,No
+153,Japan,2008,138,Hospital beds,per 10k pop,All,All,HBP10KP150,0,130,392,No
+154,Jordan,2010,18,Hospital beds,per 10k pop,All,All,HBP10KP151,0,130,400,No
+155,Jordan,2009,18,Hospital beds,per 10k pop,All,All,HBP10KP152,0,130,400,No
+156,Kazakhstan,2009,76,Hospital beds,per 10k pop,All,All,HBP10KP153,0,130,398,No
+157,Kazakhstan,2007,77,Hospital beds,per 10k pop,All,All,HBP10KP154,0,130,398,No
+158,Kenya,2010,14,Hospital beds,per 10k pop,All,All,HBP10KP155,0,130,404,No
+159,Kenya,2004,14,Hospital beds,per 10k pop,All,All,HBP10KP156,0,130,404,No
+160,Kiribati,2010,14,Hospital beds,per 10k pop,All,All,HBP10KP157,0,130,296,No
+161,Kiribati,2009,15,Hospital beds,per 10k pop,All,All,HBP10KP158,0,130,296,No
+162,Kuwait,2009,20,Hospital beds,per 10k pop,All,All,HBP10KP159,0,130,414,No
+163,Kuwait,2008,18,Hospital beds,per 10k pop,All,All,HBP10KP160,0,130,414,No
+164,Kyrgyzstan,2007,51,Hospital beds,per 10k pop,All,All,HBP10KP161,0,130,417,No
+165,Lao Peoples Democratic Republic,2010,7,Hospital beds,per 10k pop,All,All,HBP10KP162,0,130,418,No
+166,Lao Peoples Democratic Republic,2005,12,Hospital beds,per 10k pop,All,All,HBP10KP163,0,130,418,No
+167,Latvia,2009,64,Hospital beds,per 10k pop,All,All,HBP10KP164,0,130,428,No
+168,Lebanon,2009,35,Hospital beds,per 10k pop,All,All,HBP10KP165,0,130,422,No
+169,Lesotho,2006,13,Hospital beds,per 10k pop,All,All,HBP10KP166,0,130,426,No
+170,Liberia,2010,8,Hospital beds,per 10k pop,All,All,HBP10KP167,0,130,430,No
+171,Liberia,2009,7,Hospital beds,per 10k pop,All,All,HBP10KP168,0,130,430,No
+172,Libya,2009,37,Hospital beds,per 10k pop,All,All,HBP10KP169,0,130,434,No
+173,Lithuania,2009,68,Hospital beds,per 10k pop,All,All,HBP10KP170,0,130,440,No
+174,Lithuania,2008,68,Hospital beds,per 10k pop,All,All,HBP10KP171,0,130,440,No
+175,Luxembourg,2009,56,Hospital beds,per 10k pop,All,All,HBP10KP172,0,130,442,No
+176,Luxembourg,2008,56,Hospital beds,per 10k pop,All,All,HBP10KP173,0,130,442,No
+177,Madagascar,2010,2,Hospital beds,per 10k pop,All,All,HBP10KP174,0,130,450,No
+178,Madagascar,2005,3,Hospital beds,per 10k pop,All,All,HBP10KP175,0,130,450,No
+179,Malawi,2011,13,Hospital beds,per 10k pop,All,All,HBP10KP176,0,130,454,No
+180,Malawi,2007,11,Hospital beds,per 10k pop,All,All,HBP10KP177,0,130,454,No
+181,Malaysia,2010,18,Hospital beds,per 10k pop,All,All,HBP10KP178,0,130,458,No
+182,Malaysia,2009,18,Hospital beds,per 10k pop,All,All,HBP10KP179,0,130,458,No
+183,Maldives,2009,43,Hospital beds,per 10k pop,All,All,HBP10KP180,0,130,462,No
+184,Maldives,2005,26,Hospital beds,per 10k pop,All,All,HBP10KP181,0,130,462,No
+185,Mali,2010,1,Hospital beds,per 10k pop,All,All,HBP10KP182,0,130,466,No
+186,Mali,2008,6,Hospital beds,per 10k pop,All,All,HBP10KP183,0,130,466,No
+187,Malta,2010,45,Hospital beds,per 10k pop,All,All,HBP10KP184,0,130,470,No
+188,Malta,2009,49,Hospital beds,per 10k pop,All,All,HBP10KP185,0,130,470,No
+189,Marshall Islands,2010,27,Hospital beds,per 10k pop,All,All,HBP10KP186,0,130,584,No
+190,Marshall Islands,2009,27,Hospital beds,per 10k pop,All,All,HBP10KP187,0,130,584,No
+191,Mauritania,2006,4,Hospital beds,per 10k pop,All,All,HBP10KP188,0,130,478,No
+192,Mauritius,2011,34,Hospital beds,per 10k pop,All,All,HBP10KP189,0,130,480,No
+193,Mauritius,2008,33,Hospital beds,per 10k pop,All,All,HBP10KP190,0,130,480,No
+194,Mexico,2009,16,Hospital beds,per 10k pop,All,All,HBP10KP191,0,130,484,No
+195,Mexico,2008,16,Hospital beds,per 10k pop,All,All,HBP10KP192,0,130,484,No
+196,Micronesia (Federated States of),2009,32,Hospital beds,per 10k pop,All,All,HBP10KP193,0,130,583,No
+197,Mongolia,2010,58,Hospital beds,per 10k pop,All,All,HBP10KP194,0,130,496,No
+198,Mongolia,2009,59,Hospital beds,per 10k pop,All,All,HBP10KP195,0,130,496,No
+199,Montenegro,2009,39,Hospital beds,per 10k pop,All,All,HBP10KP196,0,130,499,No
+200,Montenegro,2007,40,Hospital beds,per 10k pop,All,All,HBP10KP197,0,130,499,No
+201,Morocco,2009,11,Hospital beds,per 10k pop,All,All,HBP10KP198,0,130,504,No
+202,Mozambique,2011,7,Hospital beds,per 10k pop,All,All,HBP10KP199,0,130,508,No
+203,Mozambique,2007,8,Hospital beds,per 10k pop,All,All,HBP10KP200,0,130,508,No
+204,Myanmar,2006,6,Hospital beds,per 10k pop,All,All,HBP10KP201,0,130,104,No
+205,Namibia,2009,27,Hospital beds,per 10k pop,All,All,HBP10KP202,0,130,516,No
+206,Nauru,2010,50,Hospital beds,per 10k pop,All,All,HBP10KP203,0,130,520,No
+207,Nauru,2007,35,Hospital beds,per 10k pop,All,All,HBP10KP204,0,130,520,No
+208,Nepal,2006,50,Hospital beds,per 10k pop,All,All,HBP10KP205,0,130,524,No
+209,Netherlands,2009,47,Hospital beds,per 10k pop,All,All,HBP10KP206,0,130,528,No
+210,Netherlands,2008,43,Hospital beds,per 10k pop,All,All,HBP10KP207,0,130,528,No
+211,New Zealand,2011,23,Hospital beds,per 10k pop,All,All,HBP10KP208,0,130,554,No
+212,New Zealand,2011,23,Hospital beds,per 10k pop,All,All,HBP10KP208,0,130,554,No
+213,New Zealand,2002,62,Hospital beds,per 10k pop,All,All,HBP10KP209,0,130,554,No
+214,New Zealand,2002,62,Hospital beds,per 10k pop,All,All,HBP10KP209,0,130,554,No
+215,Nicaragua,2010,8,Hospital beds,per 10k pop,All,All,HBP10KP210,0,130,558,No
+216,Nicaragua,2008,9,Hospital beds,per 10k pop,All,All,HBP10KP211,0,130,558,No
+217,Niger,2005,3,Hospital beds,per 10k pop,All,All,HBP10KP212,0,130,562,No
+218,Nigeria,2004,5,Hospital beds,per 10k pop,All,All,HBP10KP213,0,130,566,No
+219,Niue,2006,52,Hospital beds,per 10k pop,All,All,HBP10KP214,0,130,570,No
+220,Norway,2009,33,Hospital beds,per 10k pop,All,All,HBP10KP215,0,130,578,No
+221,Norway,2008,35,Hospital beds,per 10k pop,All,All,HBP10KP216,0,130,578,No
+222,Oman,2009,18,Hospital beds,per 10k pop,All,All,HBP10KP217,0,130,512,No
+223,Oman,2008,19,Hospital beds,per 10k pop,All,All,HBP10KP218,0,130,512,No
+224,Pakistan,2010,6,Hospital beds,per 10k pop,All,All,HBP10KP219,0,130,586,No
+225,Pakistan,2009,6,Hospital beds,per 10k pop,All,All,HBP10KP220,0,130,586,No
+226,Palau,2010,48,Hospital beds,per 10k pop,All,All,HBP10KP221,0,130,585,No
+227,Palau,2009,49,Hospital beds,per 10k pop,All,All,HBP10KP222,0,130,585,No
+228,Panama,2009,22,Hospital beds,per 10k pop,All,All,HBP10KP223,0,130,591,No
+229,Panama,2009,22,Hospital beds,per 10k pop,All,All,HBP10KP223,0,130,590,No
+230,Paraguay,2010,13,Hospital beds,per 10k pop,All,All,HBP10KP224,0,130,600,No
+231,Paraguay,2009,13,Hospital beds,per 10k pop,All,All,HBP10KP225,0,130,600,No
+232,Peru,2010,15,Hospital beds,per 10k pop,All,All,HBP10KP226,0,130,604,No
+233,Peru,2009,15,Hospital beds,per 10k pop,All,All,HBP10KP227,0,130,604,No
+234,Philippines,2009,5,Hospital beds,per 10k pop,All,All,HBP10KP228,0,130,608,No
+235,Philippines,2006,5,Hospital beds,per 10k pop,All,All,HBP10KP229,0,130,608,No
+236,Poland,2009,67,Hospital beds,per 10k pop,All,All,HBP10KP230,0,130,616,No
+237,Poland,2008,66,Hospital beds,per 10k pop,All,All,HBP10KP231,0,130,616,No
+238,Portugal,2009,33,Hospital beds,per 10k pop,All,All,HBP10KP232,0,130,620,No
+239,Portugal,2008,34,Hospital beds,per 10k pop,All,All,HBP10KP233,0,130,620,No
+240,Qatar,2009,12,Hospital beds,per 10k pop,All,All,HBP10KP234,0,130,634,No
+241,Qatar,2008,14,Hospital beds,per 10k pop,All,All,HBP10KP235,0,130,634,No
+242,Republic of Korea,2009,103,Hospital beds,per 10k pop,All,All,HBP10KP236,0,130,410,No
+243,Republic of Korea,2008,123,Hospital beds,per 10k pop,All,All,HBP10KP237,0,130,410,No
+244,Republic of Moldova,2009,62,Hospital beds,per 10k pop,All,All,HBP10KP238,0,130,498,No
+245,Republic of Moldova,2007,61,Hospital beds,per 10k pop,All,All,HBP10KP239,0,130,498,No
+246,Romania,2009,66,Hospital beds,per 10k pop,All,All,HBP10KP240,0,130,642,No
+247,Romania,2006,65,Hospital beds,per 10k pop,All,All,HBP10KP241,0,130,642,No
+248,Russian Federation,2006,97,Hospital beds,per 10k pop,All,All,HBP10KP242,0,130,643,No
+249,Rwanda,2006,16,Hospital beds,per 10k pop,All,All,HBP10KP243,0,130,646,No
+250,Saint Kitts and Nevis,2010,48,Hospital beds,per 10k pop,All,All,HBP10KP244,0,130,659,No
+251,Saint Kitts and Nevis,2009,60,Hospital beds,per 10k pop,All,All,HBP10KP245,0,130,659,No
+252,Saint Lucia,2009,15,Hospital beds,per 10k pop,All,All,HBP10KP246,0,130,662,No
+253,Saint Vincent and the Grenadines,2010,26,Hospital beds,per 10k pop,All,All,HBP10KP247,0,130,670,No
+254,Saint Vincent and the Grenadines,2007,30,Hospital beds,per 10k pop,All,All,HBP10KP248,0,130,670,No
+255,Samoa,2005,10,Hospital beds,per 10k pop,All,All,HBP10KP249,0,130,882,No
+256,Sao Tome and Principe,2011,29,Hospital beds,per 10k pop,All,All,HBP10KP250,0,130,678,No
+257,Sao Tome and Principe,2006,32,Hospital beds,per 10k pop,All,All,HBP10KP251,0,130,678,No
+258,Saudi Arabia,2009,22,Hospital beds,per 10k pop,All,All,HBP10KP252,0,130,682,No
+259,Saudi Arabia,2008,22,Hospital beds,per 10k pop,All,All,HBP10KP253,0,130,682,No
+260,Senegal,2008,3,Hospital beds,per 10k pop,All,All,HBP10KP254,0,130,686,No
+261,Serbia,2009,54,Hospital beds,per 10k pop,All,All,HBP10KP255,0,130,688,No
+262,Serbia,2007,54,Hospital beds,per 10k pop,All,All,HBP10KP256,0,130,688,No
+263,Seychelles,2011,36,Hospital beds,per 10k pop,All,All,HBP10KP257,0,130,690,No
+264,Seychelles,2009,39,Hospital beds,per 10k pop,All,All,HBP10KP258,0,130,690,No
+265,Sierra Leone,2006,4,Hospital beds,per 10k pop,All,All,HBP10KP259,0,130,694,No
+266,Singapore,2008,31,Hospital beds,per 10k pop,All,All,HBP10KP260,0,130,702,No
+267,Slovakia,2009,65,Hospital beds,per 10k pop,All,All,HBP10KP261,0,130,703,No
+268,Slovakia,2008,66,Hospital beds,per 10k pop,All,All,HBP10KP262,0,130,703,No
+269,Slovenia,2009,46,Hospital beds,per 10k pop,All,All,HBP10KP263,0,130,705,No
+270,Slovenia,2008,47,Hospital beds,per 10k pop,All,All,HBP10KP264,0,130,705,No
+271,South Africa,2005,28,Hospital beds,per 10k pop,All,All,HBP10KP265,0,130,710,No
+272,Spain,2009,32,Hospital beds,per 10k pop,All,All,HBP10KP266,0,130,724,No
+273,Spain,2008,32,Hospital beds,per 10k pop,All,All,HBP10KP267,0,130,724,No
+274,Sri Lanka,2004,31,Hospital beds,per 10k pop,All,All,HBP10KP268,0,130,144,No
+275,Sudan,2009,7,Hospital beds,per 10k pop,All,All,HBP10KP269,0,130,729,No
+276,Sudan,2009,7,Hospital beds,per 10k pop,All,All,HBP10KP269,0,130,736,No
+277,Sudan,2008,7,Hospital beds,per 10k pop,All,All,HBP10KP270,0,130,729,No
+278,Sudan,2008,7,Hospital beds,per 10k pop,All,All,HBP10KP270,0,130,736,No
+279,Suriname,2009,26,Hospital beds,per 10k pop,All,All,HBP10KP271,0,130,740,No
+280,Suriname,2007,31,Hospital beds,per 10k pop,All,All,HBP10KP272,0,130,740,No
+281,Swaziland,2011,21,Hospital beds,per 10k pop,All,All,HBP10KP273,0,130,748,No
+282,Swaziland,2006,21,Hospital beds,per 10k pop,All,All,HBP10KP274,0,130,748,No
+283,Sweden,2009,28,Hospital beds,per 10k pop,All,All,HBP10KP275,0,130,752,No
+284,Switzerland,2009,52,Hospital beds,per 10k pop,All,All,HBP10KP276,0,130,756,No
+285,Switzerland,2009,52,Hospital beds,per 10k pop,All,All,HBP10KP276,0,130,756,No
+286,Switzerland,2008,53,Hospital beds,per 10k pop,All,All,HBP10KP277,0,130,756,No
+287,Switzerland,2008,53,Hospital beds,per 10k pop,All,All,HBP10KP277,0,130,756,No
+288,Syrian Arab Republic,2010,15,Hospital beds,per 10k pop,All,All,HBP10KP278,0,130,760,No
+289,Syrian Arab Republic,2009,15,Hospital beds,per 10k pop,All,All,HBP10KP279,0,130,760,No
+290,Tajikistan,2009,52,Hospital beds,per 10k pop,All,All,HBP10KP280,0,130,762,No
+291,Tajikistan,2006,61,Hospital beds,per 10k pop,All,All,HBP10KP281,0,130,762,No
+292,Thailand,2010,21,Hospital beds,per 10k pop,All,All,HBP10KP282,0,130,764,No
+293,Thailand,2002,22,Hospital beds,per 10k pop,All,All,HBP10KP283,0,130,764,No
+294,The former Yugoslav Republic of Macedonia,2009,45,Hospital beds,per 10k pop,All,All,HBP10KP284,0,130,807,No
+295,The former Yugoslav Republic of Macedonia,2006,46,Hospital beds,per 10k pop,All,All,HBP10KP285,0,130,807,No
+296,Timor-Leste,2010,59,Hospital beds,per 10k pop,All,All,HBP10KP286,0,130,626,No
+297,Togo,2011,7,Hospital beds,per 10k pop,All,All,HBP10KP287,0,130,768,No
+298,Togo,2005,9,Hospital beds,per 10k pop,All,All,HBP10KP288,0,130,768,No
+299,Tonga,2010,26,Hospital beds,per 10k pop,All,All,HBP10KP289,0,130,776,No
+300,Tonga,2008,24,Hospital beds,per 10k pop,All,All,HBP10KP290,0,130,776,No
+301,Trinidad and Tobago,2009,26,Hospital beds,per 10k pop,All,All,HBP10KP291,0,130,780,No
+302,Trinidad and Tobago,2008,25,Hospital beds,per 10k pop,All,All,HBP10KP292,0,130,780,No
+303,Tunisia,2010,21,Hospital beds,per 10k pop,All,All,HBP10KP293,0,130,788,No
+304,Tunisia,2009,21,Hospital beds,per 10k pop,All,All,HBP10KP294,0,130,788,No
+305,Turkey,2009,25,Hospital beds,per 10k pop,All,All,HBP10KP295,0,130,792,No
+306,Turkey,2008,24,Hospital beds,per 10k pop,All,All,HBP10KP296,0,130,792,No
+307,Turkmenistan,2009,40,Hospital beds,per 10k pop,All,All,HBP10KP297,0,130,795,No
+308,Turkmenistan,2007,41,Hospital beds,per 10k pop,All,All,HBP10KP298,0,130,795,No
+309,Tuvalu,2001,56,Hospital beds,per 10k pop,All,All,HBP10KP299,0,130,798,No
+310,Uganda,2010,5,Hospital beds,per 10k pop,All,All,HBP10KP300,0,130,800,No
+311,Uganda,2009,4,Hospital beds,per 10k pop,All,All,HBP10KP301,0,130,800,No
+312,Ukraine,2009,87,Hospital beds,per 10k pop,All,All,HBP10KP302,0,130,804,No
+313,Ukraine,2006,87,Hospital beds,per 10k pop,All,All,HBP10KP303,0,130,804,No
+314,United Arab Emirates,2008,19,Hospital beds,per 10k pop,All,All,HBP10KP304,0,130,784,No
+315,United Kingdom,2009,33,Hospital beds,per 10k pop,All,All,HBP10KP305,0,130,826,No
+316,United Kingdom,2008,34,Hospital beds,per 10k pop,All,All,HBP10KP306,0,130,826,No
+317,United Republic of Tanzania,2010,7,Hospital beds,per 10k pop,All,All,HBP10KP307,0,130,834,No
+318,United Republic of Tanzania,2006,11,Hospital beds,per 10k pop,All,All,HBP10KP308,0,130,834,No
+319,United States of America,2009,30,Hospital beds,per 10k pop,All,All,HBP10KP309,0,130,840,No
+320,United States of America,2008,31,Hospital beds,per 10k pop,All,All,HBP10KP310,0,130,840,No
+321,Uruguay,2010,12,Hospital beds,per 10k pop,All,All,HBP10KP311,0,130,858,No
+322,Uruguay,2007,29,Hospital beds,per 10k pop,All,All,HBP10KP312,0,130,858,No
+323,Uzbekistan,2009,46,Hospital beds,per 10k pop,All,All,HBP10KP313,0,130,860,No
+324,Uzbekistan,2007,48,Hospital beds,per 10k pop,All,All,HBP10KP314,0,130,860,No
+325,Vanuatu,2008,17,Hospital beds,per 10k pop,All,All,HBP10KP315,0,130,548,No
+326,Venezuela (Bolivarian Republic of),2009,11,Hospital beds,per 10k pop,All,All,HBP10KP316,0,130,862,No
+327,Venezuela (Bolivarian Republic of),2007,13,Hospital beds,per 10k pop,All,All,HBP10KP317,0,130,862,No
+328,Viet Nam,2009,31,Hospital beds,per 10k pop,All,All,HBP10KP318,0,130,704,No
+329,Viet Nam,2008,29,Hospital beds,per 10k pop,All,All,HBP10KP319,0,130,704,No
+330,Yemen,2010,7,Hospital beds,per 10k pop,All,All,HBP10KP320,0,130,887,No
+331,Yemen,2010,7,Hospital beds,per 10k pop,All,All,HBP10KP320,0,130,886,No
+332,Yemen,2009,7,Hospital beds,per 10k pop,All,All,HBP10KP321,0,130,887,No
+333,Yemen,2009,7,Hospital beds,per 10k pop,All,All,HBP10KP321,0,130,886,No
+334,Zambia,2010,20,Hospital beds,per 10k pop,All,All,HBP10KP322,0,130,894,No
+335,Zambia,2008,19,Hospital beds,per 10k pop,All,All,HBP10KP323,0,130,894,No
+336,Zimbabwe,2011,17,Hospital beds,per 10k pop,All,All,HBP10KP324,0,130,716,No
+337,Zimbabwe,2006,30,Hospital beds,per 10k pop,All,All,HBP10KP325,0,130,716,No

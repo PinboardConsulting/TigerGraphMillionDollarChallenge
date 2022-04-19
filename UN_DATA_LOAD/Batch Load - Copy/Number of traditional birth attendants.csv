@@ -1,0 +1,43 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Algeria,2007,993,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT1,0,130,12,No
+1,Algeria,2002,1062,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT2,0,130,12,No
+2,Bahrain,2004,0,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT3,0,130,48,No
+3,Bangladesh,2004,25000,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT4,0,130,50,No
+4,Benin,2004,88,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT5,0,130,204,No
+5,Burkina Faso,2004,90,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT6,0,130,854,No
+6,Burundi,2004,109,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT7,0,130,108,No
+7,Central African Republic,2004,112,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT8,0,130,140,No
+8,Chad,2004,114,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT9,0,130,148,No
+9,Comoros,2004,41,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT10,0,130,174,No
+10,Congo,2004,124,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT11,0,130,178,No
+11,Djibouti,2004,23,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT12,0,130,262,No
+12,Equatorial Guinea,2004,967,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT13,0,130,226,No
+13,Ethiopia,2003,5219,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT14,0,130,231,No
+14,Ethiopia,2003,5219,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT14,0,130,230,No
+15,Gambia,2003,556,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT15,0,130,270,No
+16,Guinea,2005,170,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT16,0,130,324,No
+17,Guinea,2004,93,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT17,0,130,324,No
+18,Guinea-Bissau,2004,2131,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT18,0,130,624,No
+19,Indonesia,2003,0,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT19,0,130,360,No
+20,Liberia,2004,142,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT20,0,130,430,No
+21,Maldives,2010,214,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT21,0,130,462,No
+22,Maldives,2009,119,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT22,0,130,462,No
+23,Maldives,2007,307,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT23,0,130,462,No
+24,Maldives,2004,404,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT24,0,130,462,No
+25,Maldives,1996,477,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT25,0,130,462,No
+26,Maldives,1993,658,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT26,0,130,462,No
+27,Maldives,1991,694,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT27,0,130,462,No
+28,Maldives,1989,557,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT28,0,130,462,No
+29,Mali,2007,1106,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT29,0,130,466,No
+30,Mauritania,2009,975,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT30,0,130,478,No
+31,Mauritania,2004,429,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT31,0,130,478,No
+32,Sao Tome and Principe,2004,224,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT32,0,130,678,No
+33,Sudan,2004,1081,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT33,0,130,729,No
+34,Sudan,2004,1081,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT33,0,130,736,No
+35,Swaziland,2004,700,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT34,0,130,748,No
+36,Timor-Leste,2004,1647,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT35,0,130,626,No
+37,Togo,2004,475,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT36,0,130,768,No
+38,Yemen,2004,3483,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT37,0,130,887,No
+39,Yemen,2004,3483,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT37,0,130,886,No
+40,Zambia,2008,5215,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT38,0,130,894,No
+41,Zambia,2005,5332,Number of traditional birth attendants,Absolute,All,All,NOOTRBAT39,0,130,894,No

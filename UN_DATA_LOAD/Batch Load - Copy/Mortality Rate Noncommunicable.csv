@@ -1,0 +1,201 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2008,1117,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC1,30,70,4,No
+1,Albania,2008,716,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC2,30,70,8,No
+2,Algeria,2008,523,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC3,30,70,12,No
+3,Andorra,2008,338,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC4,30,70,20,No
+4,Angola,2008,842,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC5,30,70,24,No
+5,Antigua and Barbuda,2008,548,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC6,30,70,28,No
+6,Argentina,2008,501,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC7,30,70,32,No
+7,Armenia,2008,902,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC8,30,70,51,No
+8,Australia,2008,330,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC9,30,70,36,No
+9,Austria,2008,373,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC10,30,70,40,No
+10,Azerbaijan,2008,935,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC11,30,70,31,No
+11,Bahamas,2008,457,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC12,30,70,44,No
+12,Bahrain,2008,590,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC13,30,70,48,No
+13,Bangladesh,2008,702,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC14,30,70,50,No
+14,Barbados,2008,488,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC15,30,70,52,No
+15,Belarus,2008,749,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC16,30,70,112,No
+16,Belgium,2008,367,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC17,30,70,56,No
+17,Belize,2008,497,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC18,30,70,84,No
+18,Benin,2008,804,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC19,30,70,204,No
+19,Bhutan,2008,735,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC20,30,70,64,No
+20,Bolivia (Plurinational State of),2008,644,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC21,30,70,68,No
+21,Bosnia and Herzegovina,2008,584,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC22,30,70,70,No
+22,Botswana,2008,606,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC23,30,70,72,No
+23,Brazil,2008,534,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC24,30,70,76,No
+24,Brunei Darussalam,2008,520,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC25,30,70,96,No
+25,Bulgaria,2008,693,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC26,30,70,100,No
+26,Burkina Faso,2008,810,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC27,30,70,854,No
+27,Burundi,2008,839,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC28,30,70,108,No
+28,Cabo Verde,2008,538,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC29,30,70,132,No
+29,Cambodia,2008,748,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC30,30,70,116,No
+30,Cameroon,2008,879,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC31,30,70,120,No
+31,Canada,2008,346,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC32,30,70,124,No
+32,Central African Republic,2008,870,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC33,30,70,140,No
+33,Chad,2008,866,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC34,30,70,148,No
+34,Chile,2008,419,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC35,30,70,152,No
+35,China,2008,604,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC36,30,70,156,No
+36,Colombia,2008,404,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC37,30,70,170,No
+37,Comoros,2008,789,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC38,30,70,174,No
+38,Congo,2008,811,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC39,30,70,178,No
+39,Cook Islands,2008,455,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC40,30,70,184,No
+40,Costa Rica,2008,409,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC41,30,70,188,No
+41,Côte dIvoire,2008,942,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC42,30,70,384,No
+42,Croatia,2008,560,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC43,30,70,191,No
+43,Cuba,2008,468,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC44,30,70,192,No
+44,Cyprus,2008,371,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC45,30,70,196,No
+45,Czech Republic,2008,496,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC46,30,70,203,No
+46,Democratic Peoples Republic of Korea,2008,548,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC47,30,70,408,No
+47,Democratic Republic of the Congo,2008,837,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC48,30,70,180,No
+48,Denmark,2008,440,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC49,30,70,208,No
+49,Djibouti,2008,809,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC50,30,70,262,No
+50,Dominica,2008,632,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC51,30,70,212,No
+51,Dominican Republic,2008,573,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC52,30,70,214,No
+52,Ecuador,2008,400,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC53,30,70,218,No
+53,Egypt,2008,749,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC54,30,70,818,No
+54,El Salvador,2008,523,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC55,30,70,222,No
+55,Equatorial Guinea,2008,854,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC56,30,70,226,No
+56,Eritrea,2008,670,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC57,30,70,232,No
+57,Estonia,2008,585,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC58,30,70,233,No
+58,Ethiopia,2008,903,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC59,30,70,231,No
+59,Ethiopia,2008,903,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC59,30,70,230,No
+60,Fiji,2008,752,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC60,30,70,242,No
+61,Finland,2008,377,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC61,30,70,246,No
+62,France,2008,336,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC62,30,70,250,No
+63,Gabon,2008,660,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC63,30,70,266,No
+64,Gambia,2008,735,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC64,30,70,270,No
+65,Georgia,2008,670,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC65,30,70,268,No
+66,Germany,2008,394,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC66,30,70,276,No
+67,Ghana,2008,711,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC67,30,70,288,No
+68,Greece,2008,388,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC68,30,70,300,No
+69,Grenada,2008,580,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC69,30,70,308,No
+70,Guatemala,2008,471,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC70,30,70,320,No
+71,Guinea,2008,932,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC71,30,70,324,No
+72,Guinea-Bissau,2008,916,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC72,30,70,624,No
+73,Guyana,2008,677,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC73,30,70,328,No
+74,Haiti,2008,697,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC74,30,70,332,No
+75,Honduras,2008,729,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC75,30,70,340,No
+76,Hungary,2008,648,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC76,30,70,348,No
+77,Iceland,2008,332,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC77,30,70,352,No
+78,India,2008,685,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC78,30,70,356,No
+79,Indonesia,2008,647,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC79,30,70,360,No
+80,Iran (Islamic Republic of),2008,599,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC80,30,70,364,No
+81,Iraq,2008,691,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC81,30,70,368,No
+82,Ireland,2008,385,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC82,30,70,372,No
+83,Israel,2008,337,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC83,30,70,376,No
+84,Italy,2008,342,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC84,30,70,380,No
+85,Jamaica,2008,518,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC85,30,70,388,No
+86,Japan,2008,273,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC86,30,70,392,No
+87,Japan,2008,273,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC86,30,70,392,No
+88,Jordan,2008,727,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC87,30,70,400,No
+89,Kazakhstan,2008,985,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC88,30,70,398,No
+90,Kenya,2008,681,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC89,30,70,404,No
+91,Kiribati,2008,703,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC90,30,70,296,No
+92,Kuwait,2008,399,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC91,30,70,414,No
+93,Kyrgyzstan,2008,913,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC92,30,70,417,No
+94,Lao Peoples Democratic Republic,2008,771,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC93,30,70,418,No
+95,Latvia,2008,666,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC94,30,70,428,No
+96,Lebanon,2008,597,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC95,30,70,422,No
+97,Lesotho,2008,774,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC96,30,70,426,No
+98,Liberia,2008,766,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC97,30,70,430,No
+99,Libya,2008,655,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC98,30,70,434,No
+100,Lithuania,2008,637,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC99,30,70,440,No
+101,Luxembourg,2008,362,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC100,30,70,442,No
+102,Madagascar,2008,706,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC101,30,70,450,No
+103,Malawi,2008,999,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC102,30,70,454,No
+104,Malaysia,2008,526,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC103,30,70,458,No
+105,Maldives,2008,598,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC104,30,70,462,No
+106,Mali,2008,733,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC105,30,70,466,No
+107,Malta,2008,391,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC106,30,70,470,No
+108,Marshall Islands,2008,1289,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC107,30,70,584,No
+109,Mauritania,2008,746,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC108,30,70,478,No
+110,Mauritius,2008,664,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC109,30,70,480,No
+111,Mexico,2008,493,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC110,30,70,484,No
+112,Micronesia (Federated States of),2008,704,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC111,30,70,583,No
+113,Monaco,2008,320,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC112,30,70,492,No
+114,Mongolia,2008,713,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC113,30,70,496,No
+115,Montenegro,2008,640,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC114,30,70,499,No
+116,Morocco,2008,597,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC115,30,70,504,No
+117,Mozambique,2008,908,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC116,30,70,508,No
+118,Myanmar,2008,667,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC117,30,70,104,No
+119,Namibia,2008,791,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC118,30,70,516,No
+120,Nauru,2008,1092,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC119,30,70,520,No
+121,Nepal,2008,620,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC120,30,70,524,No
+122,Netherlands,2008,377,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC121,30,70,528,No
+123,New Zealand,2008,369,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC122,30,70,554,No
+124,New Zealand,2008,369,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC122,30,70,554,No
+125,Nicaragua,2008,499,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC123,30,70,558,No
+126,Niger,2008,647,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC124,30,70,562,No
+127,Nigeria,2008,809,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC125,30,70,566,No
+128,Niue,2008,558,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC126,30,70,570,No
+129,Norway,2008,363,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC127,30,70,578,No
+130,Oman,2008,648,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC128,30,70,512,No
+131,Pakistan,2008,711,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC129,30,70,586,No
+132,Palau,2008,587,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC130,30,70,585,No
+133,Panama,2008,394,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC131,30,70,591,No
+134,Panama,2008,394,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC131,30,70,590,No
+135,Papua New Guinea,2008,748,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC132,30,70,598,No
+136,Paraguay,2008,470,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC133,30,70,600,No
+137,Peru,2008,387,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC134,30,70,604,No
+138,Philippines,2008,599,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC135,30,70,608,No
+139,Poland,2008,546,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC136,30,70,616,No
+140,Portugal,2008,394,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC137,30,70,620,No
+141,Qatar,2008,392,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC138,30,70,634,No
+142,Republic of Korea,2008,355,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC139,30,70,410,No
+143,Republic of Moldova,2008,831,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC140,30,70,498,No
+144,Romania,2008,643,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC141,30,70,642,No
+145,Russian Federation,2008,797,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC142,30,70,643,No
+146,Rwanda,2008,740,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC143,30,70,646,No
+147,Saint Kitts and Nevis,2008,640,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC144,30,70,659,No
+148,Saint Lucia,2008,517,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC145,30,70,662,No
+149,Saint Vincent and the Grenadines,2008,596,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC146,30,70,670,No
+150,Samoa,2008,683,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC147,30,70,882,No
+151,San Marino,2008,312,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC148,30,70,674,No
+152,Sao Tome and Principe,2008,605,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC149,30,70,678,No
+153,Saudi Arabia,2008,644,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC150,30,70,682,No
+154,Senegal,2008,665,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC151,30,70,686,No
+155,Serbia,2008,712,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC152,30,70,688,No
+156,Seychelles,2008,591,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC153,30,70,690,No
+157,Sierra Leone,2008,763,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC154,30,70,694,No
+158,Singapore,2008,313,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC155,30,70,702,No
+159,Slovakia,2008,595,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC156,30,70,703,No
+160,Slovenia,2008,405,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC157,30,70,705,No
+161,Solomon Islands,2008,623,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC158,30,70,90,No
+162,Somalia,2008,967,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC159,30,70,706,No
+163,South Africa,2008,635,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC160,30,70,710,No
+164,Spain,2008,351,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC161,30,70,724,No
+165,Sri Lanka,2008,623,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC162,30,70,144,No
+166,Sudan,2008,897,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC163,30,70,729,No
+167,Sudan,2008,897,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC163,30,70,736,No
+168,Suriname,2008,572,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC164,30,70,740,No
+169,Swaziland,2008,867,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC165,30,70,748,No
+170,Sweden,2008,358,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC166,30,70,752,No
+171,Switzerland,2008,323,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC167,30,70,756,No
+172,Switzerland,2008,323,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC167,30,70,756,No
+173,Syrian Arab Republic,2008,619,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC168,30,70,760,No
+174,Tajikistan,2008,730,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC169,30,70,762,No
+175,Thailand,2008,675,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC170,30,70,764,No
+176,The former Yugoslav Republic of Macedonia,2008,688,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC171,30,70,807,No
+177,Timor-Leste,2008,560,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC172,30,70,626,No
+178,Togo,2008,716,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC173,30,70,768,No
+179,Tonga,2008,670,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC174,30,70,776,No
+180,Trinidad and Tobago,2008,673,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC175,30,70,780,No
+181,Tunisia,2008,465,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC176,30,70,788,No
+182,Turkey,2008,590,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC177,30,70,792,No
+183,Turkmenistan,2008,1016,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC178,30,70,795,No
+184,Tuvalu,2008,1015,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC179,30,70,798,No
+185,Uganda,2008,888,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC180,30,70,800,No
+186,Ukraine,2008,823,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC181,30,70,804,No
+187,United Arab Emirates,2008,406,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC182,30,70,784,No
+188,United Kingdom,2008,401,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC183,30,70,826,No
+189,United Republic of Tanzania,2008,745,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC184,30,70,834,No
+190,United States of America,2008,418,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC185,30,70,840,No
+191,Uruguay,2008,524,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC186,30,70,858,No
+192,Uzbekistan,2008,838,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC187,30,70,860,No
+193,Vanuatu,2008,687,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC188,30,70,548,No
+194,Venezuela (Bolivarian Republic of),2008,433,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC189,30,70,862,No
+195,Viet Nam,2008,607,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC190,30,70,704,No
+196,Yemen,2008,807,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC191,30,70,887,No
+197,Yemen,2008,807,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC191,30,70,886,No
+198,Zambia,2008,938,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC192,30,70,894,No
+199,Zimbabwe,2008,622,Mortality Rate Noncommunicable,per 100k pop,30-70,All,MRNC193,30,70,716,No

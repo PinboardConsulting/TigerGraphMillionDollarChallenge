@@ -1,0 +1,201 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2008,69,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC1,30,70,4,No
+1,Albania,2008,10,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC2,30,70,8,No
+2,Algeria,2008,48,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC3,30,70,12,No
+3,Andorra,2008,16,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC4,30,70,20,No
+4,Angola,2008,110,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC5,30,70,24,No
+5,Antigua and Barbuda,2008,19,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC6,30,70,28,No
+6,Argentina,2008,39,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC7,30,70,32,No
+7,Armenia,2008,34,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC8,30,70,51,No
+8,Australia,2008,11,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC9,30,70,36,No
+9,Austria,2008,10,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC10,30,70,40,No
+10,Azerbaijan,2008,29,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC11,30,70,31,No
+11,Bahamas,2008,15,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC12,30,70,44,No
+12,Bahrain,2008,20,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC13,30,70,48,No
+13,Bangladesh,2008,97,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC14,30,70,50,No
+14,Barbados,2008,19,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC15,30,70,52,No
+15,Belarus,2008,26,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC16,30,70,112,No
+16,Belgium,2008,19,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC17,30,70,56,No
+17,Belize,2008,29,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC18,30,70,84,No
+18,Benin,2008,102,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC19,30,70,204,No
+19,Bhutan,2008,87,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC20,30,70,64,No
+20,Bolivia (Plurinational State of),2008,37,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC21,30,70,68,No
+21,Bosnia and Herzegovina,2008,13,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC22,30,70,70,No
+22,Botswana,2008,70,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC23,30,70,72,No
+23,Brazil,2008,32,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC24,30,70,76,No
+24,Brunei Darussalam,2008,26,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC25,30,70,96,No
+25,Bulgaria,2008,16,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC26,30,70,100,No
+26,Burkina Faso,2008,94,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC27,30,70,854,No
+27,Burundi,2008,91,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC28,30,70,108,No
+28,Cabo Verde,2008,55,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC29,30,70,132,No
+29,Cambodia,2008,63,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC30,30,70,116,No
+30,Cameroon,2008,115,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC31,30,70,120,No
+31,Canada,2008,11,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC32,30,70,124,No
+32,Central African Republic,2008,116,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC33,30,70,140,No
+33,Chad,2008,111,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC34,30,70,148,No
+34,Chile,2008,17,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC35,30,70,152,No
+35,China,2008,49,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC36,30,70,156,No
+36,Colombia,2008,21,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC37,30,70,170,No
+37,Comoros,2008,92,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC38,30,70,174,No
+38,Congo,2008,95,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC39,30,70,178,No
+39,Cook Islands,2008,38,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC40,30,70,184,No
+40,Costa Rica,2008,12,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC41,30,70,188,No
+41,Côte dIvoire,2008,166,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC42,30,70,384,No
+42,Croatia,2008,8,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC43,30,70,191,No
+43,Cuba,2008,19,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC44,30,70,192,No
+44,Cyprus,2008,7,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC45,30,70,196,No
+45,Czech Republic,2008,13,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC46,30,70,203,No
+46,Democratic Peoples Republic of Korea,2008,49,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC47,30,70,408,No
+47,Democratic Republic of the Congo,2008,95,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC48,30,70,180,No
+48,Denmark,2008,18,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC49,30,70,208,No
+49,Djibouti,2008,43,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC50,30,70,262,No
+50,Dominica,2008,30,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC51,30,70,212,No
+51,Dominican Republic,2008,27,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC52,30,70,214,No
+52,Ecuador,2008,10,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC53,30,70,218,No
+53,Egypt,2008,20,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC54,30,70,818,No
+54,El Salvador,2008,21,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC55,30,70,222,No
+55,Equatorial Guinea,2008,108,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC56,30,70,226,No
+56,Eritrea,2008,73,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC57,30,70,232,No
+57,Estonia,2008,13,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC58,30,70,233,No
+58,Ethiopia,2008,115,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC59,30,70,231,No
+59,Ethiopia,2008,115,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC59,30,70,230,No
+60,Fiji,2008,58,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC60,30,70,242,No
+61,Finland,2008,8,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC61,30,70,246,No
+62,France,2008,8,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC62,30,70,250,No
+63,Gabon,2008,80,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC63,30,70,266,No
+64,Gambia,2008,118,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC64,30,70,270,No
+65,Georgia,2008,8,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC65,30,70,268,No
+66,Germany,2008,11,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC66,30,70,276,No
+67,Ghana,2008,93,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC67,30,70,288,No
+68,Greece,2008,11,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC68,30,70,300,No
+69,Grenada,2008,26,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC69,30,70,308,No
+70,Guatemala,2008,14,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC70,30,70,320,No
+71,Guinea,2008,137,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC71,30,70,324,No
+72,Guinea-Bissau,2008,128,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC72,30,70,624,No
+73,Guyana,2008,23,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC73,30,70,328,No
+74,Haiti,2008,25,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC74,30,70,332,No
+75,Honduras,2008,22,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC75,30,70,340,No
+76,Hungary,2008,29,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC76,30,70,348,No
+77,Iceland,2008,7,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC77,30,70,352,No
+78,India,2008,133,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC78,30,70,356,No
+79,Indonesia,2008,64,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC79,30,70,360,No
+80,Iran (Islamic Republic of),2008,23,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC80,30,70,364,No
+81,Iraq,2008,35,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC81,30,70,368,No
+82,Ireland,2008,12,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC82,30,70,372,No
+83,Israel,2008,12,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC83,30,70,376,No
+84,Italy,2008,6,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC84,30,70,380,No
+85,Jamaica,2008,26,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC85,30,70,388,No
+86,Japan,2008,6,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC86,30,70,392,No
+87,Japan,2008,6,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC86,30,70,392,No
+88,Jordan,2008,24,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC87,30,70,400,No
+89,Kazakhstan,2008,41,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC88,30,70,398,No
+90,Kenya,2008,69,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC89,30,70,404,No
+91,Kiribati,2008,47,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC90,30,70,296,No
+92,Kuwait,2008,10,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC91,30,70,414,No
+93,Kyrgyzstan,2008,63,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC92,30,70,417,No
+94,Lao Peoples Democratic Republic,2008,99,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC93,30,70,418,No
+95,Latvia,2008,12,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC94,30,70,428,No
+96,Lebanon,2008,22,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC95,30,70,422,No
+97,Lesotho,2008,108,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC96,30,70,426,No
+98,Liberia,2008,89,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC97,30,70,430,No
+99,Libya,2008,27,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC98,30,70,434,No
+100,Lithuania,2008,14,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC99,30,70,440,No
+101,Luxembourg,2008,16,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC100,30,70,442,No
+102,Madagascar,2008,69,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC101,30,70,450,No
+103,Malawi,2008,125,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC102,30,70,454,No
+104,Malaysia,2008,36,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC103,30,70,458,No
+105,Maldives,2008,74,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC104,30,70,462,No
+106,Mali,2008,71,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC105,30,70,466,No
+107,Malta,2008,11,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC106,30,70,470,No
+108,Marshall Islands,2008,195,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC107,30,70,584,No
+109,Mauritania,2008,85,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC108,30,70,478,No
+110,Mauritius,2008,29,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC109,30,70,480,No
+111,Mexico,2008,20,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC110,30,70,484,No
+112,Micronesia (Federated States of),2008,51,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC111,30,70,583,No
+113,Monaco,2008,8,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC112,30,70,492,No
+114,Mongolia,2008,22,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC113,30,70,496,No
+115,Montenegro,2008,21,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC114,30,70,499,No
+116,Morocco,2008,23,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC115,30,70,504,No
+117,Mozambique,2008,125,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC116,30,70,508,No
+118,Myanmar,2008,65,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC117,30,70,104,No
+119,Namibia,2008,84,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC118,30,70,516,No
+120,Nauru,2008,100,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC119,30,70,520,No
+121,Nepal,2008,57,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC120,30,70,524,No
+122,Netherlands,2008,12,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC121,30,70,528,No
+123,New Zealand,2008,14,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC122,30,70,554,No
+124,New Zealand,2008,14,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC122,30,70,554,No
+125,Nicaragua,2008,21,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC123,30,70,558,No
+126,Niger,2008,57,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC124,30,70,562,No
+127,Nigeria,2008,90,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC125,30,70,566,No
+128,Niue,2008,41,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC126,30,70,570,No
+129,Norway,2008,15,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC127,30,70,578,No
+130,Oman,2008,19,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC128,30,70,512,No
+131,Pakistan,2008,86,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC129,30,70,586,No
+132,Palau,2008,50,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC130,30,70,585,No
+133,Panama,2008,15,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC131,30,70,591,No
+134,Panama,2008,15,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC131,30,70,590,No
+135,Papua New Guinea,2008,80,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC132,30,70,598,No
+136,Paraguay,2008,12,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC133,30,70,600,No
+137,Peru,2008,15,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC134,30,70,604,No
+138,Philippines,2008,51,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC135,30,70,608,No
+139,Poland,2008,14,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC136,30,70,616,No
+140,Portugal,2008,11,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC137,30,70,620,No
+141,Qatar,2008,8,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC138,30,70,634,No
+142,Republic of Korea,2008,8,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC139,30,70,410,No
+143,Republic of Moldova,2008,29,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC140,30,70,498,No
+144,Romania,2008,17,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC141,30,70,642,No
+145,Russian Federation,2008,21,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC142,30,70,643,No
+146,Rwanda,2008,68,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC143,30,70,646,No
+147,Saint Kitts and Nevis,2008,6,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC144,30,70,659,No
+148,Saint Lucia,2008,23,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC145,30,70,662,No
+149,Saint Vincent and the Grenadines,2008,21,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC146,30,70,670,No
+150,Samoa,2008,51,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC147,30,70,882,No
+151,San Marino,2008,2,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC148,30,70,674,No
+152,Sao Tome and Principe,2008,40,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC149,30,70,678,No
+153,Saudi Arabia,2008,15,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC150,30,70,682,No
+154,Senegal,2008,73,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC151,30,70,686,No
+155,Serbia,2008,19,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC152,30,70,688,No
+156,Seychelles,2008,32,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC153,30,70,690,No
+157,Sierra Leone,2008,92,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC154,30,70,694,No
+158,Singapore,2008,8,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC155,30,70,702,No
+159,Slovakia,2008,13,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC156,30,70,703,No
+160,Slovenia,2008,6,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC157,30,70,705,No
+161,Solomon Islands,2008,42,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC158,30,70,90,No
+162,Somalia,2008,71,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC159,30,70,706,No
+163,South Africa,2008,68,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC160,30,70,710,No
+164,Spain,2008,14,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC161,30,70,724,No
+165,Sri Lanka,2008,47,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC162,30,70,144,No
+166,Sudan,2008,65,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC163,30,70,729,No
+167,Sudan,2008,65,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC163,30,70,736,No
+168,Suriname,2008,14,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC164,30,70,740,No
+169,Swaziland,2008,136,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC165,30,70,748,No
+170,Sweden,2008,9,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC166,30,70,752,No
+171,Switzerland,2008,7,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC167,30,70,756,No
+172,Switzerland,2008,7,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC167,30,70,756,No
+173,Syrian Arab Republic,2008,27,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC168,30,70,760,No
+174,Tajikistan,2008,31,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC169,30,70,762,No
+175,Thailand,2008,37,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC170,30,70,764,No
+176,The former Yugoslav Republic of Macedonia,2008,16,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC171,30,70,807,No
+177,Timor-Leste,2008,53,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC172,30,70,626,No
+178,Togo,2008,89,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC173,30,70,768,No
+179,Tonga,2008,56,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC174,30,70,776,No
+180,Trinidad and Tobago,2008,18,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC175,30,70,780,No
+181,Tunisia,2008,13,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC176,30,70,788,No
+182,Turkey,2008,30,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC177,30,70,792,No
+183,Turkmenistan,2008,42,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC178,30,70,795,No
+184,Tuvalu,2008,79,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC179,30,70,798,No
+185,Uganda,2008,111,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC180,30,70,800,No
+186,Ukraine,2008,24,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC181,30,70,804,No
+187,United Arab Emirates,2008,12,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC182,30,70,784,No
+188,United Kingdom,2008,20,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC183,30,70,826,No
+189,United Republic of Tanzania,2008,86,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC184,30,70,834,No
+190,United States of America,2008,24,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC185,30,70,840,No
+191,Uruguay,2008,27,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC186,30,70,858,No
+192,Uzbekistan,2008,28,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC187,30,70,860,No
+193,Vanuatu,2008,53,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC188,30,70,548,No
+194,Venezuela (Bolivarian Republic of),2008,14,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC189,30,70,862,No
+195,Viet Nam,2008,38,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC190,30,70,704,No
+196,Yemen,2008,46,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC191,30,70,887,No
+197,Yemen,2008,46,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC191,30,70,886,No
+198,Zambia,2008,135,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC192,30,70,894,No
+199,Zimbabwe,2008,51,Mortality Rate Chronic Respiratory Conditions,per 100k pop,30-70,All,MRCRC193,30,70,716,No

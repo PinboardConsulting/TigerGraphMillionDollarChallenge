@@ -1,0 +1,745 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2011,0.003,Dentistry personnel density,per 1k pop,All,All,DPDDP1,0,130,4,No
+1,Afghanistan,2010,0.003,Dentistry personnel density,per 1k pop,All,All,DPDDP2,0,130,4,No
+2,Afghanistan,2009,0.003,Dentistry personnel density,per 1k pop,All,All,DPDDP3,0,130,4,No
+3,Afghanistan,2008,0.011,Dentistry personnel density,per 1k pop,All,All,DPDDP4,0,130,4,No
+4,Afghanistan,2007,0.01,Dentistry personnel density,per 1k pop,All,All,DPDDP5,0,130,4,No
+5,Afghanistan,2006,0.011,Dentistry personnel density,per 1k pop,All,All,DPDDP6,0,130,4,No
+6,Afghanistan,2005,0.03,Dentistry personnel density,per 1k pop,All,All,DPDDP7,0,130,4,No
+7,Afghanistan,2001,0.029,Dentistry personnel density,per 1k pop,All,All,DPDDP8,0,130,4,No
+8,Algeria,2007,0.325,Dentistry personnel density,per 1k pop,All,All,DPDDP9,0,130,12,No
+9,Algeria,2005,0.275,Dentistry personnel density,per 1k pop,All,All,DPDDP10,0,130,12,No
+10,Algeria,2002,0.306,Dentistry personnel density,per 1k pop,All,All,DPDDP11,0,130,12,No
+11,Andorra,2003,0.667,Dentistry personnel density,per 1k pop,All,All,DPDDP12,0,130,20,No
+12,Angola,2004,0.016,Dentistry personnel density,per 1k pop,All,All,DPDDP13,0,130,24,No
+13,Angola,1997,0.0,Dentistry personnel density,per 1k pop,All,All,DPDDP14,0,130,24,No
+14,Antigua and Barbuda,1997,0.188,Dentistry personnel density,per 1k pop,All,All,DPDDP15,0,130,28,No
+15,Argentina,2004,0.916,Dentistry personnel density,per 1k pop,All,All,DPDDP16,0,130,32,No
+16,Argentina,1998,0.799,Dentistry personnel density,per 1k pop,All,All,DPDDP17,0,130,32,No
+17,Armenia,2012,0.415,Dentistry personnel density,per 1k pop,All,All,DPDDP18,0,130,51,No
+18,Australia,2011,0.538,Dentistry personnel density,per 1k pop,All,All,DPDDP19,0,130,36,No
+19,Australia,2009,0.691,Dentistry personnel density,per 1k pop,All,All,DPDDP20,0,130,36,No
+20,Australia,2006,1.455,Dentistry personnel density,per 1k pop,All,All,DPDDP21,0,130,36,No
+21,Australia,2001,1.1,Dentistry personnel density,per 1k pop,All,All,DPDDP22,0,130,36,No
+22,Australia,1996,1.274,Dentistry personnel density,per 1k pop,All,All,DPDDP23,0,130,36,No
+23,Austria,2012,0.569,Dentistry personnel density,per 1k pop,All,All,DPDDP24,0,130,40,No
+24,Austria,2003,0.497,Dentistry personnel density,per 1k pop,All,All,DPDDP25,0,130,40,No
+25,Azerbaijan,2012,0.261,Dentistry personnel density,per 1k pop,All,All,DPDDP26,0,130,31,No
+26,Bahamas,2008,0.342,Dentistry personnel density,per 1k pop,All,All,DPDDP27,0,130,44,No
+27,Bahamas,1998,0.071,Dentistry personnel density,per 1k pop,All,All,DPDDP28,0,130,44,No
+28,Bahrain,2011,0.233,Dentistry personnel density,per 1k pop,All,All,DPDDP29,0,130,48,No
+29,Bahrain,2010,0.372,Dentistry personnel density,per 1k pop,All,All,DPDDP30,0,130,48,No
+30,Bahrain,2009,0.356,Dentistry personnel density,per 1k pop,All,All,DPDDP31,0,130,48,No
+31,Bahrain,2008,0.357,Dentistry personnel density,per 1k pop,All,All,DPDDP32,0,130,48,No
+32,Bahrain,2007,0.152,Dentistry personnel density,per 1k pop,All,All,DPDDP33,0,130,48,No
+33,Bahrain,2005,0.413,Dentistry personnel density,per 1k pop,All,All,DPDDP34,0,130,48,No
+34,Bahrain,2004,0.463,Dentistry personnel density,per 1k pop,All,All,DPDDP35,0,130,48,No
+35,Bangladesh,2011,0.028,Dentistry personnel density,per 1k pop,All,All,DPDDP36,0,130,50,No
+36,Bangladesh,2007,0.019,Dentistry personnel density,per 1k pop,All,All,DPDDP37,0,130,50,No
+37,Bangladesh,2005,0.017,Dentistry personnel density,per 1k pop,All,All,DPDDP38,0,130,50,No
+38,Bangladesh,2004,0.017,Dentistry personnel density,per 1k pop,All,All,DPDDP39,0,130,50,No
+39,Bangladesh,2002,0.013,Dentistry personnel density,per 1k pop,All,All,DPDDP40,0,130,50,No
+40,Barbados,2005,0.348,Dentistry personnel density,per 1k pop,All,All,DPDDP41,0,130,52,No
+41,Barbados,2001,0.231,Dentistry personnel density,per 1k pop,All,All,DPDDP42,0,130,52,No
+42,Barbados,1995,0.232,Dentistry personnel density,per 1k pop,All,All,DPDDP43,0,130,52,No
+43,Belarus,2011,0.536,Dentistry personnel density,per 1k pop,All,All,DPDDP44,0,130,112,No
+44,Belgium,2011,0.723,Dentistry personnel density,per 1k pop,All,All,DPDDP45,0,130,56,No
+45,Belgium,2010,0.792,Dentistry personnel density,per 1k pop,All,All,DPDDP46,0,130,56,No
+46,Belize,2009,0.041,Dentistry personnel density,per 1k pop,All,All,DPDDP47,0,130,84,No
+47,Belize,2000,0.133,Dentistry personnel density,per 1k pop,All,All,DPDDP48,0,130,84,No
+48,Benin,2008,0.004,Dentistry personnel density,per 1k pop,All,All,DPDDP49,0,130,204,No
+49,Benin,2004,0.002,Dentistry personnel density,per 1k pop,All,All,DPDDP50,0,130,204,No
+50,Bhutan,2007,0.029,Dentistry personnel density,per 1k pop,All,All,DPDDP51,0,130,64,No
+51,Bhutan,2004,0.025,Dentistry personnel density,per 1k pop,All,All,DPDDP52,0,130,64,No
+52,Bolivia (Plurinational State of),2011,0.112,Dentistry personnel density,per 1k pop,All,All,DPDDP53,0,130,68,No
+53,Bolivia (Plurinational State of),2010,0.097,Dentistry personnel density,per 1k pop,All,All,DPDDP54,0,130,68,No
+54,Bolivia (Plurinational State of),2007,0.063,Dentistry personnel density,per 1k pop,All,All,DPDDP55,0,130,68,No
+55,Bolivia (Plurinational State of),2001,0.707,Dentistry personnel density,per 1k pop,All,All,DPDDP56,0,130,68,No
+56,Botswana,2004,0.021,Dentistry personnel density,per 1k pop,All,All,DPDDP57,0,130,72,No
+57,Brazil,2009,1.18,Dentistry personnel density,per 1k pop,All,All,DPDDP58,0,130,76,No
+58,Brazil,2008,1.172,Dentistry personnel density,per 1k pop,All,All,DPDDP59,0,130,76,No
+59,Brazil,2007,1.149,Dentistry personnel density,per 1k pop,All,All,DPDDP60,0,130,76,No
+60,Brazil,2006,1.15,Dentistry personnel density,per 1k pop,All,All,DPDDP61,0,130,76,No
+61,Brazil,2005,1.115,Dentistry personnel density,per 1k pop,All,All,DPDDP62,0,130,76,No
+62,Brazil,2004,0.985,Dentistry personnel density,per 1k pop,All,All,DPDDP63,0,130,76,No
+63,Brazil,2000,1.109,Dentistry personnel density,per 1k pop,All,All,DPDDP64,0,130,76,No
+64,Brazil,1991,0.67,Dentistry personnel density,per 1k pop,All,All,DPDDP65,0,130,76,No
+65,Brunei Darussalam,2011,0.234,Dentistry personnel density,per 1k pop,All,All,DPDDP66,0,130,96,No
+66,Brunei Darussalam,2010,0.208,Dentistry personnel density,per 1k pop,All,All,DPDDP67,0,130,96,No
+67,Brunei Darussalam,2008,0.206,Dentistry personnel density,per 1k pop,All,All,DPDDP68,0,130,96,No
+68,Brunei Darussalam,2007,0.208,Dentistry personnel density,per 1k pop,All,All,DPDDP69,0,130,96,No
+69,Brunei Darussalam,2002,0.2,Dentistry personnel density,per 1k pop,All,All,DPDDP70,0,130,96,No
+70,Brunei Darussalam,2000,0.144,Dentistry personnel density,per 1k pop,All,All,DPDDP71,0,130,96,No
+71,Bulgaria,2011,0.897,Dentistry personnel density,per 1k pop,All,All,DPDDP72,0,130,100,No
+72,Bulgaria,2010,0.853,Dentistry personnel density,per 1k pop,All,All,DPDDP73,0,130,100,No
+73,Burkina Faso,2010,0.002,Dentistry personnel density,per 1k pop,All,All,DPDDP74,0,130,854,No
+74,Burkina Faso,2006,0.002,Dentistry personnel density,per 1k pop,All,All,DPDDP75,0,130,854,No
+75,Burkina Faso,2004,0.004,Dentistry personnel density,per 1k pop,All,All,DPDDP76,0,130,854,No
+76,Burundi,2004,0.002,Dentistry personnel density,per 1k pop,All,All,DPDDP77,0,130,108,No
+77,Cabo Verde,2010,0.007,Dentistry personnel density,per 1k pop,All,All,DPDDP78,0,130,132,No
+78,Cabo Verde,2009,0.005,Dentistry personnel density,per 1k pop,All,All,DPDDP79,0,130,132,No
+79,Cabo Verde,2007,0.006,Dentistry personnel density,per 1k pop,All,All,DPDDP80,0,130,132,No
+80,Cabo Verde,2006,0.006,Dentistry personnel density,per 1k pop,All,All,DPDDP81,0,130,132,No
+81,Cabo Verde,2004,0.023,Dentistry personnel density,per 1k pop,All,All,DPDDP82,0,130,132,No
+82,Cambodia,2008,0.017,Dentistry personnel density,per 1k pop,All,All,DPDDP83,0,130,116,No
+83,Cambodia,2000,0.016,Dentistry personnel density,per 1k pop,All,All,DPDDP84,0,130,116,No
+84,Cambodia,1998,0.017,Dentistry personnel density,per 1k pop,All,All,DPDDP85,0,130,116,No
+85,Cambodia,1996,0.016,Dentistry personnel density,per 1k pop,All,All,DPDDP86,0,130,116,No
+86,Cameroon,2009,0.002,Dentistry personnel density,per 1k pop,All,All,DPDDP87,0,130,120,No
+87,Cameroon,2007,0.002,Dentistry personnel density,per 1k pop,All,All,DPDDP88,0,130,120,No
+88,Cameroon,2005,0.002,Dentistry personnel density,per 1k pop,All,All,DPDDP89,0,130,120,No
+89,Cameroon,2004,0.009,Dentistry personnel density,per 1k pop,All,All,DPDDP90,0,130,120,No
+90,Canada,2008,1.262,Dentistry personnel density,per 1k pop,All,All,DPDDP91,0,130,124,No
+91,Canada,2006,1.176,Dentistry personnel density,per 1k pop,All,All,DPDDP92,0,130,124,No
+92,Canada,2004,1.076,Dentistry personnel density,per 1k pop,All,All,DPDDP93,0,130,124,No
+93,Canada,2003,0.587,Dentistry personnel density,per 1k pop,All,All,DPDDP94,0,130,124,No
+94,Canada,2002,1.1,Dentistry personnel density,per 1k pop,All,All,DPDDP95,0,130,124,No
+95,Canada,2001,1.077,Dentistry personnel density,per 1k pop,All,All,DPDDP96,0,130,124,No
+96,Canada,1998,1.015,Dentistry personnel density,per 1k pop,All,All,DPDDP97,0,130,124,No
+97,Central African Republic,2009,0.003,Dentistry personnel density,per 1k pop,All,All,DPDDP98,0,130,140,No
+98,Central African Republic,2008,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP99,0,130,140,No
+99,Central African Republic,2004,0.003,Dentistry personnel density,per 1k pop,All,All,DPDDP100,0,130,140,No
+100,Chad,2004,0.002,Dentistry personnel density,per 1k pop,All,All,DPDDP101,0,130,148,No
+101,Chile,2009,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP102,0,130,152,No
+102,Chile,2008,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP103,0,130,152,No
+103,Chile,2007,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP104,0,130,152,No
+104,Chile,2006,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP105,0,130,152,No
+105,Chile,2005,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP106,0,130,152,No
+106,Chile,2004,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP107,0,130,152,No
+107,Chile,2003,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP108,0,130,152,No
+108,Chile,2002,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP109,0,130,152,No
+109,Chile,1992,0.78,Dentistry personnel density,per 1k pop,All,All,DPDDP110,0,130,152,No
+110,China,2005,0.039,Dentistry personnel density,per 1k pop,All,All,DPDDP111,0,130,156,No
+111,China,2001,0.106,Dentistry personnel density,per 1k pop,All,All,DPDDP112,0,130,156,No
+112,Colombia,2010,0.917,Dentistry personnel density,per 1k pop,All,All,DPDDP113,0,130,170,No
+113,Colombia,2009,0.897,Dentistry personnel density,per 1k pop,All,All,DPDDP114,0,130,170,No
+114,Colombia,2008,0.878,Dentistry personnel density,per 1k pop,All,All,DPDDP115,0,130,170,No
+115,Colombia,2007,0.859,Dentistry personnel density,per 1k pop,All,All,DPDDP116,0,130,170,No
+116,Colombia,2006,0.839,Dentistry personnel density,per 1k pop,All,All,DPDDP117,0,130,170,No
+117,Colombia,2005,0.82,Dentistry personnel density,per 1k pop,All,All,DPDDP118,0,130,170,No
+118,Colombia,2004,0.8,Dentistry personnel density,per 1k pop,All,All,DPDDP119,0,130,170,No
+119,Colombia,2003,0.78,Dentistry personnel density,per 1k pop,All,All,DPDDP120,0,130,170,No
+120,Colombia,2002,0.78,Dentistry personnel density,per 1k pop,All,All,DPDDP121,0,130,170,No
+121,Colombia,2001,0.74,Dentistry personnel density,per 1k pop,All,All,DPDDP122,0,130,170,No
+122,Colombia,2000,0.72,Dentistry personnel density,per 1k pop,All,All,DPDDP123,0,130,170,No
+123,Colombia,1999,0.698,Dentistry personnel density,per 1k pop,All,All,DPDDP124,0,130,170,No
+124,Colombia,1998,0.676,Dentistry personnel density,per 1k pop,All,All,DPDDP125,0,130,170,No
+125,Colombia,1997,0.653,Dentistry personnel density,per 1k pop,All,All,DPDDP126,0,130,170,No
+126,Colombia,1996,0.624,Dentistry personnel density,per 1k pop,All,All,DPDDP127,0,130,170,No
+127,Colombia,1995,0.597,Dentistry personnel density,per 1k pop,All,All,DPDDP128,0,130,170,No
+128,Colombia,1994,0.572,Dentistry personnel density,per 1k pop,All,All,DPDDP129,0,130,170,No
+129,Colombia,1993,0.555,Dentistry personnel density,per 1k pop,All,All,DPDDP130,0,130,170,No
+130,Colombia,1992,0.536,Dentistry personnel density,per 1k pop,All,All,DPDDP131,0,130,170,No
+131,Colombia,1991,0.51,Dentistry personnel density,per 1k pop,All,All,DPDDP132,0,130,170,No
+132,Colombia,1990,0.48,Dentistry personnel density,per 1k pop,All,All,DPDDP133,0,130,170,No
+133,Comoros,2004,0.037,Dentistry personnel density,per 1k pop,All,All,DPDDP134,0,130,174,No
+134,Congo,2004,0.003,Dentistry personnel density,per 1k pop,All,All,DPDDP135,0,130,178,No
+135,Congo,1998,0.031,Dentistry personnel density,per 1k pop,All,All,DPDDP136,0,130,178,No
+136,Cook Islands,2009,1.056,Dentistry personnel density,per 1k pop,All,All,DPDDP137,0,130,184,No
+137,Cook Islands,2004,0.588,Dentistry personnel density,per 1k pop,All,All,DPDDP138,0,130,184,No
+138,Cook Islands,2001,0.556,Dentistry personnel density,per 1k pop,All,All,DPDDP139,0,130,184,No
+139,Costa Rica,2013,0.123,Dentistry personnel density,per 1k pop,All,All,DPDDP140,0,130,188,No
+140,Costa Rica,2000,0.485,Dentistry personnel density,per 1k pop,All,All,DPDDP141,0,130,188,No
+141,Côte dIvoire,2008,0.014,Dentistry personnel density,per 1k pop,All,All,DPDDP142,0,130,384,No
+142,Côte dIvoire,2005,0.011,Dentistry personnel density,per 1k pop,All,All,DPDDP143,0,130,384,No
+143,Côte dIvoire,2004,0.02,Dentistry personnel density,per 1k pop,All,All,DPDDP144,0,130,384,No
+144,Croatia,2011,0.719,Dentistry personnel density,per 1k pop,All,All,DPDDP145,0,130,191,No
+145,Cuba,2010,1.067,Dentistry personnel density,per 1k pop,All,All,DPDDP146,0,130,192,No
+146,Cuba,2009,1.019,Dentistry personnel density,per 1k pop,All,All,DPDDP147,0,130,192,No
+147,Cuba,2008,0.991,Dentistry personnel density,per 1k pop,All,All,DPDDP148,0,130,192,No
+148,Cuba,2007,0.962,Dentistry personnel density,per 1k pop,All,All,DPDDP149,0,130,192,No
+149,Cuba,2006,0.952,Dentistry personnel density,per 1k pop,All,All,DPDDP150,0,130,192,No
+150,Cuba,2005,0.937,Dentistry personnel density,per 1k pop,All,All,DPDDP151,0,130,192,No
+151,Cuba,2004,0.923,Dentistry personnel density,per 1k pop,All,All,DPDDP152,0,130,192,No
+152,Cuba,2003,0.9,Dentistry personnel density,per 1k pop,All,All,DPDDP153,0,130,192,No
+153,Cuba,2002,0.883,Dentistry personnel density,per 1k pop,All,All,DPDDP154,0,130,192,No
+154,Cuba,2001,0.879,Dentistry personnel density,per 1k pop,All,All,DPDDP155,0,130,192,No
+155,Cuba,2000,0.885,Dentistry personnel density,per 1k pop,All,All,DPDDP156,0,130,192,No
+156,Cuba,1999,0.889,Dentistry personnel density,per 1k pop,All,All,DPDDP157,0,130,192,No
+157,Cuba,1998,0.888,Dentistry personnel density,per 1k pop,All,All,DPDDP158,0,130,192,No
+158,Cuba,1997,0.887,Dentistry personnel density,per 1k pop,All,All,DPDDP159,0,130,192,No
+159,Cuba,1996,0.871,Dentistry personnel density,per 1k pop,All,All,DPDDP160,0,130,192,No
+160,Cuba,1995,0.834,Dentistry personnel density,per 1k pop,All,All,DPDDP161,0,130,192,No
+161,Cuba,1994,0.81,Dentistry personnel density,per 1k pop,All,All,DPDDP162,0,130,192,No
+162,Cuba,1993,0.786,Dentistry personnel density,per 1k pop,All,All,DPDDP163,0,130,192,No
+163,Cuba,1992,0.747,Dentistry personnel density,per 1k pop,All,All,DPDDP164,0,130,192,No
+164,Cuba,1991,0.702,Dentistry personnel density,per 1k pop,All,All,DPDDP165,0,130,192,No
+165,Cuba,1990,0.655,Dentistry personnel density,per 1k pop,All,All,DPDDP166,0,130,192,No
+166,Cyprus,2011,0.701,Dentistry personnel density,per 1k pop,All,All,DPDDP167,0,130,196,No
+167,Cyprus,2010,0.876,Dentistry personnel density,per 1k pop,All,All,DPDDP168,0,130,196,No
+168,Cyprus,2009,0.868,Dentistry personnel density,per 1k pop,All,All,DPDDP169,0,130,196,No
+169,Cyprus,2008,0.918,Dentistry personnel density,per 1k pop,All,All,DPDDP170,0,130,196,No
+170,Cyprus,2007,0.847,Dentistry personnel density,per 1k pop,All,All,DPDDP171,0,130,196,No
+171,Cyprus,1995,0.73,Dentistry personnel density,per 1k pop,All,All,DPDDP172,0,130,196,No
+172,Cyprus,1990,0.628,Dentistry personnel density,per 1k pop,All,All,DPDDP173,0,130,196,No
+173,Czech Republic,2011,0.705,Dentistry personnel density,per 1k pop,All,All,DPDDP174,0,130,203,No
+174,Czech Republic,2003,0.658,Dentistry personnel density,per 1k pop,All,All,DPDDP175,0,130,203,No
+175,Democratic Peoples Republic of Korea,2003,0.367,Dentistry personnel density,per 1k pop,All,All,DPDDP176,0,130,408,No
+176,Democratic Republic of the Congo,2004,0.003,Dentistry personnel density,per 1k pop,All,All,DPDDP177,0,130,180,No
+177,Denmark,2009,0.809,Dentistry personnel density,per 1k pop,All,All,DPDDP178,0,130,208,No
+178,Denmark,2008,0.843,Dentistry personnel density,per 1k pop,All,All,DPDDP179,0,130,208,No
+179,Denmark,2002,0.829,Dentistry personnel density,per 1k pop,All,All,DPDDP180,0,130,208,No
+180,Djibouti,2008,0.119,Dentistry personnel density,per 1k pop,All,All,DPDDP181,0,130,262,No
+181,Djibouti,2006,0.119,Dentistry personnel density,per 1k pop,All,All,DPDDP182,0,130,262,No
+182,Djibouti,2005,0.076,Dentistry personnel density,per 1k pop,All,All,DPDDP183,0,130,262,No
+183,Djibouti,2004,0.014,Dentistry personnel density,per 1k pop,All,All,DPDDP184,0,130,262,No
+184,Djibouti,1999,0.009,Dentistry personnel density,per 1k pop,All,All,DPDDP185,0,130,262,No
+185,Dominica,2001,0.269,Dentistry personnel density,per 1k pop,All,All,DPDDP186,0,130,212,No
+186,Dominica,1997,0.053,Dentistry personnel density,per 1k pop,All,All,DPDDP187,0,130,212,No
+187,Dominican Republic,2011,0.19,Dentistry personnel density,per 1k pop,All,All,DPDDP188,0,130,214,No
+188,Dominican Republic,2009,0.19,Dentistry personnel density,per 1k pop,All,All,DPDDP189,0,130,214,No
+189,Dominican Republic,2008,0.13,Dentistry personnel density,per 1k pop,All,All,DPDDP190,0,130,214,No
+190,Dominican Republic,2000,0.838,Dentistry personnel density,per 1k pop,All,All,DPDDP191,0,130,214,No
+191,Ecuador,2009,0.24,Dentistry personnel density,per 1k pop,All,All,DPDDP192,0,130,218,No
+192,Ecuador,2003,0.17,Dentistry personnel density,per 1k pop,All,All,DPDDP193,0,130,218,No
+193,Ecuador,2002,0.174,Dentistry personnel density,per 1k pop,All,All,DPDDP194,0,130,218,No
+194,Ecuador,2001,0.168,Dentistry personnel density,per 1k pop,All,All,DPDDP195,0,130,218,No
+195,Ecuador,2000,0.166,Dentistry personnel density,per 1k pop,All,All,DPDDP196,0,130,218,No
+196,Ecuador,1999,0.163,Dentistry personnel density,per 1k pop,All,All,DPDDP197,0,130,218,No
+197,Ecuador,1998,0.157,Dentistry personnel density,per 1k pop,All,All,DPDDP198,0,130,218,No
+198,Ecuador,1997,0.16,Dentistry personnel density,per 1k pop,All,All,DPDDP199,0,130,218,No
+199,Ecuador,1996,0.156,Dentistry personnel density,per 1k pop,All,All,DPDDP200,0,130,218,No
+200,Ecuador,1995,0.154,Dentistry personnel density,per 1k pop,All,All,DPDDP201,0,130,218,No
+201,Ecuador,1994,0.157,Dentistry personnel density,per 1k pop,All,All,DPDDP202,0,130,218,No
+202,Ecuador,1993,0.141,Dentistry personnel density,per 1k pop,All,All,DPDDP203,0,130,218,No
+203,Ecuador,1992,0.17,Dentistry personnel density,per 1k pop,All,All,DPDDP204,0,130,218,No
+204,Ecuador,1991,0.158,Dentistry personnel density,per 1k pop,All,All,DPDDP205,0,130,218,No
+205,Ecuador,1990,0.148,Dentistry personnel density,per 1k pop,All,All,DPDDP206,0,130,218,No
+206,Egypt,2009,0.42,Dentistry personnel density,per 1k pop,All,All,DPDDP207,0,130,818,No
+207,Egypt,2007,0.39,Dentistry personnel density,per 1k pop,All,All,DPDDP208,0,130,818,No
+208,Egypt,2005,0.34,Dentistry personnel density,per 1k pop,All,All,DPDDP209,0,130,818,No
+209,Egypt,2004,0.135,Dentistry personnel density,per 1k pop,All,All,DPDDP210,0,130,818,No
+210,El Salvador,2008,0.646,Dentistry personnel density,per 1k pop,All,All,DPDDP211,0,130,222,No
+211,El Salvador,2005,0.618,Dentistry personnel density,per 1k pop,All,All,DPDDP212,0,130,222,No
+212,El Salvador,2002,0.54,Dentistry personnel density,per 1k pop,All,All,DPDDP213,0,130,222,No
+213,El Salvador,1999,0.485,Dentistry personnel density,per 1k pop,All,All,DPDDP214,0,130,222,No
+214,Equatorial Guinea,2004,0.03,Dentistry personnel density,per 1k pop,All,All,DPDDP215,0,130,226,No
+215,Eritrea,2004,0.004,Dentistry personnel density,per 1k pop,All,All,DPDDP216,0,130,232,No
+216,Estonia,2011,0.879,Dentistry personnel density,per 1k pop,All,All,DPDDP217,0,130,233,No
+217,Estonia,2010,0.93,Dentistry personnel density,per 1k pop,All,All,DPDDP218,0,130,233,No
+218,Estonia,2000,1.278,Dentistry personnel density,per 1k pop,All,All,DPDDP219,0,130,233,No
+219,Ethiopia,2003,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP220,0,130,231,No
+220,Ethiopia,2003,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP220,0,130,230,No
+221,Fiji,2009,0.196,Dentistry personnel density,per 1k pop,All,All,DPDDP221,0,130,242,No
+222,Fiji,2003,0.072,Dentistry personnel density,per 1k pop,All,All,DPDDP222,0,130,242,No
+223,Fiji,1999,0.04,Dentistry personnel density,per 1k pop,All,All,DPDDP223,0,130,242,No
+224,Finland,2010,0.798,Dentistry personnel density,per 1k pop,All,All,DPDDP224,0,130,246,No
+225,Finland,2009,0.758,Dentistry personnel density,per 1k pop,All,All,DPDDP225,0,130,246,No
+226,Finland,2002,1.284,Dentistry personnel density,per 1k pop,All,All,DPDDP226,0,130,246,No
+227,France,2012,0.658,Dentistry personnel density,per 1k pop,All,All,DPDDP227,0,130,250,No
+228,France,2011,0.643,Dentistry personnel density,per 1k pop,All,All,DPDDP228,0,130,250,No
+229,France,2008,0.677,Dentistry personnel density,per 1k pop,All,All,DPDDP229,0,130,250,No
+230,France,2007,0.698,Dentistry personnel density,per 1k pop,All,All,DPDDP230,0,130,250,No
+231,France,2003,0.676,Dentistry personnel density,per 1k pop,All,All,DPDDP231,0,130,250,No
+232,France,2002,0.676,Dentistry personnel density,per 1k pop,All,All,DPDDP232,0,130,250,No
+233,France,2001,0.679,Dentistry personnel density,per 1k pop,All,All,DPDDP233,0,130,250,No
+234,France,2000,0.684,Dentistry personnel density,per 1k pop,All,All,DPDDP234,0,130,250,No
+235,France,1999,0.679,Dentistry personnel density,per 1k pop,All,All,DPDDP235,0,130,250,No
+236,France,1998,0.671,Dentistry personnel density,per 1k pop,All,All,DPDDP236,0,130,250,No
+237,France,1997,0.674,Dentistry personnel density,per 1k pop,All,All,DPDDP237,0,130,250,No
+238,France,1996,0.678,Dentistry personnel density,per 1k pop,All,All,DPDDP238,0,130,250,No
+239,France,1995,0.683,Dentistry personnel density,per 1k pop,All,All,DPDDP239,0,130,250,No
+240,France,1994,0.679,Dentistry personnel density,per 1k pop,All,All,DPDDP240,0,130,250,No
+241,France,1993,0.675,Dentistry personnel density,per 1k pop,All,All,DPDDP241,0,130,250,No
+242,France,1992,0.671,Dentistry personnel density,per 1k pop,All,All,DPDDP242,0,130,250,No
+243,France,1991,0.669,Dentistry personnel density,per 1k pop,All,All,DPDDP243,0,130,250,No
+244,Gabon,2004,0.049,Dentistry personnel density,per 1k pop,All,All,DPDDP244,0,130,266,No
+245,Gambia,2008,0.029,Dentistry personnel density,per 1k pop,All,All,DPDDP245,0,130,270,No
+246,Gambia,2007,0.029,Dentistry personnel density,per 1k pop,All,All,DPDDP246,0,130,270,No
+247,Gambia,2006,0.006,Dentistry personnel density,per 1k pop,All,All,DPDDP247,0,130,270,No
+248,Gambia,2005,0.007,Dentistry personnel density,per 1k pop,All,All,DPDDP248,0,130,270,No
+249,Gambia,2003,0.03,Dentistry personnel density,per 1k pop,All,All,DPDDP249,0,130,270,No
+250,Germany,2011,0.797,Dentistry personnel density,per 1k pop,All,All,DPDDP250,0,130,276,No
+251,Germany,2003,0.783,Dentistry personnel density,per 1k pop,All,All,DPDDP251,0,130,276,No
+252,Ghana,2008,0.006,Dentistry personnel density,per 1k pop,All,All,DPDDP252,0,130,288,No
+253,Ghana,2007,0.002,Dentistry personnel density,per 1k pop,All,All,DPDDP253,0,130,288,No
+254,Ghana,2004,0.018,Dentistry personnel density,per 1k pop,All,All,DPDDP254,0,130,288,No
+255,Greece,2001,1.132,Dentistry personnel density,per 1k pop,All,All,DPDDP255,0,130,300,No
+256,Grenada,2006,0.183,Dentistry personnel density,per 1k pop,All,All,DPDDP256,0,130,308,No
+257,Grenada,2003,0.163,Dentistry personnel density,per 1k pop,All,All,DPDDP257,0,130,308,No
+258,Grenada,2002,0.16,Dentistry personnel density,per 1k pop,All,All,DPDDP258,0,130,308,No
+259,Grenada,2001,0.16,Dentistry personnel density,per 1k pop,All,All,DPDDP259,0,130,308,No
+260,Grenada,2000,0.173,Dentistry personnel density,per 1k pop,All,All,DPDDP260,0,130,308,No
+261,Grenada,1999,0.173,Dentistry personnel density,per 1k pop,All,All,DPDDP261,0,130,308,No
+262,Grenada,1998,0.244,Dentistry personnel density,per 1k pop,All,All,DPDDP262,0,130,308,No
+263,Grenada,1997,0.085,Dentistry personnel density,per 1k pop,All,All,DPDDP263,0,130,308,No
+264,Guatemala,2007,0.18,Dentistry personnel density,per 1k pop,All,All,DPDDP264,0,130,320,No
+265,Guatemala,1999,0.184,Dentistry personnel density,per 1k pop,All,All,DPDDP265,0,130,320,No
+266,Guinea,2005,0.004,Dentistry personnel density,per 1k pop,All,All,DPDDP266,0,130,324,No
+267,Guinea,2004,0.007,Dentistry personnel density,per 1k pop,All,All,DPDDP267,0,130,324,No
+268,Guinea,2000,0.005,Dentistry personnel density,per 1k pop,All,All,DPDDP268,0,130,324,No
+269,Guinea-Bissau,2009,0.007,Dentistry personnel density,per 1k pop,All,All,DPDDP269,0,130,624,No
+270,Guinea-Bissau,2008,0.003,Dentistry personnel density,per 1k pop,All,All,DPDDP270,0,130,624,No
+271,Guinea-Bissau,2004,0.014,Dentistry personnel density,per 1k pop,All,All,DPDDP271,0,130,624,No
+272,Guyana,2009,0.061,Dentistry personnel density,per 1k pop,All,All,DPDDP272,0,130,328,No
+273,Guyana,2000,0.04,Dentistry personnel density,per 1k pop,All,All,DPDDP273,0,130,328,No
+274,Haiti,1998,0.012,Dentistry personnel density,per 1k pop,All,All,DPDDP274,0,130,332,No
+275,Honduras,2000,0.212,Dentistry personnel density,per 1k pop,All,All,DPDDP275,0,130,340,No
+276,Hungary,2011,0.525,Dentistry personnel density,per 1k pop,All,All,DPDDP276,0,130,348,No
+277,Hungary,2003,0.543,Dentistry personnel density,per 1k pop,All,All,DPDDP277,0,130,348,No
+278,Iceland,2012,0.822,Dentistry personnel density,per 1k pop,All,All,DPDDP278,0,130,352,No
+279,Iceland,2011,0.919,Dentistry personnel density,per 1k pop,All,All,DPDDP279,0,130,352,No
+280,Iceland,2010,1.02,Dentistry personnel density,per 1k pop,All,All,DPDDP280,0,130,352,No
+281,Iceland,2009,1.01,Dentistry personnel density,per 1k pop,All,All,DPDDP281,0,130,352,No
+282,Iceland,2008,1.056,Dentistry personnel density,per 1k pop,All,All,DPDDP282,0,130,352,No
+283,Iceland,2007,1.043,Dentistry personnel density,per 1k pop,All,All,DPDDP283,0,130,352,No
+284,Iceland,2006,1.027,Dentistry personnel density,per 1k pop,All,All,DPDDP284,0,130,352,No
+285,Iceland,2005,1.064,Dentistry personnel density,per 1k pop,All,All,DPDDP285,0,130,352,No
+286,Iceland,2004,0.983,Dentistry personnel density,per 1k pop,All,All,DPDDP286,0,130,352,No
+287,Iceland,2003,0.993,Dentistry personnel density,per 1k pop,All,All,DPDDP287,0,130,352,No
+288,Iceland,2002,1.003,Dentistry personnel density,per 1k pop,All,All,DPDDP288,0,130,352,No
+289,Iceland,2001,1.0,Dentistry personnel density,per 1k pop,All,All,DPDDP289,0,130,352,No
+290,Iceland,2000,1.004,Dentistry personnel density,per 1k pop,All,All,DPDDP290,0,130,352,No
+291,India,2012,0.096,Dentistry personnel density,per 1k pop,All,All,DPDDP291,0,130,356,No
+292,India,2011,0.095,Dentistry personnel density,per 1k pop,All,All,DPDDP292,0,130,356,No
+293,India,2009,0.09,Dentistry personnel density,per 1k pop,All,All,DPDDP293,0,130,356,No
+294,India,2008,0.081,Dentistry personnel density,per 1k pop,All,All,DPDDP294,0,130,356,No
+295,India,2007,0.064,Dentistry personnel density,per 1k pop,All,All,DPDDP295,0,130,356,No
+296,India,2006,0.07,Dentistry personnel density,per 1k pop,All,All,DPDDP296,0,130,356,No
+297,India,2005,0.05,Dentistry personnel density,per 1k pop,All,All,DPDDP297,0,130,356,No
+298,India,2004,0.051,Dentistry personnel density,per 1k pop,All,All,DPDDP298,0,130,356,No
+299,India,2003,0.044,Dentistry personnel density,per 1k pop,All,All,DPDDP299,0,130,356,No
+300,India,2002,0.045,Dentistry personnel density,per 1k pop,All,All,DPDDP300,0,130,356,No
+301,India,2001,0.046,Dentistry personnel density,per 1k pop,All,All,DPDDP301,0,130,356,No
+302,India,2000,0.038,Dentistry personnel density,per 1k pop,All,All,DPDDP302,0,130,356,No
+303,India,1991,0.022,Dentistry personnel density,per 1k pop,All,All,DPDDP303,0,130,356,No
+304,Indonesia,2012,0.099,Dentistry personnel density,per 1k pop,All,All,DPDDP304,0,130,360,No
+305,Indonesia,2010,0.078,Dentistry personnel density,per 1k pop,All,All,DPDDP305,0,130,360,No
+306,Indonesia,2009,0.054,Dentistry personnel density,per 1k pop,All,All,DPDDP306,0,130,360,No
+307,Indonesia,2003,0.032,Dentistry personnel density,per 1k pop,All,All,DPDDP307,0,130,360,No
+308,Indonesia,1992,0.02,Dentistry personnel density,per 1k pop,All,All,DPDDP308,0,130,360,No
+309,Iran (Islamic Republic of),2005,0.19,Dentistry personnel density,per 1k pop,All,All,DPDDP309,0,130,364,No
+310,Iran (Islamic Republic of),2004,0.188,Dentistry personnel density,per 1k pop,All,All,DPDDP310,0,130,364,No
+311,Iraq,2010,0.148,Dentistry personnel density,per 1k pop,All,All,DPDDP311,0,130,368,No
+312,Ireland,2004,0.559,Dentistry personnel density,per 1k pop,All,All,DPDDP312,0,130,372,No
+313,Israel,2011,0.776,Dentistry personnel density,per 1k pop,All,All,DPDDP313,0,130,376,No
+314,Israel,1995,1.961,Dentistry personnel density,per 1k pop,All,All,DPDDP314,0,130,376,No
+315,Italy,2004,0.575,Dentistry personnel density,per 1k pop,All,All,DPDDP315,0,130,380,No
+316,Jamaica,2008,0.091,Dentistry personnel density,per 1k pop,All,All,DPDDP316,0,130,388,No
+317,Jamaica,2003,0.08,Dentistry personnel density,per 1k pop,All,All,DPDDP317,0,130,388,No
+318,Japan,2010,0.791,Dentistry personnel density,per 1k pop,All,All,DPDDP318,0,130,392,No
+319,Japan,2010,0.791,Dentistry personnel density,per 1k pop,All,All,DPDDP318,0,130,392,No
+320,Japan,2008,0.774,Dentistry personnel density,per 1k pop,All,All,DPDDP319,0,130,392,No
+321,Japan,2008,0.774,Dentistry personnel density,per 1k pop,All,All,DPDDP319,0,130,392,No
+322,Japan,2006,0.758,Dentistry personnel density,per 1k pop,All,All,DPDDP320,0,130,392,No
+323,Japan,2006,0.758,Dentistry personnel density,per 1k pop,All,All,DPDDP320,0,130,392,No
+324,Japan,2004,0.745,Dentistry personnel density,per 1k pop,All,All,DPDDP321,0,130,392,No
+325,Japan,2004,0.745,Dentistry personnel density,per 1k pop,All,All,DPDDP321,0,130,392,No
+326,Japan,2002,0.729,Dentistry personnel density,per 1k pop,All,All,DPDDP322,0,130,392,No
+327,Japan,2002,0.729,Dentistry personnel density,per 1k pop,All,All,DPDDP322,0,130,392,No
+328,Japan,2000,0.715,Dentistry personnel density,per 1k pop,All,All,DPDDP323,0,130,392,No
+329,Japan,2000,0.715,Dentistry personnel density,per 1k pop,All,All,DPDDP323,0,130,392,No
+330,Japan,1998,0.696,Dentistry personnel density,per 1k pop,All,All,DPDDP324,0,130,392,No
+331,Japan,1998,0.696,Dentistry personnel density,per 1k pop,All,All,DPDDP324,0,130,392,No
+332,Japan,1996,0.68,Dentistry personnel density,per 1k pop,All,All,DPDDP325,0,130,392,No
+333,Japan,1996,0.68,Dentistry personnel density,per 1k pop,All,All,DPDDP325,0,130,392,No
+334,Japan,1994,0.648,Dentistry personnel density,per 1k pop,All,All,DPDDP326,0,130,392,No
+335,Japan,1994,0.648,Dentistry personnel density,per 1k pop,All,All,DPDDP326,0,130,392,No
+336,Japan,1992,0.622,Dentistry personnel density,per 1k pop,All,All,DPDDP327,0,130,392,No
+337,Japan,1992,0.622,Dentistry personnel density,per 1k pop,All,All,DPDDP327,0,130,392,No
+338,Japan,1990,0.599,Dentistry personnel density,per 1k pop,All,All,DPDDP328,0,130,392,No
+339,Japan,1990,0.599,Dentistry personnel density,per 1k pop,All,All,DPDDP328,0,130,392,No
+340,Jordan,2010,0.898,Dentistry personnel density,per 1k pop,All,All,DPDDP329,0,130,400,No
+341,Jordan,2009,0.705,Dentistry personnel density,per 1k pop,All,All,DPDDP330,0,130,400,No
+342,Jordan,2008,0.836,Dentistry personnel density,per 1k pop,All,All,DPDDP331,0,130,400,No
+343,Jordan,2007,0.82,Dentistry personnel density,per 1k pop,All,All,DPDDP332,0,130,400,No
+344,Jordan,2006,0.788,Dentistry personnel density,per 1k pop,All,All,DPDDP333,0,130,400,No
+345,Jordan,2005,0.735,Dentistry personnel density,per 1k pop,All,All,DPDDP334,0,130,400,No
+346,Jordan,2004,1.295,Dentistry personnel density,per 1k pop,All,All,DPDDP335,0,130,400,No
+347,Jordan,2003,0.634,Dentistry personnel density,per 1k pop,All,All,DPDDP336,0,130,400,No
+348,Jordan,2002,0.447,Dentistry personnel density,per 1k pop,All,All,DPDDP337,0,130,400,No
+349,Jordan,2001,0.554,Dentistry personnel density,per 1k pop,All,All,DPDDP338,0,130,400,No
+350,Jordan,2000,0.573,Dentistry personnel density,per 1k pop,All,All,DPDDP339,0,130,400,No
+351,Jordan,1999,0.554,Dentistry personnel density,per 1k pop,All,All,DPDDP340,0,130,400,No
+352,Jordan,1998,0.527,Dentistry personnel density,per 1k pop,All,All,DPDDP341,0,130,400,No
+353,Kazakhstan,2012,0.422,Dentistry personnel density,per 1k pop,All,All,DPDDP342,0,130,398,No
+354,Kenya,2011,0.022,Dentistry personnel density,per 1k pop,All,All,DPDDP343,0,130,404,No
+355,Kenya,2010,0.023,Dentistry personnel density,per 1k pop,All,All,DPDDP344,0,130,404,No
+356,Kenya,2009,0.026,Dentistry personnel density,per 1k pop,All,All,DPDDP345,0,130,404,No
+357,Kenya,2008,0.026,Dentistry personnel density,per 1k pop,All,All,DPDDP346,0,130,404,No
+358,Kenya,2002,0.042,Dentistry personnel density,per 1k pop,All,All,DPDDP347,0,130,404,No
+359,Kiribati,2008,0.171,Dentistry personnel density,per 1k pop,All,All,DPDDP348,0,130,296,No
+360,Kiribati,2004,0.035,Dentistry personnel density,per 1k pop,All,All,DPDDP349,0,130,296,No
+361,Kiribati,1998,0.049,Dentistry personnel density,per 1k pop,All,All,DPDDP350,0,130,296,No
+362,Kuwait,2009,0.354,Dentistry personnel density,per 1k pop,All,All,DPDDP351,0,130,414,No
+363,Kuwait,2008,0.33,Dentistry personnel density,per 1k pop,All,All,DPDDP352,0,130,414,No
+364,Kuwait,2007,0.299,Dentistry personnel density,per 1k pop,All,All,DPDDP353,0,130,414,No
+365,Kuwait,2006,0.268,Dentistry personnel density,per 1k pop,All,All,DPDDP354,0,130,414,No
+366,Kuwait,2001,0.286,Dentistry personnel density,per 1k pop,All,All,DPDDP355,0,130,414,No
+367,Kyrgyzstan,2012,0.179,Dentistry personnel density,per 1k pop,All,All,DPDDP356,0,130,417,No
+368,Lao Peoples Democratic Republic,2012,0.035,Dentistry personnel density,per 1k pop,All,All,DPDDP357,0,130,418,No
+369,Lao Peoples Democratic Republic,2009,0.05,Dentistry personnel density,per 1k pop,All,All,DPDDP358,0,130,418,No
+370,Latvia,2011,0.649,Dentistry personnel density,per 1k pop,All,All,DPDDP359,0,130,428,No
+371,Lebanon,2011,1.47,Dentistry personnel density,per 1k pop,All,All,DPDDP360,0,130,422,No
+372,Lebanon,2010,1.43,Dentistry personnel density,per 1k pop,All,All,DPDDP361,0,130,422,No
+373,Lebanon,2009,1.33,Dentistry personnel density,per 1k pop,All,All,DPDDP362,0,130,422,No
+374,Lebanon,2007,1.15,Dentistry personnel density,per 1k pop,All,All,DPDDP363,0,130,422,No
+375,Lebanon,2006,1.123,Dentistry personnel density,per 1k pop,All,All,DPDDP364,0,130,422,No
+376,Lebanon,2004,0.879,Dentistry personnel density,per 1k pop,All,All,DPDDP365,0,130,422,No
+377,Lebanon,2001,1.211,Dentistry personnel density,per 1k pop,All,All,DPDDP366,0,130,422,No
+378,Lesotho,2003,0.009,Dentistry personnel density,per 1k pop,All,All,DPDDP367,0,130,426,No
+379,Liberia,2008,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP368,0,130,430,No
+380,Liberia,2004,0.004,Dentistry personnel density,per 1k pop,All,All,DPDDP369,0,130,430,No
+381,Libya,2009,0.6,Dentistry personnel density,per 1k pop,All,All,DPDDP370,0,130,434,No
+382,Libya,2008,0.33,Dentistry personnel density,per 1k pop,All,All,DPDDP371,0,130,434,No
+383,Libya,2004,0.15,Dentistry personnel density,per 1k pop,All,All,DPDDP372,0,130,434,No
+384,Libya,1997,0.14,Dentistry personnel density,per 1k pop,All,All,DPDDP373,0,130,434,No
+385,Lithuania,2011,0.752,Dentistry personnel density,per 1k pop,All,All,DPDDP374,0,130,440,No
+386,Lithuania,2010,0.731,Dentistry personnel density,per 1k pop,All,All,DPDDP375,0,130,440,No
+387,Lithuania,1999,0.657,Dentistry personnel density,per 1k pop,All,All,DPDDP376,0,130,440,No
+388,Lithuania,1998,0.642,Dentistry personnel density,per 1k pop,All,All,DPDDP377,0,130,440,No
+389,Lithuania,1997,0.611,Dentistry personnel density,per 1k pop,All,All,DPDDP378,0,130,440,No
+390,Lithuania,1996,0.483,Dentistry personnel density,per 1k pop,All,All,DPDDP379,0,130,440,No
+391,Lithuania,1995,0.489,Dentistry personnel density,per 1k pop,All,All,DPDDP380,0,130,440,No
+392,Luxembourg,2012,0.843,Dentistry personnel density,per 1k pop,All,All,DPDDP381,0,130,442,No
+393,Luxembourg,2003,0.713,Dentistry personnel density,per 1k pop,All,All,DPDDP382,0,130,442,No
+394,Madagascar,2007,0.003,Dentistry personnel density,per 1k pop,All,All,DPDDP383,0,130,450,No
+395,Madagascar,2004,0.023,Dentistry personnel density,per 1k pop,All,All,DPDDP384,0,130,450,No
+396,Malaysia,2010,0.363,Dentistry personnel density,per 1k pop,All,All,DPDDP385,0,130,458,No
+397,Malaysia,2008,0.136,Dentistry personnel density,per 1k pop,All,All,DPDDP386,0,130,458,No
+398,Malaysia,2002,0.09,Dentistry personnel density,per 1k pop,All,All,DPDDP387,0,130,458,No
+399,Malaysia,2000,0.093,Dentistry personnel density,per 1k pop,All,All,DPDDP388,0,130,458,No
+400,Maldives,2010,0.086,Dentistry personnel density,per 1k pop,All,All,DPDDP389,0,130,462,No
+401,Maldives,2009,0.124,Dentistry personnel density,per 1k pop,All,All,DPDDP390,0,130,462,No
+402,Maldives,2004,0.043,Dentistry personnel density,per 1k pop,All,All,DPDDP391,0,130,462,No
+403,Mali,2010,0.007,Dentistry personnel density,per 1k pop,All,All,DPDDP392,0,130,466,No
+404,Mali,2009,0.008,Dentistry personnel density,per 1k pop,All,All,DPDDP393,0,130,466,No
+405,Mali,2008,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP394,0,130,466,No
+406,Mali,2004,0.006,Dentistry personnel density,per 1k pop,All,All,DPDDP395,0,130,466,No
+407,Malta,2012,0.453,Dentistry personnel density,per 1k pop,All,All,DPDDP396,0,130,470,No
+408,Marshall Islands,2008,0.162,Dentistry personnel density,per 1k pop,All,All,DPDDP397,0,130,584,No
+409,Marshall Islands,2000,0.078,Dentistry personnel density,per 1k pop,All,All,DPDDP398,0,130,584,No
+410,Mauritania,2009,0.027,Dentistry personnel density,per 1k pop,All,All,DPDDP399,0,130,478,No
+411,Mauritania,2004,0.021,Dentistry personnel density,per 1k pop,All,All,DPDDP400,0,130,478,No
+412,Mauritius,2004,0.189,Dentistry personnel density,per 1k pop,All,All,DPDDP401,0,130,480,No
+413,Mexico,2011,0.117,Dentistry personnel density,per 1k pop,All,All,DPDDP402,0,130,484,No
+414,Mexico,2010,0.117,Dentistry personnel density,per 1k pop,All,All,DPDDP403,0,130,484,No
+415,Mexico,2009,0.108,Dentistry personnel density,per 1k pop,All,All,DPDDP404,0,130,484,No
+416,Mexico,2004,1.415,Dentistry personnel density,per 1k pop,All,All,DPDDP405,0,130,484,No
+417,Mexico,2000,0.791,Dentistry personnel density,per 1k pop,All,All,DPDDP406,0,130,484,No
+418,Micronesia (Federated States of),2008,0.354,Dentistry personnel density,per 1k pop,All,All,DPDDP407,0,130,583,No
+419,Micronesia (Federated States of),2005,0.118,Dentistry personnel density,per 1k pop,All,All,DPDDP408,0,130,583,No
+420,Micronesia (Federated States of),2003,0.092,Dentistry personnel density,per 1k pop,All,All,DPDDP409,0,130,583,No
+421,Micronesia (Federated States of),2000,0.131,Dentistry personnel density,per 1k pop,All,All,DPDDP410,0,130,583,No
+422,Monaco,2012,1.044,Dentistry personnel density,per 1k pop,All,All,DPDDP411,0,130,492,No
+423,Mongolia,2008,0.187,Dentistry personnel density,per 1k pop,All,All,DPDDP412,0,130,496,No
+424,Mongolia,2002,0.132,Dentistry personnel density,per 1k pop,All,All,DPDDP413,0,130,496,No
+425,Montenegro,2011,0.044,Dentistry personnel density,per 1k pop,All,All,DPDDP414,0,130,499,No
+426,Morocco,2009,0.08,Dentistry personnel density,per 1k pop,All,All,DPDDP415,0,130,504,No
+427,Morocco,2004,0.1,Dentistry personnel density,per 1k pop,All,All,DPDDP416,0,130,504,No
+428,Mozambique,2004,0.008,Dentistry personnel density,per 1k pop,All,All,DPDDP417,0,130,508,No
+429,Myanmar,2012,0.069,Dentistry personnel density,per 1k pop,All,All,DPDDP418,0,130,104,No
+430,Myanmar,2011,0.064,Dentistry personnel density,per 1k pop,All,All,DPDDP419,0,130,104,No
+431,Myanmar,2010,0.054,Dentistry personnel density,per 1k pop,All,All,DPDDP420,0,130,104,No
+432,Myanmar,2009,0.049,Dentistry personnel density,per 1k pop,All,All,DPDDP421,0,130,104,No
+433,Myanmar,2008,0.049,Dentistry personnel density,per 1k pop,All,All,DPDDP422,0,130,104,No
+434,Myanmar,2007,0.04,Dentistry personnel density,per 1k pop,All,All,DPDDP423,0,130,104,No
+435,Myanmar,2006,0.037,Dentistry personnel density,per 1k pop,All,All,DPDDP424,0,130,104,No
+436,Myanmar,2005,0.035,Dentistry personnel density,per 1k pop,All,All,DPDDP425,0,130,104,No
+437,Myanmar,2004,0.028,Dentistry personnel density,per 1k pop,All,All,DPDDP426,0,130,104,No
+438,Namibia,2007,0.043,Dentistry personnel density,per 1k pop,All,All,DPDDP427,0,130,516,No
+439,Namibia,2004,0.056,Dentistry personnel density,per 1k pop,All,All,DPDDP428,0,130,516,No
+440,Nauru,2009,0.214,Dentistry personnel density,per 1k pop,All,All,DPDDP429,0,130,520,No
+441,Nauru,2008,0.071,Dentistry personnel density,per 1k pop,All,All,DPDDP430,0,130,520,No
+442,Nauru,2004,0.077,Dentistry personnel density,per 1k pop,All,All,DPDDP431,0,130,520,No
+443,Nepal,2004,0.014,Dentistry personnel density,per 1k pop,All,All,DPDDP432,0,130,524,No
+444,Netherlands,2003,0.48,Dentistry personnel density,per 1k pop,All,All,DPDDP433,0,130,528,No
+445,New Zealand,2007,0.459,Dentistry personnel density,per 1k pop,All,All,DPDDP434,0,130,554,No
+446,New Zealand,2007,0.459,Dentistry personnel density,per 1k pop,All,All,DPDDP434,0,130,554,No
+447,New Zealand,2002,0.421,Dentistry personnel density,per 1k pop,All,All,DPDDP435,0,130,554,No
+448,New Zealand,2002,0.421,Dentistry personnel density,per 1k pop,All,All,DPDDP435,0,130,554,No
+449,New Zealand,2001,0.678,Dentistry personnel density,per 1k pop,All,All,DPDDP436,0,130,554,No
+450,New Zealand,2001,0.678,Dentistry personnel density,per 1k pop,All,All,DPDDP436,0,130,554,No
+451,Nicaragua,2003,0.044,Dentistry personnel density,per 1k pop,All,All,DPDDP437,0,130,558,No
+452,Niger,2008,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP438,0,130,562,No
+453,Niger,2004,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP439,0,130,562,No
+454,Nigeria,2009,0.017,Dentistry personnel density,per 1k pop,All,All,DPDDP440,0,130,566,No
+455,Nigeria,2008,0.027,Dentistry personnel density,per 1k pop,All,All,DPDDP441,0,130,566,No
+456,Nigeria,2007,0.03,Dentistry personnel density,per 1k pop,All,All,DPDDP442,0,130,566,No
+457,Nigeria,2006,0.017,Dentistry personnel density,per 1k pop,All,All,DPDDP443,0,130,566,No
+458,Nigeria,2005,0.016,Dentistry personnel density,per 1k pop,All,All,DPDDP444,0,130,566,No
+459,Nigeria,2003,0.02,Dentistry personnel density,per 1k pop,All,All,DPDDP445,0,130,566,No
+460,Niue,2008,4.0,Dentistry personnel density,per 1k pop,All,All,DPDDP446,0,130,570,No
+461,Niue,2006,3.0,Dentistry personnel density,per 1k pop,All,All,DPDDP447,0,130,570,No
+462,Niue,2004,1.0,Dentistry personnel density,per 1k pop,All,All,DPDDP448,0,130,570,No
+463,Niue,1996,1.0,Dentistry personnel density,per 1k pop,All,All,DPDDP449,0,130,570,No
+464,Norway,2011,0.856,Dentistry personnel density,per 1k pop,All,All,DPDDP450,0,130,578,No
+465,Norway,2009,0.89,Dentistry personnel density,per 1k pop,All,All,DPDDP451,0,130,578,No
+466,Oman,2011,0.255,Dentistry personnel density,per 1k pop,All,All,DPDDP452,0,130,512,No
+467,Oman,2010,0.228,Dentistry personnel density,per 1k pop,All,All,DPDDP453,0,130,512,No
+468,Oman,2009,0.223,Dentistry personnel density,per 1k pop,All,All,DPDDP454,0,130,512,No
+469,Oman,2008,0.204,Dentistry personnel density,per 1k pop,All,All,DPDDP455,0,130,512,No
+470,Oman,2007,0.196,Dentistry personnel density,per 1k pop,All,All,DPDDP456,0,130,512,No
+471,Oman,2006,0.19,Dentistry personnel density,per 1k pop,All,All,DPDDP457,0,130,512,No
+472,Oman,2005,0.175,Dentistry personnel density,per 1k pop,All,All,DPDDP458,0,130,512,No
+473,Oman,2004,0.185,Dentistry personnel density,per 1k pop,All,All,DPDDP459,0,130,512,No
+474,Oman,2000,0.1,Dentistry personnel density,per 1k pop,All,All,DPDDP460,0,130,512,No
+475,Oman,1999,0.042,Dentistry personnel density,per 1k pop,All,All,DPDDP461,0,130,512,No
+476,Oman,1998,0.038,Dentistry personnel density,per 1k pop,All,All,DPDDP462,0,130,512,No
+477,Oman,1997,0.035,Dentistry personnel density,per 1k pop,All,All,DPDDP463,0,130,512,No
+478,Oman,1995,0.064,Dentistry personnel density,per 1k pop,All,All,DPDDP464,0,130,512,No
+479,Oman,1990,0.046,Dentistry personnel density,per 1k pop,All,All,DPDDP465,0,130,512,No
+480,Pakistan,2010,0.06,Dentistry personnel density,per 1k pop,All,All,DPDDP466,0,130,586,No
+481,Pakistan,2009,0.057,Dentistry personnel density,per 1k pop,All,All,DPDDP467,0,130,586,No
+482,Pakistan,2008,0.054,Dentistry personnel density,per 1k pop,All,All,DPDDP468,0,130,586,No
+483,Pakistan,2004,0.05,Dentistry personnel density,per 1k pop,All,All,DPDDP469,0,130,586,No
+484,Pakistan,2001,0.032,Dentistry personnel density,per 1k pop,All,All,DPDDP470,0,130,586,No
+485,Pakistan,2000,0.029,Dentistry personnel density,per 1k pop,All,All,DPDDP471,0,130,586,No
+486,Pakistan,1999,0.027,Dentistry personnel density,per 1k pop,All,All,DPDDP472,0,130,586,No
+487,Pakistan,1998,0.025,Dentistry personnel density,per 1k pop,All,All,DPDDP473,0,130,586,No
+488,Pakistan,1997,0.024,Dentistry personnel density,per 1k pop,All,All,DPDDP474,0,130,586,No
+489,Pakistan,1996,0.023,Dentistry personnel density,per 1k pop,All,All,DPDDP475,0,130,586,No
+490,Pakistan,1995,0.022,Dentistry personnel density,per 1k pop,All,All,DPDDP476,0,130,586,No
+491,Pakistan,1994,0.021,Dentistry personnel density,per 1k pop,All,All,DPDDP477,0,130,586,No
+492,Pakistan,1993,0.02,Dentistry personnel density,per 1k pop,All,All,DPDDP478,0,130,586,No
+493,Pakistan,1992,0.02,Dentistry personnel density,per 1k pop,All,All,DPDDP479,0,130,586,No
+494,Palau,2007,0.25,Dentistry personnel density,per 1k pop,All,All,DPDDP480,0,130,585,No
+495,Palau,1998,1.333,Dentistry personnel density,per 1k pop,All,All,DPDDP481,0,130,585,No
+496,Panama,2011,0.312,Dentistry personnel density,per 1k pop,All,All,DPDDP482,0,130,591,No
+497,Panama,2011,0.312,Dentistry personnel density,per 1k pop,All,All,DPDDP482,0,130,590,No
+498,Panama,2010,0.311,Dentistry personnel density,per 1k pop,All,All,DPDDP483,0,130,591,No
+499,Panama,2010,0.311,Dentistry personnel density,per 1k pop,All,All,DPDDP483,0,130,590,No
+500,Panama,2006,0.29,Dentistry personnel density,per 1k pop,All,All,DPDDP484,0,130,591,No
+501,Panama,2006,0.29,Dentistry personnel density,per 1k pop,All,All,DPDDP484,0,130,590,No
+502,Panama,2005,0.29,Dentistry personnel density,per 1k pop,All,All,DPDDP485,0,130,591,No
+503,Panama,2005,0.29,Dentistry personnel density,per 1k pop,All,All,DPDDP485,0,130,590,No
+504,Panama,2004,0.291,Dentistry personnel density,per 1k pop,All,All,DPDDP486,0,130,591,No
+505,Panama,2004,0.291,Dentistry personnel density,per 1k pop,All,All,DPDDP486,0,130,590,No
+506,Panama,2003,0.278,Dentistry personnel density,per 1k pop,All,All,DPDDP487,0,130,591,No
+507,Panama,2003,0.278,Dentistry personnel density,per 1k pop,All,All,DPDDP487,0,130,590,No
+508,Panama,2002,0.293,Dentistry personnel density,per 1k pop,All,All,DPDDP488,0,130,591,No
+509,Panama,2002,0.293,Dentistry personnel density,per 1k pop,All,All,DPDDP488,0,130,590,No
+510,Panama,2001,0.254,Dentistry personnel density,per 1k pop,All,All,DPDDP489,0,130,591,No
+511,Panama,2001,0.254,Dentistry personnel density,per 1k pop,All,All,DPDDP489,0,130,590,No
+512,Panama,2000,0.756,Dentistry personnel density,per 1k pop,All,All,DPDDP490,0,130,591,No
+513,Panama,2000,0.756,Dentistry personnel density,per 1k pop,All,All,DPDDP490,0,130,590,No
+514,Papua New Guinea,2000,0.017,Dentistry personnel density,per 1k pop,All,All,DPDDP491,0,130,598,No
+515,Paraguay,2002,0.554,Dentistry personnel density,per 1k pop,All,All,DPDDP492,0,130,600,No
+516,Peru,2012,0.15,Dentistry personnel density,per 1k pop,All,All,DPDDP493,0,130,604,No
+517,Peru,2009,0.12,Dentistry personnel density,per 1k pop,All,All,DPDDP494,0,130,604,No
+518,Peru,1999,0.11,Dentistry personnel density,per 1k pop,All,All,DPDDP495,0,130,604,No
+519,Philippines,2004,0.564,Dentistry personnel density,per 1k pop,All,All,DPDDP496,0,130,608,No
+520,Philippines,2002,0.55,Dentistry personnel density,per 1k pop,All,All,DPDDP497,0,130,608,No
+521,Philippines,2000,0.113,Dentistry personnel density,per 1k pop,All,All,DPDDP498,0,130,608,No
+522,Poland,2011,0.34,Dentistry personnel density,per 1k pop,All,All,DPDDP499,0,130,616,No
+523,Poland,2010,0.321,Dentistry personnel density,per 1k pop,All,All,DPDDP500,0,130,616,No
+524,Poland,2003,0.297,Dentistry personnel density,per 1k pop,All,All,DPDDP501,0,130,616,No
+525,Portugal,2003,0.548,Dentistry personnel density,per 1k pop,All,All,DPDDP502,0,130,620,No
+526,Qatar,2006,0.579,Dentistry personnel density,per 1k pop,All,All,DPDDP503,0,130,634,No
+527,Qatar,2005,0.849,Dentistry personnel density,per 1k pop,All,All,DPDDP504,0,130,634,No
+528,Qatar,2001,0.372,Dentistry personnel density,per 1k pop,All,All,DPDDP505,0,130,634,No
+529,Republic of Korea,2012,0.45,Dentistry personnel density,per 1k pop,All,All,DPDDP506,0,130,410,No
+530,Republic of Korea,2011,0.442,Dentistry personnel density,per 1k pop,All,All,DPDDP507,0,130,410,No
+531,Republic of Korea,2010,0.431,Dentistry personnel density,per 1k pop,All,All,DPDDP508,0,130,410,No
+532,Republic of Korea,2009,0.509,Dentistry personnel density,per 1k pop,All,All,DPDDP509,0,130,410,No
+533,Republic of Korea,2008,0.495,Dentistry personnel density,per 1k pop,All,All,DPDDP510,0,130,410,No
+534,Republic of Korea,2007,0.48,Dentistry personnel density,per 1k pop,All,All,DPDDP511,0,130,410,No
+535,Republic of Korea,2006,0.464,Dentistry personnel density,per 1k pop,All,All,DPDDP512,0,130,410,No
+536,Republic of Korea,2005,0.451,Dentistry personnel density,per 1k pop,All,All,DPDDP513,0,130,410,No
+537,Republic of Korea,2004,1.375,Dentistry personnel density,per 1k pop,All,All,DPDDP514,0,130,410,No
+538,Republic of Korea,2003,0.336,Dentistry personnel density,per 1k pop,All,All,DPDDP515,0,130,410,No
+539,Republic of Moldova,2012,0.475,Dentistry personnel density,per 1k pop,All,All,DPDDP516,0,130,498,No
+540,Romania,2011,0.622,Dentistry personnel density,per 1k pop,All,All,DPDDP517,0,130,642,No
+541,Romania,2002,0.59,Dentistry personnel density,per 1k pop,All,All,DPDDP518,0,130,642,No
+542,Russian Federation,2006,0.32,Dentistry personnel density,per 1k pop,All,All,DPDDP519,0,130,643,No
+543,Rwanda,2010,0.012,Dentistry personnel density,per 1k pop,All,All,DPDDP520,0,130,646,No
+544,Rwanda,2009,0.015,Dentistry personnel density,per 1k pop,All,All,DPDDP521,0,130,646,No
+545,Rwanda,2008,0.013,Dentistry personnel density,per 1k pop,All,All,DPDDP522,0,130,646,No
+546,Rwanda,2004,0.002,Dentistry personnel density,per 1k pop,All,All,DPDDP523,0,130,646,No
+547,Saint Kitts and Nevis,2001,0.357,Dentistry personnel density,per 1k pop,All,All,DPDDP524,0,130,659,No
+548,Saint Kitts and Nevis,1999,0.326,Dentistry personnel density,per 1k pop,All,All,DPDDP525,0,130,659,No
+549,Saint Kitts and Nevis,1998,0.279,Dentistry personnel density,per 1k pop,All,All,DPDDP526,0,130,659,No
+550,Saint Kitts and Nevis,1997,0.233,Dentistry personnel density,per 1k pop,All,All,DPDDP527,0,130,659,No
+551,Saint Kitts and Nevis,1996,0.25,Dentistry personnel density,per 1k pop,All,All,DPDDP528,0,130,659,No
+552,Saint Kitts and Nevis,1995,0.25,Dentistry personnel density,per 1k pop,All,All,DPDDP529,0,130,659,No
+553,Saint Kitts and Nevis,1994,0.233,Dentistry personnel density,per 1k pop,All,All,DPDDP530,0,130,659,No
+554,Saint Kitts and Nevis,1993,0.209,Dentistry personnel density,per 1k pop,All,All,DPDDP531,0,130,659,No
+555,Saint Kitts and Nevis,1992,0.214,Dentistry personnel density,per 1k pop,All,All,DPDDP532,0,130,659,No
+556,Saint Kitts and Nevis,1991,0.171,Dentistry personnel density,per 1k pop,All,All,DPDDP533,0,130,659,No
+557,Saint Kitts and Nevis,1990,0.293,Dentistry personnel density,per 1k pop,All,All,DPDDP534,0,130,659,No
+558,Saint Lucia,2002,0.047,Dentistry personnel density,per 1k pop,All,All,DPDDP535,0,130,662,No
+559,Saint Lucia,2001,0.184,Dentistry personnel density,per 1k pop,All,All,DPDDP536,0,130,662,No
+560,Saint Lucia,1999,0.062,Dentistry personnel density,per 1k pop,All,All,DPDDP537,0,130,662,No
+561,Saint Vincent and the Grenadines,2001,0.178,Dentistry personnel density,per 1k pop,All,All,DPDDP538,0,130,670,No
+562,Saint Vincent and the Grenadines,2000,0.042,Dentistry personnel density,per 1k pop,All,All,DPDDP539,0,130,670,No
+563,Saint Vincent and the Grenadines,1997,0.052,Dentistry personnel density,per 1k pop,All,All,DPDDP540,0,130,670,No
+564,Samoa,2008,0.335,Dentistry personnel density,per 1k pop,All,All,DPDDP541,0,130,882,No
+565,Samoa,2005,0.032,Dentistry personnel density,per 1k pop,All,All,DPDDP542,0,130,882,No
+566,Samoa,2003,0.056,Dentistry personnel density,per 1k pop,All,All,DPDDP543,0,130,882,No
+567,Samoa,1999,0.175,Dentistry personnel density,per 1k pop,All,All,DPDDP544,0,130,882,No
+568,Sao Tome and Principe,2004,0.067,Dentistry personnel density,per 1k pop,All,All,DPDDP545,0,130,678,No
+569,Saudi Arabia,2009,0.094,Dentistry personnel density,per 1k pop,All,All,DPDDP546,0,130,682,No
+570,Saudi Arabia,2001,0.069,Dentistry personnel density,per 1k pop,All,All,DPDDP547,0,130,682,No
+571,Senegal,2008,0.008,Dentistry personnel density,per 1k pop,All,All,DPDDP548,0,130,686,No
+572,Senegal,2004,0.009,Dentistry personnel density,per 1k pop,All,All,DPDDP549,0,130,686,No
+573,Serbia,2009,0.231,Dentistry personnel density,per 1k pop,All,All,DPDDP550,0,130,688,No
+574,Seychelles,2004,1.175,Dentistry personnel density,per 1k pop,All,All,DPDDP551,0,130,690,No
+575,Sierra Leone,2010,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP552,0,130,694,No
+576,Sierra Leone,2008,0.004,Dentistry personnel density,per 1k pop,All,All,DPDDP553,0,130,694,No
+577,Sierra Leone,2004,0.001,Dentistry personnel density,per 1k pop,All,All,DPDDP554,0,130,694,No
+578,Singapore,2010,0.328,Dentistry personnel density,per 1k pop,All,All,DPDDP555,0,130,702,No
+579,Singapore,2009,0.322,Dentistry personnel density,per 1k pop,All,All,DPDDP556,0,130,702,No
+580,Singapore,2008,0.315,Dentistry personnel density,per 1k pop,All,All,DPDDP557,0,130,702,No
+581,Singapore,2007,0.305,Dentistry personnel density,per 1k pop,All,All,DPDDP558,0,130,702,No
+582,Singapore,2006,0.302,Dentistry personnel density,per 1k pop,All,All,DPDDP559,0,130,702,No
+583,Singapore,2005,0.295,Dentistry personnel density,per 1k pop,All,All,DPDDP560,0,130,702,No
+584,Singapore,2004,0.284,Dentistry personnel density,per 1k pop,All,All,DPDDP561,0,130,702,No
+585,Singapore,2003,0.28,Dentistry personnel density,per 1k pop,All,All,DPDDP562,0,130,702,No
+586,Singapore,2001,0.265,Dentistry personnel density,per 1k pop,All,All,DPDDP563,0,130,702,No
+587,Singapore,1999,0.24,Dentistry personnel density,per 1k pop,All,All,DPDDP564,0,130,702,No
+588,Slovakia,2007,0.499,Dentistry personnel density,per 1k pop,All,All,DPDDP565,0,130,703,No
+589,Slovenia,2011,0.629,Dentistry personnel density,per 1k pop,All,All,DPDDP566,0,130,705,No
+590,Solomon Islands,2005,0.109,Dentistry personnel density,per 1k pop,All,All,DPDDP567,0,130,90,No
+591,Solomon Islands,1999,0.061,Dentistry personnel density,per 1k pop,All,All,DPDDP568,0,130,90,No
+592,Somalia,1997,0.002,Dentistry personnel density,per 1k pop,All,All,DPDDP569,0,130,706,No
+593,South Africa,2013,0.2,Dentistry personnel density,per 1k pop,All,All,DPDDP570,0,130,710,No
+594,South Africa,2011,0.192,Dentistry personnel density,per 1k pop,All,All,DPDDP571,0,130,710,No
+595,South Africa,2004,0.133,Dentistry personnel density,per 1k pop,All,All,DPDDP572,0,130,710,No
+596,Spain,2003,0.487,Dentistry personnel density,per 1k pop,All,All,DPDDP573,0,130,724,No
+597,Sri Lanka,2007,0.083,Dentistry personnel density,per 1k pop,All,All,DPDDP574,0,130,144,No
+598,Sri Lanka,2006,0.056,Dentistry personnel density,per 1k pop,All,All,DPDDP575,0,130,144,No
+599,Sri Lanka,2005,0.046,Dentistry personnel density,per 1k pop,All,All,DPDDP576,0,130,144,No
+600,Sri Lanka,2004,0.065,Dentistry personnel density,per 1k pop,All,All,DPDDP577,0,130,144,No
+601,Sri Lanka,2000,0.034,Dentistry personnel density,per 1k pop,All,All,DPDDP578,0,130,144,No
+602,Sri Lanka,1993,0.022,Dentistry personnel density,per 1k pop,All,All,DPDDP579,0,130,144,No
+603,Sudan,2008,0.02,Dentistry personnel density,per 1k pop,All,All,DPDDP580,0,130,729,No
+604,Sudan,2008,0.02,Dentistry personnel density,per 1k pop,All,All,DPDDP580,0,130,736,No
+605,Sudan,2007,0.02,Dentistry personnel density,per 1k pop,All,All,DPDDP581,0,130,729,No
+606,Sudan,2007,0.02,Dentistry personnel density,per 1k pop,All,All,DPDDP581,0,130,736,No
+607,Sudan,2006,0.026,Dentistry personnel density,per 1k pop,All,All,DPDDP582,0,130,729,No
+608,Sudan,2006,0.026,Dentistry personnel density,per 1k pop,All,All,DPDDP582,0,130,736,No
+609,Sudan,2004,0.032,Dentistry personnel density,per 1k pop,All,All,DPDDP583,0,130,729,No
+610,Sudan,2004,0.032,Dentistry personnel density,per 1k pop,All,All,DPDDP583,0,130,736,No
+611,Suriname,2004,0.096,Dentistry personnel density,per 1k pop,All,All,DPDDP584,0,130,740,No
+612,Suriname,2000,0.009,Dentistry personnel density,per 1k pop,All,All,DPDDP585,0,130,740,No
+613,Swaziland,2009,0.042,Dentistry personnel density,per 1k pop,All,All,DPDDP586,0,130,748,No
+614,Swaziland,2004,0.03,Dentistry personnel density,per 1k pop,All,All,DPDDP587,0,130,748,No
+615,Swaziland,2000,0.019,Dentistry personnel density,per 1k pop,All,All,DPDDP588,0,130,748,No
+616,Sweden,2007,0.829,Dentistry personnel density,per 1k pop,All,All,DPDDP589,0,130,752,No
+617,Sweden,2002,0.82,Dentistry personnel density,per 1k pop,All,All,DPDDP590,0,130,752,No
+618,Switzerland,2011,0.535,Dentistry personnel density,per 1k pop,All,All,DPDDP591,0,130,756,No
+619,Switzerland,2011,0.535,Dentistry personnel density,per 1k pop,All,All,DPDDP591,0,130,756,No
+620,Syrian Arab Republic,2008,0.79,Dentistry personnel density,per 1k pop,All,All,DPDDP592,0,130,760,No
+621,Syrian Arab Republic,2007,0.74,Dentistry personnel density,per 1k pop,All,All,DPDDP593,0,130,760,No
+622,Syrian Arab Republic,2004,0.84,Dentistry personnel density,per 1k pop,All,All,DPDDP594,0,130,760,No
+623,Syrian Arab Republic,2003,0.838,Dentistry personnel density,per 1k pop,All,All,DPDDP595,0,130,760,No
+624,Syrian Arab Republic,2002,0.841,Dentistry personnel density,per 1k pop,All,All,DPDDP596,0,130,760,No
+625,Syrian Arab Republic,2001,0.719,Dentistry personnel density,per 1k pop,All,All,DPDDP597,0,130,760,No
+626,Syrian Arab Republic,2000,0.674,Dentistry personnel density,per 1k pop,All,All,DPDDP598,0,130,760,No
+627,Syrian Arab Republic,1999,0.662,Dentistry personnel density,per 1k pop,All,All,DPDDP599,0,130,760,No
+628,Tajikistan,2011,0.178,Dentistry personnel density,per 1k pop,All,All,DPDDP600,0,130,762,No
+629,Thailand,2010,0.258,Dentistry personnel density,per 1k pop,All,All,DPDDP601,0,130,764,No
+630,Thailand,2009,0.214,Dentistry personnel density,per 1k pop,All,All,DPDDP602,0,130,764,No
+631,Thailand,2008,0.2,Dentistry personnel density,per 1k pop,All,All,DPDDP603,0,130,764,No
+632,Thailand,2007,0.193,Dentistry personnel density,per 1k pop,All,All,DPDDP604,0,130,764,No
+633,Thailand,2006,0.193,Dentistry personnel density,per 1k pop,All,All,DPDDP605,0,130,764,No
+634,Thailand,2004,0.065,Dentistry personnel density,per 1k pop,All,All,DPDDP606,0,130,764,No
+635,Thailand,2002,0.072,Dentistry personnel density,per 1k pop,All,All,DPDDP607,0,130,764,No
+636,Thailand,2001,0.07,Dentistry personnel density,per 1k pop,All,All,DPDDP608,0,130,764,No
+637,Thailand,2000,0.172,Dentistry personnel density,per 1k pop,All,All,DPDDP609,0,130,764,No
+638,Thailand,1999,0.067,Dentistry personnel density,per 1k pop,All,All,DPDDP610,0,130,764,No
+639,Thailand,1998,0.066,Dentistry personnel density,per 1k pop,All,All,DPDDP611,0,130,764,No
+640,Thailand,1997,0.058,Dentistry personnel density,per 1k pop,All,All,DPDDP612,0,130,764,No
+641,Thailand,1995,0.05,Dentistry personnel density,per 1k pop,All,All,DPDDP613,0,130,764,No
+642,Thailand,1993,0.049,Dentistry personnel density,per 1k pop,All,All,DPDDP614,0,130,764,No
+643,Thailand,1991,0.044,Dentistry personnel density,per 1k pop,All,All,DPDDP615,0,130,764,No
+644,The former Yugoslav Republic of Macedonia,2009,0.697,Dentistry personnel density,per 1k pop,All,All,DPDDP616,0,130,807,No
+645,Timor-Leste,2011,0.04,Dentistry personnel density,per 1k pop,All,All,DPDDP617,0,130,626,No
+646,Timor-Leste,2010,0.035,Dentistry personnel density,per 1k pop,All,All,DPDDP618,0,130,626,No
+647,Timor-Leste,2009,0.034,Dentistry personnel density,per 1k pop,All,All,DPDDP619,0,130,626,No
+648,Timor-Leste,2008,0.026,Dentistry personnel density,per 1k pop,All,All,DPDDP620,0,130,626,No
+649,Timor-Leste,2007,0.026,Dentistry personnel density,per 1k pop,All,All,DPDDP621,0,130,626,No
+650,Timor-Leste,2004,0.055,Dentistry personnel density,per 1k pop,All,All,DPDDP622,0,130,626,No
+651,Timor-Leste,2001,0.014,Dentistry personnel density,per 1k pop,All,All,DPDDP623,0,130,626,No
+652,Togo,2008,0.003,Dentistry personnel density,per 1k pop,All,All,DPDDP624,0,130,768,No
+653,Togo,2007,0.003,Dentistry personnel density,per 1k pop,All,All,DPDDP625,0,130,768,No
+654,Togo,2004,0.004,Dentistry personnel density,per 1k pop,All,All,DPDDP626,0,130,768,No
+655,Tonga,2009,0.359,Dentistry personnel density,per 1k pop,All,All,DPDDP627,0,130,776,No
+656,Tonga,2003,0.221,Dentistry personnel density,per 1k pop,All,All,DPDDP628,0,130,776,No
+657,Tonga,2002,0.097,Dentistry personnel density,per 1k pop,All,All,DPDDP629,0,130,776,No
+658,Tonga,2001,0.324,Dentistry personnel density,per 1k pop,All,All,DPDDP630,0,130,776,No
+659,Trinidad and Tobago,2007,0.224,Dentistry personnel density,per 1k pop,All,All,DPDDP631,0,130,780,No
+660,Trinidad and Tobago,2006,0.217,Dentistry personnel density,per 1k pop,All,All,DPDDP632,0,130,780,No
+661,Trinidad and Tobago,1997,0.084,Dentistry personnel density,per 1k pop,All,All,DPDDP633,0,130,780,No
+662,Tunisia,2010,0.294,Dentistry personnel density,per 1k pop,All,All,DPDDP634,0,130,788,No
+663,Tunisia,2009,0.24,Dentistry personnel density,per 1k pop,All,All,DPDDP635,0,130,788,No
+664,Tunisia,2008,0.22,Dentistry personnel density,per 1k pop,All,All,DPDDP636,0,130,788,No
+665,Tunisia,2006,0.182,Dentistry personnel density,per 1k pop,All,All,DPDDP637,0,130,788,No
+666,Tunisia,2005,0.183,Dentistry personnel density,per 1k pop,All,All,DPDDP638,0,130,788,No
+667,Tunisia,2004,0.247,Dentistry personnel density,per 1k pop,All,All,DPDDP639,0,130,788,No
+668,Tunisia,2002,0.143,Dentistry personnel density,per 1k pop,All,All,DPDDP640,0,130,788,No
+669,Tunisia,2001,0.143,Dentistry personnel density,per 1k pop,All,All,DPDDP641,0,130,788,No
+670,Tunisia,2000,0.138,Dentistry personnel density,per 1k pop,All,All,DPDDP642,0,130,788,No
+671,Tunisia,1999,0.138,Dentistry personnel density,per 1k pop,All,All,DPDDP643,0,130,788,No
+672,Tunisia,1998,0.137,Dentistry personnel density,per 1k pop,All,All,DPDDP644,0,130,788,No
+673,Tunisia,1997,0.131,Dentistry personnel density,per 1k pop,All,All,DPDDP645,0,130,788,No
+674,Tunisia,1996,0.122,Dentistry personnel density,per 1k pop,All,All,DPDDP646,0,130,788,No
+675,Tunisia,1995,0.116,Dentistry personnel density,per 1k pop,All,All,DPDDP647,0,130,788,No
+676,Tunisia,1994,0.114,Dentistry personnel density,per 1k pop,All,All,DPDDP648,0,130,788,No
+677,Tunisia,1993,0.116,Dentistry personnel density,per 1k pop,All,All,DPDDP649,0,130,788,No
+678,Tunisia,1992,0.114,Dentistry personnel density,per 1k pop,All,All,DPDDP650,0,130,788,No
+679,Tunisia,1991,0.097,Dentistry personnel density,per 1k pop,All,All,DPDDP651,0,130,788,No
+680,Tunisia,1990,0.099,Dentistry personnel density,per 1k pop,All,All,DPDDP652,0,130,788,No
+681,Turkey,2011,0.287,Dentistry personnel density,per 1k pop,All,All,DPDDP653,0,130,792,No
+682,Turkey,2010,0.274,Dentistry personnel density,per 1k pop,All,All,DPDDP654,0,130,792,No
+683,Turkey,2009,0.267,Dentistry personnel density,per 1k pop,All,All,DPDDP655,0,130,792,No
+684,Turkey,2008,0.262,Dentistry personnel density,per 1k pop,All,All,DPDDP656,0,130,792,No
+685,Turkey,2007,0.256,Dentistry personnel density,per 1k pop,All,All,DPDDP657,0,130,792,No
+686,Turkey,2006,0.247,Dentistry personnel density,per 1k pop,All,All,DPDDP658,0,130,792,No
+687,Turkey,2005,0.248,Dentistry personnel density,per 1k pop,All,All,DPDDP659,0,130,792,No
+688,Turkey,2004,0.247,Dentistry personnel density,per 1k pop,All,All,DPDDP660,0,130,792,No
+689,Turkey,2003,0.249,Dentistry personnel density,per 1k pop,All,All,DPDDP661,0,130,792,No
+690,Turkey,2002,0.233,Dentistry personnel density,per 1k pop,All,All,DPDDP662,0,130,792,No
+691,Turkey,2001,0.232,Dentistry personnel density,per 1k pop,All,All,DPDDP663,0,130,792,No
+692,Turkey,2000,0.233,Dentistry personnel density,per 1k pop,All,All,DPDDP664,0,130,792,No
+693,Turkey,1999,0.212,Dentistry personnel density,per 1k pop,All,All,DPDDP665,0,130,792,No
+694,Turkey,1998,0.203,Dentistry personnel density,per 1k pop,All,All,DPDDP666,0,130,792,No
+695,Turkey,1997,0.195,Dentistry personnel density,per 1k pop,All,All,DPDDP667,0,130,792,No
+696,Turkey,1996,0.193,Dentistry personnel density,per 1k pop,All,All,DPDDP668,0,130,792,No
+697,Turkey,1995,0.186,Dentistry personnel density,per 1k pop,All,All,DPDDP669,0,130,792,No
+698,Turkey,1994,0.185,Dentistry personnel density,per 1k pop,All,All,DPDDP670,0,130,792,No
+699,Turkey,1993,0.182,Dentistry personnel density,per 1k pop,All,All,DPDDP671,0,130,792,No
+700,Turkey,1992,0.179,Dentistry personnel density,per 1k pop,All,All,DPDDP672,0,130,792,No
+701,Turkey,1991,0.181,Dentistry personnel density,per 1k pop,All,All,DPDDP673,0,130,792,No
+702,Turkey,1990,0.183,Dentistry personnel density,per 1k pop,All,All,DPDDP674,0,130,792,No
+703,Turkmenistan,2012,0.119,Dentistry personnel density,per 1k pop,All,All,DPDDP675,0,130,795,No
+704,Turkmenistan,2002,0.183,Dentistry personnel density,per 1k pop,All,All,DPDDP676,0,130,795,No
+705,Tuvalu,2008,0.364,Dentistry personnel density,per 1k pop,All,All,DPDDP677,0,130,798,No
+706,Tuvalu,2003,0.182,Dentistry personnel density,per 1k pop,All,All,DPDDP678,0,130,798,No
+707,Tuvalu,2002,0.182,Dentistry personnel density,per 1k pop,All,All,DPDDP679,0,130,798,No
+708,Uganda,2005,0.015,Dentistry personnel density,per 1k pop,All,All,DPDDP680,0,130,800,No
+709,Uganda,2004,0.014,Dentistry personnel density,per 1k pop,All,All,DPDDP681,0,130,800,No
+710,Ukraine,2012,0.683,Dentistry personnel density,per 1k pop,All,All,DPDDP682,0,130,804,No
+711,United Arab Emirates,2007,0.43,Dentistry personnel density,per 1k pop,All,All,DPDDP683,0,130,784,No
+712,United Arab Emirates,2004,0.448,Dentistry personnel density,per 1k pop,All,All,DPDDP684,0,130,784,No
+713,United Arab Emirates,2002,0.289,Dentistry personnel density,per 1k pop,All,All,DPDDP685,0,130,784,No
+714,United Arab Emirates,2001,0.331,Dentistry personnel density,per 1k pop,All,All,DPDDP686,0,130,784,No
+715,United Kingdom,2012,0.536,Dentistry personnel density,per 1k pop,All,All,DPDDP687,0,130,826,No
+716,United Kingdom,1997,1.553,Dentistry personnel density,per 1k pop,All,All,DPDDP688,0,130,826,No
+717,United Republic of Tanzania,2006,0.006,Dentistry personnel density,per 1k pop,All,All,DPDDP689,0,130,834,No
+718,United Republic of Tanzania,2002,0.007,Dentistry personnel density,per 1k pop,All,All,DPDDP690,0,130,834,No
+719,United States of America,2000,1.627,Dentistry personnel density,per 1k pop,All,All,DPDDP691,0,130,840,No
+720,Uruguay,2008,0.701,Dentistry personnel density,per 1k pop,All,All,DPDDP692,0,130,858,No
+721,Uruguay,2002,1.161,Dentistry personnel density,per 1k pop,All,All,DPDDP693,0,130,858,No
+722,Uzbekistan,2012,0.183,Dentistry personnel density,per 1k pop,All,All,DPDDP694,0,130,860,No
+723,Vanuatu,2008,0.013,Dentistry personnel density,per 1k pop,All,All,DPDDP695,0,130,548,No
+724,Venezuela (Bolivarian Republic of),2001,0.553,Dentistry personnel density,per 1k pop,All,All,DPDDP696,0,130,862,No
+725,Yemen,2010,0.037,Dentistry personnel density,per 1k pop,All,All,DPDDP697,0,130,887,No
+726,Yemen,2010,0.037,Dentistry personnel density,per 1k pop,All,All,DPDDP697,0,130,886,No
+727,Yemen,2009,0.1,Dentistry personnel density,per 1k pop,All,All,DPDDP698,0,130,887,No
+728,Yemen,2009,0.1,Dentistry personnel density,per 1k pop,All,All,DPDDP698,0,130,886,No
+729,Yemen,2008,0.1,Dentistry personnel density,per 1k pop,All,All,DPDDP699,0,130,887,No
+730,Yemen,2008,0.1,Dentistry personnel density,per 1k pop,All,All,DPDDP699,0,130,886,No
+731,Yemen,2004,0.041,Dentistry personnel density,per 1k pop,All,All,DPDDP700,0,130,887,No
+732,Yemen,2004,0.041,Dentistry personnel density,per 1k pop,All,All,DPDDP700,0,130,886,No
+733,Yemen,1997,0.016,Dentistry personnel density,per 1k pop,All,All,DPDDP701,0,130,887,No
+734,Yemen,1997,0.016,Dentistry personnel density,per 1k pop,All,All,DPDDP701,0,130,886,No
+735,Zambia,2010,0.019,Dentistry personnel density,per 1k pop,All,All,DPDDP702,0,130,894,No
+736,Zambia,2009,0.019,Dentistry personnel density,per 1k pop,All,All,DPDDP703,0,130,894,No
+737,Zambia,2004,0.045,Dentistry personnel density,per 1k pop,All,All,DPDDP704,0,130,894,No
+738,Zimbabwe,2009,0.014,Dentistry personnel density,per 1k pop,All,All,DPDDP705,0,130,716,No
+739,Zimbabwe,2008,0.014,Dentistry personnel density,per 1k pop,All,All,DPDDP706,0,130,716,No
+740,Zimbabwe,2007,0.015,Dentistry personnel density,per 1k pop,All,All,DPDDP707,0,130,716,No
+741,Zimbabwe,2004,0.024,Dentistry personnel density,per 1k pop,All,All,DPDDP708,0,130,716,No
+742,Zimbabwe,1995,0.016,Dentistry personnel density,per 1k pop,All,All,DPDDP709,0,130,716,No
+743,Zimbabwe,1990,0.015,Dentistry personnel density,per 1k pop,All,All,DPDDP710,0,130,716,No

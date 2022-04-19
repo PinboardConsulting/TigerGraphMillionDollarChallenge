@@ -1,0 +1,873 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2009,17257,Number of nursing personnel,Absolute,All,All,NONUPE1,0,130,4,No
+1,Afghanistan,2008,12113,Number of nursing personnel,Absolute,All,All,NONUPE2,0,130,4,No
+2,Afghanistan,2007,11809,Number of nursing personnel,Absolute,All,All,NONUPE3,0,130,4,No
+3,Afghanistan,2006,11631,Number of nursing personnel,Absolute,All,All,NONUPE4,0,130,4,No
+4,Afghanistan,2005,14930,Number of nursing personnel,Absolute,All,All,NONUPE5,0,130,4,No
+5,Afghanistan,2001,4752,Number of nursing personnel,Absolute,All,All,NONUPE6,0,130,4,No
+6,Albania,2012,12878,Number of nursing personnel,Absolute,All,All,NONUPE7,0,130,8,No
+7,Algeria,2007,57652,Number of nursing personnel,Absolute,All,All,NONUPE8,0,130,12,No
+8,Algeria,2002,62177,Number of nursing personnel,Absolute,All,All,NONUPE9,0,130,12,No
+9,Andorra,2003,205,Number of nursing personnel,Absolute,All,All,NONUPE10,0,130,20,No
+10,Angola,2009,29592,Number of nursing personnel,Absolute,All,All,NONUPE11,0,130,24,No
+11,Angola,2004,18485,Number of nursing personnel,Absolute,All,All,NONUPE12,0,130,24,No
+12,Angola,1997,13135,Number of nursing personnel,Absolute,All,All,NONUPE13,0,130,24,No
+13,Antigua and Barbuda,1999,233,Number of nursing personnel,Absolute,All,All,NONUPE14,0,130,28,No
+14,Argentina,2004,14474,Number of nursing personnel,Absolute,All,All,NONUPE15,0,130,32,No
+15,Argentina,1998,29000,Number of nursing personnel,Absolute,All,All,NONUPE16,0,130,32,No
+16,Armenia,2012,13956,Number of nursing personnel,Absolute,All,All,NONUPE17,0,130,51,No
+17,Australia,2011,225193,Number of nursing personnel,Absolute,All,All,NONUPE18,0,130,36,No
+18,Australia,2009,188300,Number of nursing personnel,Absolute,All,All,NONUPE19,0,130,36,No
+19,Australia,2006,209897,Number of nursing personnel,Absolute,All,All,NONUPE20,0,130,36,No
+20,Australia,2001,176188,Number of nursing personnel,Absolute,All,All,NONUPE21,0,130,36,No
+21,Australia,1996,178387,Number of nursing personnel,Absolute,All,All,NONUPE22,0,130,36,No
+22,Austria,2011,65248,Number of nursing personnel,Absolute,All,All,NONUPE23,0,130,40,No
+23,Austria,2003,76161,Number of nursing personnel,Absolute,All,All,NONUPE24,0,130,40,No
+24,Azerbaijan,2012,57506,Number of nursing personnel,Absolute,All,All,NONUPE25,0,130,31,No
+25,Bahamas,2008,1391,Number of nursing personnel,Absolute,All,All,NONUPE26,0,130,44,No
+26,Bahamas,1998,1323,Number of nursing personnel,Absolute,All,All,NONUPE27,0,130,44,No
+27,Bahrain,2011,3192,Number of nursing personnel,Absolute,All,All,NONUPE28,0,130,48,No
+28,Bahrain,2010,3052,Number of nursing personnel,Absolute,All,All,NONUPE29,0,130,48,No
+29,Bahrain,2009,2990,Number of nursing personnel,Absolute,All,All,NONUPE30,0,130,48,No
+30,Bahrain,2008,2856,Number of nursing personnel,Absolute,All,All,NONUPE31,0,130,48,No
+31,Bahrain,2007,4354,Number of nursing personnel,Absolute,All,All,NONUPE32,0,130,48,No
+32,Bahrain,2005,3850,Number of nursing personnel,Absolute,All,All,NONUPE33,0,130,48,No
+33,Bahrain,2004,2989,Number of nursing personnel,Absolute,All,All,NONUPE34,0,130,48,No
+34,Bangladesh,2011,26899,Number of nursing personnel,Absolute,All,All,NONUPE35,0,130,50,No
+35,Bangladesh,2007,21476,Number of nursing personnel,Absolute,All,All,NONUPE36,0,130,50,No
+36,Bangladesh,2006,20129,Number of nursing personnel,Absolute,All,All,NONUPE37,0,130,50,No
+37,Bangladesh,2005,20117,Number of nursing personnel,Absolute,All,All,NONUPE38,0,130,50,No
+38,Bangladesh,2004,20334,Number of nursing personnel,Absolute,All,All,NONUPE39,0,130,50,No
+39,Bangladesh,2003,19500,Number of nursing personnel,Absolute,All,All,NONUPE40,0,130,50,No
+40,Barbados,2005,1311,Number of nursing personnel,Absolute,All,All,NONUPE41,0,130,52,No
+41,Barbados,2001,1580,Number of nursing personnel,Absolute,All,All,NONUPE42,0,130,52,No
+42,Barbados,2000,1582,Number of nursing personnel,Absolute,All,All,NONUPE43,0,130,52,No
+43,Barbados,1995,1360,Number of nursing personnel,Absolute,All,All,NONUPE44,0,130,52,No
+44,Belarus,2011,95746,Number of nursing personnel,Absolute,All,All,NONUPE45,0,130,112,No
+45,Belgium,2010,157032,Number of nursing personnel,Absolute,All,All,NONUPE46,0,130,56,No
+46,Belgium,2003,60142,Number of nursing personnel,Absolute,All,All,NONUPE47,0,130,56,No
+47,Belize,2009,528,Number of nursing personnel,Absolute,All,All,NONUPE48,0,130,84,No
+48,Belize,2000,303,Number of nursing personnel,Absolute,All,All,NONUPE49,0,130,84,No
+49,Benin,2008,5974,Number of nursing personnel,Absolute,All,All,NONUPE50,0,130,204,No
+50,Benin,2004,4965,Number of nursing personnel,Absolute,All,All,NONUPE51,0,130,204,No
+51,Bhutan,2012,736,Number of nursing personnel,Absolute,All,All,NONUPE52,0,130,64,No
+52,Bhutan,2008,666,Number of nursing personnel,Absolute,All,All,NONUPE53,0,130,64,No
+53,Bhutan,2007,545,Number of nursing personnel,Absolute,All,All,NONUPE54,0,130,64,No
+54,Bhutan,2004,330,Number of nursing personnel,Absolute,All,All,NONUPE55,0,130,64,No
+55,Bolivia (Plurinational State of),2011,10139,Number of nursing personnel,Absolute,All,All,NONUPE56,0,130,68,No
+56,Bolivia (Plurinational State of),2010,8366,Number of nursing personnel,Absolute,All,All,NONUPE57,0,130,68,No
+57,Bolivia (Plurinational State of),2007,5815,Number of nursing personnel,Absolute,All,All,NONUPE58,0,130,68,No
+58,Bolivia (Plurinational State of),2001,17995,Number of nursing personnel,Absolute,All,All,NONUPE59,0,130,68,No
+59,Botswana,2006,5006,Number of nursing personnel,Absolute,All,All,NONUPE60,0,130,72,No
+60,Botswana,2005,4468,Number of nursing personnel,Absolute,All,All,NONUPE61,0,130,72,No
+61,Botswana,2004,4753,Number of nursing personnel,Absolute,All,All,NONUPE62,0,130,72,No
+62,Botswana,2003,4450,Number of nursing personnel,Absolute,All,All,NONUPE63,0,130,72,No
+63,Botswana,2002,4146,Number of nursing personnel,Absolute,All,All,NONUPE64,0,130,72,No
+64,Botswana,2001,3994,Number of nursing personnel,Absolute,All,All,NONUPE65,0,130,72,No
+65,Botswana,2000,4319,Number of nursing personnel,Absolute,All,All,NONUPE66,0,130,72,No
+66,Botswana,1999,4992,Number of nursing personnel,Absolute,All,All,NONUPE67,0,130,72,No
+67,Botswana,1998,4265,Number of nursing personnel,Absolute,All,All,NONUPE68,0,130,72,No
+68,Brazil,2013,1520533,Number of nursing personnel,Absolute,All,All,NONUPE69,0,130,76,No
+69,Brazil,2010,1457812,Number of nursing personnel,Absolute,All,All,NONUPE70,0,130,76,No
+70,Brazil,2008,1243804,Number of nursing personnel,Absolute,All,All,NONUPE71,0,130,76,No
+71,Brazil,2007,1243804,Number of nursing personnel,Absolute,All,All,NONUPE72,0,130,76,No
+72,Brazil,2006,710748,Number of nursing personnel,Absolute,All,All,NONUPE73,0,130,76,No
+73,Brazil,2005,703813,Number of nursing personnel,Absolute,All,All,NONUPE74,0,130,76,No
+74,Brazil,2004,686089,Number of nursing personnel,Absolute,All,All,NONUPE75,0,130,76,No
+75,Brazil,2000,659111,Number of nursing personnel,Absolute,All,All,NONUPE76,0,130,76,No
+76,Brazil,1991,479223,Number of nursing personnel,Absolute,All,All,NONUPE77,0,130,76,No
+77,Brunei Darussalam,2011,2628,Number of nursing personnel,Absolute,All,All,NONUPE78,0,130,96,No
+78,Brunei Darussalam,2010,2399,Number of nursing personnel,Absolute,All,All,NONUPE79,0,130,96,No
+79,Brunei Darussalam,2008,1941,Number of nursing personnel,Absolute,All,All,NONUPE80,0,130,96,No
+80,Brunei Darussalam,2007,1458,Number of nursing personnel,Absolute,All,All,NONUPE81,0,130,96,No
+81,Brunei Darussalam,2002,1650,Number of nursing personnel,Absolute,All,All,NONUPE82,0,130,96,No
+82,Brunei Darussalam,2000,892,Number of nursing personnel,Absolute,All,All,NONUPE83,0,130,96,No
+83,Bulgaria,2011,31609,Number of nursing personnel,Absolute,All,All,NONUPE84,0,130,100,No
+84,Burkina Faso,2010,5612,Number of nursing personnel,Absolute,All,All,NONUPE85,0,130,854,No
+85,Burkina Faso,2008,6685,Number of nursing personnel,Absolute,All,All,NONUPE86,0,130,854,No
+86,Burkina Faso,2006,3750,Number of nursing personnel,Absolute,All,All,NONUPE87,0,130,854,No
+87,Burkina Faso,2004,4268,Number of nursing personnel,Absolute,All,All,NONUPE88,0,130,854,No
+88,Burundi,2004,1337,Number of nursing personnel,Absolute,All,All,NONUPE89,0,130,108,No
+89,Cabo Verde,2010,257,Number of nursing personnel,Absolute,All,All,NONUPE90,0,130,132,No
+90,Cabo Verde,2009,254,Number of nursing personnel,Absolute,All,All,NONUPE91,0,130,132,No
+91,Cabo Verde,2008,714,Number of nursing personnel,Absolute,All,All,NONUPE92,0,130,132,No
+92,Cabo Verde,2007,252,Number of nursing personnel,Absolute,All,All,NONUPE93,0,130,132,No
+93,Cabo Verde,2006,252,Number of nursing personnel,Absolute,All,All,NONUPE94,0,130,132,No
+94,Cabo Verde,2004,410,Number of nursing personnel,Absolute,All,All,NONUPE95,0,130,132,No
+95,Cambodia,2008,8491,Number of nursing personnel,Absolute,All,All,NONUPE96,0,130,116,No
+96,Cambodia,2000,8085,Number of nursing personnel,Absolute,All,All,NONUPE97,0,130,116,No
+97,Cambodia,1998,8377,Number of nursing personnel,Absolute,All,All,NONUPE98,0,130,116,No
+98,Cambodia,1996,8409,Number of nursing personnel,Absolute,All,All,NONUPE99,0,130,116,No
+99,Cameroon,2009,7626,Number of nursing personnel,Absolute,All,All,NONUPE100,0,130,120,No
+100,Cameroon,2007,8226,Number of nursing personnel,Absolute,All,All,NONUPE101,0,130,120,No
+101,Cameroon,2005,6705,Number of nursing personnel,Absolute,All,All,NONUPE102,0,130,120,No
+102,Cameroon,2004,25997,Number of nursing personnel,Absolute,All,All,NONUPE103,0,130,120,No
+103,Canada,2011,319026,Number of nursing personnel,Absolute,All,All,NONUPE104,0,130,124,No
+104,Canada,2010,318565,Number of nursing personnel,Absolute,All,All,NONUPE105,0,130,124,No
+105,Canada,2009,350547,Number of nursing personnel,Absolute,All,All,NONUPE106,0,130,124,No
+106,Canada,2008,343100,Number of nursing personnel,Absolute,All,All,NONUPE107,0,130,124,No
+107,Canada,2007,334187,Number of nursing personnel,Absolute,All,All,NONUPE108,0,130,124,No
+108,Canada,2006,326602,Number of nursing personnel,Absolute,All,All,NONUPE109,0,130,124,No
+109,Canada,2005,321159,Number of nursing personnel,Absolute,All,All,NONUPE110,0,130,124,No
+110,Canada,2004,315999,Number of nursing personnel,Absolute,All,All,NONUPE111,0,130,124,No
+111,Canada,2003,309576,Number of nursing personnel,Absolute,All,All,NONUPE112,0,130,124,No
+112,Canada,2002,296217,Number of nursing personnel,Absolute,All,All,NONUPE113,0,130,124,No
+113,Canada,2001,310234,Number of nursing personnel,Absolute,All,All,NONUPE114,0,130,124,No
+114,Canada,1998,307087,Number of nursing personnel,Absolute,All,All,NONUPE115,0,130,124,No
+115,Central African Republic,2009,628,Number of nursing personnel,Absolute,All,All,NONUPE116,0,130,140,No
+116,Central African Republic,2008,300,Number of nursing personnel,Absolute,All,All,NONUPE117,0,130,140,No
+117,Central African Republic,2004,908,Number of nursing personnel,Absolute,All,All,NONUPE118,0,130,140,No
+118,Chad,2006,1739,Number of nursing personnel,Absolute,All,All,NONUPE119,0,130,148,No
+119,Chad,2004,2146,Number of nursing personnel,Absolute,All,All,NONUPE120,0,130,148,No
+120,Chad,2000,886,Number of nursing personnel,Absolute,All,All,NONUPE121,0,130,148,No
+121,Chad,1999,303,Number of nursing personnel,Absolute,All,All,NONUPE122,0,130,148,No
+122,Chad,1998,258,Number of nursing personnel,Absolute,All,All,NONUPE123,0,130,148,No
+123,Chad,1997,217,Number of nursing personnel,Absolute,All,All,NONUPE124,0,130,148,No
+124,Chile,2009,753,Number of nursing personnel,Absolute,All,All,NONUPE125,0,130,152,No
+125,Chile,2008,753,Number of nursing personnel,Absolute,All,All,NONUPE126,0,130,152,No
+126,Chile,2007,692,Number of nursing personnel,Absolute,All,All,NONUPE127,0,130,152,No
+127,Chile,2006,687,Number of nursing personnel,Absolute,All,All,NONUPE128,0,130,152,No
+128,Chile,2005,580,Number of nursing personnel,Absolute,All,All,NONUPE129,0,130,152,No
+129,Chile,2004,571,Number of nursing personnel,Absolute,All,All,NONUPE130,0,130,152,No
+130,Chile,2003,577,Number of nursing personnel,Absolute,All,All,NONUPE131,0,130,152,No
+131,Chile,2002,470,Number of nursing personnel,Absolute,All,All,NONUPE132,0,130,152,No
+132,Chile,1992,55900,Number of nursing personnel,Absolute,All,All,NONUPE133,0,130,152,No
+133,China,2010,2048071,Number of nursing personnel,Absolute,All,All,NONUPE134,0,130,156,No
+134,China,2009,1854818,Number of nursing personnel,Absolute,All,All,NONUPE135,0,130,156,No
+135,China,2003,1259240,Number of nursing personnel,Absolute,All,All,NONUPE136,0,130,156,No
+136,China,2001,1358000,Number of nursing personnel,Absolute,All,All,NONUPE137,0,130,156,No
+137,Colombia,2010,30119,Number of nursing personnel,Absolute,All,All,NONUPE138,0,130,170,No
+138,Colombia,2009,29246,Number of nursing personnel,Absolute,All,All,NONUPE139,0,130,170,No
+139,Colombia,2008,28382,Number of nursing personnel,Absolute,All,All,NONUPE140,0,130,170,No
+140,Colombia,2007,27527,Number of nursing personnel,Absolute,All,All,NONUPE141,0,130,170,No
+141,Colombia,2006,26681,Number of nursing personnel,Absolute,All,All,NONUPE142,0,130,170,No
+142,Colombia,2005,25845,Number of nursing personnel,Absolute,All,All,NONUPE143,0,130,170,No
+143,Colombia,2004,25019,Number of nursing personnel,Absolute,All,All,NONUPE144,0,130,170,No
+144,Colombia,2003,24202,Number of nursing personnel,Absolute,All,All,NONUPE145,0,130,170,No
+145,Colombia,2002,23940,Number of nursing personnel,Absolute,All,All,NONUPE146,0,130,170,No
+146,Colombia,2001,22598,Number of nursing personnel,Absolute,All,All,NONUPE147,0,130,170,No
+147,Colombia,1999,20944,Number of nursing personnel,Absolute,All,All,NONUPE148,0,130,170,No
+148,Colombia,1998,19992,Number of nursing personnel,Absolute,All,All,NONUPE149,0,130,170,No
+149,Colombia,1997,18800,Number of nursing personnel,Absolute,All,All,NONUPE150,0,130,170,No
+150,Colombia,1996,18181,Number of nursing personnel,Absolute,All,All,NONUPE151,0,130,170,No
+151,Colombia,1995,17461,Number of nursing personnel,Absolute,All,All,NONUPE152,0,130,170,No
+152,Colombia,1994,16738,Number of nursing personnel,Absolute,All,All,NONUPE153,0,130,170,No
+153,Colombia,1993,16005,Number of nursing personnel,Absolute,All,All,NONUPE154,0,130,170,No
+154,Colombia,1992,15344,Number of nursing personnel,Absolute,All,All,NONUPE155,0,130,170,No
+155,Colombia,1991,14693,Number of nursing personnel,Absolute,All,All,NONUPE156,0,130,170,No
+156,Colombia,1990,14019,Number of nursing personnel,Absolute,All,All,NONUPE157,0,130,170,No
+157,Colombia,1989,13127,Number of nursing personnel,Absolute,All,All,NONUPE158,0,130,170,No
+158,Colombia,1988,12281,Number of nursing personnel,Absolute,All,All,NONUPE159,0,130,170,No
+159,Colombia,1987,11389,Number of nursing personnel,Absolute,All,All,NONUPE160,0,130,170,No
+160,Colombia,1986,10815,Number of nursing personnel,Absolute,All,All,NONUPE161,0,130,170,No
+161,Colombia,1985,10131,Number of nursing personnel,Absolute,All,All,NONUPE162,0,130,170,No
+162,Colombia,1984,9345,Number of nursing personnel,Absolute,All,All,NONUPE163,0,130,170,No
+163,Comoros,2004,481,Number of nursing personnel,Absolute,All,All,NONUPE164,0,130,174,No
+164,Congo,2007,2855,Number of nursing personnel,Absolute,All,All,NONUPE165,0,130,178,No
+165,Congo,2006,4501,Number of nursing personnel,Absolute,All,All,NONUPE166,0,130,178,No
+166,Congo,2004,3214,Number of nursing personnel,Absolute,All,All,NONUPE167,0,130,178,No
+167,Congo,1998,27162,Number of nursing personnel,Absolute,All,All,NONUPE168,0,130,178,No
+168,Cook Islands,2009,116,Number of nursing personnel,Absolute,All,All,NONUPE169,0,130,184,No
+169,Cook Islands,2004,60,Number of nursing personnel,Absolute,All,All,NONUPE170,0,130,184,No
+170,Cook Islands,2001,49,Number of nursing personnel,Absolute,All,All,NONUPE171,0,130,184,No
+171,Costa Rica,2013,3745,Number of nursing personnel,Absolute,All,All,NONUPE172,0,130,188,No
+172,Costa Rica,2000,3631,Number of nursing personnel,Absolute,All,All,NONUPE173,0,130,188,No
+173,Côte dIvoire,2008,6973,Number of nursing personnel,Absolute,All,All,NONUPE174,0,130,384,No
+174,Côte dIvoire,2005,6842,Number of nursing personnel,Absolute,All,All,NONUPE175,0,130,384,No
+175,Côte dIvoire,2004,7773,Number of nursing personnel,Absolute,All,All,NONUPE176,0,130,384,No
+176,Croatia,2011,23892,Number of nursing personnel,Absolute,All,All,NONUPE177,0,130,191,No
+177,Cuba,2010,103014,Number of nursing personnel,Absolute,All,All,NONUPE178,0,130,192,No
+178,Cuba,2007,97800,Number of nursing personnel,Absolute,All,All,NONUPE179,0,130,192,No
+179,Cuba,2002,83880,Number of nursing personnel,Absolute,All,All,NONUPE180,0,130,192,No
+180,Cyprus,2010,3930,Number of nursing personnel,Absolute,All,All,NONUPE181,0,130,196,No
+181,Cyprus,2009,3806,Number of nursing personnel,Absolute,All,All,NONUPE182,0,130,196,No
+182,Cyprus,2008,3710,Number of nursing personnel,Absolute,All,All,NONUPE183,0,130,196,No
+183,Cyprus,2007,3612,Number of nursing personnel,Absolute,All,All,NONUPE184,0,130,196,No
+184,Cyprus,2002,2994,Number of nursing personnel,Absolute,All,All,NONUPE185,0,130,196,No
+185,Cyprus,1995,2821,Number of nursing personnel,Absolute,All,All,NONUPE186,0,130,196,No
+186,Cyprus,1990,2478,Number of nursing personnel,Absolute,All,All,NONUPE187,0,130,196,No
+187,Cyprus,1985,2155,Number of nursing personnel,Absolute,All,All,NONUPE188,0,130,196,No
+188,Cyprus,1980,1707,Number of nursing personnel,Absolute,All,All,NONUPE189,0,130,196,No
+189,Cyprus,1976,1445,Number of nursing personnel,Absolute,All,All,NONUPE190,0,130,196,No
+190,Cyprus,1970,1252,Number of nursing personnel,Absolute,All,All,NONUPE191,0,130,196,No
+191,Cyprus,1965,927,Number of nursing personnel,Absolute,All,All,NONUPE192,0,130,196,No
+192,Cyprus,1960,746,Number of nursing personnel,Absolute,All,All,NONUPE193,0,130,196,No
+193,Czech Republic,2011,84328,Number of nursing personnel,Absolute,All,All,NONUPE194,0,130,203,No
+194,Democratic Peoples Republic of Korea,2003,87330,Number of nursing personnel,Absolute,All,All,NONUPE195,0,130,408,No
+195,Democratic Republic of the Congo,2004,28789,Number of nursing personnel,Absolute,All,All,NONUPE196,0,130,180,No
+196,Denmark,2009,86763,Number of nursing personnel,Absolute,All,All,NONUPE197,0,130,208,No
+197,Denmark,2008,83605,Number of nursing personnel,Absolute,All,All,NONUPE198,0,130,208,No
+198,Denmark,2002,55425,Number of nursing personnel,Absolute,All,All,NONUPE199,0,130,208,No
+199,Djibouti,2008,666,Number of nursing personnel,Absolute,All,All,NONUPE200,0,130,262,No
+200,Djibouti,2006,322,Number of nursing personnel,Absolute,All,All,NONUPE201,0,130,262,No
+201,Djibouti,2005,296,Number of nursing personnel,Absolute,All,All,NONUPE202,0,130,262,No
+202,Djibouti,2004,185,Number of nursing personnel,Absolute,All,All,NONUPE203,0,130,262,No
+203,Djibouti,2002,550,Number of nursing personnel,Absolute,All,All,NONUPE204,0,130,262,No
+204,Djibouti,1999,493,Number of nursing personnel,Absolute,All,All,NONUPE205,0,130,262,No
+205,Dominica,2001,438,Number of nursing personnel,Absolute,All,All,NONUPE206,0,130,212,No
+206,Dominica,1997,317,Number of nursing personnel,Absolute,All,All,NONUPE207,0,130,212,No
+207,Dominican Republic,2011,13374,Number of nursing personnel,Absolute,All,All,NONUPE208,0,130,214,No
+208,Dominican Republic,2009,12686,Number of nursing personnel,Absolute,All,All,NONUPE209,0,130,214,No
+209,Dominican Republic,2008,7603,Number of nursing personnel,Absolute,All,All,NONUPE210,0,130,214,No
+210,Dominican Republic,2000,15352,Number of nursing personnel,Absolute,All,All,NONUPE211,0,130,214,No
+211,Ecuador,2009,26208,Number of nursing personnel,Absolute,All,All,NONUPE212,0,130,218,No
+212,Ecuador,2003,19348,Number of nursing personnel,Absolute,All,All,NONUPE213,0,130,218,No
+213,Ecuador,2002,20299,Number of nursing personnel,Absolute,All,All,NONUPE214,0,130,218,No
+214,Ecuador,2001,19390,Number of nursing personnel,Absolute,All,All,NONUPE215,0,130,218,No
+215,Ecuador,2000,19549,Number of nursing personnel,Absolute,All,All,NONUPE216,0,130,218,No
+216,Ecuador,1999,19579,Number of nursing personnel,Absolute,All,All,NONUPE217,0,130,218,No
+217,Ecuador,1998,19021,Number of nursing personnel,Absolute,All,All,NONUPE218,0,130,218,No
+218,Ecuador,1997,19558,Number of nursing personnel,Absolute,All,All,NONUPE219,0,130,218,No
+219,Ecuador,1996,19062,Number of nursing personnel,Absolute,All,All,NONUPE220,0,130,218,No
+220,Ecuador,1995,17614,Number of nursing personnel,Absolute,All,All,NONUPE221,0,130,218,No
+221,Ecuador,1994,17614,Number of nursing personnel,Absolute,All,All,NONUPE222,0,130,218,No
+222,Ecuador,1993,15182,Number of nursing personnel,Absolute,All,All,NONUPE223,0,130,218,No
+223,Ecuador,1992,17420,Number of nursing personnel,Absolute,All,All,NONUPE224,0,130,218,No
+224,Ecuador,1991,16866,Number of nursing personnel,Absolute,All,All,NONUPE225,0,130,218,No
+225,Ecuador,1990,15850,Number of nursing personnel,Absolute,All,All,NONUPE226,0,130,218,No
+226,Ecuador,1989,15484,Number of nursing personnel,Absolute,All,All,NONUPE227,0,130,218,No
+227,Ecuador,1988,15292,Number of nursing personnel,Absolute,All,All,NONUPE228,0,130,218,No
+228,Ecuador,1987,14853,Number of nursing personnel,Absolute,All,All,NONUPE229,0,130,218,No
+229,Ecuador,1986,13194,Number of nursing personnel,Absolute,All,All,NONUPE230,0,130,218,No
+230,Ecuador,1985,13759,Number of nursing personnel,Absolute,All,All,NONUPE231,0,130,218,No
+231,Ecuador,1984,13194,Number of nursing personnel,Absolute,All,All,NONUPE232,0,130,218,No
+232,Ecuador,1983,11959,Number of nursing personnel,Absolute,All,All,NONUPE233,0,130,218,No
+233,Ecuador,1982,11295,Number of nursing personnel,Absolute,All,All,NONUPE234,0,130,218,No
+234,Ecuador,1981,10985,Number of nursing personnel,Absolute,All,All,NONUPE235,0,130,218,No
+235,Egypt,2009,280561,Number of nursing personnel,Absolute,All,All,NONUPE236,0,130,818,No
+236,Egypt,2007,223642,Number of nursing personnel,Absolute,All,All,NONUPE237,0,130,818,No
+237,Egypt,2005,248010,Number of nursing personnel,Absolute,All,All,NONUPE238,0,130,818,No
+238,Egypt,2004,144984,Number of nursing personnel,Absolute,All,All,NONUPE239,0,130,818,No
+239,El Salvador,2008,2929,Number of nursing personnel,Absolute,All,All,NONUPE240,0,130,222,No
+240,El Salvador,2005,2084,Number of nursing personnel,Absolute,All,All,NONUPE241,0,130,222,No
+241,El Salvador,2002,5103,Number of nursing personnel,Absolute,All,All,NONUPE242,0,130,222,No
+242,El Salvador,1999,3935,Number of nursing personnel,Absolute,All,All,NONUPE243,0,130,222,No
+243,Equatorial Guinea,2004,218,Number of nursing personnel,Absolute,All,All,NONUPE244,0,130,226,No
+244,Eritrea,2004,2365,Number of nursing personnel,Absolute,All,All,NONUPE245,0,130,232,No
+245,Estonia,2011,8283,Number of nursing personnel,Absolute,All,All,NONUPE246,0,130,233,No
+246,Estonia,2010,8168,Number of nursing personnel,Absolute,All,All,NONUPE247,0,130,233,No
+247,Estonia,2000,11618,Number of nursing personnel,Absolute,All,All,NONUPE248,0,130,233,No
+248,Ethiopia,2009,20109,Number of nursing personnel,Absolute,All,All,NONUPE249,0,130,231,No
+249,Ethiopia,2009,20109,Number of nursing personnel,Absolute,All,All,NONUPE249,0,130,230,No
+250,Ethiopia,2008,15521,Number of nursing personnel,Absolute,All,All,NONUPE250,0,130,231,No
+251,Ethiopia,2008,15521,Number of nursing personnel,Absolute,All,All,NONUPE250,0,130,230,No
+252,Ethiopia,2007,17134,Number of nursing personnel,Absolute,All,All,NONUPE251,0,130,231,No
+253,Ethiopia,2007,17134,Number of nursing personnel,Absolute,All,All,NONUPE251,0,130,230,No
+254,Ethiopia,2006,16656,Number of nursing personnel,Absolute,All,All,NONUPE252,0,130,231,No
+255,Ethiopia,2006,16656,Number of nursing personnel,Absolute,All,All,NONUPE252,0,130,230,No
+256,Ethiopia,2005,17300,Number of nursing personnel,Absolute,All,All,NONUPE253,0,130,231,No
+257,Ethiopia,2005,17300,Number of nursing personnel,Absolute,All,All,NONUPE253,0,130,230,No
+258,Ethiopia,2004,14269,Number of nursing personnel,Absolute,All,All,NONUPE254,0,130,231,No
+259,Ethiopia,2004,14269,Number of nursing personnel,Absolute,All,All,NONUPE254,0,130,230,No
+260,Ethiopia,2003,14270,Number of nursing personnel,Absolute,All,All,NONUPE255,0,130,231,No
+261,Ethiopia,2003,14270,Number of nursing personnel,Absolute,All,All,NONUPE255,0,130,230,No
+262,Fiji,2009,1957,Number of nursing personnel,Absolute,All,All,NONUPE256,0,130,242,No
+263,Fiji,2008,1784,Number of nursing personnel,Absolute,All,All,NONUPE257,0,130,242,No
+264,Fiji,2003,1660,Number of nursing personnel,Absolute,All,All,NONUPE258,0,130,242,No
+265,Fiji,1999,1576,Number of nursing personnel,Absolute,All,All,NONUPE259,0,130,242,No
+266,Finland,2010,55330,Number of nursing personnel,Absolute,All,All,NONUPE260,0,130,246,No
+267,Finland,2009,124338,Number of nursing personnel,Absolute,All,All,NONUPE261,0,130,246,No
+268,Finland,2002,74450,Number of nursing personnel,Absolute,All,All,NONUPE262,0,130,246,No
+269,France,2011,567564,Number of nursing personnel,Absolute,All,All,NONUPE263,0,130,250,No
+270,France,2008,476897,Number of nursing personnel,Absolute,All,All,NONUPE264,0,130,250,No
+271,France,2007,483380,Number of nursing personnel,Absolute,All,All,NONUPE265,0,130,250,No
+272,France,2006,469011,Number of nursing personnel,Absolute,All,All,NONUPE266,0,130,250,No
+273,France,2005,452483,Number of nursing personnel,Absolute,All,All,NONUPE267,0,130,250,No
+274,France,2004,437525,Number of nursing personnel,Absolute,All,All,NONUPE268,0,130,250,No
+275,France,2003,423431,Number of nursing personnel,Absolute,All,All,NONUPE269,0,130,250,No
+276,France,2002,410859,Number of nursing personnel,Absolute,All,All,NONUPE270,0,130,250,No
+277,France,2001,397506,Number of nursing personnel,Absolute,All,All,NONUPE271,0,130,250,No
+278,France,2000,382926,Number of nursing personnel,Absolute,All,All,NONUPE272,0,130,250,No
+279,France,1999,367126,Number of nursing personnel,Absolute,All,All,NONUPE273,0,130,250,No
+280,France,1996,343654,Number of nursing personnel,Absolute,All,All,NONUPE274,0,130,250,No
+281,France,1991,308141,Number of nursing personnel,Absolute,All,All,NONUPE275,0,130,250,No
+282,Gabon,2004,6275,Number of nursing personnel,Absolute,All,All,NONUPE276,0,130,266,No
+283,Gambia,2008,911,Number of nursing personnel,Absolute,All,All,NONUPE277,0,130,270,No
+284,Gambia,2007,908,Number of nursing personnel,Absolute,All,All,NONUPE278,0,130,270,No
+285,Gambia,2006,485,Number of nursing personnel,Absolute,All,All,NONUPE279,0,130,270,No
+286,Gambia,2005,476,Number of nursing personnel,Absolute,All,All,NONUPE280,0,130,270,No
+287,Gambia,2004,460,Number of nursing personnel,Absolute,All,All,NONUPE281,0,130,270,No
+288,Gambia,2003,1618,Number of nursing personnel,Absolute,All,All,NONUPE282,0,130,270,No
+289,Georgia,2009,12933,Number of nursing personnel,Absolute,All,All,NONUPE283,0,130,268,No
+290,Georgia,2008,13207,Number of nursing personnel,Absolute,All,All,NONUPE284,0,130,268,No
+291,Germany,2011,925000,Number of nursing personnel,Absolute,All,All,NONUPE285,0,130,276,No
+292,Germany,2003,801677,Number of nursing personnel,Absolute,All,All,NONUPE286,0,130,276,No
+293,Ghana,2010,22507,Number of nursing personnel,Absolute,All,All,NONUPE287,0,130,288,No
+294,Ghana,2009,24974,Number of nursing personnel,Absolute,All,All,NONUPE288,0,130,288,No
+295,Ghana,2008,16800,Number of nursing personnel,Absolute,All,All,NONUPE289,0,130,288,No
+296,Ghana,2007,15677,Number of nursing personnel,Absolute,All,All,NONUPE290,0,130,288,No
+297,Ghana,2004,15797,Number of nursing personnel,Absolute,All,All,NONUPE291,0,130,288,No
+298,Greece,2000,42129,Number of nursing personnel,Absolute,All,All,NONUPE292,0,130,300,No
+299,Grenada,2006,398,Number of nursing personnel,Absolute,All,All,NONUPE293,0,130,308,No
+300,Grenada,2003,366,Number of nursing personnel,Absolute,All,All,NONUPE294,0,130,308,No
+301,Grenada,2002,366,Number of nursing personnel,Absolute,All,All,NONUPE295,0,130,308,No
+302,Grenada,2001,366,Number of nursing personnel,Absolute,All,All,NONUPE296,0,130,308,No
+303,Grenada,2000,366,Number of nursing personnel,Absolute,All,All,NONUPE297,0,130,308,No
+304,Grenada,1999,394,Number of nursing personnel,Absolute,All,All,NONUPE298,0,130,308,No
+305,Grenada,1998,326,Number of nursing personnel,Absolute,All,All,NONUPE299,0,130,308,No
+306,Grenada,1997,303,Number of nursing personnel,Absolute,All,All,NONUPE300,0,130,308,No
+307,Guatemala,2009,12452,Number of nursing personnel,Absolute,All,All,NONUPE301,0,130,320,No
+308,Guinea,2004,4061,Number of nursing personnel,Absolute,All,All,NONUPE302,0,130,324,No
+309,Guinea,2000,3506,Number of nursing personnel,Absolute,All,All,NONUPE303,0,130,324,No
+310,Guinea-Bissau,2009,868,Number of nursing personnel,Absolute,All,All,NONUPE304,0,130,624,No
+311,Guinea-Bissau,2008,784,Number of nursing personnel,Absolute,All,All,NONUPE305,0,130,624,No
+312,Guinea-Bissau,2004,912,Number of nursing personnel,Absolute,All,All,NONUPE306,0,130,624,No
+313,Guyana,2010,399,Number of nursing personnel,Absolute,All,All,NONUPE307,0,130,328,No
+314,Guyana,2009,789,Number of nursing personnel,Absolute,All,All,NONUPE308,0,130,328,No
+315,Guyana,2000,1738,Number of nursing personnel,Absolute,All,All,NONUPE309,0,130,328,No
+316,Haiti,1998,834,Number of nursing personnel,Absolute,All,All,NONUPE310,0,130,332,No
+317,Honduras,2005,7796,Number of nursing personnel,Absolute,All,All,NONUPE311,0,130,340,No
+318,Honduras,2000,8333,Number of nursing personnel,Absolute,All,All,NONUPE312,0,130,340,No
+319,Hungary,2011,61915,Number of nursing personnel,Absolute,All,All,NONUPE313,0,130,348,No
+320,Hungary,2003,87381,Number of nursing personnel,Absolute,All,All,NONUPE314,0,130,348,No
+321,Iceland,2012,4863,Number of nursing personnel,Absolute,All,All,NONUPE315,0,130,352,No
+322,Iceland,2011,2765,Number of nursing personnel,Absolute,All,All,NONUPE316,0,130,352,No
+323,Iceland,2010,4625,Number of nursing personnel,Absolute,All,All,NONUPE317,0,130,352,No
+324,Iceland,2009,4871,Number of nursing personnel,Absolute,All,All,NONUPE318,0,130,352,No
+325,Iceland,2008,4726,Number of nursing personnel,Absolute,All,All,NONUPE319,0,130,352,No
+326,Iceland,2007,4361,Number of nursing personnel,Absolute,All,All,NONUPE320,0,130,352,No
+327,Iceland,2006,4167,Number of nursing personnel,Absolute,All,All,NONUPE321,0,130,352,No
+328,Iceland,2005,4146,Number of nursing personnel,Absolute,All,All,NONUPE322,0,130,352,No
+329,Iceland,2004,3999,Number of nursing personnel,Absolute,All,All,NONUPE323,0,130,352,No
+330,Iceland,2003,3948,Number of nursing personnel,Absolute,All,All,NONUPE324,0,130,352,No
+331,Iceland,2002,3816,Number of nursing personnel,Absolute,All,All,NONUPE325,0,130,352,No
+332,Iceland,2001,3745,Number of nursing personnel,Absolute,All,All,NONUPE326,0,130,352,No
+333,Iceland,2000,3728,Number of nursing personnel,Absolute,All,All,NONUPE327,0,130,352,No
+334,India,2011,2124667,Number of nursing personnel,Absolute,All,All,NONUPE328,0,130,356,No
+335,India,2010,1894968,Number of nursing personnel,Absolute,All,All,NONUPE329,0,130,356,No
+336,India,2009,1702555,Number of nursing personnel,Absolute,All,All,NONUPE330,0,130,356,No
+337,India,2008,1652161,Number of nursing personnel,Absolute,All,All,NONUPE331,0,130,356,No
+338,India,2007,1572363,Number of nursing personnel,Absolute,All,All,NONUPE332,0,130,356,No
+339,India,2005,959677,Number of nursing personnel,Absolute,All,All,NONUPE333,0,130,356,No
+340,India,2004,915528,Number of nursing personnel,Absolute,All,All,NONUPE334,0,130,356,No
+341,India,2003,1382901,Number of nursing personnel,Absolute,All,All,NONUPE335,0,130,356,No
+342,India,2001,1270299,Number of nursing personnel,Absolute,All,All,NONUPE336,0,130,356,No
+343,India,2000,1231322,Number of nursing personnel,Absolute,All,All,NONUPE337,0,130,356,No
+344,India,1991,274509,Number of nursing personnel,Absolute,All,All,NONUPE338,0,130,356,No
+345,Indonesia,2012,217417,Number of nursing personnel,Absolute,All,All,NONUPE339,0,130,360,No
+346,Indonesia,2010,160074,Number of nursing personnel,Absolute,All,All,NONUPE340,0,130,360,No
+347,Indonesia,2009,140246,Number of nursing personnel,Absolute,All,All,NONUPE341,0,130,360,No
+348,Indonesia,2003,125621,Number of nursing personnel,Absolute,All,All,NONUPE342,0,130,360,No
+349,Indonesia,1992,95183,Number of nursing personnel,Absolute,All,All,NONUPE343,0,130,360,No
+350,Iran (Islamic Republic of),2005,98020,Number of nursing personnel,Absolute,All,All,NONUPE344,0,130,364,No
+351,Iran (Islamic Republic of),2004,83175,Number of nursing personnel,Absolute,All,All,NONUPE345,0,130,364,No
+352,Ireland,2004,60774,Number of nursing personnel,Absolute,All,All,NONUPE346,0,130,372,No
+353,Israel,2011,37300,Number of nursing personnel,Absolute,All,All,NONUPE347,0,130,376,No
+354,Israel,1995,43389,Number of nursing personnel,Absolute,All,All,NONUPE348,0,130,376,No
+355,Italy,2003,312377,Number of nursing personnel,Absolute,All,All,NONUPE349,0,130,380,No
+356,Jamaica,2008,2930,Number of nursing personnel,Absolute,All,All,NONUPE350,0,130,388,No
+357,Jamaica,2003,4374,Number of nursing personnel,Absolute,All,All,NONUPE351,0,130,388,No
+358,Japan,2012,1420800,Number of nursing personnel,Absolute,All,All,NONUPE352,0,130,392,No
+359,Japan,2012,1420800,Number of nursing personnel,Absolute,All,All,NONUPE352,0,130,392,No
+360,Japan,2011,1461966,Number of nursing personnel,Absolute,All,All,NONUPE353,0,130,392,No
+361,Japan,2011,1461966,Number of nursing personnel,Absolute,All,All,NONUPE353,0,130,392,No
+362,Japan,2010,1365899,Number of nursing personnel,Absolute,All,All,NONUPE354,0,130,392,No
+363,Japan,2010,1365899,Number of nursing personnel,Absolute,All,All,NONUPE354,0,130,392,No
+364,Japan,2008,1295670,Number of nursing personnel,Absolute,All,All,NONUPE355,0,130,392,No
+365,Japan,2008,1295670,Number of nursing personnel,Absolute,All,All,NONUPE355,0,130,392,No
+366,Japan,2006,1234312,Number of nursing personnel,Absolute,All,All,NONUPE356,0,130,392,No
+367,Japan,2006,1234312,Number of nursing personnel,Absolute,All,All,NONUPE356,0,130,392,No
+368,Japan,2004,1185376,Number of nursing personnel,Absolute,All,All,NONUPE357,0,130,392,No
+369,Japan,2004,1185376,Number of nursing personnel,Absolute,All,All,NONUPE357,0,130,392,No
+370,Japan,2002,1135692,Number of nursing personnel,Absolute,All,All,NONUPE358,0,130,392,No
+371,Japan,2002,1135692,Number of nursing personnel,Absolute,All,All,NONUPE358,0,130,392,No
+372,Japan,2000,1079249,Number of nursing personnel,Absolute,All,All,NONUPE359,0,130,392,No
+373,Japan,2000,1079249,Number of nursing personnel,Absolute,All,All,NONUPE359,0,130,392,No
+374,Japan,1998,1020289,Number of nursing personnel,Absolute,All,All,NONUPE360,0,130,392,No
+375,Japan,1998,1020289,Number of nursing personnel,Absolute,All,All,NONUPE360,0,130,392,No
+376,Japan,1996,960477,Number of nursing personnel,Absolute,All,All,NONUPE361,0,130,392,No
+377,Japan,1996,960477,Number of nursing personnel,Absolute,All,All,NONUPE361,0,130,392,No
+378,Japan,1994,891021,Number of nursing personnel,Absolute,All,All,NONUPE362,0,130,392,No
+379,Japan,1994,891021,Number of nursing personnel,Absolute,All,All,NONUPE362,0,130,392,No
+380,Japan,1992,822719,Number of nursing personnel,Absolute,All,All,NONUPE363,0,130,392,No
+381,Japan,1992,822719,Number of nursing personnel,Absolute,All,All,NONUPE363,0,130,392,No
+382,Japan,1990,770604,Number of nursing personnel,Absolute,All,All,NONUPE364,0,130,392,No
+383,Japan,1990,770604,Number of nursing personnel,Absolute,All,All,NONUPE364,0,130,392,No
+384,Japan,1988,718558,Number of nursing personnel,Absolute,All,All,NONUPE365,0,130,392,No
+385,Japan,1988,718558,Number of nursing personnel,Absolute,All,All,NONUPE365,0,130,392,No
+386,Japan,1986,661986,Number of nursing personnel,Absolute,All,All,NONUPE366,0,130,392,No
+387,Japan,1986,661986,Number of nursing personnel,Absolute,All,All,NONUPE366,0,130,392,No
+388,Japan,1984,611035,Number of nursing personnel,Absolute,All,All,NONUPE367,0,130,392,No
+389,Japan,1984,611035,Number of nursing personnel,Absolute,All,All,NONUPE367,0,130,392,No
+390,Japan,1982,560108,Number of nursing personnel,Absolute,All,All,NONUPE368,0,130,392,No
+391,Japan,1982,560108,Number of nursing personnel,Absolute,All,All,NONUPE368,0,130,392,No
+392,Japan,1980,505126,Number of nursing personnel,Absolute,All,All,NONUPE369,0,130,392,No
+393,Japan,1980,505126,Number of nursing personnel,Absolute,All,All,NONUPE369,0,130,392,No
+394,Jordan,2010,23559,Number of nursing personnel,Absolute,All,All,NONUPE370,0,130,400,No
+395,Jordan,2009,22136,Number of nursing personnel,Absolute,All,All,NONUPE371,0,130,400,No
+396,Jordan,2008,17477,Number of nursing personnel,Absolute,All,All,NONUPE372,0,130,400,No
+397,Jordan,2007,17027,Number of nursing personnel,Absolute,All,All,NONUPE373,0,130,400,No
+398,Jordan,2006,18219,Number of nursing personnel,Absolute,All,All,NONUPE374,0,130,400,No
+399,Jordan,2005,15992,Number of nursing personnel,Absolute,All,All,NONUPE375,0,130,400,No
+400,Jordan,2004,16527,Number of nursing personnel,Absolute,All,All,NONUPE376,0,130,400,No
+401,Jordan,2003,14687,Number of nursing personnel,Absolute,All,All,NONUPE377,0,130,400,No
+402,Jordan,2002,13613,Number of nursing personnel,Absolute,All,All,NONUPE378,0,130,400,No
+403,Jordan,2001,14621,Number of nursing personnel,Absolute,All,All,NONUPE379,0,130,400,No
+404,Jordan,2000,14353,Number of nursing personnel,Absolute,All,All,NONUPE380,0,130,400,No
+405,Jordan,1999,13582,Number of nursing personnel,Absolute,All,All,NONUPE381,0,130,400,No
+406,Jordan,1998,12863,Number of nursing personnel,Absolute,All,All,NONUPE382,0,130,400,No
+407,Kazakhstan,2012,125397,Number of nursing personnel,Absolute,All,All,NONUPE383,0,130,398,No
+408,Kenya,2011,32941,Number of nursing personnel,Absolute,All,All,NONUPE384,0,130,404,No
+409,Kenya,2010,29678,Number of nursing personnel,Absolute,All,All,NONUPE385,0,130,404,No
+410,Kenya,2009,15948,Number of nursing personnel,Absolute,All,All,NONUPE386,0,130,404,No
+411,Kenya,2008,14073,Number of nursing personnel,Absolute,All,All,NONUPE387,0,130,404,No
+412,Kenya,2004,16146,Number of nursing personnel,Absolute,All,All,NONUPE388,0,130,404,No
+413,Kenya,2002,37113,Number of nursing personnel,Absolute,All,All,NONUPE389,0,130,404,No
+414,Kiribati,2010,330,Number of nursing personnel,Absolute,All,All,NONUPE390,0,130,296,No
+415,Kiribati,2009,329,Number of nursing personnel,Absolute,All,All,NONUPE391,0,130,296,No
+416,Kiribati,2008,361,Number of nursing personnel,Absolute,All,All,NONUPE392,0,130,296,No
+417,Kiribati,2004,230,Number of nursing personnel,Absolute,All,All,NONUPE393,0,130,296,No
+418,Kiribati,1998,191,Number of nursing personnel,Absolute,All,All,NONUPE394,0,130,296,No
+419,Kuwait,2009,13554,Number of nursing personnel,Absolute,All,All,NONUPE395,0,130,414,No
+420,Kuwait,2008,12420,Number of nursing personnel,Absolute,All,All,NONUPE396,0,130,414,No
+421,Kuwait,2007,10832,Number of nursing personnel,Absolute,All,All,NONUPE397,0,130,414,No
+422,Kuwait,2006,9858,Number of nursing personnel,Absolute,All,All,NONUPE398,0,130,414,No
+423,Kuwait,2001,9197,Number of nursing personnel,Absolute,All,All,NONUPE399,0,130,414,No
+424,Kyrgyzstan,2012,31081,Number of nursing personnel,Absolute,All,All,NONUPE400,0,130,417,No
+425,Kyrgyzstan,2011,31396,Number of nursing personnel,Absolute,All,All,NONUPE401,0,130,417,No
+426,Kyrgyzstan,2010,29703,Number of nursing personnel,Absolute,All,All,NONUPE402,0,130,417,No
+427,Kyrgyzstan,2009,29311,Number of nursing personnel,Absolute,All,All,NONUPE403,0,130,417,No
+428,Kyrgyzstan,2008,29024,Number of nursing personnel,Absolute,All,All,NONUPE404,0,130,417,No
+429,Lao Peoples Democratic Republic,2012,5581,Number of nursing personnel,Absolute,All,All,NONUPE405,0,130,418,No
+430,Lao Peoples Democratic Republic,2009,4968,Number of nursing personnel,Absolute,All,All,NONUPE406,0,130,418,No
+431,Lao Peoples Democratic Republic,2005,5724,Number of nursing personnel,Absolute,All,All,NONUPE407,0,130,418,No
+432,Lao Peoples Democratic Republic,2004,5600,Number of nursing personnel,Absolute,All,All,NONUPE408,0,130,418,No
+433,Lao Peoples Democratic Republic,2000,5453,Number of nursing personnel,Absolute,All,All,NONUPE409,0,130,418,No
+434,Lao Peoples Democratic Republic,1995,6090,Number of nursing personnel,Absolute,All,All,NONUPE410,0,130,418,No
+435,Latvia,2011,10206,Number of nursing personnel,Absolute,All,All,NONUPE411,0,130,428,No
+436,Lebanon,2011,11585,Number of nursing personnel,Absolute,All,All,NONUPE412,0,130,422,No
+437,Lebanon,2010,8791,Number of nursing personnel,Absolute,All,All,NONUPE413,0,130,422,No
+438,Lebanon,2009,8287,Number of nursing personnel,Absolute,All,All,NONUPE414,0,130,422,No
+439,Lebanon,2007,6931,Number of nursing personnel,Absolute,All,All,NONUPE415,0,130,422,No
+440,Lebanon,2005,4720,Number of nursing personnel,Absolute,All,All,NONUPE416,0,130,422,No
+441,Lebanon,2001,4157,Number of nursing personnel,Absolute,All,All,NONUPE417,0,130,422,No
+442,Lesotho,2003,1123,Number of nursing personnel,Absolute,All,All,NONUPE418,0,130,426,No
+443,Liberia,2008,623,Number of nursing personnel,Absolute,All,All,NONUPE419,0,130,430,No
+444,Liberia,2004,589,Number of nursing personnel,Absolute,All,All,NONUPE420,0,130,430,No
+445,Libya,2009,42982,Number of nursing personnel,Absolute,All,All,NONUPE421,0,130,434,No
+446,Libya,2008,33490,Number of nursing personnel,Absolute,All,All,NONUPE422,0,130,434,No
+447,Libya,2004,27160,Number of nursing personnel,Absolute,All,All,NONUPE423,0,130,434,No
+448,Libya,1997,17779,Number of nursing personnel,Absolute,All,All,NONUPE424,0,130,434,No
+449,Lithuania,2011,22817,Number of nursing personnel,Absolute,All,All,NONUPE425,0,130,440,No
+450,Luxembourg,2012,6329,Number of nursing personnel,Absolute,All,All,NONUPE426,0,130,442,No
+451,Madagascar,2004,3585,Number of nursing personnel,Absolute,All,All,NONUPE427,0,130,450,No
+452,Malawi,2009,4812,Number of nursing personnel,Absolute,All,All,NONUPE428,0,130,454,No
+453,Malawi,2008,3896,Number of nursing personnel,Absolute,All,All,NONUPE429,0,130,454,No
+454,Malawi,2004,7264,Number of nursing personnel,Absolute,All,All,NONUPE430,0,130,454,No
+455,Malaysia,2010,90199,Number of nursing personnel,Absolute,All,All,NONUPE431,0,130,458,No
+456,Malaysia,2008,54208,Number of nursing personnel,Absolute,All,All,NONUPE432,0,130,458,No
+457,Malaysia,2002,34510,Number of nursing personnel,Absolute,All,All,NONUPE433,0,130,458,No
+458,Malaysia,2000,31129,Number of nursing personnel,Absolute,All,All,NONUPE434,0,130,458,No
+459,Maldives,2010,1868,Number of nursing personnel,Absolute,All,All,NONUPE435,0,130,462,No
+460,Maldives,2009,1846,Number of nursing personnel,Absolute,All,All,NONUPE436,0,130,462,No
+461,Maldives,2007,1539,Number of nursing personnel,Absolute,All,All,NONUPE437,0,130,462,No
+462,Maldives,2004,886,Number of nursing personnel,Absolute,All,All,NONUPE438,0,130,462,No
+463,Maldives,1996,361,Number of nursing personnel,Absolute,All,All,NONUPE439,0,130,462,No
+464,Maldives,1993,188,Number of nursing personnel,Absolute,All,All,NONUPE440,0,130,462,No
+465,Maldives,1991,150,Number of nursing personnel,Absolute,All,All,NONUPE441,0,130,462,No
+466,Maldives,1989,141,Number of nursing personnel,Absolute,All,All,NONUPE442,0,130,462,No
+467,Mali,2010,4080,Number of nursing personnel,Absolute,All,All,NONUPE443,0,130,466,No
+468,Mali,2009,3945,Number of nursing personnel,Absolute,All,All,NONUPE444,0,130,466,No
+469,Mali,2008,2695,Number of nursing personnel,Absolute,All,All,NONUPE445,0,130,466,No
+470,Mali,2007,2366,Number of nursing personnel,Absolute,All,All,NONUPE446,0,130,466,No
+471,Mali,2004,5986,Number of nursing personnel,Absolute,All,All,NONUPE447,0,130,466,No
+472,Malta,2012,2805,Number of nursing personnel,Absolute,All,All,NONUPE448,0,130,470,No
+473,Marshall Islands,2010,115,Number of nursing personnel,Absolute,All,All,NONUPE449,0,130,584,No
+474,Marshall Islands,2008,177,Number of nursing personnel,Absolute,All,All,NONUPE450,0,130,584,No
+475,Marshall Islands,2000,152,Number of nursing personnel,Absolute,All,All,NONUPE451,0,130,584,No
+476,Mauritania,2009,1953,Number of nursing personnel,Absolute,All,All,NONUPE452,0,130,478,No
+477,Mauritania,2004,1658,Number of nursing personnel,Absolute,All,All,NONUPE453,0,130,478,No
+478,Mauritius,2004,4438,Number of nursing personnel,Absolute,All,All,NONUPE454,0,130,480,No
+479,Mexico,2011,290317,Number of nursing personnel,Absolute,All,All,NONUPE455,0,130,484,No
+480,Mexico,2010,275171,Number of nursing personnel,Absolute,All,All,NONUPE456,0,130,484,No
+481,Mexico,2009,265681,Number of nursing personnel,Absolute,All,All,NONUPE457,0,130,484,No
+482,Mexico,2004,417665,Number of nursing personnel,Absolute,All,All,NONUPE458,0,130,484,No
+483,Mexico,2000,88678,Number of nursing personnel,Absolute,All,All,NONUPE459,0,130,484,No
+484,Micronesia (Federated States of),2009,312,Number of nursing personnel,Absolute,All,All,NONUPE460,0,130,583,No
+485,Micronesia (Federated States of),2008,264,Number of nursing personnel,Absolute,All,All,NONUPE461,0,130,583,No
+486,Micronesia (Federated States of),2005,229,Number of nursing personnel,Absolute,All,All,NONUPE462,0,130,583,No
+487,Micronesia (Federated States of),2003,230,Number of nursing personnel,Absolute,All,All,NONUPE463,0,130,583,No
+488,Micronesia (Federated States of),2000,410,Number of nursing personnel,Absolute,All,All,NONUPE464,0,130,583,No
+489,Monaco,2011,591,Number of nursing personnel,Absolute,All,All,NONUPE465,0,130,492,No
+490,Mongolia,2008,8912,Number of nursing personnel,Absolute,All,All,NONUPE466,0,130,496,No
+491,Mongolia,2002,8214,Number of nursing personnel,Absolute,All,All,NONUPE467,0,130,496,No
+492,Montenegro,2011,3084,Number of nursing personnel,Absolute,All,All,NONUPE468,0,130,499,No
+493,Morocco,2009,29689,Number of nursing personnel,Absolute,All,All,NONUPE469,0,130,504,No
+494,Morocco,2004,22250,Number of nursing personnel,Absolute,All,All,NONUPE470,0,130,504,No
+495,Mozambique,2012,10081,Number of nursing personnel,Absolute,All,All,NONUPE471,0,130,508,No
+496,Mozambique,2011,9463,Number of nursing personnel,Absolute,All,All,NONUPE472,0,130,508,No
+497,Mozambique,2010,8816,Number of nursing personnel,Absolute,All,All,NONUPE473,0,130,508,No
+498,Mozambique,2008,6214,Number of nursing personnel,Absolute,All,All,NONUPE474,0,130,508,No
+499,Mozambique,2006,6214,Number of nursing personnel,Absolute,All,All,NONUPE475,0,130,508,No
+500,Mozambique,2004,3947,Number of nursing personnel,Absolute,All,All,NONUPE476,0,130,508,No
+501,Myanmar,2012,28254,Number of nursing personnel,Absolute,All,All,NONUPE477,0,130,104,No
+502,Myanmar,2011,26928,Number of nursing personnel,Absolute,All,All,NONUPE478,0,130,104,No
+503,Myanmar,2010,25644,Number of nursing personnel,Absolute,All,All,NONUPE479,0,130,104,No
+504,Myanmar,2009,24242,Number of nursing personnel,Absolute,All,All,NONUPE480,0,130,104,No
+505,Myanmar,2008,22881,Number of nursing personnel,Absolute,All,All,NONUPE481,0,130,104,No
+506,Myanmar,2007,22027,Number of nursing personnel,Absolute,All,All,NONUPE482,0,130,104,No
+507,Myanmar,2006,21075,Number of nursing personnel,Absolute,All,All,NONUPE483,0,130,104,No
+508,Myanmar,2005,19776,Number of nursing personnel,Absolute,All,All,NONUPE484,0,130,104,No
+509,Myanmar,2004,9899,Number of nursing personnel,Absolute,All,All,NONUPE485,0,130,104,No
+510,Myanmar,1988,8349,Number of nursing personnel,Absolute,All,All,NONUPE486,0,130,104,No
+511,Namibia,2007,5750,Number of nursing personnel,Absolute,All,All,NONUPE487,0,130,516,No
+512,Namibia,2004,6145,Number of nursing personnel,Absolute,All,All,NONUPE488,0,130,516,No
+513,Nauru,2008,64,Number of nursing personnel,Absolute,All,All,NONUPE489,0,130,520,No
+514,Nauru,2004,60,Number of nursing personnel,Absolute,All,All,NONUPE490,0,130,520,No
+515,Nauru,1995,60,Number of nursing personnel,Absolute,All,All,NONUPE491,0,130,520,No
+516,Nepal,2004,5664,Number of nursing personnel,Absolute,All,All,NONUPE492,0,130,524,No
+517,Netherlands,2008,138200,Number of nursing personnel,Absolute,All,All,NONUPE493,0,130,528,No
+518,New Zealand,2007,41980,Number of nursing personnel,Absolute,All,All,NONUPE494,0,130,554,No
+519,New Zealand,2007,41980,Number of nursing personnel,Absolute,All,All,NONUPE494,0,130,554,No
+520,New Zealand,2001,31128,Number of nursing personnel,Absolute,All,All,NONUPE495,0,130,554,No
+521,New Zealand,2001,31128,Number of nursing personnel,Absolute,All,All,NONUPE495,0,130,554,No
+522,New Zealand,2000,30840,Number of nursing personnel,Absolute,All,All,NONUPE496,0,130,554,No
+523,New Zealand,2000,30840,Number of nursing personnel,Absolute,All,All,NONUPE496,0,130,554,No
+524,Nicaragua,2003,5862,Number of nursing personnel,Absolute,All,All,NONUPE497,0,130,558,No
+525,Niger,2008,1669,Number of nursing personnel,Absolute,All,All,NONUPE498,0,130,562,No
+526,Niger,2004,2421,Number of nursing personnel,Absolute,All,All,NONUPE499,0,130,562,No
+527,Nigeria,2008,132412,Number of nursing personnel,Absolute,All,All,NONUPE500,0,130,566,No
+528,Nigeria,2007,128918,Number of nursing personnel,Absolute,All,All,NONUPE501,0,130,566,No
+529,Nigeria,2006,125292,Number of nursing personnel,Absolute,All,All,NONUPE502,0,130,566,No
+530,Nigeria,2005,124629,Number of nursing personnel,Absolute,All,All,NONUPE503,0,130,566,No
+531,Nigeria,2003,127580,Number of nursing personnel,Absolute,All,All,NONUPE504,0,130,566,No
+532,Niue,2008,14,Number of nursing personnel,Absolute,All,All,NONUPE505,0,130,570,No
+533,Niue,2006,13,Number of nursing personnel,Absolute,All,All,NONUPE506,0,130,570,No
+534,Niue,2004,20,Number of nursing personnel,Absolute,All,All,NONUPE507,0,130,570,No
+535,Niue,1996,11,Number of nursing personnel,Absolute,All,All,NONUPE508,0,130,570,No
+536,Norway,2011,63741,Number of nursing personnel,Absolute,All,All,NONUPE509,0,130,578,No
+537,Norway,2009,147820,Number of nursing personnel,Absolute,All,All,NONUPE510,0,130,578,No
+538,Oman,2011,14238,Number of nursing personnel,Absolute,All,All,NONUPE511,0,130,512,No
+539,Oman,2010,12865,Number of nursing personnel,Absolute,All,All,NONUPE512,0,130,512,No
+540,Oman,2009,12102,Number of nursing personnel,Absolute,All,All,NONUPE513,0,130,512,No
+541,Oman,2008,11233,Number of nursing personnel,Absolute,All,All,NONUPE514,0,130,512,No
+542,Oman,2007,10394,Number of nursing personnel,Absolute,All,All,NONUPE515,0,130,512,No
+543,Oman,2006,9615,Number of nursing personnel,Absolute,All,All,NONUPE516,0,130,512,No
+544,Oman,2005,9277,Number of nursing personnel,Absolute,All,All,NONUPE517,0,130,512,No
+545,Oman,2004,10273,Number of nursing personnel,Absolute,All,All,NONUPE518,0,130,512,No
+546,Oman,2000,7829,Number of nursing personnel,Absolute,All,All,NONUPE519,0,130,512,No
+547,Oman,1999,6438,Number of nursing personnel,Absolute,All,All,NONUPE520,0,130,512,No
+548,Oman,1998,6365,Number of nursing personnel,Absolute,All,All,NONUPE521,0,130,512,No
+549,Oman,1997,5792,Number of nursing personnel,Absolute,All,All,NONUPE522,0,130,512,No
+550,Oman,1995,6036,Number of nursing personnel,Absolute,All,All,NONUPE523,0,130,512,No
+551,Oman,1990,4147,Number of nursing personnel,Absolute,All,All,NONUPE524,0,130,512,No
+552,Oman,1985,2288,Number of nursing personnel,Absolute,All,All,NONUPE525,0,130,512,No
+553,Oman,1980,1096,Number of nursing personnel,Absolute,All,All,NONUPE526,0,130,512,No
+554,Oman,1975,450,Number of nursing personnel,Absolute,All,All,NONUPE527,0,130,512,No
+555,Pakistan,2010,73244,Number of nursing personnel,Absolute,All,All,NONUPE528,0,130,586,No
+556,Pakistan,2009,69313,Number of nursing personnel,Absolute,All,All,NONUPE529,0,130,586,No
+557,Pakistan,2008,65387,Number of nursing personnel,Absolute,All,All,NONUPE530,0,130,586,No
+558,Pakistan,2007,62651,Number of nursing personnel,Absolute,All,All,NONUPE531,0,130,586,No
+559,Pakistan,2005,47380,Number of nursing personnel,Absolute,All,All,NONUPE532,0,130,586,No
+560,Pakistan,2004,48446,Number of nursing personnel,Absolute,All,All,NONUPE533,0,130,586,No
+561,Pakistan,2001,40019,Number of nursing personnel,Absolute,All,All,NONUPE534,0,130,586,No
+562,Pakistan,2000,37528,Number of nursing personnel,Absolute,All,All,NONUPE535,0,130,586,No
+563,Pakistan,1999,35979,Number of nursing personnel,Absolute,All,All,NONUPE536,0,130,586,No
+564,Pakistan,1998,32938,Number of nursing personnel,Absolute,All,All,NONUPE537,0,130,586,No
+565,Pakistan,1997,28661,Number of nursing personnel,Absolute,All,All,NONUPE538,0,130,586,No
+566,Pakistan,1996,24776,Number of nursing personnel,Absolute,All,All,NONUPE539,0,130,586,No
+567,Pakistan,1995,22299,Number of nursing personnel,Absolute,All,All,NONUPE540,0,130,586,No
+568,Pakistan,1994,21419,Number of nursing personnel,Absolute,All,All,NONUPE541,0,130,586,No
+569,Pakistan,1993,20245,Number of nursing personnel,Absolute,All,All,NONUPE542,0,130,586,No
+570,Pakistan,1992,19389,Number of nursing personnel,Absolute,All,All,NONUPE543,0,130,586,No
+571,Palau,2010,116,Number of nursing personnel,Absolute,All,All,NONUPE544,0,130,585,No
+572,Palau,2009,112,Number of nursing personnel,Absolute,All,All,NONUPE545,0,130,585,No
+573,Palau,2006,117,Number of nursing personnel,Absolute,All,All,NONUPE546,0,130,585,No
+574,Palau,2004,120,Number of nursing personnel,Absolute,All,All,NONUPE547,0,130,585,No
+575,Palau,1998,113,Number of nursing personnel,Absolute,All,All,NONUPE548,0,130,585,No
+576,Panama,2011,8579,Number of nursing personnel,Absolute,All,All,NONUPE549,0,130,591,No
+577,Panama,2011,8579,Number of nursing personnel,Absolute,All,All,NONUPE549,0,130,590,No
+578,Panama,2010,9021,Number of nursing personnel,Absolute,All,All,NONUPE550,0,130,591,No
+579,Panama,2010,9021,Number of nursing personnel,Absolute,All,All,NONUPE550,0,130,590,No
+580,Panama,2006,6794,Number of nursing personnel,Absolute,All,All,NONUPE551,0,130,591,No
+581,Panama,2006,6794,Number of nursing personnel,Absolute,All,All,NONUPE551,0,130,590,No
+582,Panama,2005,6675,Number of nursing personnel,Absolute,All,All,NONUPE552,0,130,591,No
+583,Panama,2005,6675,Number of nursing personnel,Absolute,All,All,NONUPE552,0,130,590,No
+584,Panama,2004,6509,Number of nursing personnel,Absolute,All,All,NONUPE553,0,130,591,No
+585,Panama,2004,6509,Number of nursing personnel,Absolute,All,All,NONUPE553,0,130,590,No
+586,Panama,2003,7055,Number of nursing personnel,Absolute,All,All,NONUPE554,0,130,591,No
+587,Panama,2003,7055,Number of nursing personnel,Absolute,All,All,NONUPE554,0,130,590,No
+588,Panama,2002,6035,Number of nursing personnel,Absolute,All,All,NONUPE555,0,130,591,No
+589,Panama,2002,6035,Number of nursing personnel,Absolute,All,All,NONUPE555,0,130,590,No
+590,Panama,2001,5689,Number of nursing personnel,Absolute,All,All,NONUPE556,0,130,591,No
+591,Panama,2001,5689,Number of nursing personnel,Absolute,All,All,NONUPE556,0,130,590,No
+592,Panama,2000,8158,Number of nursing personnel,Absolute,All,All,NONUPE557,0,130,591,No
+593,Panama,2000,8158,Number of nursing personnel,Absolute,All,All,NONUPE557,0,130,590,No
+594,Papua New Guinea,2008,2844,Number of nursing personnel,Absolute,All,All,NONUPE558,0,130,598,No
+595,Papua New Guinea,2000,2841,Number of nursing personnel,Absolute,All,All,NONUPE559,0,130,598,No
+596,Paraguay,2002,9727,Number of nursing personnel,Absolute,All,All,NONUPE560,0,130,600,No
+597,Peru,2012,33491,Number of nursing personnel,Absolute,All,All,NONUPE561,0,130,604,No
+598,Peru,2009,28117,Number of nursing personnel,Absolute,All,All,NONUPE562,0,130,604,No
+599,Peru,1999,17108,Number of nursing personnel,Absolute,All,All,NONUPE563,0,130,604,No
+600,Philippines,2004,352398,Number of nursing personnel,Absolute,All,All,NONUPE564,0,130,608,No
+601,Philippines,2002,342610,Number of nursing personnel,Absolute,All,All,NONUPE565,0,130,608,No
+602,Philippines,2000,127595,Number of nursing personnel,Absolute,All,All,NONUPE566,0,130,608,No
+603,Poland,2011,200850,Number of nursing personnel,Absolute,All,All,NONUPE567,0,130,616,No
+604,Poland,2010,184748,Number of nursing personnel,Absolute,All,All,NONUPE568,0,130,616,No
+605,Poland,2003,188898,Number of nursing personnel,Absolute,All,All,NONUPE569,0,130,616,No
+606,Portugal,2003,43860,Number of nursing personnel,Absolute,All,All,NONUPE570,0,130,620,No
+607,Qatar,2010,10615,Number of nursing personnel,Absolute,All,All,NONUPE571,0,130,634,No
+608,Qatar,2009,7595,Number of nursing personnel,Absolute,All,All,NONUPE572,0,130,634,No
+609,Qatar,2008,8428,Number of nursing personnel,Absolute,All,All,NONUPE573,0,130,634,No
+610,Qatar,2006,6185,Number of nursing personnel,Absolute,All,All,NONUPE574,0,130,634,No
+611,Qatar,2005,4880,Number of nursing personnel,Absolute,All,All,NONUPE575,0,130,634,No
+612,Qatar,2001,2917,Number of nursing personnel,Absolute,All,All,NONUPE576,0,130,634,No
+613,Republic of Korea,2012,242249,Number of nursing personnel,Absolute,All,All,NONUPE577,0,130,410,No
+614,Republic of Korea,2011,235116,Number of nursing personnel,Absolute,All,All,NONUPE578,0,130,410,No
+615,Republic of Korea,2010,228614,Number of nursing personnel,Absolute,All,All,NONUPE579,0,130,410,No
+616,Republic of Korea,2009,258568,Number of nursing personnel,Absolute,All,All,NONUPE580,0,130,410,No
+617,Republic of Korea,2008,246840,Number of nursing personnel,Absolute,All,All,NONUPE581,0,130,410,No
+618,Republic of Korea,2007,235687,Number of nursing personnel,Absolute,All,All,NONUPE582,0,130,410,No
+619,Republic of Korea,2006,223781,Number of nursing personnel,Absolute,All,All,NONUPE583,0,130,410,No
+620,Republic of Korea,2005,213644,Number of nursing personnel,Absolute,All,All,NONUPE584,0,130,410,No
+621,Republic of Korea,2004,202012,Number of nursing personnel,Absolute,All,All,NONUPE585,0,130,410,No
+622,Republic of Korea,2003,83333,Number of nursing personnel,Absolute,All,All,NONUPE586,0,130,410,No
+623,Republic of Moldova,2012,22084,Number of nursing personnel,Absolute,All,All,NONUPE587,0,130,498,No
+624,Romania,2011,114252,Number of nursing personnel,Absolute,All,All,NONUPE588,0,130,642,No
+625,Romania,2002,3474,Number of nursing personnel,Absolute,All,All,NONUPE589,0,130,642,No
+626,Russian Federation,2006,1148755,Number of nursing personnel,Absolute,All,All,NONUPE590,0,130,643,No
+627,Rwanda,2010,6834,Number of nursing personnel,Absolute,All,All,NONUPE591,0,130,646,No
+628,Rwanda,2009,6485,Number of nursing personnel,Absolute,All,All,NONUPE592,0,130,646,No
+629,Rwanda,2008,6420,Number of nursing personnel,Absolute,All,All,NONUPE593,0,130,646,No
+630,Rwanda,2004,3570,Number of nursing personnel,Absolute,All,All,NONUPE594,0,130,646,No
+631,Saint Kitts and Nevis,2001,294,Number of nursing personnel,Absolute,All,All,NONUPE595,0,130,659,No
+632,Saint Kitts and Nevis,1999,264,Number of nursing personnel,Absolute,All,All,NONUPE596,0,130,659,No
+633,Saint Kitts and Nevis,1998,249,Number of nursing personnel,Absolute,All,All,NONUPE597,0,130,659,No
+634,Saint Kitts and Nevis,1997,243,Number of nursing personnel,Absolute,All,All,NONUPE598,0,130,659,No
+635,Saint Kitts and Nevis,1996,254,Number of nursing personnel,Absolute,All,All,NONUPE599,0,130,659,No
+636,Saint Kitts and Nevis,1995,242,Number of nursing personnel,Absolute,All,All,NONUPE600,0,130,659,No
+637,Saint Kitts and Nevis,1994,252,Number of nursing personnel,Absolute,All,All,NONUPE601,0,130,659,No
+638,Saint Kitts and Nevis,1993,286,Number of nursing personnel,Absolute,All,All,NONUPE602,0,130,659,No
+639,Saint Kitts and Nevis,1992,286,Number of nursing personnel,Absolute,All,All,NONUPE603,0,130,659,No
+640,Saint Kitts and Nevis,1991,284,Number of nursing personnel,Absolute,All,All,NONUPE604,0,130,659,No
+641,Saint Kitts and Nevis,1990,283,Number of nursing personnel,Absolute,All,All,NONUPE605,0,130,659,No
+642,Saint Lucia,2002,320,Number of nursing personnel,Absolute,All,All,NONUPE606,0,130,662,No
+643,Saint Lucia,2001,371,Number of nursing personnel,Absolute,All,All,NONUPE607,0,130,662,No
+644,Saint Lucia,1999,331,Number of nursing personnel,Absolute,All,All,NONUPE608,0,130,662,No
+645,Saint Vincent and the Grenadines,2001,476,Number of nursing personnel,Absolute,All,All,NONUPE609,0,130,670,No
+646,Saint Vincent and the Grenadines,2000,447,Number of nursing personnel,Absolute,All,All,NONUPE610,0,130,670,No
+647,Saint Vincent and the Grenadines,1997,276,Number of nursing personnel,Absolute,All,All,NONUPE611,0,130,670,No
+648,Samoa,2008,298,Number of nursing personnel,Absolute,All,All,NONUPE612,0,130,882,No
+649,Samoa,2005,136,Number of nursing personnel,Absolute,All,All,NONUPE613,0,130,882,No
+650,Samoa,2003,250,Number of nursing personnel,Absolute,All,All,NONUPE614,0,130,882,No
+651,Samoa,1999,346,Number of nursing personnel,Absolute,All,All,NONUPE615,0,130,882,No
+652,San Marino,2012,270,Number of nursing personnel,Absolute,All,All,NONUPE616,0,130,674,No
+653,Sao Tome and Principe,2004,256,Number of nursing personnel,Absolute,All,All,NONUPE617,0,130,678,No
+654,Saudi Arabia,2009,63297,Number of nursing personnel,Absolute,All,All,NONUPE618,0,130,682,No
+655,Saudi Arabia,2008,55429,Number of nursing personnel,Absolute,All,All,NONUPE619,0,130,682,No
+656,Saudi Arabia,2000,36495,Number of nursing personnel,Absolute,All,All,NONUPE620,0,130,682,No
+657,Senegal,2008,4457,Number of nursing personnel,Absolute,All,All,NONUPE621,0,130,686,No
+658,Senegal,2004,2606,Number of nursing personnel,Absolute,All,All,NONUPE622,0,130,686,No
+659,Seychelles,2004,634,Number of nursing personnel,Absolute,All,All,NONUPE623,0,130,690,No
+660,Sierra Leone,2010,922,Number of nursing personnel,Absolute,All,All,NONUPE624,0,130,694,No
+661,Sierra Leone,2008,880,Number of nursing personnel,Absolute,All,All,NONUPE625,0,130,694,No
+662,Sierra Leone,2004,1211,Number of nursing personnel,Absolute,All,All,NONUPE626,0,130,694,No
+663,Singapore,2010,29053,Number of nursing personnel,Absolute,All,All,NONUPE627,0,130,702,No
+664,Singapore,2009,26498,Number of nursing personnel,Absolute,All,All,NONUPE628,0,130,702,No
+665,Singapore,2008,23887,Number of nursing personnel,Absolute,All,All,NONUPE629,0,130,702,No
+666,Singapore,2007,22108,Number of nursing personnel,Absolute,All,All,NONUPE630,0,130,702,No
+667,Singapore,2006,20615,Number of nursing personnel,Absolute,All,All,NONUPE631,0,130,702,No
+668,Singapore,2005,19820,Number of nursing personnel,Absolute,All,All,NONUPE632,0,130,702,No
+669,Singapore,2004,18964,Number of nursing personnel,Absolute,All,All,NONUPE633,0,130,702,No
+670,Singapore,2003,18710,Number of nursing personnel,Absolute,All,All,NONUPE634,0,130,702,No
+671,Singapore,2001,17398,Number of nursing personnel,Absolute,All,All,NONUPE635,0,130,702,No
+672,Singapore,1999,15498,Number of nursing personnel,Absolute,All,All,NONUPE636,0,130,702,No
+673,Slovenia,2011,17107,Number of nursing personnel,Absolute,All,All,NONUPE637,0,130,705,No
+674,Solomon Islands,2009,934,Number of nursing personnel,Absolute,All,All,NONUPE638,0,130,90,No
+675,Solomon Islands,2005,620,Number of nursing personnel,Absolute,All,All,NONUPE639,0,130,90,No
+676,Solomon Islands,2003,630,Number of nursing personnel,Absolute,All,All,NONUPE640,0,130,90,No
+677,Solomon Islands,1999,338,Number of nursing personnel,Absolute,All,All,NONUPE641,0,130,90,No
+678,Somalia,2006,965,Number of nursing personnel,Absolute,All,All,NONUPE642,0,130,706,No
+679,Somalia,1997,1486,Number of nursing personnel,Absolute,All,All,NONUPE643,0,130,706,No
+680,South Africa,2012,248736,Number of nursing personnel,Absolute,All,All,NONUPE644,0,130,710,No
+681,South Africa,2004,184459,Number of nursing personnel,Absolute,All,All,NONUPE645,0,130,710,No
+682,Spain,2012,237400,Number of nursing personnel,Absolute,All,All,NONUPE646,0,130,724,No
+683,Spain,2003,315200,Number of nursing personnel,Absolute,All,All,NONUPE647,0,130,724,No
+684,Sri Lanka,2010,35367,Number of nursing personnel,Absolute,All,All,NONUPE648,0,130,144,No
+685,Sri Lanka,2009,31297,Number of nursing personnel,Absolute,All,All,NONUPE649,0,130,144,No
+686,Sri Lanka,2008,30063,Number of nursing personnel,Absolute,All,All,NONUPE650,0,130,144,No
+687,Sri Lanka,2007,31466,Number of nursing personnel,Absolute,All,All,NONUPE651,0,130,144,No
+688,Sri Lanka,2006,25287,Number of nursing personnel,Absolute,All,All,NONUPE652,0,130,144,No
+689,Sri Lanka,2005,20247,Number of nursing personnel,Absolute,All,All,NONUPE653,0,130,144,No
+690,Sri Lanka,2004,23030,Number of nursing personnel,Absolute,All,All,NONUPE654,0,130,144,No
+691,Sri Lanka,2001,15797,Number of nursing personnel,Absolute,All,All,NONUPE655,0,130,144,No
+692,Sri Lanka,2000,14986,Number of nursing personnel,Absolute,All,All,NONUPE656,0,130,144,No
+693,Sri Lanka,1999,14052,Number of nursing personnel,Absolute,All,All,NONUPE657,0,130,144,No
+694,Sri Lanka,1998,14621,Number of nursing personnel,Absolute,All,All,NONUPE658,0,130,144,No
+695,Sri Lanka,1997,13815,Number of nursing personnel,Absolute,All,All,NONUPE659,0,130,144,No
+696,Sri Lanka,1996,13933,Number of nursing personnel,Absolute,All,All,NONUPE660,0,130,144,No
+697,Sri Lanka,1993,11927,Number of nursing personnel,Absolute,All,All,NONUPE661,0,130,144,No
+698,Sri Lanka,1988,8471,Number of nursing personnel,Absolute,All,All,NONUPE662,0,130,144,No
+699,Sri Lanka,1980,6336,Number of nursing personnel,Absolute,All,All,NONUPE663,0,130,144,No
+700,Sudan,2008,32439,Number of nursing personnel,Absolute,All,All,NONUPE664,0,130,729,No
+701,Sudan,2008,32439,Number of nursing personnel,Absolute,All,All,NONUPE664,0,130,736,No
+702,Sudan,2007,32501,Number of nursing personnel,Absolute,All,All,NONUPE665,0,130,729,No
+703,Sudan,2007,32501,Number of nursing personnel,Absolute,All,All,NONUPE665,0,130,736,No
+704,Sudan,2006,18433,Number of nursing personnel,Absolute,All,All,NONUPE666,0,130,729,No
+705,Sudan,2006,18433,Number of nursing personnel,Absolute,All,All,NONUPE666,0,130,736,No
+706,Sudan,2004,17656,Number of nursing personnel,Absolute,All,All,NONUPE667,0,130,729,No
+707,Sudan,2004,17656,Number of nursing personnel,Absolute,All,All,NONUPE667,0,130,736,No
+708,Suriname,2004,2523,Number of nursing personnel,Absolute,All,All,NONUPE668,0,130,740,No
+709,Suriname,2000,688,Number of nursing personnel,Absolute,All,All,NONUPE669,0,130,740,No
+710,Swaziland,2009,1626,Number of nursing personnel,Absolute,All,All,NONUPE670,0,130,748,No
+711,Swaziland,2004,4590,Number of nursing personnel,Absolute,All,All,NONUPE671,0,130,748,No
+712,Swaziland,2000,3345,Number of nursing personnel,Absolute,All,All,NONUPE672,0,130,748,No
+713,Sweden,2007,94031,Number of nursing personnel,Absolute,All,All,NONUPE673,0,130,752,No
+714,Sweden,2002,90758,Number of nursing personnel,Absolute,All,All,NONUPE674,0,130,752,No
+715,Switzerland,2011,131374,Number of nursing personnel,Absolute,All,All,NONUPE675,0,130,756,No
+716,Switzerland,2011,131374,Number of nursing personnel,Absolute,All,All,NONUPE675,0,130,756,No
+717,Switzerland,2000,77120,Number of nursing personnel,Absolute,All,All,NONUPE676,0,130,756,No
+718,Switzerland,2000,77120,Number of nursing personnel,Absolute,All,All,NONUPE676,0,130,756,No
+719,Syrian Arab Republic,2008,38070,Number of nursing personnel,Absolute,All,All,NONUPE677,0,130,760,No
+720,Syrian Arab Republic,2007,37577,Number of nursing personnel,Absolute,All,All,NONUPE678,0,130,760,No
+721,Syrian Arab Republic,2004,28665,Number of nursing personnel,Absolute,All,All,NONUPE679,0,130,760,No
+722,Syrian Arab Republic,2003,27045,Number of nursing personnel,Absolute,All,All,NONUPE680,0,130,760,No
+723,Syrian Arab Republic,2002,28325,Number of nursing personnel,Absolute,All,All,NONUPE681,0,130,760,No
+724,Syrian Arab Republic,2001,32938,Number of nursing personnel,Absolute,All,All,NONUPE682,0,130,760,No
+725,Syrian Arab Republic,2000,27164,Number of nursing personnel,Absolute,All,All,NONUPE683,0,130,760,No
+726,Syrian Arab Republic,1999,25680,Number of nursing personnel,Absolute,All,All,NONUPE684,0,130,760,No
+727,Tajikistan,2011,27068,Number of nursing personnel,Absolute,All,All,NONUPE685,0,130,762,No
+728,Thailand,2010,138710,Number of nursing personnel,Absolute,All,All,NONUPE686,0,130,764,No
+729,Thailand,2009,109797,Number of nursing personnel,Absolute,All,All,NONUPE687,0,130,764,No
+730,Thailand,2008,105398,Number of nursing personnel,Absolute,All,All,NONUPE688,0,130,764,No
+731,Thailand,2007,101143,Number of nursing personnel,Absolute,All,All,NONUPE689,0,130,764,No
+732,Thailand,2006,101664,Number of nursing personnel,Absolute,All,All,NONUPE690,0,130,764,No
+733,Thailand,2004,95834,Number of nursing personnel,Absolute,All,All,NONUPE691,0,130,764,No
+734,Thailand,2002,84683,Number of nursing personnel,Absolute,All,All,NONUPE692,0,130,764,No
+735,Thailand,2001,78042,Number of nursing personnel,Absolute,All,All,NONUPE693,0,130,764,No
+736,Thailand,2000,171605,Number of nursing personnel,Absolute,All,All,NONUPE694,0,130,764,No
+737,Thailand,1999,68008,Number of nursing personnel,Absolute,All,All,NONUPE695,0,130,764,No
+738,Thailand,1998,63708,Number of nursing personnel,Absolute,All,All,NONUPE696,0,130,764,No
+739,Thailand,1997,56366,Number of nursing personnel,Absolute,All,All,NONUPE697,0,130,764,No
+740,Thailand,1995,54262,Number of nursing personnel,Absolute,All,All,NONUPE698,0,130,764,No
+741,Thailand,1993,46671,Number of nursing personnel,Absolute,All,All,NONUPE699,0,130,764,No
+742,Thailand,1991,40685,Number of nursing personnel,Absolute,All,All,NONUPE700,0,130,764,No
+743,Thailand,1989,37515,Number of nursing personnel,Absolute,All,All,NONUPE701,0,130,764,No
+744,Thailand,1987,30752,Number of nursing personnel,Absolute,All,All,NONUPE702,0,130,764,No
+745,Thailand,1985,28019,Number of nursing personnel,Absolute,All,All,NONUPE703,0,130,764,No
+746,Thailand,1983,23565,Number of nursing personnel,Absolute,All,All,NONUPE704,0,130,764,No
+747,Thailand,1981,19599,Number of nursing personnel,Absolute,All,All,NONUPE705,0,130,764,No
+748,Thailand,1979,17211,Number of nursing personnel,Absolute,All,All,NONUPE706,0,130,764,No
+749,Thailand,1977,15231,Number of nursing personnel,Absolute,All,All,NONUPE707,0,130,764,No
+750,Thailand,1975,12658,Number of nursing personnel,Absolute,All,All,NONUPE708,0,130,764,No
+751,Thailand,1973,10562,Number of nursing personnel,Absolute,All,All,NONUPE709,0,130,764,No
+752,Thailand,1971,9360,Number of nursing personnel,Absolute,All,All,NONUPE710,0,130,764,No
+753,Timor-Leste,2011,883,Number of nursing personnel,Absolute,All,All,NONUPE711,0,130,626,No
+754,Timor-Leste,2010,867,Number of nursing personnel,Absolute,All,All,NONUPE712,0,130,626,No
+755,Timor-Leste,2009,838,Number of nursing personnel,Absolute,All,All,NONUPE713,0,130,626,No
+756,Timor-Leste,2008,761,Number of nursing personnel,Absolute,All,All,NONUPE714,0,130,626,No
+757,Timor-Leste,2007,728,Number of nursing personnel,Absolute,All,All,NONUPE715,0,130,626,No
+758,Timor-Leste,2004,1467,Number of nursing personnel,Absolute,All,All,NONUPE716,0,130,626,No
+759,Timor-Leste,2001,321,Number of nursing personnel,Absolute,All,All,NONUPE717,0,130,626,No
+760,Togo,2008,1240,Number of nursing personnel,Absolute,All,All,NONUPE718,0,130,768,No
+761,Togo,2007,1468,Number of nursing personnel,Absolute,All,All,NONUPE719,0,130,768,No
+762,Togo,2004,1667,Number of nursing personnel,Absolute,All,All,NONUPE720,0,130,768,No
+763,Tonga,2010,379,Number of nursing personnel,Absolute,All,All,NONUPE721,0,130,776,No
+764,Tonga,2009,357,Number of nursing personnel,Absolute,All,All,NONUPE722,0,130,776,No
+765,Tonga,2008,345,Number of nursing personnel,Absolute,All,All,NONUPE723,0,130,776,No
+766,Tonga,2007,302,Number of nursing personnel,Absolute,All,All,NONUPE724,0,130,776,No
+767,Tonga,2002,330,Number of nursing personnel,Absolute,All,All,NONUPE725,0,130,776,No
+768,Tonga,2001,322,Number of nursing personnel,Absolute,All,All,NONUPE726,0,130,776,No
+769,Trinidad and Tobago,2007,4677,Number of nursing personnel,Absolute,All,All,NONUPE727,0,130,780,No
+770,Trinidad and Tobago,2006,4629,Number of nursing personnel,Absolute,All,All,NONUPE728,0,130,780,No
+771,Trinidad and Tobago,1997,3653,Number of nursing personnel,Absolute,All,All,NONUPE729,0,130,780,No
+772,Tunisia,2009,34551,Number of nursing personnel,Absolute,All,All,NONUPE730,0,130,788,No
+773,Tunisia,2008,34304,Number of nursing personnel,Absolute,All,All,NONUPE731,0,130,788,No
+774,Tunisia,2004,25654,Number of nursing personnel,Absolute,All,All,NONUPE732,0,130,788,No
+775,Tunisia,2003,20674,Number of nursing personnel,Absolute,All,All,NONUPE733,0,130,788,No
+776,Turkey,2011,124982,Number of nursing personnel,Absolute,All,All,NONUPE734,0,130,792,No
+777,Turkey,2010,114772,Number of nursing personnel,Absolute,All,All,NONUPE735,0,130,792,No
+778,Turkey,2009,105176,Number of nursing personnel,Absolute,All,All,NONUPE736,0,130,792,No
+779,Turkey,2008,99910,Number of nursing personnel,Absolute,All,All,NONUPE737,0,130,792,No
+780,Turkey,2007,94661,Number of nursing personnel,Absolute,All,All,NONUPE738,0,130,792,No
+781,Turkey,2006,82626,Number of nursing personnel,Absolute,All,All,NONUPE739,0,130,792,No
+782,Turkey,2005,78182,Number of nursing personnel,Absolute,All,All,NONUPE740,0,130,792,No
+783,Turkey,2004,75753,Number of nursing personnel,Absolute,All,All,NONUPE741,0,130,792,No
+784,Turkey,2003,74483,Number of nursing personnel,Absolute,All,All,NONUPE742,0,130,792,No
+785,Turkey,2002,72393,Number of nursing personnel,Absolute,All,All,NONUPE743,0,130,792,No
+786,Turkey,2001,72607,Number of nursing personnel,Absolute,All,All,NONUPE744,0,130,792,No
+787,Turkey,2000,69550,Number of nursing personnel,Absolute,All,All,NONUPE745,0,130,792,No
+788,Turkey,1999,70270,Number of nursing personnel,Absolute,All,All,NONUPE746,0,130,792,No
+789,Turkey,1998,69246,Number of nursing personnel,Absolute,All,All,NONUPE747,0,130,792,No
+790,Turkey,1997,67265,Number of nursing personnel,Absolute,All,All,NONUPE748,0,130,792,No
+791,Turkey,1996,64526,Number of nursing personnel,Absolute,All,All,NONUPE749,0,130,792,No
+792,Turkey,1995,64243,Number of nursing personnel,Absolute,All,All,NONUPE750,0,130,792,No
+793,Turkey,1994,56280,Number of nursing personnel,Absolute,All,All,NONUPE751,0,130,792,No
+794,Turkey,1993,54268,Number of nursing personnel,Absolute,All,All,NONUPE752,0,130,792,No
+795,Turkey,1992,50456,Number of nursing personnel,Absolute,All,All,NONUPE753,0,130,792,No
+796,Turkey,1991,47540,Number of nursing personnel,Absolute,All,All,NONUPE754,0,130,792,No
+797,Turkey,1990,44984,Number of nursing personnel,Absolute,All,All,NONUPE755,0,130,792,No
+798,Turkey,1989,43374,Number of nursing personnel,Absolute,All,All,NONUPE756,0,130,792,No
+799,Turkey,1988,38903,Number of nursing personnel,Absolute,All,All,NONUPE757,0,130,792,No
+800,Turkey,1987,34855,Number of nursing personnel,Absolute,All,All,NONUPE758,0,130,792,No
+801,Turkey,1986,32392,Number of nursing personnel,Absolute,All,All,NONUPE759,0,130,792,No
+802,Turkey,1985,30854,Number of nursing personnel,Absolute,All,All,NONUPE760,0,130,792,No
+803,Turkey,1984,30261,Number of nursing personnel,Absolute,All,All,NONUPE761,0,130,792,No
+804,Turkey,1983,29316,Number of nursing personnel,Absolute,All,All,NONUPE762,0,130,792,No
+805,Turkey,1982,29243,Number of nursing personnel,Absolute,All,All,NONUPE763,0,130,792,No
+806,Turkey,1981,29459,Number of nursing personnel,Absolute,All,All,NONUPE764,0,130,792,No
+807,Turkey,1980,26880,Number of nursing personnel,Absolute,All,All,NONUPE765,0,130,792,No
+808,Turkey,1979,23797,Number of nursing personnel,Absolute,All,All,NONUPE766,0,130,792,No
+809,Turkey,1978,20966,Number of nursing personnel,Absolute,All,All,NONUPE767,0,130,792,No
+810,Turkey,1977,19859,Number of nursing personnel,Absolute,All,All,NONUPE768,0,130,792,No
+811,Turkey,1976,16566,Number of nursing personnel,Absolute,All,All,NONUPE769,0,130,792,No
+812,Turkey,1975,14806,Number of nursing personnel,Absolute,All,All,NONUPE770,0,130,792,No
+813,Turkey,1974,12641,Number of nursing personnel,Absolute,All,All,NONUPE771,0,130,792,No
+814,Turkey,1973,13401,Number of nursing personnel,Absolute,All,All,NONUPE772,0,130,792,No
+815,Turkey,1972,11358,Number of nursing personnel,Absolute,All,All,NONUPE773,0,130,792,No
+816,Turkey,1971,9436,Number of nursing personnel,Absolute,All,All,NONUPE774,0,130,792,No
+817,Turkey,1970,8796,Number of nursing personnel,Absolute,All,All,NONUPE775,0,130,792,No
+818,Turkmenistan,2002,43359,Number of nursing personnel,Absolute,All,All,NONUPE776,0,130,795,No
+819,Tuvalu,2008,54,Number of nursing personnel,Absolute,All,All,NONUPE777,0,130,798,No
+820,Tuvalu,2003,40,Number of nursing personnel,Absolute,All,All,NONUPE778,0,130,798,No
+821,Tuvalu,2002,29,Number of nursing personnel,Absolute,All,All,NONUPE779,0,130,798,No
+822,Uganda,2005,37625,Number of nursing personnel,Absolute,All,All,NONUPE780,0,130,800,No
+823,Uganda,2004,14805,Number of nursing personnel,Absolute,All,All,NONUPE781,0,130,800,No
+824,Ukraine,2012,321754,Number of nursing personnel,Absolute,All,All,NONUPE782,0,130,804,No
+825,United Arab Emirates,2007,19529,Number of nursing personnel,Absolute,All,All,NONUPE783,0,130,784,No
+826,United Arab Emirates,2004,13936,Number of nursing personnel,Absolute,All,All,NONUPE784,0,130,784,No
+827,United Arab Emirates,2002,10340,Number of nursing personnel,Absolute,All,All,NONUPE785,0,130,784,No
+828,United Arab Emirates,2001,12045,Number of nursing personnel,Absolute,All,All,NONUPE786,0,130,784,No
+829,United Kingdom,2012,522771,Number of nursing personnel,Absolute,All,All,NONUPE787,0,130,826,No
+830,United Kingdom,1997,672810,Number of nursing personnel,Absolute,All,All,NONUPE788,0,130,826,No
+831,United Republic of Tanzania,2006,6720,Number of nursing personnel,Absolute,All,All,NONUPE789,0,130,834,No
+832,United Republic of Tanzania,2002,10729,Number of nursing personnel,Absolute,All,All,NONUPE790,0,130,834,No
+833,United States of America,2005,2927000,Number of nursing personnel,Absolute,All,All,NONUPE791,0,130,840,No
+834,United States of America,2000,2669603,Number of nursing personnel,Absolute,All,All,NONUPE792,0,130,840,No
+835,United States of America,1995,2375000,Number of nursing personnel,Absolute,All,All,NONUPE793,0,130,840,No
+836,United States of America,1985,1862100,Number of nursing personnel,Absolute,All,All,NONUPE794,0,130,840,No
+837,Uruguay,2008,19595,Number of nursing personnel,Absolute,All,All,NONUPE795,0,130,858,No
+838,Uruguay,2002,2880,Number of nursing personnel,Absolute,All,All,NONUPE796,0,130,858,No
+839,Uzbekistan,2012,310313,Number of nursing personnel,Absolute,All,All,NONUPE797,0,130,860,No
+840,Vanuatu,2008,332,Number of nursing personnel,Absolute,All,All,NONUPE798,0,130,548,No
+841,Vanuatu,2007,344,Number of nursing personnel,Absolute,All,All,NONUPE799,0,130,548,No
+842,Vanuatu,2004,310,Number of nursing personnel,Absolute,All,All,NONUPE800,0,130,548,No
+843,Vanuatu,1997,428,Number of nursing personnel,Absolute,All,All,NONUPE801,0,130,548,No
+844,Venezuela (Bolivarian Republic of),2001,28000,Number of nursing personnel,Absolute,All,All,NONUPE802,0,130,862,No
+845,Venezuela (Bolivarian Republic of),1997,15020,Number of nursing personnel,Absolute,All,All,NONUPE803,0,130,862,No
+846,Viet Nam,2011,74362,Number of nursing personnel,Absolute,All,All,NONUPE804,0,130,704,No
+847,Viet Nam,2008,65052,Number of nursing personnel,Absolute,All,All,NONUPE805,0,130,704,No
+848,Viet Nam,2007,60329,Number of nursing personnel,Absolute,All,All,NONUPE806,0,130,704,No
+849,Viet Nam,2006,55421,Number of nursing personnel,Absolute,All,All,NONUPE807,0,130,704,No
+850,Viet Nam,2005,51573,Number of nursing personnel,Absolute,All,All,NONUPE808,0,130,704,No
+851,Viet Nam,2002,46560,Number of nursing personnel,Absolute,All,All,NONUPE809,0,130,704,No
+852,Viet Nam,2001,44539,Number of nursing personnel,Absolute,All,All,NONUPE810,0,130,704,No
+853,Yemen,2010,12447,Number of nursing personnel,Absolute,All,All,NONUPE811,0,130,887,No
+854,Yemen,2010,12447,Number of nursing personnel,Absolute,All,All,NONUPE811,0,130,886,No
+855,Yemen,2004,13333,Number of nursing personnel,Absolute,All,All,NONUPE812,0,130,887,No
+856,Yemen,2004,13333,Number of nursing personnel,Absolute,All,All,NONUPE812,0,130,886,No
+857,Yemen,1997,4989,Number of nursing personnel,Absolute,All,All,NONUPE813,0,130,887,No
+858,Yemen,1997,4989,Number of nursing personnel,Absolute,All,All,NONUPE813,0,130,886,No
+859,Zambia,2010,7461,Number of nursing personnel,Absolute,All,All,NONUPE814,0,130,894,No
+860,Zambia,2009,7123,Number of nursing personnel,Absolute,All,All,NONUPE815,0,130,894,No
+861,Zambia,2008,6691,Number of nursing personnel,Absolute,All,All,NONUPE816,0,130,894,No
+862,Zambia,2006,6096,Number of nursing personnel,Absolute,All,All,NONUPE817,0,130,894,No
+863,Zambia,2005,6096,Number of nursing personnel,Absolute,All,All,NONUPE818,0,130,894,No
+864,Zambia,2004,16990,Number of nursing personnel,Absolute,All,All,NONUPE819,0,130,894,No
+865,Zimbabwe,2009,16668,Number of nursing personnel,Absolute,All,All,NONUPE820,0,130,716,No
+866,Zimbabwe,2008,13699,Number of nursing personnel,Absolute,All,All,NONUPE821,0,130,716,No
+867,Zimbabwe,2007,14768,Number of nursing personnel,Absolute,All,All,NONUPE822,0,130,716,No
+868,Zimbabwe,2004,9357,Number of nursing personnel,Absolute,All,All,NONUPE823,0,130,716,No
+869,Zimbabwe,1995,14180,Number of nursing personnel,Absolute,All,All,NONUPE824,0,130,716,No
+870,Zimbabwe,1990,12518,Number of nursing personnel,Absolute,All,All,NONUPE825,0,130,716,No
+871,Zimbabwe,1985,9533,Number of nursing personnel,Absolute,All,All,NONUPE826,0,130,716,No

@@ -1,0 +1,1207 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2012,73,Number of infant deaths,Thousands,0-1,All,NOIDIT1,0,1,4,No
+1,Afghanistan,2010,80,Number of infant deaths,Thousands,0-1,All,NOIDIT2,0,1,4,No
+2,Afghanistan,2005,90,Number of infant deaths,Thousands,0-1,All,NOIDIT3,0,1,4,No
+3,Afghanistan,2000,95,Number of infant deaths,Thousands,0-1,All,NOIDIT4,0,1,4,No
+4,Afghanistan,1995,86,Number of infant deaths,Thousands,0-1,All,NOIDIT5,0,1,4,No
+5,Afghanistan,1990,66,Number of infant deaths,Thousands,0-1,All,NOIDIT6,0,1,4,No
+6,Albania,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT7,0,1,8,No
+7,Albania,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT8,0,1,8,No
+8,Albania,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT9,0,1,8,No
+9,Albania,2000,2,Number of infant deaths,Thousands,0-1,All,NOIDIT10,0,1,8,No
+10,Albania,1995,2,Number of infant deaths,Thousands,0-1,All,NOIDIT11,0,1,8,No
+11,Albania,1990,3,Number of infant deaths,Thousands,0-1,All,NOIDIT12,0,1,8,No
+12,Algeria,2012,17,Number of infant deaths,Thousands,0-1,All,NOIDIT13,0,1,12,No
+13,Algeria,2010,18,Number of infant deaths,Thousands,0-1,All,NOIDIT14,0,1,12,No
+14,Algeria,2005,15,Number of infant deaths,Thousands,0-1,All,NOIDIT15,0,1,12,No
+15,Algeria,2000,17,Number of infant deaths,Thousands,0-1,All,NOIDIT16,0,1,12,No
+16,Algeria,1995,27,Number of infant deaths,Thousands,0-1,All,NOIDIT17,0,1,12,No
+17,Algeria,1990,34,Number of infant deaths,Thousands,0-1,All,NOIDIT18,0,1,12,No
+18,Andorra,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT19,0,1,20,No
+19,Andorra,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT20,0,1,20,No
+20,Andorra,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT21,0,1,20,No
+21,Andorra,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT22,0,1,20,No
+22,Andorra,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT23,0,1,20,No
+23,Andorra,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT24,0,1,20,No
+24,Angola,2012,90,Number of infant deaths,Thousands,0-1,All,NOIDIT25,0,1,24,No
+25,Angola,2010,93,Number of infant deaths,Thousands,0-1,All,NOIDIT26,0,1,24,No
+26,Angola,2005,92,Number of infant deaths,Thousands,0-1,All,NOIDIT27,0,1,24,No
+27,Angola,2000,81,Number of infant deaths,Thousands,0-1,All,NOIDIT28,0,1,24,No
+28,Angola,1995,72,Number of infant deaths,Thousands,0-1,All,NOIDIT29,0,1,24,No
+29,Angola,1990,64,Number of infant deaths,Thousands,0-1,All,NOIDIT30,0,1,24,No
+30,Antigua and Barbuda,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT31,0,1,28,No
+31,Antigua and Barbuda,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT32,0,1,28,No
+32,Antigua and Barbuda,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT33,0,1,28,No
+33,Antigua and Barbuda,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT34,0,1,28,No
+34,Antigua and Barbuda,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT35,0,1,28,No
+35,Antigua and Barbuda,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT36,0,1,28,No
+36,Argentina,2012,9,Number of infant deaths,Thousands,0-1,All,NOIDIT37,0,1,32,No
+37,Argentina,2010,9,Number of infant deaths,Thousands,0-1,All,NOIDIT38,0,1,32,No
+38,Argentina,2005,10,Number of infant deaths,Thousands,0-1,All,NOIDIT39,0,1,32,No
+39,Argentina,2000,12,Number of infant deaths,Thousands,0-1,All,NOIDIT40,0,1,32,No
+40,Argentina,1995,15,Number of infant deaths,Thousands,0-1,All,NOIDIT41,0,1,32,No
+41,Argentina,1990,18,Number of infant deaths,Thousands,0-1,All,NOIDIT42,0,1,32,No
+42,Armenia,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT43,0,1,51,No
+43,Armenia,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT44,0,1,51,No
+44,Armenia,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT45,0,1,51,No
+45,Armenia,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT46,0,1,51,No
+46,Armenia,1995,2,Number of infant deaths,Thousands,0-1,All,NOIDIT47,0,1,51,No
+47,Armenia,1990,3,Number of infant deaths,Thousands,0-1,All,NOIDIT48,0,1,51,No
+48,Australia,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT49,0,1,36,No
+49,Australia,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT50,0,1,36,No
+50,Australia,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT51,0,1,36,No
+51,Australia,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT52,0,1,36,No
+52,Australia,1995,2,Number of infant deaths,Thousands,0-1,All,NOIDIT53,0,1,36,No
+53,Australia,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT54,0,1,36,No
+54,Austria,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT55,0,1,40,No
+55,Austria,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT56,0,1,40,No
+56,Austria,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT57,0,1,40,No
+57,Austria,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT58,0,1,40,No
+58,Austria,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT59,0,1,40,No
+59,Austria,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT60,0,1,40,No
+60,Azerbaijan,2012,5,Number of infant deaths,Thousands,0-1,All,NOIDIT61,0,1,31,No
+61,Azerbaijan,2010,5,Number of infant deaths,Thousands,0-1,All,NOIDIT62,0,1,31,No
+62,Azerbaijan,2005,6,Number of infant deaths,Thousands,0-1,All,NOIDIT63,0,1,31,No
+63,Azerbaijan,2000,7,Number of infant deaths,Thousands,0-1,All,NOIDIT64,0,1,31,No
+64,Azerbaijan,1995,12,Number of infant deaths,Thousands,0-1,All,NOIDIT65,0,1,31,No
+65,Azerbaijan,1990,15,Number of infant deaths,Thousands,0-1,All,NOIDIT66,0,1,31,No
+66,Bahamas,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT67,0,1,44,No
+67,Bahamas,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT68,0,1,44,No
+68,Bahamas,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT69,0,1,44,No
+69,Bahamas,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT70,0,1,44,No
+70,Bahamas,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT71,0,1,44,No
+71,Bahamas,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT72,0,1,44,No
+72,Bahrain,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT73,0,1,48,No
+73,Bahrain,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT74,0,1,48,No
+74,Bahrain,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT75,0,1,48,No
+75,Bahrain,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT76,0,1,48,No
+76,Bahrain,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT77,0,1,48,No
+77,Bahrain,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT78,0,1,48,No
+78,Bangladesh,2012,102,Number of infant deaths,Thousands,0-1,All,NOIDIT79,0,1,50,No
+79,Bangladesh,2010,114,Number of infant deaths,Thousands,0-1,All,NOIDIT80,0,1,50,No
+80,Bangladesh,2005,174,Number of infant deaths,Thousands,0-1,All,NOIDIT81,0,1,50,No
+81,Bangladesh,2000,227,Number of infant deaths,Thousands,0-1,All,NOIDIT82,0,1,50,No
+82,Bangladesh,1995,292,Number of infant deaths,Thousands,0-1,All,NOIDIT83,0,1,50,No
+83,Bangladesh,1990,365,Number of infant deaths,Thousands,0-1,All,NOIDIT84,0,1,50,No
+84,Barbados,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT85,0,1,52,No
+85,Barbados,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT86,0,1,52,No
+86,Barbados,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT87,0,1,52,No
+87,Barbados,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT88,0,1,52,No
+88,Barbados,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT89,0,1,52,No
+89,Barbados,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT90,0,1,52,No
+90,Belarus,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT91,0,1,112,No
+91,Belarus,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT92,0,1,112,No
+92,Belarus,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT93,0,1,112,No
+93,Belarus,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT94,0,1,112,No
+94,Belarus,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT95,0,1,112,No
+95,Belarus,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT96,0,1,112,No
+96,Belgium,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT97,0,1,56,No
+97,Belgium,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT98,0,1,56,No
+98,Belgium,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT99,0,1,56,No
+99,Belgium,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT100,0,1,56,No
+100,Belgium,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT101,0,1,56,No
+101,Belgium,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT102,0,1,56,No
+102,Belize,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT103,0,1,84,No
+103,Belize,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT104,0,1,84,No
+104,Belize,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT105,0,1,84,No
+105,Belize,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT106,0,1,84,No
+106,Belize,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT107,0,1,84,No
+107,Belize,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT108,0,1,84,No
+108,Benin,2012,21,Number of infant deaths,Thousands,0-1,All,NOIDIT109,0,1,204,No
+109,Benin,2010,22,Number of infant deaths,Thousands,0-1,All,NOIDIT110,0,1,204,No
+110,Benin,2005,24,Number of infant deaths,Thousands,0-1,All,NOIDIT111,0,1,204,No
+111,Benin,2000,26,Number of infant deaths,Thousands,0-1,All,NOIDIT112,0,1,204,No
+112,Benin,1995,25,Number of infant deaths,Thousands,0-1,All,NOIDIT113,0,1,204,No
+113,Benin,1990,24,Number of infant deaths,Thousands,0-1,All,NOIDIT114,0,1,204,No
+114,Bhutan,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT115,0,1,64,No
+115,Bhutan,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT116,0,1,64,No
+116,Bhutan,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT117,0,1,64,No
+117,Bhutan,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT118,0,1,64,No
+118,Bhutan,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT119,0,1,64,No
+119,Bhutan,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT120,0,1,64,No
+120,Bolivia (Plurinational State of),2012,9,Number of infant deaths,Thousands,0-1,All,NOIDIT121,0,1,68,No
+121,Bolivia (Plurinational State of),2010,9,Number of infant deaths,Thousands,0-1,All,NOIDIT122,0,1,68,No
+122,Bolivia (Plurinational State of),2005,12,Number of infant deaths,Thousands,0-1,All,NOIDIT123,0,1,68,No
+123,Bolivia (Plurinational State of),2000,14,Number of infant deaths,Thousands,0-1,All,NOIDIT124,0,1,68,No
+124,Bolivia (Plurinational State of),1995,19,Number of infant deaths,Thousands,0-1,All,NOIDIT125,0,1,68,No
+125,Bolivia (Plurinational State of),1990,20,Number of infant deaths,Thousands,0-1,All,NOIDIT126,0,1,68,No
+126,Bosnia and Herzegovina,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT127,0,1,70,No
+127,Bosnia and Herzegovina,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT128,0,1,70,No
+128,Bosnia and Herzegovina,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT129,0,1,70,No
+129,Bosnia and Herzegovina,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT130,0,1,70,No
+130,Bosnia and Herzegovina,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT131,0,1,70,No
+131,Bosnia and Herzegovina,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT132,0,1,70,No
+132,Botswana,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT133,0,1,72,No
+133,Botswana,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT134,0,1,72,No
+134,Botswana,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT135,0,1,72,No
+135,Botswana,2000,3,Number of infant deaths,Thousands,0-1,All,NOIDIT136,0,1,72,No
+136,Botswana,1995,2,Number of infant deaths,Thousands,0-1,All,NOIDIT137,0,1,72,No
+137,Botswana,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT138,0,1,72,No
+138,Brazil,2012,37,Number of infant deaths,Thousands,0-1,All,NOIDIT139,0,1,76,No
+139,Brazil,2010,40,Number of infant deaths,Thousands,0-1,All,NOIDIT140,0,1,76,No
+140,Brazil,2005,70,Number of infant deaths,Thousands,0-1,All,NOIDIT141,0,1,76,No
+141,Brazil,2000,111,Number of infant deaths,Thousands,0-1,All,NOIDIT142,0,1,76,No
+142,Brazil,1995,141,Number of infant deaths,Thousands,0-1,All,NOIDIT143,0,1,76,No
+143,Brazil,1990,180,Number of infant deaths,Thousands,0-1,All,NOIDIT144,0,1,76,No
+144,Brunei Darussalam,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT145,0,1,96,No
+145,Brunei Darussalam,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT146,0,1,96,No
+146,Brunei Darussalam,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT147,0,1,96,No
+147,Brunei Darussalam,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT148,0,1,96,No
+148,Brunei Darussalam,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT149,0,1,96,No
+149,Brunei Darussalam,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT150,0,1,96,No
+150,Bulgaria,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT151,0,1,100,No
+151,Bulgaria,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT152,0,1,100,No
+152,Bulgaria,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT153,0,1,100,No
+153,Bulgaria,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT154,0,1,100,No
+154,Bulgaria,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT155,0,1,100,No
+155,Bulgaria,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT156,0,1,100,No
+156,Burkina Faso,2012,43,Number of infant deaths,Thousands,0-1,All,NOIDIT157,0,1,854,No
+157,Burkina Faso,2010,45,Number of infant deaths,Thousands,0-1,All,NOIDIT158,0,1,854,No
+158,Burkina Faso,2005,50,Number of infant deaths,Thousands,0-1,All,NOIDIT159,0,1,854,No
+159,Burkina Faso,2000,50,Number of infant deaths,Thousands,0-1,All,NOIDIT160,0,1,854,No
+160,Burkina Faso,1995,46,Number of infant deaths,Thousands,0-1,All,NOIDIT161,0,1,854,No
+161,Burkina Faso,1990,40,Number of infant deaths,Thousands,0-1,All,NOIDIT162,0,1,854,No
+162,Burundi,2012,29,Number of infant deaths,Thousands,0-1,All,NOIDIT163,0,1,108,No
+163,Burundi,2010,29,Number of infant deaths,Thousands,0-1,All,NOIDIT164,0,1,108,No
+164,Burundi,2005,27,Number of infant deaths,Thousands,0-1,All,NOIDIT165,0,1,108,No
+165,Burundi,2000,25,Number of infant deaths,Thousands,0-1,All,NOIDIT166,0,1,108,No
+166,Burundi,1995,26,Number of infant deaths,Thousands,0-1,All,NOIDIT167,0,1,108,No
+167,Burundi,1990,27,Number of infant deaths,Thousands,0-1,All,NOIDIT168,0,1,108,No
+168,Cabo Verde,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT169,0,1,132,No
+169,Cabo Verde,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT170,0,1,132,No
+170,Cabo Verde,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT171,0,1,132,No
+171,Cabo Verde,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT172,0,1,132,No
+172,Cabo Verde,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT173,0,1,132,No
+173,Cabo Verde,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT174,0,1,132,No
+174,Cambodia,2012,12,Number of infant deaths,Thousands,0-1,All,NOIDIT175,0,1,116,No
+175,Cambodia,2010,13,Number of infant deaths,Thousands,0-1,All,NOIDIT176,0,1,116,No
+176,Cambodia,2005,18,Number of infant deaths,Thousands,0-1,All,NOIDIT177,0,1,116,No
+177,Cambodia,2000,22,Number of infant deaths,Thousands,0-1,All,NOIDIT178,0,1,116,No
+178,Cambodia,1995,33,Number of infant deaths,Thousands,0-1,All,NOIDIT179,0,1,116,No
+179,Cambodia,1990,28,Number of infant deaths,Thousands,0-1,All,NOIDIT180,0,1,116,No
+180,Cameroon,2012,48,Number of infant deaths,Thousands,0-1,All,NOIDIT181,0,1,120,No
+181,Cameroon,2010,50,Number of infant deaths,Thousands,0-1,All,NOIDIT182,0,1,120,No
+182,Cameroon,2005,55,Number of infant deaths,Thousands,0-1,All,NOIDIT183,0,1,120,No
+183,Cameroon,2000,58,Number of infant deaths,Thousands,0-1,All,NOIDIT184,0,1,120,No
+184,Cameroon,1995,53,Number of infant deaths,Thousands,0-1,All,NOIDIT185,0,1,120,No
+185,Cameroon,1990,43,Number of infant deaths,Thousands,0-1,All,NOIDIT186,0,1,120,No
+186,Canada,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT187,0,1,124,No
+187,Canada,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT188,0,1,124,No
+188,Canada,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT189,0,1,124,No
+189,Canada,2000,2,Number of infant deaths,Thousands,0-1,All,NOIDIT190,0,1,124,No
+190,Canada,1995,2,Number of infant deaths,Thousands,0-1,All,NOIDIT191,0,1,124,No
+191,Canada,1990,3,Number of infant deaths,Thousands,0-1,All,NOIDIT192,0,1,124,No
+192,Central African Republic,2012,14,Number of infant deaths,Thousands,0-1,All,NOIDIT193,0,1,140,No
+193,Central African Republic,2010,14,Number of infant deaths,Thousands,0-1,All,NOIDIT194,0,1,140,No
+194,Central African Republic,2005,15,Number of infant deaths,Thousands,0-1,All,NOIDIT195,0,1,140,No
+195,Central African Republic,2000,15,Number of infant deaths,Thousands,0-1,All,NOIDIT196,0,1,140,No
+196,Central African Republic,1995,14,Number of infant deaths,Thousands,0-1,All,NOIDIT197,0,1,140,No
+197,Central African Republic,1990,13,Number of infant deaths,Thousands,0-1,All,NOIDIT198,0,1,140,No
+198,Chad,2012,50,Number of infant deaths,Thousands,0-1,All,NOIDIT199,0,1,148,No
+199,Chad,2010,50,Number of infant deaths,Thousands,0-1,All,NOIDIT200,0,1,148,No
+200,Chad,2005,48,Number of infant deaths,Thousands,0-1,All,NOIDIT201,0,1,148,No
+201,Chad,2000,42,Number of infant deaths,Thousands,0-1,All,NOIDIT202,0,1,148,No
+202,Chad,1995,37,Number of infant deaths,Thousands,0-1,All,NOIDIT203,0,1,148,No
+203,Chad,1990,32,Number of infant deaths,Thousands,0-1,All,NOIDIT204,0,1,148,No
+204,Chile,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT205,0,1,152,No
+205,Chile,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT206,0,1,152,No
+206,Chile,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT207,0,1,152,No
+207,Chile,2000,2,Number of infant deaths,Thousands,0-1,All,NOIDIT208,0,1,152,No
+208,Chile,1995,3,Number of infant deaths,Thousands,0-1,All,NOIDIT209,0,1,152,No
+209,Chile,1990,5,Number of infant deaths,Thousands,0-1,All,NOIDIT210,0,1,152,No
+210,China,2012,224,Number of infant deaths,Thousands,0-1,All,NOIDIT211,0,1,156,No
+211,China,2010,249,Number of infant deaths,Thousands,0-1,All,NOIDIT212,0,1,156,No
+212,China,2005,351,Number of infant deaths,Thousands,0-1,All,NOIDIT213,0,1,156,No
+213,China,2000,512,Number of infant deaths,Thousands,0-1,All,NOIDIT214,0,1,156,No
+214,China,1995,579,Number of infant deaths,Thousands,0-1,All,NOIDIT215,0,1,156,No
+215,China,1990,1315,Number of infant deaths,Thousands,0-1,All,NOIDIT216,0,1,156,No
+216,Colombia,2012,14,Number of infant deaths,Thousands,0-1,All,NOIDIT217,0,1,170,No
+217,Colombia,2010,15,Number of infant deaths,Thousands,0-1,All,NOIDIT218,0,1,170,No
+218,Colombia,2005,17,Number of infant deaths,Thousands,0-1,All,NOIDIT219,0,1,170,No
+219,Colombia,2000,19,Number of infant deaths,Thousands,0-1,All,NOIDIT220,0,1,170,No
+220,Colombia,1995,23,Number of infant deaths,Thousands,0-1,All,NOIDIT221,0,1,170,No
+221,Colombia,1990,26,Number of infant deaths,Thousands,0-1,All,NOIDIT222,0,1,170,No
+222,Comoros,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT223,0,1,174,No
+223,Comoros,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT224,0,1,174,No
+224,Comoros,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT225,0,1,174,No
+225,Comoros,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT226,0,1,174,No
+226,Comoros,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT227,0,1,174,No
+227,Comoros,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT228,0,1,174,No
+228,Congo,2012,10,Number of infant deaths,Thousands,0-1,All,NOIDIT229,0,1,178,No
+229,Congo,2010,10,Number of infant deaths,Thousands,0-1,All,NOIDIT230,0,1,178,No
+230,Congo,2005,10,Number of infant deaths,Thousands,0-1,All,NOIDIT231,0,1,178,No
+231,Congo,2000,9,Number of infant deaths,Thousands,0-1,All,NOIDIT232,0,1,178,No
+232,Congo,1995,7,Number of infant deaths,Thousands,0-1,All,NOIDIT233,0,1,178,No
+233,Congo,1990,6,Number of infant deaths,Thousands,0-1,All,NOIDIT234,0,1,178,No
+234,Cook Islands,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT235,0,1,184,No
+235,Cook Islands,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT236,0,1,184,No
+236,Cook Islands,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT237,0,1,184,No
+237,Cook Islands,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT238,0,1,184,No
+238,Cook Islands,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT239,0,1,184,No
+239,Cook Islands,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT240,0,1,184,No
+240,Costa Rica,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT241,0,1,188,No
+241,Costa Rica,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT242,0,1,188,No
+242,Costa Rica,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT243,0,1,188,No
+243,Costa Rica,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT244,0,1,188,No
+244,Costa Rica,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT245,0,1,188,No
+245,Costa Rica,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT246,0,1,188,No
+246,Côte dIvoire,2012,54,Number of infant deaths,Thousands,0-1,All,NOIDIT247,0,1,384,No
+247,Côte dIvoire,2010,52,Number of infant deaths,Thousands,0-1,All,NOIDIT248,0,1,384,No
+248,Côte dIvoire,2005,55,Number of infant deaths,Thousands,0-1,All,NOIDIT249,0,1,384,No
+249,Côte dIvoire,2000,61,Number of infant deaths,Thousands,0-1,All,NOIDIT250,0,1,384,No
+250,Côte dIvoire,1995,56,Number of infant deaths,Thousands,0-1,All,NOIDIT251,0,1,384,No
+251,Côte dIvoire,1990,51,Number of infant deaths,Thousands,0-1,All,NOIDIT252,0,1,384,No
+252,Croatia,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT253,0,1,191,No
+253,Croatia,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT254,0,1,191,No
+254,Croatia,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT255,0,1,191,No
+255,Croatia,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT256,0,1,191,No
+256,Croatia,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT257,0,1,191,No
+257,Croatia,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT258,0,1,191,No
+258,Cuba,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT259,0,1,192,No
+259,Cuba,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT260,0,1,192,No
+260,Cuba,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT261,0,1,192,No
+261,Cuba,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT262,0,1,192,No
+262,Cuba,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT263,0,1,192,No
+263,Cuba,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT264,0,1,192,No
+264,Cyprus,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT265,0,1,196,No
+265,Cyprus,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT266,0,1,196,No
+266,Cyprus,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT267,0,1,196,No
+267,Cyprus,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT268,0,1,196,No
+268,Cyprus,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT269,0,1,196,No
+269,Cyprus,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT270,0,1,196,No
+270,Czech Republic,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT271,0,1,203,No
+271,Czech Republic,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT272,0,1,203,No
+272,Czech Republic,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT273,0,1,203,No
+273,Czech Republic,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT274,0,1,203,No
+274,Czech Republic,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT275,0,1,203,No
+275,Czech Republic,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT276,0,1,203,No
+276,Democratic Peoples Republic of Korea,2012,8,Number of infant deaths,Thousands,0-1,All,NOIDIT277,0,1,408,No
+277,Democratic Peoples Republic of Korea,2010,8,Number of infant deaths,Thousands,0-1,All,NOIDIT278,0,1,408,No
+278,Democratic Peoples Republic of Korea,2005,10,Number of infant deaths,Thousands,0-1,All,NOIDIT279,0,1,408,No
+279,Democratic Peoples Republic of Korea,2000,17,Number of infant deaths,Thousands,0-1,All,NOIDIT280,0,1,408,No
+280,Democratic Peoples Republic of Korea,1995,25,Number of infant deaths,Thousands,0-1,All,NOIDIT281,0,1,408,No
+281,Democratic Peoples Republic of Korea,1990,12,Number of infant deaths,Thousands,0-1,All,NOIDIT282,0,1,408,No
+282,Democratic Republic of the Congo,2012,271,Number of infant deaths,Thousands,0-1,All,NOIDIT283,0,1,180,No
+283,Democratic Republic of the Congo,2010,275,Number of infant deaths,Thousands,0-1,All,NOIDIT284,0,1,180,No
+284,Democratic Republic of the Congo,2005,269,Number of infant deaths,Thousands,0-1,All,NOIDIT285,0,1,180,No
+285,Democratic Republic of the Congo,2000,236,Number of infant deaths,Thousands,0-1,All,NOIDIT286,0,1,180,No
+286,Democratic Republic of the Congo,1995,221,Number of infant deaths,Thousands,0-1,All,NOIDIT287,0,1,180,No
+287,Democratic Republic of the Congo,1990,178,Number of infant deaths,Thousands,0-1,All,NOIDIT288,0,1,180,No
+288,Denmark,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT289,0,1,208,No
+289,Denmark,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT290,0,1,208,No
+290,Denmark,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT291,0,1,208,No
+291,Denmark,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT292,0,1,208,No
+292,Denmark,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT293,0,1,208,No
+293,Denmark,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT294,0,1,208,No
+294,Djibouti,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT295,0,1,262,No
+295,Djibouti,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT296,0,1,262,No
+296,Djibouti,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT297,0,1,262,No
+297,Djibouti,2000,2,Number of infant deaths,Thousands,0-1,All,NOIDIT298,0,1,262,No
+298,Djibouti,1995,2,Number of infant deaths,Thousands,0-1,All,NOIDIT299,0,1,262,No
+299,Djibouti,1990,3,Number of infant deaths,Thousands,0-1,All,NOIDIT300,0,1,262,No
+300,Dominica,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT301,0,1,212,No
+301,Dominica,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT302,0,1,212,No
+302,Dominica,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT303,0,1,212,No
+303,Dominica,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT304,0,1,212,No
+304,Dominica,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT305,0,1,212,No
+305,Dominica,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT306,0,1,212,No
+306,Dominican Republic,2012,5,Number of infant deaths,Thousands,0-1,All,NOIDIT307,0,1,214,No
+307,Dominican Republic,2010,5,Number of infant deaths,Thousands,0-1,All,NOIDIT308,0,1,214,No
+308,Dominican Republic,2005,6,Number of infant deaths,Thousands,0-1,All,NOIDIT309,0,1,214,No
+309,Dominican Republic,2000,7,Number of infant deaths,Thousands,0-1,All,NOIDIT310,0,1,214,No
+310,Dominican Republic,1995,8,Number of infant deaths,Thousands,0-1,All,NOIDIT311,0,1,214,No
+311,Dominican Republic,1990,10,Number of infant deaths,Thousands,0-1,All,NOIDIT312,0,1,214,No
+312,Ecuador,2012,6,Number of infant deaths,Thousands,0-1,All,NOIDIT313,0,1,218,No
+313,Ecuador,2010,7,Number of infant deaths,Thousands,0-1,All,NOIDIT314,0,1,218,No
+314,Ecuador,2005,8,Number of infant deaths,Thousands,0-1,All,NOIDIT315,0,1,218,No
+315,Ecuador,2000,9,Number of infant deaths,Thousands,0-1,All,NOIDIT316,0,1,218,No
+316,Ecuador,1995,10,Number of infant deaths,Thousands,0-1,All,NOIDIT317,0,1,218,No
+317,Ecuador,1990,13,Number of infant deaths,Thousands,0-1,All,NOIDIT318,0,1,218,No
+318,Egypt,2012,35,Number of infant deaths,Thousands,0-1,All,NOIDIT319,0,1,818,No
+319,Egypt,2010,38,Number of infant deaths,Thousands,0-1,All,NOIDIT320,0,1,818,No
+320,Egypt,2005,43,Number of infant deaths,Thousands,0-1,All,NOIDIT321,0,1,818,No
+321,Egypt,2000,62,Number of infant deaths,Thousands,0-1,All,NOIDIT322,0,1,818,No
+322,Egypt,1995,73,Number of infant deaths,Thousands,0-1,All,NOIDIT323,0,1,818,No
+323,Egypt,1990,114,Number of infant deaths,Thousands,0-1,All,NOIDIT324,0,1,818,No
+324,El Salvador,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT325,0,1,222,No
+325,El Salvador,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT326,0,1,222,No
+326,El Salvador,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT327,0,1,222,No
+327,El Salvador,2000,4,Number of infant deaths,Thousands,0-1,All,NOIDIT328,0,1,222,No
+328,El Salvador,1995,6,Number of infant deaths,Thousands,0-1,All,NOIDIT329,0,1,222,No
+329,El Salvador,1990,8,Number of infant deaths,Thousands,0-1,All,NOIDIT330,0,1,222,No
+330,Equatorial Guinea,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT331,0,1,226,No
+331,Equatorial Guinea,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT332,0,1,226,No
+332,Equatorial Guinea,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT333,0,1,226,No
+333,Equatorial Guinea,2000,2,Number of infant deaths,Thousands,0-1,All,NOIDIT334,0,1,226,No
+334,Equatorial Guinea,1995,2,Number of infant deaths,Thousands,0-1,All,NOIDIT335,0,1,226,No
+335,Equatorial Guinea,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT336,0,1,226,No
+336,Eritrea,2012,8,Number of infant deaths,Thousands,0-1,All,NOIDIT337,0,1,232,No
+337,Eritrea,2010,8,Number of infant deaths,Thousands,0-1,All,NOIDIT338,0,1,232,No
+338,Eritrea,2005,9,Number of infant deaths,Thousands,0-1,All,NOIDIT339,0,1,232,No
+339,Eritrea,2000,9,Number of infant deaths,Thousands,0-1,All,NOIDIT340,0,1,232,No
+340,Eritrea,1995,10,Number of infant deaths,Thousands,0-1,All,NOIDIT341,0,1,232,No
+341,Eritrea,1990,13,Number of infant deaths,Thousands,0-1,All,NOIDIT342,0,1,232,No
+342,Estonia,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT343,0,1,233,No
+343,Estonia,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT344,0,1,233,No
+344,Estonia,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT345,0,1,233,No
+345,Estonia,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT346,0,1,233,No
+346,Estonia,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT347,0,1,233,No
+347,Estonia,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT348,0,1,233,No
+348,Ethiopia,2012,140,Number of infant deaths,Thousands,0-1,All,NOIDIT349,0,1,231,No
+349,Ethiopia,2012,140,Number of infant deaths,Thousands,0-1,All,NOIDIT349,0,1,230,No
+350,Ethiopia,2010,150,Number of infant deaths,Thousands,0-1,All,NOIDIT350,0,1,231,No
+351,Ethiopia,2010,150,Number of infant deaths,Thousands,0-1,All,NOIDIT350,0,1,230,No
+352,Ethiopia,2005,201,Number of infant deaths,Thousands,0-1,All,NOIDIT351,0,1,231,No
+353,Ethiopia,2005,201,Number of infant deaths,Thousands,0-1,All,NOIDIT351,0,1,230,No
+354,Ethiopia,2000,259,Number of infant deaths,Thousands,0-1,All,NOIDIT352,0,1,231,No
+355,Ethiopia,2000,259,Number of infant deaths,Thousands,0-1,All,NOIDIT352,0,1,230,No
+356,Ethiopia,1995,265,Number of infant deaths,Thousands,0-1,All,NOIDIT353,0,1,231,No
+357,Ethiopia,1995,265,Number of infant deaths,Thousands,0-1,All,NOIDIT353,0,1,230,No
+358,Ethiopia,1990,267,Number of infant deaths,Thousands,0-1,All,NOIDIT354,0,1,231,No
+359,Ethiopia,1990,267,Number of infant deaths,Thousands,0-1,All,NOIDIT354,0,1,230,No
+360,Fiji,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT355,0,1,242,No
+361,Fiji,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT356,0,1,242,No
+362,Fiji,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT357,0,1,242,No
+363,Fiji,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT358,0,1,242,No
+364,Fiji,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT359,0,1,242,No
+365,Fiji,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT360,0,1,242,No
+366,Finland,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT361,0,1,246,No
+367,Finland,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT362,0,1,246,No
+368,Finland,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT363,0,1,246,No
+369,Finland,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT364,0,1,246,No
+370,Finland,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT365,0,1,246,No
+371,Finland,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT366,0,1,246,No
+372,France,2012,3,Number of infant deaths,Thousands,0-1,All,NOIDIT367,0,1,250,No
+373,France,2010,3,Number of infant deaths,Thousands,0-1,All,NOIDIT368,0,1,250,No
+374,France,2005,3,Number of infant deaths,Thousands,0-1,All,NOIDIT369,0,1,250,No
+375,France,2000,3,Number of infant deaths,Thousands,0-1,All,NOIDIT370,0,1,250,No
+376,France,1995,4,Number of infant deaths,Thousands,0-1,All,NOIDIT371,0,1,250,No
+377,France,1990,5,Number of infant deaths,Thousands,0-1,All,NOIDIT372,0,1,250,No
+378,Gabon,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT373,0,1,266,No
+379,Gabon,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT374,0,1,266,No
+380,Gabon,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT375,0,1,266,No
+381,Gabon,2000,2,Number of infant deaths,Thousands,0-1,All,NOIDIT376,0,1,266,No
+382,Gabon,1995,2,Number of infant deaths,Thousands,0-1,All,NOIDIT377,0,1,266,No
+383,Gabon,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT378,0,1,266,No
+384,Gambia,2012,4,Number of infant deaths,Thousands,0-1,All,NOIDIT379,0,1,270,No
+385,Gambia,2010,4,Number of infant deaths,Thousands,0-1,All,NOIDIT380,0,1,270,No
+386,Gambia,2005,3,Number of infant deaths,Thousands,0-1,All,NOIDIT381,0,1,270,No
+387,Gambia,2000,3,Number of infant deaths,Thousands,0-1,All,NOIDIT382,0,1,270,No
+388,Gambia,1995,3,Number of infant deaths,Thousands,0-1,All,NOIDIT383,0,1,270,No
+389,Gambia,1990,3,Number of infant deaths,Thousands,0-1,All,NOIDIT384,0,1,270,No
+390,Georgia,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT385,0,1,268,No
+391,Georgia,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT386,0,1,268,No
+392,Georgia,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT387,0,1,268,No
+393,Georgia,2000,2,Number of infant deaths,Thousands,0-1,All,NOIDIT388,0,1,268,No
+394,Georgia,1995,3,Number of infant deaths,Thousands,0-1,All,NOIDIT389,0,1,268,No
+395,Georgia,1990,3,Number of infant deaths,Thousands,0-1,All,NOIDIT390,0,1,268,No
+396,Germany,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT391,0,1,276,No
+397,Germany,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT392,0,1,276,No
+398,Germany,2005,3,Number of infant deaths,Thousands,0-1,All,NOIDIT393,0,1,276,No
+399,Germany,2000,4,Number of infant deaths,Thousands,0-1,All,NOIDIT394,0,1,276,No
+400,Germany,1995,4,Number of infant deaths,Thousands,0-1,All,NOIDIT395,0,1,276,No
+401,Germany,1990,6,Number of infant deaths,Thousands,0-1,All,NOIDIT396,0,1,276,No
+402,Ghana,2012,38,Number of infant deaths,Thousands,0-1,All,NOIDIT397,0,1,288,No
+403,Ghana,2010,39,Number of infant deaths,Thousands,0-1,All,NOIDIT398,0,1,288,No
+404,Ghana,2005,42,Number of infant deaths,Thousands,0-1,All,NOIDIT399,0,1,288,No
+405,Ghana,2000,41,Number of infant deaths,Thousands,0-1,All,NOIDIT400,0,1,288,No
+406,Ghana,1995,43,Number of infant deaths,Thousands,0-1,All,NOIDIT401,0,1,288,No
+407,Ghana,1990,44,Number of infant deaths,Thousands,0-1,All,NOIDIT402,0,1,288,No
+408,Greece,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT403,0,1,300,No
+409,Greece,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT404,0,1,300,No
+410,Greece,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT405,0,1,300,No
+411,Greece,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT406,0,1,300,No
+412,Greece,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT407,0,1,300,No
+413,Greece,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT408,0,1,300,No
+414,Grenada,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT409,0,1,308,No
+415,Grenada,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT410,0,1,308,No
+416,Grenada,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT411,0,1,308,No
+417,Grenada,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT412,0,1,308,No
+418,Grenada,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT413,0,1,308,No
+419,Grenada,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT414,0,1,308,No
+420,Guatemala,2012,12,Number of infant deaths,Thousands,0-1,All,NOIDIT415,0,1,320,No
+421,Guatemala,2010,13,Number of infant deaths,Thousands,0-1,All,NOIDIT416,0,1,320,No
+422,Guatemala,2005,15,Number of infant deaths,Thousands,0-1,All,NOIDIT417,0,1,320,No
+423,Guatemala,2000,16,Number of infant deaths,Thousands,0-1,All,NOIDIT418,0,1,320,No
+424,Guatemala,1995,19,Number of infant deaths,Thousands,0-1,All,NOIDIT419,0,1,320,No
+425,Guatemala,1990,20,Number of infant deaths,Thousands,0-1,All,NOIDIT420,0,1,320,No
+426,Guinea,2012,27,Number of infant deaths,Thousands,0-1,All,NOIDIT421,0,1,324,No
+427,Guinea,2010,28,Number of infant deaths,Thousands,0-1,All,NOIDIT422,0,1,324,No
+428,Guinea,2005,31,Number of infant deaths,Thousands,0-1,All,NOIDIT423,0,1,324,No
+429,Guinea,2000,36,Number of infant deaths,Thousands,0-1,All,NOIDIT424,0,1,324,No
+430,Guinea,1995,41,Number of infant deaths,Thousands,0-1,All,NOIDIT425,0,1,324,No
+431,Guinea,1990,38,Number of infant deaths,Thousands,0-1,All,NOIDIT426,0,1,324,No
+432,Guinea-Bissau,2012,5,Number of infant deaths,Thousands,0-1,All,NOIDIT427,0,1,624,No
+433,Guinea-Bissau,2010,5,Number of infant deaths,Thousands,0-1,All,NOIDIT428,0,1,624,No
+434,Guinea-Bissau,2005,5,Number of infant deaths,Thousands,0-1,All,NOIDIT429,0,1,624,No
+435,Guinea-Bissau,2000,5,Number of infant deaths,Thousands,0-1,All,NOIDIT430,0,1,624,No
+436,Guinea-Bissau,1995,6,Number of infant deaths,Thousands,0-1,All,NOIDIT431,0,1,624,No
+437,Guinea-Bissau,1990,5,Number of infant deaths,Thousands,0-1,All,NOIDIT432,0,1,624,No
+438,Guyana,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT433,0,1,328,No
+439,Guyana,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT434,0,1,328,No
+440,Guyana,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT435,0,1,328,No
+441,Guyana,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT436,0,1,328,No
+442,Guyana,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT437,0,1,328,No
+443,Guyana,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT438,0,1,328,No
+444,Haiti,2012,15,Number of infant deaths,Thousands,0-1,All,NOIDIT439,0,1,332,No
+445,Haiti,2010,20,Number of infant deaths,Thousands,0-1,All,NOIDIT440,0,1,332,No
+446,Haiti,2005,17,Number of infant deaths,Thousands,0-1,All,NOIDIT441,0,1,332,No
+447,Haiti,2000,20,Number of infant deaths,Thousands,0-1,All,NOIDIT442,0,1,332,No
+448,Haiti,1995,23,Number of infant deaths,Thousands,0-1,All,NOIDIT443,0,1,332,No
+449,Haiti,1990,25,Number of infant deaths,Thousands,0-1,All,NOIDIT444,0,1,332,No
+450,Honduras,2012,4,Number of infant deaths,Thousands,0-1,All,NOIDIT445,0,1,340,No
+451,Honduras,2010,4,Number of infant deaths,Thousands,0-1,All,NOIDIT446,0,1,340,No
+452,Honduras,2005,5,Number of infant deaths,Thousands,0-1,All,NOIDIT447,0,1,340,No
+453,Honduras,2000,6,Number of infant deaths,Thousands,0-1,All,NOIDIT448,0,1,340,No
+454,Honduras,1995,7,Number of infant deaths,Thousands,0-1,All,NOIDIT449,0,1,340,No
+455,Honduras,1990,8,Number of infant deaths,Thousands,0-1,All,NOIDIT450,0,1,340,No
+456,Hungary,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT451,0,1,348,No
+457,Hungary,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT452,0,1,348,No
+458,Hungary,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT453,0,1,348,No
+459,Hungary,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT454,0,1,348,No
+460,Hungary,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT455,0,1,348,No
+461,Hungary,1990,3,Number of infant deaths,Thousands,0-1,All,NOIDIT456,0,1,348,No
+462,Iceland,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT457,0,1,352,No
+463,Iceland,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT458,0,1,352,No
+464,Iceland,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT459,0,1,352,No
+465,Iceland,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT460,0,1,352,No
+466,Iceland,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT461,0,1,352,No
+467,Iceland,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT462,0,1,352,No
+468,India,2012,1097,Number of infant deaths,Thousands,0-1,All,NOIDIT463,0,1,356,No
+469,India,2010,1158,Number of infant deaths,Thousands,0-1,All,NOIDIT464,0,1,356,No
+470,India,2005,1480,Number of infant deaths,Thousands,0-1,All,NOIDIT465,0,1,356,No
+471,India,2000,1751,Number of infant deaths,Thousands,0-1,All,NOIDIT466,0,1,356,No
+472,India,1995,2018,Number of infant deaths,Thousands,0-1,All,NOIDIT467,0,1,356,No
+473,India,1990,2333,Number of infant deaths,Thousands,0-1,All,NOIDIT468,0,1,356,No
+474,Indonesia,2012,125,Number of infant deaths,Thousands,0-1,All,NOIDIT469,0,1,360,No
+475,Indonesia,2010,145,Number of infant deaths,Thousands,0-1,All,NOIDIT470,0,1,360,No
+476,Indonesia,2005,159,Number of infant deaths,Thousands,0-1,All,NOIDIT471,0,1,360,No
+477,Indonesia,2000,178,Number of infant deaths,Thousands,0-1,All,NOIDIT472,0,1,360,No
+478,Indonesia,1995,232,Number of infant deaths,Thousands,0-1,All,NOIDIT473,0,1,360,No
+479,Indonesia,1990,279,Number of infant deaths,Thousands,0-1,All,NOIDIT474,0,1,360,No
+480,Iran (Islamic Republic of),2012,23,Number of infant deaths,Thousands,0-1,All,NOIDIT475,0,1,364,No
+481,Iran (Islamic Republic of),2010,25,Number of infant deaths,Thousands,0-1,All,NOIDIT476,0,1,364,No
+482,Iran (Islamic Republic of),2005,27,Number of infant deaths,Thousands,0-1,All,NOIDIT477,0,1,364,No
+483,Iran (Islamic Republic of),2000,36,Number of infant deaths,Thousands,0-1,All,NOIDIT478,0,1,364,No
+484,Iran (Islamic Republic of),1995,49,Number of infant deaths,Thousands,0-1,All,NOIDIT479,0,1,364,No
+485,Iran (Islamic Republic of),1990,82,Number of infant deaths,Thousands,0-1,All,NOIDIT480,0,1,364,No
+486,Iraq,2012,29,Number of infant deaths,Thousands,0-1,All,NOIDIT481,0,1,368,No
+487,Iraq,2010,29,Number of infant deaths,Thousands,0-1,All,NOIDIT482,0,1,368,No
+488,Iraq,2005,30,Number of infant deaths,Thousands,0-1,All,NOIDIT483,0,1,368,No
+489,Iraq,2000,30,Number of infant deaths,Thousands,0-1,All,NOIDIT484,0,1,368,No
+490,Iraq,1995,28,Number of infant deaths,Thousands,0-1,All,NOIDIT485,0,1,368,No
+491,Iraq,1990,28,Number of infant deaths,Thousands,0-1,All,NOIDIT486,0,1,368,No
+492,Ireland,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT487,0,1,372,No
+493,Ireland,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT488,0,1,372,No
+494,Ireland,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT489,0,1,372,No
+495,Ireland,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT490,0,1,372,No
+496,Ireland,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT491,0,1,372,No
+497,Ireland,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT492,0,1,372,No
+498,Israel,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT493,0,1,376,No
+499,Israel,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT494,0,1,376,No
+500,Israel,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT495,0,1,376,No
+501,Israel,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT496,0,1,376,No
+502,Israel,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT497,0,1,376,No
+503,Israel,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT498,0,1,376,No
+504,Italy,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT499,0,1,380,No
+505,Italy,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT500,0,1,380,No
+506,Italy,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT501,0,1,380,No
+507,Italy,2000,2,Number of infant deaths,Thousands,0-1,All,NOIDIT502,0,1,380,No
+508,Italy,1995,4,Number of infant deaths,Thousands,0-1,All,NOIDIT503,0,1,380,No
+509,Italy,1990,5,Number of infant deaths,Thousands,0-1,All,NOIDIT504,0,1,380,No
+510,Jamaica,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT505,0,1,388,No
+511,Jamaica,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT506,0,1,388,No
+512,Jamaica,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT507,0,1,388,No
+513,Jamaica,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT508,0,1,388,No
+514,Jamaica,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT509,0,1,388,No
+515,Jamaica,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT510,0,1,388,No
+516,Japan,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT511,0,1,392,No
+517,Japan,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT511,0,1,392,No
+518,Japan,2010,3,Number of infant deaths,Thousands,0-1,All,NOIDIT512,0,1,392,No
+519,Japan,2010,3,Number of infant deaths,Thousands,0-1,All,NOIDIT512,0,1,392,No
+520,Japan,2005,3,Number of infant deaths,Thousands,0-1,All,NOIDIT513,0,1,392,No
+521,Japan,2005,3,Number of infant deaths,Thousands,0-1,All,NOIDIT513,0,1,392,No
+522,Japan,2000,4,Number of infant deaths,Thousands,0-1,All,NOIDIT514,0,1,392,No
+523,Japan,2000,4,Number of infant deaths,Thousands,0-1,All,NOIDIT514,0,1,392,No
+524,Japan,1995,5,Number of infant deaths,Thousands,0-1,All,NOIDIT515,0,1,392,No
+525,Japan,1995,5,Number of infant deaths,Thousands,0-1,All,NOIDIT515,0,1,392,No
+526,Japan,1990,5,Number of infant deaths,Thousands,0-1,All,NOIDIT516,0,1,392,No
+527,Japan,1990,5,Number of infant deaths,Thousands,0-1,All,NOIDIT516,0,1,392,No
+528,Jordan,2012,3,Number of infant deaths,Thousands,0-1,All,NOIDIT517,0,1,400,No
+529,Jordan,2010,3,Number of infant deaths,Thousands,0-1,All,NOIDIT518,0,1,400,No
+530,Jordan,2005,3,Number of infant deaths,Thousands,0-1,All,NOIDIT519,0,1,400,No
+531,Jordan,2000,3,Number of infant deaths,Thousands,0-1,All,NOIDIT520,0,1,400,No
+532,Jordan,1995,4,Number of infant deaths,Thousands,0-1,All,NOIDIT521,0,1,400,No
+533,Jordan,1990,3,Number of infant deaths,Thousands,0-1,All,NOIDIT522,0,1,400,No
+534,Kazakhstan,2012,6,Number of infant deaths,Thousands,0-1,All,NOIDIT523,0,1,398,No
+535,Kazakhstan,2010,7,Number of infant deaths,Thousands,0-1,All,NOIDIT524,0,1,398,No
+536,Kazakhstan,2005,8,Number of infant deaths,Thousands,0-1,All,NOIDIT525,0,1,398,No
+537,Kazakhstan,2000,8,Number of infant deaths,Thousands,0-1,All,NOIDIT526,0,1,398,No
+538,Kazakhstan,1995,11,Number of infant deaths,Thousands,0-1,All,NOIDIT527,0,1,398,No
+539,Kazakhstan,1990,18,Number of infant deaths,Thousands,0-1,All,NOIDIT528,0,1,398,No
+540,Kenya,2012,72,Number of infant deaths,Thousands,0-1,All,NOIDIT529,0,1,404,No
+541,Kenya,2010,76,Number of infant deaths,Thousands,0-1,All,NOIDIT530,0,1,404,No
+542,Kenya,2005,83,Number of infant deaths,Thousands,0-1,All,NOIDIT531,0,1,404,No
+543,Kenya,2000,81,Number of infant deaths,Thousands,0-1,All,NOIDIT532,0,1,404,No
+544,Kenya,1995,69,Number of infant deaths,Thousands,0-1,All,NOIDIT533,0,1,404,No
+545,Kenya,1990,62,Number of infant deaths,Thousands,0-1,All,NOIDIT534,0,1,404,No
+546,Kiribati,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT535,0,1,296,No
+547,Kiribati,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT536,0,1,296,No
+548,Kiribati,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT537,0,1,296,No
+549,Kiribati,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT538,0,1,296,No
+550,Kiribati,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT539,0,1,296,No
+551,Kiribati,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT540,0,1,296,No
+552,Kuwait,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT541,0,1,414,No
+553,Kuwait,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT542,0,1,414,No
+554,Kuwait,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT543,0,1,414,No
+555,Kuwait,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT544,0,1,414,No
+556,Kuwait,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT545,0,1,414,No
+557,Kuwait,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT546,0,1,414,No
+558,Kyrgyzstan,2012,4,Number of infant deaths,Thousands,0-1,All,NOIDIT547,0,1,417,No
+559,Kyrgyzstan,2010,4,Number of infant deaths,Thousands,0-1,All,NOIDIT548,0,1,417,No
+560,Kyrgyzstan,2005,4,Number of infant deaths,Thousands,0-1,All,NOIDIT549,0,1,417,No
+561,Kyrgyzstan,2000,5,Number of infant deaths,Thousands,0-1,All,NOIDIT550,0,1,417,No
+562,Kyrgyzstan,1995,6,Number of infant deaths,Thousands,0-1,All,NOIDIT551,0,1,417,No
+563,Kyrgyzstan,1990,8,Number of infant deaths,Thousands,0-1,All,NOIDIT552,0,1,417,No
+564,Lao Peoples Democratic Republic,2012,10,Number of infant deaths,Thousands,0-1,All,NOIDIT553,0,1,418,No
+565,Lao Peoples Democratic Republic,2010,12,Number of infant deaths,Thousands,0-1,All,NOIDIT554,0,1,418,No
+566,Lao Peoples Democratic Republic,2005,11,Number of infant deaths,Thousands,0-1,All,NOIDIT555,0,1,418,No
+567,Lao Peoples Democratic Republic,2000,14,Number of infant deaths,Thousands,0-1,All,NOIDIT556,0,1,418,No
+568,Lao Peoples Democratic Republic,1995,19,Number of infant deaths,Thousands,0-1,All,NOIDIT557,0,1,418,No
+569,Lao Peoples Democratic Republic,1990,20,Number of infant deaths,Thousands,0-1,All,NOIDIT558,0,1,418,No
+570,Latvia,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT559,0,1,428,No
+571,Latvia,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT560,0,1,428,No
+572,Latvia,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT561,0,1,428,No
+573,Latvia,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT562,0,1,428,No
+574,Latvia,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT563,0,1,428,No
+575,Latvia,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT564,0,1,428,No
+576,Lebanon,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT565,0,1,422,No
+577,Lebanon,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT566,0,1,422,No
+578,Lebanon,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT567,0,1,422,No
+579,Lebanon,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT568,0,1,422,No
+580,Lebanon,1995,2,Number of infant deaths,Thousands,0-1,All,NOIDIT569,0,1,422,No
+581,Lebanon,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT570,0,1,422,No
+582,Lesotho,2012,4,Number of infant deaths,Thousands,0-1,All,NOIDIT571,0,1,426,No
+583,Lesotho,2010,4,Number of infant deaths,Thousands,0-1,All,NOIDIT572,0,1,426,No
+584,Lesotho,2005,4,Number of infant deaths,Thousands,0-1,All,NOIDIT573,0,1,426,No
+585,Lesotho,2000,5,Number of infant deaths,Thousands,0-1,All,NOIDIT574,0,1,426,No
+586,Lesotho,1995,4,Number of infant deaths,Thousands,0-1,All,NOIDIT575,0,1,426,No
+587,Lesotho,1990,4,Number of infant deaths,Thousands,0-1,All,NOIDIT576,0,1,426,No
+588,Liberia,2012,8,Number of infant deaths,Thousands,0-1,All,NOIDIT577,0,1,430,No
+589,Liberia,2010,9,Number of infant deaths,Thousands,0-1,All,NOIDIT578,0,1,430,No
+590,Liberia,2005,11,Number of infant deaths,Thousands,0-1,All,NOIDIT579,0,1,430,No
+591,Liberia,2000,15,Number of infant deaths,Thousands,0-1,All,NOIDIT580,0,1,430,No
+592,Liberia,1995,13,Number of infant deaths,Thousands,0-1,All,NOIDIT581,0,1,430,No
+593,Liberia,1990,15,Number of infant deaths,Thousands,0-1,All,NOIDIT582,0,1,430,No
+594,Libya,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT583,0,1,434,No
+595,Libya,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT584,0,1,434,No
+596,Libya,2005,3,Number of infant deaths,Thousands,0-1,All,NOIDIT585,0,1,434,No
+597,Libya,2000,3,Number of infant deaths,Thousands,0-1,All,NOIDIT586,0,1,434,No
+598,Libya,1995,3,Number of infant deaths,Thousands,0-1,All,NOIDIT587,0,1,434,No
+599,Libya,1990,4,Number of infant deaths,Thousands,0-1,All,NOIDIT588,0,1,434,No
+600,Lithuania,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT589,0,1,440,No
+601,Lithuania,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT590,0,1,440,No
+602,Lithuania,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT591,0,1,440,No
+603,Lithuania,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT592,0,1,440,No
+604,Lithuania,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT593,0,1,440,No
+605,Lithuania,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT594,0,1,440,No
+606,Luxembourg,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT595,0,1,442,No
+607,Luxembourg,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT596,0,1,442,No
+608,Luxembourg,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT597,0,1,442,No
+609,Luxembourg,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT598,0,1,442,No
+610,Luxembourg,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT599,0,1,442,No
+611,Luxembourg,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT600,0,1,442,No
+612,Madagascar,2012,31,Number of infant deaths,Thousands,0-1,All,NOIDIT601,0,1,450,No
+613,Madagascar,2010,32,Number of infant deaths,Thousands,0-1,All,NOIDIT602,0,1,450,No
+614,Madagascar,2005,36,Number of infant deaths,Thousands,0-1,All,NOIDIT603,0,1,450,No
+615,Madagascar,2000,45,Number of infant deaths,Thousands,0-1,All,NOIDIT604,0,1,450,No
+616,Madagascar,1995,47,Number of infant deaths,Thousands,0-1,All,NOIDIT605,0,1,450,No
+617,Madagascar,1990,52,Number of infant deaths,Thousands,0-1,All,NOIDIT606,0,1,450,No
+618,Malawi,2012,28,Number of infant deaths,Thousands,0-1,All,NOIDIT607,0,1,454,No
+619,Malawi,2010,33,Number of infant deaths,Thousands,0-1,All,NOIDIT608,0,1,454,No
+620,Malawi,2005,38,Number of infant deaths,Thousands,0-1,All,NOIDIT609,0,1,454,No
+621,Malawi,2000,48,Number of infant deaths,Thousands,0-1,All,NOIDIT610,0,1,454,No
+622,Malawi,1995,55,Number of infant deaths,Thousands,0-1,All,NOIDIT611,0,1,454,No
+623,Malawi,1990,60,Number of infant deaths,Thousands,0-1,All,NOIDIT612,0,1,454,No
+624,Malaysia,2012,4,Number of infant deaths,Thousands,0-1,All,NOIDIT613,0,1,458,No
+625,Malaysia,2010,3,Number of infant deaths,Thousands,0-1,All,NOIDIT614,0,1,458,No
+626,Malaysia,2005,4,Number of infant deaths,Thousands,0-1,All,NOIDIT615,0,1,458,No
+627,Malaysia,2000,5,Number of infant deaths,Thousands,0-1,All,NOIDIT616,0,1,458,No
+628,Malaysia,1995,6,Number of infant deaths,Thousands,0-1,All,NOIDIT617,0,1,458,No
+629,Malaysia,1990,7,Number of infant deaths,Thousands,0-1,All,NOIDIT618,0,1,458,No
+630,Maldives,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT619,0,1,462,No
+631,Maldives,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT620,0,1,462,No
+632,Maldives,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT621,0,1,462,No
+633,Maldives,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT622,0,1,462,No
+634,Maldives,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT623,0,1,462,No
+635,Maldives,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT624,0,1,462,No
+636,Mali,2012,53,Number of infant deaths,Thousands,0-1,All,NOIDIT625,0,1,466,No
+637,Mali,2010,52,Number of infant deaths,Thousands,0-1,All,NOIDIT626,0,1,466,No
+638,Mali,2005,53,Number of infant deaths,Thousands,0-1,All,NOIDIT627,0,1,466,No
+639,Mali,2000,55,Number of infant deaths,Thousands,0-1,All,NOIDIT628,0,1,466,No
+640,Mali,1995,50,Number of infant deaths,Thousands,0-1,All,NOIDIT629,0,1,466,No
+641,Mali,1990,46,Number of infant deaths,Thousands,0-1,All,NOIDIT630,0,1,466,No
+642,Malta,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT631,0,1,470,No
+643,Malta,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT632,0,1,470,No
+644,Malta,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT633,0,1,470,No
+645,Malta,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT634,0,1,470,No
+646,Malta,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT635,0,1,470,No
+647,Malta,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT636,0,1,470,No
+648,Marshall Islands,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT637,0,1,584,No
+649,Marshall Islands,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT638,0,1,584,No
+650,Marshall Islands,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT639,0,1,584,No
+651,Marshall Islands,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT640,0,1,584,No
+652,Marshall Islands,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT641,0,1,584,No
+653,Marshall Islands,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT642,0,1,584,No
+654,Mauritania,2012,8,Number of infant deaths,Thousands,0-1,All,NOIDIT643,0,1,478,No
+655,Mauritania,2010,8,Number of infant deaths,Thousands,0-1,All,NOIDIT644,0,1,478,No
+656,Mauritania,2005,8,Number of infant deaths,Thousands,0-1,All,NOIDIT645,0,1,478,No
+657,Mauritania,2000,7,Number of infant deaths,Thousands,0-1,All,NOIDIT646,0,1,478,No
+658,Mauritania,1995,7,Number of infant deaths,Thousands,0-1,All,NOIDIT647,0,1,478,No
+659,Mauritania,1990,7,Number of infant deaths,Thousands,0-1,All,NOIDIT648,0,1,478,No
+660,Mauritius,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT649,0,1,480,No
+661,Mauritius,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT650,0,1,480,No
+662,Mauritius,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT651,0,1,480,No
+663,Mauritius,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT652,0,1,480,No
+664,Mauritius,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT653,0,1,480,No
+665,Mauritius,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT654,0,1,480,No
+666,Mexico,2012,32,Number of infant deaths,Thousands,0-1,All,NOIDIT655,0,1,484,No
+667,Mexico,2010,34,Number of infant deaths,Thousands,0-1,All,NOIDIT656,0,1,484,No
+668,Mexico,2005,40,Number of infant deaths,Thousands,0-1,All,NOIDIT657,0,1,484,No
+669,Mexico,2000,54,Number of infant deaths,Thousands,0-1,All,NOIDIT658,0,1,484,No
+670,Mexico,1995,73,Number of infant deaths,Thousands,0-1,All,NOIDIT659,0,1,484,No
+671,Mexico,1990,89,Number of infant deaths,Thousands,0-1,All,NOIDIT660,0,1,484,No
+672,Micronesia (Federated States of),2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT661,0,1,583,No
+673,Micronesia (Federated States of),2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT662,0,1,583,No
+674,Micronesia (Federated States of),2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT663,0,1,583,No
+675,Micronesia (Federated States of),2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT664,0,1,583,No
+676,Micronesia (Federated States of),1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT665,0,1,583,No
+677,Micronesia (Federated States of),1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT666,0,1,583,No
+678,Monaco,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT667,0,1,492,No
+679,Monaco,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT668,0,1,492,No
+680,Monaco,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT669,0,1,492,No
+681,Monaco,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT670,0,1,492,No
+682,Monaco,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT671,0,1,492,No
+683,Monaco,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT672,0,1,492,No
+684,Mongolia,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT673,0,1,496,No
+685,Mongolia,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT674,0,1,496,No
+686,Mongolia,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT675,0,1,496,No
+687,Mongolia,2000,2,Number of infant deaths,Thousands,0-1,All,NOIDIT676,0,1,496,No
+688,Mongolia,1995,3,Number of infant deaths,Thousands,0-1,All,NOIDIT677,0,1,496,No
+689,Mongolia,1990,6,Number of infant deaths,Thousands,0-1,All,NOIDIT678,0,1,496,No
+690,Montenegro,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT679,0,1,499,No
+691,Montenegro,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT680,0,1,499,No
+692,Montenegro,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT681,0,1,499,No
+693,Montenegro,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT682,0,1,499,No
+694,Montenegro,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT683,0,1,499,No
+695,Montenegro,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT684,0,1,499,No
+696,Morocco,2012,20,Number of infant deaths,Thousands,0-1,All,NOIDIT685,0,1,504,No
+697,Morocco,2010,18,Number of infant deaths,Thousands,0-1,All,NOIDIT686,0,1,504,No
+698,Morocco,2005,21,Number of infant deaths,Thousands,0-1,All,NOIDIT687,0,1,504,No
+699,Morocco,2000,26,Number of infant deaths,Thousands,0-1,All,NOIDIT688,0,1,504,No
+700,Morocco,1995,37,Number of infant deaths,Thousands,0-1,All,NOIDIT689,0,1,504,No
+701,Morocco,1990,44,Number of infant deaths,Thousands,0-1,All,NOIDIT690,0,1,504,No
+702,Mozambique,2012,59,Number of infant deaths,Thousands,0-1,All,NOIDIT691,0,1,508,No
+703,Mozambique,2010,65,Number of infant deaths,Thousands,0-1,All,NOIDIT692,0,1,508,No
+704,Mozambique,2005,83,Number of infant deaths,Thousands,0-1,All,NOIDIT693,0,1,508,No
+705,Mozambique,2000,85,Number of infant deaths,Thousands,0-1,All,NOIDIT694,0,1,508,No
+706,Mozambique,1995,95,Number of infant deaths,Thousands,0-1,All,NOIDIT695,0,1,508,No
+707,Mozambique,1990,87,Number of infant deaths,Thousands,0-1,All,NOIDIT696,0,1,508,No
+708,Myanmar,2012,38,Number of infant deaths,Thousands,0-1,All,NOIDIT697,0,1,104,No
+709,Myanmar,2010,41,Number of infant deaths,Thousands,0-1,All,NOIDIT698,0,1,104,No
+710,Myanmar,2005,46,Number of infant deaths,Thousands,0-1,All,NOIDIT699,0,1,104,No
+711,Myanmar,2000,60,Number of infant deaths,Thousands,0-1,All,NOIDIT700,0,1,104,No
+712,Myanmar,1995,71,Number of infant deaths,Thousands,0-1,All,NOIDIT701,0,1,104,No
+713,Myanmar,1990,81,Number of infant deaths,Thousands,0-1,All,NOIDIT702,0,1,104,No
+714,Namibia,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT703,0,1,516,No
+715,Namibia,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT704,0,1,516,No
+716,Namibia,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT705,0,1,516,No
+717,Namibia,2000,3,Number of infant deaths,Thousands,0-1,All,NOIDIT706,0,1,516,No
+718,Namibia,1995,3,Number of infant deaths,Thousands,0-1,All,NOIDIT707,0,1,516,No
+719,Namibia,1990,3,Number of infant deaths,Thousands,0-1,All,NOIDIT708,0,1,516,No
+720,Nauru,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT709,0,1,520,No
+721,Nauru,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT710,0,1,520,No
+722,Nauru,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT711,0,1,520,No
+723,Nauru,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT712,0,1,520,No
+724,Nauru,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT713,0,1,520,No
+725,Nauru,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT714,0,1,520,No
+726,Nepal,2012,19,Number of infant deaths,Thousands,0-1,All,NOIDIT715,0,1,524,No
+727,Nepal,2010,22,Number of infant deaths,Thousands,0-1,All,NOIDIT716,0,1,524,No
+728,Nepal,2005,33,Number of infant deaths,Thousands,0-1,All,NOIDIT717,0,1,524,No
+729,Nepal,2000,47,Number of infant deaths,Thousands,0-1,All,NOIDIT718,0,1,524,No
+730,Nepal,1995,54,Number of infant deaths,Thousands,0-1,All,NOIDIT719,0,1,524,No
+731,Nepal,1990,66,Number of infant deaths,Thousands,0-1,All,NOIDIT720,0,1,524,No
+732,Netherlands,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT721,0,1,528,No
+733,Netherlands,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT722,0,1,528,No
+734,Netherlands,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT723,0,1,528,No
+735,Netherlands,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT724,0,1,528,No
+736,Netherlands,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT725,0,1,528,No
+737,Netherlands,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT726,0,1,528,No
+738,New Zealand,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT727,0,1,554,No
+739,New Zealand,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT727,0,1,554,No
+740,New Zealand,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT728,0,1,554,No
+741,New Zealand,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT728,0,1,554,No
+742,New Zealand,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT729,0,1,554,No
+743,New Zealand,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT729,0,1,554,No
+744,New Zealand,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT730,0,1,554,No
+745,New Zealand,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT730,0,1,554,No
+746,New Zealand,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT731,0,1,554,No
+747,New Zealand,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT731,0,1,554,No
+748,New Zealand,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT732,0,1,554,No
+749,New Zealand,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT732,0,1,554,No
+750,Nicaragua,2012,3,Number of infant deaths,Thousands,0-1,All,NOIDIT733,0,1,558,No
+751,Nicaragua,2010,3,Number of infant deaths,Thousands,0-1,All,NOIDIT734,0,1,558,No
+752,Nicaragua,2005,4,Number of infant deaths,Thousands,0-1,All,NOIDIT735,0,1,558,No
+753,Nicaragua,2000,4,Number of infant deaths,Thousands,0-1,All,NOIDIT736,0,1,558,No
+754,Nicaragua,1995,7,Number of infant deaths,Thousands,0-1,All,NOIDIT737,0,1,558,No
+755,Nicaragua,1990,7,Number of infant deaths,Thousands,0-1,All,NOIDIT738,0,1,558,No
+756,Niger,2012,52,Number of infant deaths,Thousands,0-1,All,NOIDIT739,0,1,562,No
+757,Niger,2010,51,Number of infant deaths,Thousands,0-1,All,NOIDIT740,0,1,562,No
+758,Niger,2005,53,Number of infant deaths,Thousands,0-1,All,NOIDIT741,0,1,562,No
+759,Niger,2000,57,Number of infant deaths,Thousands,0-1,All,NOIDIT742,0,1,562,No
+760,Niger,1995,56,Number of infant deaths,Thousands,0-1,All,NOIDIT743,0,1,562,No
+761,Niger,1990,54,Number of infant deaths,Thousands,0-1,All,NOIDIT744,0,1,562,No
+762,Nigeria,2012,528,Number of infant deaths,Thousands,0-1,All,NOIDIT745,0,1,566,No
+763,Nigeria,2010,531,Number of infant deaths,Thousands,0-1,All,NOIDIT746,0,1,566,No
+764,Nigeria,2005,551,Number of infant deaths,Thousands,0-1,All,NOIDIT747,0,1,566,No
+765,Nigeria,2000,567,Number of infant deaths,Thousands,0-1,All,NOIDIT748,0,1,566,No
+766,Nigeria,1995,551,Number of infant deaths,Thousands,0-1,All,NOIDIT749,0,1,566,No
+767,Nigeria,1990,502,Number of infant deaths,Thousands,0-1,All,NOIDIT750,0,1,566,No
+768,Niue,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT751,0,1,570,No
+769,Niue,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT752,0,1,570,No
+770,Niue,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT753,0,1,570,No
+771,Niue,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT754,0,1,570,No
+772,Niue,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT755,0,1,570,No
+773,Niue,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT756,0,1,570,No
+774,Norway,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT757,0,1,578,No
+775,Norway,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT758,0,1,578,No
+776,Norway,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT759,0,1,578,No
+777,Norway,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT760,0,1,578,No
+778,Norway,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT761,0,1,578,No
+779,Norway,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT762,0,1,578,No
+780,Oman,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT763,0,1,512,No
+781,Oman,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT764,0,1,512,No
+782,Oman,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT765,0,1,512,No
+783,Oman,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT766,0,1,512,No
+784,Oman,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT767,0,1,512,No
+785,Oman,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT768,0,1,512,No
+786,Pakistan,2012,330,Number of infant deaths,Thousands,0-1,All,NOIDIT769,0,1,586,No
+787,Pakistan,2010,356,Number of infant deaths,Thousands,0-1,All,NOIDIT770,0,1,586,No
+788,Pakistan,2005,319,Number of infant deaths,Thousands,0-1,All,NOIDIT771,0,1,586,No
+789,Pakistan,2000,405,Number of infant deaths,Thousands,0-1,All,NOIDIT772,0,1,586,No
+790,Pakistan,1995,424,Number of infant deaths,Thousands,0-1,All,NOIDIT773,0,1,586,No
+791,Pakistan,1990,479,Number of infant deaths,Thousands,0-1,All,NOIDIT774,0,1,586,No
+792,Palau,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT775,0,1,585,No
+793,Palau,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT776,0,1,585,No
+794,Palau,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT777,0,1,585,No
+795,Palau,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT778,0,1,585,No
+796,Palau,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT779,0,1,585,No
+797,Palau,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT780,0,1,585,No
+798,Panama,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT781,0,1,591,No
+799,Panama,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT781,0,1,590,No
+800,Panama,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT782,0,1,591,No
+801,Panama,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT782,0,1,590,No
+802,Panama,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT783,0,1,591,No
+803,Panama,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT783,0,1,590,No
+804,Panama,2000,2,Number of infant deaths,Thousands,0-1,All,NOIDIT784,0,1,591,No
+805,Panama,2000,2,Number of infant deaths,Thousands,0-1,All,NOIDIT784,0,1,590,No
+806,Panama,1995,2,Number of infant deaths,Thousands,0-1,All,NOIDIT785,0,1,591,No
+807,Panama,1995,2,Number of infant deaths,Thousands,0-1,All,NOIDIT785,0,1,590,No
+808,Panama,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT786,0,1,591,No
+809,Panama,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT786,0,1,590,No
+810,Papua New Guinea,2012,10,Number of infant deaths,Thousands,0-1,All,NOIDIT787,0,1,598,No
+811,Papua New Guinea,2010,10,Number of infant deaths,Thousands,0-1,All,NOIDIT788,0,1,598,No
+812,Papua New Guinea,2005,11,Number of infant deaths,Thousands,0-1,All,NOIDIT789,0,1,598,No
+813,Papua New Guinea,2000,11,Number of infant deaths,Thousands,0-1,All,NOIDIT790,0,1,598,No
+814,Papua New Guinea,1995,10,Number of infant deaths,Thousands,0-1,All,NOIDIT791,0,1,598,No
+815,Papua New Guinea,1990,9,Number of infant deaths,Thousands,0-1,All,NOIDIT792,0,1,598,No
+816,Paraguay,2012,3,Number of infant deaths,Thousands,0-1,All,NOIDIT793,0,1,600,No
+817,Paraguay,2010,3,Number of infant deaths,Thousands,0-1,All,NOIDIT794,0,1,600,No
+818,Paraguay,2005,4,Number of infant deaths,Thousands,0-1,All,NOIDIT795,0,1,600,No
+819,Paraguay,2000,4,Number of infant deaths,Thousands,0-1,All,NOIDIT796,0,1,600,No
+820,Paraguay,1995,5,Number of infant deaths,Thousands,0-1,All,NOIDIT797,0,1,600,No
+821,Paraguay,1990,5,Number of infant deaths,Thousands,0-1,All,NOIDIT798,0,1,600,No
+822,Peru,2012,8,Number of infant deaths,Thousands,0-1,All,NOIDIT799,0,1,604,No
+823,Peru,2010,9,Number of infant deaths,Thousands,0-1,All,NOIDIT800,0,1,604,No
+824,Peru,2005,13,Number of infant deaths,Thousands,0-1,All,NOIDIT801,0,1,604,No
+825,Peru,2000,19,Number of infant deaths,Thousands,0-1,All,NOIDIT802,0,1,604,No
+826,Peru,1995,27,Number of infant deaths,Thousands,0-1,All,NOIDIT803,0,1,604,No
+827,Peru,1990,37,Number of infant deaths,Thousands,0-1,All,NOIDIT804,0,1,604,No
+828,Philippines,2012,54,Number of infant deaths,Thousands,0-1,All,NOIDIT805,0,1,608,No
+829,Philippines,2010,55,Number of infant deaths,Thousands,0-1,All,NOIDIT806,0,1,608,No
+830,Philippines,2005,67,Number of infant deaths,Thousands,0-1,All,NOIDIT807,0,1,608,No
+831,Philippines,2000,69,Number of infant deaths,Thousands,0-1,All,NOIDIT808,0,1,608,No
+832,Philippines,1995,71,Number of infant deaths,Thousands,0-1,All,NOIDIT809,0,1,608,No
+833,Philippines,1990,85,Number of infant deaths,Thousands,0-1,All,NOIDIT810,0,1,608,No
+834,Poland,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT811,0,1,616,No
+835,Poland,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT812,0,1,616,No
+836,Poland,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT813,0,1,616,No
+837,Poland,2000,3,Number of infant deaths,Thousands,0-1,All,NOIDIT814,0,1,616,No
+838,Poland,1995,6,Number of infant deaths,Thousands,0-1,All,NOIDIT815,0,1,616,No
+839,Poland,1990,8,Number of infant deaths,Thousands,0-1,All,NOIDIT816,0,1,616,No
+840,Portugal,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT817,0,1,620,No
+841,Portugal,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT818,0,1,620,No
+842,Portugal,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT819,0,1,620,No
+843,Portugal,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT820,0,1,620,No
+844,Portugal,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT821,0,1,620,No
+845,Portugal,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT822,0,1,620,No
+846,Qatar,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT823,0,1,634,No
+847,Qatar,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT824,0,1,634,No
+848,Qatar,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT825,0,1,634,No
+849,Qatar,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT826,0,1,634,No
+850,Qatar,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT827,0,1,634,No
+851,Qatar,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT828,0,1,634,No
+852,Republic of Korea,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT829,0,1,410,No
+853,Republic of Korea,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT830,0,1,410,No
+854,Republic of Korea,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT831,0,1,410,No
+855,Republic of Korea,2000,3,Number of infant deaths,Thousands,0-1,All,NOIDIT832,0,1,410,No
+856,Republic of Korea,1995,4,Number of infant deaths,Thousands,0-1,All,NOIDIT833,0,1,410,No
+857,Republic of Korea,1990,3,Number of infant deaths,Thousands,0-1,All,NOIDIT834,0,1,410,No
+858,Republic of Moldova,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT835,0,1,498,No
+859,Republic of Moldova,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT836,0,1,498,No
+860,Republic of Moldova,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT837,0,1,498,No
+861,Republic of Moldova,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT838,0,1,498,No
+862,Republic of Moldova,1995,2,Number of infant deaths,Thousands,0-1,All,NOIDIT839,0,1,498,No
+863,Republic of Moldova,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT840,0,1,498,No
+864,Romania,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT841,0,1,642,No
+865,Romania,2010,3,Number of infant deaths,Thousands,0-1,All,NOIDIT842,0,1,642,No
+866,Romania,2005,4,Number of infant deaths,Thousands,0-1,All,NOIDIT843,0,1,642,No
+867,Romania,2000,7,Number of infant deaths,Thousands,0-1,All,NOIDIT844,0,1,642,No
+868,Romania,1995,4,Number of infant deaths,Thousands,0-1,All,NOIDIT845,0,1,642,No
+869,Romania,1990,14,Number of infant deaths,Thousands,0-1,All,NOIDIT846,0,1,642,No
+870,Russian Federation,2012,15,Number of infant deaths,Thousands,0-1,All,NOIDIT847,0,1,643,No
+871,Russian Federation,2010,16,Number of infant deaths,Thousands,0-1,All,NOIDIT848,0,1,643,No
+872,Russian Federation,2005,23,Number of infant deaths,Thousands,0-1,All,NOIDIT849,0,1,643,No
+873,Russian Federation,2000,29,Number of infant deaths,Thousands,0-1,All,NOIDIT850,0,1,643,No
+874,Russian Federation,1995,24,Number of infant deaths,Thousands,0-1,All,NOIDIT851,0,1,643,No
+875,Russian Federation,1990,49,Number of infant deaths,Thousands,0-1,All,NOIDIT852,0,1,643,No
+876,Rwanda,2012,17,Number of infant deaths,Thousands,0-1,All,NOIDIT853,0,1,646,No
+877,Rwanda,2010,19,Number of infant deaths,Thousands,0-1,All,NOIDIT854,0,1,646,No
+878,Rwanda,2005,17,Number of infant deaths,Thousands,0-1,All,NOIDIT855,0,1,646,No
+879,Rwanda,2000,52,Number of infant deaths,Thousands,0-1,All,NOIDIT856,0,1,646,No
+880,Rwanda,1995,14,Number of infant deaths,Thousands,0-1,All,NOIDIT857,0,1,646,No
+881,Rwanda,1990,30,Number of infant deaths,Thousands,0-1,All,NOIDIT858,0,1,646,No
+882,Saint Kitts and Nevis,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT859,0,1,659,No
+883,Saint Kitts and Nevis,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT860,0,1,659,No
+884,Saint Kitts and Nevis,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT861,0,1,659,No
+885,Saint Kitts and Nevis,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT862,0,1,659,No
+886,Saint Kitts and Nevis,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT863,0,1,659,No
+887,Saint Kitts and Nevis,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT864,0,1,659,No
+888,Saint Lucia,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT865,0,1,662,No
+889,Saint Lucia,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT866,0,1,662,No
+890,Saint Lucia,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT867,0,1,662,No
+891,Saint Lucia,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT868,0,1,662,No
+892,Saint Lucia,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT869,0,1,662,No
+893,Saint Lucia,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT870,0,1,662,No
+894,Saint Vincent and the Grenadines,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT871,0,1,670,No
+895,Saint Vincent and the Grenadines,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT872,0,1,670,No
+896,Saint Vincent and the Grenadines,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT873,0,1,670,No
+897,Saint Vincent and the Grenadines,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT874,0,1,670,No
+898,Saint Vincent and the Grenadines,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT875,0,1,670,No
+899,Saint Vincent and the Grenadines,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT876,0,1,670,No
+900,Samoa,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT877,0,1,882,No
+901,Samoa,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT878,0,1,882,No
+902,Samoa,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT879,0,1,882,No
+903,Samoa,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT880,0,1,882,No
+904,Samoa,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT881,0,1,882,No
+905,Samoa,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT882,0,1,882,No
+906,San Marino,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT883,0,1,674,No
+907,San Marino,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT884,0,1,674,No
+908,San Marino,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT885,0,1,674,No
+909,San Marino,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT886,0,1,674,No
+910,San Marino,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT887,0,1,674,No
+911,San Marino,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT888,0,1,674,No
+912,Sao Tome and Principe,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT889,0,1,678,No
+913,Sao Tome and Principe,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT890,0,1,678,No
+914,Sao Tome and Principe,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT891,0,1,678,No
+915,Sao Tome and Principe,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT892,0,1,678,No
+916,Sao Tome and Principe,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT893,0,1,678,No
+917,Sao Tome and Principe,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT894,0,1,678,No
+918,Saudi Arabia,2012,4,Number of infant deaths,Thousands,0-1,All,NOIDIT895,0,1,682,No
+919,Saudi Arabia,2010,5,Number of infant deaths,Thousands,0-1,All,NOIDIT896,0,1,682,No
+920,Saudi Arabia,2005,7,Number of infant deaths,Thousands,0-1,All,NOIDIT897,0,1,682,No
+921,Saudi Arabia,2000,11,Number of infant deaths,Thousands,0-1,All,NOIDIT898,0,1,682,No
+922,Saudi Arabia,1995,15,Number of infant deaths,Thousands,0-1,All,NOIDIT899,0,1,682,No
+923,Saudi Arabia,1990,20,Number of infant deaths,Thousands,0-1,All,NOIDIT900,0,1,682,No
+924,Senegal,2012,23,Number of infant deaths,Thousands,0-1,All,NOIDIT901,0,1,686,No
+925,Senegal,2010,23,Number of infant deaths,Thousands,0-1,All,NOIDIT902,0,1,686,No
+926,Senegal,2005,25,Number of infant deaths,Thousands,0-1,All,NOIDIT903,0,1,686,No
+927,Senegal,2000,26,Number of infant deaths,Thousands,0-1,All,NOIDIT904,0,1,686,No
+928,Senegal,1995,25,Number of infant deaths,Thousands,0-1,All,NOIDIT905,0,1,686,No
+929,Senegal,1990,22,Number of infant deaths,Thousands,0-1,All,NOIDIT906,0,1,686,No
+930,Serbia,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT907,0,1,688,No
+931,Serbia,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT908,0,1,688,No
+932,Serbia,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT909,0,1,688,No
+933,Serbia,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT910,0,1,688,No
+934,Serbia,1995,2,Number of infant deaths,Thousands,0-1,All,NOIDIT911,0,1,688,No
+935,Serbia,1990,4,Number of infant deaths,Thousands,0-1,All,NOIDIT912,0,1,688,No
+936,Seychelles,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT913,0,1,690,No
+937,Seychelles,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT914,0,1,690,No
+938,Seychelles,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT915,0,1,690,No
+939,Seychelles,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT916,0,1,690,No
+940,Seychelles,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT917,0,1,690,No
+941,Seychelles,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT918,0,1,690,No
+942,Sierra Leone,2012,25,Number of infant deaths,Thousands,0-1,All,NOIDIT919,0,1,694,No
+943,Sierra Leone,2010,26,Number of infant deaths,Thousands,0-1,All,NOIDIT920,0,1,694,No
+944,Sierra Leone,2005,27,Number of infant deaths,Thousands,0-1,All,NOIDIT921,0,1,694,No
+945,Sierra Leone,2000,25,Number of infant deaths,Thousands,0-1,All,NOIDIT922,0,1,694,No
+946,Sierra Leone,1995,24,Number of infant deaths,Thousands,0-1,All,NOIDIT923,0,1,694,No
+947,Sierra Leone,1990,26,Number of infant deaths,Thousands,0-1,All,NOIDIT924,0,1,694,No
+948,Singapore,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT925,0,1,702,No
+949,Singapore,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT926,0,1,702,No
+950,Singapore,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT927,0,1,702,No
+951,Singapore,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT928,0,1,702,No
+952,Singapore,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT929,0,1,702,No
+953,Singapore,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT930,0,1,702,No
+954,Slovakia,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT931,0,1,703,No
+955,Slovakia,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT932,0,1,703,No
+956,Slovakia,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT933,0,1,703,No
+957,Slovakia,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT934,0,1,703,No
+958,Slovakia,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT935,0,1,703,No
+959,Slovakia,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT936,0,1,703,No
+960,Slovenia,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT937,0,1,705,No
+961,Slovenia,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT938,0,1,705,No
+962,Slovenia,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT939,0,1,705,No
+963,Slovenia,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT940,0,1,705,No
+964,Slovenia,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT941,0,1,705,No
+965,Slovenia,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT942,0,1,705,No
+966,Solomon Islands,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT943,0,1,90,No
+967,Solomon Islands,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT944,0,1,90,No
+968,Solomon Islands,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT945,0,1,90,No
+969,Solomon Islands,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT946,0,1,90,No
+970,Solomon Islands,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT947,0,1,90,No
+971,Solomon Islands,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT948,0,1,90,No
+972,Somalia,2012,40,Number of infant deaths,Thousands,0-1,All,NOIDIT949,0,1,706,No
+973,Somalia,2010,41,Number of infant deaths,Thousands,0-1,All,NOIDIT950,0,1,706,No
+974,Somalia,2005,38,Number of infant deaths,Thousands,0-1,All,NOIDIT951,0,1,706,No
+975,Somalia,2000,37,Number of infant deaths,Thousands,0-1,All,NOIDIT952,0,1,706,No
+976,Somalia,1995,30,Number of infant deaths,Thousands,0-1,All,NOIDIT953,0,1,706,No
+977,Somalia,1990,31,Number of infant deaths,Thousands,0-1,All,NOIDIT954,0,1,706,No
+978,South Africa,2012,37,Number of infant deaths,Thousands,0-1,All,NOIDIT955,0,1,710,No
+979,South Africa,2010,41,Number of infant deaths,Thousands,0-1,All,NOIDIT956,0,1,710,No
+980,South Africa,2005,58,Number of infant deaths,Thousands,0-1,All,NOIDIT957,0,1,710,No
+981,South Africa,2000,51,Number of infant deaths,Thousands,0-1,All,NOIDIT958,0,1,710,No
+982,South Africa,1995,47,Number of infant deaths,Thousands,0-1,All,NOIDIT959,0,1,710,No
+983,South Africa,1990,50,Number of infant deaths,Thousands,0-1,All,NOIDIT960,0,1,710,No
+984,South Sudan,2012,26,Number of infant deaths,Thousands,0-1,All,NOIDIT961,0,1,728,No
+985,South Sudan,2010,25,Number of infant deaths,Thousands,0-1,All,NOIDIT962,0,1,728,No
+986,South Sudan,2005,27,Number of infant deaths,Thousands,0-1,All,NOIDIT963,0,1,728,No
+987,South Sudan,2000,30,Number of infant deaths,Thousands,0-1,All,NOIDIT964,0,1,728,No
+988,South Sudan,1995,31,Number of infant deaths,Thousands,0-1,All,NOIDIT965,0,1,728,No
+989,South Sudan,1990,40,Number of infant deaths,Thousands,0-1,All,NOIDIT966,0,1,728,No
+990,Spain,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT967,0,1,724,No
+991,Spain,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT968,0,1,724,No
+992,Spain,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT969,0,1,724,No
+993,Spain,2000,2,Number of infant deaths,Thousands,0-1,All,NOIDIT970,0,1,724,No
+994,Spain,1995,3,Number of infant deaths,Thousands,0-1,All,NOIDIT971,0,1,724,No
+995,Spain,1990,4,Number of infant deaths,Thousands,0-1,All,NOIDIT972,0,1,724,No
+996,Sri Lanka,2012,3,Number of infant deaths,Thousands,0-1,All,NOIDIT973,0,1,144,No
+997,Sri Lanka,2010,3,Number of infant deaths,Thousands,0-1,All,NOIDIT974,0,1,144,No
+998,Sri Lanka,2005,4,Number of infant deaths,Thousands,0-1,All,NOIDIT975,0,1,144,No
+999,Sri Lanka,2000,5,Number of infant deaths,Thousands,0-1,All,NOIDIT976,0,1,144,No
+1000,Sri Lanka,1995,6,Number of infant deaths,Thousands,0-1,All,NOIDIT977,0,1,144,No
+1001,Sri Lanka,1990,6,Number of infant deaths,Thousands,0-1,All,NOIDIT978,0,1,144,No
+1002,Sudan,2012,60,Number of infant deaths,Thousands,0-1,All,NOIDIT979,0,1,729,No
+1003,Sudan,2012,60,Number of infant deaths,Thousands,0-1,All,NOIDIT979,0,1,736,No
+1004,Sudan,2010,62,Number of infant deaths,Thousands,0-1,All,NOIDIT980,0,1,729,No
+1005,Sudan,2010,62,Number of infant deaths,Thousands,0-1,All,NOIDIT980,0,1,736,No
+1006,Sudan,2005,69,Number of infant deaths,Thousands,0-1,All,NOIDIT981,0,1,729,No
+1007,Sudan,2005,69,Number of infant deaths,Thousands,0-1,All,NOIDIT981,0,1,736,No
+1008,Sudan,2000,72,Number of infant deaths,Thousands,0-1,All,NOIDIT982,0,1,729,No
+1009,Sudan,2000,72,Number of infant deaths,Thousands,0-1,All,NOIDIT982,0,1,736,No
+1010,Sudan,1995,75,Number of infant deaths,Thousands,0-1,All,NOIDIT983,0,1,729,No
+1011,Sudan,1995,75,Number of infant deaths,Thousands,0-1,All,NOIDIT983,0,1,736,No
+1012,Sudan,1990,64,Number of infant deaths,Thousands,0-1,All,NOIDIT984,0,1,729,No
+1013,Sudan,1990,64,Number of infant deaths,Thousands,0-1,All,NOIDIT984,0,1,736,No
+1014,Suriname,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT985,0,1,740,No
+1015,Suriname,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT986,0,1,740,No
+1016,Suriname,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT987,0,1,740,No
+1017,Suriname,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT988,0,1,740,No
+1018,Suriname,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT989,0,1,740,No
+1019,Suriname,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT990,0,1,740,No
+1020,Swaziland,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT991,0,1,748,No
+1021,Swaziland,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT992,0,1,748,No
+1022,Swaziland,2005,3,Number of infant deaths,Thousands,0-1,All,NOIDIT993,0,1,748,No
+1023,Swaziland,2000,3,Number of infant deaths,Thousands,0-1,All,NOIDIT994,0,1,748,No
+1024,Swaziland,1995,2,Number of infant deaths,Thousands,0-1,All,NOIDIT995,0,1,748,No
+1025,Swaziland,1990,2,Number of infant deaths,Thousands,0-1,All,NOIDIT996,0,1,748,No
+1026,Sweden,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT997,0,1,752,No
+1027,Sweden,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT998,0,1,752,No
+1028,Sweden,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT999,0,1,752,No
+1029,Sweden,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1000,0,1,752,No
+1030,Sweden,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1001,0,1,752,No
+1031,Sweden,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1002,0,1,752,No
+1032,Switzerland,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1003,0,1,756,No
+1033,Switzerland,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1003,0,1,756,No
+1034,Switzerland,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1004,0,1,756,No
+1035,Switzerland,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1004,0,1,756,No
+1036,Switzerland,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1005,0,1,756,No
+1037,Switzerland,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1005,0,1,756,No
+1038,Switzerland,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1006,0,1,756,No
+1039,Switzerland,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1006,0,1,756,No
+1040,Switzerland,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1007,0,1,756,No
+1041,Switzerland,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1007,0,1,756,No
+1042,Switzerland,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1008,0,1,756,No
+1043,Switzerland,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1008,0,1,756,No
+1044,Syrian Arab Republic,2012,7,Number of infant deaths,Thousands,0-1,All,NOIDIT1009,0,1,760,No
+1045,Syrian Arab Republic,2010,7,Number of infant deaths,Thousands,0-1,All,NOIDIT1010,0,1,760,No
+1046,Syrian Arab Republic,2005,8,Number of infant deaths,Thousands,0-1,All,NOIDIT1011,0,1,760,No
+1047,Syrian Arab Republic,2000,11,Number of infant deaths,Thousands,0-1,All,NOIDIT1012,0,1,760,No
+1048,Syrian Arab Republic,1995,11,Number of infant deaths,Thousands,0-1,All,NOIDIT1013,0,1,760,No
+1049,Syrian Arab Republic,1990,14,Number of infant deaths,Thousands,0-1,All,NOIDIT1014,0,1,760,No
+1050,Tajikistan,2012,13,Number of infant deaths,Thousands,0-1,All,NOIDIT1015,0,1,762,No
+1051,Tajikistan,2010,13,Number of infant deaths,Thousands,0-1,All,NOIDIT1016,0,1,762,No
+1052,Tajikistan,2005,11,Number of infant deaths,Thousands,0-1,All,NOIDIT1017,0,1,762,No
+1053,Tajikistan,2000,14,Number of infant deaths,Thousands,0-1,All,NOIDIT1018,0,1,762,No
+1054,Tajikistan,1995,17,Number of infant deaths,Thousands,0-1,All,NOIDIT1019,0,1,762,No
+1055,Tajikistan,1990,18,Number of infant deaths,Thousands,0-1,All,NOIDIT1020,0,1,762,No
+1056,Thailand,2012,8,Number of infant deaths,Thousands,0-1,All,NOIDIT1021,0,1,764,No
+1057,Thailand,2010,9,Number of infant deaths,Thousands,0-1,All,NOIDIT1022,0,1,764,No
+1058,Thailand,2005,13,Number of infant deaths,Thousands,0-1,All,NOIDIT1023,0,1,764,No
+1059,Thailand,2000,17,Number of infant deaths,Thousands,0-1,All,NOIDIT1024,0,1,764,No
+1060,Thailand,1995,25,Number of infant deaths,Thousands,0-1,All,NOIDIT1025,0,1,764,No
+1061,Thailand,1990,34,Number of infant deaths,Thousands,0-1,All,NOIDIT1026,0,1,764,No
+1062,The former Yugoslav Republic of Macedonia,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1027,0,1,807,No
+1063,The former Yugoslav Republic of Macedonia,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1028,0,1,807,No
+1064,The former Yugoslav Republic of Macedonia,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1029,0,1,807,No
+1065,The former Yugoslav Republic of Macedonia,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1030,0,1,807,No
+1066,The former Yugoslav Republic of Macedonia,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1031,0,1,807,No
+1067,The former Yugoslav Republic of Macedonia,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1032,0,1,807,No
+1068,Timor-Leste,2012,2,Number of infant deaths,Thousands,0-1,All,NOIDIT1033,0,1,626,No
+1069,Timor-Leste,2010,2,Number of infant deaths,Thousands,0-1,All,NOIDIT1034,0,1,626,No
+1070,Timor-Leste,2005,2,Number of infant deaths,Thousands,0-1,All,NOIDIT1035,0,1,626,No
+1071,Timor-Leste,2000,3,Number of infant deaths,Thousands,0-1,All,NOIDIT1036,0,1,626,No
+1072,Timor-Leste,1995,4,Number of infant deaths,Thousands,0-1,All,NOIDIT1037,0,1,626,No
+1073,Timor-Leste,1990,3,Number of infant deaths,Thousands,0-1,All,NOIDIT1038,0,1,626,No
+1074,Togo,2012,15,Number of infant deaths,Thousands,0-1,All,NOIDIT1039,0,1,768,No
+1075,Togo,2010,15,Number of infant deaths,Thousands,0-1,All,NOIDIT1040,0,1,768,No
+1076,Togo,2005,15,Number of infant deaths,Thousands,0-1,All,NOIDIT1041,0,1,768,No
+1077,Togo,2000,14,Number of infant deaths,Thousands,0-1,All,NOIDIT1042,0,1,768,No
+1078,Togo,1995,14,Number of infant deaths,Thousands,0-1,All,NOIDIT1043,0,1,768,No
+1079,Togo,1990,14,Number of infant deaths,Thousands,0-1,All,NOIDIT1044,0,1,768,No
+1080,Tonga,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1045,0,1,776,No
+1081,Tonga,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1046,0,1,776,No
+1082,Tonga,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1047,0,1,776,No
+1083,Tonga,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1048,0,1,776,No
+1084,Tonga,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1049,0,1,776,No
+1085,Tonga,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1050,0,1,776,No
+1086,Trinidad and Tobago,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1051,0,1,780,No
+1087,Trinidad and Tobago,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1052,0,1,780,No
+1088,Trinidad and Tobago,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1053,0,1,780,No
+1089,Trinidad and Tobago,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1054,0,1,780,No
+1090,Trinidad and Tobago,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1055,0,1,780,No
+1091,Trinidad and Tobago,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1056,0,1,780,No
+1092,Tunisia,2012,3,Number of infant deaths,Thousands,0-1,All,NOIDIT1057,0,1,788,No
+1093,Tunisia,2010,3,Number of infant deaths,Thousands,0-1,All,NOIDIT1058,0,1,788,No
+1094,Tunisia,2005,3,Number of infant deaths,Thousands,0-1,All,NOIDIT1059,0,1,788,No
+1095,Tunisia,2000,4,Number of infant deaths,Thousands,0-1,All,NOIDIT1060,0,1,788,No
+1096,Tunisia,1995,6,Number of infant deaths,Thousands,0-1,All,NOIDIT1061,0,1,788,No
+1097,Tunisia,1990,9,Number of infant deaths,Thousands,0-1,All,NOIDIT1062,0,1,788,No
+1098,Turkey,2012,16,Number of infant deaths,Thousands,0-1,All,NOIDIT1063,0,1,792,No
+1099,Turkey,2010,18,Number of infant deaths,Thousands,0-1,All,NOIDIT1064,0,1,792,No
+1100,Turkey,2005,26,Number of infant deaths,Thousands,0-1,All,NOIDIT1065,0,1,792,No
+1101,Turkey,2000,42,Number of infant deaths,Thousands,0-1,All,NOIDIT1066,0,1,792,No
+1102,Turkey,1995,58,Number of infant deaths,Thousands,0-1,All,NOIDIT1067,0,1,792,No
+1103,Turkey,1990,76,Number of infant deaths,Thousands,0-1,All,NOIDIT1068,0,1,792,No
+1104,Turkmenistan,2012,5,Number of infant deaths,Thousands,0-1,All,NOIDIT1069,0,1,795,No
+1105,Turkmenistan,2010,5,Number of infant deaths,Thousands,0-1,All,NOIDIT1070,0,1,795,No
+1106,Turkmenistan,2005,7,Number of infant deaths,Thousands,0-1,All,NOIDIT1071,0,1,795,No
+1107,Turkmenistan,2000,6,Number of infant deaths,Thousands,0-1,All,NOIDIT1072,0,1,795,No
+1108,Turkmenistan,1995,9,Number of infant deaths,Thousands,0-1,All,NOIDIT1073,0,1,795,No
+1109,Turkmenistan,1990,10,Number of infant deaths,Thousands,0-1,All,NOIDIT1074,0,1,795,No
+1110,Tuvalu,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1075,0,1,798,No
+1111,Tuvalu,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1076,0,1,798,No
+1112,Tuvalu,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1077,0,1,798,No
+1113,Tuvalu,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1078,0,1,798,No
+1114,Tuvalu,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1079,0,1,798,No
+1115,Tuvalu,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1080,0,1,798,No
+1116,Uganda,2012,69,Number of infant deaths,Thousands,0-1,All,NOIDIT1081,0,1,800,No
+1117,Uganda,2010,75,Number of infant deaths,Thousands,0-1,All,NOIDIT1082,0,1,800,No
+1118,Uganda,2005,89,Number of infant deaths,Thousands,0-1,All,NOIDIT1083,0,1,800,No
+1119,Uganda,2000,100,Number of infant deaths,Thousands,0-1,All,NOIDIT1084,0,1,800,No
+1120,Uganda,1995,97,Number of infant deaths,Thousands,0-1,All,NOIDIT1085,0,1,800,No
+1121,Uganda,1990,89,Number of infant deaths,Thousands,0-1,All,NOIDIT1086,0,1,800,No
+1122,Ukraine,2012,5,Number of infant deaths,Thousands,0-1,All,NOIDIT1087,0,1,804,No
+1123,Ukraine,2010,6,Number of infant deaths,Thousands,0-1,All,NOIDIT1088,0,1,804,No
+1124,Ukraine,2005,5,Number of infant deaths,Thousands,0-1,All,NOIDIT1089,0,1,804,No
+1125,Ukraine,2000,7,Number of infant deaths,Thousands,0-1,All,NOIDIT1090,0,1,804,No
+1126,Ukraine,1995,8,Number of infant deaths,Thousands,0-1,All,NOIDIT1091,0,1,804,No
+1127,Ukraine,1990,12,Number of infant deaths,Thousands,0-1,All,NOIDIT1092,0,1,804,No
+1128,United Arab Emirates,2012,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1093,0,1,784,No
+1129,United Arab Emirates,2010,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1094,0,1,784,No
+1130,United Arab Emirates,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1095,0,1,784,No
+1131,United Arab Emirates,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1096,0,1,784,No
+1132,United Arab Emirates,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1097,0,1,784,No
+1133,United Arab Emirates,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1098,0,1,784,No
+1134,United Kingdom,2012,3,Number of infant deaths,Thousands,0-1,All,NOIDIT1099,0,1,826,No
+1135,United Kingdom,2010,4,Number of infant deaths,Thousands,0-1,All,NOIDIT1100,0,1,826,No
+1136,United Kingdom,2005,4,Number of infant deaths,Thousands,0-1,All,NOIDIT1101,0,1,826,No
+1137,United Kingdom,2000,4,Number of infant deaths,Thousands,0-1,All,NOIDIT1102,0,1,826,No
+1138,United Kingdom,1995,5,Number of infant deaths,Thousands,0-1,All,NOIDIT1103,0,1,826,No
+1139,United Kingdom,1990,6,Number of infant deaths,Thousands,0-1,All,NOIDIT1104,0,1,826,No
+1140,United Republic of Tanzania,2012,69,Number of infant deaths,Thousands,0-1,All,NOIDIT1105,0,1,834,No
+1141,United Republic of Tanzania,2010,74,Number of infant deaths,Thousands,0-1,All,NOIDIT1106,0,1,834,No
+1142,United Republic of Tanzania,2005,90,Number of infant deaths,Thousands,0-1,All,NOIDIT1107,0,1,834,No
+1143,United Republic of Tanzania,2000,109,Number of infant deaths,Thousands,0-1,All,NOIDIT1108,0,1,834,No
+1144,United Republic of Tanzania,1995,117,Number of infant deaths,Thousands,0-1,All,NOIDIT1109,0,1,834,No
+1145,United Republic of Tanzania,1990,110,Number of infant deaths,Thousands,0-1,All,NOIDIT1110,0,1,834,No
+1146,United States of America,2012,25,Number of infant deaths,Thousands,0-1,All,NOIDIT1111,0,1,840,No
+1147,United States of America,2010,26,Number of infant deaths,Thousands,0-1,All,NOIDIT1112,0,1,840,No
+1148,United States of America,2005,29,Number of infant deaths,Thousands,0-1,All,NOIDIT1113,0,1,840,No
+1149,United States of America,2000,27,Number of infant deaths,Thousands,0-1,All,NOIDIT1114,0,1,840,No
+1150,United States of America,1995,32,Number of infant deaths,Thousands,0-1,All,NOIDIT1115,0,1,840,No
+1151,United States of America,1990,37,Number of infant deaths,Thousands,0-1,All,NOIDIT1116,0,1,840,No
+1152,Uruguay,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1117,0,1,858,No
+1153,Uruguay,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1118,0,1,858,No
+1154,Uruguay,2005,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1119,0,1,858,No
+1155,Uruguay,2000,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1120,0,1,858,No
+1156,Uruguay,1995,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1121,0,1,858,No
+1157,Uruguay,1990,1,Number of infant deaths,Thousands,0-1,All,NOIDIT1122,0,1,858,No
+1158,Uzbekistan,2012,22,Number of infant deaths,Thousands,0-1,All,NOIDIT1123,0,1,860,No
+1159,Uzbekistan,2010,24,Number of infant deaths,Thousands,0-1,All,NOIDIT1124,0,1,860,No
+1160,Uzbekistan,2005,24,Number of infant deaths,Thousands,0-1,All,NOIDIT1125,0,1,860,No
+1161,Uzbekistan,2000,28,Number of infant deaths,Thousands,0-1,All,NOIDIT1126,0,1,860,No
+1162,Uzbekistan,1995,38,Number of infant deaths,Thousands,0-1,All,NOIDIT1127,0,1,860,No
+1163,Uzbekistan,1990,45,Number of infant deaths,Thousands,0-1,All,NOIDIT1128,0,1,860,No
+1164,Vanuatu,2012,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1129,0,1,548,No
+1165,Vanuatu,2010,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1130,0,1,548,No
+1166,Vanuatu,2005,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1131,0,1,548,No
+1167,Vanuatu,2000,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1132,0,1,548,No
+1168,Vanuatu,1995,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1133,0,1,548,No
+1169,Vanuatu,1990,0,Number of infant deaths,Thousands,0-1,All,NOIDIT1134,0,1,548,No
+1170,Venezuela (Bolivarian Republic of),2012,8,Number of infant deaths,Thousands,0-1,All,NOIDIT1135,0,1,862,No
+1171,Venezuela (Bolivarian Republic of),2010,8,Number of infant deaths,Thousands,0-1,All,NOIDIT1136,0,1,862,No
+1172,Venezuela (Bolivarian Republic of),2005,9,Number of infant deaths,Thousands,0-1,All,NOIDIT1137,0,1,862,No
+1173,Venezuela (Bolivarian Republic of),2000,11,Number of infant deaths,Thousands,0-1,All,NOIDIT1138,0,1,862,No
+1174,Venezuela (Bolivarian Republic of),1995,12,Number of infant deaths,Thousands,0-1,All,NOIDIT1139,0,1,862,No
+1175,Venezuela (Bolivarian Republic of),1990,14,Number of infant deaths,Thousands,0-1,All,NOIDIT1140,0,1,862,No
+1176,Viet Nam,2012,26,Number of infant deaths,Thousands,0-1,All,NOIDIT1141,0,1,704,No
+1177,Viet Nam,2010,28,Number of infant deaths,Thousands,0-1,All,NOIDIT1142,0,1,704,No
+1178,Viet Nam,2005,34,Number of infant deaths,Thousands,0-1,All,NOIDIT1143,0,1,704,No
+1179,Viet Nam,2000,28,Number of infant deaths,Thousands,0-1,All,NOIDIT1144,0,1,704,No
+1180,Viet Nam,1995,56,Number of infant deaths,Thousands,0-1,All,NOIDIT1145,0,1,704,No
+1181,Viet Nam,1990,72,Number of infant deaths,Thousands,0-1,All,NOIDIT1146,0,1,704,No
+1182,Yemen,2012,34,Number of infant deaths,Thousands,0-1,All,NOIDIT1147,0,1,887,No
+1183,Yemen,2012,34,Number of infant deaths,Thousands,0-1,All,NOIDIT1147,0,1,886,No
+1184,Yemen,2010,35,Number of infant deaths,Thousands,0-1,All,NOIDIT1148,0,1,887,No
+1185,Yemen,2010,35,Number of infant deaths,Thousands,0-1,All,NOIDIT1148,0,1,886,No
+1186,Yemen,2005,41,Number of infant deaths,Thousands,0-1,All,NOIDIT1149,0,1,887,No
+1187,Yemen,2005,41,Number of infant deaths,Thousands,0-1,All,NOIDIT1149,0,1,886,No
+1188,Yemen,2000,45,Number of infant deaths,Thousands,0-1,All,NOIDIT1150,0,1,887,No
+1189,Yemen,2000,45,Number of infant deaths,Thousands,0-1,All,NOIDIT1150,0,1,886,No
+1190,Yemen,1995,55,Number of infant deaths,Thousands,0-1,All,NOIDIT1151,0,1,887,No
+1191,Yemen,1995,55,Number of infant deaths,Thousands,0-1,All,NOIDIT1151,0,1,886,No
+1192,Yemen,1990,50,Number of infant deaths,Thousands,0-1,All,NOIDIT1152,0,1,887,No
+1193,Yemen,1990,50,Number of infant deaths,Thousands,0-1,All,NOIDIT1152,0,1,886,No
+1194,Zambia,2012,33,Number of infant deaths,Thousands,0-1,All,NOIDIT1153,0,1,894,No
+1195,Zambia,2010,34,Number of infant deaths,Thousands,0-1,All,NOIDIT1154,0,1,894,No
+1196,Zambia,2005,37,Number of infant deaths,Thousands,0-1,All,NOIDIT1155,0,1,894,No
+1197,Zambia,2000,44,Number of infant deaths,Thousands,0-1,All,NOIDIT1156,0,1,894,No
+1198,Zambia,1995,41,Number of infant deaths,Thousands,0-1,All,NOIDIT1157,0,1,894,No
+1199,Zambia,1990,38,Number of infant deaths,Thousands,0-1,All,NOIDIT1158,0,1,894,No
+1200,Zimbabwe,2012,24,Number of infant deaths,Thousands,0-1,All,NOIDIT1159,0,1,716,No
+1201,Zimbabwe,2010,26,Number of infant deaths,Thousands,0-1,All,NOIDIT1160,0,1,716,No
+1202,Zimbabwe,2005,23,Number of infant deaths,Thousands,0-1,All,NOIDIT1161,0,1,716,No
+1203,Zimbabwe,2000,23,Number of infant deaths,Thousands,0-1,All,NOIDIT1162,0,1,716,No
+1204,Zimbabwe,1995,23,Number of infant deaths,Thousands,0-1,All,NOIDIT1163,0,1,716,No
+1205,Zimbabwe,1990,18,Number of infant deaths,Thousands,0-1,All,NOIDIT1164,0,1,716,No

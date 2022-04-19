@@ -1,0 +1,92 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2010,9.0,Contraceptive Prevalence,Percent,15-19,Female,CPAG1,15,19,4,No
+1,Albania,2008,54.7,Contraceptive Prevalence,Percent,15-19,Female,CPAG2,15,19,8,No
+2,Armenia,2010,19.1,Contraceptive Prevalence,Percent,15-19,Female,CPAG3,15,19,51,No
+3,Azerbaijan,2006,6.4,Contraceptive Prevalence,Percent,15-19,Female,CPAG4,15,19,31,No
+4,Bangladesh,2011,47.1,Contraceptive Prevalence,Percent,15-19,Female,CPAG5,15,19,50,No
+5,Belize,2011,35.7,Contraceptive Prevalence,Percent,15-19,Female,CPAG6,15,19,84,No
+6,Benin,2006,7.9,Contraceptive Prevalence,Percent,15-19,Female,CPAG7,15,19,204,No
+7,Bhutan,2010,30.2,Contraceptive Prevalence,Percent,15-19,Female,CPAG8,15,19,64,No
+8,Bolivia (Plurinational State of),2008,40.9,Contraceptive Prevalence,Percent,15-19,Female,CPAG9,15,19,68,No
+9,Burkina Faso,2010,6.6,Contraceptive Prevalence,Percent,15-19,Female,CPAG10,15,19,854,No
+10,Burundi,2010,10.1,Contraceptive Prevalence,Percent,15-19,Female,CPAG11,15,19,108,No
+11,Cambodia,2005,20.8,Contraceptive Prevalence,Percent,15-19,Female,CPAG12,15,19,116,No
+12,Cameroon,2011,16.1,Contraceptive Prevalence,Percent,15-19,Female,CPAG13,15,19,120,No
+13,Central African Republic,2010,13.3,Contraceptive Prevalence,Percent,15-19,Female,CPAG14,15,19,140,No
+14,Chad,2004,2.2,Contraceptive Prevalence,Percent,15-19,Female,CPAG15,15,19,148,No
+15,Colombia,2010,60.5,Contraceptive Prevalence,Percent,15-19,Female,CPAG16,15,19,170,No
+16,Colombia,2010,60.5,Contraceptive Prevalence,Percent,15-19,Female,CPAG17,15,19,170,No
+17,Congo,2005,37.2,Contraceptive Prevalence,Percent,15-19,Female,CPAG18,15,19,178,No
+18,Côte dIvoire,2006,8.6,Contraceptive Prevalence,Percent,15-19,Female,CPAG19,15,19,384,No
+19,Cuba,2010,55.0,Contraceptive Prevalence,Percent,15-19,Female,CPAG20,15,19,192,No
+20,Democratic Republic of the Congo,2007,14.5,Contraceptive Prevalence,Percent,15-19,Female,CPAG21,15,19,180,No
+21,Djibouti,2006,16.3,Contraceptive Prevalence,Percent,15-19,Female,CPAG22,15,19,262,No
+22,Dominican Republic,2007,45.8,Contraceptive Prevalence,Percent,15-19,Female,CPAG23,15,19,214,No
+23,Ecuador,2004,56.4,Contraceptive Prevalence,Percent,15-19,Female,CPAG24,15,19,218,No
+24,Egypt,2008,23.4,Contraceptive Prevalence,Percent,15-19,Female,CPAG25,15,19,818,No
+25,El Salvador,2008,54.8,Contraceptive Prevalence,Percent,15-19,Female,CPAG26,15,19,222,No
+26,Ethiopia,2011,8.9,Contraceptive Prevalence,Percent,15-19,Female,CPAG27,15,19,231,No
+27,Ethiopia,2011,8.9,Contraceptive Prevalence,Percent,15-19,Female,CPAG27,15,19,230,No
+28,Gabon,2012,24.9,Contraceptive Prevalence,Percent,15-19,Female,CPAG28,15,19,266,No
+29,Gambia,2010,4.4,Contraceptive Prevalence,Percent,15-19,Female,CPAG29,15,19,270,No
+30,Georgia,2005,13.0,Contraceptive Prevalence,Percent,15-19,Female,CPAG30,15,19,268,No
+31,Ghana,2008,13.6,Contraceptive Prevalence,Percent,15-19,Female,CPAG31,15,19,288,No
+32,Guatemala,2008,14.6,Contraceptive Prevalence,Percent,15-19,Female,CPAG32,15,19,320,No
+33,Guinea,2005,8.8,Contraceptive Prevalence,Percent,15-19,Female,CPAG33,15,19,324,No
+34,Guinea,2005,8.8,Contraceptive Prevalence,Percent,15-19,Female,CPAG34,15,19,324,No
+35,Guinea-Bissau,2010,69.2,Contraceptive Prevalence,Percent,15-19,Female,CPAG35,15,19,624,No
+36,Guyana,2009,29.8,Contraceptive Prevalence,Percent,15-19,Female,CPAG36,15,19,328,No
+37,Haiti,2006,28.5,Contraceptive Prevalence,Percent,15-19,Female,CPAG37,15,19,332,No
+38,Honduras,2005,45.9,Contraceptive Prevalence,Percent,15-19,Female,CPAG38,15,19,340,No
+39,India,2007,11.4,Contraceptive Prevalence,Percent,15-19,Female,CPAG39,15,19,356,No
+40,Indonesia,2007,46.8,Contraceptive Prevalence,Percent,15-19,Female,CPAG40,15,19,360,No
+41,Iraq,2011,21.0,Contraceptive Prevalence,Percent,15-19,Female,CPAG41,15,19,368,No
+42,Jamaica,2008,68.4,Contraceptive Prevalence,Percent,15-19,Female,CPAG42,15,19,388,No
+43,Jordan,2009,27.0,Contraceptive Prevalence,Percent,15-19,Female,CPAG43,15,19,400,No
+44,Kazakhstan,2005,31.3,Contraceptive Prevalence,Percent,15-19,Female,CPAG44,15,19,398,No
+45,Kenya,2009,22.5,Contraceptive Prevalence,Percent,15-19,Female,CPAG45,15,19,404,No
+46,Kyrgyzstan,2006,14.7,Contraceptive Prevalence,Percent,15-19,Female,CPAG46,15,19,417,No
+47,Lesotho,2009,28.2,Contraceptive Prevalence,Percent,15-19,Female,CPAG47,15,19,426,No
+48,Liberia,2007,5.4,Contraceptive Prevalence,Percent,15-19,Female,CPAG48,15,19,430,No
+49,Madagascar,2008,24.6,Contraceptive Prevalence,Percent,15-19,Female,CPAG49,15,19,450,No
+50,Malawi,2010,28.8,Contraceptive Prevalence,Percent,15-19,Female,CPAG50,15,19,454,No
+51,Maldives,2009,15.0,Contraceptive Prevalence,Percent,15-19,Female,CPAG51,15,19,462,No
+52,Mali,2006,7.7,Contraceptive Prevalence,Percent,15-19,Female,CPAG52,15,19,466,No
+53,Mauritania,2007,5.5,Contraceptive Prevalence,Percent,15-19,Female,CPAG53,15,19,478,No
+54,Mongolia,2010,52.0,Contraceptive Prevalence,Percent,15-19,Female,CPAG54,15,19,496,No
+55,Morocco,2004,38.4,Contraceptive Prevalence,Percent,15-19,Female,CPAG55,15,19,504,No
+56,Mozambique,2011,5.9,Contraceptive Prevalence,Percent,15-19,Female,CPAG56,15,19,508,No
+57,Myanmar,2009,48.6,Contraceptive Prevalence,Percent,15-19,Female,CPAG57,15,19,104,No
+58,Namibia,2007,40.9,Contraceptive Prevalence,Percent,15-19,Female,CPAG58,15,19,516,No
+59,Nepal,2011,17.6,Contraceptive Prevalence,Percent,15-19,Female,CPAG59,15,19,524,No
+60,Nicaragua,2006,61.1,Contraceptive Prevalence,Percent,15-19,Female,CPAG60,15,19,558,No
+61,Niger,2006,4.3,Contraceptive Prevalence,Percent,15-19,Female,CPAG61,15,19,562,No
+62,Nigeria,2008,3.0,Contraceptive Prevalence,Percent,15-19,Female,CPAG62,15,19,566,No
+63,Pakistan,2007,6.7,Contraceptive Prevalence,Percent,15-19,Female,CPAG63,15,19,586,No
+64,Paraguay,2008,35.4,Contraceptive Prevalence,Percent,15-19,Female,CPAG64,15,19,600,No
+65,Peru,2012,66.6,Contraceptive Prevalence,Percent,15-19,Female,CPAG65,15,19,604,No
+66,Philippines,2008,25.9,Contraceptive Prevalence,Percent,15-19,Female,CPAG66,15,19,608,No
+67,Republic of Moldova,2005,58.4,Contraceptive Prevalence,Percent,15-19,Female,CPAG67,15,19,498,No
+68,Rwanda,2010,32.9,Contraceptive Prevalence,Percent,15-19,Female,CPAG68,15,19,646,No
+69,Sao Tome and Principe,2008,22.2,Contraceptive Prevalence,Percent,15-19,Female,CPAG69,15,19,678,No
+70,Senegal,2010,5.8,Contraceptive Prevalence,Percent,15-19,Female,CPAG70,15,19,686,No
+71,Sierra Leone,2008,1.2,Contraceptive Prevalence,Percent,15-19,Female,CPAG71,15,19,694,No
+72,South Sudan,2006,4.2,Contraceptive Prevalence,Percent,15-19,Female,CPAG72,15,19,728,No
+73,Sri Lanka,2006,53.7,Contraceptive Prevalence,Percent,15-19,Female,CPAG73,15,19,144,No
+74,Suriname,2010,42.1,Contraceptive Prevalence,Percent,15-19,Female,CPAG74,15,19,740,No
+75,Swaziland,2007,42.8,Contraceptive Prevalence,Percent,15-19,Female,CPAG75,15,19,748,No
+76,Syrian Arab Republic,2006,21.6,Contraceptive Prevalence,Percent,15-19,Female,CPAG76,15,19,760,No
+77,Tajikistan,2005,8.6,Contraceptive Prevalence,Percent,15-19,Female,CPAG77,15,19,762,No
+78,Thailand,2006,66.4,Contraceptive Prevalence,Percent,15-19,Female,CPAG78,15,19,764,No
+79,Timor-Leste,2009,7.9,Contraceptive Prevalence,Percent,15-19,Female,CPAG79,15,19,626,No
+80,Togo,2010,5.1,Contraceptive Prevalence,Percent,15-19,Female,CPAG80,15,19,768,No
+81,Uganda,2011,13.9,Contraceptive Prevalence,Percent,15-19,Female,CPAG81,15,19,800,No
+82,Ukraine,2007,48.3,Contraceptive Prevalence,Percent,15-19,Female,CPAG82,15,19,804,No
+83,United Republic of Tanzania,2010,14.9,Contraceptive Prevalence,Percent,15-19,Female,CPAG83,15,19,834,No
+84,Uzbekistan,2006,22.0,Contraceptive Prevalence,Percent,15-19,Female,CPAG84,15,19,860,No
+85,Vanuatu,2007,34.5,Contraceptive Prevalence,Percent,15-19,Female,CPAG85,15,19,548,No
+86,Viet Nam,2011,21.0,Contraceptive Prevalence,Percent,15-19,Female,CPAG86,15,19,704,No
+87,Yemen,2006,10.4,Contraceptive Prevalence,Percent,15-19,Female,CPAG87,15,19,887,No
+88,Yemen,2006,10.4,Contraceptive Prevalence,Percent,15-19,Female,CPAG87,15,19,886,No
+89,Zambia,2007,28.1,Contraceptive Prevalence,Percent,15-19,Female,CPAG88,15,19,894,No
+90,Zimbabwe,2010,36.2,Contraceptive Prevalence,Percent,15-19,Female,CPAG89,15,19,716,No

@@ -1,0 +1,159 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Algeria,2007,0.029,Community and traditional health workers density,per 1k pop,All,All,CATHWDP1,0,130,12,No
+1,Algeria,2002,0.034,Community and traditional health workers density,per 1k pop,All,All,CATHWDP2,0,130,12,No
+2,Australia,2006,0.05,Community and traditional health workers density,per 1k pop,All,All,CATHWDP3,0,130,36,No
+3,Australia,2001,0.197,Community and traditional health workers density,per 1k pop,All,All,CATHWDP4,0,130,36,No
+4,Australia,1996,0.039,Community and traditional health workers density,per 1k pop,All,All,CATHWDP5,0,130,36,No
+5,Bangladesh,2011,0.334,Community and traditional health workers density,per 1k pop,All,All,CATHWDP6,0,130,50,No
+6,Bangladesh,2007,0.331,Community and traditional health workers density,per 1k pop,All,All,CATHWDP7,0,130,50,No
+7,Bangladesh,2005,0.148,Community and traditional health workers density,per 1k pop,All,All,CATHWDP8,0,130,50,No
+8,Bangladesh,2004,0.309,Community and traditional health workers density,per 1k pop,All,All,CATHWDP9,0,130,50,No
+9,Belize,2009,0.543,Community and traditional health workers density,per 1k pop,All,All,CATHWDP10,0,130,84,No
+10,Benin,2004,0.013,Community and traditional health workers density,per 1k pop,All,All,CATHWDP11,0,130,204,No
+11,Bhutan,2012,0.854,Community and traditional health workers density,per 1k pop,All,All,CATHWDP12,0,130,64,No
+12,Bhutan,2008,0.023,Community and traditional health workers density,per 1k pop,All,All,CATHWDP13,0,130,64,No
+13,Bhutan,2007,0.105,Community and traditional health workers density,per 1k pop,All,All,CATHWDP14,0,130,64,No
+14,Bhutan,2004,0.2,Community and traditional health workers density,per 1k pop,All,All,CATHWDP15,0,130,64,No
+15,Bolivia (Plurinational State of),2001,0.119,Community and traditional health workers density,per 1k pop,All,All,CATHWDP16,0,130,68,No
+16,Botswana,2006,0.523,Community and traditional health workers density,per 1k pop,All,All,CATHWDP17,0,130,72,No
+17,Botswana,2005,0.521,Community and traditional health workers density,per 1k pop,All,All,CATHWDP18,0,130,72,No
+18,Botswana,2003,0.486,Community and traditional health workers density,per 1k pop,All,All,CATHWDP19,0,130,72,No
+19,Botswana,2002,0.487,Community and traditional health workers density,per 1k pop,All,All,CATHWDP20,0,130,72,No
+20,Botswana,2001,0.469,Community and traditional health workers density,per 1k pop,All,All,CATHWDP21,0,130,72,No
+21,Botswana,2000,0.736,Community and traditional health workers density,per 1k pop,All,All,CATHWDP22,0,130,72,No
+22,Botswana,1999,0.457,Community and traditional health workers density,per 1k pop,All,All,CATHWDP23,0,130,72,No
+23,Botswana,1998,0.446,Community and traditional health workers density,per 1k pop,All,All,CATHWDP24,0,130,72,No
+24,Burkina Faso,2010,0.129,Community and traditional health workers density,per 1k pop,All,All,CATHWDP25,0,130,854,No
+25,Burkina Faso,2006,0.091,Community and traditional health workers density,per 1k pop,All,All,CATHWDP26,0,130,854,No
+26,Burkina Faso,2004,0.096,Community and traditional health workers density,per 1k pop,All,All,CATHWDP27,0,130,854,No
+27,Burundi,2004,0.093,Community and traditional health workers density,per 1k pop,All,All,CATHWDP28,0,130,108,No
+28,Cabo Verde,2004,0.137,Community and traditional health workers density,per 1k pop,All,All,CATHWDP29,0,130,132,No
+29,Cambodia,2004,0.113,Community and traditional health workers density,per 1k pop,All,All,CATHWDP30,0,130,116,No
+30,Central African Republic,2009,0.401,Community and traditional health workers density,per 1k pop,All,All,CATHWDP31,0,130,140,No
+31,Central African Republic,2008,0.415,Community and traditional health workers density,per 1k pop,All,All,CATHWDP32,0,130,140,No
+32,Central African Republic,2004,0.054,Community and traditional health workers density,per 1k pop,All,All,CATHWDP33,0,130,140,No
+33,Chad,2004,0.03,Community and traditional health workers density,per 1k pop,All,All,CATHWDP34,0,130,148,No
+34,Chile,1992,0.021,Community and traditional health workers density,per 1k pop,All,All,CATHWDP35,0,130,152,No
+35,China,2010,0.806,Community and traditional health workers density,per 1k pop,All,All,CATHWDP36,0,130,156,No
+36,China,2009,0.827,Community and traditional health workers density,per 1k pop,All,All,CATHWDP37,0,130,156,No
+37,China,2001,0.084,Community and traditional health workers density,per 1k pop,All,All,CATHWDP38,0,130,156,No
+38,Comoros,2004,0.052,Community and traditional health workers density,per 1k pop,All,All,CATHWDP39,0,130,174,No
+39,Congo,2004,0.032,Community and traditional health workers density,per 1k pop,All,All,CATHWDP40,0,130,178,No
+40,Cook Islands,2009,0.5,Community and traditional health workers density,per 1k pop,All,All,CATHWDP41,0,130,184,No
+41,Djibouti,2004,0.032,Community and traditional health workers density,per 1k pop,All,All,CATHWDP42,0,130,262,No
+42,Equatorial Guinea,2004,2.515,Community and traditional health workers density,per 1k pop,All,All,CATHWDP43,0,130,226,No
+43,Estonia,2000,0.032,Community and traditional health workers density,per 1k pop,All,All,CATHWDP44,0,130,233,No
+44,Ethiopia,2009,0.364,Community and traditional health workers density,per 1k pop,All,All,CATHWDP45,0,130,231,No
+45,Ethiopia,2009,0.364,Community and traditional health workers density,per 1k pop,All,All,CATHWDP45,0,130,230,No
+46,Ethiopia,2008,0.296,Community and traditional health workers density,per 1k pop,All,All,CATHWDP46,0,130,231,No
+47,Ethiopia,2008,0.296,Community and traditional health workers density,per 1k pop,All,All,CATHWDP46,0,130,230,No
+48,Ethiopia,2007,0.217,Community and traditional health workers density,per 1k pop,All,All,CATHWDP47,0,130,231,No
+49,Ethiopia,2007,0.217,Community and traditional health workers density,per 1k pop,All,All,CATHWDP47,0,130,230,No
+50,Ethiopia,2006,0.112,Community and traditional health workers density,per 1k pop,All,All,CATHWDP48,0,130,231,No
+51,Ethiopia,2006,0.112,Community and traditional health workers density,per 1k pop,All,All,CATHWDP48,0,130,230,No
+52,Ethiopia,2005,0.035,Community and traditional health workers density,per 1k pop,All,All,CATHWDP49,0,130,231,No
+53,Ethiopia,2005,0.035,Community and traditional health workers density,per 1k pop,All,All,CATHWDP49,0,130,230,No
+54,Ethiopia,2004,0.218,Community and traditional health workers density,per 1k pop,All,All,CATHWDP50,0,130,231,No
+55,Ethiopia,2004,0.218,Community and traditional health workers density,per 1k pop,All,All,CATHWDP50,0,130,230,No
+56,Ethiopia,2003,0.264,Community and traditional health workers density,per 1k pop,All,All,CATHWDP51,0,130,231,No
+57,Ethiopia,2003,0.264,Community and traditional health workers density,per 1k pop,All,All,CATHWDP51,0,130,230,No
+58,Gambia,2008,0.705,Community and traditional health workers density,per 1k pop,All,All,CATHWDP52,0,130,270,No
+59,Gambia,2007,0.725,Community and traditional health workers density,per 1k pop,All,All,CATHWDP53,0,130,270,No
+60,Gambia,2003,0.679,Community and traditional health workers density,per 1k pop,All,All,CATHWDP54,0,130,270,No
+61,Ghana,2008,0.192,Community and traditional health workers density,per 1k pop,All,All,CATHWDP55,0,130,288,No
+62,Grenada,2003,0.563,Community and traditional health workers density,per 1k pop,All,All,CATHWDP56,0,130,308,No
+63,Grenada,2002,0.556,Community and traditional health workers density,per 1k pop,All,All,CATHWDP57,0,130,308,No
+64,Grenada,2001,0.556,Community and traditional health workers density,per 1k pop,All,All,CATHWDP58,0,130,308,No
+65,Grenada,2000,0.556,Community and traditional health workers density,per 1k pop,All,All,CATHWDP59,0,130,308,No
+66,Grenada,1999,0.556,Community and traditional health workers density,per 1k pop,All,All,CATHWDP60,0,130,308,No
+67,Grenada,1998,0.488,Community and traditional health workers density,per 1k pop,All,All,CATHWDP61,0,130,308,No
+68,Guinea,2005,0.018,Community and traditional health workers density,per 1k pop,All,All,CATHWDP62,0,130,324,No
+69,Guinea,2004,0.011,Community and traditional health workers density,per 1k pop,All,All,CATHWDP63,0,130,324,No
+70,Guinea-Bissau,2004,2.917,Community and traditional health workers density,per 1k pop,All,All,CATHWDP64,0,130,624,No
+71,Guyana,2010,0.326,Community and traditional health workers density,per 1k pop,All,All,CATHWDP65,0,130,328,No
+72,Guyana,2009,0.326,Community and traditional health workers density,per 1k pop,All,All,CATHWDP66,0,130,328,No
+73,Iran (Islamic Republic of),2004,0.362,Community and traditional health workers density,per 1k pop,All,All,CATHWDP67,0,130,364,No
+74,Jamaica,2008,0.271,Community and traditional health workers density,per 1k pop,All,All,CATHWDP68,0,130,388,No
+75,Jordan,2004,0.178,Community and traditional health workers density,per 1k pop,All,All,CATHWDP69,0,130,400,No
+76,Liberia,2004,0.041,Community and traditional health workers density,per 1k pop,All,All,CATHWDP70,0,130,430,No
+77,Madagascar,2004,0.022,Community and traditional health workers density,per 1k pop,All,All,CATHWDP71,0,130,450,No
+78,Malawi,2008,0.732,Community and traditional health workers density,per 1k pop,All,All,CATHWDP72,0,130,454,No
+79,Malaysia,2010,0.444,Community and traditional health workers density,per 1k pop,All,All,CATHWDP73,0,130,458,No
+80,Maldives,2010,2.17,Community and traditional health workers density,per 1k pop,All,All,CATHWDP74,0,130,462,No
+81,Maldives,2009,1.741,Community and traditional health workers density,per 1k pop,All,All,CATHWDP75,0,130,462,No
+82,Maldives,2007,2.269,Community and traditional health workers density,per 1k pop,All,All,CATHWDP76,0,130,462,No
+83,Maldives,2004,2.802,Community and traditional health workers density,per 1k pop,All,All,CATHWDP77,0,130,462,No
+84,Maldives,1996,3.101,Community and traditional health workers density,per 1k pop,All,All,CATHWDP78,0,130,462,No
+85,Maldives,1993,4.0,Community and traditional health workers density,per 1k pop,All,All,CATHWDP79,0,130,462,No
+86,Maldives,1991,4.18,Community and traditional health workers density,per 1k pop,All,All,CATHWDP80,0,130,462,No
+87,Mali,2010,0.007,Community and traditional health workers density,per 1k pop,All,All,CATHWDP81,0,130,466,No
+88,Mali,2009,0.008,Community and traditional health workers density,per 1k pop,All,All,CATHWDP82,0,130,466,No
+89,Mali,2007,0.077,Community and traditional health workers density,per 1k pop,All,All,CATHWDP83,0,130,466,No
+90,Mali,2004,0.005,Community and traditional health workers density,per 1k pop,All,All,CATHWDP84,0,130,466,No
+91,Mauritania,2009,0.284,Community and traditional health workers density,per 1k pop,All,All,CATHWDP85,0,130,478,No
+92,Mauritania,2004,0.144,Community and traditional health workers density,per 1k pop,All,All,CATHWDP86,0,130,478,No
+93,Mauritius,2004,0.191,Community and traditional health workers density,per 1k pop,All,All,CATHWDP87,0,130,480,No
+94,Micronesia (Federated States of),2008,0.274,Community and traditional health workers density,per 1k pop,All,All,CATHWDP88,0,130,583,No
+95,Mongolia,2008,0.022,Community and traditional health workers density,per 1k pop,All,All,CATHWDP89,0,130,496,No
+96,Myanmar,2012,0.21,Community and traditional health workers density,per 1k pop,All,All,CATHWDP90,0,130,104,No
+97,Myanmar,2011,0.209,Community and traditional health workers density,per 1k pop,All,All,CATHWDP91,0,130,104,No
+98,Myanmar,2010,0.189,Community and traditional health workers density,per 1k pop,All,All,CATHWDP92,0,130,104,No
+99,Myanmar,2009,0.189,Community and traditional health workers density,per 1k pop,All,All,CATHWDP93,0,130,104,No
+100,Myanmar,2008,0.081,Community and traditional health workers density,per 1k pop,All,All,CATHWDP94,0,130,104,No
+101,Myanmar,2007,0.08,Community and traditional health workers density,per 1k pop,All,All,CATHWDP95,0,130,104,No
+102,Myanmar,2006,0.079,Community and traditional health workers density,per 1k pop,All,All,CATHWDP96,0,130,104,No
+103,Myanmar,2005,0.076,Community and traditional health workers density,per 1k pop,All,All,CATHWDP97,0,130,104,No
+104,Myanmar,2004,0.989,Community and traditional health workers density,per 1k pop,All,All,CATHWDP98,0,130,104,No
+105,Nauru,2009,0.214,Community and traditional health workers density,per 1k pop,All,All,CATHWDP99,0,130,520,No
+106,Nauru,2008,1.0,Community and traditional health workers density,per 1k pop,All,All,CATHWDP100,0,130,520,No
+107,Nepal,2004,0.63,Community and traditional health workers density,per 1k pop,All,All,CATHWDP101,0,130,524,No
+108,Nigeria,2008,0.137,Community and traditional health workers density,per 1k pop,All,All,CATHWDP102,0,130,566,No
+109,Nigeria,2007,0.14,Community and traditional health workers density,per 1k pop,All,All,CATHWDP103,0,130,566,No
+110,Nigeria,2004,0.911,Community and traditional health workers density,per 1k pop,All,All,CATHWDP104,0,130,566,No
+111,Pakistan,2010,0.066,Community and traditional health workers density,per 1k pop,All,All,CATHWDP105,0,130,586,No
+112,Pakistan,2009,0.063,Community and traditional health workers density,per 1k pop,All,All,CATHWDP106,0,130,586,No
+113,Pakistan,2008,0.06,Community and traditional health workers density,per 1k pop,All,All,CATHWDP107,0,130,586,No
+114,Pakistan,2001,0.039,Community and traditional health workers density,per 1k pop,All,All,CATHWDP108,0,130,586,No
+115,Pakistan,2000,0.038,Community and traditional health workers density,per 1k pop,All,All,CATHWDP109,0,130,586,No
+116,Pakistan,1999,0.038,Community and traditional health workers density,per 1k pop,All,All,CATHWDP110,0,130,586,No
+117,Pakistan,1998,0.037,Community and traditional health workers density,per 1k pop,All,All,CATHWDP111,0,130,586,No
+118,Pakistan,1997,0.035,Community and traditional health workers density,per 1k pop,All,All,CATHWDP112,0,130,586,No
+119,Pakistan,1996,0.034,Community and traditional health workers density,per 1k pop,All,All,CATHWDP113,0,130,586,No
+120,Pakistan,1995,0.033,Community and traditional health workers density,per 1k pop,All,All,CATHWDP114,0,130,586,No
+121,Pakistan,1994,0.034,Community and traditional health workers density,per 1k pop,All,All,CATHWDP115,0,130,586,No
+122,Pakistan,1993,0.033,Community and traditional health workers density,per 1k pop,All,All,CATHWDP116,0,130,586,No
+123,Pakistan,1992,0.033,Community and traditional health workers density,per 1k pop,All,All,CATHWDP117,0,130,586,No
+124,Papua New Guinea,2008,0.624,Community and traditional health workers density,per 1k pop,All,All,CATHWDP118,0,130,598,No
+125,Rwanda,2004,1.415,Community and traditional health workers density,per 1k pop,All,All,CATHWDP119,0,130,646,No
+126,Saint Kitts and Nevis,2001,1.143,Community and traditional health workers density,per 1k pop,All,All,CATHWDP120,0,130,659,No
+127,Saint Kitts and Nevis,1999,0.744,Community and traditional health workers density,per 1k pop,All,All,CATHWDP121,0,130,659,No
+128,Saint Kitts and Nevis,1998,0.744,Community and traditional health workers density,per 1k pop,All,All,CATHWDP122,0,130,659,No
+129,Saint Kitts and Nevis,1997,0.395,Community and traditional health workers density,per 1k pop,All,All,CATHWDP123,0,130,659,No
+130,Saint Kitts and Nevis,1996,0.386,Community and traditional health workers density,per 1k pop,All,All,CATHWDP124,0,130,659,No
+131,Saint Kitts and Nevis,1995,0.386,Community and traditional health workers density,per 1k pop,All,All,CATHWDP125,0,130,659,No
+132,Saint Kitts and Nevis,1994,0.395,Community and traditional health workers density,per 1k pop,All,All,CATHWDP126,0,130,659,No
+133,Saint Kitts and Nevis,1993,0.395,Community and traditional health workers density,per 1k pop,All,All,CATHWDP127,0,130,659,No
+134,Saint Kitts and Nevis,1992,0.405,Community and traditional health workers density,per 1k pop,All,All,CATHWDP128,0,130,659,No
+135,Saint Kitts and Nevis,1991,0.415,Community and traditional health workers density,per 1k pop,All,All,CATHWDP129,0,130,659,No
+136,Saint Kitts and Nevis,1990,0.415,Community and traditional health workers density,per 1k pop,All,All,CATHWDP130,0,130,659,No
+137,Saint Vincent and the Grenadines,2000,0.381,Community and traditional health workers density,per 1k pop,All,All,CATHWDP131,0,130,670,No
+138,Sao Tome and Principe,2004,2.267,Community and traditional health workers density,per 1k pop,All,All,CATHWDP132,0,130,678,No
+139,Sierra Leone,2010,0.022,Community and traditional health workers density,per 1k pop,All,All,CATHWDP133,0,130,694,No
+140,Sierra Leone,2008,0.022,Community and traditional health workers density,per 1k pop,All,All,CATHWDP134,0,130,694,No
+141,Sierra Leone,2004,0.108,Community and traditional health workers density,per 1k pop,All,All,CATHWDP135,0,130,694,No
+142,South Africa,2004,0.203,Community and traditional health workers density,per 1k pop,All,All,CATHWDP136,0,130,710,No
+143,Sudan,2004,0.169,Community and traditional health workers density,per 1k pop,All,All,CATHWDP137,0,130,729,No
+144,Sudan,2004,0.169,Community and traditional health workers density,per 1k pop,All,All,CATHWDP137,0,130,736,No
+145,Swaziland,2004,4.34,Community and traditional health workers density,per 1k pop,All,All,CATHWDP138,0,130,748,No
+146,Thailand,2000,0.059,Community and traditional health workers density,per 1k pop,All,All,CATHWDP139,0,130,764,No
+147,Timor-Leste,2004,2.021,Community and traditional health workers density,per 1k pop,All,All,CATHWDP140,0,130,626,No
+148,Togo,2004,0.095,Community and traditional health workers density,per 1k pop,All,All,CATHWDP141,0,130,768,No
+149,Uganda,2005,0.188,Community and traditional health workers density,per 1k pop,All,All,CATHWDP142,0,130,800,No
+150,Vanuatu,2008,0.946,Community and traditional health workers density,per 1k pop,All,All,CATHWDP143,0,130,548,No
+151,Vanuatu,2007,0.516,Community and traditional health workers density,per 1k pop,All,All,CATHWDP144,0,130,548,No
+152,Yemen,2010,0.001,Community and traditional health workers density,per 1k pop,All,All,CATHWDP145,0,130,887,No
+153,Yemen,2010,0.001,Community and traditional health workers density,per 1k pop,All,All,CATHWDP145,0,130,886,No
+154,Yemen,2004,0.291,Community and traditional health workers density,per 1k pop,All,All,CATHWDP146,0,130,887,No
+155,Yemen,2004,0.291,Community and traditional health workers density,per 1k pop,All,All,CATHWDP146,0,130,886,No
+156,Zambia,2008,0.732,Community and traditional health workers density,per 1k pop,All,All,CATHWDP147,0,130,894,No
+157,Zambia,2005,0.841,Community and traditional health workers density,per 1k pop,All,All,CATHWDP148,0,130,894,No

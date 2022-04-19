@@ -1,0 +1,511 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2008,1667,Number of midwifery personnel,Absolute,All,All,NOMIPE1,0,130,4,No
+1,Afghanistan,2007,1621,Number of midwifery personnel,Absolute,All,All,NOMIPE2,0,130,4,No
+2,Albania,1994,1891,Number of midwifery personnel,Absolute,All,All,NOMIPE3,0,130,8,No
+3,Algeria,2007,8267,Number of midwifery personnel,Absolute,All,All,NOMIPE4,0,130,12,No
+4,Algeria,2002,7572,Number of midwifery personnel,Absolute,All,All,NOMIPE5,0,130,12,No
+5,Andorra,2003,10,Number of midwifery personnel,Absolute,All,All,NOMIPE6,0,130,20,No
+6,Angola,1997,492,Number of midwifery personnel,Absolute,All,All,NOMIPE7,0,130,24,No
+7,Argentina,2004,4211,Number of midwifery personnel,Absolute,All,All,NOMIPE8,0,130,32,No
+8,Armenia,2012,1298,Number of midwifery personnel,Absolute,All,All,NOMIPE9,0,130,51,No
+9,Australia,2011,15523,Number of midwifery personnel,Absolute,All,All,NOMIPE10,0,130,36,No
+10,Australia,2009,13000,Number of midwifery personnel,Absolute,All,All,NOMIPE11,0,130,36,No
+11,Australia,2006,12236,Number of midwifery personnel,Absolute,All,All,NOMIPE12,0,130,36,No
+12,Australia,2001,11649,Number of midwifery personnel,Absolute,All,All,NOMIPE13,0,130,36,No
+13,Australia,1996,10902,Number of midwifery personnel,Absolute,All,All,NOMIPE14,0,130,36,No
+14,Austria,2011,1338,Number of midwifery personnel,Absolute,All,All,NOMIPE15,0,130,40,No
+15,Azerbaijan,2012,5496,Number of midwifery personnel,Absolute,All,All,NOMIPE16,0,130,31,No
+16,Bahrain,2004,560,Number of midwifery personnel,Absolute,All,All,NOMIPE17,0,130,48,No
+17,Bangladesh,2011,5940,Number of midwifery personnel,Absolute,All,All,NOMIPE18,0,130,50,No
+18,Bangladesh,2007,18516,Number of midwifery personnel,Absolute,All,All,NOMIPE19,0,130,50,No
+19,Bangladesh,2006,19911,Number of midwifery personnel,Absolute,All,All,NOMIPE20,0,130,50,No
+20,Bangladesh,2005,19354,Number of midwifery personnel,Absolute,All,All,NOMIPE21,0,130,50,No
+21,Bangladesh,2004,26460,Number of midwifery personnel,Absolute,All,All,NOMIPE22,0,130,50,No
+22,Bangladesh,2003,17622,Number of midwifery personnel,Absolute,All,All,NOMIPE23,0,130,50,No
+23,Belarus,2011,4903,Number of midwifery personnel,Absolute,All,All,NOMIPE24,0,130,112,No
+24,Belgium,2010,8618,Number of midwifery personnel,Absolute,All,All,NOMIPE25,0,130,56,No
+25,Belgium,2001,6603,Number of midwifery personnel,Absolute,All,All,NOMIPE26,0,130,56,No
+26,Belize,2009,42,Number of midwifery personnel,Absolute,All,All,NOMIPE27,0,130,84,No
+27,Benin,2008,1155,Number of midwifery personnel,Absolute,All,All,NOMIPE28,0,130,204,No
+28,Benin,2004,824,Number of midwifery personnel,Absolute,All,All,NOMIPE29,0,130,204,No
+29,Bhutan,2004,185,Number of midwifery personnel,Absolute,All,All,NOMIPE30,0,130,64,No
+30,Bolivia (Plurinational State of),2001,96,Number of midwifery personnel,Absolute,All,All,NOMIPE31,0,130,68,No
+31,Brazil,1991,2523,Number of midwifery personnel,Absolute,All,All,NOMIPE32,0,130,76,No
+32,Brunei Darussalam,2011,510,Number of midwifery personnel,Absolute,All,All,NOMIPE33,0,130,96,No
+33,Brunei Darussalam,2010,508,Number of midwifery personnel,Absolute,All,All,NOMIPE34,0,130,96,No
+34,Brunei Darussalam,2007,457,Number of midwifery personnel,Absolute,All,All,NOMIPE35,0,130,96,No
+35,Brunei Darussalam,2002,470,Number of midwifery personnel,Absolute,All,All,NOMIPE36,0,130,96,No
+36,Brunei Darussalam,2000,404,Number of midwifery personnel,Absolute,All,All,NOMIPE37,0,130,96,No
+37,Bulgaria,2011,3270,Number of midwifery personnel,Absolute,All,All,NOMIPE38,0,130,100,No
+38,Burkina Faso,2010,3033,Number of midwifery personnel,Absolute,All,All,NOMIPE39,0,130,854,No
+39,Burkina Faso,2008,3854,Number of midwifery personnel,Absolute,All,All,NOMIPE40,0,130,854,No
+40,Burkina Faso,2006,2035,Number of midwifery personnel,Absolute,All,All,NOMIPE41,0,130,854,No
+41,Burkina Faso,2004,2289,Number of midwifery personnel,Absolute,All,All,NOMIPE42,0,130,854,No
+42,Burundi,2004,11,Number of midwifery personnel,Absolute,All,All,NOMIPE43,0,130,108,No
+43,Cambodia,2008,3245,Number of midwifery personnel,Absolute,All,All,NOMIPE44,0,130,116,No
+44,Cambodia,2000,3040,Number of midwifery personnel,Absolute,All,All,NOMIPE45,0,130,116,No
+45,Cambodia,1998,3312,Number of midwifery personnel,Absolute,All,All,NOMIPE46,0,130,116,No
+46,Cambodia,1996,3221,Number of midwifery personnel,Absolute,All,All,NOMIPE47,0,130,116,No
+47,Cameroon,2004,45,Number of midwifery personnel,Absolute,All,All,NOMIPE48,0,130,120,No
+48,Canada,2008,599,Number of midwifery personnel,Absolute,All,All,NOMIPE49,0,130,124,No
+49,Canada,2006,622,Number of midwifery personnel,Absolute,All,All,NOMIPE50,0,130,124,No
+50,Canada,2004,513,Number of midwifery personnel,Absolute,All,All,NOMIPE51,0,130,124,No
+51,Canada,2002,413,Number of midwifery personnel,Absolute,All,All,NOMIPE52,0,130,124,No
+52,Canada,2001,370,Number of midwifery personnel,Absolute,All,All,NOMIPE53,0,130,124,No
+53,Canada,1998,265,Number of midwifery personnel,Absolute,All,All,NOMIPE54,0,130,124,No
+54,Central African Republic,2009,469,Number of midwifery personnel,Absolute,All,All,NOMIPE55,0,130,140,No
+55,Central African Republic,2008,535,Number of midwifery personnel,Absolute,All,All,NOMIPE56,0,130,140,No
+56,Central African Republic,2004,705,Number of midwifery personnel,Absolute,All,All,NOMIPE57,0,130,140,No
+57,Chad,2006,152,Number of midwifery personnel,Absolute,All,All,NOMIPE58,0,130,148,No
+58,Chad,2004,353,Number of midwifery personnel,Absolute,All,All,NOMIPE59,0,130,148,No
+59,Chad,2000,155,Number of midwifery personnel,Absolute,All,All,NOMIPE60,0,130,148,No
+60,Chad,1999,177,Number of midwifery personnel,Absolute,All,All,NOMIPE61,0,130,148,No
+61,Chad,1998,178,Number of midwifery personnel,Absolute,All,All,NOMIPE62,0,130,148,No
+62,Chad,1997,142,Number of midwifery personnel,Absolute,All,All,NOMIPE63,0,130,148,No
+63,Chile,2009,1690,Number of midwifery personnel,Absolute,All,All,NOMIPE64,0,130,152,No
+64,Chile,2008,1691,Number of midwifery personnel,Absolute,All,All,NOMIPE65,0,130,152,No
+65,Chile,2007,1636,Number of midwifery personnel,Absolute,All,All,NOMIPE66,0,130,152,No
+66,Chile,2006,1643,Number of midwifery personnel,Absolute,All,All,NOMIPE67,0,130,152,No
+67,Chile,2005,1523,Number of midwifery personnel,Absolute,All,All,NOMIPE68,0,130,152,No
+68,Chile,2004,1516,Number of midwifery personnel,Absolute,All,All,NOMIPE69,0,130,152,No
+69,Chile,2003,1480,Number of midwifery personnel,Absolute,All,All,NOMIPE70,0,130,152,No
+70,Chile,2002,1314,Number of midwifery personnel,Absolute,All,All,NOMIPE71,0,130,152,No
+71,Chile,1992,5720,Number of midwifery personnel,Absolute,All,All,NOMIPE72,0,130,152,No
+72,China,2001,42000,Number of midwifery personnel,Absolute,All,All,NOMIPE73,0,130,156,No
+73,Comoros,2004,107,Number of midwifery personnel,Absolute,All,All,NOMIPE74,0,130,174,No
+74,Congo,2007,637,Number of midwifery personnel,Absolute,All,All,NOMIPE75,0,130,178,No
+75,Congo,2006,750,Number of midwifery personnel,Absolute,All,All,NOMIPE76,0,130,178,No
+76,Congo,2004,458,Number of midwifery personnel,Absolute,All,All,NOMIPE77,0,130,178,No
+77,Cook Islands,2004,20,Number of midwifery personnel,Absolute,All,All,NOMIPE78,0,130,184,No
+78,Cook Islands,2001,3,Number of midwifery personnel,Absolute,All,All,NOMIPE79,0,130,184,No
+79,Costa Rica,2000,22,Number of midwifery personnel,Absolute,All,All,NOMIPE80,0,130,188,No
+80,Côte dIvoire,2008,2258,Number of midwifery personnel,Absolute,All,All,NOMIPE81,0,130,384,No
+81,Côte dIvoire,2005,2146,Number of midwifery personnel,Absolute,All,All,NOMIPE82,0,130,384,No
+82,Côte dIvoire,2004,2407,Number of midwifery personnel,Absolute,All,All,NOMIPE83,0,130,384,No
+83,Croatia,2011,1593,Number of midwifery personnel,Absolute,All,All,NOMIPE84,0,130,191,No
+84,Czech Republic,2011,4479,Number of midwifery personnel,Absolute,All,All,NOMIPE85,0,130,203,No
+85,Democratic Peoples Republic of Korea,2003,6084,Number of midwifery personnel,Absolute,All,All,NOMIPE86,0,130,408,No
+86,Denmark,2009,1572,Number of midwifery personnel,Absolute,All,All,NOMIPE87,0,130,208,No
+87,Denmark,2008,1437,Number of midwifery personnel,Absolute,All,All,NOMIPE88,0,130,208,No
+88,Djibouti,2005,154,Number of midwifery personnel,Absolute,All,All,NOMIPE89,0,130,262,No
+89,Djibouti,2004,111,Number of midwifery personnel,Absolute,All,All,NOMIPE90,0,130,262,No
+90,Ecuador,2009,1556,Number of midwifery personnel,Absolute,All,All,NOMIPE91,0,130,218,No
+91,Ecuador,2003,1024,Number of midwifery personnel,Absolute,All,All,NOMIPE92,0,130,218,No
+92,Ecuador,2002,1090,Number of midwifery personnel,Absolute,All,All,NOMIPE93,0,130,218,No
+93,Ecuador,2001,1057,Number of midwifery personnel,Absolute,All,All,NOMIPE94,0,130,218,No
+94,Ecuador,2000,1037,Number of midwifery personnel,Absolute,All,All,NOMIPE95,0,130,218,No
+95,Ecuador,1999,988,Number of midwifery personnel,Absolute,All,All,NOMIPE96,0,130,218,No
+96,Ecuador,1998,899,Number of midwifery personnel,Absolute,All,All,NOMIPE97,0,130,218,No
+97,Ecuador,1997,842,Number of midwifery personnel,Absolute,All,All,NOMIPE98,0,130,218,No
+98,Ecuador,1996,827,Number of midwifery personnel,Absolute,All,All,NOMIPE99,0,130,218,No
+99,Ecuador,1995,755,Number of midwifery personnel,Absolute,All,All,NOMIPE100,0,130,218,No
+100,Ecuador,1994,755,Number of midwifery personnel,Absolute,All,All,NOMIPE101,0,130,218,No
+101,Ecuador,1993,632,Number of midwifery personnel,Absolute,All,All,NOMIPE102,0,130,218,No
+102,Ecuador,1992,667,Number of midwifery personnel,Absolute,All,All,NOMIPE103,0,130,218,No
+103,Ecuador,1991,573,Number of midwifery personnel,Absolute,All,All,NOMIPE104,0,130,218,No
+104,Ecuador,1990,503,Number of midwifery personnel,Absolute,All,All,NOMIPE105,0,130,218,No
+105,Ecuador,1989,479,Number of midwifery personnel,Absolute,All,All,NOMIPE106,0,130,218,No
+106,Ecuador,1988,448,Number of midwifery personnel,Absolute,All,All,NOMIPE107,0,130,218,No
+107,Ecuador,1987,391,Number of midwifery personnel,Absolute,All,All,NOMIPE108,0,130,218,No
+108,Ecuador,1986,322,Number of midwifery personnel,Absolute,All,All,NOMIPE109,0,130,218,No
+109,Ecuador,1985,301,Number of midwifery personnel,Absolute,All,All,NOMIPE110,0,130,218,No
+110,Ecuador,1984,322,Number of midwifery personnel,Absolute,All,All,NOMIPE111,0,130,218,No
+111,Ecuador,1983,267,Number of midwifery personnel,Absolute,All,All,NOMIPE112,0,130,218,No
+112,Ecuador,1982,283,Number of midwifery personnel,Absolute,All,All,NOMIPE113,0,130,218,No
+113,Ecuador,1981,264,Number of midwifery personnel,Absolute,All,All,NOMIPE114,0,130,218,No
+114,Egypt,2004,1777,Number of midwifery personnel,Absolute,All,All,NOMIPE115,0,130,818,No
+115,Equatorial Guinea,2004,53,Number of midwifery personnel,Absolute,All,All,NOMIPE116,0,130,226,No
+116,Eritrea,2004,140,Number of midwifery personnel,Absolute,All,All,NOMIPE117,0,130,232,No
+117,Estonia,2011,381,Number of midwifery personnel,Absolute,All,All,NOMIPE118,0,130,233,No
+118,Estonia,2010,421,Number of midwifery personnel,Absolute,All,All,NOMIPE119,0,130,233,No
+119,Estonia,2000,469,Number of midwifery personnel,Absolute,All,All,NOMIPE120,0,130,233,No
+120,Ethiopia,2009,1379,Number of midwifery personnel,Absolute,All,All,NOMIPE121,0,130,231,No
+121,Ethiopia,2009,1379,Number of midwifery personnel,Absolute,All,All,NOMIPE121,0,130,230,No
+122,Ethiopia,2008,1244,Number of midwifery personnel,Absolute,All,All,NOMIPE122,0,130,231,No
+123,Ethiopia,2008,1244,Number of midwifery personnel,Absolute,All,All,NOMIPE122,0,130,230,No
+124,Ethiopia,2007,1012,Number of midwifery personnel,Absolute,All,All,NOMIPE123,0,130,231,No
+125,Ethiopia,2007,1012,Number of midwifery personnel,Absolute,All,All,NOMIPE123,0,130,230,No
+126,Ethiopia,2006,1189,Number of midwifery personnel,Absolute,All,All,NOMIPE124,0,130,231,No
+127,Ethiopia,2006,1189,Number of midwifery personnel,Absolute,All,All,NOMIPE124,0,130,230,No
+128,Ethiopia,2005,1509,Number of midwifery personnel,Absolute,All,All,NOMIPE125,0,130,231,No
+129,Ethiopia,2005,1509,Number of midwifery personnel,Absolute,All,All,NOMIPE125,0,130,230,No
+130,Ethiopia,2004,1274,Number of midwifery personnel,Absolute,All,All,NOMIPE126,0,130,231,No
+131,Ethiopia,2004,1274,Number of midwifery personnel,Absolute,All,All,NOMIPE126,0,130,230,No
+132,Ethiopia,2003,1274,Number of midwifery personnel,Absolute,All,All,NOMIPE127,0,130,231,No
+133,Ethiopia,2003,1274,Number of midwifery personnel,Absolute,All,All,NOMIPE127,0,130,230,No
+134,Finland,2010,2166,Number of midwifery personnel,Absolute,All,All,NOMIPE128,0,130,246,No
+135,Finland,2009,2531,Number of midwifery personnel,Absolute,All,All,NOMIPE129,0,130,246,No
+136,Finland,2002,3952,Number of midwifery personnel,Absolute,All,All,NOMIPE130,0,130,246,No
+137,France,2012,20215,Number of midwifery personnel,Absolute,All,All,NOMIPE131,0,130,250,No
+138,France,2011,19535,Number of midwifery personnel,Absolute,All,All,NOMIPE132,0,130,250,No
+139,France,2008,17998,Number of midwifery personnel,Absolute,All,All,NOMIPE133,0,130,250,No
+140,France,2007,17483,Number of midwifery personnel,Absolute,All,All,NOMIPE134,0,130,250,No
+141,France,2006,16995,Number of midwifery personnel,Absolute,All,All,NOMIPE135,0,130,250,No
+142,France,2005,16553,Number of midwifery personnel,Absolute,All,All,NOMIPE136,0,130,250,No
+143,France,2004,16134,Number of midwifery personnel,Absolute,All,All,NOMIPE137,0,130,250,No
+144,France,2003,15684,Number of midwifery personnel,Absolute,All,All,NOMIPE138,0,130,250,No
+145,France,2002,15122,Number of midwifery personnel,Absolute,All,All,NOMIPE139,0,130,250,No
+146,France,2001,14725,Number of midwifery personnel,Absolute,All,All,NOMIPE140,0,130,250,No
+147,France,2000,14353,Number of midwifery personnel,Absolute,All,All,NOMIPE141,0,130,250,No
+148,France,1999,13921,Number of midwifery personnel,Absolute,All,All,NOMIPE142,0,130,250,No
+149,France,1998,13871,Number of midwifery personnel,Absolute,All,All,NOMIPE143,0,130,250,No
+150,France,1997,13146,Number of midwifery personnel,Absolute,All,All,NOMIPE144,0,130,250,No
+151,France,1996,12662,Number of midwifery personnel,Absolute,All,All,NOMIPE145,0,130,250,No
+152,France,1995,12218,Number of midwifery personnel,Absolute,All,All,NOMIPE146,0,130,250,No
+153,France,1994,11957,Number of midwifery personnel,Absolute,All,All,NOMIPE147,0,130,250,No
+154,France,1993,11479,Number of midwifery personnel,Absolute,All,All,NOMIPE148,0,130,250,No
+155,France,1992,11205,Number of midwifery personnel,Absolute,All,All,NOMIPE149,0,130,250,No
+156,France,1991,10872,Number of midwifery personnel,Absolute,All,All,NOMIPE150,0,130,250,No
+157,Gabon,2004,503,Number of midwifery personnel,Absolute,All,All,NOMIPE151,0,130,266,No
+158,Gambia,2008,500,Number of midwifery personnel,Absolute,All,All,NOMIPE152,0,130,270,No
+159,Gambia,2007,355,Number of midwifery personnel,Absolute,All,All,NOMIPE153,0,130,270,No
+160,Gambia,2006,268,Number of midwifery personnel,Absolute,All,All,NOMIPE154,0,130,270,No
+161,Gambia,2005,256,Number of midwifery personnel,Absolute,All,All,NOMIPE155,0,130,270,No
+162,Gambia,2004,235,Number of midwifery personnel,Absolute,All,All,NOMIPE156,0,130,270,No
+163,Gambia,2003,263,Number of midwifery personnel,Absolute,All,All,NOMIPE157,0,130,270,No
+164,Georgia,2012,634,Number of midwifery personnel,Absolute,All,All,NOMIPE158,0,130,268,No
+165,Georgia,2009,992,Number of midwifery personnel,Absolute,All,All,NOMIPE159,0,130,268,No
+166,Georgia,2008,1189,Number of midwifery personnel,Absolute,All,All,NOMIPE160,0,130,268,No
+167,Germany,2011,19000,Number of midwifery personnel,Absolute,All,All,NOMIPE161,0,130,276,No
+168,Ghana,2008,6034,Number of midwifery personnel,Absolute,All,All,NOMIPE162,0,130,288,No
+169,Ghana,2004,3910,Number of midwifery personnel,Absolute,All,All,NOMIPE163,0,130,288,No
+170,Greece,2001,1916,Number of midwifery personnel,Absolute,All,All,NOMIPE164,0,130,300,No
+171,Guinea,2005,401,Number of midwifery personnel,Absolute,All,All,NOMIPE165,0,130,324,No
+172,Guinea,2004,347,Number of midwifery personnel,Absolute,All,All,NOMIPE166,0,130,324,No
+173,Guinea,2000,299,Number of midwifery personnel,Absolute,All,All,NOMIPE167,0,130,324,No
+174,Guinea-Bissau,2009,174,Number of midwifery personnel,Absolute,All,All,NOMIPE168,0,130,624,No
+175,Guinea-Bissau,2008,169,Number of midwifery personnel,Absolute,All,All,NOMIPE169,0,130,624,No
+176,Guinea-Bissau,2004,160,Number of midwifery personnel,Absolute,All,All,NOMIPE170,0,130,624,No
+177,Guyana,2009,200,Number of midwifery personnel,Absolute,All,All,NOMIPE171,0,130,328,No
+178,Honduras,2000,195,Number of midwifery personnel,Absolute,All,All,NOMIPE172,0,130,340,No
+179,Hungary,2011,1746,Number of midwifery personnel,Absolute,All,All,NOMIPE173,0,130,348,No
+180,Iceland,2012,256,Number of midwifery personnel,Absolute,All,All,NOMIPE174,0,130,352,No
+181,Iceland,2011,278,Number of midwifery personnel,Absolute,All,All,NOMIPE175,0,130,352,No
+182,Iceland,2010,250,Number of midwifery personnel,Absolute,All,All,NOMIPE176,0,130,352,No
+183,Iceland,2009,250,Number of midwifery personnel,Absolute,All,All,NOMIPE177,0,130,352,No
+184,Iceland,2008,250,Number of midwifery personnel,Absolute,All,All,NOMIPE178,0,130,352,No
+185,Iceland,2007,245,Number of midwifery personnel,Absolute,All,All,NOMIPE179,0,130,352,No
+186,Iceland,2006,240,Number of midwifery personnel,Absolute,All,All,NOMIPE180,0,130,352,No
+187,Iceland,2005,232,Number of midwifery personnel,Absolute,All,All,NOMIPE181,0,130,352,No
+188,Iceland,2004,224,Number of midwifery personnel,Absolute,All,All,NOMIPE182,0,130,352,No
+189,Iceland,2003,216,Number of midwifery personnel,Absolute,All,All,NOMIPE183,0,130,352,No
+190,Iceland,2002,208,Number of midwifery personnel,Absolute,All,All,NOMIPE184,0,130,352,No
+191,Iceland,2001,219,Number of midwifery personnel,Absolute,All,All,NOMIPE185,0,130,352,No
+192,Iceland,2000,206,Number of midwifery personnel,Absolute,All,All,NOMIPE186,0,130,352,No
+193,India,2005,521593,Number of midwifery personnel,Absolute,All,All,NOMIPE187,0,130,356,No
+194,India,2004,506924,Number of midwifery personnel,Absolute,All,All,NOMIPE188,0,130,356,No
+195,India,1991,60061,Number of midwifery personnel,Absolute,All,All,NOMIPE189,0,130,356,No
+196,Indonesia,2012,121084,Number of midwifery personnel,Absolute,All,All,NOMIPE190,0,130,360,No
+197,Indonesia,2010,96551,Number of midwifery personnel,Absolute,All,All,NOMIPE191,0,130,360,No
+198,Indonesia,2009,54153,Number of midwifery personnel,Absolute,All,All,NOMIPE192,0,130,360,No
+199,Indonesia,2003,54338,Number of midwifery personnel,Absolute,All,All,NOMIPE193,0,130,360,No
+200,Indonesia,1992,22429,Number of midwifery personnel,Absolute,All,All,NOMIPE194,0,130,360,No
+201,Iran (Islamic Republic of),2004,13087,Number of midwifery personnel,Absolute,All,All,NOMIPE195,0,130,364,No
+202,Ireland,2001,16486,Number of midwifery personnel,Absolute,All,All,NOMIPE196,0,130,372,No
+203,Italy,1982,16523,Number of midwifery personnel,Absolute,All,All,NOMIPE197,0,130,380,No
+204,Japan,2012,31835,Number of midwifery personnel,Absolute,All,All,NOMIPE198,0,130,392,No
+205,Japan,2012,31835,Number of midwifery personnel,Absolute,All,All,NOMIPE198,0,130,392,No
+206,Japan,2011,33606,Number of midwifery personnel,Absolute,All,All,NOMIPE199,0,130,392,No
+207,Japan,2011,33606,Number of midwifery personnel,Absolute,All,All,NOMIPE199,0,130,392,No
+208,Japan,2010,29672,Number of midwifery personnel,Absolute,All,All,NOMIPE200,0,130,392,No
+209,Japan,2010,29672,Number of midwifery personnel,Absolute,All,All,NOMIPE200,0,130,392,No
+210,Japan,2008,27789,Number of midwifery personnel,Absolute,All,All,NOMIPE201,0,130,392,No
+211,Japan,2008,27789,Number of midwifery personnel,Absolute,All,All,NOMIPE201,0,130,392,No
+212,Japan,2006,25775,Number of midwifery personnel,Absolute,All,All,NOMIPE202,0,130,392,No
+213,Japan,2006,25775,Number of midwifery personnel,Absolute,All,All,NOMIPE202,0,130,392,No
+214,Japan,2004,25257,Number of midwifery personnel,Absolute,All,All,NOMIPE203,0,130,392,No
+215,Japan,2004,25257,Number of midwifery personnel,Absolute,All,All,NOMIPE203,0,130,392,No
+216,Japan,2002,24340,Number of midwifery personnel,Absolute,All,All,NOMIPE204,0,130,392,No
+217,Japan,2002,24340,Number of midwifery personnel,Absolute,All,All,NOMIPE204,0,130,392,No
+218,Japan,2000,24511,Number of midwifery personnel,Absolute,All,All,NOMIPE205,0,130,392,No
+219,Japan,2000,24511,Number of midwifery personnel,Absolute,All,All,NOMIPE205,0,130,392,No
+220,Japan,1998,24202,Number of midwifery personnel,Absolute,All,All,NOMIPE206,0,130,392,No
+221,Japan,1998,24202,Number of midwifery personnel,Absolute,All,All,NOMIPE206,0,130,392,No
+222,Japan,1996,23615,Number of midwifery personnel,Absolute,All,All,NOMIPE207,0,130,392,No
+223,Japan,1996,23615,Number of midwifery personnel,Absolute,All,All,NOMIPE207,0,130,392,No
+224,Japan,1994,23048,Number of midwifery personnel,Absolute,All,All,NOMIPE208,0,130,392,No
+225,Japan,1994,23048,Number of midwifery personnel,Absolute,All,All,NOMIPE208,0,130,392,No
+226,Japan,1992,22690,Number of midwifery personnel,Absolute,All,All,NOMIPE209,0,130,392,No
+227,Japan,1992,22690,Number of midwifery personnel,Absolute,All,All,NOMIPE209,0,130,392,No
+228,Japan,1990,22918,Number of midwifery personnel,Absolute,All,All,NOMIPE210,0,130,392,No
+229,Japan,1990,22918,Number of midwifery personnel,Absolute,All,All,NOMIPE210,0,130,392,No
+230,Japan,1988,23320,Number of midwifery personnel,Absolute,All,All,NOMIPE211,0,130,392,No
+231,Japan,1988,23320,Number of midwifery personnel,Absolute,All,All,NOMIPE211,0,130,392,No
+232,Japan,1986,24056,Number of midwifery personnel,Absolute,All,All,NOMIPE212,0,130,392,No
+233,Japan,1986,24056,Number of midwifery personnel,Absolute,All,All,NOMIPE212,0,130,392,No
+234,Japan,1984,24649,Number of midwifery personnel,Absolute,All,All,NOMIPE213,0,130,392,No
+235,Japan,1984,24649,Number of midwifery personnel,Absolute,All,All,NOMIPE213,0,130,392,No
+236,Japan,1982,25416,Number of midwifery personnel,Absolute,All,All,NOMIPE214,0,130,392,No
+237,Japan,1982,25416,Number of midwifery personnel,Absolute,All,All,NOMIPE214,0,130,392,No
+238,Japan,1980,25867,Number of midwifery personnel,Absolute,All,All,NOMIPE215,0,130,392,No
+239,Japan,1980,25867,Number of midwifery personnel,Absolute,All,All,NOMIPE215,0,130,392,No
+240,Jordan,2010,2102,Number of midwifery personnel,Absolute,All,All,NOMIPE216,0,130,400,No
+241,Jordan,2009,1985,Number of midwifery personnel,Absolute,All,All,NOMIPE217,0,130,400,No
+242,Jordan,2008,1909,Number of midwifery personnel,Absolute,All,All,NOMIPE218,0,130,400,No
+243,Jordan,2007,1849,Number of midwifery personnel,Absolute,All,All,NOMIPE219,0,130,400,No
+244,Jordan,2006,1595,Number of midwifery personnel,Absolute,All,All,NOMIPE220,0,130,400,No
+245,Jordan,2005,1436,Number of midwifery personnel,Absolute,All,All,NOMIPE221,0,130,400,No
+246,Jordan,2004,1669,Number of midwifery personnel,Absolute,All,All,NOMIPE222,0,130,400,No
+247,Jordan,2003,1500,Number of midwifery personnel,Absolute,All,All,NOMIPE223,0,130,400,No
+248,Jordan,2002,1393,Number of midwifery personnel,Absolute,All,All,NOMIPE224,0,130,400,No
+249,Jordan,2001,1291,Number of midwifery personnel,Absolute,All,All,NOMIPE225,0,130,400,No
+250,Jordan,2000,1215,Number of midwifery personnel,Absolute,All,All,NOMIPE226,0,130,400,No
+251,Jordan,1999,1096,Number of midwifery personnel,Absolute,All,All,NOMIPE227,0,130,400,No
+252,Jordan,1998,1027,Number of midwifery personnel,Absolute,All,All,NOMIPE228,0,130,400,No
+253,Kazakhstan,2012,9694,Number of midwifery personnel,Absolute,All,All,NOMIPE229,0,130,398,No
+254,Kiribati,2010,74,Number of midwifery personnel,Absolute,All,All,NOMIPE230,0,130,296,No
+255,Kiribati,2009,48,Number of midwifery personnel,Absolute,All,All,NOMIPE231,0,130,296,No
+256,Kiribati,2004,30,Number of midwifery personnel,Absolute,All,All,NOMIPE232,0,130,296,No
+257,Kyrgyzstan,2012,2277,Number of midwifery personnel,Absolute,All,All,NOMIPE233,0,130,417,No
+258,Lao Peoples Democratic Republic,2009,354,Number of midwifery personnel,Absolute,All,All,NOMIPE234,0,130,418,No
+259,Latvia,2011,405,Number of midwifery personnel,Absolute,All,All,NOMIPE235,0,130,428,No
+260,Liberia,2008,355,Number of midwifery personnel,Absolute,All,All,NOMIPE236,0,130,430,No
+261,Liberia,2004,446,Number of midwifery personnel,Absolute,All,All,NOMIPE237,0,130,430,No
+262,Lithuania,2011,896,Number of midwifery personnel,Absolute,All,All,NOMIPE238,0,130,440,No
+263,Luxembourg,2012,195,Number of midwifery personnel,Absolute,All,All,NOMIPE239,0,130,442,No
+264,Madagascar,2004,2076,Number of midwifery personnel,Absolute,All,All,NOMIPE240,0,130,450,No
+265,Malaysia,2008,18639,Number of midwifery personnel,Absolute,All,All,NOMIPE241,0,130,458,No
+266,Malaysia,2002,8870,Number of midwifery personnel,Absolute,All,All,NOMIPE242,0,130,458,No
+267,Malaysia,2000,7711,Number of midwifery personnel,Absolute,All,All,NOMIPE243,0,130,458,No
+268,Mali,2010,2635,Number of midwifery personnel,Absolute,All,All,NOMIPE244,0,130,466,No
+269,Mali,2009,2525,Number of midwifery personnel,Absolute,All,All,NOMIPE245,0,130,466,No
+270,Mali,2008,1688,Number of midwifery personnel,Absolute,All,All,NOMIPE246,0,130,466,No
+271,Mali,2007,516,Number of midwifery personnel,Absolute,All,All,NOMIPE247,0,130,466,No
+272,Mali,2004,2352,Number of midwifery personnel,Absolute,All,All,NOMIPE248,0,130,466,No
+273,Malta,2012,167,Number of midwifery personnel,Absolute,All,All,NOMIPE249,0,130,470,No
+274,Marshall Islands,2010,12,Number of midwifery personnel,Absolute,All,All,NOMIPE250,0,130,584,No
+275,Mauritania,2009,350,Number of midwifery personnel,Absolute,All,All,NOMIPE251,0,130,478,No
+276,Mauritania,2004,235,Number of midwifery personnel,Absolute,All,All,NOMIPE252,0,130,478,No
+277,Mauritius,2004,166,Number of midwifery personnel,Absolute,All,All,NOMIPE253,0,130,480,No
+278,Micronesia (Federated States of),2009,63,Number of midwifery personnel,Absolute,All,All,NOMIPE254,0,130,583,No
+279,Micronesia (Federated States of),2008,16,Number of midwifery personnel,Absolute,All,All,NOMIPE255,0,130,583,No
+280,Micronesia (Federated States of),2005,20,Number of midwifery personnel,Absolute,All,All,NOMIPE256,0,130,583,No
+281,Micronesia (Federated States of),2003,20,Number of midwifery personnel,Absolute,All,All,NOMIPE257,0,130,583,No
+282,Micronesia (Federated States of),2000,7,Number of midwifery personnel,Absolute,All,All,NOMIPE258,0,130,583,No
+283,Monaco,2011,19,Number of midwifery personnel,Absolute,All,All,NOMIPE259,0,130,492,No
+284,Mongolia,2008,693,Number of midwifery personnel,Absolute,All,All,NOMIPE260,0,130,496,No
+285,Mongolia,2002,612,Number of midwifery personnel,Absolute,All,All,NOMIPE261,0,130,496,No
+286,Montenegro,2011,235,Number of midwifery personnel,Absolute,All,All,NOMIPE262,0,130,499,No
+287,Morocco,2004,2078,Number of midwifery personnel,Absolute,All,All,NOMIPE263,0,130,504,No
+288,Mozambique,2008,917,Number of midwifery personnel,Absolute,All,All,NOMIPE264,0,130,508,No
+289,Mozambique,2004,2236,Number of midwifery personnel,Absolute,All,All,NOMIPE265,0,130,508,No
+290,Myanmar,2012,20617,Number of midwifery personnel,Absolute,All,All,NOMIPE266,0,130,104,No
+291,Myanmar,2011,20044,Number of midwifery personnel,Absolute,All,All,NOMIPE267,0,130,104,No
+292,Myanmar,2010,19556,Number of midwifery personnel,Absolute,All,All,NOMIPE268,0,130,104,No
+293,Myanmar,2009,19051,Number of midwifery personnel,Absolute,All,All,NOMIPE269,0,130,104,No
+294,Myanmar,2008,18543,Number of midwifery personnel,Absolute,All,All,NOMIPE270,0,130,104,No
+295,Myanmar,2007,18098,Number of midwifery personnel,Absolute,All,All,NOMIPE271,0,130,104,No
+296,Myanmar,2006,17703,Number of midwifery personnel,Absolute,All,All,NOMIPE272,0,130,104,No
+297,Myanmar,2005,16745,Number of midwifery personnel,Absolute,All,All,NOMIPE273,0,130,104,No
+298,Myanmar,2004,39442,Number of midwifery personnel,Absolute,All,All,NOMIPE274,0,130,104,No
+299,Myanmar,1988,8121,Number of midwifery personnel,Absolute,All,All,NOMIPE275,0,130,104,No
+300,Nauru,2008,5,Number of midwifery personnel,Absolute,All,All,NOMIPE276,0,130,520,No
+301,Nauru,2004,3,Number of midwifery personnel,Absolute,All,All,NOMIPE277,0,130,520,No
+302,Nepal,2004,6161,Number of midwifery personnel,Absolute,All,All,NOMIPE278,0,130,524,No
+303,Netherlands,2010,2612,Number of midwifery personnel,Absolute,All,All,NOMIPE279,0,130,528,No
+304,New Zealand,2007,2511,Number of midwifery personnel,Absolute,All,All,NOMIPE280,0,130,554,No
+305,New Zealand,2007,2511,Number of midwifery personnel,Absolute,All,All,NOMIPE280,0,130,554,No
+306,New Zealand,2001,2121,Number of midwifery personnel,Absolute,All,All,NOMIPE281,0,130,554,No
+307,New Zealand,2001,2121,Number of midwifery personnel,Absolute,All,All,NOMIPE281,0,130,554,No
+308,Niger,2008,446,Number of midwifery personnel,Absolute,All,All,NOMIPE282,0,130,562,No
+309,Niger,2004,397,Number of midwifery personnel,Absolute,All,All,NOMIPE283,0,130,562,No
+310,Nigeria,2008,92531,Number of midwifery personnel,Absolute,All,All,NOMIPE284,0,130,566,No
+311,Nigeria,2007,90489,Number of midwifery personnel,Absolute,All,All,NOMIPE285,0,130,566,No
+312,Nigeria,2006,88996,Number of midwifery personnel,Absolute,All,All,NOMIPE286,0,130,566,No
+313,Nigeria,2005,88796,Number of midwifery personnel,Absolute,All,All,NOMIPE287,0,130,566,No
+314,Nigeria,2003,82726,Number of midwifery personnel,Absolute,All,All,NOMIPE288,0,130,566,No
+315,Niue,2008,2,Number of midwifery personnel,Absolute,All,All,NOMIPE289,0,130,570,No
+316,Niue,2006,2,Number of midwifery personnel,Absolute,All,All,NOMIPE290,0,130,570,No
+317,Niue,2004,2,Number of midwifery personnel,Absolute,All,All,NOMIPE291,0,130,570,No
+318,Niue,1996,2,Number of midwifery personnel,Absolute,All,All,NOMIPE292,0,130,570,No
+319,Norway,2011,2246,Number of midwifery personnel,Absolute,All,All,NOMIPE293,0,130,578,No
+320,Norway,2009,2514,Number of midwifery personnel,Absolute,All,All,NOMIPE294,0,130,578,No
+321,Oman,2004,16,Number of midwifery personnel,Absolute,All,All,NOMIPE295,0,130,512,No
+322,Pakistan,2010,27153,Number of midwifery personnel,Absolute,All,All,NOMIPE296,0,130,586,No
+323,Pakistan,2009,26225,Number of midwifery personnel,Absolute,All,All,NOMIPE297,0,130,586,No
+324,Pakistan,2008,25534,Number of midwifery personnel,Absolute,All,All,NOMIPE298,0,130,586,No
+325,Pakistan,2004,23318,Number of midwifery personnel,Absolute,All,All,NOMIPE299,0,130,586,No
+326,Pakistan,2001,22711,Number of midwifery personnel,Absolute,All,All,NOMIPE300,0,130,586,No
+327,Pakistan,2000,22525,Number of midwifery personnel,Absolute,All,All,NOMIPE301,0,130,586,No
+328,Pakistan,1999,22401,Number of midwifery personnel,Absolute,All,All,NOMIPE302,0,130,586,No
+329,Pakistan,1998,22103,Number of midwifery personnel,Absolute,All,All,NOMIPE303,0,130,586,No
+330,Pakistan,1997,21840,Number of midwifery personnel,Absolute,All,All,NOMIPE304,0,130,586,No
+331,Pakistan,1996,21662,Number of midwifery personnel,Absolute,All,All,NOMIPE305,0,130,586,No
+332,Pakistan,1995,20190,Number of midwifery personnel,Absolute,All,All,NOMIPE306,0,130,586,No
+333,Pakistan,1994,19759,Number of midwifery personnel,Absolute,All,All,NOMIPE307,0,130,586,No
+334,Pakistan,1993,18641,Number of midwifery personnel,Absolute,All,All,NOMIPE308,0,130,586,No
+335,Pakistan,1992,17678,Number of midwifery personnel,Absolute,All,All,NOMIPE309,0,130,586,No
+336,Palau,2010,4,Number of midwifery personnel,Absolute,All,All,NOMIPE310,0,130,585,No
+337,Palau,2006,1,Number of midwifery personnel,Absolute,All,All,NOMIPE311,0,130,585,No
+338,Paraguay,2002,534,Number of midwifery personnel,Absolute,All,All,NOMIPE312,0,130,600,No
+339,Peru,2012,11533,Number of midwifery personnel,Absolute,All,All,NOMIPE313,0,130,604,No
+340,Peru,2009,9555,Number of midwifery personnel,Absolute,All,All,NOMIPE314,0,130,604,No
+341,Philippines,2004,136036,Number of midwifery personnel,Absolute,All,All,NOMIPE315,0,130,608,No
+342,Philippines,2002,138300,Number of midwifery personnel,Absolute,All,All,NOMIPE316,0,130,608,No
+343,Philippines,2000,33963,Number of midwifery personnel,Absolute,All,All,NOMIPE317,0,130,608,No
+344,Poland,2011,22713,Number of midwifery personnel,Absolute,All,All,NOMIPE318,0,130,616,No
+345,Poland,2010,22193,Number of midwifery personnel,Absolute,All,All,NOMIPE319,0,130,616,No
+346,Poland,2002,21997,Number of midwifery personnel,Absolute,All,All,NOMIPE320,0,130,616,No
+347,Portugal,2000,824,Number of midwifery personnel,Absolute,All,All,NOMIPE321,0,130,620,No
+348,Republic of Korea,2012,1153,Number of midwifery personnel,Absolute,All,All,NOMIPE322,0,130,410,No
+349,Republic of Korea,2011,1166,Number of midwifery personnel,Absolute,All,All,NOMIPE323,0,130,410,No
+350,Republic of Korea,2010,1205,Number of midwifery personnel,Absolute,All,All,NOMIPE324,0,130,410,No
+351,Republic of Korea,2009,8603,Number of midwifery personnel,Absolute,All,All,NOMIPE325,0,130,410,No
+352,Republic of Korea,2008,8565,Number of midwifery personnel,Absolute,All,All,NOMIPE326,0,130,410,No
+353,Republic of Korea,2007,8587,Number of midwifery personnel,Absolute,All,All,NOMIPE327,0,130,410,No
+354,Republic of Korea,2006,8572,Number of midwifery personnel,Absolute,All,All,NOMIPE328,0,130,410,No
+355,Republic of Korea,2005,8657,Number of midwifery personnel,Absolute,All,All,NOMIPE329,0,130,410,No
+356,Republic of Korea,2004,8628,Number of midwifery personnel,Absolute,All,All,NOMIPE330,0,130,410,No
+357,Republic of Korea,2000,8728,Number of midwifery personnel,Absolute,All,All,NOMIPE331,0,130,410,No
+358,Republic of Moldova,2012,763,Number of midwifery personnel,Absolute,All,All,NOMIPE332,0,130,498,No
+359,Romania,2011,3877,Number of midwifery personnel,Absolute,All,All,NOMIPE333,0,130,642,No
+360,Romania,2002,540,Number of midwifery personnel,Absolute,All,All,NOMIPE334,0,130,642,No
+361,Russian Federation,2006,65537,Number of midwifery personnel,Absolute,All,All,NOMIPE335,0,130,643,No
+362,Rwanda,2010,141,Number of midwifery personnel,Absolute,All,All,NOMIPE336,0,130,646,No
+363,Rwanda,2009,154,Number of midwifery personnel,Absolute,All,All,NOMIPE337,0,130,646,No
+364,Rwanda,2008,133,Number of midwifery personnel,Absolute,All,All,NOMIPE338,0,130,646,No
+365,Rwanda,2004,77,Number of midwifery personnel,Absolute,All,All,NOMIPE339,0,130,646,No
+366,Samoa,2008,50,Number of midwifery personnel,Absolute,All,All,NOMIPE340,0,130,882,No
+367,Samoa,2005,37,Number of midwifery personnel,Absolute,All,All,NOMIPE341,0,130,882,No
+368,Samoa,2003,60,Number of midwifery personnel,Absolute,All,All,NOMIPE342,0,130,882,No
+369,Samoa,1999,3,Number of midwifery personnel,Absolute,All,All,NOMIPE343,0,130,882,No
+370,San Marino,2012,14,Number of midwifery personnel,Absolute,All,All,NOMIPE344,0,130,674,No
+371,Sao Tome and Principe,2004,52,Number of midwifery personnel,Absolute,All,All,NOMIPE345,0,130,678,No
+372,Senegal,2008,797,Number of midwifery personnel,Absolute,All,All,NOMIPE346,0,130,686,No
+373,Senegal,2004,681,Number of midwifery personnel,Absolute,All,All,NOMIPE347,0,130,686,No
+374,Sierra Leone,2010,95,Number of midwifery personnel,Absolute,All,All,NOMIPE348,0,130,694,No
+375,Sierra Leone,2008,111,Number of midwifery personnel,Absolute,All,All,NOMIPE349,0,130,694,No
+376,Sierra Leone,2004,1299,Number of midwifery personnel,Absolute,All,All,NOMIPE350,0,130,694,No
+377,Singapore,2010,287,Number of midwifery personnel,Absolute,All,All,NOMIPE351,0,130,702,No
+378,Singapore,2009,294,Number of midwifery personnel,Absolute,All,All,NOMIPE352,0,130,702,No
+379,Singapore,2008,322,Number of midwifery personnel,Absolute,All,All,NOMIPE353,0,130,702,No
+380,Singapore,2007,224,Number of midwifery personnel,Absolute,All,All,NOMIPE354,0,130,702,No
+381,Singapore,2006,312,Number of midwifery personnel,Absolute,All,All,NOMIPE355,0,130,702,No
+382,Singapore,2005,347,Number of midwifery personnel,Absolute,All,All,NOMIPE356,0,130,702,No
+383,Singapore,2004,365,Number of midwifery personnel,Absolute,All,All,NOMIPE357,0,130,702,No
+384,Singapore,2002,380,Number of midwifery personnel,Absolute,All,All,NOMIPE358,0,130,702,No
+385,Singapore,1999,449,Number of midwifery personnel,Absolute,All,All,NOMIPE359,0,130,702,No
+386,Slovenia,2011,107,Number of midwifery personnel,Absolute,All,All,NOMIPE360,0,130,705,No
+387,Slovenia,2001,654,Number of midwifery personnel,Absolute,All,All,NOMIPE361,0,130,705,No
+388,Solomon Islands,2009,146,Number of midwifery personnel,Absolute,All,All,NOMIPE362,0,130,90,No
+389,Solomon Islands,2005,74,Number of midwifery personnel,Absolute,All,All,NOMIPE363,0,130,90,No
+390,Solomon Islands,1999,23,Number of midwifery personnel,Absolute,All,All,NOMIPE364,0,130,90,No
+391,Somalia,2005,429,Number of midwifery personnel,Absolute,All,All,NOMIPE365,0,130,706,No
+392,Spain,2001,6291,Number of midwifery personnel,Absolute,All,All,NOMIPE366,0,130,724,No
+393,Sri Lanka,2007,9212,Number of midwifery personnel,Absolute,All,All,NOMIPE367,0,130,144,No
+394,Sri Lanka,2006,7635,Number of midwifery personnel,Absolute,All,All,NOMIPE368,0,130,144,No
+395,Sri Lanka,2005,7267,Number of midwifery personnel,Absolute,All,All,NOMIPE369,0,130,144,No
+396,Sri Lanka,2004,10203,Number of midwifery personnel,Absolute,All,All,NOMIPE370,0,130,144,No
+397,Sri Lanka,2000,7394,Number of midwifery personnel,Absolute,All,All,NOMIPE371,0,130,144,No
+398,Sri Lanka,1993,6533,Number of midwifery personnel,Absolute,All,All,NOMIPE372,0,130,144,No
+399,Sri Lanka,1988,4740,Number of midwifery personnel,Absolute,All,All,NOMIPE373,0,130,144,No
+400,Sri Lanka,1980,3350,Number of midwifery personnel,Absolute,All,All,NOMIPE374,0,130,144,No
+401,Sudan,2006,14921,Number of midwifery personnel,Absolute,All,All,NOMIPE375,0,130,729,No
+402,Sudan,2006,14921,Number of midwifery personnel,Absolute,All,All,NOMIPE375,0,130,736,No
+403,Sudan,2004,13840,Number of midwifery personnel,Absolute,All,All,NOMIPE376,0,130,729,No
+404,Sudan,2004,13840,Number of midwifery personnel,Absolute,All,All,NOMIPE376,0,130,736,No
+405,Suriname,2004,57,Number of midwifery personnel,Absolute,All,All,NOMIPE377,0,130,740,No
+406,Swaziland,2004,2238,Number of midwifery personnel,Absolute,All,All,NOMIPE378,0,130,748,No
+407,Sweden,2007,6449,Number of midwifery personnel,Absolute,All,All,NOMIPE379,0,130,752,No
+408,Switzerland,2011,2323,Number of midwifery personnel,Absolute,All,All,NOMIPE380,0,130,756,No
+409,Switzerland,2011,2323,Number of midwifery personnel,Absolute,All,All,NOMIPE380,0,130,756,No
+410,Syrian Arab Republic,2004,5443,Number of midwifery personnel,Absolute,All,All,NOMIPE381,0,130,760,No
+411,Syrian Arab Republic,2003,5184,Number of midwifery personnel,Absolute,All,All,NOMIPE382,0,130,760,No
+412,Syrian Arab Republic,2002,5171,Number of midwifery personnel,Absolute,All,All,NOMIPE383,0,130,760,No
+413,Syrian Arab Republic,2000,4909,Number of midwifery personnel,Absolute,All,All,NOMIPE384,0,130,760,No
+414,Syrian Arab Republic,1999,4832,Number of midwifery personnel,Absolute,All,All,NOMIPE385,0,130,760,No
+415,Tajikistan,2011,4159,Number of midwifery personnel,Absolute,All,All,NOMIPE386,0,130,762,No
+416,Thailand,2004,870,Number of midwifery personnel,Absolute,All,All,NOMIPE387,0,130,764,No
+417,Thailand,2000,872,Number of midwifery personnel,Absolute,All,All,NOMIPE388,0,130,764,No
+418,Timor-Leste,2011,400,Number of midwifery personnel,Absolute,All,All,NOMIPE389,0,130,626,No
+419,Timor-Leste,2010,388,Number of midwifery personnel,Absolute,All,All,NOMIPE390,0,130,626,No
+420,Timor-Leste,2009,378,Number of midwifery personnel,Absolute,All,All,NOMIPE391,0,130,626,No
+421,Timor-Leste,2008,342,Number of midwifery personnel,Absolute,All,All,NOMIPE392,0,130,626,No
+422,Timor-Leste,2007,329,Number of midwifery personnel,Absolute,All,All,NOMIPE393,0,130,626,No
+423,Timor-Leste,2004,328,Number of midwifery personnel,Absolute,All,All,NOMIPE394,0,130,626,No
+424,Timor-Leste,2001,153,Number of midwifery personnel,Absolute,All,All,NOMIPE395,0,130,626,No
+425,Togo,2008,576,Number of midwifery personnel,Absolute,All,All,NOMIPE396,0,130,768,No
+426,Togo,2007,1004,Number of midwifery personnel,Absolute,All,All,NOMIPE397,0,130,768,No
+427,Togo,2004,270,Number of midwifery personnel,Absolute,All,All,NOMIPE398,0,130,768,No
+428,Tonga,2010,21,Number of midwifery personnel,Absolute,All,All,NOMIPE399,0,130,776,No
+429,Tonga,2009,21,Number of midwifery personnel,Absolute,All,All,NOMIPE400,0,130,776,No
+430,Tonga,2008,19,Number of midwifery personnel,Absolute,All,All,NOMIPE401,0,130,776,No
+431,Tonga,2002,20,Number of midwifery personnel,Absolute,All,All,NOMIPE402,0,130,776,No
+432,Tonga,2001,19,Number of midwifery personnel,Absolute,All,All,NOMIPE403,0,130,776,No
+433,Tunisia,2004,2883,Number of midwifery personnel,Absolute,All,All,NOMIPE404,0,130,788,No
+434,Turkey,2011,51905,Number of midwifery personnel,Absolute,All,All,NOMIPE405,0,130,792,No
+435,Turkey,2010,50343,Number of midwifery personnel,Absolute,All,All,NOMIPE406,0,130,792,No
+436,Turkey,2009,49357,Number of midwifery personnel,Absolute,All,All,NOMIPE407,0,130,792,No
+437,Turkey,2008,47673,Number of midwifery personnel,Absolute,All,All,NOMIPE408,0,130,792,No
+438,Turkey,2007,47175,Number of midwifery personnel,Absolute,All,All,NOMIPE409,0,130,792,No
+439,Turkey,2006,44483,Number of midwifery personnel,Absolute,All,All,NOMIPE410,0,130,792,No
+440,Turkey,2005,43541,Number of midwifery personnel,Absolute,All,All,NOMIPE411,0,130,792,No
+441,Turkey,2004,43229,Number of midwifery personnel,Absolute,All,All,NOMIPE412,0,130,792,No
+442,Turkey,2003,41662,Number of midwifery personnel,Absolute,All,All,NOMIPE413,0,130,792,No
+443,Turkey,2002,41479,Number of midwifery personnel,Absolute,All,All,NOMIPE414,0,130,792,No
+444,Turkey,2001,41691,Number of midwifery personnel,Absolute,All,All,NOMIPE415,0,130,792,No
+445,Turkey,2000,41594,Number of midwifery personnel,Absolute,All,All,NOMIPE416,0,130,792,No
+446,Turkey,1999,41271,Number of midwifery personnel,Absolute,All,All,NOMIPE417,0,130,792,No
+447,Turkey,1998,41059,Number of midwifery personnel,Absolute,All,All,NOMIPE418,0,130,792,No
+448,Turkey,1997,40230,Number of midwifery personnel,Absolute,All,All,NOMIPE419,0,130,792,No
+449,Turkey,1996,38945,Number of midwifery personnel,Absolute,All,All,NOMIPE420,0,130,792,No
+450,Turkey,1995,39551,Number of midwifery personnel,Absolute,All,All,NOMIPE421,0,130,792,No
+451,Turkey,1994,35604,Number of midwifery personnel,Absolute,All,All,NOMIPE422,0,130,792,No
+452,Turkey,1993,36263,Number of midwifery personnel,Absolute,All,All,NOMIPE423,0,130,792,No
+453,Turkey,1992,35096,Number of midwifery personnel,Absolute,All,All,NOMIPE424,0,130,792,No
+454,Turkey,1991,33724,Number of midwifery personnel,Absolute,All,All,NOMIPE425,0,130,792,No
+455,Turkey,1990,30415,Number of midwifery personnel,Absolute,All,All,NOMIPE426,0,130,792,No
+456,Turkey,1989,27805,Number of midwifery personnel,Absolute,All,All,NOMIPE427,0,130,792,No
+457,Turkey,1988,25665,Number of midwifery personnel,Absolute,All,All,NOMIPE428,0,130,792,No
+458,Turkey,1987,21982,Number of midwifery personnel,Absolute,All,All,NOMIPE429,0,130,792,No
+459,Turkey,1986,19127,Number of midwifery personnel,Absolute,All,All,NOMIPE430,0,130,792,No
+460,Turkey,1985,17987,Number of midwifery personnel,Absolute,All,All,NOMIPE431,0,130,792,No
+461,Turkey,1984,15536,Number of midwifery personnel,Absolute,All,All,NOMIPE432,0,130,792,No
+462,Turkey,1983,14570,Number of midwifery personnel,Absolute,All,All,NOMIPE433,0,130,792,No
+463,Turkey,1982,13454,Number of midwifery personnel,Absolute,All,All,NOMIPE434,0,130,792,No
+464,Turkey,1981,13890,Number of midwifery personnel,Absolute,All,All,NOMIPE435,0,130,792,No
+465,Turkey,1980,15880,Number of midwifery personnel,Absolute,All,All,NOMIPE436,0,130,792,No
+466,Turkey,1979,15904,Number of midwifery personnel,Absolute,All,All,NOMIPE437,0,130,792,No
+467,Turkey,1978,16219,Number of midwifery personnel,Absolute,All,All,NOMIPE438,0,130,792,No
+468,Turkey,1977,16785,Number of midwifery personnel,Absolute,All,All,NOMIPE439,0,130,792,No
+469,Turkey,1976,13873,Number of midwifery personnel,Absolute,All,All,NOMIPE440,0,130,792,No
+470,Turkey,1975,12975,Number of midwifery personnel,Absolute,All,All,NOMIPE441,0,130,792,No
+471,Turkey,1974,12228,Number of midwifery personnel,Absolute,All,All,NOMIPE442,0,130,792,No
+472,Turkey,1973,13567,Number of midwifery personnel,Absolute,All,All,NOMIPE443,0,130,792,No
+473,Turkey,1972,13056,Number of midwifery personnel,Absolute,All,All,NOMIPE444,0,130,792,No
+474,Turkey,1971,12176,Number of midwifery personnel,Absolute,All,All,NOMIPE445,0,130,792,No
+475,Turkey,1970,11321,Number of midwifery personnel,Absolute,All,All,NOMIPE446,0,130,792,No
+476,Tuvalu,2008,10,Number of midwifery personnel,Absolute,All,All,NOMIPE447,0,130,798,No
+477,Tuvalu,2003,10,Number of midwifery personnel,Absolute,All,All,NOMIPE448,0,130,798,No
+478,Tuvalu,2002,10,Number of midwifery personnel,Absolute,All,All,NOMIPE449,0,130,798,No
+479,Uganda,2004,4164,Number of midwifery personnel,Absolute,All,All,NOMIPE450,0,130,800,No
+480,Ukraine,2012,19750,Number of midwifery personnel,Absolute,All,All,NOMIPE451,0,130,804,No
+481,United Kingdom,2012,31497,Number of midwifery personnel,Absolute,All,All,NOMIPE452,0,130,826,No
+482,United Kingdom,1997,36399,Number of midwifery personnel,Absolute,All,All,NOMIPE453,0,130,826,No
+483,United Republic of Tanzania,2006,2720,Number of midwifery personnel,Absolute,All,All,NOMIPE454,0,130,834,No
+484,United Republic of Tanzania,2002,2563,Number of midwifery personnel,Absolute,All,All,NOMIPE455,0,130,834,No
+485,Uzbekistan,2012,25873,Number of midwifery personnel,Absolute,All,All,NOMIPE456,0,130,860,No
+486,Vanuatu,2008,48,Number of midwifery personnel,Absolute,All,All,NOMIPE457,0,130,548,No
+487,Vanuatu,2004,50,Number of midwifery personnel,Absolute,All,All,NOMIPE458,0,130,548,No
+488,Viet Nam,2011,26610,Number of midwifery personnel,Absolute,All,All,NOMIPE459,0,130,704,No
+489,Viet Nam,2008,22973,Number of midwifery personnel,Absolute,All,All,NOMIPE460,0,130,704,No
+490,Viet Nam,2007,20817,Number of midwifery personnel,Absolute,All,All,NOMIPE461,0,130,704,No
+491,Viet Nam,2006,19020,Number of midwifery personnel,Absolute,All,All,NOMIPE462,0,130,704,No
+492,Viet Nam,2005,18092,Number of midwifery personnel,Absolute,All,All,NOMIPE463,0,130,704,No
+493,Viet Nam,2002,15250,Number of midwifery personnel,Absolute,All,All,NOMIPE464,0,130,704,No
+494,Viet Nam,2001,14662,Number of midwifery personnel,Absolute,All,All,NOMIPE465,0,130,704,No
+495,Yemen,2010,4143,Number of midwifery personnel,Absolute,All,All,NOMIPE466,0,130,887,No
+496,Yemen,2010,4143,Number of midwifery personnel,Absolute,All,All,NOMIPE466,0,130,886,No
+497,Yemen,2004,413,Number of midwifery personnel,Absolute,All,All,NOMIPE467,0,130,887,No
+498,Yemen,2004,413,Number of midwifery personnel,Absolute,All,All,NOMIPE467,0,130,886,No
+499,Yemen,1997,1638,Number of midwifery personnel,Absolute,All,All,NOMIPE468,0,130,887,No
+500,Yemen,1997,1638,Number of midwifery personnel,Absolute,All,All,NOMIPE468,0,130,886,No
+501,Zambia,2010,2471,Number of midwifery personnel,Absolute,All,All,NOMIPE469,0,130,894,No
+502,Zambia,2009,2374,Number of midwifery personnel,Absolute,All,All,NOMIPE470,0,130,894,No
+503,Zambia,2008,2400,Number of midwifery personnel,Absolute,All,All,NOMIPE471,0,130,894,No
+504,Zambia,2006,2273,Number of midwifery personnel,Absolute,All,All,NOMIPE472,0,130,894,No
+505,Zambia,2005,2273,Number of midwifery personnel,Absolute,All,All,NOMIPE473,0,130,894,No
+506,Zambia,2004,5020,Number of midwifery personnel,Absolute,All,All,NOMIPE474,0,130,894,No
+507,Zimbabwe,1995,3241,Number of midwifery personnel,Absolute,All,All,NOMIPE475,0,130,716,No
+508,Zimbabwe,1990,2651,Number of midwifery personnel,Absolute,All,All,NOMIPE476,0,130,716,No
+509,Zimbabwe,1985,3039,Number of midwifery personnel,Absolute,All,All,NOMIPE477,0,130,716,No

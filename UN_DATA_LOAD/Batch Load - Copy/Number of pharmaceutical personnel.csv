@@ -1,0 +1,737 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2011,1985,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE1,0,130,4,No
+1,Afghanistan,2010,814,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE2,0,130,4,No
+2,Afghanistan,2009,847,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE3,0,130,4,No
+3,Afghanistan,2008,829,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE4,0,130,4,No
+4,Afghanistan,2007,830,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE5,0,130,4,No
+5,Afghanistan,2006,830,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE6,0,130,4,No
+6,Afghanistan,2005,900,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE7,0,130,4,No
+7,Afghanistan,2001,525,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE8,0,130,4,No
+8,Algeria,2007,8232,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE9,0,130,12,No
+9,Algeria,2005,6104,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE10,0,130,12,No
+10,Algeria,2002,6333,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE11,0,130,12,No
+11,Andorra,2003,68,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE12,0,130,20,No
+12,Angola,2004,919,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE13,0,130,24,No
+13,Angola,1997,24,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE14,0,130,24,No
+14,Argentina,2004,19510,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE15,0,130,32,No
+15,Argentina,1998,15300,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE16,0,130,32,No
+16,Armenia,2012,125,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE17,0,130,51,No
+17,Australia,2012,23294,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE18,0,130,36,No
+18,Australia,2011,24636,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE19,0,130,36,No
+19,Australia,2010,19237,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE20,0,130,36,No
+20,Australia,2009,21800,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE21,0,130,36,No
+21,Australia,2006,15339,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE22,0,130,36,No
+22,Australia,2001,13956,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE23,0,130,36,No
+23,Australia,1996,12311,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE24,0,130,36,No
+24,Austria,2012,5823,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE25,0,130,40,No
+25,Austria,2003,4869,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE26,0,130,40,No
+26,Azerbaijan,2012,1668,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE27,0,130,31,No
+27,Bahamas,2008,160,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE28,0,130,44,No
+28,Bahrain,2011,193,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE29,0,130,48,No
+29,Bahrain,2010,196,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE30,0,130,48,No
+30,Bahrain,2009,186,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE31,0,130,48,No
+31,Bahrain,2008,186,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE32,0,130,48,No
+32,Bahrain,2007,180,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE33,0,130,48,No
+33,Bahrain,2004,460,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE34,0,130,48,No
+34,Bangladesh,2007,9411,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE35,0,130,50,No
+35,Bangladesh,2004,9411,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE36,0,130,50,No
+36,Bangladesh,2002,7622,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE37,0,130,50,No
+37,Barbados,2005,251,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE38,0,130,52,No
+38,Barbados,2001,185,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE39,0,130,52,No
+39,Barbados,1995,169,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE40,0,130,52,No
+40,Belarus,2011,3006,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE41,0,130,112,No
+41,Belgium,2011,12845,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE42,0,130,56,No
+42,Belgium,2010,16368,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE43,0,130,56,No
+43,Belgium,2002,11775,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE44,0,130,56,No
+44,Belize,2009,112,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE45,0,130,84,No
+45,Benin,2008,20,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE46,0,130,204,No
+46,Benin,2004,11,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE47,0,130,204,No
+47,Bhutan,2012,11,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE48,0,130,64,No
+48,Bhutan,2008,89,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE49,0,130,64,No
+49,Bhutan,2007,87,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE50,0,130,64,No
+50,Bhutan,2004,79,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE51,0,130,64,No
+51,Bolivia (Plurinational State of),2011,660,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE52,0,130,68,No
+52,Bolivia (Plurinational State of),2010,567,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE53,0,130,68,No
+53,Bolivia (Plurinational State of),2007,331,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE54,0,130,68,No
+54,Bolivia (Plurinational State of),2001,4670,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE55,0,130,68,No
+55,Botswana,2004,333,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE56,0,130,72,No
+56,Brazil,2008,104098,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE57,0,130,76,No
+57,Brazil,2007,104098,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE58,0,130,76,No
+58,Brazil,2006,104098,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE59,0,130,76,No
+59,Brazil,2005,99696,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE60,0,130,76,No
+60,Brazil,2000,51317,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE61,0,130,76,No
+61,Brazil,1991,22698,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE62,0,130,76,No
+62,Brunei Darussalam,2011,48,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE63,0,130,96,No
+63,Brunei Darussalam,2010,43,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE64,0,130,96,No
+64,Brunei Darussalam,2008,45,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE65,0,130,96,No
+65,Brunei Darussalam,2007,42,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE66,0,130,96,No
+66,Brunei Darussalam,2002,30,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE67,0,130,96,No
+67,Brunei Darussalam,2000,90,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE68,0,130,96,No
+68,Bulgaria,2001,1020,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE69,0,130,100,No
+69,Burkina Faso,2010,339,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE70,0,130,854,No
+70,Burkina Faso,2008,347,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE71,0,130,854,No
+71,Burkina Faso,2006,129,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE72,0,130,854,No
+72,Burkina Faso,2004,343,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE73,0,130,854,No
+73,Burundi,2011,172,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE74,0,130,108,No
+74,Burundi,2004,76,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE75,0,130,108,No
+75,Cabo Verde,2010,4,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE76,0,130,132,No
+76,Cabo Verde,2009,4,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE77,0,130,132,No
+77,Cabo Verde,2007,3,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE78,0,130,132,No
+78,Cabo Verde,2006,4,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE79,0,130,132,No
+79,Cabo Verde,2004,43,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE80,0,130,132,No
+80,Cambodia,2011,1477,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE81,0,130,116,No
+81,Cambodia,2008,569,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE82,0,130,116,No
+82,Cambodia,2000,564,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE83,0,130,116,No
+83,Cambodia,1998,616,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE84,0,130,116,No
+84,Cambodia,1996,496,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE85,0,130,116,No
+85,Cameroon,2009,27,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE86,0,130,120,No
+86,Cameroon,2007,38,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE87,0,130,120,No
+87,Cameroon,2005,27,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE88,0,130,120,No
+88,Cameroon,2004,700,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE89,0,130,120,No
+89,Canada,2012,35555,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE90,0,130,124,No
+90,Canada,2010,25597,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE91,0,130,124,No
+91,Canada,2009,30553,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE92,0,130,124,No
+92,Canada,2008,29010,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE93,0,130,124,No
+93,Canada,2007,28495,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE94,0,130,124,No
+94,Canada,2006,27078,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE95,0,130,124,No
+95,Canada,2004,28537,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE96,0,130,124,No
+96,Canada,2003,20765,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE97,0,130,124,No
+97,Canada,2002,26346,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE98,0,130,124,No
+98,Canada,2001,25643,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE99,0,130,124,No
+99,Canada,1998,23164,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE100,0,130,124,No
+100,Central African Republic,2009,12,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE101,0,130,140,No
+101,Central African Republic,2008,10,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE102,0,130,140,No
+102,Central African Republic,2004,17,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE103,0,130,140,No
+103,Chad,2004,37,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE104,0,130,148,No
+104,Chile,2009,39,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE105,0,130,152,No
+105,Chile,2008,39,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE106,0,130,152,No
+106,Chile,2007,39,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE107,0,130,152,No
+107,Chile,2006,38,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE108,0,130,152,No
+108,Chile,2005,36,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE109,0,130,152,No
+109,Chile,2004,36,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE110,0,130,152,No
+110,Chile,2003,36,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE111,0,130,152,No
+111,Chile,2002,35,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE112,0,130,152,No
+112,Chile,1992,5090,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE113,0,130,152,No
+113,China,2010,353916,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE114,0,130,156,No
+114,China,2009,341910,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE115,0,130,156,No
+115,China,2002,351620,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE116,0,130,156,No
+116,China,2001,359000,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE117,0,130,156,No
+117,Comoros,2004,41,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE118,0,130,174,No
+118,Congo,2007,63,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE119,0,130,178,No
+119,Congo,2006,111,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE120,0,130,178,No
+120,Congo,2004,99,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE121,0,130,178,No
+121,Congo,1998,254,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE122,0,130,178,No
+122,Cook Islands,2009,8,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE123,0,130,184,No
+123,Cook Islands,2004,2,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE124,0,130,184,No
+124,Cook Islands,2001,2,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE125,0,130,184,No
+125,Costa Rica,2013,891,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE126,0,130,188,No
+126,Costa Rica,2011,3779,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE127,0,130,188,No
+127,Costa Rica,2000,2101,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE128,0,130,188,No
+128,Côte dIvoire,2008,413,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE129,0,130,384,No
+129,Côte dIvoire,2005,128,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE130,0,130,384,No
+130,Côte dIvoire,2004,1015,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE131,0,130,384,No
+131,Croatia,2012,3070,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE132,0,130,191,No
+132,Croatia,2011,2972,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE133,0,130,191,No
+133,Croatia,1999,1502,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE134,0,130,191,No
+134,Croatia,1998,1550,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE135,0,130,191,No
+135,Croatia,1997,1611,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE136,0,130,191,No
+136,Croatia,1996,1588,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE137,0,130,191,No
+137,Croatia,1995,1544,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE138,0,130,191,No
+138,Croatia,1994,1598,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE139,0,130,191,No
+139,Croatia,1993,1701,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE140,0,130,191,No
+140,Croatia,1992,1747,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE141,0,130,191,No
+141,Croatia,1991,1729,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE142,0,130,191,No
+142,Croatia,1990,1857,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE143,0,130,191,No
+143,Croatia,1989,1886,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE144,0,130,191,No
+144,Croatia,1988,1888,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE145,0,130,191,No
+145,Croatia,1987,1850,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE146,0,130,191,No
+146,Croatia,1986,1820,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE147,0,130,191,No
+147,Cyprus,2011,190,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE148,0,130,196,No
+148,Cyprus,2008,210,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE149,0,130,196,No
+149,Cyprus,2002,144,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE150,0,130,196,No
+150,Czech Republic,2012,8041,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE151,0,130,203,No
+151,Czech Republic,2011,6222,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE152,0,130,203,No
+152,Czech Republic,2003,5610,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE153,0,130,203,No
+153,Democratic Peoples Republic of Korea,2003,13497,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE154,0,130,408,No
+154,Democratic Republic of the Congo,2012,308,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE155,0,130,180,No
+155,Democratic Republic of the Congo,2004,1200,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE156,0,130,180,No
+156,Djibouti,2008,266,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE157,0,130,262,No
+157,Djibouti,2006,16,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE158,0,130,262,No
+158,Djibouti,2005,41,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE159,0,130,262,No
+159,Djibouti,2004,18,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE160,0,130,262,No
+160,Djibouti,1999,8,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE161,0,130,262,No
+161,Dominica,2001,18,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE162,0,130,212,No
+162,Dominican Republic,2000,3330,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE163,0,130,214,No
+163,Ecuador,2009,664,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE164,0,130,218,No
+164,Ecuador,2003,497,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE165,0,130,218,No
+165,Ecuador,2002,494,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE166,0,130,218,No
+166,Ecuador,2001,487,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE167,0,130,218,No
+167,Ecuador,2000,487,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE168,0,130,218,No
+168,Ecuador,1999,428,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE169,0,130,218,No
+169,Ecuador,1998,385,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE170,0,130,218,No
+170,Ecuador,1997,354,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE171,0,130,218,No
+171,Ecuador,1996,327,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE172,0,130,218,No
+172,Ecuador,1994,269,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE173,0,130,218,No
+173,Ecuador,1993,263,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE174,0,130,218,No
+174,Ecuador,1992,265,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE175,0,130,218,No
+175,Ecuador,1991,257,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE176,0,130,218,No
+176,Ecuador,1990,229,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE177,0,130,218,No
+177,Ecuador,1989,222,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE178,0,130,218,No
+178,Ecuador,1988,222,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE179,0,130,218,No
+179,Ecuador,1987,213,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE180,0,130,218,No
+180,Ecuador,1986,157,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE181,0,130,218,No
+181,Ecuador,1985,184,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE182,0,130,218,No
+182,Ecuador,1984,157,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE183,0,130,218,No
+183,Ecuador,1983,172,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE184,0,130,218,No
+184,Ecuador,1982,139,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE185,0,130,218,No
+185,Ecuador,1981,130,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE186,0,130,218,No
+186,Egypt,2009,133107,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE187,0,130,818,No
+187,Egypt,2007,116048,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE188,0,130,818,No
+188,Egypt,2005,92540,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE189,0,130,818,No
+189,Egypt,2004,7119,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE190,0,130,818,No
+190,El Salvador,2008,2316,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE191,0,130,222,No
+191,El Salvador,2005,2280,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE192,0,130,222,No
+192,El Salvador,1999,1623,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE193,0,130,222,No
+193,Equatorial Guinea,2004,121,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE194,0,130,226,No
+194,Eritrea,2004,107,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE195,0,130,232,No
+195,Estonia,2011,832,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE196,0,130,233,No
+196,Estonia,2010,1462,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE197,0,130,233,No
+197,Estonia,2000,580,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE198,0,130,233,No
+198,Ethiopia,2009,2661,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE199,0,130,231,No
+199,Ethiopia,2009,2661,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE199,0,130,230,No
+200,Ethiopia,2008,3426,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE200,0,130,231,No
+201,Ethiopia,2008,3426,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE200,0,130,230,No
+202,Ethiopia,2007,1201,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE201,0,130,231,No
+203,Ethiopia,2007,1201,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE201,0,130,230,No
+204,Ethiopia,2006,1974,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE202,0,130,231,No
+205,Ethiopia,2006,1974,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE202,0,130,230,No
+206,Ethiopia,2005,1619,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE203,0,130,231,No
+207,Ethiopia,2005,1619,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE203,0,130,230,No
+208,Ethiopia,2004,1343,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE204,0,130,231,No
+209,Ethiopia,2004,1343,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE204,0,130,230,No
+210,Ethiopia,2003,1343,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE205,0,130,231,No
+211,Ethiopia,2003,1343,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE205,0,130,230,No
+212,Fiji,2009,76,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE206,0,130,242,No
+213,Fiji,2003,90,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE207,0,130,242,No
+214,Fiji,1999,59,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE208,0,130,242,No
+215,Finland,2010,5944,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE209,0,130,246,No
+216,Finland,2002,5829,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE210,0,130,246,No
+217,France,2012,69520,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE211,0,130,250,No
+218,France,2011,72811,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE212,0,130,250,No
+219,France,2008,72160,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE213,0,130,250,No
+220,France,2007,70498,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE214,0,130,250,No
+221,France,2003,63909,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE215,0,130,250,No
+222,France,2002,62054,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE216,0,130,250,No
+223,France,2001,60366,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE217,0,130,250,No
+224,France,2000,58407,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE218,0,130,250,No
+225,France,1999,56195,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE219,0,130,250,No
+226,France,1998,58839,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE220,0,130,250,No
+227,France,1997,55137,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE221,0,130,250,No
+228,France,1996,55153,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE222,0,130,250,No
+229,France,1995,53810,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE223,0,130,250,No
+230,France,1994,53085,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE224,0,130,250,No
+231,France,1993,52673,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE225,0,130,250,No
+232,France,1992,51613,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE226,0,130,250,No
+233,France,1991,50989,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE227,0,130,250,No
+234,Gabon,2004,63,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE228,0,130,266,No
+235,Gabon,1999,34,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE229,0,130,266,No
+236,Gabon,1998,34,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE230,0,130,266,No
+237,Gabon,1997,32,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE231,0,130,266,No
+238,Gabon,1996,27,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE232,0,130,266,No
+239,Gabon,1995,23,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE233,0,130,266,No
+240,Gabon,1994,25,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE234,0,130,266,No
+241,Gabon,1993,26,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE235,0,130,266,No
+242,Gambia,2008,75,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE236,0,130,270,No
+243,Gambia,2007,57,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE237,0,130,270,No
+244,Gambia,2006,11,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE238,0,130,270,No
+245,Gambia,2005,11,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE239,0,130,270,No
+246,Gambia,2004,15,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE240,0,130,270,No
+247,Gambia,2003,48,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE241,0,130,270,No
+248,Germany,2011,50656,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE242,0,130,276,No
+249,Germany,2010,131204,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE243,0,130,276,No
+250,Ghana,2008,1673,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE244,0,130,288,No
+251,Ghana,2007,1038,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE245,0,130,288,No
+252,Ghana,2004,1388,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE246,0,130,288,No
+253,Greece,2000,8977,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE247,0,130,300,No
+254,Grenada,2011,89,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE248,0,130,308,No
+255,Grenada,2006,21,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE249,0,130,308,No
+256,Grenada,2003,22,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE250,0,130,308,No
+257,Grenada,2002,22,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE251,0,130,308,No
+258,Grenada,2001,22,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE252,0,130,308,No
+259,Grenada,2000,22,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE253,0,130,308,No
+260,Grenada,1999,22,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE254,0,130,308,No
+261,Grenada,1998,69,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE255,0,130,308,No
+262,Guinea,2005,199,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE256,0,130,324,No
+263,Guinea,2004,530,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE257,0,130,324,No
+264,Guinea,2000,199,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE258,0,130,324,No
+265,Guinea-Bissau,2009,21,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE259,0,130,624,No
+266,Guinea-Bissau,2008,38,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE260,0,130,624,No
+267,Guinea-Bissau,2004,40,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE261,0,130,624,No
+268,Guyana,2009,87,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE262,0,130,328,No
+269,Honduras,2000,926,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE263,0,130,340,No
+270,Hungary,2012,5683,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE264,0,130,348,No
+271,Hungary,2003,5125,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE265,0,130,348,No
+272,Iceland,2012,358,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE266,0,130,352,No
+273,Iceland,2011,619,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE267,0,130,352,No
+274,Iceland,2010,595,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE268,0,130,352,No
+275,Iceland,2009,583,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE269,0,130,352,No
+276,Iceland,2008,581,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE270,0,130,352,No
+277,Iceland,2007,412,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE271,0,130,352,No
+278,Iceland,2006,396,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE272,0,130,352,No
+279,Iceland,2005,388,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE273,0,130,352,No
+280,Iceland,2004,381,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE274,0,130,352,No
+281,Iceland,2003,376,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE275,0,130,352,No
+282,Iceland,2002,374,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE276,0,130,352,No
+283,Iceland,2001,347,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE277,0,130,352,No
+284,Iceland,2000,334,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE278,0,130,352,No
+285,India,2012,630766,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE279,0,130,356,No
+286,India,2011,657230,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE280,0,130,356,No
+287,India,2010,656101,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE281,0,130,356,No
+288,India,2009,655801,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE282,0,130,356,No
+289,India,2006,578179,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE283,0,130,356,No
+290,India,2003,559408,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE284,0,130,356,No
+291,India,1991,210502,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE285,0,130,356,No
+292,Indonesia,2012,25502,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE286,0,130,360,No
+293,Indonesia,2010,18022,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE287,0,130,360,No
+294,Indonesia,2009,10778,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE288,0,130,360,No
+295,Indonesia,2003,7580,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE289,0,130,360,No
+296,Indonesia,1992,4536,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE290,0,130,360,No
+297,Iran (Islamic Republic of),2011,40000,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE291,0,130,364,No
+298,Iran (Islamic Republic of),2005,13900,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE292,0,130,364,No
+299,Iran (Islamic Republic of),2004,14140,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE293,0,130,364,No
+300,Iraq,2010,5675,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE294,0,130,368,No
+301,Ireland,2011,5303,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE295,0,130,372,No
+302,Ireland,2004,3898,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE296,0,130,372,No
+303,Israel,2011,5800,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE297,0,130,376,No
+304,Israel,1995,4366,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE298,0,130,376,No
+305,Italy,2003,66119,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE299,0,130,380,No
+306,Jamaica,2008,172,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE300,0,130,388,No
+307,Japan,2010,276517,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE301,0,130,392,No
+308,Japan,2010,276517,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE301,0,130,392,No
+309,Japan,2008,267751,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE302,0,130,392,No
+310,Japan,2008,267751,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE302,0,130,392,No
+311,Japan,2006,252533,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE303,0,130,392,No
+312,Japan,2006,252533,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE303,0,130,392,No
+313,Japan,2004,241369,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE304,0,130,392,No
+314,Japan,2004,241369,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE304,0,130,392,No
+315,Japan,2002,229744,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE305,0,130,392,No
+316,Japan,2002,229744,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE305,0,130,392,No
+317,Japan,2000,217477,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE306,0,130,392,No
+318,Japan,2000,217477,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE306,0,130,392,No
+319,Japan,1998,205953,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE307,0,130,392,No
+320,Japan,1998,205953,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE307,0,130,392,No
+321,Japan,1996,194300,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE308,0,130,392,No
+322,Japan,1996,194300,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE308,0,130,392,No
+323,Japan,1994,176871,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE309,0,130,392,No
+324,Japan,1994,176871,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE309,0,130,392,No
+325,Japan,1992,162021,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE310,0,130,392,No
+326,Japan,1992,162021,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE310,0,130,392,No
+327,Japan,1990,150627,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE311,0,130,392,No
+328,Japan,1990,150627,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE311,0,130,392,No
+329,Japan,1988,143429,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE312,0,130,392,No
+330,Japan,1988,143429,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE312,0,130,392,No
+331,Japan,1986,135990,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE313,0,130,392,No
+332,Japan,1986,135990,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE313,0,130,392,No
+333,Japan,1984,129700,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE314,0,130,392,No
+334,Japan,1984,129700,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE314,0,130,392,No
+335,Japan,1982,124390,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE315,0,130,392,No
+336,Japan,1982,124390,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE315,0,130,392,No
+337,Japan,1980,116056,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE316,0,130,392,No
+338,Japan,1980,116056,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE316,0,130,392,No
+339,Jordan,2012,13840,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE317,0,130,400,No
+340,Jordan,2010,9151,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE318,0,130,400,No
+341,Jordan,2009,8409,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE319,0,130,400,No
+342,Jordan,2008,7715,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE320,0,130,400,No
+343,Jordan,2007,8087,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE321,0,130,400,No
+344,Jordan,2006,6722,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE322,0,130,400,No
+345,Jordan,2005,7100,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE323,0,130,400,No
+346,Jordan,2004,17654,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE324,0,130,400,No
+347,Jordan,2003,6333,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE325,0,130,400,No
+348,Jordan,2002,5965,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE326,0,130,400,No
+349,Jordan,2001,4987,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE327,0,130,400,No
+350,Jordan,2000,4329,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE328,0,130,400,No
+351,Jordan,1999,3826,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE329,0,130,400,No
+352,Jordan,1998,3600,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE330,0,130,400,No
+353,Kazakhstan,2012,13540,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE331,0,130,398,No
+354,Kenya,2011,6500,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE332,0,130,404,No
+355,Kenya,2010,3097,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE333,0,130,404,No
+356,Kenya,2009,2921,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE334,0,130,404,No
+357,Kenya,2008,2860,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE335,0,130,404,No
+358,Kenya,2004,3094,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE336,0,130,404,No
+359,Kiribati,2008,22,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE337,0,130,296,No
+360,Kiribati,2006,1,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE338,0,130,296,No
+361,Kiribati,2004,2,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE339,0,130,296,No
+362,Kiribati,1998,4,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE340,0,130,296,No
+363,Kuwait,2009,888,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE341,0,130,414,No
+364,Kuwait,2008,804,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE342,0,130,414,No
+365,Kuwait,2007,742,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE343,0,130,414,No
+366,Kuwait,2006,716,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE344,0,130,414,No
+367,Kuwait,2001,722,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE345,0,130,414,No
+368,Kyrgyzstan,2012,282,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE346,0,130,417,No
+369,Lao Peoples Democratic Republic,2012,735,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE347,0,130,418,No
+370,Latvia,2011,1358,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE348,0,130,428,No
+371,Lebanon,2011,6687,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE349,0,130,422,No
+372,Lebanon,2010,5508,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE350,0,130,422,No
+373,Lebanon,2009,4554,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE351,0,130,422,No
+374,Lebanon,2007,4667,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE352,0,130,422,No
+375,Lebanon,2005,4105,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE353,0,130,422,No
+376,Lebanon,2004,3000,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE354,0,130,422,No
+377,Lebanon,2001,3359,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE355,0,130,422,No
+378,Lesotho,2003,62,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE356,0,130,426,No
+379,Liberia,2008,269,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE357,0,130,430,No
+380,Liberia,2004,35,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE358,0,130,430,No
+381,Libya,2009,2275,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE359,0,130,434,No
+382,Libya,2008,2232,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE360,0,130,434,No
+383,Libya,2004,1130,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE361,0,130,434,No
+384,Libya,1997,1225,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE362,0,130,434,No
+385,Lithuania,2012,2440,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE363,0,130,440,No
+386,Luxembourg,2011,374,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE364,0,130,442,No
+387,Madagascar,2004,175,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE365,0,130,450,No
+388,Malawi,2008,293,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE366,0,130,454,No
+389,Malaysia,2011,12402,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE367,0,130,458,No
+390,Malaysia,2010,11077,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE368,0,130,458,No
+391,Malaysia,2007,4571,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE369,0,130,458,No
+392,Malaysia,2002,2880,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE370,0,130,458,No
+393,Malaysia,2000,2333,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE371,0,130,458,No
+394,Maldives,2010,247,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE372,0,130,462,No
+395,Maldives,2009,206,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE373,0,130,462,No
+396,Maldives,2007,285,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE374,0,130,462,No
+397,Maldives,2004,241,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE375,0,130,462,No
+398,Maldives,1996,203,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE376,0,130,462,No
+399,Maldives,1993,138,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE377,0,130,462,No
+400,Maldives,1991,108,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE378,0,130,462,No
+401,Maldives,1989,25,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE379,0,130,462,No
+402,Mali,2010,135,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE380,0,130,466,No
+403,Mali,2009,119,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE381,0,130,466,No
+404,Mali,2008,112,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE382,0,130,466,No
+405,Mali,2007,214,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE383,0,130,466,No
+406,Mali,2004,351,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE384,0,130,466,No
+407,Malta,2012,488,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE385,0,130,470,No
+408,Marshall Islands,2008,10,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE386,0,130,584,No
+409,Marshall Islands,2000,2,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE387,0,130,584,No
+410,Mauritania,2009,123,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE388,0,130,478,No
+411,Mauritania,2004,81,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE389,0,130,478,No
+412,Mauritius,2004,1428,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE390,0,130,480,No
+413,Mexico,2004,79925,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE391,0,130,484,No
+414,Mexico,2000,3189,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE392,0,130,484,No
+415,Micronesia (Federated States of),2005,16,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE393,0,130,583,No
+416,Micronesia (Federated States of),2003,20,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE394,0,130,583,No
+417,Monaco,2012,96,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE395,0,130,492,No
+418,Mongolia,2008,1088,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE396,0,130,496,No
+419,Mongolia,2002,1093,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE397,0,130,496,No
+420,Montenegro,2011,92,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE398,0,130,499,No
+421,Morocco,2009,9006,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE399,0,130,504,No
+422,Morocco,2004,7366,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE400,0,130,504,No
+423,Mozambique,2012,1387,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE401,0,130,508,No
+424,Mozambique,2011,1267,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE402,0,130,508,No
+425,Mozambique,2010,1196,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE403,0,130,508,No
+426,Mozambique,2008,817,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE404,0,130,508,No
+427,Mozambique,2006,817,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE405,0,130,508,No
+428,Mozambique,2004,618,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE406,0,130,508,No
+429,Myanmar,2004,127,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE407,0,130,104,No
+430,Namibia,2007,376,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE408,0,130,516,No
+431,Namibia,2004,288,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE409,0,130,516,No
+432,Nauru,2008,1,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE410,0,130,520,No
+433,Nauru,2004,10,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE411,0,130,520,No
+434,Nepal,2012,4200,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE412,0,130,524,No
+435,Nepal,2004,358,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE413,0,130,524,No
+436,Netherlands,2010,3328,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE414,0,130,528,No
+437,Netherlands,2003,3134,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE415,0,130,528,No
+438,New Zealand,2011,4440,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE416,0,130,554,No
+439,New Zealand,2011,4440,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE416,0,130,554,No
+440,New Zealand,2007,2889,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE417,0,130,554,No
+441,New Zealand,2007,2889,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE417,0,130,554,No
+442,New Zealand,2002,3920,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE418,0,130,554,No
+443,New Zealand,2002,3920,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE418,0,130,554,No
+444,New Zealand,2001,3495,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE419,0,130,554,No
+445,New Zealand,2001,3495,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE419,0,130,554,No
+446,Niger,2008,21,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE420,0,130,562,No
+447,Niger,2004,20,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE421,0,130,562,No
+448,Nigeria,2011,17022,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE422,0,130,566,No
+449,Nigeria,2008,18682,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE423,0,130,566,No
+450,Nigeria,2007,18682,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE424,0,130,566,No
+451,Nigeria,2006,12503,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE425,0,130,566,No
+452,Nigeria,2005,12072,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE426,0,130,566,No
+453,Nigeria,2004,6344,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE427,0,130,566,No
+454,Niue,2008,1,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE428,0,130,570,No
+455,Niue,2006,1,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE429,0,130,570,No
+456,Niue,2004,1,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE430,0,130,570,No
+457,Niue,1996,1,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE431,0,130,570,No
+458,Norway,2011,1260,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE432,0,130,578,No
+459,Norway,2003,1675,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE433,0,130,578,No
+460,Oman,2011,3050,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE434,0,130,512,No
+461,Oman,2010,2784,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE435,0,130,512,No
+462,Oman,2009,2488,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE436,0,130,512,No
+463,Oman,2008,2222,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE437,0,130,512,No
+464,Oman,2007,1200,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE438,0,130,512,No
+465,Oman,2006,1833,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE439,0,130,512,No
+466,Oman,2005,912,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE440,0,130,512,No
+467,Oman,2004,1551,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE441,0,130,512,No
+468,Oman,2000,688,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE442,0,130,512,No
+469,Oman,1999,522,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE443,0,130,512,No
+470,Oman,1998,489,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE444,0,130,512,No
+471,Oman,1997,452,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE445,0,130,512,No
+472,Oman,1995,367,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE446,0,130,512,No
+473,Oman,1990,433,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE447,0,130,512,No
+474,Oman,1985,305,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE448,0,130,512,No
+475,Oman,1980,47,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE449,0,130,512,No
+476,Oman,1975,8,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE450,0,130,512,No
+477,Pakistan,2004,8102,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE451,0,130,586,No
+478,Palau,2007,1,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE452,0,130,585,No
+479,Palau,1998,14,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE453,0,130,585,No
+480,Panama,2000,2526,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE454,0,130,591,No
+481,Panama,2000,2526,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE454,0,130,590,No
+482,Papua New Guinea,2012,354,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE455,0,130,598,No
+483,Paraguay,2002,1868,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE456,0,130,600,No
+484,Peru,2012,1528,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE457,0,130,604,No
+485,Peru,2009,1822,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE458,0,130,604,No
+486,Philippines,2011,84000,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE459,0,130,608,No
+487,Philippines,2004,49667,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE460,0,130,608,No
+488,Philippines,2002,46360,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE461,0,130,608,No
+489,Philippines,2000,2482,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE462,0,130,608,No
+490,Poland,2011,26290,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE463,0,130,616,No
+491,Poland,2010,25120,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE464,0,130,616,No
+492,Poland,2003,25397,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE465,0,130,616,No
+493,Portugal,2011,7930,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE466,0,130,620,No
+494,Portugal,2003,9543,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE467,0,130,620,No
+495,Qatar,2006,1056,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE468,0,130,634,No
+496,Qatar,2005,1100,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE469,0,130,634,No
+497,Qatar,2001,530,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE470,0,130,634,No
+498,Republic of Korea,2012,32560,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE471,0,130,410,No
+499,Republic of Korea,2011,33643,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE472,0,130,410,No
+500,Republic of Korea,2010,32152,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE473,0,130,410,No
+501,Republic of Korea,2009,59717,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE474,0,130,410,No
+502,Republic of Korea,2008,58363,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE475,0,130,410,No
+503,Republic of Korea,2007,57176,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE476,0,130,410,No
+504,Republic of Korea,2006,55845,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE477,0,130,410,No
+505,Republic of Korea,2005,54829,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE478,0,130,410,No
+506,Republic of Korea,2004,53492,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE479,0,130,410,No
+507,Republic of Korea,2000,50623,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE480,0,130,410,No
+508,Republic of Moldova,2011,1874,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE481,0,130,498,No
+509,Romania,2011,14490,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE482,0,130,642,No
+510,Romania,2002,15121,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE483,0,130,642,No
+511,Russian Federation,2006,11521,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE484,0,130,643,No
+512,Rwanda,2010,56,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE485,0,130,646,No
+513,Rwanda,2009,50,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE486,0,130,646,No
+514,Rwanda,2008,42,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE487,0,130,646,No
+515,Rwanda,2004,278,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE488,0,130,646,No
+516,Saint Lucia,2001,23,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE489,0,130,662,No
+517,Saint Vincent and the Grenadines,2001,23,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE490,0,130,670,No
+518,Samoa,2008,59,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE491,0,130,882,No
+519,Samoa,2005,3,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE492,0,130,882,No
+520,Samoa,2003,20,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE493,0,130,882,No
+521,Samoa,1999,5,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE494,0,130,882,No
+522,San Marino,2012,23,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE495,0,130,674,No
+523,Sao Tome and Principe,2004,24,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE496,0,130,678,No
+524,Saudi Arabia,2009,1654,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE497,0,130,682,No
+525,Saudi Arabia,2008,1529,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE498,0,130,682,No
+526,Saudi Arabia,2000,863,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE499,0,130,682,No
+527,Senegal,2008,127,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE500,0,130,686,No
+528,Senegal,2004,85,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE501,0,130,686,No
+529,Serbia,2009,2034,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE502,0,130,688,No
+530,Seychelles,2004,61,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE503,0,130,690,No
+531,Sierra Leone,2010,114,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE504,0,130,694,No
+532,Sierra Leone,2008,192,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE505,0,130,694,No
+533,Sierra Leone,2004,340,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE506,0,130,694,No
+534,Singapore,2011,2013,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE507,0,130,702,No
+535,Singapore,2010,1814,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE508,0,130,702,No
+536,Singapore,2009,1658,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE509,0,130,702,No
+537,Singapore,2008,1546,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE510,0,130,702,No
+538,Singapore,2007,1483,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE511,0,130,702,No
+539,Singapore,2006,1421,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE512,0,130,702,No
+540,Singapore,2005,1330,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE513,0,130,702,No
+541,Singapore,2004,1288,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE514,0,130,702,No
+542,Singapore,2003,1280,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE515,0,130,702,No
+543,Singapore,2001,1141,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE516,0,130,702,No
+544,Singapore,1999,1043,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE517,0,130,702,No
+545,Slovakia,2007,2517,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE518,0,130,703,No
+546,Slovenia,2011,1131,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE519,0,130,705,No
+547,Solomon Islands,2005,53,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE520,0,130,90,No
+548,Solomon Islands,1999,28,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE521,0,130,90,No
+549,Somalia,2006,50,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE522,0,130,706,No
+550,Somalia,1997,8,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE523,0,130,706,No
+551,South Africa,2012,20974,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE524,0,130,710,No
+552,South Africa,2011,18635,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE525,0,130,710,No
+553,South Africa,2004,12521,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE526,0,130,710,No
+554,Spain,2012,48100,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE527,0,130,724,No
+555,Spain,2003,35800,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE528,0,130,724,No
+556,Sri Lanka,2007,886,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE529,0,130,144,No
+557,Sri Lanka,2004,990,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE530,0,130,144,No
+558,Sri Lanka,1993,568,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE531,0,130,144,No
+559,Sudan,2008,386,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE532,0,130,729,No
+560,Sudan,2008,386,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE532,0,130,736,No
+561,Sudan,2007,377,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE533,0,130,729,No
+562,Sudan,2007,377,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE533,0,130,736,No
+563,Sudan,2006,1531,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE534,0,130,729,No
+564,Sudan,2006,1531,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE534,0,130,736,No
+565,Sudan,2004,3558,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE535,0,130,729,No
+566,Sudan,2004,3558,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE535,0,130,736,No
+567,Swaziland,2009,51,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE536,0,130,748,No
+568,Swaziland,2004,70,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE537,0,130,748,No
+569,Swaziland,2000,46,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE538,0,130,748,No
+570,Sweden,2002,5885,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE539,0,130,752,No
+571,Sweden,1998,5967,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE540,0,130,752,No
+572,Switzerland,2011,4209,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE541,0,130,756,No
+573,Switzerland,2011,4209,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE541,0,130,756,No
+574,Syrian Arab Republic,2008,16579,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE542,0,130,760,No
+575,Syrian Arab Republic,2007,12992,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE543,0,130,760,No
+576,Syrian Arab Republic,2004,12724,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE544,0,130,760,No
+577,Syrian Arab Republic,2003,10809,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE545,0,130,760,No
+578,Syrian Arab Republic,2002,10055,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE546,0,130,760,No
+579,Syrian Arab Republic,2001,8862,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE547,0,130,760,No
+580,Syrian Arab Republic,2000,8868,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE548,0,130,760,No
+581,Syrian Arab Republic,1999,8189,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE549,0,130,760,No
+582,Tajikistan,2003,680,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE550,0,130,762,No
+583,Thailand,2010,8700,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE551,0,130,764,No
+584,Thailand,2009,8390,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE552,0,130,764,No
+585,Thailand,2008,8565,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE553,0,130,764,No
+586,Thailand,2007,7940,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE554,0,130,764,No
+587,Thailand,2006,7937,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE555,0,130,764,No
+588,Thailand,2004,7413,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE556,0,130,764,No
+589,Thailand,2002,7350,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE557,0,130,764,No
+590,Thailand,2001,6858,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE558,0,130,764,No
+591,Thailand,2000,15480,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE559,0,130,764,No
+592,Thailand,1999,6062,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE560,0,130,764,No
+593,Thailand,1998,5911,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE561,0,130,764,No
+594,Thailand,1997,5941,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE562,0,130,764,No
+595,Thailand,1995,5867,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE563,0,130,764,No
+596,Thailand,1993,4721,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE564,0,130,764,No
+597,Thailand,1991,4333,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE565,0,130,764,No
+598,Thailand,1989,3825,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE566,0,130,764,No
+599,Thailand,1987,3622,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE567,0,130,764,No
+600,Thailand,1985,3376,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE568,0,130,764,No
+601,Thailand,1983,2990,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE569,0,130,764,No
+602,Thailand,1981,2680,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE570,0,130,764,No
+603,Thailand,1979,2496,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE571,0,130,764,No
+604,Thailand,1977,2236,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE572,0,130,764,No
+605,Thailand,1975,1913,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE573,0,130,764,No
+606,Thailand,1973,1627,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE574,0,130,764,No
+607,Thailand,1971,1577,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE575,0,130,764,No
+608,The former Yugoslav Republic of Macedonia,2011,3271,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE576,0,130,807,No
+609,Timor-Leste,2011,131,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE577,0,130,626,No
+610,Timor-Leste,2010,130,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE578,0,130,626,No
+611,Timor-Leste,2009,61,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE579,0,130,626,No
+612,Timor-Leste,2008,50,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE580,0,130,626,No
+613,Timor-Leste,2007,24,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE581,0,130,626,No
+614,Timor-Leste,2004,14,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE582,0,130,626,No
+615,Timor-Leste,2001,3,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE583,0,130,626,No
+616,Togo,2008,11,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE584,0,130,768,No
+617,Togo,2007,13,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE585,0,130,768,No
+618,Togo,2004,134,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE586,0,130,768,No
+619,Tonga,2012,9,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE587,0,130,776,No
+620,Tonga,2009,15,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE588,0,130,776,No
+621,Tonga,2002,4,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE589,0,130,776,No
+622,Tonga,2001,17,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE590,0,130,776,No
+623,Trinidad and Tobago,2007,641,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE591,0,130,780,No
+624,Trinidad and Tobago,2006,565,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE592,0,130,780,No
+625,Tunisia,2010,3236,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE593,0,130,788,No
+626,Tunisia,2009,2106,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE594,0,130,788,No
+627,Tunisia,2008,2085,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE595,0,130,788,No
+628,Tunisia,2006,2255,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE596,0,130,788,No
+629,Tunisia,2005,2114,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE597,0,130,788,No
+630,Tunisia,2004,2909,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE598,0,130,788,No
+631,Tunisia,2002,2050,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE599,0,130,788,No
+632,Tunisia,2001,1998,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE600,0,130,788,No
+633,Tunisia,2000,1951,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE601,0,130,788,No
+634,Tunisia,1999,1690,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE602,0,130,788,No
+635,Tunisia,1998,1623,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE603,0,130,788,No
+636,Tunisia,1997,1567,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE604,0,130,788,No
+637,Tunisia,1996,1531,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE605,0,130,788,No
+638,Tunisia,1995,1499,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE606,0,130,788,No
+639,Tunisia,1994,1417,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE607,0,130,788,No
+640,Tunisia,1993,1323,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE608,0,130,788,No
+641,Tunisia,1992,1330,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE609,0,130,788,No
+642,Tunisia,1991,1304,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE610,0,130,788,No
+643,Tunisia,1990,1240,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE611,0,130,788,No
+644,Turkey,2011,26089,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE612,0,130,792,No
+645,Turkey,2010,26506,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE613,0,130,792,No
+646,Turkey,2009,25201,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE614,0,130,792,No
+647,Turkey,2008,24778,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE615,0,130,792,No
+648,Turkey,2007,23977,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE616,0,130,792,No
+649,Turkey,2006,23140,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE617,0,130,792,No
+650,Turkey,2005,22756,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE618,0,130,792,No
+651,Turkey,2004,22608,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE619,0,130,792,No
+652,Turkey,2003,22371,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE620,0,130,792,No
+653,Turkey,2002,22289,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE621,0,130,792,No
+654,Turkey,2001,22119,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE622,0,130,792,No
+655,Turkey,2000,21927,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE623,0,130,792,No
+656,Turkey,1999,22065,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE624,0,130,792,No
+657,Turkey,1998,21441,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE625,0,130,792,No
+658,Turkey,1997,20557,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE626,0,130,792,No
+659,Turkey,1996,19681,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE627,0,130,792,No
+660,Turkey,1995,19090,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE628,0,130,792,No
+661,Turkey,1994,18366,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE629,0,130,792,No
+662,Turkey,1993,17696,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE630,0,130,792,No
+663,Turkey,1992,16593,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE631,0,130,792,No
+664,Turkey,1991,16002,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE632,0,130,792,No
+665,Turkey,1990,15792,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE633,0,130,792,No
+666,Turkey,1989,15201,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE634,0,130,792,No
+667,Turkey,1988,14567,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE635,0,130,792,No
+668,Turkey,1987,13668,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE636,0,130,792,No
+669,Turkey,1986,12866,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE637,0,130,792,No
+670,Turkey,1985,11602,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE638,0,130,792,No
+671,Turkey,1984,11586,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE639,0,130,792,No
+672,Turkey,1983,11527,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE640,0,130,792,No
+673,Turkey,1982,11428,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE641,0,130,792,No
+674,Turkey,1981,11610,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE642,0,130,792,No
+675,Turkey,1980,12059,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE643,0,130,792,No
+676,Turkey,1979,11865,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE644,0,130,792,No
+677,Turkey,1978,11280,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE645,0,130,792,No
+678,Turkey,1977,10572,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE646,0,130,792,No
+679,Turkey,1976,7828,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE647,0,130,792,No
+680,Turkey,1975,7002,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE648,0,130,792,No
+681,Turkey,1974,4715,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE649,0,130,792,No
+682,Turkey,1973,4781,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE650,0,130,792,No
+683,Turkey,1972,3981,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE651,0,130,792,No
+684,Turkey,1971,3477,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE652,0,130,792,No
+685,Turkey,1970,3011,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE653,0,130,792,No
+686,Turkmenistan,2012,889,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE654,0,130,795,No
+687,Turkmenistan,2002,1626,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE655,0,130,795,No
+688,Tuvalu,2008,2,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE656,0,130,798,No
+689,Tuvalu,2003,2,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE657,0,130,798,No
+690,Tuvalu,2002,1,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE658,0,130,798,No
+691,Uganda,2012,1200,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE659,0,130,800,No
+692,Uganda,2005,762,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE660,0,130,800,No
+693,Uganda,2004,688,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE661,0,130,800,No
+694,Ukraine,2012,1793,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE662,0,130,804,No
+695,Ukraine,2001,23576,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE663,0,130,804,No
+696,United Arab Emirates,2007,2817,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE664,0,130,784,No
+697,United Arab Emirates,2004,2006,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE665,0,130,784,No
+698,United Arab Emirates,2002,1200,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE666,0,130,784,No
+699,United Arab Emirates,2001,1086,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE667,0,130,784,No
+700,United Kingdom,2012,42075,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE668,0,130,826,No
+701,United Kingdom,1997,29726,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE669,0,130,826,No
+702,United Republic of Tanzania,2006,81,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE670,0,130,834,No
+703,United Republic of Tanzania,2002,365,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE671,0,130,834,No
+704,United States of America,2010,275000,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE672,0,130,840,No
+705,United States of America,2000,249642,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE673,0,130,840,No
+706,Uruguay,2008,1877,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE674,0,130,858,No
+707,Uzbekistan,2012,1118,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE675,0,130,860,No
+708,Vanuatu,2008,2,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE676,0,130,548,No
+709,Viet Nam,2011,27734,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE677,0,130,704,No
+710,Viet Nam,2008,28370,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE678,0,130,704,No
+711,Viet Nam,2007,26609,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE679,0,130,704,No
+712,Viet Nam,2006,24149,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE680,0,130,704,No
+713,Viet Nam,2005,23218,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE681,0,130,704,No
+714,Viet Nam,2002,24080,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE682,0,130,704,No
+715,Viet Nam,2001,5977,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE683,0,130,704,No
+716,Yemen,2010,2295,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE684,0,130,887,No
+717,Yemen,2010,2295,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE684,0,130,886,No
+718,Yemen,2004,2638,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE685,0,130,887,No
+719,Yemen,2004,2638,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE685,0,130,886,No
+720,Yemen,1997,1212,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE686,0,130,887,No
+721,Yemen,1997,1212,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE686,0,130,886,No
+722,Zambia,2011,1750,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE687,0,130,894,No
+723,Zambia,2010,317,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE688,0,130,894,No
+724,Zambia,2009,306,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE689,0,130,894,No
+725,Zambia,2008,90,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE690,0,130,894,No
+726,Zambia,2006,108,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE691,0,130,894,No
+727,Zambia,2005,108,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE692,0,130,894,No
+728,Zambia,2004,804,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE693,0,130,894,No
+729,Zimbabwe,2009,2528,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE694,0,130,716,No
+730,Zimbabwe,2008,332,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE695,0,130,716,No
+731,Zimbabwe,2007,318,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE696,0,130,716,No
+732,Zimbabwe,2004,883,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE697,0,130,716,No
+733,Zimbabwe,1995,703,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE698,0,130,716,No
+734,Zimbabwe,1990,506,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE699,0,130,716,No
+735,Zimbabwe,1985,376,Number of pharmaceutical personnel,Absolute,All,All,NOPHPE700,0,130,716,No

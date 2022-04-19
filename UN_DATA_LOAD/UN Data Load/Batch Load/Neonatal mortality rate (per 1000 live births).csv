@@ -1,0 +1,1207 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2012,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1,0,0.1,4,No
+1,Afghanistan,2010,37,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB2,0,0.1,4,No
+2,Afghanistan,2005,40,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB3,0,0.1,4,No
+3,Afghanistan,2000,43,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB4,0,0.1,4,No
+4,Afghanistan,1995,45,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB5,0,0.1,4,No
+5,Afghanistan,1990,50,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB6,0,0.1,4,No
+6,Albania,2012,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB7,0,0.1,8,No
+7,Albania,2010,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB8,0,0.1,8,No
+8,Albania,2005,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB9,0,0.1,8,No
+9,Albania,2000,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB10,0,0.1,8,No
+10,Albania,1995,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB11,0,0.1,8,No
+11,Albania,1990,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB12,0,0.1,8,No
+12,Algeria,2012,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB13,0,0.1,12,No
+13,Algeria,2010,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB14,0,0.1,12,No
+14,Algeria,2005,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB15,0,0.1,12,No
+15,Algeria,2000,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB16,0,0.1,12,No
+16,Algeria,1995,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB17,0,0.1,12,No
+17,Algeria,1990,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB18,0,0.1,12,No
+18,Andorra,2012,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB19,0,0.1,20,No
+19,Andorra,2010,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB20,0,0.1,20,No
+20,Andorra,2005,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB21,0,0.1,20,No
+21,Andorra,2000,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB22,0,0.1,20,No
+22,Andorra,1995,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB23,0,0.1,20,No
+23,Andorra,1990,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB24,0,0.1,20,No
+24,Angola,2012,45,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB25,0,0.1,24,No
+25,Angola,2010,47,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB26,0,0.1,24,No
+26,Angola,2005,50,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB27,0,0.1,24,No
+27,Angola,2000,51,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB28,0,0.1,24,No
+28,Angola,1995,51,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB29,0,0.1,24,No
+29,Angola,1990,52,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB30,0,0.1,24,No
+30,Antigua and Barbuda,2012,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB31,0,0.1,28,No
+31,Antigua and Barbuda,2010,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB32,0,0.1,28,No
+32,Antigua and Barbuda,2005,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB33,0,0.1,28,No
+33,Antigua and Barbuda,2000,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB34,0,0.1,28,No
+34,Antigua and Barbuda,1995,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB35,0,0.1,28,No
+35,Antigua and Barbuda,1990,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB36,0,0.1,28,No
+36,Argentina,2012,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB37,0,0.1,32,No
+37,Argentina,2010,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB38,0,0.1,32,No
+38,Argentina,2005,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB39,0,0.1,32,No
+39,Argentina,2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB40,0,0.1,32,No
+40,Argentina,1995,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB41,0,0.1,32,No
+41,Argentina,1990,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB42,0,0.1,32,No
+42,Armenia,2012,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB43,0,0.1,51,No
+43,Armenia,2010,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB44,0,0.1,51,No
+44,Armenia,2005,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB45,0,0.1,51,No
+45,Armenia,2000,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB46,0,0.1,51,No
+46,Armenia,1995,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB47,0,0.1,51,No
+47,Armenia,1990,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB48,0,0.1,51,No
+48,Australia,2012,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB49,0,0.1,36,No
+49,Australia,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB50,0,0.1,36,No
+50,Australia,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB51,0,0.1,36,No
+51,Australia,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB52,0,0.1,36,No
+52,Australia,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB53,0,0.1,36,No
+53,Australia,1990,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB54,0,0.1,36,No
+54,Austria,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB55,0,0.1,40,No
+55,Austria,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB56,0,0.1,40,No
+56,Austria,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB57,0,0.1,40,No
+57,Austria,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB58,0,0.1,40,No
+58,Austria,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB59,0,0.1,40,No
+59,Austria,1990,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB60,0,0.1,40,No
+60,Azerbaijan,2012,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB61,0,0.1,31,No
+61,Azerbaijan,2010,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB62,0,0.1,31,No
+62,Azerbaijan,2005,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB63,0,0.1,31,No
+63,Azerbaijan,2000,25,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB64,0,0.1,31,No
+64,Azerbaijan,1995,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB65,0,0.1,31,No
+65,Azerbaijan,1990,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB66,0,0.1,31,No
+66,Bahamas,2012,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB67,0,0.1,44,No
+67,Bahamas,2010,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB68,0,0.1,44,No
+68,Bahamas,2005,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB69,0,0.1,44,No
+69,Bahamas,2000,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB70,0,0.1,44,No
+70,Bahamas,1995,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB71,0,0.1,44,No
+71,Bahamas,1990,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB72,0,0.1,44,No
+72,Bahrain,2012,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB73,0,0.1,48,No
+73,Bahrain,2010,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB74,0,0.1,48,No
+74,Bahrain,2005,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB75,0,0.1,48,No
+75,Bahrain,2000,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB76,0,0.1,48,No
+76,Bahrain,1995,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB77,0,0.1,48,No
+77,Bahrain,1990,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB78,0,0.1,48,No
+78,Bangladesh,2012,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB79,0,0.1,50,No
+79,Bangladesh,2010,27,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB80,0,0.1,50,No
+80,Bangladesh,2005,35,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB81,0,0.1,50,No
+81,Bangladesh,2000,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB82,0,0.1,50,No
+82,Bangladesh,1995,48,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB83,0,0.1,50,No
+83,Bangladesh,1990,54,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB84,0,0.1,50,No
+84,Barbados,2012,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB85,0,0.1,52,No
+85,Barbados,2010,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB86,0,0.1,52,No
+86,Barbados,2005,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB87,0,0.1,52,No
+87,Barbados,2000,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB88,0,0.1,52,No
+88,Barbados,1995,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB89,0,0.1,52,No
+89,Barbados,1990,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB90,0,0.1,52,No
+90,Belarus,2012,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB91,0,0.1,112,No
+91,Belarus,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB92,0,0.1,112,No
+92,Belarus,2005,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB93,0,0.1,112,No
+93,Belarus,2000,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB94,0,0.1,112,No
+94,Belarus,1995,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB95,0,0.1,112,No
+95,Belarus,1990,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB96,0,0.1,112,No
+96,Belgium,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB97,0,0.1,56,No
+97,Belgium,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB98,0,0.1,56,No
+98,Belgium,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB99,0,0.1,56,No
+99,Belgium,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB100,0,0.1,56,No
+100,Belgium,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB101,0,0.1,56,No
+101,Belgium,1990,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB102,0,0.1,56,No
+102,Belize,2012,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB103,0,0.1,84,No
+103,Belize,2010,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB104,0,0.1,84,No
+104,Belize,2005,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB105,0,0.1,84,No
+105,Belize,2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB106,0,0.1,84,No
+106,Belize,1995,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB107,0,0.1,84,No
+107,Belize,1990,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB108,0,0.1,84,No
+108,Benin,2012,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB109,0,0.1,204,No
+109,Benin,2010,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB110,0,0.1,204,No
+110,Benin,2005,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB111,0,0.1,204,No
+111,Benin,2000,37,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB112,0,0.1,204,No
+112,Benin,1995,39,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB113,0,0.1,204,No
+113,Benin,1990,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB114,0,0.1,204,No
+114,Bhutan,2012,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB115,0,0.1,64,No
+115,Bhutan,2010,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB116,0,0.1,64,No
+116,Bhutan,2005,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB117,0,0.1,64,No
+117,Bhutan,2000,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB118,0,0.1,64,No
+118,Bhutan,1995,37,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB119,0,0.1,64,No
+119,Bhutan,1990,42,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB120,0,0.1,64,No
+120,Bolivia (Plurinational State of),2012,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB121,0,0.1,68,No
+121,Bolivia (Plurinational State of),2010,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB122,0,0.1,68,No
+122,Bolivia (Plurinational State of),2005,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB123,0,0.1,68,No
+123,Bolivia (Plurinational State of),2000,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB124,0,0.1,68,No
+124,Bolivia (Plurinational State of),1995,34,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB125,0,0.1,68,No
+125,Bolivia (Plurinational State of),1990,38,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB126,0,0.1,68,No
+126,Bosnia and Herzegovina,2012,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB127,0,0.1,70,No
+127,Bosnia and Herzegovina,2010,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB128,0,0.1,70,No
+128,Bosnia and Herzegovina,2005,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB129,0,0.1,70,No
+129,Bosnia and Herzegovina,2000,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB130,0,0.1,70,No
+130,Bosnia and Herzegovina,1995,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB131,0,0.1,70,No
+131,Bosnia and Herzegovina,1990,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB132,0,0.1,70,No
+132,Botswana,2012,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB133,0,0.1,72,No
+133,Botswana,2010,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB134,0,0.1,72,No
+134,Botswana,2005,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB135,0,0.1,72,No
+135,Botswana,2000,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB136,0,0.1,72,No
+136,Botswana,1995,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB137,0,0.1,72,No
+137,Botswana,1990,25,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB138,0,0.1,72,No
+138,Brazil,2012,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB139,0,0.1,76,No
+139,Brazil,2010,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB140,0,0.1,76,No
+140,Brazil,2005,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB141,0,0.1,76,No
+141,Brazil,2000,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB142,0,0.1,76,No
+142,Brazil,1995,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB143,0,0.1,76,No
+143,Brazil,1990,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB144,0,0.1,76,No
+144,Brunei Darussalam,2012,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB145,0,0.1,96,No
+145,Brunei Darussalam,2010,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB146,0,0.1,96,No
+146,Brunei Darussalam,2005,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB147,0,0.1,96,No
+147,Brunei Darussalam,2000,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB148,0,0.1,96,No
+148,Brunei Darussalam,1995,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB149,0,0.1,96,No
+149,Brunei Darussalam,1990,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB150,0,0.1,96,No
+150,Bulgaria,2012,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB151,0,0.1,100,No
+151,Bulgaria,2010,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB152,0,0.1,100,No
+152,Bulgaria,2005,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB153,0,0.1,100,No
+153,Bulgaria,2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB154,0,0.1,100,No
+154,Bulgaria,1995,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB155,0,0.1,100,No
+155,Bulgaria,1990,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB156,0,0.1,100,No
+156,Burkina Faso,2012,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB157,0,0.1,854,No
+157,Burkina Faso,2010,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB158,0,0.1,854,No
+158,Burkina Faso,2005,35,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB159,0,0.1,854,No
+159,Burkina Faso,2000,38,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB160,0,0.1,854,No
+160,Burkina Faso,1995,40,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB161,0,0.1,854,No
+161,Burkina Faso,1990,40,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB162,0,0.1,854,No
+162,Burundi,2012,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB163,0,0.1,108,No
+163,Burundi,2010,37,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB164,0,0.1,108,No
+164,Burundi,2005,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB165,0,0.1,108,No
+165,Burundi,2000,44,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB166,0,0.1,108,No
+166,Burundi,1995,45,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB167,0,0.1,108,No
+167,Burundi,1990,46,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB168,0,0.1,108,No
+168,Cabo Verde,2012,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB169,0,0.1,132,No
+169,Cabo Verde,2010,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB170,0,0.1,132,No
+170,Cabo Verde,2005,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB171,0,0.1,132,No
+171,Cabo Verde,2000,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB172,0,0.1,132,No
+172,Cabo Verde,1995,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB173,0,0.1,132,No
+173,Cabo Verde,1990,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB174,0,0.1,132,No
+174,Cambodia,2012,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB175,0,0.1,116,No
+175,Cambodia,2010,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB176,0,0.1,116,No
+176,Cambodia,2005,25,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB177,0,0.1,116,No
+177,Cambodia,2000,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB178,0,0.1,116,No
+178,Cambodia,1995,38,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB179,0,0.1,116,No
+179,Cambodia,1990,37,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB180,0,0.1,116,No
+180,Cameroon,2012,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB181,0,0.1,120,No
+181,Cameroon,2010,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB182,0,0.1,120,No
+182,Cameroon,2005,32,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB183,0,0.1,120,No
+183,Cameroon,2000,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB184,0,0.1,120,No
+184,Cameroon,1995,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB185,0,0.1,120,No
+185,Cameroon,1990,35,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB186,0,0.1,120,No
+186,Canada,2012,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB187,0,0.1,124,No
+187,Canada,2010,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB188,0,0.1,124,No
+188,Canada,2005,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB189,0,0.1,124,No
+189,Canada,2000,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB190,0,0.1,124,No
+190,Canada,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB191,0,0.1,124,No
+191,Canada,1990,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB192,0,0.1,124,No
+192,Central African Republic,2012,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB193,0,0.1,140,No
+193,Central African Republic,2010,42,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB194,0,0.1,140,No
+194,Central African Republic,2005,45,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB195,0,0.1,140,No
+195,Central African Republic,2000,46,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB196,0,0.1,140,No
+196,Central African Republic,1995,46,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB197,0,0.1,140,No
+197,Central African Republic,1990,47,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB198,0,0.1,140,No
+198,Chad,2012,40,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB199,0,0.1,148,No
+199,Chad,2010,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB200,0,0.1,148,No
+200,Chad,2005,43,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB201,0,0.1,148,No
+201,Chad,2000,45,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB202,0,0.1,148,No
+202,Chad,1995,46,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB203,0,0.1,148,No
+203,Chad,1990,47,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB204,0,0.1,148,No
+204,Chile,2012,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB205,0,0.1,152,No
+205,Chile,2010,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB206,0,0.1,152,No
+206,Chile,2005,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB207,0,0.1,152,No
+207,Chile,2000,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB208,0,0.1,152,No
+208,Chile,1995,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB209,0,0.1,152,No
+209,Chile,1990,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB210,0,0.1,152,No
+210,China,2012,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB211,0,0.1,156,No
+211,China,2010,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB212,0,0.1,156,No
+212,China,2005,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB213,0,0.1,156,No
+213,China,2000,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB214,0,0.1,156,No
+214,China,1995,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB215,0,0.1,156,No
+215,China,1990,25,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB216,0,0.1,156,No
+216,Colombia,2012,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB217,0,0.1,170,No
+217,Colombia,2010,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB218,0,0.1,170,No
+218,Colombia,2005,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB219,0,0.1,170,No
+219,Colombia,2000,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB220,0,0.1,170,No
+220,Colombia,1995,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB221,0,0.1,170,No
+221,Colombia,1990,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB222,0,0.1,170,No
+222,Comoros,2012,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB223,0,0.1,174,No
+223,Comoros,2010,32,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB224,0,0.1,174,No
+224,Comoros,2005,35,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB225,0,0.1,174,No
+225,Comoros,2000,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB226,0,0.1,174,No
+226,Comoros,1995,38,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB227,0,0.1,174,No
+227,Comoros,1990,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB228,0,0.1,174,No
+228,Congo,2012,32,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB229,0,0.1,178,No
+229,Congo,2010,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB230,0,0.1,178,No
+230,Congo,2005,35,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB231,0,0.1,178,No
+231,Congo,2000,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB232,0,0.1,178,No
+232,Congo,1995,34,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB233,0,0.1,178,No
+233,Congo,1990,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB234,0,0.1,178,No
+234,Cook Islands,2012,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB235,0,0.1,184,No
+235,Cook Islands,2010,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB236,0,0.1,184,No
+236,Cook Islands,2005,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB237,0,0.1,184,No
+237,Cook Islands,2000,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB238,0,0.1,184,No
+238,Cook Islands,1995,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB239,0,0.1,184,No
+239,Cook Islands,1990,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB240,0,0.1,184,No
+240,Costa Rica,2012,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB241,0,0.1,188,No
+241,Costa Rica,2010,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB242,0,0.1,188,No
+242,Costa Rica,2005,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB243,0,0.1,188,No
+243,Costa Rica,2000,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB244,0,0.1,188,No
+244,Costa Rica,1995,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB245,0,0.1,188,No
+245,Costa Rica,1990,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB246,0,0.1,188,No
+246,Côte dIvoire,2012,40,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB247,0,0.1,384,No
+247,Côte dIvoire,2010,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB248,0,0.1,384,No
+248,Côte dIvoire,2005,44,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB249,0,0.1,384,No
+249,Côte dIvoire,2000,46,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB250,0,0.1,384,No
+250,Côte dIvoire,1995,48,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB251,0,0.1,384,No
+251,Côte dIvoire,1990,48,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB252,0,0.1,384,No
+252,Croatia,2012,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB253,0,0.1,191,No
+253,Croatia,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB254,0,0.1,191,No
+254,Croatia,2005,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB255,0,0.1,191,No
+255,Croatia,2000,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB256,0,0.1,191,No
+256,Croatia,1995,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB257,0,0.1,191,No
+257,Croatia,1990,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB258,0,0.1,191,No
+258,Cuba,2012,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB259,0,0.1,192,No
+259,Cuba,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB260,0,0.1,192,No
+260,Cuba,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB261,0,0.1,192,No
+261,Cuba,2000,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB262,0,0.1,192,No
+262,Cuba,1995,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB263,0,0.1,192,No
+263,Cuba,1990,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB264,0,0.1,192,No
+264,Cyprus,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB265,0,0.1,196,No
+265,Cyprus,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB266,0,0.1,196,No
+266,Cyprus,2005,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB267,0,0.1,196,No
+267,Cyprus,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB268,0,0.1,196,No
+268,Cyprus,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB269,0,0.1,196,No
+269,Cyprus,1990,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB270,0,0.1,196,No
+270,Czech Republic,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB271,0,0.1,203,No
+271,Czech Republic,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB272,0,0.1,203,No
+272,Czech Republic,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB273,0,0.1,203,No
+273,Czech Republic,2000,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB274,0,0.1,203,No
+274,Czech Republic,1995,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB275,0,0.1,203,No
+275,Czech Republic,1990,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB276,0,0.1,203,No
+276,Democratic Peoples Republic of Korea,2012,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB277,0,0.1,408,No
+277,Democratic Peoples Republic of Korea,2010,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB278,0,0.1,408,No
+278,Democratic Peoples Republic of Korea,2005,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB279,0,0.1,408,No
+279,Democratic Peoples Republic of Korea,2000,27,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB280,0,0.1,408,No
+280,Democratic Peoples Republic of Korea,1995,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB281,0,0.1,408,No
+281,Democratic Peoples Republic of Korea,1990,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB282,0,0.1,408,No
+282,Democratic Republic of the Congo,2012,44,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB283,0,0.1,180,No
+283,Democratic Republic of the Congo,2010,45,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB284,0,0.1,180,No
+284,Democratic Republic of the Congo,2005,47,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB285,0,0.1,180,No
+285,Democratic Republic of the Congo,2000,47,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB286,0,0.1,180,No
+286,Democratic Republic of the Congo,1995,47,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB287,0,0.1,180,No
+287,Democratic Republic of the Congo,1990,47,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB288,0,0.1,180,No
+288,Denmark,2012,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB289,0,0.1,208,No
+289,Denmark,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB290,0,0.1,208,No
+290,Denmark,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB291,0,0.1,208,No
+291,Denmark,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB292,0,0.1,208,No
+292,Denmark,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB293,0,0.1,208,No
+293,Denmark,1990,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB294,0,0.1,208,No
+294,Djibouti,2012,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB295,0,0.1,262,No
+295,Djibouti,2010,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB296,0,0.1,262,No
+296,Djibouti,2005,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB297,0,0.1,262,No
+297,Djibouti,2000,38,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB298,0,0.1,262,No
+298,Djibouti,1995,38,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB299,0,0.1,262,No
+299,Djibouti,1990,40,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB300,0,0.1,262,No
+300,Dominica,2012,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB301,0,0.1,212,No
+301,Dominica,2010,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB302,0,0.1,212,No
+302,Dominica,2005,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB303,0,0.1,212,No
+303,Dominica,2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB304,0,0.1,212,No
+304,Dominica,1995,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB305,0,0.1,212,No
+305,Dominica,1990,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB306,0,0.1,212,No
+306,Dominican Republic,2012,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB307,0,0.1,214,No
+307,Dominican Republic,2010,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB308,0,0.1,214,No
+308,Dominican Republic,2005,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB309,0,0.1,214,No
+309,Dominican Republic,2000,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB310,0,0.1,214,No
+310,Dominican Republic,1995,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB311,0,0.1,214,No
+311,Dominican Republic,1990,27,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB312,0,0.1,214,No
+312,Ecuador,2012,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB313,0,0.1,218,No
+313,Ecuador,2010,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB314,0,0.1,218,No
+314,Ecuador,2005,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB315,0,0.1,218,No
+315,Ecuador,2000,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB316,0,0.1,218,No
+316,Ecuador,1995,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB317,0,0.1,218,No
+317,Ecuador,1990,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB318,0,0.1,218,No
+318,Egypt,2012,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB319,0,0.1,818,No
+319,Egypt,2010,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB320,0,0.1,818,No
+320,Egypt,2005,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB321,0,0.1,818,No
+321,Egypt,2000,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB322,0,0.1,818,No
+322,Egypt,1995,27,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB323,0,0.1,818,No
+323,Egypt,1990,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB324,0,0.1,818,No
+324,El Salvador,2012,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB325,0,0.1,222,No
+325,El Salvador,2010,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB326,0,0.1,222,No
+326,El Salvador,2005,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB327,0,0.1,222,No
+327,El Salvador,2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB328,0,0.1,222,No
+328,El Salvador,1995,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB329,0,0.1,222,No
+329,El Salvador,1990,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB330,0,0.1,222,No
+330,Equatorial Guinea,2012,34,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB331,0,0.1,226,No
+331,Equatorial Guinea,2010,35,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB332,0,0.1,226,No
+332,Equatorial Guinea,2005,39,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB333,0,0.1,226,No
+333,Equatorial Guinea,2000,42,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB334,0,0.1,226,No
+334,Equatorial Guinea,1995,45,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB335,0,0.1,226,No
+335,Equatorial Guinea,1990,47,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB336,0,0.1,226,No
+336,Eritrea,2012,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB337,0,0.1,232,No
+337,Eritrea,2010,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB338,0,0.1,232,No
+338,Eritrea,2005,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB339,0,0.1,232,No
+339,Eritrea,2000,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB340,0,0.1,232,No
+340,Eritrea,1995,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB341,0,0.1,232,No
+341,Eritrea,1990,35,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB342,0,0.1,232,No
+342,Estonia,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB343,0,0.1,233,No
+343,Estonia,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB344,0,0.1,233,No
+344,Estonia,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB345,0,0.1,233,No
+345,Estonia,2000,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB346,0,0.1,233,No
+346,Estonia,1995,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB347,0,0.1,233,No
+347,Estonia,1990,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB348,0,0.1,233,No
+348,Ethiopia,2012,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB349,0,0.1,231,No
+349,Ethiopia,2012,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB349,0,0.1,230,No
+350,Ethiopia,2010,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB350,0,0.1,231,No
+351,Ethiopia,2010,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB350,0,0.1,230,No
+352,Ethiopia,2005,39,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB351,0,0.1,231,No
+353,Ethiopia,2005,39,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB351,0,0.1,230,No
+354,Ethiopia,2000,46,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB352,0,0.1,231,No
+355,Ethiopia,2000,46,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB352,0,0.1,230,No
+356,Ethiopia,1995,50,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB353,0,0.1,231,No
+357,Ethiopia,1995,50,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB353,0,0.1,230,No
+358,Ethiopia,1990,54,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB354,0,0.1,231,No
+359,Ethiopia,1990,54,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB354,0,0.1,230,No
+360,Fiji,2012,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB355,0,0.1,242,No
+361,Fiji,2010,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB356,0,0.1,242,No
+362,Fiji,2005,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB357,0,0.1,242,No
+363,Fiji,2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB358,0,0.1,242,No
+364,Fiji,1995,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB359,0,0.1,242,No
+365,Fiji,1990,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB360,0,0.1,242,No
+366,Finland,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB361,0,0.1,246,No
+367,Finland,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB362,0,0.1,246,No
+368,Finland,2005,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB363,0,0.1,246,No
+369,Finland,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB364,0,0.1,246,No
+370,Finland,1995,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB365,0,0.1,246,No
+371,Finland,1990,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB366,0,0.1,246,No
+372,France,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB367,0,0.1,250,No
+373,France,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB368,0,0.1,250,No
+374,France,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB369,0,0.1,250,No
+375,France,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB370,0,0.1,250,No
+376,France,1995,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB371,0,0.1,250,No
+377,France,1990,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB372,0,0.1,250,No
+378,Gabon,2012,25,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB373,0,0.1,266,No
+379,Gabon,2010,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB374,0,0.1,266,No
+380,Gabon,2005,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB375,0,0.1,266,No
+381,Gabon,2000,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB376,0,0.1,266,No
+382,Gabon,1995,32,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB377,0,0.1,266,No
+383,Gabon,1990,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB378,0,0.1,266,No
+384,Gambia,2012,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB379,0,0.1,270,No
+385,Gambia,2010,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB380,0,0.1,270,No
+386,Gambia,2005,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB381,0,0.1,270,No
+387,Gambia,2000,37,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB382,0,0.1,270,No
+388,Gambia,1995,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB383,0,0.1,270,No
+389,Gambia,1990,46,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB384,0,0.1,270,No
+390,Georgia,2012,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB385,0,0.1,268,No
+391,Georgia,2010,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB386,0,0.1,268,No
+392,Georgia,2005,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB387,0,0.1,268,No
+393,Georgia,2000,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB388,0,0.1,268,No
+394,Georgia,1995,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB389,0,0.1,268,No
+395,Georgia,1990,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB390,0,0.1,268,No
+396,Germany,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB391,0,0.1,276,No
+397,Germany,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB392,0,0.1,276,No
+398,Germany,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB393,0,0.1,276,No
+399,Germany,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB394,0,0.1,276,No
+400,Germany,1995,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB395,0,0.1,276,No
+401,Germany,1990,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB396,0,0.1,276,No
+402,Ghana,2012,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB397,0,0.1,288,No
+403,Ghana,2010,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB398,0,0.1,288,No
+404,Ghana,2005,32,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB399,0,0.1,288,No
+405,Ghana,2000,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB400,0,0.1,288,No
+406,Ghana,1995,38,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB401,0,0.1,288,No
+407,Ghana,1990,40,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB402,0,0.1,288,No
+408,Greece,2012,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB403,0,0.1,300,No
+409,Greece,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB404,0,0.1,300,No
+410,Greece,2005,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB405,0,0.1,300,No
+411,Greece,2000,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB406,0,0.1,300,No
+412,Greece,1995,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB407,0,0.1,300,No
+413,Greece,1990,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB408,0,0.1,300,No
+414,Grenada,2012,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB409,0,0.1,308,No
+415,Grenada,2010,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB410,0,0.1,308,No
+416,Grenada,2005,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB411,0,0.1,308,No
+417,Grenada,2000,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB412,0,0.1,308,No
+418,Grenada,1995,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB413,0,0.1,308,No
+419,Grenada,1990,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB414,0,0.1,308,No
+420,Guatemala,2012,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB415,0,0.1,320,No
+421,Guatemala,2010,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB416,0,0.1,320,No
+422,Guatemala,2005,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB417,0,0.1,320,No
+423,Guatemala,2000,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB418,0,0.1,320,No
+424,Guatemala,1995,25,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB419,0,0.1,320,No
+425,Guatemala,1990,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB420,0,0.1,320,No
+426,Guinea,2012,34,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB421,0,0.1,324,No
+427,Guinea,2010,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB422,0,0.1,324,No
+428,Guinea,2005,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB423,0,0.1,324,No
+429,Guinea,2000,46,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB424,0,0.1,324,No
+430,Guinea,1995,51,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB425,0,0.1,324,No
+431,Guinea,1990,54,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB426,0,0.1,324,No
+432,Guinea-Bissau,2012,46,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB427,0,0.1,624,No
+433,Guinea-Bissau,2010,47,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB428,0,0.1,624,No
+434,Guinea-Bissau,2005,51,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB429,0,0.1,624,No
+435,Guinea-Bissau,2000,54,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB430,0,0.1,624,No
+436,Guinea-Bissau,1995,56,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB431,0,0.1,624,No
+437,Guinea-Bissau,1990,58,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB432,0,0.1,624,No
+438,Guyana,2012,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB433,0,0.1,328,No
+439,Guyana,2010,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB434,0,0.1,328,No
+440,Guyana,2005,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB435,0,0.1,328,No
+441,Guyana,2000,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB436,0,0.1,328,No
+442,Guyana,1995,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB437,0,0.1,328,No
+443,Guyana,1990,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB438,0,0.1,328,No
+444,Haiti,2012,25,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB439,0,0.1,332,No
+445,Haiti,2010,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB440,0,0.1,332,No
+446,Haiti,2005,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB441,0,0.1,332,No
+447,Haiti,2000,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB442,0,0.1,332,No
+448,Haiti,1995,34,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB443,0,0.1,332,No
+449,Haiti,1990,37,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB444,0,0.1,332,No
+450,Honduras,2012,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB445,0,0.1,340,No
+451,Honduras,2010,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB446,0,0.1,340,No
+452,Honduras,2005,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB447,0,0.1,340,No
+453,Honduras,2000,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB448,0,0.1,340,No
+454,Honduras,1995,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB449,0,0.1,340,No
+455,Honduras,1990,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB450,0,0.1,340,No
+456,Hungary,2012,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB451,0,0.1,348,No
+457,Hungary,2010,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB452,0,0.1,348,No
+458,Hungary,2005,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB453,0,0.1,348,No
+459,Hungary,2000,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB454,0,0.1,348,No
+460,Hungary,1995,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB455,0,0.1,348,No
+461,Hungary,1990,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB456,0,0.1,348,No
+462,Iceland,2012,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB457,0,0.1,352,No
+463,Iceland,2010,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB458,0,0.1,352,No
+464,Iceland,2005,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB459,0,0.1,352,No
+465,Iceland,2000,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB460,0,0.1,352,No
+466,Iceland,1995,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB461,0,0.1,352,No
+467,Iceland,1990,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB462,0,0.1,352,No
+468,India,2012,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB463,0,0.1,356,No
+469,India,2010,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB464,0,0.1,356,No
+470,India,2005,37,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB465,0,0.1,356,No
+471,India,2000,42,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB466,0,0.1,356,No
+472,India,1995,47,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB467,0,0.1,356,No
+473,India,1990,51,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB468,0,0.1,356,No
+474,Indonesia,2012,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB469,0,0.1,360,No
+475,Indonesia,2010,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB470,0,0.1,360,No
+476,Indonesia,2005,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB471,0,0.1,360,No
+477,Indonesia,2000,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB472,0,0.1,360,No
+478,Indonesia,1995,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB473,0,0.1,360,No
+479,Indonesia,1990,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB474,0,0.1,360,No
+480,Iran (Islamic Republic of),2012,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB475,0,0.1,364,No
+481,Iran (Islamic Republic of),2010,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB476,0,0.1,364,No
+482,Iran (Islamic Republic of),2005,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB477,0,0.1,364,No
+483,Iran (Islamic Republic of),2000,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB478,0,0.1,364,No
+484,Iran (Islamic Republic of),1995,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB479,0,0.1,364,No
+485,Iran (Islamic Republic of),1990,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB480,0,0.1,364,No
+486,Iraq,2012,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB481,0,0.1,368,No
+487,Iraq,2010,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB482,0,0.1,368,No
+488,Iraq,2005,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB483,0,0.1,368,No
+489,Iraq,2000,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB484,0,0.1,368,No
+490,Iraq,1995,25,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB485,0,0.1,368,No
+491,Iraq,1990,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB486,0,0.1,368,No
+492,Ireland,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB487,0,0.1,372,No
+493,Ireland,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB488,0,0.1,372,No
+494,Ireland,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB489,0,0.1,372,No
+495,Ireland,2000,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB490,0,0.1,372,No
+496,Ireland,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB491,0,0.1,372,No
+497,Ireland,1990,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB492,0,0.1,372,No
+498,Israel,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB493,0,0.1,376,No
+499,Israel,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB494,0,0.1,376,No
+500,Israel,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB495,0,0.1,376,No
+501,Israel,2000,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB496,0,0.1,376,No
+502,Israel,1995,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB497,0,0.1,376,No
+503,Israel,1990,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB498,0,0.1,376,No
+504,Italy,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB499,0,0.1,380,No
+505,Italy,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB500,0,0.1,380,No
+506,Italy,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB501,0,0.1,380,No
+507,Italy,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB502,0,0.1,380,No
+508,Italy,1995,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB503,0,0.1,380,No
+509,Italy,1990,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB504,0,0.1,380,No
+510,Jamaica,2012,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB505,0,0.1,388,No
+511,Jamaica,2010,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB506,0,0.1,388,No
+512,Jamaica,2005,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB507,0,0.1,388,No
+513,Jamaica,2000,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB508,0,0.1,388,No
+514,Jamaica,1995,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB509,0,0.1,388,No
+515,Jamaica,1990,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB510,0,0.1,388,No
+516,Japan,2012,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB511,0,0.1,392,No
+517,Japan,2012,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB511,0,0.1,392,No
+518,Japan,2010,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB512,0,0.1,392,No
+519,Japan,2010,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB512,0,0.1,392,No
+520,Japan,2005,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB513,0,0.1,392,No
+521,Japan,2005,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB513,0,0.1,392,No
+522,Japan,2000,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB514,0,0.1,392,No
+523,Japan,2000,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB514,0,0.1,392,No
+524,Japan,1995,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB515,0,0.1,392,No
+525,Japan,1995,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB515,0,0.1,392,No
+526,Japan,1990,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB516,0,0.1,392,No
+527,Japan,1990,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB516,0,0.1,392,No
+528,Jordan,2012,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB517,0,0.1,400,No
+529,Jordan,2010,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB518,0,0.1,400,No
+530,Jordan,2005,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB519,0,0.1,400,No
+531,Jordan,2000,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB520,0,0.1,400,No
+532,Jordan,1995,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB521,0,0.1,400,No
+533,Jordan,1990,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB522,0,0.1,400,No
+534,Kazakhstan,2012,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB523,0,0.1,398,No
+535,Kazakhstan,2010,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB524,0,0.1,398,No
+536,Kazakhstan,2005,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB525,0,0.1,398,No
+537,Kazakhstan,2000,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB526,0,0.1,398,No
+538,Kazakhstan,1995,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB527,0,0.1,398,No
+539,Kazakhstan,1990,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB528,0,0.1,398,No
+540,Kenya,2012,27,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB529,0,0.1,404,No
+541,Kenya,2010,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB530,0,0.1,404,No
+542,Kenya,2005,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB531,0,0.1,404,No
+543,Kenya,2000,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB532,0,0.1,404,No
+544,Kenya,1995,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB533,0,0.1,404,No
+545,Kenya,1990,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB534,0,0.1,404,No
+546,Kiribati,2012,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB535,0,0.1,296,No
+547,Kiribati,2010,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB536,0,0.1,296,No
+548,Kiribati,2005,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB537,0,0.1,296,No
+549,Kiribati,2000,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB538,0,0.1,296,No
+550,Kiribati,1995,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB539,0,0.1,296,No
+551,Kiribati,1990,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB540,0,0.1,296,No
+552,Kuwait,2012,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB541,0,0.1,414,No
+553,Kuwait,2010,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB542,0,0.1,414,No
+554,Kuwait,2005,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB543,0,0.1,414,No
+555,Kuwait,2000,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB544,0,0.1,414,No
+556,Kuwait,1995,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB545,0,0.1,414,No
+557,Kuwait,1990,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB546,0,0.1,414,No
+558,Kyrgyzstan,2012,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB547,0,0.1,417,No
+559,Kyrgyzstan,2010,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB548,0,0.1,417,No
+560,Kyrgyzstan,2005,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB549,0,0.1,417,No
+561,Kyrgyzstan,2000,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB550,0,0.1,417,No
+562,Kyrgyzstan,1995,27,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB551,0,0.1,417,No
+563,Kyrgyzstan,1990,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB552,0,0.1,417,No
+564,Lao Peoples Democratic Republic,2012,27,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB553,0,0.1,418,No
+565,Lao Peoples Democratic Republic,2010,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB554,0,0.1,418,No
+566,Lao Peoples Democratic Republic,2005,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB555,0,0.1,418,No
+567,Lao Peoples Democratic Republic,2000,37,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB556,0,0.1,418,No
+568,Lao Peoples Democratic Republic,1995,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB557,0,0.1,418,No
+569,Lao Peoples Democratic Republic,1990,44,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB558,0,0.1,418,No
+570,Latvia,2012,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB559,0,0.1,428,No
+571,Latvia,2010,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB560,0,0.1,428,No
+572,Latvia,2005,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB561,0,0.1,428,No
+573,Latvia,2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB562,0,0.1,428,No
+574,Latvia,1995,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB563,0,0.1,428,No
+575,Latvia,1990,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB564,0,0.1,428,No
+576,Lebanon,2012,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB565,0,0.1,422,No
+577,Lebanon,2010,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB566,0,0.1,422,No
+578,Lebanon,2005,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB567,0,0.1,422,No
+579,Lebanon,2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB568,0,0.1,422,No
+580,Lebanon,1995,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB569,0,0.1,422,No
+581,Lebanon,1990,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB570,0,0.1,422,No
+582,Lesotho,2012,45,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB571,0,0.1,426,No
+583,Lesotho,2010,45,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB572,0,0.1,426,No
+584,Lesotho,2005,43,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB573,0,0.1,426,No
+585,Lesotho,2000,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB574,0,0.1,426,No
+586,Lesotho,1995,43,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB575,0,0.1,426,No
+587,Lesotho,1990,45,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB576,0,0.1,426,No
+588,Liberia,2012,27,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB577,0,0.1,430,No
+589,Liberia,2010,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB578,0,0.1,430,No
+590,Liberia,2005,35,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB579,0,0.1,430,No
+591,Liberia,2000,44,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB580,0,0.1,430,No
+592,Liberia,1995,50,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB581,0,0.1,430,No
+593,Liberia,1990,51,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB582,0,0.1,430,No
+594,Libya,2012,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB583,0,0.1,434,No
+595,Libya,2010,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB584,0,0.1,434,No
+596,Libya,2005,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB585,0,0.1,434,No
+597,Libya,2000,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB586,0,0.1,434,No
+598,Libya,1995,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB587,0,0.1,434,No
+599,Libya,1990,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB588,0,0.1,434,No
+600,Lithuania,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB589,0,0.1,440,No
+601,Lithuania,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB590,0,0.1,440,No
+602,Lithuania,2005,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB591,0,0.1,440,No
+603,Lithuania,2000,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB592,0,0.1,440,No
+604,Lithuania,1995,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB593,0,0.1,440,No
+605,Lithuania,1990,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB594,0,0.1,440,No
+606,Luxembourg,2012,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB595,0,0.1,442,No
+607,Luxembourg,2010,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB596,0,0.1,442,No
+608,Luxembourg,2005,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB597,0,0.1,442,No
+609,Luxembourg,2000,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB598,0,0.1,442,No
+610,Luxembourg,1995,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB599,0,0.1,442,No
+611,Luxembourg,1990,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB600,0,0.1,442,No
+612,Madagascar,2012,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB601,0,0.1,450,No
+613,Madagascar,2010,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB602,0,0.1,450,No
+614,Madagascar,2005,27,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB603,0,0.1,450,No
+615,Madagascar,2000,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB604,0,0.1,450,No
+616,Madagascar,1995,37,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB605,0,0.1,450,No
+617,Madagascar,1990,40,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB606,0,0.1,450,No
+618,Malawi,2012,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB607,0,0.1,454,No
+619,Malawi,2010,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB608,0,0.1,454,No
+620,Malawi,2005,32,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB609,0,0.1,454,No
+621,Malawi,2000,40,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB610,0,0.1,454,No
+622,Malawi,1995,46,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB611,0,0.1,454,No
+623,Malawi,1990,50,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB612,0,0.1,454,No
+624,Malaysia,2012,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB613,0,0.1,458,No
+625,Malaysia,2010,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB614,0,0.1,458,No
+626,Malaysia,2005,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB615,0,0.1,458,No
+627,Malaysia,2000,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB616,0,0.1,458,No
+628,Malaysia,1995,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB617,0,0.1,458,No
+629,Malaysia,1990,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB618,0,0.1,458,No
+630,Maldives,2012,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB619,0,0.1,462,No
+631,Maldives,2010,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB620,0,0.1,462,No
+632,Maldives,2005,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB621,0,0.1,462,No
+633,Maldives,2000,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB622,0,0.1,462,No
+634,Maldives,1995,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB623,0,0.1,462,No
+635,Maldives,1990,34,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB624,0,0.1,462,No
+636,Mali,2012,42,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB625,0,0.1,466,No
+637,Mali,2010,43,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB626,0,0.1,466,No
+638,Mali,2005,49,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB627,0,0.1,466,No
+639,Mali,2000,55,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB628,0,0.1,466,No
+640,Mali,1995,57,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB629,0,0.1,466,No
+641,Mali,1990,59,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB630,0,0.1,466,No
+642,Malta,2012,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB631,0,0.1,470,No
+643,Malta,2010,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB632,0,0.1,470,No
+644,Malta,2005,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB633,0,0.1,470,No
+645,Malta,2000,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB634,0,0.1,470,No
+646,Malta,1995,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB635,0,0.1,470,No
+647,Malta,1990,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB636,0,0.1,470,No
+648,Marshall Islands,2012,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB637,0,0.1,584,No
+649,Marshall Islands,2010,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB638,0,0.1,584,No
+650,Marshall Islands,2005,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB639,0,0.1,584,No
+651,Marshall Islands,2000,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB640,0,0.1,584,No
+652,Marshall Islands,1995,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB641,0,0.1,584,No
+653,Marshall Islands,1990,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB642,0,0.1,584,No
+654,Mauritania,2012,34,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB643,0,0.1,478,No
+655,Mauritania,2010,35,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB644,0,0.1,478,No
+656,Mauritania,2005,38,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB645,0,0.1,478,No
+657,Mauritania,2000,40,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB646,0,0.1,478,No
+658,Mauritania,1995,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB647,0,0.1,478,No
+659,Mauritania,1990,43,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB648,0,0.1,478,No
+660,Mauritius,2012,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB649,0,0.1,480,No
+661,Mauritius,2010,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB650,0,0.1,480,No
+662,Mauritius,2005,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB651,0,0.1,480,No
+663,Mauritius,2000,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB652,0,0.1,480,No
+664,Mauritius,1995,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB653,0,0.1,480,No
+665,Mauritius,1990,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB654,0,0.1,480,No
+666,Mexico,2012,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB655,0,0.1,484,No
+667,Mexico,2010,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB656,0,0.1,484,No
+668,Mexico,2005,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB657,0,0.1,484,No
+669,Mexico,2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB658,0,0.1,484,No
+670,Mexico,1995,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB659,0,0.1,484,No
+671,Mexico,1990,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB660,0,0.1,484,No
+672,Micronesia (Federated States of),2012,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB661,0,0.1,583,No
+673,Micronesia (Federated States of),2010,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB662,0,0.1,583,No
+674,Micronesia (Federated States of),2005,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB663,0,0.1,583,No
+675,Micronesia (Federated States of),2000,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB664,0,0.1,583,No
+676,Micronesia (Federated States of),1995,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB665,0,0.1,583,No
+677,Micronesia (Federated States of),1990,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB666,0,0.1,583,No
+678,Monaco,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB667,0,0.1,492,No
+679,Monaco,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB668,0,0.1,492,No
+680,Monaco,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB669,0,0.1,492,No
+681,Monaco,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB670,0,0.1,492,No
+682,Monaco,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB671,0,0.1,492,No
+683,Monaco,1990,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB672,0,0.1,492,No
+684,Mongolia,2012,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB673,0,0.1,496,No
+685,Mongolia,2010,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB674,0,0.1,496,No
+686,Mongolia,2005,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB675,0,0.1,496,No
+687,Mongolia,2000,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB676,0,0.1,496,No
+688,Mongolia,1995,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB677,0,0.1,496,No
+689,Mongolia,1990,25,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB678,0,0.1,496,No
+690,Montenegro,2012,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB679,0,0.1,499,No
+691,Montenegro,2010,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB680,0,0.1,499,No
+692,Montenegro,2005,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB681,0,0.1,499,No
+693,Montenegro,2000,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB682,0,0.1,499,No
+694,Montenegro,1995,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB683,0,0.1,499,No
+695,Montenegro,1990,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB684,0,0.1,499,No
+696,Morocco,2012,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB685,0,0.1,504,No
+697,Morocco,2010,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB686,0,0.1,504,No
+698,Morocco,2005,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB687,0,0.1,504,No
+699,Morocco,2000,25,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB688,0,0.1,504,No
+700,Morocco,1995,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB689,0,0.1,504,No
+701,Morocco,1990,35,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB690,0,0.1,504,No
+702,Mozambique,2012,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB691,0,0.1,508,No
+703,Mozambique,2010,32,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB692,0,0.1,508,No
+704,Mozambique,2005,38,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB693,0,0.1,508,No
+705,Mozambique,2000,44,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB694,0,0.1,508,No
+706,Mozambique,1995,51,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB695,0,0.1,508,No
+707,Mozambique,1990,54,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB696,0,0.1,508,No
+708,Myanmar,2012,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB697,0,0.1,104,No
+709,Myanmar,2010,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB698,0,0.1,104,No
+710,Myanmar,2005,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB699,0,0.1,104,No
+711,Myanmar,2000,35,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB700,0,0.1,104,No
+712,Myanmar,1995,38,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB701,0,0.1,104,No
+713,Myanmar,1990,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB702,0,0.1,104,No
+714,Namibia,2012,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB703,0,0.1,516,No
+715,Namibia,2010,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB704,0,0.1,516,No
+716,Namibia,2005,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB705,0,0.1,516,No
+717,Namibia,2000,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB706,0,0.1,516,No
+718,Namibia,1995,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB707,0,0.1,516,No
+719,Namibia,1990,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB708,0,0.1,516,No
+720,Nauru,2012,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB709,0,0.1,520,No
+721,Nauru,2010,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB710,0,0.1,520,No
+722,Nauru,2005,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB711,0,0.1,520,No
+723,Nauru,2000,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB712,0,0.1,520,No
+724,Nauru,1995,25,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB713,0,0.1,520,No
+725,Nauru,1990,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB714,0,0.1,520,No
+726,Nepal,2012,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB715,0,0.1,524,No
+727,Nepal,2010,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB716,0,0.1,524,No
+728,Nepal,2005,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB717,0,0.1,524,No
+729,Nepal,2000,38,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB718,0,0.1,524,No
+730,Nepal,1995,46,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB719,0,0.1,524,No
+731,Nepal,1990,53,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB720,0,0.1,524,No
+732,Netherlands,2012,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB721,0,0.1,528,No
+733,Netherlands,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB722,0,0.1,528,No
+734,Netherlands,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB723,0,0.1,528,No
+735,Netherlands,2000,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB724,0,0.1,528,No
+736,Netherlands,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB725,0,0.1,528,No
+737,Netherlands,1990,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB726,0,0.1,528,No
+738,New Zealand,2012,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB727,0,0.1,554,No
+739,New Zealand,2012,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB727,0,0.1,554,No
+740,New Zealand,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB728,0,0.1,554,No
+741,New Zealand,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB728,0,0.1,554,No
+742,New Zealand,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB729,0,0.1,554,No
+743,New Zealand,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB729,0,0.1,554,No
+744,New Zealand,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB730,0,0.1,554,No
+745,New Zealand,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB730,0,0.1,554,No
+746,New Zealand,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB731,0,0.1,554,No
+747,New Zealand,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB731,0,0.1,554,No
+748,New Zealand,1990,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB732,0,0.1,554,No
+749,New Zealand,1990,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB732,0,0.1,554,No
+750,Nicaragua,2012,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB733,0,0.1,558,No
+751,Nicaragua,2010,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB734,0,0.1,558,No
+752,Nicaragua,2005,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB735,0,0.1,558,No
+753,Nicaragua,2000,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB736,0,0.1,558,No
+754,Nicaragua,1995,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB737,0,0.1,558,No
+755,Nicaragua,1990,25,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB738,0,0.1,558,No
+756,Niger,2012,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB739,0,0.1,562,No
+757,Niger,2010,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB740,0,0.1,562,No
+758,Niger,2005,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB741,0,0.1,562,No
+759,Niger,2000,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB742,0,0.1,562,No
+760,Niger,1995,45,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB743,0,0.1,562,No
+761,Niger,1990,48,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB744,0,0.1,562,No
+762,Nigeria,2012,39,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB745,0,0.1,566,No
+763,Nigeria,2010,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB746,0,0.1,566,No
+764,Nigeria,2005,45,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB747,0,0.1,566,No
+765,Nigeria,2000,49,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB748,0,0.1,566,No
+766,Nigeria,1995,52,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB749,0,0.1,566,No
+767,Nigeria,1990,52,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB750,0,0.1,566,No
+768,Niue,2012,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB751,0,0.1,570,No
+769,Niue,2010,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB752,0,0.1,570,No
+770,Niue,2005,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB753,0,0.1,570,No
+771,Niue,2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB754,0,0.1,570,No
+772,Niue,1995,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB755,0,0.1,570,No
+773,Niue,1990,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB756,0,0.1,570,No
+774,Norway,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB757,0,0.1,578,No
+775,Norway,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB758,0,0.1,578,No
+776,Norway,2005,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB759,0,0.1,578,No
+777,Norway,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB760,0,0.1,578,No
+778,Norway,1995,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB761,0,0.1,578,No
+779,Norway,1990,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB762,0,0.1,578,No
+780,Oman,2012,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB763,0,0.1,512,No
+781,Oman,2010,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB764,0,0.1,512,No
+782,Oman,2005,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB765,0,0.1,512,No
+783,Oman,2000,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB766,0,0.1,512,No
+784,Oman,1995,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB767,0,0.1,512,No
+785,Oman,1990,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB768,0,0.1,512,No
+786,Pakistan,2012,42,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB769,0,0.1,586,No
+787,Pakistan,2010,43,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB770,0,0.1,586,No
+788,Pakistan,2005,46,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB771,0,0.1,586,No
+789,Pakistan,2000,49,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB772,0,0.1,586,No
+790,Pakistan,1995,53,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB773,0,0.1,586,No
+791,Pakistan,1990,56,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB774,0,0.1,586,No
+792,Palau,2012,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB775,0,0.1,585,No
+793,Palau,2010,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB776,0,0.1,585,No
+794,Palau,2005,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB777,0,0.1,585,No
+795,Palau,2000,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB778,0,0.1,585,No
+796,Palau,1995,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB779,0,0.1,585,No
+797,Palau,1990,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB780,0,0.1,585,No
+798,Panama,2012,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB781,0,0.1,591,No
+799,Panama,2012,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB781,0,0.1,590,No
+800,Panama,2010,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB782,0,0.1,591,No
+801,Panama,2010,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB782,0,0.1,590,No
+802,Panama,2005,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB783,0,0.1,591,No
+803,Panama,2005,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB783,0,0.1,590,No
+804,Panama,2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB784,0,0.1,591,No
+805,Panama,2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB784,0,0.1,590,No
+806,Panama,1995,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB785,0,0.1,591,No
+807,Panama,1995,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB785,0,0.1,590,No
+808,Panama,1990,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB786,0,0.1,591,No
+809,Panama,1990,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB786,0,0.1,590,No
+810,Papua New Guinea,2012,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB787,0,0.1,598,No
+811,Papua New Guinea,2010,25,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB788,0,0.1,598,No
+812,Papua New Guinea,2005,27,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB789,0,0.1,598,No
+813,Papua New Guinea,2000,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB790,0,0.1,598,No
+814,Papua New Guinea,1995,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB791,0,0.1,598,No
+815,Papua New Guinea,1990,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB792,0,0.1,598,No
+816,Paraguay,2012,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB793,0,0.1,600,No
+817,Paraguay,2010,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB794,0,0.1,600,No
+818,Paraguay,2005,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB795,0,0.1,600,No
+819,Paraguay,2000,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB796,0,0.1,600,No
+820,Paraguay,1995,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB797,0,0.1,600,No
+821,Paraguay,1990,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB798,0,0.1,600,No
+822,Peru,2012,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB799,0,0.1,604,No
+823,Peru,2010,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB800,0,0.1,604,No
+824,Peru,2005,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB801,0,0.1,604,No
+825,Peru,2000,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB802,0,0.1,604,No
+826,Peru,1995,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB803,0,0.1,604,No
+827,Peru,1990,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB804,0,0.1,604,No
+828,Philippines,2012,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB805,0,0.1,608,No
+829,Philippines,2010,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB806,0,0.1,608,No
+830,Philippines,2005,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB807,0,0.1,608,No
+831,Philippines,2000,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB808,0,0.1,608,No
+832,Philippines,1995,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB809,0,0.1,608,No
+833,Philippines,1990,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB810,0,0.1,608,No
+834,Poland,2012,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB811,0,0.1,616,No
+835,Poland,2010,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB812,0,0.1,616,No
+836,Poland,2005,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB813,0,0.1,616,No
+837,Poland,2000,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB814,0,0.1,616,No
+838,Poland,1995,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB815,0,0.1,616,No
+839,Poland,1990,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB816,0,0.1,616,No
+840,Portugal,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB817,0,0.1,620,No
+841,Portugal,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB818,0,0.1,620,No
+842,Portugal,2005,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB819,0,0.1,620,No
+843,Portugal,2000,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB820,0,0.1,620,No
+844,Portugal,1995,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB821,0,0.1,620,No
+845,Portugal,1990,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB822,0,0.1,620,No
+846,Qatar,2012,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB823,0,0.1,634,No
+847,Qatar,2010,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB824,0,0.1,634,No
+848,Qatar,2005,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB825,0,0.1,634,No
+849,Qatar,2000,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB826,0,0.1,634,No
+850,Qatar,1995,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB827,0,0.1,634,No
+851,Qatar,1990,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB828,0,0.1,634,No
+852,Republic of Korea,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB829,0,0.1,410,No
+853,Republic of Korea,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB830,0,0.1,410,No
+854,Republic of Korea,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB831,0,0.1,410,No
+855,Republic of Korea,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB832,0,0.1,410,No
+856,Republic of Korea,1995,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB833,0,0.1,410,No
+857,Republic of Korea,1990,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB834,0,0.1,410,No
+858,Republic of Moldova,2012,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB835,0,0.1,498,No
+859,Republic of Moldova,2010,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB836,0,0.1,498,No
+860,Republic of Moldova,2005,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB837,0,0.1,498,No
+861,Republic of Moldova,2000,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB838,0,0.1,498,No
+862,Republic of Moldova,1995,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB839,0,0.1,498,No
+863,Republic of Moldova,1990,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB840,0,0.1,498,No
+864,Romania,2012,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB841,0,0.1,642,No
+865,Romania,2010,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB842,0,0.1,642,No
+866,Romania,2005,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB843,0,0.1,642,No
+867,Romania,2000,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB844,0,0.1,642,No
+868,Romania,1995,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB845,0,0.1,642,No
+869,Romania,1990,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB846,0,0.1,642,No
+870,Russian Federation,2012,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB847,0,0.1,643,No
+871,Russian Federation,2010,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB848,0,0.1,643,No
+872,Russian Federation,2005,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB849,0,0.1,643,No
+873,Russian Federation,2000,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB850,0,0.1,643,No
+874,Russian Federation,1995,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB851,0,0.1,643,No
+875,Russian Federation,1990,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB852,0,0.1,643,No
+876,Rwanda,2012,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB853,0,0.1,646,No
+877,Rwanda,2010,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB854,0,0.1,646,No
+878,Rwanda,2005,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB855,0,0.1,646,No
+879,Rwanda,2000,42,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB856,0,0.1,646,No
+880,Rwanda,1995,45,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB857,0,0.1,646,No
+881,Rwanda,1990,38,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB858,0,0.1,646,No
+882,Saint Kitts and Nevis,2012,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB859,0,0.1,659,No
+883,Saint Kitts and Nevis,2010,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB860,0,0.1,659,No
+884,Saint Kitts and Nevis,2005,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB861,0,0.1,659,No
+885,Saint Kitts and Nevis,2000,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB862,0,0.1,659,No
+886,Saint Kitts and Nevis,1995,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB863,0,0.1,659,No
+887,Saint Kitts and Nevis,1990,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB864,0,0.1,659,No
+888,Saint Lucia,2012,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB865,0,0.1,662,No
+889,Saint Lucia,2010,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB866,0,0.1,662,No
+890,Saint Lucia,2005,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB867,0,0.1,662,No
+891,Saint Lucia,2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB868,0,0.1,662,No
+892,Saint Lucia,1995,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB869,0,0.1,662,No
+893,Saint Lucia,1990,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB870,0,0.1,662,No
+894,Saint Vincent and the Grenadines,2012,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB871,0,0.1,670,No
+895,Saint Vincent and the Grenadines,2010,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB872,0,0.1,670,No
+896,Saint Vincent and the Grenadines,2005,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB873,0,0.1,670,No
+897,Saint Vincent and the Grenadines,2000,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB874,0,0.1,670,No
+898,Saint Vincent and the Grenadines,1995,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB875,0,0.1,670,No
+899,Saint Vincent and the Grenadines,1990,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB876,0,0.1,670,No
+900,Samoa,2012,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB877,0,0.1,882,No
+901,Samoa,2010,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB878,0,0.1,882,No
+902,Samoa,2005,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB879,0,0.1,882,No
+903,Samoa,2000,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB880,0,0.1,882,No
+904,Samoa,1995,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB881,0,0.1,882,No
+905,Samoa,1990,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB882,0,0.1,882,No
+906,San Marino,2012,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB883,0,0.1,674,No
+907,San Marino,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB884,0,0.1,674,No
+908,San Marino,2005,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB885,0,0.1,674,No
+909,San Marino,2000,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB886,0,0.1,674,No
+910,San Marino,1995,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB887,0,0.1,674,No
+911,San Marino,1990,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB888,0,0.1,674,No
+912,Sao Tome and Principe,2012,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB889,0,0.1,678,No
+913,Sao Tome and Principe,2010,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB890,0,0.1,678,No
+914,Sao Tome and Principe,2005,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB891,0,0.1,678,No
+915,Sao Tome and Principe,2000,27,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB892,0,0.1,678,No
+916,Sao Tome and Principe,1995,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB893,0,0.1,678,No
+917,Sao Tome and Principe,1990,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB894,0,0.1,678,No
+918,Saudi Arabia,2012,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB895,0,0.1,682,No
+919,Saudi Arabia,2010,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB896,0,0.1,682,No
+920,Saudi Arabia,2005,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB897,0,0.1,682,No
+921,Saudi Arabia,2000,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB898,0,0.1,682,No
+922,Saudi Arabia,1995,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB899,0,0.1,682,No
+923,Saudi Arabia,1990,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB900,0,0.1,682,No
+924,Senegal,2012,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB901,0,0.1,686,No
+925,Senegal,2010,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB902,0,0.1,686,No
+926,Senegal,2005,34,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB903,0,0.1,686,No
+927,Senegal,2000,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB904,0,0.1,686,No
+928,Senegal,1995,42,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB905,0,0.1,686,No
+929,Senegal,1990,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB906,0,0.1,686,No
+930,Serbia,2012,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB907,0,0.1,688,No
+931,Serbia,2010,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB908,0,0.1,688,No
+932,Serbia,2005,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB909,0,0.1,688,No
+933,Serbia,2000,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB910,0,0.1,688,No
+934,Serbia,1995,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB911,0,0.1,688,No
+935,Serbia,1990,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB912,0,0.1,688,No
+936,Seychelles,2012,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB913,0,0.1,690,No
+937,Seychelles,2010,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB914,0,0.1,690,No
+938,Seychelles,2005,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB915,0,0.1,690,No
+939,Seychelles,2000,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB916,0,0.1,690,No
+940,Seychelles,1995,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB917,0,0.1,690,No
+941,Seychelles,1990,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB918,0,0.1,690,No
+942,Sierra Leone,2012,50,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB919,0,0.1,694,No
+943,Sierra Leone,2010,51,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB920,0,0.1,694,No
+944,Sierra Leone,2005,54,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB921,0,0.1,694,No
+945,Sierra Leone,2000,56,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB922,0,0.1,694,No
+946,Sierra Leone,1995,58,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB923,0,0.1,694,No
+947,Sierra Leone,1990,59,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB924,0,0.1,694,No
+948,Singapore,2012,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB925,0,0.1,702,No
+949,Singapore,2010,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB926,0,0.1,702,No
+950,Singapore,2005,1,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB927,0,0.1,702,No
+951,Singapore,2000,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB928,0,0.1,702,No
+952,Singapore,1995,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB929,0,0.1,702,No
+953,Singapore,1990,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB930,0,0.1,702,No
+954,Slovakia,2012,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB931,0,0.1,703,No
+955,Slovakia,2010,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB932,0,0.1,703,No
+956,Slovakia,2005,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB933,0,0.1,703,No
+957,Slovakia,2000,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB934,0,0.1,703,No
+958,Slovakia,1995,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB935,0,0.1,703,No
+959,Slovakia,1990,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB936,0,0.1,703,No
+960,Slovenia,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB937,0,0.1,705,No
+961,Slovenia,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB938,0,0.1,705,No
+962,Slovenia,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB939,0,0.1,705,No
+963,Slovenia,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB940,0,0.1,705,No
+964,Slovenia,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB941,0,0.1,705,No
+965,Slovenia,1990,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB942,0,0.1,705,No
+966,Solomon Islands,2012,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB943,0,0.1,90,No
+967,Solomon Islands,2010,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB944,0,0.1,90,No
+968,Solomon Islands,2005,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB945,0,0.1,90,No
+969,Solomon Islands,2000,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB946,0,0.1,90,No
+970,Solomon Islands,1995,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB947,0,0.1,90,No
+971,Solomon Islands,1990,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB948,0,0.1,90,No
+972,Somalia,2012,46,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB949,0,0.1,706,No
+973,Somalia,2010,47,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB950,0,0.1,706,No
+974,Somalia,2005,49,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB951,0,0.1,706,No
+975,Somalia,2000,49,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB952,0,0.1,706,No
+976,Somalia,1995,49,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB953,0,0.1,706,No
+977,Somalia,1990,50,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB954,0,0.1,706,No
+978,South Africa,2012,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB955,0,0.1,710,No
+979,South Africa,2010,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB956,0,0.1,710,No
+980,South Africa,2005,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB957,0,0.1,710,No
+981,South Africa,2000,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB958,0,0.1,710,No
+982,South Africa,1995,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB959,0,0.1,710,No
+983,South Africa,1990,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB960,0,0.1,710,No
+984,South Sudan,2012,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB961,0,0.1,728,No
+985,South Sudan,2010,37,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB962,0,0.1,728,No
+986,South Sudan,2005,42,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB963,0,0.1,728,No
+987,South Sudan,2000,48,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB964,0,0.1,728,No
+988,South Sudan,1995,53,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB965,0,0.1,728,No
+989,South Sudan,1990,57,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB966,0,0.1,728,No
+990,Spain,2012,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB967,0,0.1,724,No
+991,Spain,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB968,0,0.1,724,No
+992,Spain,2005,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB969,0,0.1,724,No
+993,Spain,2000,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB970,0,0.1,724,No
+994,Spain,1995,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB971,0,0.1,724,No
+995,Spain,1990,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB972,0,0.1,724,No
+996,Sri Lanka,2012,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB973,0,0.1,144,No
+997,Sri Lanka,2010,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB974,0,0.1,144,No
+998,Sri Lanka,2005,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB975,0,0.1,144,No
+999,Sri Lanka,2000,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB976,0,0.1,144,No
+1000,Sri Lanka,1995,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB977,0,0.1,144,No
+1001,Sri Lanka,1990,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB978,0,0.1,144,No
+1002,Sudan,2012,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB979,0,0.1,729,No
+1003,Sudan,2012,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB979,0,0.1,736,No
+1004,Sudan,2010,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB980,0,0.1,729,No
+1005,Sudan,2010,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB980,0,0.1,736,No
+1006,Sudan,2005,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB981,0,0.1,729,No
+1007,Sudan,2005,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB981,0,0.1,736,No
+1008,Sudan,2000,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB982,0,0.1,729,No
+1009,Sudan,2000,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB982,0,0.1,736,No
+1010,Sudan,1995,39,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB983,0,0.1,729,No
+1011,Sudan,1995,39,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB983,0,0.1,736,No
+1012,Sudan,1990,40,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB984,0,0.1,729,No
+1013,Sudan,1990,40,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB984,0,0.1,736,No
+1014,Suriname,2012,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB985,0,0.1,740,No
+1015,Suriname,2010,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB986,0,0.1,740,No
+1016,Suriname,2005,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB987,0,0.1,740,No
+1017,Suriname,2000,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB988,0,0.1,740,No
+1018,Suriname,1995,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB989,0,0.1,740,No
+1019,Suriname,1990,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB990,0,0.1,740,No
+1020,Swaziland,2012,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB991,0,0.1,748,No
+1021,Swaziland,2010,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB992,0,0.1,748,No
+1022,Swaziland,2005,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB993,0,0.1,748,No
+1023,Swaziland,2000,34,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB994,0,0.1,748,No
+1024,Swaziland,1995,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB995,0,0.1,748,No
+1025,Swaziland,1990,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB996,0,0.1,748,No
+1026,Sweden,2012,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB997,0,0.1,752,No
+1027,Sweden,2010,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB998,0,0.1,752,No
+1028,Sweden,2005,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB999,0,0.1,752,No
+1029,Sweden,2000,2,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1000,0,0.1,752,No
+1030,Sweden,1995,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1001,0,0.1,752,No
+1031,Sweden,1990,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1002,0,0.1,752,No
+1032,Switzerland,2012,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1003,0,0.1,756,No
+1033,Switzerland,2012,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1003,0,0.1,756,No
+1034,Switzerland,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1004,0,0.1,756,No
+1035,Switzerland,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1004,0,0.1,756,No
+1036,Switzerland,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1005,0,0.1,756,No
+1037,Switzerland,2005,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1005,0,0.1,756,No
+1038,Switzerland,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1006,0,0.1,756,No
+1039,Switzerland,2000,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1006,0,0.1,756,No
+1040,Switzerland,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1007,0,0.1,756,No
+1041,Switzerland,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1007,0,0.1,756,No
+1042,Switzerland,1990,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1008,0,0.1,756,No
+1043,Switzerland,1990,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1008,0,0.1,756,No
+1044,Syrian Arab Republic,2012,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1009,0,0.1,760,No
+1045,Syrian Arab Republic,2010,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1010,0,0.1,760,No
+1046,Syrian Arab Republic,2005,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1011,0,0.1,760,No
+1047,Syrian Arab Republic,2000,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1012,0,0.1,760,No
+1048,Syrian Arab Republic,1995,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1013,0,0.1,760,No
+1049,Syrian Arab Republic,1990,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1014,0,0.1,760,No
+1050,Tajikistan,2012,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1015,0,0.1,762,No
+1051,Tajikistan,2010,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1016,0,0.1,762,No
+1052,Tajikistan,2005,27,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1017,0,0.1,762,No
+1053,Tajikistan,2000,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1018,0,0.1,762,No
+1054,Tajikistan,1995,35,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1019,0,0.1,762,No
+1055,Tajikistan,1990,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1020,0,0.1,762,No
+1056,Thailand,2012,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1021,0,0.1,764,No
+1057,Thailand,2010,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1022,0,0.1,764,No
+1058,Thailand,2005,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1023,0,0.1,764,No
+1059,Thailand,2000,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1024,0,0.1,764,No
+1060,Thailand,1995,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1025,0,0.1,764,No
+1061,Thailand,1990,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1026,0,0.1,764,No
+1062,The former Yugoslav Republic of Macedonia,2012,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1027,0,0.1,807,No
+1063,The former Yugoslav Republic of Macedonia,2010,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1028,0,0.1,807,No
+1064,The former Yugoslav Republic of Macedonia,2005,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1029,0,0.1,807,No
+1065,The former Yugoslav Republic of Macedonia,2000,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1030,0,0.1,807,No
+1066,The former Yugoslav Republic of Macedonia,1995,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1031,0,0.1,807,No
+1067,The former Yugoslav Republic of Macedonia,1990,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1032,0,0.1,807,No
+1068,Timor-Leste,2012,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1033,0,0.1,626,No
+1069,Timor-Leste,2010,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1034,0,0.1,626,No
+1070,Timor-Leste,2005,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1035,0,0.1,626,No
+1071,Timor-Leste,2000,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1036,0,0.1,626,No
+1072,Timor-Leste,1995,42,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1037,0,0.1,626,No
+1073,Timor-Leste,1990,47,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1038,0,0.1,626,No
+1074,Togo,2012,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1039,0,0.1,768,No
+1075,Togo,2010,34,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1040,0,0.1,768,No
+1076,Togo,2005,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1041,0,0.1,768,No
+1077,Togo,2000,38,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1042,0,0.1,768,No
+1078,Togo,1995,39,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1043,0,0.1,768,No
+1079,Togo,1990,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1044,0,0.1,768,No
+1080,Tonga,2012,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1045,0,0.1,776,No
+1081,Tonga,2010,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1046,0,0.1,776,No
+1082,Tonga,2005,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1047,0,0.1,776,No
+1083,Tonga,2000,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1048,0,0.1,776,No
+1084,Tonga,1995,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1049,0,0.1,776,No
+1085,Tonga,1990,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1050,0,0.1,776,No
+1086,Trinidad and Tobago,2012,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1051,0,0.1,780,No
+1087,Trinidad and Tobago,2010,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1052,0,0.1,780,No
+1088,Trinidad and Tobago,2005,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1053,0,0.1,780,No
+1089,Trinidad and Tobago,2000,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1054,0,0.1,780,No
+1090,Trinidad and Tobago,1995,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1055,0,0.1,780,No
+1091,Trinidad and Tobago,1990,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1056,0,0.1,780,No
+1092,Tunisia,2012,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1057,0,0.1,788,No
+1093,Tunisia,2010,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1058,0,0.1,788,No
+1094,Tunisia,2005,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1059,0,0.1,788,No
+1095,Tunisia,2000,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1060,0,0.1,788,No
+1096,Tunisia,1995,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1061,0,0.1,788,No
+1097,Tunisia,1990,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1062,0,0.1,788,No
+1098,Turkey,2012,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1063,0,0.1,792,No
+1099,Turkey,2010,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1064,0,0.1,792,No
+1100,Turkey,2005,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1065,0,0.1,792,No
+1101,Turkey,2000,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1066,0,0.1,792,No
+1102,Turkey,1995,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1067,0,0.1,792,No
+1103,Turkey,1990,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1068,0,0.1,792,No
+1104,Turkmenistan,2012,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1069,0,0.1,795,No
+1105,Turkmenistan,2010,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1070,0,0.1,795,No
+1106,Turkmenistan,2005,26,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1071,0,0.1,795,No
+1107,Turkmenistan,2000,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1072,0,0.1,795,No
+1108,Turkmenistan,1995,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1073,0,0.1,795,No
+1109,Turkmenistan,1990,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1074,0,0.1,795,No
+1110,Tuvalu,2012,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1075,0,0.1,798,No
+1111,Tuvalu,2010,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1076,0,0.1,798,No
+1112,Tuvalu,2005,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1077,0,0.1,798,No
+1113,Tuvalu,2000,17,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1078,0,0.1,798,No
+1114,Tuvalu,1995,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1079,0,0.1,798,No
+1115,Tuvalu,1990,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1080,0,0.1,798,No
+1116,Uganda,2012,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1081,0,0.1,800,No
+1117,Uganda,2010,24,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1082,0,0.1,800,No
+1118,Uganda,2005,30,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1083,0,0.1,800,No
+1119,Uganda,2000,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1084,0,0.1,800,No
+1120,Uganda,1995,37,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1085,0,0.1,800,No
+1121,Uganda,1990,39,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1086,0,0.1,800,No
+1122,Ukraine,2012,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1087,0,0.1,804,No
+1123,Ukraine,2010,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1088,0,0.1,804,No
+1124,Ukraine,2005,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1089,0,0.1,804,No
+1125,Ukraine,2000,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1090,0,0.1,804,No
+1126,Ukraine,1995,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1091,0,0.1,804,No
+1127,Ukraine,1990,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1092,0,0.1,804,No
+1128,United Arab Emirates,2012,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1093,0,0.1,784,No
+1129,United Arab Emirates,2010,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1094,0,0.1,784,No
+1130,United Arab Emirates,2005,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1095,0,0.1,784,No
+1131,United Arab Emirates,2000,7,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1096,0,0.1,784,No
+1132,United Arab Emirates,1995,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1097,0,0.1,784,No
+1133,United Arab Emirates,1990,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1098,0,0.1,784,No
+1134,United Kingdom,2012,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1099,0,0.1,826,No
+1135,United Kingdom,2010,3,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1100,0,0.1,826,No
+1136,United Kingdom,2005,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1101,0,0.1,826,No
+1137,United Kingdom,2000,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1102,0,0.1,826,No
+1138,United Kingdom,1995,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1103,0,0.1,826,No
+1139,United Kingdom,1990,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1104,0,0.1,826,No
+1140,United Republic of Tanzania,2012,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1105,0,0.1,834,No
+1141,United Republic of Tanzania,2010,23,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1106,0,0.1,834,No
+1142,United Republic of Tanzania,2005,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1107,0,0.1,834,No
+1143,United Republic of Tanzania,2000,36,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1108,0,0.1,834,No
+1144,United Republic of Tanzania,1995,41,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1109,0,0.1,834,No
+1145,United Republic of Tanzania,1990,43,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1110,0,0.1,834,No
+1146,United States of America,2012,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1111,0,0.1,840,No
+1147,United States of America,2010,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1112,0,0.1,840,No
+1148,United States of America,2005,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1113,0,0.1,840,No
+1149,United States of America,2000,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1114,0,0.1,840,No
+1150,United States of America,1995,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1115,0,0.1,840,No
+1151,United States of America,1990,6,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1116,0,0.1,840,No
+1152,Uruguay,2012,4,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1117,0,0.1,858,No
+1153,Uruguay,2010,5,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1118,0,0.1,858,No
+1154,Uruguay,2005,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1119,0,0.1,858,No
+1155,Uruguay,2000,8,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1120,0,0.1,858,No
+1156,Uruguay,1995,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1121,0,0.1,858,No
+1157,Uruguay,1990,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1122,0,0.1,858,No
+1158,Uzbekistan,2012,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1123,0,0.1,860,No
+1159,Uzbekistan,2010,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1124,0,0.1,860,No
+1160,Uzbekistan,2005,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1125,0,0.1,860,No
+1161,Uzbekistan,2000,18,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1126,0,0.1,860,No
+1162,Uzbekistan,1995,20,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1127,0,0.1,860,No
+1163,Uzbekistan,1990,21,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1128,0,0.1,860,No
+1164,Vanuatu,2012,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1129,0,0.1,548,No
+1165,Vanuatu,2010,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1130,0,0.1,548,No
+1166,Vanuatu,2005,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1131,0,0.1,548,No
+1167,Vanuatu,2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1132,0,0.1,548,No
+1168,Vanuatu,1995,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1133,0,0.1,548,No
+1169,Vanuatu,1990,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1134,0,0.1,548,No
+1170,Venezuela (Bolivarian Republic of),2012,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1135,0,0.1,862,No
+1171,Venezuela (Bolivarian Republic of),2010,9,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1136,0,0.1,862,No
+1172,Venezuela (Bolivarian Republic of),2005,10,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1137,0,0.1,862,No
+1173,Venezuela (Bolivarian Republic of),2000,11,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1138,0,0.1,862,No
+1174,Venezuela (Bolivarian Republic of),1995,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1139,0,0.1,862,No
+1175,Venezuela (Bolivarian Republic of),1990,15,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1140,0,0.1,862,No
+1176,Viet Nam,2012,12,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1141,0,0.1,704,No
+1177,Viet Nam,2010,13,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1142,0,0.1,704,No
+1178,Viet Nam,2005,14,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1143,0,0.1,704,No
+1179,Viet Nam,2000,16,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1144,0,0.1,704,No
+1180,Viet Nam,1995,19,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1145,0,0.1,704,No
+1181,Viet Nam,1990,22,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1146,0,0.1,704,No
+1182,Yemen,2012,27,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1147,0,0.1,887,No
+1183,Yemen,2012,27,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1147,0,0.1,886,No
+1184,Yemen,2010,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1148,0,0.1,887,No
+1185,Yemen,2010,28,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1148,0,0.1,886,No
+1186,Yemen,2005,32,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1149,0,0.1,887,No
+1187,Yemen,2005,32,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1149,0,0.1,886,No
+1188,Yemen,2000,37,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1150,0,0.1,887,No
+1189,Yemen,2000,37,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1150,0,0.1,886,No
+1190,Yemen,1995,40,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1151,0,0.1,887,No
+1191,Yemen,1995,40,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1151,0,0.1,886,No
+1192,Yemen,1990,42,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1152,0,0.1,887,No
+1193,Yemen,1990,42,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1152,0,0.1,886,No
+1194,Zambia,2012,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1153,0,0.1,894,No
+1195,Zambia,2010,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1154,0,0.1,894,No
+1196,Zambia,2005,33,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1155,0,0.1,894,No
+1197,Zambia,2000,39,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1156,0,0.1,894,No
+1198,Zambia,1995,42,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1157,0,0.1,894,No
+1199,Zambia,1990,44,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1158,0,0.1,894,No
+1200,Zimbabwe,2012,39,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1159,0,0.1,716,No
+1201,Zimbabwe,2010,38,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1160,0,0.1,716,No
+1202,Zimbabwe,2005,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1161,0,0.1,716,No
+1203,Zimbabwe,2000,29,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1162,0,0.1,716,No
+1204,Zimbabwe,1995,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1163,0,0.1,716,No
+1205,Zimbabwe,1990,31,Neonatal mortality rate,per 100 pop,0-0.1,All,NEOMRPLB1164,0,0.1,716,No

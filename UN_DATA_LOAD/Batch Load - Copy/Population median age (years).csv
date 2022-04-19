@@ -1,0 +1,191 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2012,16.2,Population Median Age,Absolute,All,All,PMAY1,0,130,4,No
+1,Albania,2012,32.56,Population Median Age,Absolute,All,All,PMAY2,0,130,8,No
+2,Algeria,2012,26.62,Population Median Age,Absolute,All,All,PMAY3,0,130,12,No
+3,Angola,2012,16.18,Population Median Age,Absolute,All,All,PMAY4,0,130,24,No
+4,Antigua and Barbuda,2012,30.26,Population Median Age,Absolute,All,All,PMAY5,0,130,28,No
+5,Argentina,2012,30.83,Population Median Age,Absolute,All,All,PMAY6,0,130,32,No
+6,Armenia,2012,32.3,Population Median Age,Absolute,All,All,PMAY7,0,130,51,No
+7,Australia,2012,37.08,Population Median Age,Absolute,All,All,PMAY8,0,130,36,No
+8,Austria,2012,42.4,Population Median Age,Absolute,All,All,PMAY9,0,130,40,No
+9,Azerbaijan,2012,29.34,Population Median Age,Absolute,All,All,PMAY10,0,130,31,No
+10,Bahamas,2012,31.54,Population Median Age,Absolute,All,All,PMAY11,0,130,44,No
+11,Bahrain,2012,30.07,Population Median Age,Absolute,All,All,PMAY12,0,130,48,No
+12,Bangladesh,2012,24.7,Population Median Age,Absolute,All,All,PMAY13,0,130,50,No
+13,Barbados,2012,36.68,Population Median Age,Absolute,All,All,PMAY14,0,130,52,No
+14,Belarus,2012,39.15,Population Median Age,Absolute,All,All,PMAY15,0,130,112,No
+15,Belgium,2012,41.41,Population Median Age,Absolute,All,All,PMAY16,0,130,56,No
+16,Belize,2012,22.69,Population Median Age,Absolute,All,All,PMAY17,0,130,84,No
+17,Benin,2012,18.3,Population Median Age,Absolute,All,All,PMAY18,0,130,204,No
+18,Bhutan,2012,25.29,Population Median Age,Absolute,All,All,PMAY19,0,130,64,No
+19,Bolivia (Plurinational State of),2012,22.14,Population Median Age,Absolute,All,All,PMAY20,0,130,68,No
+20,Bosnia and Herzegovina,2012,39.23,Population Median Age,Absolute,All,All,PMAY21,0,130,70,No
+21,Botswana,2012,22.33,Population Median Age,Absolute,All,All,PMAY22,0,130,72,No
+22,Brazil,2012,29.89,Population Median Age,Absolute,All,All,PMAY23,0,130,76,No
+23,Brunei Darussalam,2012,30.14,Population Median Age,Absolute,All,All,PMAY24,0,130,96,No
+24,Bulgaria,2012,42.84,Population Median Age,Absolute,All,All,PMAY25,0,130,100,No
+25,Burkina Faso,2012,17.01,Population Median Age,Absolute,All,All,PMAY26,0,130,854,No
+26,Burundi,2012,17.64,Population Median Age,Absolute,All,All,PMAY27,0,130,108,No
+27,Cabo Verde,2012,23.71,Population Median Age,Absolute,All,All,PMAY28,0,130,132,No
+28,Cambodia,2012,24.1,Population Median Age,Absolute,All,All,PMAY29,0,130,116,No
+29,Cameroon,2012,18.18,Population Median Age,Absolute,All,All,PMAY30,0,130,120,No
+30,Canada,2012,39.99,Population Median Age,Absolute,All,All,PMAY31,0,130,124,No
+31,Central African Republic,2012,19.59,Population Median Age,Absolute,All,All,PMAY32,0,130,140,No
+32,Chad,2012,15.7,Population Median Age,Absolute,All,All,PMAY33,0,130,148,No
+33,Chile,2012,32.76,Population Median Age,Absolute,All,All,PMAY34,0,130,152,No
+34,China,2012,35.12,Population Median Age,Absolute,All,All,PMAY35,0,130,156,No
+35,Colombia,2012,27.4,Population Median Age,Absolute,All,All,PMAY36,0,130,170,No
+36,Comoros,2012,19.08,Population Median Age,Absolute,All,All,PMAY37,0,130,174,No
+37,Congo,2012,18.81,Population Median Age,Absolute,All,All,PMAY38,0,130,178,No
+38,Costa Rica,2012,29.29,Population Median Age,Absolute,All,All,PMAY39,0,130,188,No
+39,Côte dIvoire,2012,18.96,Population Median Age,Absolute,All,All,PMAY40,0,130,384,No
+40,Croatia,2012,42.38,Population Median Age,Absolute,All,All,PMAY41,0,130,191,No
+41,Cuba,2012,39.57,Population Median Age,Absolute,All,All,PMAY42,0,130,192,No
+42,Cyprus,2012,34.88,Population Median Age,Absolute,All,All,PMAY43,0,130,196,No
+43,Czech Republic,2012,40.07,Population Median Age,Absolute,All,All,PMAY44,0,130,203,No
+44,Democratic Peoples Republic of Korea,2012,33.4,Population Median Age,Absolute,All,All,PMAY45,0,130,408,No
+45,Democratic Republic of the Congo,2012,17.27,Population Median Age,Absolute,All,All,PMAY46,0,130,180,No
+46,Denmark,2012,40.95,Population Median Age,Absolute,All,All,PMAY47,0,130,208,No
+47,Djibouti,2012,22.55,Population Median Age,Absolute,All,All,PMAY48,0,130,262,No
+48,Dominican Republic,2012,25.53,Population Median Age,Absolute,All,All,PMAY49,0,130,214,No
+49,Ecuador,2012,25.83,Population Median Age,Absolute,All,All,PMAY50,0,130,218,No
+50,Egypt,2012,24.93,Population Median Age,Absolute,All,All,PMAY51,0,130,818,No
+51,El Salvador,2012,23.78,Population Median Age,Absolute,All,All,PMAY52,0,130,222,No
+52,Equatorial Guinea,2012,20.49,Population Median Age,Absolute,All,All,PMAY53,0,130,226,No
+53,Eritrea,2012,18.37,Population Median Age,Absolute,All,All,PMAY54,0,130,232,No
+54,Estonia,2012,40.78,Population Median Age,Absolute,All,All,PMAY55,0,130,233,No
+55,Ethiopia,2012,17.93,Population Median Age,Absolute,All,All,PMAY56,0,130,231,No
+56,Ethiopia,2012,17.93,Population Median Age,Absolute,All,All,PMAY56,0,130,230,No
+57,Fiji,2012,26.88,Population Median Age,Absolute,All,All,PMAY57,0,130,242,No
+58,Finland,2012,42.24,Population Median Age,Absolute,All,All,PMAY58,0,130,246,No
+59,France,2012,40.43,Population Median Age,Absolute,All,All,PMAY59,0,130,250,No
+60,Gabon,2012,20.66,Population Median Age,Absolute,All,All,PMAY60,0,130,266,No
+61,Gambia,2012,16.95,Population Median Age,Absolute,All,All,PMAY61,0,130,270,No
+62,Georgia,2012,37.43,Population Median Age,Absolute,All,All,PMAY62,0,130,268,No
+63,Germany,2012,45.09,Population Median Age,Absolute,All,All,PMAY63,0,130,276,No
+64,Ghana,2012,20.45,Population Median Age,Absolute,All,All,PMAY64,0,130,288,No
+65,Greece,2012,42.47,Population Median Age,Absolute,All,All,PMAY65,0,130,300,No
+66,Grenada,2012,25.89,Population Median Age,Absolute,All,All,PMAY66,0,130,308,No
+67,Guatemala,2012,19.19,Population Median Age,Absolute,All,All,PMAY67,0,130,320,No
+68,Guinea,2012,18.53,Population Median Age,Absolute,All,All,PMAY68,0,130,324,No
+69,Guinea-Bissau,2012,18.97,Population Median Age,Absolute,All,All,PMAY69,0,130,624,No
+70,Guyana,2012,22.36,Population Median Age,Absolute,All,All,PMAY70,0,130,328,No
+71,Haiti,2012,21.99,Population Median Age,Absolute,All,All,PMAY71,0,130,332,No
+72,Honduras,2012,21.57,Population Median Age,Absolute,All,All,PMAY72,0,130,340,No
+73,Hungary,2012,40.35,Population Median Age,Absolute,All,All,PMAY73,0,130,348,No
+74,Iceland,2012,35.3,Population Median Age,Absolute,All,All,PMAY74,0,130,352,No
+75,India,2012,26.07,Population Median Age,Absolute,All,All,PMAY75,0,130,356,No
+76,Indonesia,2012,27.47,Population Median Age,Absolute,All,All,PMAY76,0,130,360,No
+77,Iran (Islamic Republic of),2012,27.99,Population Median Age,Absolute,All,All,PMAY77,0,130,364,No
+78,Iraq,2012,19.5,Population Median Age,Absolute,All,All,PMAY78,0,130,368,No
+79,Ireland,2012,34.94,Population Median Age,Absolute,All,All,PMAY79,0,130,372,No
+80,Israel,2012,30.1,Population Median Age,Absolute,All,All,PMAY80,0,130,376,No
+81,Italy,2012,43.99,Population Median Age,Absolute,All,All,PMAY81,0,130,380,No
+82,Jamaica,2012,27.5,Population Median Age,Absolute,All,All,PMAY82,0,130,388,No
+83,Japan,2012,45.53,Population Median Age,Absolute,All,All,PMAY83,0,130,392,No
+84,Japan,2012,45.53,Population Median Age,Absolute,All,All,PMAY83,0,130,392,No
+85,Jordan,2012,23.06,Population Median Age,Absolute,All,All,PMAY84,0,130,400,No
+86,Kazakhstan,2012,29.2,Population Median Age,Absolute,All,All,PMAY85,0,130,398,No
+87,Kenya,2012,18.72,Population Median Age,Absolute,All,All,PMAY86,0,130,404,No
+88,Kiribati,2012,23.15,Population Median Age,Absolute,All,All,PMAY87,0,130,296,No
+89,Kuwait,2012,28.95,Population Median Age,Absolute,All,All,PMAY88,0,130,414,No
+90,Kyrgyzstan,2012,24.34,Population Median Age,Absolute,All,All,PMAY89,0,130,417,No
+91,Lao Peoples Democratic Republic,2012,21.02,Population Median Age,Absolute,All,All,PMAY90,0,130,418,No
+92,Latvia,2012,41.44,Population Median Age,Absolute,All,All,PMAY91,0,130,428,No
+93,Lebanon,2012,29.4,Population Median Age,Absolute,All,All,PMAY92,0,130,422,No
+94,Lesotho,2012,20.53,Population Median Age,Absolute,All,All,PMAY93,0,130,426,No
+95,Liberia,2012,18.43,Population Median Age,Absolute,All,All,PMAY94,0,130,430,No
+96,Libya,2012,26.25,Population Median Age,Absolute,All,All,PMAY95,0,130,434,No
+97,Lithuania,2012,39.09,Population Median Age,Absolute,All,All,PMAY96,0,130,440,No
+98,Luxembourg,2012,39.0,Population Median Age,Absolute,All,All,PMAY97,0,130,442,No
+99,Madagascar,2012,18.3,Population Median Age,Absolute,All,All,PMAY98,0,130,450,No
+100,Malawi,2012,17.06,Population Median Age,Absolute,All,All,PMAY99,0,130,454,No
+101,Malaysia,2012,26.99,Population Median Age,Absolute,All,All,PMAY100,0,130,458,No
+102,Maldives,2012,24.53,Population Median Age,Absolute,All,All,PMAY101,0,130,462,No
+103,Mali,2012,16.39,Population Median Age,Absolute,All,All,PMAY102,0,130,466,No
+104,Malta,2012,40.65,Population Median Age,Absolute,All,All,PMAY103,0,130,470,No
+105,Mauritania,2012,19.71,Population Median Age,Absolute,All,All,PMAY104,0,130,478,No
+106,Mauritius,2012,34.18,Population Median Age,Absolute,All,All,PMAY105,0,130,480,No
+107,Mexico,2012,26.64,Population Median Age,Absolute,All,All,PMAY106,0,130,484,No
+108,Micronesia (Federated States of),2012,20.73,Population Median Age,Absolute,All,All,PMAY107,0,130,583,No
+109,Mongolia,2012,26.4,Population Median Age,Absolute,All,All,PMAY108,0,130,496,No
+110,Montenegro,2012,36.82,Population Median Age,Absolute,All,All,PMAY109,0,130,499,No
+111,Morocco,2012,26.7,Population Median Age,Absolute,All,All,PMAY110,0,130,504,No
+112,Mozambique,2012,17.26,Population Median Age,Absolute,All,All,PMAY111,0,130,508,No
+113,Myanmar,2012,28.62,Population Median Age,Absolute,All,All,PMAY112,0,130,104,No
+114,Namibia,2012,20.94,Population Median Age,Absolute,All,All,PMAY113,0,130,516,No
+115,Nepal,2012,22.02,Population Median Age,Absolute,All,All,PMAY114,0,130,524,No
+116,Netherlands,2012,41.47,Population Median Age,Absolute,All,All,PMAY115,0,130,528,No
+117,New Zealand,2012,36.85,Population Median Age,Absolute,All,All,PMAY116,0,130,554,No
+118,New Zealand,2012,36.85,Population Median Age,Absolute,All,All,PMAY116,0,130,554,No
+119,Nicaragua,2012,22.74,Population Median Age,Absolute,All,All,PMAY117,0,130,558,No
+120,Niger,2012,15.04,Population Median Age,Absolute,All,All,PMAY118,0,130,562,No
+121,Nigeria,2012,17.84,Population Median Age,Absolute,All,All,PMAY119,0,130,566,No
+122,Norway,2012,38.88,Population Median Age,Absolute,All,All,PMAY120,0,130,578,No
+123,Oman,2012,25.88,Population Median Age,Absolute,All,All,PMAY121,0,130,512,No
+124,Pakistan,2012,22.23,Population Median Age,Absolute,All,All,PMAY122,0,130,586,No
+125,Panama,2012,27.64,Population Median Age,Absolute,All,All,PMAY123,0,130,591,No
+126,Panama,2012,27.64,Population Median Age,Absolute,All,All,PMAY123,0,130,590,No
+127,Papua New Guinea,2012,20.72,Population Median Age,Absolute,All,All,PMAY124,0,130,598,No
+128,Paraguay,2012,23.59,Population Median Age,Absolute,All,All,PMAY125,0,130,600,No
+129,Peru,2012,26.16,Population Median Age,Absolute,All,All,PMAY126,0,130,604,No
+130,Philippines,2012,22.74,Population Median Age,Absolute,All,All,PMAY127,0,130,608,No
+131,Poland,2012,38.55,Population Median Age,Absolute,All,All,PMAY128,0,130,616,No
+132,Portugal,2012,41.81,Population Median Age,Absolute,All,All,PMAY129,0,130,620,No
+133,Qatar,2012,31.64,Population Median Age,Absolute,All,All,PMAY130,0,130,634,No
+134,Republic of Korea,2012,38.85,Population Median Age,Absolute,All,All,PMAY131,0,130,410,No
+135,Republic of Moldova,2012,35.61,Population Median Age,Absolute,All,All,PMAY132,0,130,498,No
+136,Romania,2012,39.09,Population Median Age,Absolute,All,All,PMAY133,0,130,642,No
+137,Russian Federation,2012,38.22,Population Median Age,Absolute,All,All,PMAY134,0,130,643,No
+138,Rwanda,2012,18.05,Population Median Age,Absolute,All,All,PMAY135,0,130,646,No
+139,Saint Lucia,2012,30.17,Population Median Age,Absolute,All,All,PMAY136,0,130,662,No
+140,Saint Vincent and the Grenadines,2012,28.64,Population Median Age,Absolute,All,All,PMAY137,0,130,670,No
+141,Samoa,2012,20.95,Population Median Age,Absolute,All,All,PMAY138,0,130,882,No
+142,Sao Tome and Principe,2012,19.13,Population Median Age,Absolute,All,All,PMAY139,0,130,678,No
+143,Saudi Arabia,2012,27.03,Population Median Age,Absolute,All,All,PMAY140,0,130,682,No
+144,Senegal,2012,18.01,Population Median Age,Absolute,All,All,PMAY141,0,130,686,No
+145,Serbia,2012,38.38,Population Median Age,Absolute,All,All,PMAY142,0,130,688,No
+146,Seychelles,2012,32.26,Population Median Age,Absolute,All,All,PMAY143,0,130,690,No
+147,Sierra Leone,2012,18.98,Population Median Age,Absolute,All,All,PMAY144,0,130,694,No
+148,Singapore,2012,37.88,Population Median Age,Absolute,All,All,PMAY145,0,130,702,No
+149,Slovakia,2012,37.87,Population Median Age,Absolute,All,All,PMAY146,0,130,703,No
+150,Slovenia,2012,42.1,Population Median Age,Absolute,All,All,PMAY147,0,130,705,No
+151,Solomon Islands,2012,19.62,Population Median Age,Absolute,All,All,PMAY148,0,130,90,No
+152,Somalia,2012,16.25,Population Median Age,Absolute,All,All,PMAY149,0,130,706,No
+153,South Africa,2012,25.7,Population Median Age,Absolute,All,All,PMAY150,0,130,710,No
+154,South Sudan,2012,18.52,Population Median Age,Absolute,All,All,PMAY151,0,130,728,No
+155,Spain,2012,40.99,Population Median Age,Absolute,All,All,PMAY152,0,130,724,No
+156,Sri Lanka,2012,31.12,Population Median Age,Absolute,All,All,PMAY153,0,130,144,No
+157,Sudan,2012,19.02,Population Median Age,Absolute,All,All,PMAY154,0,130,729,No
+158,Sudan,2012,19.02,Population Median Age,Absolute,All,All,PMAY154,0,130,736,No
+159,Suriname,2012,28.18,Population Median Age,Absolute,All,All,PMAY155,0,130,740,No
+160,Swaziland,2012,19.82,Population Median Age,Absolute,All,All,PMAY156,0,130,748,No
+161,Sweden,2012,40.91,Population Median Age,Absolute,All,All,PMAY157,0,130,752,No
+162,Switzerland,2012,41.85,Population Median Age,Absolute,All,All,PMAY158,0,130,756,No
+163,Switzerland,2012,41.85,Population Median Age,Absolute,All,All,PMAY158,0,130,756,No
+164,Syrian Arab Republic,2012,22.21,Population Median Age,Absolute,All,All,PMAY159,0,130,760,No
+165,Tajikistan,2012,21.54,Population Median Age,Absolute,All,All,PMAY160,0,130,762,No
+166,Thailand,2012,36.42,Population Median Age,Absolute,All,All,PMAY161,0,130,764,No
+167,The former Yugoslav Republic of Macedonia,2012,36.79,Population Median Age,Absolute,All,All,PMAY162,0,130,807,No
+168,Timor-Leste,2012,16.4,Population Median Age,Absolute,All,All,PMAY163,0,130,626,No
+169,Togo,2012,18.82,Population Median Age,Absolute,All,All,PMAY164,0,130,768,No
+170,Tonga,2012,21.28,Population Median Age,Absolute,All,All,PMAY165,0,130,776,No
+171,Trinidad and Tobago,2012,32.84,Population Median Age,Absolute,All,All,PMAY166,0,130,780,No
+172,Tunisia,2012,29.89,Population Median Age,Absolute,All,All,PMAY167,0,130,788,No
+173,Turkey,2012,29.04,Population Median Age,Absolute,All,All,PMAY168,0,130,792,No
+174,Turkmenistan,2012,25.26,Population Median Age,Absolute,All,All,PMAY169,0,130,795,No
+175,Uganda,2012,15.68,Population Median Age,Absolute,All,All,PMAY170,0,130,800,No
+176,Ukraine,2012,39.62,Population Median Age,Absolute,All,All,PMAY171,0,130,804,No
+177,United Arab Emirates,2012,29.37,Population Median Age,Absolute,All,All,PMAY172,0,130,784,No
+178,United Kingdom,2012,40.07,Population Median Age,Absolute,All,All,PMAY173,0,130,826,No
+179,United Republic of Tanzania,2012,17.49,Population Median Age,Absolute,All,All,PMAY174,0,130,834,No
+180,United States of America,2012,37.3,Population Median Age,Absolute,All,All,PMAY175,0,130,840,No
+181,Uruguay,2012,34.16,Population Median Age,Absolute,All,All,PMAY176,0,130,858,No
+182,Uzbekistan,2012,24.88,Population Median Age,Absolute,All,All,PMAY177,0,130,860,No
+183,Vanuatu,2012,21.56,Population Median Age,Absolute,All,All,PMAY178,0,130,548,No
+184,Venezuela (Bolivarian Republic of),2012,26.73,Population Median Age,Absolute,All,All,PMAY179,0,130,862,No
+185,Viet Nam,2012,29.41,Population Median Age,Absolute,All,All,PMAY180,0,130,704,No
+186,Yemen,2012,18.78,Population Median Age,Absolute,All,All,PMAY181,0,130,887,No
+187,Yemen,2012,18.78,Population Median Age,Absolute,All,All,PMAY181,0,130,886,No
+188,Zambia,2012,16.54,Population Median Age,Absolute,All,All,PMAY182,0,130,894,No
+189,Zimbabwe,2012,19.18,Population Median Age,Absolute,All,All,PMAY183,0,130,716,No

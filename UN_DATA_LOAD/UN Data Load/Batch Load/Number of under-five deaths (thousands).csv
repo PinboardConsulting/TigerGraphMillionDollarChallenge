@@ -1,0 +1,1207 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2012,103,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1,0,5,4,No
+1,Afghanistan,2010,112,Number of <5 deaths,Thousands,0-5,All,NOU5DIT2,0,5,4,No
+2,Afghanistan,2005,127,Number of <5 deaths,Thousands,0-5,All,NOU5DIT3,0,5,4,No
+3,Afghanistan,2000,133,Number of <5 deaths,Thousands,0-5,All,NOU5DIT4,0,5,4,No
+4,Afghanistan,1995,122,Number of <5 deaths,Thousands,0-5,All,NOU5DIT5,0,5,4,No
+5,Afghanistan,1990,96,Number of <5 deaths,Thousands,0-5,All,NOU5DIT6,0,5,4,No
+6,Albania,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT7,0,5,8,No
+7,Albania,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT8,0,5,8,No
+8,Albania,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT9,0,5,8,No
+9,Albania,2000,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT10,0,5,8,No
+10,Albania,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT11,0,5,8,No
+11,Albania,1990,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT12,0,5,8,No
+12,Algeria,2012,20,Number of <5 deaths,Thousands,0-5,All,NOU5DIT13,0,5,12,No
+13,Algeria,2010,20,Number of <5 deaths,Thousands,0-5,All,NOU5DIT14,0,5,12,No
+14,Algeria,2005,17,Number of <5 deaths,Thousands,0-5,All,NOU5DIT15,0,5,12,No
+15,Algeria,2000,21,Number of <5 deaths,Thousands,0-5,All,NOU5DIT16,0,5,12,No
+16,Algeria,1995,33,Number of <5 deaths,Thousands,0-5,All,NOU5DIT17,0,5,12,No
+17,Algeria,1990,41,Number of <5 deaths,Thousands,0-5,All,NOU5DIT18,0,5,12,No
+18,Andorra,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT19,0,5,20,No
+19,Andorra,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT20,0,5,20,No
+20,Andorra,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT21,0,5,20,No
+21,Andorra,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT22,0,5,20,No
+22,Andorra,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT23,0,5,20,No
+23,Andorra,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT24,0,5,20,No
+24,Angola,2012,148,Number of <5 deaths,Thousands,0-5,All,NOU5DIT25,0,5,24,No
+25,Angola,2010,153,Number of <5 deaths,Thousands,0-5,All,NOU5DIT26,0,5,24,No
+26,Angola,2005,151,Number of <5 deaths,Thousands,0-5,All,NOU5DIT27,0,5,24,No
+27,Angola,2000,133,Number of <5 deaths,Thousands,0-5,All,NOU5DIT28,0,5,24,No
+28,Angola,1995,120,Number of <5 deaths,Thousands,0-5,All,NOU5DIT29,0,5,24,No
+29,Angola,1990,106,Number of <5 deaths,Thousands,0-5,All,NOU5DIT30,0,5,24,No
+30,Antigua and Barbuda,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT31,0,5,28,No
+31,Antigua and Barbuda,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT32,0,5,28,No
+32,Antigua and Barbuda,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT33,0,5,28,No
+33,Antigua and Barbuda,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT34,0,5,28,No
+34,Antigua and Barbuda,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT35,0,5,28,No
+35,Antigua and Barbuda,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT36,0,5,28,No
+36,Argentina,2012,10,Number of <5 deaths,Thousands,0-5,All,NOU5DIT37,0,5,32,No
+37,Argentina,2010,10,Number of <5 deaths,Thousands,0-5,All,NOU5DIT38,0,5,32,No
+38,Argentina,2005,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT39,0,5,32,No
+39,Argentina,2000,14,Number of <5 deaths,Thousands,0-5,All,NOU5DIT40,0,5,32,No
+40,Argentina,1995,17,Number of <5 deaths,Thousands,0-5,All,NOU5DIT41,0,5,32,No
+41,Argentina,1990,20,Number of <5 deaths,Thousands,0-5,All,NOU5DIT42,0,5,32,No
+42,Armenia,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT43,0,5,51,No
+43,Armenia,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT44,0,5,51,No
+44,Armenia,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT45,0,5,51,No
+45,Armenia,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT46,0,5,51,No
+46,Armenia,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT47,0,5,51,No
+47,Armenia,1990,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT48,0,5,51,No
+48,Australia,2012,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT49,0,5,36,No
+49,Australia,2010,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT50,0,5,36,No
+50,Australia,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT51,0,5,36,No
+51,Australia,2000,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT52,0,5,36,No
+52,Australia,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT53,0,5,36,No
+53,Australia,1990,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT54,0,5,36,No
+54,Austria,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT55,0,5,40,No
+55,Austria,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT56,0,5,40,No
+56,Austria,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT57,0,5,40,No
+57,Austria,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT58,0,5,40,No
+58,Austria,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT59,0,5,40,No
+59,Austria,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT60,0,5,40,No
+60,Azerbaijan,2012,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT61,0,5,31,No
+61,Azerbaijan,2010,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT62,0,5,31,No
+62,Azerbaijan,2005,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT63,0,5,31,No
+63,Azerbaijan,2000,9,Number of <5 deaths,Thousands,0-5,All,NOU5DIT64,0,5,31,No
+64,Azerbaijan,1995,16,Number of <5 deaths,Thousands,0-5,All,NOU5DIT65,0,5,31,No
+65,Azerbaijan,1990,19,Number of <5 deaths,Thousands,0-5,All,NOU5DIT66,0,5,31,No
+66,Bahamas,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT67,0,5,44,No
+67,Bahamas,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT68,0,5,44,No
+68,Bahamas,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT69,0,5,44,No
+69,Bahamas,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT70,0,5,44,No
+70,Bahamas,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT71,0,5,44,No
+71,Bahamas,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT72,0,5,44,No
+72,Bahrain,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT73,0,5,48,No
+73,Bahrain,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT74,0,5,48,No
+74,Bahrain,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT75,0,5,48,No
+75,Bahrain,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT76,0,5,48,No
+76,Bahrain,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT77,0,5,48,No
+77,Bahrain,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT78,0,5,48,No
+78,Bangladesh,2012,127,Number of <5 deaths,Thousands,0-5,All,NOU5DIT79,0,5,50,No
+79,Bangladesh,2010,146,Number of <5 deaths,Thousands,0-5,All,NOU5DIT80,0,5,50,No
+80,Bangladesh,2005,230,Number of <5 deaths,Thousands,0-5,All,NOU5DIT81,0,5,50,No
+81,Bangladesh,2000,312,Number of <5 deaths,Thousands,0-5,All,NOU5DIT82,0,5,50,No
+82,Bangladesh,1995,414,Number of <5 deaths,Thousands,0-5,All,NOU5DIT83,0,5,50,No
+83,Bangladesh,1990,531,Number of <5 deaths,Thousands,0-5,All,NOU5DIT84,0,5,50,No
+84,Barbados,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT85,0,5,52,No
+85,Barbados,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT86,0,5,52,No
+86,Barbados,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT87,0,5,52,No
+87,Barbados,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT88,0,5,52,No
+88,Barbados,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT89,0,5,52,No
+89,Barbados,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT90,0,5,52,No
+90,Belarus,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT91,0,5,112,No
+91,Belarus,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT92,0,5,112,No
+92,Belarus,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT93,0,5,112,No
+93,Belarus,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT94,0,5,112,No
+94,Belarus,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT95,0,5,112,No
+95,Belarus,1990,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT96,0,5,112,No
+96,Belgium,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT97,0,5,56,No
+97,Belgium,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT98,0,5,56,No
+98,Belgium,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT99,0,5,56,No
+99,Belgium,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT100,0,5,56,No
+100,Belgium,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT101,0,5,56,No
+101,Belgium,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT102,0,5,56,No
+102,Belize,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT103,0,5,84,No
+103,Belize,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT104,0,5,84,No
+104,Belize,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT105,0,5,84,No
+105,Belize,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT106,0,5,84,No
+106,Belize,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT107,0,5,84,No
+107,Belize,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT108,0,5,84,No
+108,Benin,2012,32,Number of <5 deaths,Thousands,0-5,All,NOU5DIT109,0,5,204,No
+109,Benin,2010,33,Number of <5 deaths,Thousands,0-5,All,NOU5DIT110,0,5,204,No
+110,Benin,2005,38,Number of <5 deaths,Thousands,0-5,All,NOU5DIT111,0,5,204,No
+111,Benin,2000,42,Number of <5 deaths,Thousands,0-5,All,NOU5DIT112,0,5,204,No
+112,Benin,1995,40,Number of <5 deaths,Thousands,0-5,All,NOU5DIT113,0,5,204,No
+113,Benin,1990,39,Number of <5 deaths,Thousands,0-5,All,NOU5DIT114,0,5,204,No
+114,Bhutan,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT115,0,5,64,No
+115,Bhutan,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT116,0,5,64,No
+116,Bhutan,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT117,0,5,64,No
+117,Bhutan,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT118,0,5,64,No
+118,Bhutan,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT119,0,5,64,No
+119,Bhutan,1990,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT120,0,5,64,No
+120,Bolivia (Plurinational State of),2012,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT121,0,5,68,No
+121,Bolivia (Plurinational State of),2010,12,Number of <5 deaths,Thousands,0-5,All,NOU5DIT122,0,5,68,No
+122,Bolivia (Plurinational State of),2005,16,Number of <5 deaths,Thousands,0-5,All,NOU5DIT123,0,5,68,No
+123,Bolivia (Plurinational State of),2000,20,Number of <5 deaths,Thousands,0-5,All,NOU5DIT124,0,5,68,No
+124,Bolivia (Plurinational State of),1995,26,Number of <5 deaths,Thousands,0-5,All,NOU5DIT125,0,5,68,No
+125,Bolivia (Plurinational State of),1990,29,Number of <5 deaths,Thousands,0-5,All,NOU5DIT126,0,5,68,No
+126,Bosnia and Herzegovina,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT127,0,5,70,No
+127,Bosnia and Herzegovina,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT128,0,5,70,No
+128,Bosnia and Herzegovina,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT129,0,5,70,No
+129,Bosnia and Herzegovina,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT130,0,5,70,No
+130,Bosnia and Herzegovina,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT131,0,5,70,No
+131,Bosnia and Herzegovina,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT132,0,5,70,No
+132,Botswana,2012,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT133,0,5,72,No
+133,Botswana,2010,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT134,0,5,72,No
+134,Botswana,2005,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT135,0,5,72,No
+135,Botswana,2000,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT136,0,5,72,No
+136,Botswana,1995,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT137,0,5,72,No
+137,Botswana,1990,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT138,0,5,72,No
+138,Brazil,2012,42,Number of <5 deaths,Thousands,0-5,All,NOU5DIT139,0,5,76,No
+139,Brazil,2010,46,Number of <5 deaths,Thousands,0-5,All,NOU5DIT140,0,5,76,No
+140,Brazil,2005,79,Number of <5 deaths,Thousands,0-5,All,NOU5DIT141,0,5,76,No
+141,Brazil,2000,125,Number of <5 deaths,Thousands,0-5,All,NOU5DIT142,0,5,76,No
+142,Brazil,1995,165,Number of <5 deaths,Thousands,0-5,All,NOU5DIT143,0,5,76,No
+143,Brazil,1990,219,Number of <5 deaths,Thousands,0-5,All,NOU5DIT144,0,5,76,No
+144,Brunei Darussalam,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT145,0,5,96,No
+145,Brunei Darussalam,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT146,0,5,96,No
+146,Brunei Darussalam,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT147,0,5,96,No
+147,Brunei Darussalam,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT148,0,5,96,No
+148,Brunei Darussalam,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT149,0,5,96,No
+149,Brunei Darussalam,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT150,0,5,96,No
+150,Bulgaria,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT151,0,5,100,No
+151,Bulgaria,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT152,0,5,100,No
+152,Bulgaria,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT153,0,5,100,No
+153,Bulgaria,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT154,0,5,100,No
+154,Bulgaria,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT155,0,5,100,No
+155,Bulgaria,1990,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT156,0,5,100,No
+156,Burkina Faso,2012,66,Number of <5 deaths,Thousands,0-5,All,NOU5DIT157,0,5,854,No
+157,Burkina Faso,2010,72,Number of <5 deaths,Thousands,0-5,All,NOU5DIT158,0,5,854,No
+158,Burkina Faso,2005,91,Number of <5 deaths,Thousands,0-5,All,NOU5DIT159,0,5,854,No
+159,Burkina Faso,2000,94,Number of <5 deaths,Thousands,0-5,All,NOU5DIT160,0,5,854,No
+160,Burkina Faso,1995,89,Number of <5 deaths,Thousands,0-5,All,NOU5DIT161,0,5,854,No
+161,Burkina Faso,1990,79,Number of <5 deaths,Thousands,0-5,All,NOU5DIT162,0,5,854,No
+162,Burundi,2012,43,Number of <5 deaths,Thousands,0-5,All,NOU5DIT163,0,5,108,No
+163,Burundi,2010,43,Number of <5 deaths,Thousands,0-5,All,NOU5DIT164,0,5,108,No
+164,Burundi,2005,42,Number of <5 deaths,Thousands,0-5,All,NOU5DIT165,0,5,108,No
+165,Burundi,2000,40,Number of <5 deaths,Thousands,0-5,All,NOU5DIT166,0,5,108,No
+166,Burundi,1995,42,Number of <5 deaths,Thousands,0-5,All,NOU5DIT167,0,5,108,No
+167,Burundi,1990,43,Number of <5 deaths,Thousands,0-5,All,NOU5DIT168,0,5,108,No
+168,Cabo Verde,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT169,0,5,132,No
+169,Cabo Verde,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT170,0,5,132,No
+170,Cabo Verde,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT171,0,5,132,No
+171,Cabo Verde,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT172,0,5,132,No
+172,Cabo Verde,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT173,0,5,132,No
+173,Cabo Verde,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT174,0,5,132,No
+174,Cambodia,2012,14,Number of <5 deaths,Thousands,0-5,All,NOU5DIT175,0,5,116,No
+175,Cambodia,2010,15,Number of <5 deaths,Thousands,0-5,All,NOU5DIT176,0,5,116,No
+176,Cambodia,2005,22,Number of <5 deaths,Thousands,0-5,All,NOU5DIT177,0,5,116,No
+177,Cambodia,2000,32,Number of <5 deaths,Thousands,0-5,All,NOU5DIT178,0,5,116,No
+178,Cambodia,1995,47,Number of <5 deaths,Thousands,0-5,All,NOU5DIT179,0,5,116,No
+179,Cambodia,1990,40,Number of <5 deaths,Thousands,0-5,All,NOU5DIT180,0,5,116,No
+180,Cameroon,2012,74,Number of <5 deaths,Thousands,0-5,All,NOU5DIT181,0,5,120,No
+181,Cameroon,2010,78,Number of <5 deaths,Thousands,0-5,All,NOU5DIT182,0,5,120,No
+182,Cameroon,2005,87,Number of <5 deaths,Thousands,0-5,All,NOU5DIT183,0,5,120,No
+183,Cameroon,2000,94,Number of <5 deaths,Thousands,0-5,All,NOU5DIT184,0,5,120,No
+184,Cameroon,1995,86,Number of <5 deaths,Thousands,0-5,All,NOU5DIT185,0,5,120,No
+185,Cameroon,1990,69,Number of <5 deaths,Thousands,0-5,All,NOU5DIT186,0,5,120,No
+186,Canada,2012,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT187,0,5,124,No
+187,Canada,2010,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT188,0,5,124,No
+188,Canada,2005,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT189,0,5,124,No
+189,Canada,2000,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT190,0,5,124,No
+190,Canada,1995,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT191,0,5,124,No
+191,Canada,1990,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT192,0,5,124,No
+192,Central African Republic,2012,19,Number of <5 deaths,Thousands,0-5,All,NOU5DIT193,0,5,140,No
+193,Central African Republic,2010,20,Number of <5 deaths,Thousands,0-5,All,NOU5DIT194,0,5,140,No
+194,Central African Republic,2005,22,Number of <5 deaths,Thousands,0-5,All,NOU5DIT195,0,5,140,No
+195,Central African Republic,2000,23,Number of <5 deaths,Thousands,0-5,All,NOU5DIT196,0,5,140,No
+196,Central African Republic,1995,21,Number of <5 deaths,Thousands,0-5,All,NOU5DIT197,0,5,140,No
+197,Central African Republic,1990,20,Number of <5 deaths,Thousands,0-5,All,NOU5DIT198,0,5,140,No
+198,Chad,2012,82,Number of <5 deaths,Thousands,0-5,All,NOU5DIT199,0,5,148,No
+199,Chad,2010,84,Number of <5 deaths,Thousands,0-5,All,NOU5DIT200,0,5,148,No
+200,Chad,2005,83,Number of <5 deaths,Thousands,0-5,All,NOU5DIT201,0,5,148,No
+201,Chad,2000,75,Number of <5 deaths,Thousands,0-5,All,NOU5DIT202,0,5,148,No
+202,Chad,1995,67,Number of <5 deaths,Thousands,0-5,All,NOU5DIT203,0,5,148,No
+203,Chad,1990,59,Number of <5 deaths,Thousands,0-5,All,NOU5DIT204,0,5,148,No
+204,Chile,2012,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT205,0,5,152,No
+205,Chile,2010,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT206,0,5,152,No
+206,Chile,2005,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT207,0,5,152,No
+207,Chile,2000,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT208,0,5,152,No
+208,Chile,1995,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT209,0,5,152,No
+209,Chile,1990,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT210,0,5,152,No
+210,China,2012,258,Number of <5 deaths,Thousands,0-5,All,NOU5DIT211,0,5,156,No
+211,China,2010,289,Number of <5 deaths,Thousands,0-5,All,NOU5DIT212,0,5,156,No
+212,China,2005,409,Number of <5 deaths,Thousands,0-5,All,NOU5DIT213,0,5,156,No
+213,China,2000,628,Number of <5 deaths,Thousands,0-5,All,NOU5DIT214,0,5,156,No
+214,China,1995,819,Number of <5 deaths,Thousands,0-5,All,NOU5DIT215,0,5,156,No
+215,China,1990,1647,Number of <5 deaths,Thousands,0-5,All,NOU5DIT216,0,5,156,No
+216,Colombia,2012,16,Number of <5 deaths,Thousands,0-5,All,NOU5DIT217,0,5,170,No
+217,Colombia,2010,17,Number of <5 deaths,Thousands,0-5,All,NOU5DIT218,0,5,170,No
+218,Colombia,2005,20,Number of <5 deaths,Thousands,0-5,All,NOU5DIT219,0,5,170,No
+219,Colombia,2000,23,Number of <5 deaths,Thousands,0-5,All,NOU5DIT220,0,5,170,No
+220,Colombia,1995,28,Number of <5 deaths,Thousands,0-5,All,NOU5DIT221,0,5,170,No
+221,Colombia,1990,31,Number of <5 deaths,Thousands,0-5,All,NOU5DIT222,0,5,170,No
+222,Comoros,2012,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT223,0,5,174,No
+223,Comoros,2010,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT224,0,5,174,No
+224,Comoros,2005,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT225,0,5,174,No
+225,Comoros,2000,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT226,0,5,174,No
+226,Comoros,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT227,0,5,174,No
+227,Comoros,1990,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT228,0,5,174,No
+228,Congo,2012,15,Number of <5 deaths,Thousands,0-5,All,NOU5DIT229,0,5,178,No
+229,Congo,2010,15,Number of <5 deaths,Thousands,0-5,All,NOU5DIT230,0,5,178,No
+230,Congo,2005,15,Number of <5 deaths,Thousands,0-5,All,NOU5DIT231,0,5,178,No
+231,Congo,2000,14,Number of <5 deaths,Thousands,0-5,All,NOU5DIT232,0,5,178,No
+232,Congo,1995,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT233,0,5,178,No
+233,Congo,1990,9,Number of <5 deaths,Thousands,0-5,All,NOU5DIT234,0,5,178,No
+234,Cook Islands,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT235,0,5,184,No
+235,Cook Islands,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT236,0,5,184,No
+236,Cook Islands,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT237,0,5,184,No
+237,Cook Islands,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT238,0,5,184,No
+238,Cook Islands,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT239,0,5,184,No
+239,Cook Islands,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT240,0,5,184,No
+240,Costa Rica,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT241,0,5,188,No
+241,Costa Rica,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT242,0,5,188,No
+242,Costa Rica,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT243,0,5,188,No
+243,Costa Rica,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT244,0,5,188,No
+244,Costa Rica,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT245,0,5,188,No
+245,Costa Rica,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT246,0,5,188,No
+246,Côte dIvoire,2012,75,Number of <5 deaths,Thousands,0-5,All,NOU5DIT247,0,5,384,No
+247,Côte dIvoire,2010,74,Number of <5 deaths,Thousands,0-5,All,NOU5DIT248,0,5,384,No
+248,Côte dIvoire,2005,80,Number of <5 deaths,Thousands,0-5,All,NOU5DIT249,0,5,384,No
+249,Côte dIvoire,2000,88,Number of <5 deaths,Thousands,0-5,All,NOU5DIT250,0,5,384,No
+250,Côte dIvoire,1995,82,Number of <5 deaths,Thousands,0-5,All,NOU5DIT251,0,5,384,No
+251,Côte dIvoire,1990,73,Number of <5 deaths,Thousands,0-5,All,NOU5DIT252,0,5,384,No
+252,Croatia,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT253,0,5,191,No
+253,Croatia,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT254,0,5,191,No
+254,Croatia,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT255,0,5,191,No
+255,Croatia,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT256,0,5,191,No
+256,Croatia,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT257,0,5,191,No
+257,Croatia,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT258,0,5,191,No
+258,Cuba,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT259,0,5,192,No
+259,Cuba,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT260,0,5,192,No
+260,Cuba,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT261,0,5,192,No
+261,Cuba,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT262,0,5,192,No
+262,Cuba,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT263,0,5,192,No
+263,Cuba,1990,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT264,0,5,192,No
+264,Cyprus,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT265,0,5,196,No
+265,Cyprus,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT266,0,5,196,No
+266,Cyprus,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT267,0,5,196,No
+267,Cyprus,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT268,0,5,196,No
+268,Cyprus,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT269,0,5,196,No
+269,Cyprus,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT270,0,5,196,No
+270,Czech Republic,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT271,0,5,203,No
+271,Czech Republic,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT272,0,5,203,No
+272,Czech Republic,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT273,0,5,203,No
+273,Czech Republic,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT274,0,5,203,No
+274,Czech Republic,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT275,0,5,203,No
+275,Czech Republic,1990,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT276,0,5,203,No
+276,Democratic Peoples Republic of Korea,2012,10,Number of <5 deaths,Thousands,0-5,All,NOU5DIT277,0,5,408,No
+277,Democratic Peoples Republic of Korea,2010,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT278,0,5,408,No
+278,Democratic Peoples Republic of Korea,2005,13,Number of <5 deaths,Thousands,0-5,All,NOU5DIT279,0,5,408,No
+279,Democratic Peoples Republic of Korea,2000,24,Number of <5 deaths,Thousands,0-5,All,NOU5DIT280,0,5,408,No
+280,Democratic Peoples Republic of Korea,1995,34,Number of <5 deaths,Thousands,0-5,All,NOU5DIT281,0,5,408,No
+281,Democratic Peoples Republic of Korea,1990,16,Number of <5 deaths,Thousands,0-5,All,NOU5DIT282,0,5,408,No
+282,Democratic Republic of the Congo,2012,391,Number of <5 deaths,Thousands,0-5,All,NOU5DIT283,0,5,180,No
+283,Democratic Republic of the Congo,2010,402,Number of <5 deaths,Thousands,0-5,All,NOU5DIT284,0,5,180,No
+284,Democratic Republic of the Congo,2005,403,Number of <5 deaths,Thousands,0-5,All,NOU5DIT285,0,5,180,No
+285,Democratic Republic of the Congo,2000,355,Number of <5 deaths,Thousands,0-5,All,NOU5DIT286,0,5,180,No
+286,Democratic Republic of the Congo,1995,330,Number of <5 deaths,Thousands,0-5,All,NOU5DIT287,0,5,180,No
+287,Democratic Republic of the Congo,1990,267,Number of <5 deaths,Thousands,0-5,All,NOU5DIT288,0,5,180,No
+288,Denmark,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT289,0,5,208,No
+289,Denmark,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT290,0,5,208,No
+290,Denmark,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT291,0,5,208,No
+291,Denmark,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT292,0,5,208,No
+292,Denmark,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT293,0,5,208,No
+293,Denmark,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT294,0,5,208,No
+294,Djibouti,2012,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT295,0,5,262,No
+295,Djibouti,2010,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT296,0,5,262,No
+296,Djibouti,2005,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT297,0,5,262,No
+297,Djibouti,2000,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT298,0,5,262,No
+298,Djibouti,1995,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT299,0,5,262,No
+299,Djibouti,1990,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT300,0,5,262,No
+300,Dominica,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT301,0,5,212,No
+301,Dominica,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT302,0,5,212,No
+302,Dominica,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT303,0,5,212,No
+303,Dominica,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT304,0,5,212,No
+304,Dominica,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT305,0,5,212,No
+305,Dominica,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT306,0,5,212,No
+306,Dominican Republic,2012,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT307,0,5,214,No
+307,Dominican Republic,2010,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT308,0,5,214,No
+308,Dominican Republic,2005,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT309,0,5,214,No
+309,Dominican Republic,2000,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT310,0,5,214,No
+310,Dominican Republic,1995,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT311,0,5,214,No
+311,Dominican Republic,1990,13,Number of <5 deaths,Thousands,0-5,All,NOU5DIT312,0,5,214,No
+312,Ecuador,2012,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT313,0,5,218,No
+313,Ecuador,2010,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT314,0,5,218,No
+314,Ecuador,2005,9,Number of <5 deaths,Thousands,0-5,All,NOU5DIT315,0,5,218,No
+315,Ecuador,2000,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT316,0,5,218,No
+316,Ecuador,1995,13,Number of <5 deaths,Thousands,0-5,All,NOU5DIT317,0,5,218,No
+317,Ecuador,1990,17,Number of <5 deaths,Thousands,0-5,All,NOU5DIT318,0,5,218,No
+318,Egypt,2012,40,Number of <5 deaths,Thousands,0-5,All,NOU5DIT319,0,5,818,No
+319,Egypt,2010,44,Number of <5 deaths,Thousands,0-5,All,NOU5DIT320,0,5,818,No
+320,Egypt,2005,52,Number of <5 deaths,Thousands,0-5,All,NOU5DIT321,0,5,818,No
+321,Egypt,2000,77,Number of <5 deaths,Thousands,0-5,All,NOU5DIT322,0,5,818,No
+322,Egypt,1995,98,Number of <5 deaths,Thousands,0-5,All,NOU5DIT323,0,5,818,No
+323,Egypt,1990,155,Number of <5 deaths,Thousands,0-5,All,NOU5DIT324,0,5,818,No
+324,El Salvador,2012,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT325,0,5,222,No
+325,El Salvador,2010,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT326,0,5,222,No
+326,El Salvador,2005,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT327,0,5,222,No
+327,El Salvador,2000,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT328,0,5,222,No
+328,El Salvador,1995,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT329,0,5,222,No
+329,El Salvador,1990,10,Number of <5 deaths,Thousands,0-5,All,NOU5DIT330,0,5,222,No
+330,Equatorial Guinea,2012,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT331,0,5,226,No
+331,Equatorial Guinea,2010,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT332,0,5,226,No
+332,Equatorial Guinea,2005,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT333,0,5,226,No
+333,Equatorial Guinea,2000,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT334,0,5,226,No
+334,Equatorial Guinea,1995,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT335,0,5,226,No
+335,Equatorial Guinea,1990,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT336,0,5,226,No
+336,Eritrea,2012,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT337,0,5,232,No
+337,Eritrea,2010,12,Number of <5 deaths,Thousands,0-5,All,NOU5DIT338,0,5,232,No
+338,Eritrea,2005,13,Number of <5 deaths,Thousands,0-5,All,NOU5DIT339,0,5,232,No
+339,Eritrea,2000,13,Number of <5 deaths,Thousands,0-5,All,NOU5DIT340,0,5,232,No
+340,Eritrea,1995,16,Number of <5 deaths,Thousands,0-5,All,NOU5DIT341,0,5,232,No
+341,Eritrea,1990,21,Number of <5 deaths,Thousands,0-5,All,NOU5DIT342,0,5,232,No
+342,Estonia,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT343,0,5,233,No
+343,Estonia,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT344,0,5,233,No
+344,Estonia,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT345,0,5,233,No
+345,Estonia,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT346,0,5,233,No
+346,Estonia,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT347,0,5,233,No
+347,Estonia,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT348,0,5,233,No
+348,Ethiopia,2012,205,Number of <5 deaths,Thousands,0-5,All,NOU5DIT349,0,5,231,No
+349,Ethiopia,2012,205,Number of <5 deaths,Thousands,0-5,All,NOU5DIT349,0,5,230,No
+350,Ethiopia,2010,224,Number of <5 deaths,Thousands,0-5,All,NOU5DIT350,0,5,231,No
+351,Ethiopia,2010,224,Number of <5 deaths,Thousands,0-5,All,NOU5DIT350,0,5,230,No
+352,Ethiopia,2005,318,Number of <5 deaths,Thousands,0-5,All,NOU5DIT351,0,5,231,No
+353,Ethiopia,2005,318,Number of <5 deaths,Thousands,0-5,All,NOU5DIT351,0,5,230,No
+354,Ethiopia,2000,412,Number of <5 deaths,Thousands,0-5,All,NOU5DIT352,0,5,231,No
+355,Ethiopia,2000,412,Number of <5 deaths,Thousands,0-5,All,NOU5DIT352,0,5,230,No
+356,Ethiopia,1995,432,Number of <5 deaths,Thousands,0-5,All,NOU5DIT353,0,5,231,No
+357,Ethiopia,1995,432,Number of <5 deaths,Thousands,0-5,All,NOU5DIT353,0,5,230,No
+358,Ethiopia,1990,444,Number of <5 deaths,Thousands,0-5,All,NOU5DIT354,0,5,231,No
+359,Ethiopia,1990,444,Number of <5 deaths,Thousands,0-5,All,NOU5DIT354,0,5,230,No
+360,Fiji,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT355,0,5,242,No
+361,Fiji,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT356,0,5,242,No
+362,Fiji,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT357,0,5,242,No
+363,Fiji,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT358,0,5,242,No
+364,Fiji,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT359,0,5,242,No
+365,Fiji,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT360,0,5,242,No
+366,Finland,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT361,0,5,246,No
+367,Finland,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT362,0,5,246,No
+368,Finland,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT363,0,5,246,No
+369,Finland,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT364,0,5,246,No
+370,Finland,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT365,0,5,246,No
+371,Finland,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT366,0,5,246,No
+372,France,2012,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT367,0,5,250,No
+373,France,2010,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT368,0,5,250,No
+374,France,2005,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT369,0,5,250,No
+375,France,2000,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT370,0,5,250,No
+376,France,1995,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT371,0,5,250,No
+377,France,1990,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT372,0,5,250,No
+378,Gabon,2012,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT373,0,5,266,No
+379,Gabon,2010,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT374,0,5,266,No
+380,Gabon,2005,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT375,0,5,266,No
+381,Gabon,2000,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT376,0,5,266,No
+382,Gabon,1995,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT377,0,5,266,No
+383,Gabon,1990,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT378,0,5,266,No
+384,Gambia,2012,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT379,0,5,270,No
+385,Gambia,2010,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT380,0,5,270,No
+386,Gambia,2005,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT381,0,5,270,No
+387,Gambia,2000,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT382,0,5,270,No
+388,Gambia,1995,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT383,0,5,270,No
+389,Gambia,1990,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT384,0,5,270,No
+390,Georgia,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT385,0,5,268,No
+391,Georgia,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT386,0,5,268,No
+392,Georgia,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT387,0,5,268,No
+393,Georgia,2000,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT388,0,5,268,No
+394,Georgia,1995,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT389,0,5,268,No
+395,Georgia,1990,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT390,0,5,268,No
+396,Germany,2012,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT391,0,5,276,No
+397,Germany,2010,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT392,0,5,276,No
+398,Germany,2005,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT393,0,5,276,No
+399,Germany,2000,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT394,0,5,276,No
+400,Germany,1995,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT395,0,5,276,No
+401,Germany,1990,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT396,0,5,276,No
+402,Ghana,2012,56,Number of <5 deaths,Thousands,0-5,All,NOU5DIT397,0,5,288,No
+403,Ghana,2010,58,Number of <5 deaths,Thousands,0-5,All,NOU5DIT398,0,5,288,No
+404,Ghana,2005,62,Number of <5 deaths,Thousands,0-5,All,NOU5DIT399,0,5,288,No
+405,Ghana,2000,64,Number of <5 deaths,Thousands,0-5,All,NOU5DIT400,0,5,288,No
+406,Ghana,1995,67,Number of <5 deaths,Thousands,0-5,All,NOU5DIT401,0,5,288,No
+407,Ghana,1990,70,Number of <5 deaths,Thousands,0-5,All,NOU5DIT402,0,5,288,No
+408,Greece,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT403,0,5,300,No
+409,Greece,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT404,0,5,300,No
+410,Greece,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT405,0,5,300,No
+411,Greece,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT406,0,5,300,No
+412,Greece,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT407,0,5,300,No
+413,Greece,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT408,0,5,300,No
+414,Grenada,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT409,0,5,308,No
+415,Grenada,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT410,0,5,308,No
+416,Grenada,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT411,0,5,308,No
+417,Grenada,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT412,0,5,308,No
+418,Grenada,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT413,0,5,308,No
+419,Grenada,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT414,0,5,308,No
+420,Guatemala,2012,15,Number of <5 deaths,Thousands,0-5,All,NOU5DIT415,0,5,320,No
+421,Guatemala,2010,15,Number of <5 deaths,Thousands,0-5,All,NOU5DIT416,0,5,320,No
+422,Guatemala,2005,18,Number of <5 deaths,Thousands,0-5,All,NOU5DIT417,0,5,320,No
+423,Guatemala,2000,20,Number of <5 deaths,Thousands,0-5,All,NOU5DIT418,0,5,320,No
+424,Guatemala,1995,24,Number of <5 deaths,Thousands,0-5,All,NOU5DIT419,0,5,320,No
+425,Guatemala,1990,27,Number of <5 deaths,Thousands,0-5,All,NOU5DIT420,0,5,320,No
+426,Guinea,2012,41,Number of <5 deaths,Thousands,0-5,All,NOU5DIT421,0,5,324,No
+427,Guinea,2010,43,Number of <5 deaths,Thousands,0-5,All,NOU5DIT422,0,5,324,No
+428,Guinea,2005,49,Number of <5 deaths,Thousands,0-5,All,NOU5DIT423,0,5,324,No
+429,Guinea,2000,60,Number of <5 deaths,Thousands,0-5,All,NOU5DIT424,0,5,324,No
+430,Guinea,1995,69,Number of <5 deaths,Thousands,0-5,All,NOU5DIT425,0,5,324,No
+431,Guinea,1990,64,Number of <5 deaths,Thousands,0-5,All,NOU5DIT426,0,5,324,No
+432,Guinea-Bissau,2012,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT427,0,5,624,No
+433,Guinea-Bissau,2010,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT428,0,5,624,No
+434,Guinea-Bissau,2005,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT429,0,5,624,No
+435,Guinea-Bissau,2000,9,Number of <5 deaths,Thousands,0-5,All,NOU5DIT430,0,5,624,No
+436,Guinea-Bissau,1995,9,Number of <5 deaths,Thousands,0-5,All,NOU5DIT431,0,5,624,No
+437,Guinea-Bissau,1990,9,Number of <5 deaths,Thousands,0-5,All,NOU5DIT432,0,5,624,No
+438,Guyana,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT433,0,5,328,No
+439,Guyana,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT434,0,5,328,No
+440,Guyana,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT435,0,5,328,No
+441,Guyana,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT436,0,5,328,No
+442,Guyana,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT437,0,5,328,No
+443,Guyana,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT438,0,5,328,No
+444,Haiti,2012,20,Number of <5 deaths,Thousands,0-5,All,NOU5DIT439,0,5,332,No
+445,Haiti,2010,49,Number of <5 deaths,Thousands,0-5,All,NOU5DIT440,0,5,332,No
+446,Haiti,2005,24,Number of <5 deaths,Thousands,0-5,All,NOU5DIT441,0,5,332,No
+447,Haiti,2000,28,Number of <5 deaths,Thousands,0-5,All,NOU5DIT442,0,5,332,No
+448,Haiti,1995,33,Number of <5 deaths,Thousands,0-5,All,NOU5DIT443,0,5,332,No
+449,Haiti,1990,36,Number of <5 deaths,Thousands,0-5,All,NOU5DIT444,0,5,332,No
+450,Honduras,2012,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT445,0,5,340,No
+451,Honduras,2010,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT446,0,5,340,No
+452,Honduras,2005,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT447,0,5,340,No
+453,Honduras,2000,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT448,0,5,340,No
+454,Honduras,1995,9,Number of <5 deaths,Thousands,0-5,All,NOU5DIT449,0,5,340,No
+455,Honduras,1990,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT450,0,5,340,No
+456,Hungary,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT451,0,5,348,No
+457,Hungary,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT452,0,5,348,No
+458,Hungary,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT453,0,5,348,No
+459,Hungary,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT454,0,5,348,No
+460,Hungary,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT455,0,5,348,No
+461,Hungary,1990,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT456,0,5,348,No
+462,Iceland,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT457,0,5,352,No
+463,Iceland,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT458,0,5,352,No
+464,Iceland,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT459,0,5,352,No
+465,Iceland,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT460,0,5,352,No
+466,Iceland,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT461,0,5,352,No
+467,Iceland,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT462,0,5,352,No
+468,India,2012,1414,Number of <5 deaths,Thousands,0-5,All,NOU5DIT463,0,5,356,No
+469,India,2010,1522,Number of <5 deaths,Thousands,0-5,All,NOU5DIT464,0,5,356,No
+470,India,2005,1985,Number of <5 deaths,Thousands,0-5,All,NOU5DIT465,0,5,356,No
+471,India,2000,2414,Number of <5 deaths,Thousands,0-5,All,NOU5DIT466,0,5,356,No
+472,India,1995,2855,Number of <5 deaths,Thousands,0-5,All,NOU5DIT467,0,5,356,No
+473,India,1990,3325,Number of <5 deaths,Thousands,0-5,All,NOU5DIT468,0,5,356,No
+474,Indonesia,2012,152,Number of <5 deaths,Thousands,0-5,All,NOU5DIT469,0,5,360,No
+475,Indonesia,2010,175,Number of <5 deaths,Thousands,0-5,All,NOU5DIT470,0,5,360,No
+476,Indonesia,2005,198,Number of <5 deaths,Thousands,0-5,All,NOU5DIT471,0,5,360,No
+477,Indonesia,2000,228,Number of <5 deaths,Thousands,0-5,All,NOU5DIT472,0,5,360,No
+478,Indonesia,1995,305,Number of <5 deaths,Thousands,0-5,All,NOU5DIT473,0,5,360,No
+479,Indonesia,1990,385,Number of <5 deaths,Thousands,0-5,All,NOU5DIT474,0,5,360,No
+480,Iran (Islamic Republic of),2012,26,Number of <5 deaths,Thousands,0-5,All,NOU5DIT475,0,5,364,No
+481,Iran (Islamic Republic of),2010,28,Number of <5 deaths,Thousands,0-5,All,NOU5DIT476,0,5,364,No
+482,Iran (Islamic Republic of),2005,31,Number of <5 deaths,Thousands,0-5,All,NOU5DIT477,0,5,364,No
+483,Iran (Islamic Republic of),2000,44,Number of <5 deaths,Thousands,0-5,All,NOU5DIT478,0,5,364,No
+484,Iran (Islamic Republic of),1995,64,Number of <5 deaths,Thousands,0-5,All,NOU5DIT479,0,5,364,No
+485,Iran (Islamic Republic of),1990,107,Number of <5 deaths,Thousands,0-5,All,NOU5DIT480,0,5,364,No
+486,Iraq,2012,35,Number of <5 deaths,Thousands,0-5,All,NOU5DIT481,0,5,368,No
+487,Iraq,2010,35,Number of <5 deaths,Thousands,0-5,All,NOU5DIT482,0,5,368,No
+488,Iraq,2005,37,Number of <5 deaths,Thousands,0-5,All,NOU5DIT483,0,5,368,No
+489,Iraq,2000,38,Number of <5 deaths,Thousands,0-5,All,NOU5DIT484,0,5,368,No
+490,Iraq,1995,35,Number of <5 deaths,Thousands,0-5,All,NOU5DIT485,0,5,368,No
+491,Iraq,1990,35,Number of <5 deaths,Thousands,0-5,All,NOU5DIT486,0,5,368,No
+492,Ireland,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT487,0,5,372,No
+493,Ireland,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT488,0,5,372,No
+494,Ireland,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT489,0,5,372,No
+495,Ireland,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT490,0,5,372,No
+496,Ireland,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT491,0,5,372,No
+497,Ireland,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT492,0,5,372,No
+498,Israel,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT493,0,5,376,No
+499,Israel,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT494,0,5,376,No
+500,Israel,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT495,0,5,376,No
+501,Israel,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT496,0,5,376,No
+502,Israel,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT497,0,5,376,No
+503,Israel,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT498,0,5,376,No
+504,Italy,2012,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT499,0,5,380,No
+505,Italy,2010,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT500,0,5,380,No
+506,Italy,2005,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT501,0,5,380,No
+507,Italy,2000,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT502,0,5,380,No
+508,Italy,1995,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT503,0,5,380,No
+509,Italy,1990,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT504,0,5,380,No
+510,Jamaica,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT505,0,5,388,No
+511,Jamaica,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT506,0,5,388,No
+512,Jamaica,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT507,0,5,388,No
+513,Jamaica,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT508,0,5,388,No
+514,Jamaica,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT509,0,5,388,No
+515,Jamaica,1990,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT510,0,5,388,No
+516,Japan,2012,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT511,0,5,392,No
+517,Japan,2012,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT511,0,5,392,No
+518,Japan,2010,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT512,0,5,392,No
+519,Japan,2010,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT512,0,5,392,No
+520,Japan,2005,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT513,0,5,392,No
+521,Japan,2005,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT513,0,5,392,No
+522,Japan,2000,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT514,0,5,392,No
+523,Japan,2000,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT514,0,5,392,No
+524,Japan,1995,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT515,0,5,392,No
+525,Japan,1995,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT515,0,5,392,No
+526,Japan,1990,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT516,0,5,392,No
+527,Japan,1990,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT516,0,5,392,No
+528,Jordan,2012,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT517,0,5,400,No
+529,Jordan,2010,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT518,0,5,400,No
+530,Jordan,2005,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT519,0,5,400,No
+531,Jordan,2000,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT520,0,5,400,No
+532,Jordan,1995,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT521,0,5,400,No
+533,Jordan,1990,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT522,0,5,400,No
+534,Kazakhstan,2012,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT523,0,5,398,No
+535,Kazakhstan,2010,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT524,0,5,398,No
+536,Kazakhstan,2005,9,Number of <5 deaths,Thousands,0-5,All,NOU5DIT525,0,5,398,No
+537,Kazakhstan,2000,9,Number of <5 deaths,Thousands,0-5,All,NOU5DIT526,0,5,398,No
+538,Kazakhstan,1995,13,Number of <5 deaths,Thousands,0-5,All,NOU5DIT527,0,5,398,No
+539,Kazakhstan,1990,21,Number of <5 deaths,Thousands,0-5,All,NOU5DIT528,0,5,398,No
+540,Kenya,2012,108,Number of <5 deaths,Thousands,0-5,All,NOU5DIT529,0,5,404,No
+541,Kenya,2010,115,Number of <5 deaths,Thousands,0-5,All,NOU5DIT530,0,5,404,No
+542,Kenya,2005,129,Number of <5 deaths,Thousands,0-5,All,NOU5DIT531,0,5,404,No
+543,Kenya,2000,127,Number of <5 deaths,Thousands,0-5,All,NOU5DIT532,0,5,404,No
+544,Kenya,1995,110,Number of <5 deaths,Thousands,0-5,All,NOU5DIT533,0,5,404,No
+545,Kenya,1990,96,Number of <5 deaths,Thousands,0-5,All,NOU5DIT534,0,5,404,No
+546,Kiribati,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT535,0,5,296,No
+547,Kiribati,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT536,0,5,296,No
+548,Kiribati,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT537,0,5,296,No
+549,Kiribati,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT538,0,5,296,No
+550,Kiribati,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT539,0,5,296,No
+551,Kiribati,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT540,0,5,296,No
+552,Kuwait,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT541,0,5,414,No
+553,Kuwait,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT542,0,5,414,No
+554,Kuwait,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT543,0,5,414,No
+555,Kuwait,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT544,0,5,414,No
+556,Kuwait,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT545,0,5,414,No
+557,Kuwait,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT546,0,5,414,No
+558,Kyrgyzstan,2012,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT547,0,5,417,No
+559,Kyrgyzstan,2010,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT548,0,5,417,No
+560,Kyrgyzstan,2005,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT549,0,5,417,No
+561,Kyrgyzstan,2000,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT550,0,5,417,No
+562,Kyrgyzstan,1995,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT551,0,5,417,No
+563,Kyrgyzstan,1990,10,Number of <5 deaths,Thousands,0-5,All,NOU5DIT552,0,5,417,No
+564,Lao Peoples Democratic Republic,2012,14,Number of <5 deaths,Thousands,0-5,All,NOU5DIT553,0,5,418,No
+565,Lao Peoples Democratic Republic,2010,15,Number of <5 deaths,Thousands,0-5,All,NOU5DIT554,0,5,418,No
+566,Lao Peoples Democratic Republic,2005,15,Number of <5 deaths,Thousands,0-5,All,NOU5DIT555,0,5,418,No
+567,Lao Peoples Democratic Republic,2000,20,Number of <5 deaths,Thousands,0-5,All,NOU5DIT556,0,5,418,No
+568,Lao Peoples Democratic Republic,1995,27,Number of <5 deaths,Thousands,0-5,All,NOU5DIT557,0,5,418,No
+569,Lao Peoples Democratic Republic,1990,29,Number of <5 deaths,Thousands,0-5,All,NOU5DIT558,0,5,418,No
+570,Latvia,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT559,0,5,428,No
+571,Latvia,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT560,0,5,428,No
+572,Latvia,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT561,0,5,428,No
+573,Latvia,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT562,0,5,428,No
+574,Latvia,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT563,0,5,428,No
+575,Latvia,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT564,0,5,428,No
+576,Lebanon,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT565,0,5,422,No
+577,Lebanon,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT566,0,5,422,No
+578,Lebanon,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT567,0,5,422,No
+579,Lebanon,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT568,0,5,422,No
+580,Lebanon,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT569,0,5,422,No
+581,Lebanon,1990,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT570,0,5,422,No
+582,Lesotho,2012,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT571,0,5,426,No
+583,Lesotho,2010,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT572,0,5,426,No
+584,Lesotho,2005,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT573,0,5,426,No
+585,Lesotho,2000,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT574,0,5,426,No
+586,Lesotho,1995,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT575,0,5,426,No
+587,Lesotho,1990,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT576,0,5,426,No
+588,Liberia,2012,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT577,0,5,430,No
+589,Liberia,2010,12,Number of <5 deaths,Thousands,0-5,All,NOU5DIT578,0,5,430,No
+590,Liberia,2005,15,Number of <5 deaths,Thousands,0-5,All,NOU5DIT579,0,5,430,No
+591,Liberia,2000,21,Number of <5 deaths,Thousands,0-5,All,NOU5DIT580,0,5,430,No
+592,Liberia,1995,20,Number of <5 deaths,Thousands,0-5,All,NOU5DIT581,0,5,430,No
+593,Liberia,1990,23,Number of <5 deaths,Thousands,0-5,All,NOU5DIT582,0,5,430,No
+594,Libya,2012,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT583,0,5,434,No
+595,Libya,2010,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT584,0,5,434,No
+596,Libya,2005,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT585,0,5,434,No
+597,Libya,2000,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT586,0,5,434,No
+598,Libya,1995,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT587,0,5,434,No
+599,Libya,1990,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT588,0,5,434,No
+600,Lithuania,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT589,0,5,440,No
+601,Lithuania,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT590,0,5,440,No
+602,Lithuania,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT591,0,5,440,No
+603,Lithuania,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT592,0,5,440,No
+604,Lithuania,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT593,0,5,440,No
+605,Lithuania,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT594,0,5,440,No
+606,Luxembourg,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT595,0,5,442,No
+607,Luxembourg,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT596,0,5,442,No
+608,Luxembourg,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT597,0,5,442,No
+609,Luxembourg,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT598,0,5,442,No
+610,Luxembourg,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT599,0,5,442,No
+611,Luxembourg,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT600,0,5,442,No
+612,Madagascar,2012,44,Number of <5 deaths,Thousands,0-5,All,NOU5DIT601,0,5,450,No
+613,Madagascar,2010,46,Number of <5 deaths,Thousands,0-5,All,NOU5DIT602,0,5,450,No
+614,Madagascar,2005,54,Number of <5 deaths,Thousands,0-5,All,NOU5DIT603,0,5,450,No
+615,Madagascar,2000,69,Number of <5 deaths,Thousands,0-5,All,NOU5DIT604,0,5,450,No
+616,Madagascar,1995,76,Number of <5 deaths,Thousands,0-5,All,NOU5DIT605,0,5,450,No
+617,Madagascar,1990,80,Number of <5 deaths,Thousands,0-5,All,NOU5DIT606,0,5,450,No
+618,Malawi,2012,43,Number of <5 deaths,Thousands,0-5,All,NOU5DIT607,0,5,454,No
+619,Malawi,2010,50,Number of <5 deaths,Thousands,0-5,All,NOU5DIT608,0,5,454,No
+620,Malawi,2005,61,Number of <5 deaths,Thousands,0-5,All,NOU5DIT609,0,5,454,No
+621,Malawi,2000,81,Number of <5 deaths,Thousands,0-5,All,NOU5DIT610,0,5,454,No
+622,Malawi,1995,94,Number of <5 deaths,Thousands,0-5,All,NOU5DIT611,0,5,454,No
+623,Malawi,1990,103,Number of <5 deaths,Thousands,0-5,All,NOU5DIT612,0,5,454,No
+624,Malaysia,2012,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT613,0,5,458,No
+625,Malaysia,2010,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT614,0,5,458,No
+626,Malaysia,2005,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT615,0,5,458,No
+627,Malaysia,2000,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT616,0,5,458,No
+628,Malaysia,1995,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT617,0,5,458,No
+629,Malaysia,1990,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT618,0,5,458,No
+630,Maldives,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT619,0,5,462,No
+631,Maldives,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT620,0,5,462,No
+632,Maldives,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT621,0,5,462,No
+633,Maldives,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT622,0,5,462,No
+634,Maldives,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT623,0,5,462,No
+635,Maldives,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT624,0,5,462,No
+636,Mali,2012,83,Number of <5 deaths,Thousands,0-5,All,NOU5DIT625,0,5,466,No
+637,Mali,2010,85,Number of <5 deaths,Thousands,0-5,All,NOU5DIT626,0,5,466,No
+638,Mali,2005,92,Number of <5 deaths,Thousands,0-5,All,NOU5DIT627,0,5,466,No
+639,Mali,2000,102,Number of <5 deaths,Thousands,0-5,All,NOU5DIT628,0,5,466,No
+640,Mali,1995,96,Number of <5 deaths,Thousands,0-5,All,NOU5DIT629,0,5,466,No
+641,Mali,1990,91,Number of <5 deaths,Thousands,0-5,All,NOU5DIT630,0,5,466,No
+642,Malta,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT631,0,5,470,No
+643,Malta,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT632,0,5,470,No
+644,Malta,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT633,0,5,470,No
+645,Malta,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT634,0,5,470,No
+646,Malta,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT635,0,5,470,No
+647,Malta,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT636,0,5,470,No
+648,Marshall Islands,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT637,0,5,584,No
+649,Marshall Islands,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT638,0,5,584,No
+650,Marshall Islands,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT639,0,5,584,No
+651,Marshall Islands,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT640,0,5,584,No
+652,Marshall Islands,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT641,0,5,584,No
+653,Marshall Islands,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT642,0,5,584,No
+654,Mauritania,2012,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT643,0,5,478,No
+655,Mauritania,2010,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT644,0,5,478,No
+656,Mauritania,2005,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT645,0,5,478,No
+657,Mauritania,2000,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT646,0,5,478,No
+658,Mauritania,1995,10,Number of <5 deaths,Thousands,0-5,All,NOU5DIT647,0,5,478,No
+659,Mauritania,1990,10,Number of <5 deaths,Thousands,0-5,All,NOU5DIT648,0,5,478,No
+660,Mauritius,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT649,0,5,480,No
+661,Mauritius,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT650,0,5,480,No
+662,Mauritius,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT651,0,5,480,No
+663,Mauritius,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT652,0,5,480,No
+664,Mauritius,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT653,0,5,480,No
+665,Mauritius,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT654,0,5,480,No
+666,Mexico,2012,37,Number of <5 deaths,Thousands,0-5,All,NOU5DIT655,0,5,484,No
+667,Mexico,2010,40,Number of <5 deaths,Thousands,0-5,All,NOU5DIT656,0,5,484,No
+668,Mexico,2005,47,Number of <5 deaths,Thousands,0-5,All,NOU5DIT657,0,5,484,No
+669,Mexico,2000,64,Number of <5 deaths,Thousands,0-5,All,NOU5DIT658,0,5,484,No
+670,Mexico,1995,88,Number of <5 deaths,Thousands,0-5,All,NOU5DIT659,0,5,484,No
+671,Mexico,1990,112,Number of <5 deaths,Thousands,0-5,All,NOU5DIT660,0,5,484,No
+672,Micronesia (Federated States of),2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT661,0,5,583,No
+673,Micronesia (Federated States of),2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT662,0,5,583,No
+674,Micronesia (Federated States of),2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT663,0,5,583,No
+675,Micronesia (Federated States of),2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT664,0,5,583,No
+676,Micronesia (Federated States of),1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT665,0,5,583,No
+677,Micronesia (Federated States of),1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT666,0,5,583,No
+678,Monaco,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT667,0,5,492,No
+679,Monaco,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT668,0,5,492,No
+680,Monaco,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT669,0,5,492,No
+681,Monaco,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT670,0,5,492,No
+682,Monaco,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT671,0,5,492,No
+683,Monaco,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT672,0,5,492,No
+684,Mongolia,2012,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT673,0,5,496,No
+685,Mongolia,2010,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT674,0,5,496,No
+686,Mongolia,2005,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT675,0,5,496,No
+687,Mongolia,2000,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT676,0,5,496,No
+688,Mongolia,1995,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT677,0,5,496,No
+689,Mongolia,1990,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT678,0,5,496,No
+690,Montenegro,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT679,0,5,499,No
+691,Montenegro,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT680,0,5,499,No
+692,Montenegro,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT681,0,5,499,No
+693,Montenegro,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT682,0,5,499,No
+694,Montenegro,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT683,0,5,499,No
+695,Montenegro,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT684,0,5,499,No
+696,Morocco,2012,23,Number of <5 deaths,Thousands,0-5,All,NOU5DIT685,0,5,504,No
+697,Morocco,2010,21,Number of <5 deaths,Thousands,0-5,All,NOU5DIT686,0,5,504,No
+698,Morocco,2005,25,Number of <5 deaths,Thousands,0-5,All,NOU5DIT687,0,5,504,No
+699,Morocco,2000,31,Number of <5 deaths,Thousands,0-5,All,NOU5DIT688,0,5,504,No
+700,Morocco,1995,45,Number of <5 deaths,Thousands,0-5,All,NOU5DIT689,0,5,504,No
+701,Morocco,1990,56,Number of <5 deaths,Thousands,0-5,All,NOU5DIT690,0,5,504,No
+702,Mozambique,2012,84,Number of <5 deaths,Thousands,0-5,All,NOU5DIT691,0,5,508,No
+703,Mozambique,2010,93,Number of <5 deaths,Thousands,0-5,All,NOU5DIT692,0,5,508,No
+704,Mozambique,2005,119,Number of <5 deaths,Thousands,0-5,All,NOU5DIT693,0,5,508,No
+705,Mozambique,2000,124,Number of <5 deaths,Thousands,0-5,All,NOU5DIT694,0,5,508,No
+706,Mozambique,1995,141,Number of <5 deaths,Thousands,0-5,All,NOU5DIT695,0,5,508,No
+707,Mozambique,1990,132,Number of <5 deaths,Thousands,0-5,All,NOU5DIT696,0,5,508,No
+708,Myanmar,2012,48,Number of <5 deaths,Thousands,0-5,All,NOU5DIT697,0,5,104,No
+709,Myanmar,2010,52,Number of <5 deaths,Thousands,0-5,All,NOU5DIT698,0,5,104,No
+710,Myanmar,2005,61,Number of <5 deaths,Thousands,0-5,All,NOU5DIT699,0,5,104,No
+711,Myanmar,2000,81,Number of <5 deaths,Thousands,0-5,All,NOU5DIT700,0,5,104,No
+712,Myanmar,1995,98,Number of <5 deaths,Thousands,0-5,All,NOU5DIT701,0,5,104,No
+713,Myanmar,1990,117,Number of <5 deaths,Thousands,0-5,All,NOU5DIT702,0,5,104,No
+714,Namibia,2012,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT703,0,5,516,No
+715,Namibia,2010,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT704,0,5,516,No
+716,Namibia,2005,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT705,0,5,516,No
+717,Namibia,2000,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT706,0,5,516,No
+718,Namibia,1995,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT707,0,5,516,No
+719,Namibia,1990,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT708,0,5,516,No
+720,Nauru,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT709,0,5,520,No
+721,Nauru,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT710,0,5,520,No
+722,Nauru,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT711,0,5,520,No
+723,Nauru,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT712,0,5,520,No
+724,Nauru,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT713,0,5,520,No
+725,Nauru,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT714,0,5,520,No
+726,Nepal,2012,24,Number of <5 deaths,Thousands,0-5,All,NOU5DIT715,0,5,524,No
+727,Nepal,2010,28,Number of <5 deaths,Thousands,0-5,All,NOU5DIT716,0,5,524,No
+728,Nepal,2005,44,Number of <5 deaths,Thousands,0-5,All,NOU5DIT717,0,5,524,No
+729,Nepal,2000,62,Number of <5 deaths,Thousands,0-5,All,NOU5DIT718,0,5,524,No
+730,Nepal,1995,76,Number of <5 deaths,Thousands,0-5,All,NOU5DIT719,0,5,524,No
+731,Nepal,1990,95,Number of <5 deaths,Thousands,0-5,All,NOU5DIT720,0,5,524,No
+732,Netherlands,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT721,0,5,528,No
+733,Netherlands,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT722,0,5,528,No
+734,Netherlands,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT723,0,5,528,No
+735,Netherlands,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT724,0,5,528,No
+736,Netherlands,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT725,0,5,528,No
+737,Netherlands,1990,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT726,0,5,528,No
+738,New Zealand,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT727,0,5,554,No
+739,New Zealand,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT727,0,5,554,No
+740,New Zealand,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT728,0,5,554,No
+741,New Zealand,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT728,0,5,554,No
+742,New Zealand,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT729,0,5,554,No
+743,New Zealand,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT729,0,5,554,No
+744,New Zealand,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT730,0,5,554,No
+745,New Zealand,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT730,0,5,554,No
+746,New Zealand,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT731,0,5,554,No
+747,New Zealand,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT731,0,5,554,No
+748,New Zealand,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT732,0,5,554,No
+749,New Zealand,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT732,0,5,554,No
+750,Nicaragua,2012,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT733,0,5,558,No
+751,Nicaragua,2010,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT734,0,5,558,No
+752,Nicaragua,2005,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT735,0,5,558,No
+753,Nicaragua,2000,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT736,0,5,558,No
+754,Nicaragua,1995,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT737,0,5,558,No
+755,Nicaragua,1990,10,Number of <5 deaths,Thousands,0-5,All,NOU5DIT738,0,5,558,No
+756,Niger,2012,91,Number of <5 deaths,Thousands,0-5,All,NOU5DIT739,0,5,562,No
+757,Niger,2010,94,Number of <5 deaths,Thousands,0-5,All,NOU5DIT740,0,5,562,No
+758,Niger,2005,109,Number of <5 deaths,Thousands,0-5,All,NOU5DIT741,0,5,562,No
+759,Niger,2000,123,Number of <5 deaths,Thousands,0-5,All,NOU5DIT742,0,5,562,No
+760,Niger,1995,128,Number of <5 deaths,Thousands,0-5,All,NOU5DIT743,0,5,562,No
+761,Niger,1990,129,Number of <5 deaths,Thousands,0-5,All,NOU5DIT744,0,5,562,No
+762,Nigeria,2012,827,Number of <5 deaths,Thousands,0-5,All,NOU5DIT745,0,5,566,No
+763,Nigeria,2010,839,Number of <5 deaths,Thousands,0-5,All,NOU5DIT746,0,5,566,No
+764,Nigeria,2005,888,Number of <5 deaths,Thousands,0-5,All,NOU5DIT747,0,5,566,No
+765,Nigeria,2000,934,Number of <5 deaths,Thousands,0-5,All,NOU5DIT748,0,5,566,No
+766,Nigeria,1995,924,Number of <5 deaths,Thousands,0-5,All,NOU5DIT749,0,5,566,No
+767,Nigeria,1990,849,Number of <5 deaths,Thousands,0-5,All,NOU5DIT750,0,5,566,No
+768,Niue,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT751,0,5,570,No
+769,Niue,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT752,0,5,570,No
+770,Niue,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT753,0,5,570,No
+771,Niue,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT754,0,5,570,No
+772,Niue,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT755,0,5,570,No
+773,Niue,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT756,0,5,570,No
+774,Norway,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT757,0,5,578,No
+775,Norway,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT758,0,5,578,No
+776,Norway,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT759,0,5,578,No
+777,Norway,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT760,0,5,578,No
+778,Norway,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT761,0,5,578,No
+779,Norway,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT762,0,5,578,No
+780,Oman,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT763,0,5,512,No
+781,Oman,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT764,0,5,512,No
+782,Oman,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT765,0,5,512,No
+783,Oman,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT766,0,5,512,No
+784,Oman,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT767,0,5,512,No
+785,Oman,1990,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT768,0,5,512,No
+786,Pakistan,2012,409,Number of <5 deaths,Thousands,0-5,All,NOU5DIT769,0,5,586,No
+787,Pakistan,2010,437,Number of <5 deaths,Thousands,0-5,All,NOU5DIT770,0,5,586,No
+788,Pakistan,2005,412,Number of <5 deaths,Thousands,0-5,All,NOU5DIT771,0,5,586,No
+789,Pakistan,2000,519,Number of <5 deaths,Thousands,0-5,All,NOU5DIT772,0,5,586,No
+790,Pakistan,1995,556,Number of <5 deaths,Thousands,0-5,All,NOU5DIT773,0,5,586,No
+791,Pakistan,1990,619,Number of <5 deaths,Thousands,0-5,All,NOU5DIT774,0,5,586,No
+792,Palau,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT775,0,5,585,No
+793,Palau,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT776,0,5,585,No
+794,Palau,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT777,0,5,585,No
+795,Palau,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT778,0,5,585,No
+796,Palau,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT779,0,5,585,No
+797,Palau,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT780,0,5,585,No
+798,Panama,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT781,0,5,591,No
+799,Panama,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT781,0,5,590,No
+800,Panama,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT782,0,5,591,No
+801,Panama,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT782,0,5,590,No
+802,Panama,2005,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT783,0,5,591,No
+803,Panama,2005,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT783,0,5,590,No
+804,Panama,2000,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT784,0,5,591,No
+805,Panama,2000,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT784,0,5,590,No
+806,Panama,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT785,0,5,591,No
+807,Panama,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT785,0,5,590,No
+808,Panama,1990,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT786,0,5,591,No
+809,Panama,1990,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT786,0,5,590,No
+810,Papua New Guinea,2012,13,Number of <5 deaths,Thousands,0-5,All,NOU5DIT787,0,5,598,No
+811,Papua New Guinea,2010,14,Number of <5 deaths,Thousands,0-5,All,NOU5DIT788,0,5,598,No
+812,Papua New Guinea,2005,14,Number of <5 deaths,Thousands,0-5,All,NOU5DIT789,0,5,598,No
+813,Papua New Guinea,2000,15,Number of <5 deaths,Thousands,0-5,All,NOU5DIT790,0,5,598,No
+814,Papua New Guinea,1995,13,Number of <5 deaths,Thousands,0-5,All,NOU5DIT791,0,5,598,No
+815,Papua New Guinea,1990,12,Number of <5 deaths,Thousands,0-5,All,NOU5DIT792,0,5,598,No
+816,Paraguay,2012,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT793,0,5,600,No
+817,Paraguay,2010,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT794,0,5,600,No
+818,Paraguay,2005,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT795,0,5,600,No
+819,Paraguay,2000,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT796,0,5,600,No
+820,Paraguay,1995,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT797,0,5,600,No
+821,Paraguay,1990,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT798,0,5,600,No
+822,Peru,2012,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT799,0,5,604,No
+823,Peru,2010,12,Number of <5 deaths,Thousands,0-5,All,NOU5DIT800,0,5,604,No
+824,Peru,2005,17,Number of <5 deaths,Thousands,0-5,All,NOU5DIT801,0,5,604,No
+825,Peru,2000,25,Number of <5 deaths,Thousands,0-5,All,NOU5DIT802,0,5,604,No
+826,Peru,1995,37,Number of <5 deaths,Thousands,0-5,All,NOU5DIT803,0,5,604,No
+827,Peru,1990,51,Number of <5 deaths,Thousands,0-5,All,NOU5DIT804,0,5,604,No
+828,Philippines,2012,69,Number of <5 deaths,Thousands,0-5,All,NOU5DIT805,0,5,608,No
+829,Philippines,2010,71,Number of <5 deaths,Thousands,0-5,All,NOU5DIT806,0,5,608,No
+830,Philippines,2005,86,Number of <5 deaths,Thousands,0-5,All,NOU5DIT807,0,5,608,No
+831,Philippines,2000,91,Number of <5 deaths,Thousands,0-5,All,NOU5DIT808,0,5,608,No
+832,Philippines,1995,97,Number of <5 deaths,Thousands,0-5,All,NOU5DIT809,0,5,608,No
+833,Philippines,1990,119,Number of <5 deaths,Thousands,0-5,All,NOU5DIT810,0,5,608,No
+834,Poland,2012,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT811,0,5,616,No
+835,Poland,2010,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT812,0,5,616,No
+836,Poland,2005,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT813,0,5,616,No
+837,Poland,2000,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT814,0,5,616,No
+838,Poland,1995,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT815,0,5,616,No
+839,Poland,1990,9,Number of <5 deaths,Thousands,0-5,All,NOU5DIT816,0,5,616,No
+840,Portugal,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT817,0,5,620,No
+841,Portugal,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT818,0,5,620,No
+842,Portugal,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT819,0,5,620,No
+843,Portugal,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT820,0,5,620,No
+844,Portugal,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT821,0,5,620,No
+845,Portugal,1990,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT822,0,5,620,No
+846,Qatar,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT823,0,5,634,No
+847,Qatar,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT824,0,5,634,No
+848,Qatar,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT825,0,5,634,No
+849,Qatar,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT826,0,5,634,No
+850,Qatar,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT827,0,5,634,No
+851,Qatar,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT828,0,5,634,No
+852,Republic of Korea,2012,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT829,0,5,410,No
+853,Republic of Korea,2010,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT830,0,5,410,No
+854,Republic of Korea,2005,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT831,0,5,410,No
+855,Republic of Korea,2000,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT832,0,5,410,No
+856,Republic of Korea,1995,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT833,0,5,410,No
+857,Republic of Korea,1990,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT834,0,5,410,No
+858,Republic of Moldova,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT835,0,5,498,No
+859,Republic of Moldova,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT836,0,5,498,No
+860,Republic of Moldova,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT837,0,5,498,No
+861,Republic of Moldova,2000,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT838,0,5,498,No
+862,Republic of Moldova,1995,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT839,0,5,498,No
+863,Republic of Moldova,1990,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT840,0,5,498,No
+864,Romania,2012,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT841,0,5,642,No
+865,Romania,2010,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT842,0,5,642,No
+866,Romania,2005,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT843,0,5,642,No
+867,Romania,2000,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT844,0,5,642,No
+868,Romania,1995,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT845,0,5,642,No
+869,Romania,1990,16,Number of <5 deaths,Thousands,0-5,All,NOU5DIT846,0,5,642,No
+870,Russian Federation,2012,17,Number of <5 deaths,Thousands,0-5,All,NOU5DIT847,0,5,643,No
+871,Russian Federation,2010,19,Number of <5 deaths,Thousands,0-5,All,NOU5DIT848,0,5,643,No
+872,Russian Federation,2005,26,Number of <5 deaths,Thousands,0-5,All,NOU5DIT849,0,5,643,No
+873,Russian Federation,2000,34,Number of <5 deaths,Thousands,0-5,All,NOU5DIT850,0,5,643,No
+874,Russian Federation,1995,31,Number of <5 deaths,Thousands,0-5,All,NOU5DIT851,0,5,643,No
+875,Russian Federation,1990,59,Number of <5 deaths,Thousands,0-5,All,NOU5DIT852,0,5,643,No
+876,Rwanda,2012,24,Number of <5 deaths,Thousands,0-5,All,NOU5DIT853,0,5,646,No
+877,Rwanda,2010,27,Number of <5 deaths,Thousands,0-5,All,NOU5DIT854,0,5,646,No
+878,Rwanda,2005,31,Number of <5 deaths,Thousands,0-5,All,NOU5DIT855,0,5,646,No
+879,Rwanda,2000,79,Number of <5 deaths,Thousands,0-5,All,NOU5DIT856,0,5,646,No
+880,Rwanda,1995,37,Number of <5 deaths,Thousands,0-5,All,NOU5DIT857,0,5,646,No
+881,Rwanda,1990,49,Number of <5 deaths,Thousands,0-5,All,NOU5DIT858,0,5,646,No
+882,Saint Kitts and Nevis,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT859,0,5,659,No
+883,Saint Kitts and Nevis,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT860,0,5,659,No
+884,Saint Kitts and Nevis,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT861,0,5,659,No
+885,Saint Kitts and Nevis,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT862,0,5,659,No
+886,Saint Kitts and Nevis,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT863,0,5,659,No
+887,Saint Kitts and Nevis,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT864,0,5,659,No
+888,Saint Lucia,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT865,0,5,662,No
+889,Saint Lucia,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT866,0,5,662,No
+890,Saint Lucia,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT867,0,5,662,No
+891,Saint Lucia,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT868,0,5,662,No
+892,Saint Lucia,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT869,0,5,662,No
+893,Saint Lucia,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT870,0,5,662,No
+894,Saint Vincent and the Grenadines,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT871,0,5,670,No
+895,Saint Vincent and the Grenadines,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT872,0,5,670,No
+896,Saint Vincent and the Grenadines,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT873,0,5,670,No
+897,Saint Vincent and the Grenadines,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT874,0,5,670,No
+898,Saint Vincent and the Grenadines,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT875,0,5,670,No
+899,Saint Vincent and the Grenadines,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT876,0,5,670,No
+900,Samoa,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT877,0,5,882,No
+901,Samoa,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT878,0,5,882,No
+902,Samoa,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT879,0,5,882,No
+903,Samoa,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT880,0,5,882,No
+904,Samoa,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT881,0,5,882,No
+905,Samoa,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT882,0,5,882,No
+906,San Marino,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT883,0,5,674,No
+907,San Marino,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT884,0,5,674,No
+908,San Marino,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT885,0,5,674,No
+909,San Marino,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT886,0,5,674,No
+910,San Marino,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT887,0,5,674,No
+911,San Marino,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT888,0,5,674,No
+912,Sao Tome and Principe,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT889,0,5,678,No
+913,Sao Tome and Principe,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT890,0,5,678,No
+914,Sao Tome and Principe,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT891,0,5,678,No
+915,Sao Tome and Principe,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT892,0,5,678,No
+916,Sao Tome and Principe,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT893,0,5,678,No
+917,Sao Tome and Principe,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT894,0,5,678,No
+918,Saudi Arabia,2012,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT895,0,5,682,No
+919,Saudi Arabia,2010,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT896,0,5,682,No
+920,Saudi Arabia,2005,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT897,0,5,682,No
+921,Saudi Arabia,2000,13,Number of <5 deaths,Thousands,0-5,All,NOU5DIT898,0,5,682,No
+922,Saudi Arabia,1995,18,Number of <5 deaths,Thousands,0-5,All,NOU5DIT899,0,5,682,No
+923,Saudi Arabia,1990,26,Number of <5 deaths,Thousands,0-5,All,NOU5DIT900,0,5,682,No
+924,Senegal,2012,30,Number of <5 deaths,Thousands,0-5,All,NOU5DIT901,0,5,686,No
+925,Senegal,2010,32,Number of <5 deaths,Thousands,0-5,All,NOU5DIT902,0,5,686,No
+926,Senegal,2005,42,Number of <5 deaths,Thousands,0-5,All,NOU5DIT903,0,5,686,No
+927,Senegal,2000,52,Number of <5 deaths,Thousands,0-5,All,NOU5DIT904,0,5,686,No
+928,Senegal,1995,50,Number of <5 deaths,Thousands,0-5,All,NOU5DIT905,0,5,686,No
+929,Senegal,1990,44,Number of <5 deaths,Thousands,0-5,All,NOU5DIT906,0,5,686,No
+930,Serbia,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT907,0,5,688,No
+931,Serbia,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT908,0,5,688,No
+932,Serbia,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT909,0,5,688,No
+933,Serbia,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT910,0,5,688,No
+934,Serbia,1995,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT911,0,5,688,No
+935,Serbia,1990,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT912,0,5,688,No
+936,Seychelles,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT913,0,5,690,No
+937,Seychelles,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT914,0,5,690,No
+938,Seychelles,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT915,0,5,690,No
+939,Seychelles,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT916,0,5,690,No
+940,Seychelles,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT917,0,5,690,No
+941,Seychelles,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT918,0,5,690,No
+942,Sierra Leone,2012,39,Number of <5 deaths,Thousands,0-5,All,NOU5DIT919,0,5,694,No
+943,Sierra Leone,2010,41,Number of <5 deaths,Thousands,0-5,All,NOU5DIT920,0,5,694,No
+944,Sierra Leone,2005,44,Number of <5 deaths,Thousands,0-5,All,NOU5DIT921,0,5,694,No
+945,Sierra Leone,2000,41,Number of <5 deaths,Thousands,0-5,All,NOU5DIT922,0,5,694,No
+946,Sierra Leone,1995,40,Number of <5 deaths,Thousands,0-5,All,NOU5DIT923,0,5,694,No
+947,Sierra Leone,1990,44,Number of <5 deaths,Thousands,0-5,All,NOU5DIT924,0,5,694,No
+948,Singapore,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT925,0,5,702,No
+949,Singapore,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT926,0,5,702,No
+950,Singapore,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT927,0,5,702,No
+951,Singapore,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT928,0,5,702,No
+952,Singapore,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT929,0,5,702,No
+953,Singapore,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT930,0,5,702,No
+954,Slovakia,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT931,0,5,703,No
+955,Slovakia,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT932,0,5,703,No
+956,Slovakia,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT933,0,5,703,No
+957,Slovakia,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT934,0,5,703,No
+958,Slovakia,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT935,0,5,703,No
+959,Slovakia,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT936,0,5,703,No
+960,Slovenia,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT937,0,5,705,No
+961,Slovenia,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT938,0,5,705,No
+962,Slovenia,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT939,0,5,705,No
+963,Slovenia,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT940,0,5,705,No
+964,Slovenia,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT941,0,5,705,No
+965,Slovenia,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT942,0,5,705,No
+966,Solomon Islands,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT943,0,5,90,No
+967,Solomon Islands,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT944,0,5,90,No
+968,Solomon Islands,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT945,0,5,90,No
+969,Solomon Islands,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT946,0,5,90,No
+970,Solomon Islands,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT947,0,5,90,No
+971,Solomon Islands,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT948,0,5,90,No
+972,Somalia,2012,65,Number of <5 deaths,Thousands,0-5,All,NOU5DIT949,0,5,706,No
+973,Somalia,2010,66,Number of <5 deaths,Thousands,0-5,All,NOU5DIT950,0,5,706,No
+974,Somalia,2005,64,Number of <5 deaths,Thousands,0-5,All,NOU5DIT951,0,5,706,No
+975,Somalia,2000,59,Number of <5 deaths,Thousands,0-5,All,NOU5DIT952,0,5,706,No
+976,Somalia,1995,49,Number of <5 deaths,Thousands,0-5,All,NOU5DIT953,0,5,706,No
+977,Somalia,1990,50,Number of <5 deaths,Thousands,0-5,All,NOU5DIT954,0,5,706,No
+978,South Africa,2012,50,Number of <5 deaths,Thousands,0-5,All,NOU5DIT955,0,5,710,No
+979,South Africa,2010,62,Number of <5 deaths,Thousands,0-5,All,NOU5DIT956,0,5,710,No
+980,South Africa,2005,89,Number of <5 deaths,Thousands,0-5,All,NOU5DIT957,0,5,710,No
+981,South Africa,2000,74,Number of <5 deaths,Thousands,0-5,All,NOU5DIT958,0,5,710,No
+982,South Africa,1995,62,Number of <5 deaths,Thousands,0-5,All,NOU5DIT959,0,5,710,No
+983,South Africa,1990,65,Number of <5 deaths,Thousands,0-5,All,NOU5DIT960,0,5,710,No
+984,South Sudan,2012,40,Number of <5 deaths,Thousands,0-5,All,NOU5DIT961,0,5,728,No
+985,South Sudan,2010,40,Number of <5 deaths,Thousands,0-5,All,NOU5DIT962,0,5,728,No
+986,South Sudan,2005,43,Number of <5 deaths,Thousands,0-5,All,NOU5DIT963,0,5,728,No
+987,South Sudan,2000,49,Number of <5 deaths,Thousands,0-5,All,NOU5DIT964,0,5,728,No
+988,South Sudan,1995,52,Number of <5 deaths,Thousands,0-5,All,NOU5DIT965,0,5,728,No
+989,South Sudan,1990,66,Number of <5 deaths,Thousands,0-5,All,NOU5DIT966,0,5,728,No
+990,Spain,2012,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT967,0,5,724,No
+991,Spain,2010,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT968,0,5,724,No
+992,Spain,2005,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT969,0,5,724,No
+993,Spain,2000,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT970,0,5,724,No
+994,Spain,1995,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT971,0,5,724,No
+995,Spain,1990,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT972,0,5,724,No
+996,Sri Lanka,2012,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT973,0,5,144,No
+997,Sri Lanka,2010,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT974,0,5,144,No
+998,Sri Lanka,2005,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT975,0,5,144,No
+999,Sri Lanka,2000,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT976,0,5,144,No
+1000,Sri Lanka,1995,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT977,0,5,144,No
+1001,Sri Lanka,1990,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT978,0,5,144,No
+1002,Sudan,2012,89,Number of <5 deaths,Thousands,0-5,All,NOU5DIT979,0,5,729,No
+1003,Sudan,2012,89,Number of <5 deaths,Thousands,0-5,All,NOU5DIT979,0,5,736,No
+1004,Sudan,2010,93,Number of <5 deaths,Thousands,0-5,All,NOU5DIT980,0,5,729,No
+1005,Sudan,2010,93,Number of <5 deaths,Thousands,0-5,All,NOU5DIT980,0,5,736,No
+1006,Sudan,2005,104,Number of <5 deaths,Thousands,0-5,All,NOU5DIT981,0,5,729,No
+1007,Sudan,2005,104,Number of <5 deaths,Thousands,0-5,All,NOU5DIT981,0,5,736,No
+1008,Sudan,2000,111,Number of <5 deaths,Thousands,0-5,All,NOU5DIT982,0,5,729,No
+1009,Sudan,2000,111,Number of <5 deaths,Thousands,0-5,All,NOU5DIT982,0,5,736,No
+1010,Sudan,1995,115,Number of <5 deaths,Thousands,0-5,All,NOU5DIT983,0,5,729,No
+1011,Sudan,1995,115,Number of <5 deaths,Thousands,0-5,All,NOU5DIT983,0,5,736,No
+1012,Sudan,1990,101,Number of <5 deaths,Thousands,0-5,All,NOU5DIT984,0,5,729,No
+1013,Sudan,1990,101,Number of <5 deaths,Thousands,0-5,All,NOU5DIT984,0,5,736,No
+1014,Suriname,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT985,0,5,740,No
+1015,Suriname,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT986,0,5,740,No
+1016,Suriname,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT987,0,5,740,No
+1017,Suriname,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT988,0,5,740,No
+1018,Suriname,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT989,0,5,740,No
+1019,Suriname,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT990,0,5,740,No
+1020,Swaziland,2012,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT991,0,5,748,No
+1021,Swaziland,2010,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT992,0,5,748,No
+1022,Swaziland,2005,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT993,0,5,748,No
+1023,Swaziland,2000,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT994,0,5,748,No
+1024,Swaziland,1995,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT995,0,5,748,No
+1025,Swaziland,1990,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT996,0,5,748,No
+1026,Sweden,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT997,0,5,752,No
+1027,Sweden,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT998,0,5,752,No
+1028,Sweden,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT999,0,5,752,No
+1029,Sweden,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1000,0,5,752,No
+1030,Sweden,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1001,0,5,752,No
+1031,Sweden,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1002,0,5,752,No
+1032,Switzerland,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1003,0,5,756,No
+1033,Switzerland,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1003,0,5,756,No
+1034,Switzerland,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1004,0,5,756,No
+1035,Switzerland,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1004,0,5,756,No
+1036,Switzerland,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1005,0,5,756,No
+1037,Switzerland,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1005,0,5,756,No
+1038,Switzerland,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1006,0,5,756,No
+1039,Switzerland,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1006,0,5,756,No
+1040,Switzerland,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1007,0,5,756,No
+1041,Switzerland,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1007,0,5,756,No
+1042,Switzerland,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1008,0,5,756,No
+1043,Switzerland,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1008,0,5,756,No
+1044,Syrian Arab Republic,2012,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1009,0,5,760,No
+1045,Syrian Arab Republic,2010,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1010,0,5,760,No
+1046,Syrian Arab Republic,2005,9,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1011,0,5,760,No
+1047,Syrian Arab Republic,2000,12,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1012,0,5,760,No
+1048,Syrian Arab Republic,1995,13,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1013,0,5,760,No
+1049,Syrian Arab Republic,1990,17,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1014,0,5,760,No
+1050,Tajikistan,2012,15,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1015,0,5,762,No
+1051,Tajikistan,2010,15,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1016,0,5,762,No
+1052,Tajikistan,2005,13,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1017,0,5,762,No
+1053,Tajikistan,2000,17,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1018,0,5,762,No
+1054,Tajikistan,1995,22,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1019,0,5,762,No
+1055,Tajikistan,1990,23,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1020,0,5,762,No
+1056,Thailand,2012,9,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1021,0,5,764,No
+1057,Thailand,2010,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1022,0,5,764,No
+1058,Thailand,2005,15,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1023,0,5,764,No
+1059,Thailand,2000,21,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1024,0,5,764,No
+1060,Thailand,1995,30,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1025,0,5,764,No
+1061,Thailand,1990,42,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1026,0,5,764,No
+1062,The former Yugoslav Republic of Macedonia,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1027,0,5,807,No
+1063,The former Yugoslav Republic of Macedonia,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1028,0,5,807,No
+1064,The former Yugoslav Republic of Macedonia,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1029,0,5,807,No
+1065,The former Yugoslav Republic of Macedonia,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1030,0,5,807,No
+1066,The former Yugoslav Republic of Macedonia,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1031,0,5,807,No
+1067,The former Yugoslav Republic of Macedonia,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1032,0,5,807,No
+1068,Timor-Leste,2012,2,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1033,0,5,626,No
+1069,Timor-Leste,2010,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1034,0,5,626,No
+1070,Timor-Leste,2005,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1035,0,5,626,No
+1071,Timor-Leste,2000,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1036,0,5,626,No
+1072,Timor-Leste,1995,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1037,0,5,626,No
+1073,Timor-Leste,1990,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1038,0,5,626,No
+1074,Togo,2012,22,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1039,0,5,768,No
+1075,Togo,2010,23,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1040,0,5,768,No
+1076,Togo,2005,23,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1041,0,5,768,No
+1077,Togo,2000,22,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1042,0,5,768,No
+1078,Togo,1995,22,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1043,0,5,768,No
+1079,Togo,1990,22,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1044,0,5,768,No
+1080,Tonga,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1045,0,5,776,No
+1081,Tonga,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1046,0,5,776,No
+1082,Tonga,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1047,0,5,776,No
+1083,Tonga,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1048,0,5,776,No
+1084,Tonga,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1049,0,5,776,No
+1085,Tonga,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1050,0,5,776,No
+1086,Trinidad and Tobago,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1051,0,5,780,No
+1087,Trinidad and Tobago,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1052,0,5,780,No
+1088,Trinidad and Tobago,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1053,0,5,780,No
+1089,Trinidad and Tobago,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1054,0,5,780,No
+1090,Trinidad and Tobago,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1055,0,5,780,No
+1091,Trinidad and Tobago,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1056,0,5,780,No
+1092,Tunisia,2012,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1057,0,5,788,No
+1093,Tunisia,2010,3,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1058,0,5,788,No
+1094,Tunisia,2005,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1059,0,5,788,No
+1095,Tunisia,2000,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1060,0,5,788,No
+1096,Tunisia,1995,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1061,0,5,788,No
+1097,Tunisia,1990,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1062,0,5,788,No
+1098,Turkey,2012,18,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1063,0,5,792,No
+1099,Turkey,2010,20,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1064,0,5,792,No
+1100,Turkey,2005,31,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1065,0,5,792,No
+1101,Turkey,2000,52,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1066,0,5,792,No
+1102,Turkey,1995,74,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1067,0,5,792,No
+1103,Turkey,1990,102,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1068,0,5,792,No
+1104,Turkmenistan,2012,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1069,0,5,795,No
+1105,Turkmenistan,2010,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1070,0,5,795,No
+1106,Turkmenistan,2005,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1071,0,5,795,No
+1107,Turkmenistan,2000,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1072,0,5,795,No
+1108,Turkmenistan,1995,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1073,0,5,795,No
+1109,Turkmenistan,1990,12,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1074,0,5,795,No
+1110,Tuvalu,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1075,0,5,798,No
+1111,Tuvalu,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1076,0,5,798,No
+1112,Tuvalu,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1077,0,5,798,No
+1113,Tuvalu,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1078,0,5,798,No
+1114,Tuvalu,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1079,0,5,798,No
+1115,Tuvalu,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1080,0,5,798,No
+1116,Uganda,2012,103,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1081,0,5,800,No
+1117,Uganda,2010,112,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1082,0,5,800,No
+1118,Uganda,2005,139,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1083,0,5,800,No
+1119,Uganda,2000,162,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1084,0,5,800,No
+1120,Uganda,1995,160,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1085,0,5,800,No
+1121,Uganda,1990,145,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1086,0,5,800,No
+1122,Ukraine,2012,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1087,0,5,804,No
+1123,Ukraine,2010,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1088,0,5,804,No
+1124,Ukraine,2005,6,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1089,0,5,804,No
+1125,Ukraine,2000,8,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1090,0,5,804,No
+1126,Ukraine,1995,10,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1091,0,5,804,No
+1127,Ukraine,1990,14,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1092,0,5,804,No
+1128,United Arab Emirates,2012,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1093,0,5,784,No
+1129,United Arab Emirates,2010,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1094,0,5,784,No
+1130,United Arab Emirates,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1095,0,5,784,No
+1131,United Arab Emirates,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1096,0,5,784,No
+1132,United Arab Emirates,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1097,0,5,784,No
+1133,United Arab Emirates,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1098,0,5,784,No
+1134,United Kingdom,2012,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1099,0,5,826,No
+1135,United Kingdom,2010,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1100,0,5,826,No
+1136,United Kingdom,2005,4,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1101,0,5,826,No
+1137,United Kingdom,2000,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1102,0,5,826,No
+1138,United Kingdom,1995,5,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1103,0,5,826,No
+1139,United Kingdom,1990,7,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1104,0,5,826,No
+1140,United Republic of Tanzania,2012,98,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1105,0,5,834,No
+1141,United Republic of Tanzania,2010,108,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1106,0,5,834,No
+1142,United Republic of Tanzania,2005,137,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1107,0,5,834,No
+1143,United Republic of Tanzania,2000,175,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1108,0,5,834,No
+1144,United Republic of Tanzania,1995,193,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1109,0,5,834,No
+1145,United Republic of Tanzania,1990,179,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1110,0,5,834,No
+1146,United States of America,2012,29,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1111,0,5,840,No
+1147,United States of America,2010,30,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1112,0,5,840,No
+1148,United States of America,2005,34,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1113,0,5,840,No
+1149,United States of America,2000,32,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1114,0,5,840,No
+1150,United States of America,1995,38,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1115,0,5,840,No
+1151,United States of America,1990,44,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1116,0,5,840,No
+1152,Uruguay,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1117,0,5,858,No
+1153,Uruguay,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1118,0,5,858,No
+1154,Uruguay,2005,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1119,0,5,858,No
+1155,Uruguay,2000,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1120,0,5,858,No
+1156,Uruguay,1995,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1121,0,5,858,No
+1157,Uruguay,1990,1,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1122,0,5,858,No
+1158,Uzbekistan,2012,25,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1123,0,5,860,No
+1159,Uzbekistan,2010,27,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1124,0,5,860,No
+1160,Uzbekistan,2005,28,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1125,0,5,860,No
+1161,Uzbekistan,2000,34,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1126,0,5,860,No
+1162,Uzbekistan,1995,47,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1127,0,5,860,No
+1163,Uzbekistan,1990,54,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1128,0,5,860,No
+1164,Vanuatu,2012,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1129,0,5,548,No
+1165,Vanuatu,2010,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1130,0,5,548,No
+1166,Vanuatu,2005,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1131,0,5,548,No
+1167,Vanuatu,2000,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1132,0,5,548,No
+1168,Vanuatu,1995,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1133,0,5,548,No
+1169,Vanuatu,1990,0,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1134,0,5,548,No
+1170,Venezuela (Bolivarian Republic of),2012,9,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1135,0,5,862,No
+1171,Venezuela (Bolivarian Republic of),2010,10,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1136,0,5,862,No
+1172,Venezuela (Bolivarian Republic of),2005,11,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1137,0,5,862,No
+1173,Venezuela (Bolivarian Republic of),2000,12,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1138,0,5,862,No
+1174,Venezuela (Bolivarian Republic of),1995,14,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1139,0,5,862,No
+1175,Venezuela (Bolivarian Republic of),1990,17,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1140,0,5,862,No
+1176,Viet Nam,2012,33,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1141,0,5,704,No
+1177,Viet Nam,2010,35,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1142,0,5,704,No
+1178,Viet Nam,2005,41,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1143,0,5,704,No
+1179,Viet Nam,2000,38,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1144,0,5,704,No
+1180,Viet Nam,1995,75,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1145,0,5,704,No
+1181,Viet Nam,1990,99,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1146,0,5,704,No
+1182,Yemen,2012,43,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1147,0,5,887,No
+1183,Yemen,2012,43,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1147,0,5,886,No
+1184,Yemen,2010,45,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1148,0,5,887,No
+1185,Yemen,2010,45,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1148,0,5,886,No
+1186,Yemen,2005,55,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1149,0,5,887,No
+1187,Yemen,2005,55,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1149,0,5,886,No
+1188,Yemen,2000,64,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1150,0,5,887,No
+1189,Yemen,2000,64,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1150,0,5,886,No
+1190,Yemen,1995,76,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1151,0,5,887,No
+1191,Yemen,1995,76,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1151,0,5,886,No
+1192,Yemen,1990,71,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1152,0,5,887,No
+1193,Yemen,1990,71,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1152,0,5,886,No
+1194,Zambia,2012,50,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1153,0,5,894,No
+1195,Zambia,2010,53,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1154,0,5,894,No
+1196,Zambia,2005,61,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1155,0,5,894,No
+1197,Zambia,2000,74,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1156,0,5,894,No
+1198,Zambia,1995,70,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1157,0,5,894,No
+1199,Zambia,1990,63,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1158,0,5,894,No
+1200,Zimbabwe,2012,39,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1159,0,5,716,No
+1201,Zimbabwe,2010,41,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1160,0,5,716,No
+1202,Zimbabwe,2005,38,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1161,0,5,716,No
+1203,Zimbabwe,2000,40,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1162,0,5,716,No
+1204,Zimbabwe,1995,37,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1163,0,5,716,No
+1205,Zimbabwe,1990,28,Number of <5 deaths,Thousands,0-5,All,NOU5DIT1164,0,5,716,No

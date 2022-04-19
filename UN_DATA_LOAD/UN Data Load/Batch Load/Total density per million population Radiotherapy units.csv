@@ -1,0 +1,351 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU1,0,130,4,No
+1,Afghanistan,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU2,0,130,4,No
+2,Albania,2013,0.32,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU3,0,130,8,No
+3,Albania,2010,0.31,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU4,0,130,8,No
+4,Algeria,2013,0.43,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU5,0,130,12,No
+5,Algeria,2010,0.48,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU6,0,130,12,No
+6,Angola,2013,0.05,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU7,0,130,24,No
+7,Angola,2010,0.05,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU8,0,130,24,No
+8,Argentina,2013,2.75,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU9,0,130,32,No
+9,Argentina,2010,2.82,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU10,0,130,32,No
+10,Armenia,2013,1.34,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU11,0,130,51,No
+11,Armenia,2010,1.29,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU12,0,130,51,No
+12,Australia,2013,4.03,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU13,0,130,36,No
+13,Australia,2010,4.22,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU14,0,130,36,No
+14,Austria,2013,5.41,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU15,0,130,40,No
+15,Austria,2010,5.48,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU16,0,130,40,No
+16,Azerbaijan,2013,1.59,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU17,0,130,31,No
+17,Azerbaijan,2010,1.63,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU18,0,130,31,No
+18,Bahamas,2013,2.65,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU19,0,130,44,No
+19,Bahamas,2010,2.92,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU20,0,130,44,No
+20,Bangladesh,2013,0.12,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU21,0,130,50,No
+21,Bangladesh,2010,0.13,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU22,0,130,50,No
+22,Barbados,2013,3.51,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU23,0,130,52,No
+23,Barbados,2010,3.66,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU24,0,130,52,No
+24,Belarus,2013,3.1,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU25,0,130,112,No
+25,Belarus,2010,3.02,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU26,0,130,112,No
+26,Belgium,2013,8.28,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU27,0,130,56,No
+27,Belgium,2010,8.96,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU28,0,130,56,No
+28,Belize,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU29,0,130,84,No
+29,Belize,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU30,0,130,84,No
+30,Benin,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU31,0,130,204,No
+31,Benin,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU32,0,130,204,No
+32,Bhutan,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU33,0,130,64,No
+33,Bhutan,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU34,0,130,64,No
+34,Bolivia (Plurinational State of),2013,0.56,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU35,0,130,68,No
+35,Bolivia (Plurinational State of),2010,0.6,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU36,0,130,68,No
+36,Bosnia and Herzegovina,2013,2.87,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU37,0,130,70,No
+37,Bosnia and Herzegovina,2010,2.39,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU38,0,130,70,No
+38,Botswana,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU39,0,130,72,No
+39,Botswana,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU40,0,130,72,No
+40,Brazil,2013,1.74,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU41,0,130,76,No
+41,Brazil,2010,1.76,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU42,0,130,76,No
+42,Bulgaria,2013,2.08,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU43,0,130,100,No
+43,Bulgaria,2010,2.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU44,0,130,100,No
+44,Burkina Faso,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU45,0,130,854,No
+45,Burkina Faso,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU46,0,130,854,No
+46,Burundi,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU47,0,130,108,No
+47,Burundi,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU48,0,130,108,No
+48,Cabo Verde,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU49,0,130,132,No
+49,Cabo Verde,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU50,0,130,132,No
+50,Cambodia,2013,0.07,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU51,0,130,116,No
+51,Cambodia,2010,0.07,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU52,0,130,116,No
+52,Cameroon,2013,0.13,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU53,0,130,120,No
+53,Cameroon,2010,0.15,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU54,0,130,120,No
+54,Canada,2013,8.07,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU55,0,130,124,No
+55,Canada,2010,8.73,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU56,0,130,124,No
+56,Central African Republic,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU57,0,130,140,No
+57,Central African Republic,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU58,0,130,140,No
+58,Chile,2013,0.91,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU59,0,130,152,No
+59,Chile,2010,0.93,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU60,0,130,152,No
+60,China,2013,1.1,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU61,0,130,156,No
+61,China,2010,1.15,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU62,0,130,156,No
+62,Colombia,2013,1.45,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU63,0,130,170,No
+63,Colombia,2010,1.38,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU64,0,130,170,No
+64,Comoros,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU65,0,130,174,No
+65,Comoros,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU66,0,130,174,No
+66,Congo,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU67,0,130,178,No
+67,Costa Rica,2013,2.26,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU68,0,130,188,No
+68,Costa Rica,2010,1.72,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU69,0,130,188,No
+69,Côte dIvoire,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU70,0,130,384,No
+70,Côte dIvoire,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU71,0,130,384,No
+71,Croatia,2013,3.03,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU72,0,130,191,No
+72,Croatia,2010,2.95,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU73,0,130,191,No
+73,Cuba,2013,1.15,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU74,0,130,192,No
+74,Cuba,2010,1.15,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU75,0,130,192,No
+75,Cyprus,2013,2.63,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU76,0,130,196,No
+76,Cyprus,2010,2.72,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU77,0,130,196,No
+77,Czech Republic,2013,4.86,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU78,0,130,203,No
+78,Czech Republic,2010,4.96,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU79,0,130,203,No
+79,Democratic Peoples Republic of Korea,2013,0.16,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU80,0,130,408,No
+80,Democratic Peoples Republic of Korea,2010,0.16,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU81,0,130,408,No
+81,Democratic Republic of the Congo,2013,0.01,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU82,0,130,180,No
+82,Democratic Republic of the Congo,2010,0.02,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU83,0,130,180,No
+83,Denmark,2013,9.61,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU84,0,130,208,No
+84,Denmark,2010,9.73,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU85,0,130,208,No
+85,Dominica,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU86,0,130,212,No
+86,Dominica,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU87,0,130,212,No
+87,Dominican Republic,2013,1.25,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU88,0,130,214,No
+88,Dominican Republic,2010,1.01,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU89,0,130,214,No
+89,Ecuador,2013,0.13,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU90,0,130,218,No
+90,Ecuador,2010,0.14,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU91,0,130,218,No
+91,Egypt,2013,0.79,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU92,0,130,818,No
+92,Egypt,2010,0.7,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU93,0,130,818,No
+93,El Salvador,2013,1.1,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU94,0,130,222,No
+94,El Salvador,2010,0.81,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU95,0,130,222,No
+95,Eritrea,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU96,0,130,232,No
+96,Eritrea,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU97,0,130,232,No
+97,Estonia,2013,2.33,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU98,0,130,233,No
+98,Estonia,2010,2.24,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU99,0,130,233,No
+99,Ethiopia,2013,0.02,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU100,0,130,231,No
+100,Ethiopia,2013,0.02,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU100,0,130,230,No
+101,Ethiopia,2010,0.02,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU101,0,130,231,No
+102,Ethiopia,2010,0.02,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU101,0,130,230,No
+103,Fiji,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU102,0,130,242,No
+104,Fiji,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU103,0,130,242,No
+105,Finland,2013,7.37,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU104,0,130,246,No
+106,Finland,2010,7.46,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU105,0,130,246,No
+107,France,2013,7.51,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU106,0,130,250,No
+108,France,2010,6.78,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU107,0,130,250,No
+109,Gabon,2013,0.6,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU108,0,130,266,No
+110,Gabon,2010,0.66,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU109,0,130,266,No
+111,Gambia,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU110,0,130,270,No
+112,Gambia,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU111,0,130,270,No
+113,Georgia,2013,1.38,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU112,0,130,268,No
+114,Georgia,2010,1.38,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU113,0,130,268,No
+115,Germany,2013,6.44,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU114,0,130,276,No
+116,Germany,2010,6.43,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU115,0,130,276,No
+117,Ghana,2013,0.08,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU116,0,130,288,No
+118,Ghana,2010,0.08,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU117,0,130,288,No
+119,Greece,2013,4.31,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU118,0,130,300,No
+120,Greece,2010,4.23,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU119,0,130,300,No
+121,Grenada,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU120,0,130,308,No
+122,Grenada,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU121,0,130,308,No
+123,Guatemala,2013,0.65,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU122,0,130,320,No
+124,Guatemala,2010,0.83,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU123,0,130,320,No
+125,Guinea,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU124,0,130,324,No
+126,Guinea,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU125,0,130,324,No
+127,Guinea-Bissau,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU126,0,130,624,No
+128,Guinea-Bissau,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU127,0,130,624,No
+129,Guyana,2013,1.25,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU128,0,130,328,No
+130,Guyana,2010,1.33,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU129,0,130,328,No
+131,Haiti,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU130,0,130,332,No
+132,Honduras,2013,0.74,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU131,0,130,340,No
+133,Honduras,2010,0.79,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU132,0,130,340,No
+134,Hungary,2013,1.81,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU133,0,130,348,No
+135,Hungary,2010,1.8,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU134,0,130,348,No
+136,Iceland,2013,6.07,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU135,0,130,352,No
+137,Iceland,2010,6.25,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU136,0,130,352,No
+138,India,2013,0.41,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU137,0,130,356,No
+139,India,2010,0.41,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU138,0,130,356,No
+140,Indonesia,2013,0.15,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU139,0,130,360,No
+141,Indonesia,2010,0.13,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU140,0,130,360,No
+142,Iran (Islamic Republic of),2013,0.85,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU141,0,130,364,No
+143,Iran (Islamic Republic of),2010,0.39,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU142,0,130,364,No
+144,Iraq,2013,0.18,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU143,0,130,368,No
+145,Iraq,2010,0.19,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU144,0,130,368,No
+146,Ireland,2013,3.89,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU145,0,130,372,No
+147,Ireland,2010,4.03,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU146,0,130,372,No
+148,Israel,2013,3.36,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU147,0,130,376,No
+149,Israel,2010,3.5,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU148,0,130,376,No
+150,Italy,2013,6.41,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU149,0,130,380,No
+151,Italy,2010,6.54,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU150,0,130,380,No
+152,Jamaica,2013,1.08,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU151,0,130,388,No
+153,Jamaica,2010,1.09,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU152,0,130,388,No
+154,Japan,2013,7.17,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU153,0,130,392,No
+155,Japan,2013,7.17,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU153,0,130,392,No
+156,Japan,2010,7.19,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU154,0,130,392,No
+157,Japan,2010,7.19,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU154,0,130,392,No
+158,Jordan,2013,0.82,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU155,0,130,400,No
+159,Jordan,2010,0.97,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU156,0,130,400,No
+160,Kazakhstan,2013,1.34,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU157,0,130,398,No
+161,Kazakhstan,2010,1.37,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU158,0,130,398,No
+162,Kenya,2013,0.02,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU159,0,130,404,No
+163,Kenya,2010,0.02,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU160,0,130,404,No
+164,Kiribati,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU161,0,130,296,No
+165,Kiribati,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU162,0,130,296,No
+166,Kuwait,2013,1.19,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU163,0,130,414,No
+167,Kuwait,2010,1.46,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU164,0,130,414,No
+168,Kyrgyzstan,2013,0.54,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU165,0,130,417,No
+169,Lao Peoples Democratic Republic,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU166,0,130,418,No
+170,Lao Peoples Democratic Republic,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU167,0,130,418,No
+171,Latvia,2013,5.37,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU168,0,130,428,No
+172,Latvia,2010,4.88,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU169,0,130,428,No
+173,Lebanon,2013,1.87,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU170,0,130,422,No
+174,Lebanon,2010,2.13,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU171,0,130,422,No
+175,Liberia,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU172,0,130,430,No
+176,Libya,2013,0.97,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU173,0,130,434,No
+177,Libya,2010,0.94,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU174,0,130,434,No
+178,Lithuania,2013,3.65,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU175,0,130,440,No
+179,Lithuania,2010,3.91,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU176,0,130,440,No
+180,Luxembourg,2013,3.77,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU177,0,130,442,No
+181,Luxembourg,2010,3.94,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU178,0,130,442,No
+182,Madagascar,2013,0.04,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU179,0,130,450,No
+183,Madagascar,2010,0.05,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU180,0,130,450,No
+184,Malawi,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU181,0,130,454,No
+185,Malawi,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU182,0,130,454,No
+186,Malaysia,2013,1.41,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU183,0,130,458,No
+187,Malaysia,2010,1.48,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU184,0,130,458,No
+188,Maldives,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU185,0,130,462,No
+189,Maldives,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU186,0,130,462,No
+190,Mali,2013,0.07,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU187,0,130,466,No
+191,Mali,2010,0.07,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU188,0,130,466,No
+192,Malta,2013,4.66,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU189,0,130,470,No
+193,Malta,2010,4.8,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU190,0,130,470,No
+194,Marshall Islands,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU191,0,130,584,No
+195,Marshall Islands,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU192,0,130,584,No
+196,Mauritania,2013,0.26,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU193,0,130,478,No
+197,Mauritania,2010,0.29,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU194,0,130,478,No
+198,Mauritius,2013,2.41,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU195,0,130,480,No
+199,Mauritius,2010,2.31,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU196,0,130,480,No
+200,Mexico,2013,0.54,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU197,0,130,484,No
+201,Mexico,2010,0.58,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU198,0,130,484,No
+202,Micronesia (Federated States of),2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU199,0,130,583,No
+203,Micronesia (Federated States of),2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU200,0,130,583,No
+204,Monaco,2013,26.43,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU201,0,130,492,No
+205,Monaco,2010,28.24,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU202,0,130,492,No
+206,Mongolia,2013,0.7,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU203,0,130,496,No
+207,Mongolia,2010,0.73,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU204,0,130,496,No
+208,Montenegro,2013,3.22,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU205,0,130,499,No
+209,Montenegro,2010,1.58,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU206,0,130,499,No
+210,Morocco,2013,0.39,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU207,0,130,504,No
+211,Morocco,2010,0.41,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU208,0,130,504,No
+212,Myanmar,2013,0.06,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU209,0,130,104,No
+213,Myanmar,2010,0.06,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU210,0,130,104,No
+214,Namibia,2013,0.43,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU211,0,130,516,No
+215,Namibia,2010,0.44,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU212,0,130,516,No
+216,Nauru,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU213,0,130,520,No
+217,Nepal,2013,0.22,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU214,0,130,524,No
+218,Nepal,2010,0.2,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU215,0,130,524,No
+219,Netherlands,2013,7.22,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU216,0,130,528,No
+220,Netherlands,2010,7.28,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU217,0,130,528,No
+221,New Zealand,2013,6.21,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU218,0,130,554,No
+222,New Zealand,2013,6.21,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU218,0,130,554,No
+223,New Zealand,2010,7.1,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU219,0,130,554,No
+224,New Zealand,2010,7.1,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU219,0,130,554,No
+225,Nicaragua,2013,0.33,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU220,0,130,558,No
+226,Nicaragua,2010,0.35,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU221,0,130,558,No
+227,Niger,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU222,0,130,562,No
+228,Niger,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU223,0,130,562,No
+229,Nigeria,2013,0.07,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU224,0,130,566,No
+230,Nigeria,2010,0.08,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU225,0,130,566,No
+231,Norway,2013,8.13,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU226,0,130,578,No
+232,Norway,2010,7.78,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU227,0,130,578,No
+233,Oman,2013,0.55,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU228,0,130,512,No
+234,Oman,2010,0.72,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU229,0,130,512,No
+235,Pakistan,2013,0.08,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU230,0,130,586,No
+236,Pakistan,2010,0.09,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU231,0,130,586,No
+237,Panama,2013,1.55,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU232,0,130,591,No
+238,Panama,2013,1.55,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU232,0,130,590,No
+239,Panama,2010,1.71,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU233,0,130,591,No
+240,Panama,2010,1.71,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU233,0,130,590,No
+241,Papua New Guinea,2013,0.14,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU234,0,130,598,No
+242,Papua New Guinea,2010,0.15,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU235,0,130,598,No
+243,Paraguay,2013,0.59,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU236,0,130,600,No
+244,Paraguay,2010,0.62,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU237,0,130,600,No
+245,Peru,2013,1.12,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU238,0,130,604,No
+246,Peru,2010,1.1,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU239,0,130,604,No
+247,Philippines,2013,0.18,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU240,0,130,608,No
+248,Philippines,2010,0.19,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU241,0,130,608,No
+249,Poland,2013,2.72,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU242,0,130,616,No
+250,Poland,2010,2.72,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU243,0,130,616,No
+251,Portugal,2013,4.05,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU244,0,130,620,No
+252,Portugal,2010,4.03,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU245,0,130,620,No
+253,Qatar,2013,0.92,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU246,0,130,634,No
+254,Qatar,2010,1.14,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU247,0,130,634,No
+255,Republic of Korea,2013,3.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU248,0,130,410,No
+256,Republic of Korea,2010,3.07,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU249,0,130,410,No
+257,Republic of Moldova,2013,0.57,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU250,0,130,498,No
+258,Republic of Moldova,2010,0.56,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU251,0,130,498,No
+259,Romania,2013,1.15,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU252,0,130,642,No
+260,Romania,2010,1.16,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU253,0,130,642,No
+261,Russian Federation,2013,2.28,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU254,0,130,643,No
+262,Russian Federation,2010,2.27,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU255,0,130,643,No
+263,Saint Kitts and Nevis,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU256,0,130,659,No
+264,Saint Kitts and Nevis,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU257,0,130,659,No
+265,Saint Lucia,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU258,0,130,662,No
+266,Saint Lucia,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU259,0,130,662,No
+267,Saint Vincent and the Grenadines,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU260,0,130,670,No
+268,Saint Vincent and the Grenadines,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU261,0,130,670,No
+269,Samoa,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU262,0,130,882,No
+270,Samoa,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU263,0,130,882,No
+271,San Marino,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU264,0,130,674,No
+272,San Marino,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU265,0,130,674,No
+273,Saudi Arabia,2013,0.1,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU266,0,130,682,No
+274,Saudi Arabia,2010,0.11,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU267,0,130,682,No
+275,Senegal,2013,0.07,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU268,0,130,686,No
+276,Senegal,2010,0.08,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU269,0,130,686,No
+277,Serbia,2013,1.47,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU270,0,130,688,No
+278,Serbia,2010,1.42,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU271,0,130,688,No
+279,Seychelles,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU272,0,130,690,No
+280,Sierra Leone,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU273,0,130,694,No
+281,Singapore,2013,3.51,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU274,0,130,702,No
+282,Singapore,2010,3.74,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU275,0,130,702,No
+283,Slovakia,2013,4.77,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU276,0,130,703,No
+284,Slovakia,2010,4.76,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU277,0,130,703,No
+285,Slovenia,2013,5.79,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU278,0,130,705,No
+286,Slovenia,2010,3.45,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU279,0,130,705,No
+287,South Africa,2013,0.57,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU280,0,130,710,No
+288,South Africa,2010,0.6,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU281,0,130,710,No
+289,Spain,2013,4.16,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU282,0,130,724,No
+290,Spain,2010,4.23,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU283,0,130,724,No
+291,Sri Lanka,2013,0.09,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU284,0,130,144,No
+292,Sri Lanka,2010,0.1,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU285,0,130,144,No
+293,Sudan,2013,0.18,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU286,0,130,729,No
+294,Sudan,2013,0.18,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU286,0,130,736,No
+295,Sudan,2010,0.16,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU287,0,130,729,No
+296,Sudan,2010,0.16,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU287,0,130,736,No
+297,Suriname,2013,3.71,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU288,0,130,740,No
+298,Suriname,2010,3.81,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU289,0,130,740,No
+299,Swaziland,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU290,0,130,748,No
+300,Swaziland,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU291,0,130,748,No
+301,Sweden,2013,6.9,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU292,0,130,752,No
+302,Sweden,2010,8.32,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU293,0,130,752,No
+303,Switzerland,2010,9.79,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU294,0,130,756,No
+304,Switzerland,2010,9.79,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU294,0,130,756,No
+305,Syrian Arab Republic,2013,0.32,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU295,0,130,760,No
+306,Syrian Arab Republic,2010,0.34,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU296,0,130,760,No
+307,Tajikistan,2013,0.12,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU297,0,130,762,No
+308,Tajikistan,2010,0.15,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU298,0,130,762,No
+309,Thailand,2013,0.97,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU299,0,130,764,No
+310,Thailand,2010,0.94,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU300,0,130,764,No
+311,The former Yugoslav Republic of Macedonia,2010,1.46,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU301,0,130,807,No
+312,Tonga,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU302,0,130,776,No
+313,Tonga,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU303,0,130,776,No
+314,Trinidad and Tobago,2013,2.98,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU304,0,130,780,No
+315,Trinidad and Tobago,2010,2.98,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU305,0,130,780,No
+316,Tunisia,2013,1.64,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU306,0,130,788,No
+317,Tunisia,2010,1.72,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU307,0,130,788,No
+318,Turkey,2013,2.03,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU308,0,130,792,No
+319,Turkey,2010,2.09,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU309,0,130,792,No
+320,Uganda,2013,0.05,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU310,0,130,800,No
+321,Uganda,2010,0.06,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU311,0,130,800,No
+322,Ukraine,2013,2.39,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU312,0,130,804,No
+323,Ukraine,2010,2.16,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU313,0,130,804,No
+324,United Arab Emirates,2013,0.64,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU314,0,130,784,No
+325,United Arab Emirates,2010,0.8,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU315,0,130,784,No
+326,United Kingdom,2013,5.04,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU316,0,130,826,No
+327,United Kingdom,2010,5.48,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU317,0,130,826,No
+328,United Republic of Tanzania,2013,0.06,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU318,0,130,834,No
+329,United Republic of Tanzania,2010,0.07,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU319,0,130,834,No
+330,United States of America,2013,12.37,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU320,0,130,840,No
+331,United States of America,2010,12.76,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU321,0,130,840,No
+332,Uruguay,2013,3.82,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU322,0,130,858,No
+333,Uruguay,2010,3.86,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU323,0,130,858,No
+334,Uzbekistan,2013,0.62,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU324,0,130,860,No
+335,Uzbekistan,2010,0.66,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU325,0,130,860,No
+336,Vanuatu,2013,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU326,0,130,548,No
+337,Vanuatu,2010,0.0,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU327,0,130,548,No
+338,Venezuela (Bolivarian Republic of),2013,2.5,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU328,0,130,862,No
+339,Venezuela (Bolivarian Republic of),2010,2.31,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU329,0,130,862,No
+340,Viet Nam,2013,0.4,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU330,0,130,704,No
+341,Viet Nam,2010,0.38,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU331,0,130,704,No
+342,Yemen,2013,0.12,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU332,0,130,887,No
+343,Yemen,2013,0.12,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU332,0,130,886,No
+344,Yemen,2010,0.04,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU333,0,130,887,No
+345,Yemen,2010,0.04,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU333,0,130,886,No
+346,Zambia,2013,0.14,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU334,0,130,894,No
+347,Zambia,2010,0.15,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU335,0,130,894,No
+348,Zimbabwe,2013,0.42,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU336,0,130,716,No
+349,Zimbabwe,2010,0.48,Total density radiotherapy units,per 1m pop,All,All,TODPMPORAU337,0,130,716,No

@@ -1,0 +1,138 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Algeria,2002,4555,Number of laboratory scientists,Absolute,All,All,NOLSC1,0,130,12,No
+1,Argentina,2004,19629,Number of laboratory scientists,Absolute,All,All,NOLSC2,0,130,32,No
+2,Bahrain,2011,3,Number of laboratory scientists,Absolute,All,All,NOLSC3,0,130,48,No
+3,Bahrain,2010,6,Number of laboratory scientists,Absolute,All,All,NOLSC4,0,130,48,No
+4,Bahrain,2009,5,Number of laboratory scientists,Absolute,All,All,NOLSC5,0,130,48,No
+5,Bahrain,2008,4,Number of laboratory scientists,Absolute,All,All,NOLSC6,0,130,48,No
+6,Bahrain,2004,111,Number of laboratory scientists,Absolute,All,All,NOLSC7,0,130,48,No
+7,Bangladesh,2007,3794,Number of laboratory scientists,Absolute,All,All,NOLSC8,0,130,50,No
+8,Benin,2004,2,Number of laboratory scientists,Absolute,All,All,NOLSC9,0,130,204,No
+9,Bhutan,2007,3,Number of laboratory scientists,Absolute,All,All,NOLSC10,0,130,64,No
+10,Botswana,2004,35,Number of laboratory scientists,Absolute,All,All,NOLSC11,0,130,72,No
+11,Brazil,2000,13924,Number of laboratory scientists,Absolute,All,All,NOLSC12,0,130,76,No
+12,Burkina Faso,2008,418,Number of laboratory scientists,Absolute,All,All,NOLSC13,0,130,854,No
+13,Burkina Faso,2006,9,Number of laboratory scientists,Absolute,All,All,NOLSC14,0,130,854,No
+14,Burkina Faso,2004,21,Number of laboratory scientists,Absolute,All,All,NOLSC15,0,130,854,No
+15,Burundi,2004,142,Number of laboratory scientists,Absolute,All,All,NOLSC16,0,130,108,No
+16,Cabo Verde,2010,9,Number of laboratory scientists,Absolute,All,All,NOLSC17,0,130,132,No
+17,Cabo Verde,2009,9,Number of laboratory scientists,Absolute,All,All,NOLSC18,0,130,132,No
+18,Cabo Verde,2007,10,Number of laboratory scientists,Absolute,All,All,NOLSC19,0,130,132,No
+19,Cabo Verde,2006,9,Number of laboratory scientists,Absolute,All,All,NOLSC20,0,130,132,No
+20,Cabo Verde,2004,5,Number of laboratory scientists,Absolute,All,All,NOLSC21,0,130,132,No
+21,Cambodia,1998,383,Number of laboratory scientists,Absolute,All,All,NOLSC22,0,130,116,No
+22,Cambodia,1996,334,Number of laboratory scientists,Absolute,All,All,NOLSC23,0,130,116,No
+23,Canada,2008,351,Number of laboratory scientists,Absolute,All,All,NOLSC24,0,130,124,No
+24,Canada,2006,322,Number of laboratory scientists,Absolute,All,All,NOLSC25,0,130,124,No
+25,Canada,2004,297,Number of laboratory scientists,Absolute,All,All,NOLSC26,0,130,124,No
+26,Canada,2002,267,Number of laboratory scientists,Absolute,All,All,NOLSC27,0,130,124,No
+27,Canada,2001,277,Number of laboratory scientists,Absolute,All,All,NOLSC28,0,130,124,No
+28,Canada,1998,253,Number of laboratory scientists,Absolute,All,All,NOLSC29,0,130,124,No
+29,Central African Republic,2004,3,Number of laboratory scientists,Absolute,All,All,NOLSC30,0,130,140,No
+30,Chad,2004,111,Number of laboratory scientists,Absolute,All,All,NOLSC31,0,130,148,No
+31,Chile,2009,29,Number of laboratory scientists,Absolute,All,All,NOLSC32,0,130,152,No
+32,Chile,2008,29,Number of laboratory scientists,Absolute,All,All,NOLSC33,0,130,152,No
+33,Chile,2007,29,Number of laboratory scientists,Absolute,All,All,NOLSC34,0,130,152,No
+34,Chile,2006,29,Number of laboratory scientists,Absolute,All,All,NOLSC35,0,130,152,No
+35,Chile,2005,28,Number of laboratory scientists,Absolute,All,All,NOLSC36,0,130,152,No
+36,Chile,2004,29,Number of laboratory scientists,Absolute,All,All,NOLSC37,0,130,152,No
+37,Chile,2003,31,Number of laboratory scientists,Absolute,All,All,NOLSC38,0,130,152,No
+38,Chile,2002,31,Number of laboratory scientists,Absolute,All,All,NOLSC39,0,130,152,No
+39,Comoros,2004,7,Number of laboratory scientists,Absolute,All,All,NOLSC40,0,130,174,No
+40,Congo,2007,280,Number of laboratory scientists,Absolute,All,All,NOLSC41,0,130,178,No
+41,Congo,2006,516,Number of laboratory scientists,Absolute,All,All,NOLSC42,0,130,178,No
+42,Congo,2004,9,Number of laboratory scientists,Absolute,All,All,NOLSC43,0,130,178,No
+43,Cook Islands,2009,6,Number of laboratory scientists,Absolute,All,All,NOLSC44,0,130,184,No
+44,Costa Rica,2013,624,Number of laboratory scientists,Absolute,All,All,NOLSC45,0,130,188,No
+45,Côte dIvoire,2004,473,Number of laboratory scientists,Absolute,All,All,NOLSC46,0,130,384,No
+46,Cyprus,2008,22,Number of laboratory scientists,Absolute,All,All,NOLSC47,0,130,196,No
+47,Cyprus,2006,18,Number of laboratory scientists,Absolute,All,All,NOLSC48,0,130,196,No
+48,Djibouti,2005,3,Number of laboratory scientists,Absolute,All,All,NOLSC49,0,130,262,No
+49,Djibouti,2004,3,Number of laboratory scientists,Absolute,All,All,NOLSC50,0,130,262,No
+50,Egypt,2004,6542,Number of laboratory scientists,Absolute,All,All,NOLSC51,0,130,818,No
+51,El Salvador,2008,1975,Number of laboratory scientists,Absolute,All,All,NOLSC52,0,130,222,No
+52,El Salvador,2005,1574,Number of laboratory scientists,Absolute,All,All,NOLSC53,0,130,222,No
+53,El Salvador,1999,891,Number of laboratory scientists,Absolute,All,All,NOLSC54,0,130,222,No
+54,Equatorial Guinea,2004,3,Number of laboratory scientists,Absolute,All,All,NOLSC55,0,130,226,No
+55,Eritrea,2004,17,Number of laboratory scientists,Absolute,All,All,NOLSC56,0,130,232,No
+56,Gabon,2004,17,Number of laboratory scientists,Absolute,All,All,NOLSC57,0,130,266,No
+57,Gambia,2008,15,Number of laboratory scientists,Absolute,All,All,NOLSC58,0,130,270,No
+58,Gambia,2007,13,Number of laboratory scientists,Absolute,All,All,NOLSC59,0,130,270,No
+59,Gambia,2006,62,Number of laboratory scientists,Absolute,All,All,NOLSC60,0,130,270,No
+60,Gambia,2005,57,Number of laboratory scientists,Absolute,All,All,NOLSC61,0,130,270,No
+61,Gambia,2004,40,Number of laboratory scientists,Absolute,All,All,NOLSC62,0,130,270,No
+62,Guinea,2005,78,Number of laboratory scientists,Absolute,All,All,NOLSC63,0,130,324,No
+63,Guinea,2004,237,Number of laboratory scientists,Absolute,All,All,NOLSC64,0,130,324,No
+64,Guinea,2000,103,Number of laboratory scientists,Absolute,All,All,NOLSC65,0,130,324,No
+65,Guinea-Bissau,2004,12,Number of laboratory scientists,Absolute,All,All,NOLSC66,0,130,624,No
+66,Guyana,2009,13,Number of laboratory scientists,Absolute,All,All,NOLSC67,0,130,328,No
+67,Iceland,2010,308,Number of laboratory scientists,Absolute,All,All,NOLSC68,0,130,352,No
+68,Iceland,2009,299,Number of laboratory scientists,Absolute,All,All,NOLSC69,0,130,352,No
+69,Iceland,2008,296,Number of laboratory scientists,Absolute,All,All,NOLSC70,0,130,352,No
+70,Iceland,2007,287,Number of laboratory scientists,Absolute,All,All,NOLSC71,0,130,352,No
+71,Iceland,2006,300,Number of laboratory scientists,Absolute,All,All,NOLSC72,0,130,352,No
+72,Iceland,2005,301,Number of laboratory scientists,Absolute,All,All,NOLSC73,0,130,352,No
+73,Iceland,2004,299,Number of laboratory scientists,Absolute,All,All,NOLSC74,0,130,352,No
+74,Iceland,2002,289,Number of laboratory scientists,Absolute,All,All,NOLSC75,0,130,352,No
+75,Iceland,2001,293,Number of laboratory scientists,Absolute,All,All,NOLSC76,0,130,352,No
+76,Iceland,2000,292,Number of laboratory scientists,Absolute,All,All,NOLSC77,0,130,352,No
+77,Indonesia,2003,0,Number of laboratory scientists,Absolute,All,All,NOLSC78,0,130,360,No
+78,Iran (Islamic Republic of),2004,3276,Number of laboratory scientists,Absolute,All,All,NOLSC79,0,130,364,No
+79,Jordan,2004,2000,Number of laboratory scientists,Absolute,All,All,NOLSC80,0,130,400,No
+80,Kenya,2004,6000,Number of laboratory scientists,Absolute,All,All,NOLSC81,0,130,404,No
+81,Lebanon,2005,535,Number of laboratory scientists,Absolute,All,All,NOLSC82,0,130,422,No
+82,Lesotho,2003,59,Number of laboratory scientists,Absolute,All,All,NOLSC83,0,130,426,No
+83,Liberia,2004,150,Number of laboratory scientists,Absolute,All,All,NOLSC84,0,130,430,No
+84,Madagascar,2004,30,Number of laboratory scientists,Absolute,All,All,NOLSC85,0,130,450,No
+85,Maldives,2007,0,Number of laboratory scientists,Absolute,All,All,NOLSC86,0,130,462,No
+86,Mali,2010,28,Number of laboratory scientists,Absolute,All,All,NOLSC87,0,130,466,No
+87,Mali,2009,41,Number of laboratory scientists,Absolute,All,All,NOLSC88,0,130,466,No
+88,Mali,2004,25,Number of laboratory scientists,Absolute,All,All,NOLSC89,0,130,466,No
+89,Mauritania,2009,70,Number of laboratory scientists,Absolute,All,All,NOLSC90,0,130,478,No
+90,Mauritania,2004,12,Number of laboratory scientists,Absolute,All,All,NOLSC91,0,130,478,No
+91,Mauritius,2004,7,Number of laboratory scientists,Absolute,All,All,NOLSC92,0,130,480,No
+92,Mozambique,2006,144,Number of laboratory scientists,Absolute,All,All,NOLSC93,0,130,508,No
+93,Mozambique,2004,45,Number of laboratory scientists,Absolute,All,All,NOLSC94,0,130,508,No
+94,Myanmar,2004,241,Number of laboratory scientists,Absolute,All,All,NOLSC95,0,130,104,No
+95,Namibia,2004,0,Number of laboratory scientists,Absolute,All,All,NOLSC96,0,130,516,No
+96,Niger,2008,63,Number of laboratory scientists,Absolute,All,All,NOLSC97,0,130,562,No
+97,Niger,2004,213,Number of laboratory scientists,Absolute,All,All,NOLSC98,0,130,562,No
+98,Nigeria,2008,12703,Number of laboratory scientists,Absolute,All,All,NOLSC99,0,130,566,No
+99,Nigeria,2007,12703,Number of laboratory scientists,Absolute,All,All,NOLSC100,0,130,566,No
+100,Oman,2004,152,Number of laboratory scientists,Absolute,All,All,NOLSC101,0,130,512,No
+101,Pakistan,2004,1751,Number of laboratory scientists,Absolute,All,All,NOLSC102,0,130,586,No
+102,Peru,2012,1512,Number of laboratory scientists,Absolute,All,All,NOLSC103,0,130,604,No
+103,Peru,2009,1122,Number of laboratory scientists,Absolute,All,All,NOLSC104,0,130,604,No
+104,Poland,2010,9510,Number of laboratory scientists,Absolute,All,All,NOLSC105,0,130,616,No
+105,Qatar,2006,504,Number of laboratory scientists,Absolute,All,All,NOLSC106,0,130,634,No
+106,Rwanda,2004,5,Number of laboratory scientists,Absolute,All,All,NOLSC107,0,130,646,No
+107,Samoa,2008,1,Number of laboratory scientists,Absolute,All,All,NOLSC108,0,130,882,No
+108,Senegal,2008,143,Number of laboratory scientists,Absolute,All,All,NOLSC109,0,130,686,No
+109,Senegal,2004,32,Number of laboratory scientists,Absolute,All,All,NOLSC110,0,130,686,No
+110,Sierra Leone,2008,4,Number of laboratory scientists,Absolute,All,All,NOLSC111,0,130,694,No
+111,South Africa,2013,726,Number of laboratory scientists,Absolute,All,All,NOLSC112,0,130,710,No
+112,South Africa,2011,857,Number of laboratory scientists,Absolute,All,All,NOLSC113,0,130,710,No
+113,South Africa,2004,978,Number of laboratory scientists,Absolute,All,All,NOLSC114,0,130,710,No
+114,Sri Lanka,2007,291,Number of laboratory scientists,Absolute,All,All,NOLSC115,0,130,144,No
+115,Sri Lanka,2004,1,Number of laboratory scientists,Absolute,All,All,NOLSC116,0,130,144,No
+116,Sudan,2004,35,Number of laboratory scientists,Absolute,All,All,NOLSC117,0,130,729,No
+117,Sudan,2004,35,Number of laboratory scientists,Absolute,All,All,NOLSC117,0,130,736,No
+118,Timor-Leste,2004,3,Number of laboratory scientists,Absolute,All,All,NOLSC118,0,130,626,No
+119,Togo,2007,4,Number of laboratory scientists,Absolute,All,All,NOLSC119,0,130,768,No
+120,Togo,2004,171,Number of laboratory scientists,Absolute,All,All,NOLSC120,0,130,768,No
+121,Tonga,2009,7,Number of laboratory scientists,Absolute,All,All,NOLSC121,0,130,776,No
+122,Tunisia,2004,358,Number of laboratory scientists,Absolute,All,All,NOLSC122,0,130,788,No
+123,Tuvalu,2008,0,Number of laboratory scientists,Absolute,All,All,NOLSC123,0,130,798,No
+124,United States of America,2000,91331,Number of laboratory scientists,Absolute,All,All,NOLSC124,0,130,840,No
+125,Uruguay,2008,601,Number of laboratory scientists,Absolute,All,All,NOLSC125,0,130,858,No
+126,Yemen,2010,1113,Number of laboratory scientists,Absolute,All,All,NOLSC126,0,130,887,No
+127,Yemen,2010,1113,Number of laboratory scientists,Absolute,All,All,NOLSC126,0,130,886,No
+128,Yemen,2004,1054,Number of laboratory scientists,Absolute,All,All,NOLSC127,0,130,887,No
+129,Yemen,2004,1054,Number of laboratory scientists,Absolute,All,All,NOLSC127,0,130,886,No
+130,Yemen,1997,50,Number of laboratory scientists,Absolute,All,All,NOLSC128,0,130,887,No
+131,Yemen,1997,50,Number of laboratory scientists,Absolute,All,All,NOLSC128,0,130,886,No
+132,Zambia,2006,25,Number of laboratory scientists,Absolute,All,All,NOLSC129,0,130,894,No
+133,Zimbabwe,2009,274,Number of laboratory scientists,Absolute,All,All,NOLSC130,0,130,716,No
+134,Zimbabwe,2008,317,Number of laboratory scientists,Absolute,All,All,NOLSC131,0,130,716,No
+135,Zimbabwe,2007,320,Number of laboratory scientists,Absolute,All,All,NOLSC132,0,130,716,No
+136,Zimbabwe,2004,481,Number of laboratory scientists,Absolute,All,All,NOLSC133,0,130,716,No

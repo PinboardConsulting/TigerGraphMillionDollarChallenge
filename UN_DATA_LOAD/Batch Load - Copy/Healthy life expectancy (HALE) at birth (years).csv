@@ -1,0 +1,1207 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2012,49,Healthy life expectancy,Absolute,0,Male,HALEAB1,0,0,4,No
+1,Afghanistan,2012,49,Healthy life expectancy,Absolute,0,Female,HALEAB2,0,0,4,No
+2,Afghanistan,2012,49,Healthy life expectancy,Absolute,0,All,HALEAB3,0,0,4,No
+3,Afghanistan,2000,45,Healthy life expectancy,Absolute,0,Female,HALEAB4,0,0,4,No
+4,Afghanistan,2000,45,Healthy life expectancy,Absolute,0,All,HALEAB5,0,0,4,No
+5,Afghanistan,2000,45,Healthy life expectancy,Absolute,0,Male,HALEAB6,0,0,4,No
+6,Albania,2012,64,Healthy life expectancy,Absolute,0,Male,HALEAB7,0,0,8,No
+7,Albania,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB8,0,0,8,No
+8,Albania,2012,65,Healthy life expectancy,Absolute,0,All,HALEAB9,0,0,8,No
+9,Albania,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB10,0,0,8,No
+10,Albania,2000,64,Healthy life expectancy,Absolute,0,Female,HALEAB11,0,0,8,No
+11,Albania,2000,62,Healthy life expectancy,Absolute,0,All,HALEAB12,0,0,8,No
+12,Algeria,2012,62,Healthy life expectancy,Absolute,0,Male,HALEAB13,0,0,12,No
+13,Algeria,2012,63,Healthy life expectancy,Absolute,0,Female,HALEAB14,0,0,12,No
+14,Algeria,2012,62,Healthy life expectancy,Absolute,0,All,HALEAB15,0,0,12,No
+15,Algeria,2000,59,Healthy life expectancy,Absolute,0,Male,HALEAB16,0,0,12,No
+16,Algeria,2000,61,Healthy life expectancy,Absolute,0,Female,HALEAB17,0,0,12,No
+17,Algeria,2000,60,Healthy life expectancy,Absolute,0,All,HALEAB18,0,0,12,No
+18,Andorra,2012,70,Healthy life expectancy,Absolute,0,Male,HALEAB19,0,0,20,No
+19,Andorra,2012,74,Healthy life expectancy,Absolute,0,Female,HALEAB20,0,0,20,No
+20,Andorra,2012,72,Healthy life expectancy,Absolute,0,All,HALEAB21,0,0,20,No
+21,Andorra,2000,67,Healthy life expectancy,Absolute,0,Male,HALEAB22,0,0,20,No
+22,Andorra,2000,72,Healthy life expectancy,Absolute,0,Female,HALEAB23,0,0,20,No
+23,Andorra,2000,70,Healthy life expectancy,Absolute,0,All,HALEAB24,0,0,20,No
+24,Angola,2012,43,Healthy life expectancy,Absolute,0,Male,HALEAB25,0,0,24,No
+25,Angola,2012,45,Healthy life expectancy,Absolute,0,Female,HALEAB26,0,0,24,No
+26,Angola,2012,44,Healthy life expectancy,Absolute,0,All,HALEAB27,0,0,24,No
+27,Angola,2000,38,Healthy life expectancy,Absolute,0,Male,HALEAB28,0,0,24,No
+28,Angola,2000,40,Healthy life expectancy,Absolute,0,Female,HALEAB29,0,0,24,No
+29,Angola,2000,39,Healthy life expectancy,Absolute,0,All,HALEAB30,0,0,24,No
+30,Antigua and Barbuda,2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB31,0,0,28,No
+31,Antigua and Barbuda,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB32,0,0,28,No
+32,Antigua and Barbuda,2012,64,Healthy life expectancy,Absolute,0,All,HALEAB33,0,0,28,No
+33,Antigua and Barbuda,2000,63,Healthy life expectancy,Absolute,0,Male,HALEAB34,0,0,28,No
+34,Antigua and Barbuda,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB35,0,0,28,No
+35,Antigua and Barbuda,2000,64,Healthy life expectancy,Absolute,0,All,HALEAB36,0,0,28,No
+36,Argentina,2012,64,Healthy life expectancy,Absolute,0,Male,HALEAB37,0,0,32,No
+37,Argentina,2012,69,Healthy life expectancy,Absolute,0,Female,HALEAB38,0,0,32,No
+38,Argentina,2012,67,Healthy life expectancy,Absolute,0,All,HALEAB39,0,0,32,No
+39,Argentina,2000,62,Healthy life expectancy,Absolute,0,Male,HALEAB40,0,0,32,No
+40,Argentina,2000,68,Healthy life expectancy,Absolute,0,Female,HALEAB41,0,0,32,No
+41,Argentina,2000,65,Healthy life expectancy,Absolute,0,All,HALEAB42,0,0,32,No
+42,Armenia,2012,60,Healthy life expectancy,Absolute,0,Male,HALEAB43,0,0,51,No
+43,Armenia,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB44,0,0,51,No
+44,Armenia,2012,62,Healthy life expectancy,Absolute,0,All,HALEAB45,0,0,51,No
+45,Armenia,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB46,0,0,51,No
+46,Armenia,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB47,0,0,51,No
+47,Armenia,2000,62,Healthy life expectancy,Absolute,0,All,HALEAB48,0,0,51,No
+48,Australia,2012,71,Healthy life expectancy,Absolute,0,Male,HALEAB49,0,0,36,No
+49,Australia,2012,74,Healthy life expectancy,Absolute,0,Female,HALEAB50,0,0,36,No
+50,Australia,2012,73,Healthy life expectancy,Absolute,0,All,HALEAB51,0,0,36,No
+51,Australia,2000,68,Healthy life expectancy,Absolute,0,Male,HALEAB52,0,0,36,No
+52,Australia,2000,72,Healthy life expectancy,Absolute,0,Female,HALEAB53,0,0,36,No
+53,Australia,2000,70,Healthy life expectancy,Absolute,0,All,HALEAB54,0,0,36,No
+54,Austria,2012,69,Healthy life expectancy,Absolute,0,Male,HALEAB55,0,0,40,No
+55,Austria,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB56,0,0,40,No
+56,Austria,2012,71,Healthy life expectancy,Absolute,0,All,HALEAB57,0,0,40,No
+57,Austria,2000,67,Healthy life expectancy,Absolute,0,Male,HALEAB58,0,0,40,No
+58,Austria,2000,71,Healthy life expectancy,Absolute,0,Female,HALEAB59,0,0,40,No
+59,Austria,2000,69,Healthy life expectancy,Absolute,0,All,HALEAB60,0,0,40,No
+60,Azerbaijan,2012,61,Healthy life expectancy,Absolute,0,Male,HALEAB61,0,0,31,No
+61,Azerbaijan,2012,65,Healthy life expectancy,Absolute,0,Female,HALEAB62,0,0,31,No
+62,Azerbaijan,2012,63,Healthy life expectancy,Absolute,0,All,HALEAB63,0,0,31,No
+63,Azerbaijan,2000,56,Healthy life expectancy,Absolute,0,Male,HALEAB64,0,0,31,No
+64,Azerbaijan,2000,60,Healthy life expectancy,Absolute,0,Female,HALEAB65,0,0,31,No
+65,Azerbaijan,2000,58,Healthy life expectancy,Absolute,0,All,HALEAB66,0,0,31,No
+66,Bahamas,2012,62,Healthy life expectancy,Absolute,0,Male,HALEAB67,0,0,44,No
+67,Bahamas,2012,67,Healthy life expectancy,Absolute,0,Female,HALEAB68,0,0,44,No
+68,Bahamas,2012,64,Healthy life expectancy,Absolute,0,All,HALEAB69,0,0,44,No
+69,Bahamas,2000,61,Healthy life expectancy,Absolute,0,Male,HALEAB70,0,0,44,No
+70,Bahamas,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB71,0,0,44,No
+71,Bahamas,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB72,0,0,44,No
+72,Bahrain,2012,66,Healthy life expectancy,Absolute,0,Male,HALEAB73,0,0,48,No
+73,Bahrain,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB74,0,0,48,No
+74,Bahrain,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB75,0,0,48,No
+75,Bahrain,2000,63,Healthy life expectancy,Absolute,0,Male,HALEAB76,0,0,48,No
+76,Bahrain,2000,64,Healthy life expectancy,Absolute,0,Female,HALEAB77,0,0,48,No
+77,Bahrain,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB78,0,0,48,No
+78,Bangladesh,2012,60,Healthy life expectancy,Absolute,0,Male,HALEAB79,0,0,50,No
+79,Bangladesh,2012,61,Healthy life expectancy,Absolute,0,Female,HALEAB80,0,0,50,No
+80,Bangladesh,2012,60,Healthy life expectancy,Absolute,0,All,HALEAB81,0,0,50,No
+81,Bangladesh,2000,55,Healthy life expectancy,Absolute,0,Male,HALEAB82,0,0,50,No
+82,Bangladesh,2000,55,Healthy life expectancy,Absolute,0,Female,HALEAB83,0,0,50,No
+83,Bangladesh,2000,55,Healthy life expectancy,Absolute,0,All,HALEAB84,0,0,50,No
+84,Barbados,2012,64,Healthy life expectancy,Absolute,0,Male,HALEAB85,0,0,52,No
+85,Barbados,2012,69,Healthy life expectancy,Absolute,0,Female,HALEAB86,0,0,52,No
+86,Barbados,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB87,0,0,52,No
+87,Barbados,2000,63,Healthy life expectancy,Absolute,0,Male,HALEAB88,0,0,52,No
+88,Barbados,2000,66,Healthy life expectancy,Absolute,0,Female,HALEAB89,0,0,52,No
+89,Barbados,2000,65,Healthy life expectancy,Absolute,0,All,HALEAB90,0,0,52,No
+90,Belarus,2012,59,Healthy life expectancy,Absolute,0,Male,HALEAB91,0,0,112,No
+91,Belarus,2012,68,Healthy life expectancy,Absolute,0,Female,HALEAB92,0,0,112,No
+92,Belarus,2012,64,Healthy life expectancy,Absolute,0,All,HALEAB93,0,0,112,No
+93,Belarus,2000,57,Healthy life expectancy,Absolute,0,Male,HALEAB94,0,0,112,No
+94,Belarus,2000,66,Healthy life expectancy,Absolute,0,Female,HALEAB95,0,0,112,No
+95,Belarus,2000,61,Healthy life expectancy,Absolute,0,All,HALEAB96,0,0,112,No
+96,Belgium,2012,69,Healthy life expectancy,Absolute,0,Male,HALEAB97,0,0,56,No
+97,Belgium,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB98,0,0,56,No
+98,Belgium,2012,71,Healthy life expectancy,Absolute,0,All,HALEAB99,0,0,56,No
+99,Belgium,2000,66,Healthy life expectancy,Absolute,0,Male,HALEAB100,0,0,56,No
+100,Belgium,2000,71,Healthy life expectancy,Absolute,0,Female,HALEAB101,0,0,56,No
+101,Belgium,2000,69,Healthy life expectancy,Absolute,0,All,HALEAB102,0,0,56,No
+102,Belize,2012,61,Healthy life expectancy,Absolute,0,Male,HALEAB103,0,0,84,No
+103,Belize,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB104,0,0,84,No
+104,Belize,2012,63,Healthy life expectancy,Absolute,0,All,HALEAB105,0,0,84,No
+105,Belize,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB106,0,0,84,No
+106,Belize,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB107,0,0,84,No
+107,Belize,2000,62,Healthy life expectancy,Absolute,0,All,HALEAB108,0,0,84,No
+108,Benin,2012,50,Healthy life expectancy,Absolute,0,Male,HALEAB109,0,0,204,No
+109,Benin,2012,51,Healthy life expectancy,Absolute,0,Female,HALEAB110,0,0,204,No
+110,Benin,2012,50,Healthy life expectancy,Absolute,0,All,HALEAB111,0,0,204,No
+111,Benin,2000,45,Healthy life expectancy,Absolute,0,Male,HALEAB112,0,0,204,No
+112,Benin,2000,47,Healthy life expectancy,Absolute,0,Female,HALEAB113,0,0,204,No
+113,Benin,2000,46,Healthy life expectancy,Absolute,0,All,HALEAB114,0,0,204,No
+114,Bhutan,2012,58,Healthy life expectancy,Absolute,0,Male,HALEAB115,0,0,64,No
+115,Bhutan,2012,59,Healthy life expectancy,Absolute,0,Female,HALEAB116,0,0,64,No
+116,Bhutan,2012,59,Healthy life expectancy,Absolute,0,All,HALEAB117,0,0,64,No
+117,Bhutan,2000,52,Healthy life expectancy,Absolute,0,Male,HALEAB118,0,0,64,No
+118,Bhutan,2000,52,Healthy life expectancy,Absolute,0,Female,HALEAB119,0,0,64,No
+119,Bhutan,2000,52,Healthy life expectancy,Absolute,0,All,HALEAB120,0,0,64,No
+120,Bolivia (Plurinational State of),2012,58,Healthy life expectancy,Absolute,0,Male,HALEAB121,0,0,68,No
+121,Bolivia (Plurinational State of),2012,61,Healthy life expectancy,Absolute,0,Female,HALEAB122,0,0,68,No
+122,Bolivia (Plurinational State of),2012,59,Healthy life expectancy,Absolute,0,All,HALEAB123,0,0,68,No
+123,Bolivia (Plurinational State of),2000,53,Healthy life expectancy,Absolute,0,Male,HALEAB124,0,0,68,No
+124,Bolivia (Plurinational State of),2000,56,Healthy life expectancy,Absolute,0,Female,HALEAB125,0,0,68,No
+125,Bolivia (Plurinational State of),2000,55,Healthy life expectancy,Absolute,0,All,HALEAB126,0,0,68,No
+126,Bosnia and Herzegovina,2012,66,Healthy life expectancy,Absolute,0,Male,HALEAB127,0,0,70,No
+127,Bosnia and Herzegovina,2012,70,Healthy life expectancy,Absolute,0,Female,HALEAB128,0,0,70,No
+128,Bosnia and Herzegovina,2012,68,Healthy life expectancy,Absolute,0,All,HALEAB129,0,0,70,No
+129,Bosnia and Herzegovina,2000,64,Healthy life expectancy,Absolute,0,Male,HALEAB130,0,0,70,No
+130,Bosnia and Herzegovina,2000,68,Healthy life expectancy,Absolute,0,Female,HALEAB131,0,0,70,No
+131,Bosnia and Herzegovina,2000,66,Healthy life expectancy,Absolute,0,All,HALEAB132,0,0,70,No
+132,Botswana,2012,52,Healthy life expectancy,Absolute,0,Male,HALEAB133,0,0,72,No
+133,Botswana,2012,53,Healthy life expectancy,Absolute,0,Female,HALEAB134,0,0,72,No
+134,Botswana,2012,53,Healthy life expectancy,Absolute,0,All,HALEAB135,0,0,72,No
+135,Botswana,2000,42,Healthy life expectancy,Absolute,0,Male,HALEAB136,0,0,72,No
+136,Botswana,2000,41,Healthy life expectancy,Absolute,0,Female,HALEAB137,0,0,72,No
+137,Botswana,2000,41,Healthy life expectancy,Absolute,0,All,HALEAB138,0,0,72,No
+138,Brazil,2012,62,Healthy life expectancy,Absolute,0,Male,HALEAB139,0,0,76,No
+139,Brazil,2012,67,Healthy life expectancy,Absolute,0,Female,HALEAB140,0,0,76,No
+140,Brazil,2012,64,Healthy life expectancy,Absolute,0,All,HALEAB141,0,0,76,No
+141,Brazil,2000,59,Healthy life expectancy,Absolute,0,Male,HALEAB142,0,0,76,No
+142,Brazil,2000,64,Healthy life expectancy,Absolute,0,Female,HALEAB143,0,0,76,No
+143,Brazil,2000,61,Healthy life expectancy,Absolute,0,All,HALEAB144,0,0,76,No
+144,Brunei Darussalam,2012,68,Healthy life expectancy,Absolute,0,Male,HALEAB145,0,0,96,No
+145,Brunei Darussalam,2012,69,Healthy life expectancy,Absolute,0,Female,HALEAB146,0,0,96,No
+146,Brunei Darussalam,2012,68,Healthy life expectancy,Absolute,0,All,HALEAB147,0,0,96,No
+147,Brunei Darussalam,2000,67,Healthy life expectancy,Absolute,0,Male,HALEAB148,0,0,96,No
+148,Brunei Darussalam,2000,69,Healthy life expectancy,Absolute,0,Female,HALEAB149,0,0,96,No
+149,Brunei Darussalam,2000,68,Healthy life expectancy,Absolute,0,All,HALEAB150,0,0,96,No
+150,Bulgaria,2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB151,0,0,100,No
+151,Bulgaria,2012,68,Healthy life expectancy,Absolute,0,Female,HALEAB152,0,0,100,No
+152,Bulgaria,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB153,0,0,100,No
+153,Bulgaria,2000,61,Healthy life expectancy,Absolute,0,Male,HALEAB154,0,0,100,No
+154,Bulgaria,2000,66,Healthy life expectancy,Absolute,0,Female,HALEAB155,0,0,100,No
+155,Bulgaria,2000,64,Healthy life expectancy,Absolute,0,All,HALEAB156,0,0,100,No
+156,Burkina Faso,2012,50,Healthy life expectancy,Absolute,0,Male,HALEAB157,0,0,854,No
+157,Burkina Faso,2012,51,Healthy life expectancy,Absolute,0,Female,HALEAB158,0,0,854,No
+158,Burkina Faso,2012,50,Healthy life expectancy,Absolute,0,All,HALEAB159,0,0,854,No
+159,Burkina Faso,2000,42,Healthy life expectancy,Absolute,0,Male,HALEAB160,0,0,854,No
+160,Burkina Faso,2000,43,Healthy life expectancy,Absolute,0,Female,HALEAB161,0,0,854,No
+161,Burkina Faso,2000,42,Healthy life expectancy,Absolute,0,All,HALEAB162,0,0,854,No
+162,Burundi,2012,46,Healthy life expectancy,Absolute,0,Male,HALEAB163,0,0,108,No
+163,Burundi,2012,49,Healthy life expectancy,Absolute,0,Female,HALEAB164,0,0,108,No
+164,Burundi,2012,48,Healthy life expectancy,Absolute,0,All,HALEAB165,0,0,108,No
+165,Burundi,2000,40,Healthy life expectancy,Absolute,0,Male,HALEAB166,0,0,108,No
+166,Burundi,2000,43,Healthy life expectancy,Absolute,0,Female,HALEAB167,0,0,108,No
+167,Burundi,2000,41,Healthy life expectancy,Absolute,0,All,HALEAB168,0,0,108,No
+168,Cabo Verde,2012,61,Healthy life expectancy,Absolute,0,Male,HALEAB169,0,0,132,No
+169,Cabo Verde,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB170,0,0,132,No
+170,Cabo Verde,2012,64,Healthy life expectancy,Absolute,0,All,HALEAB171,0,0,132,No
+171,Cabo Verde,2000,57,Healthy life expectancy,Absolute,0,Male,HALEAB172,0,0,132,No
+172,Cabo Verde,2000,61,Healthy life expectancy,Absolute,0,Female,HALEAB173,0,0,132,No
+173,Cabo Verde,2000,59,Healthy life expectancy,Absolute,0,All,HALEAB174,0,0,132,No
+174,Cambodia,2012,59,Healthy life expectancy,Absolute,0,Male,HALEAB175,0,0,116,No
+175,Cambodia,2012,63,Healthy life expectancy,Absolute,0,Female,HALEAB176,0,0,116,No
+176,Cambodia,2012,61,Healthy life expectancy,Absolute,0,All,HALEAB177,0,0,116,No
+177,Cambodia,2000,49,Healthy life expectancy,Absolute,0,Male,HALEAB178,0,0,116,No
+178,Cambodia,2000,53,Healthy life expectancy,Absolute,0,Female,HALEAB179,0,0,116,No
+179,Cambodia,2000,51,Healthy life expectancy,Absolute,0,All,HALEAB180,0,0,116,No
+180,Cameroon,2012,48,Healthy life expectancy,Absolute,0,Male,HALEAB181,0,0,120,No
+181,Cameroon,2012,49,Healthy life expectancy,Absolute,0,Female,HALEAB182,0,0,120,No
+182,Cameroon,2012,48,Healthy life expectancy,Absolute,0,All,HALEAB183,0,0,120,No
+183,Cameroon,2000,43,Healthy life expectancy,Absolute,0,Male,HALEAB184,0,0,120,No
+184,Cameroon,2000,44,Healthy life expectancy,Absolute,0,Female,HALEAB185,0,0,120,No
+185,Cameroon,2000,44,Healthy life expectancy,Absolute,0,All,HALEAB186,0,0,120,No
+186,Canada,2012,71,Healthy life expectancy,Absolute,0,Male,HALEAB187,0,0,124,No
+187,Canada,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB188,0,0,124,No
+188,Canada,2012,72,Healthy life expectancy,Absolute,0,All,HALEAB189,0,0,124,No
+189,Canada,2000,69,Healthy life expectancy,Absolute,0,Male,HALEAB190,0,0,124,No
+190,Canada,2000,72,Healthy life expectancy,Absolute,0,Female,HALEAB191,0,0,124,No
+191,Canada,2000,70,Healthy life expectancy,Absolute,0,All,HALEAB192,0,0,124,No
+192,Central African Republic,2012,43,Healthy life expectancy,Absolute,0,Male,HALEAB193,0,0,140,No
+193,Central African Republic,2012,44,Healthy life expectancy,Absolute,0,Female,HALEAB194,0,0,140,No
+194,Central African Republic,2012,43,Healthy life expectancy,Absolute,0,All,HALEAB195,0,0,140,No
+195,Central African Republic,2000,38,Healthy life expectancy,Absolute,0,Male,HALEAB196,0,0,140,No
+196,Central African Republic,2000,39,Healthy life expectancy,Absolute,0,Female,HALEAB197,0,0,140,No
+197,Central African Republic,2000,38,Healthy life expectancy,Absolute,0,All,HALEAB198,0,0,140,No
+198,Chad,2012,43,Healthy life expectancy,Absolute,0,Male,HALEAB199,0,0,148,No
+199,Chad,2012,44,Healthy life expectancy,Absolute,0,Female,HALEAB200,0,0,148,No
+200,Chad,2012,44,Healthy life expectancy,Absolute,0,All,HALEAB201,0,0,148,No
+201,Chad,2000,39,Healthy life expectancy,Absolute,0,Male,HALEAB202,0,0,148,No
+202,Chad,2000,40,Healthy life expectancy,Absolute,0,Female,HALEAB203,0,0,148,No
+203,Chad,2000,40,Healthy life expectancy,Absolute,0,All,HALEAB204,0,0,148,No
+204,Chile,2012,68,Healthy life expectancy,Absolute,0,Male,HALEAB205,0,0,152,No
+205,Chile,2012,72,Healthy life expectancy,Absolute,0,Female,HALEAB206,0,0,152,No
+206,Chile,2012,70,Healthy life expectancy,Absolute,0,All,HALEAB207,0,0,152,No
+207,Chile,2000,65,Healthy life expectancy,Absolute,0,Male,HALEAB208,0,0,152,No
+208,Chile,2000,70,Healthy life expectancy,Absolute,0,Female,HALEAB209,0,0,152,No
+209,Chile,2000,68,Healthy life expectancy,Absolute,0,All,HALEAB210,0,0,152,No
+210,China,2012,67,Healthy life expectancy,Absolute,0,Male,HALEAB211,0,0,156,No
+211,China,2012,69,Healthy life expectancy,Absolute,0,Female,HALEAB212,0,0,156,No
+212,China,2012,68,Healthy life expectancy,Absolute,0,All,HALEAB213,0,0,156,No
+213,China,2000,63,Healthy life expectancy,Absolute,0,Male,HALEAB214,0,0,156,No
+214,China,2000,66,Healthy life expectancy,Absolute,0,Female,HALEAB215,0,0,156,No
+215,China,2000,64,Healthy life expectancy,Absolute,0,All,HALEAB216,0,0,156,No
+216,Colombia,2012,66,Healthy life expectancy,Absolute,0,Male,HALEAB217,0,0,170,No
+217,Colombia,2012,70,Healthy life expectancy,Absolute,0,Female,HALEAB218,0,0,170,No
+218,Colombia,2012,68,Healthy life expectancy,Absolute,0,All,HALEAB219,0,0,170,No
+219,Colombia,2000,61,Healthy life expectancy,Absolute,0,Male,HALEAB220,0,0,170,No
+220,Colombia,2000,67,Healthy life expectancy,Absolute,0,Female,HALEAB221,0,0,170,No
+221,Colombia,2000,64,Healthy life expectancy,Absolute,0,All,HALEAB222,0,0,170,No
+222,Comoros,2012,53,Healthy life expectancy,Absolute,0,Male,HALEAB223,0,0,174,No
+223,Comoros,2012,54,Healthy life expectancy,Absolute,0,Female,HALEAB224,0,0,174,No
+224,Comoros,2012,53,Healthy life expectancy,Absolute,0,All,HALEAB225,0,0,174,No
+225,Comoros,2000,50,Healthy life expectancy,Absolute,0,Male,HALEAB226,0,0,174,No
+226,Comoros,2000,52,Healthy life expectancy,Absolute,0,Female,HALEAB227,0,0,174,No
+227,Comoros,2000,51,Healthy life expectancy,Absolute,0,All,HALEAB228,0,0,174,No
+228,Congo,2012,49,Healthy life expectancy,Absolute,0,Male,HALEAB229,0,0,178,No
+229,Congo,2012,51,Healthy life expectancy,Absolute,0,Female,HALEAB230,0,0,178,No
+230,Congo,2012,50,Healthy life expectancy,Absolute,0,All,HALEAB231,0,0,178,No
+231,Congo,2000,45,Healthy life expectancy,Absolute,0,Male,HALEAB232,0,0,178,No
+232,Congo,2000,45,Healthy life expectancy,Absolute,0,Female,HALEAB233,0,0,178,No
+233,Congo,2000,45,Healthy life expectancy,Absolute,0,All,HALEAB234,0,0,178,No
+234,Cook Islands,2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB235,0,0,184,No
+235,Cook Islands,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB236,0,0,184,No
+236,Cook Islands,2012,64,Healthy life expectancy,Absolute,0,All,HALEAB237,0,0,184,No
+237,Cook Islands,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB238,0,0,184,No
+238,Cook Islands,2000,64,Healthy life expectancy,Absolute,0,Female,HALEAB239,0,0,184,No
+239,Cook Islands,2000,62,Healthy life expectancy,Absolute,0,All,HALEAB240,0,0,184,No
+240,Costa Rica,2012,68,Healthy life expectancy,Absolute,0,Male,HALEAB241,0,0,188,No
+241,Costa Rica,2012,71,Healthy life expectancy,Absolute,0,Female,HALEAB242,0,0,188,No
+242,Costa Rica,2012,69,Healthy life expectancy,Absolute,0,All,HALEAB243,0,0,188,No
+243,Costa Rica,2000,66,Healthy life expectancy,Absolute,0,Male,HALEAB244,0,0,188,No
+244,Costa Rica,2000,69,Healthy life expectancy,Absolute,0,Female,HALEAB245,0,0,188,No
+245,Costa Rica,2000,67,Healthy life expectancy,Absolute,0,All,HALEAB246,0,0,188,No
+246,Côte dIvoire,2012,45,Healthy life expectancy,Absolute,0,Male,HALEAB247,0,0,384,No
+247,Côte dIvoire,2012,46,Healthy life expectancy,Absolute,0,Female,HALEAB248,0,0,384,No
+248,Côte dIvoire,2012,46,Healthy life expectancy,Absolute,0,All,HALEAB249,0,0,384,No
+249,Côte dIvoire,2000,41,Healthy life expectancy,Absolute,0,Male,HALEAB250,0,0,384,No
+250,Côte dIvoire,2000,42,Healthy life expectancy,Absolute,0,Female,HALEAB251,0,0,384,No
+251,Côte dIvoire,2000,41,Healthy life expectancy,Absolute,0,All,HALEAB252,0,0,384,No
+252,Croatia,2012,65,Healthy life expectancy,Absolute,0,Male,HALEAB253,0,0,191,No
+253,Croatia,2012,70,Healthy life expectancy,Absolute,0,Female,HALEAB254,0,0,191,No
+254,Croatia,2012,68,Healthy life expectancy,Absolute,0,All,HALEAB255,0,0,191,No
+255,Croatia,2000,63,Healthy life expectancy,Absolute,0,Male,HALEAB256,0,0,191,No
+256,Croatia,2000,68,Healthy life expectancy,Absolute,0,Female,HALEAB257,0,0,191,No
+257,Croatia,2000,65,Healthy life expectancy,Absolute,0,All,HALEAB258,0,0,191,No
+258,Cuba,2012,65,Healthy life expectancy,Absolute,0,Male,HALEAB259,0,0,192,No
+259,Cuba,2012,69,Healthy life expectancy,Absolute,0,Female,HALEAB260,0,0,192,No
+260,Cuba,2012,67,Healthy life expectancy,Absolute,0,All,HALEAB261,0,0,192,No
+261,Cuba,2000,65,Healthy life expectancy,Absolute,0,Male,HALEAB262,0,0,192,No
+262,Cuba,2000,68,Healthy life expectancy,Absolute,0,Female,HALEAB263,0,0,192,No
+263,Cuba,2000,66,Healthy life expectancy,Absolute,0,All,HALEAB264,0,0,192,No
+264,Cyprus,2012,73,Healthy life expectancy,Absolute,0,Male,HALEAB265,0,0,196,No
+265,Cyprus,2012,76,Healthy life expectancy,Absolute,0,Female,HALEAB266,0,0,196,No
+266,Cyprus,2012,74,Healthy life expectancy,Absolute,0,All,HALEAB267,0,0,196,No
+267,Cyprus,2000,69,Healthy life expectancy,Absolute,0,Male,HALEAB268,0,0,196,No
+268,Cyprus,2000,71,Healthy life expectancy,Absolute,0,Female,HALEAB269,0,0,196,No
+269,Cyprus,2000,70,Healthy life expectancy,Absolute,0,All,HALEAB270,0,0,196,No
+270,Czech Republic,2012,66,Healthy life expectancy,Absolute,0,Male,HALEAB271,0,0,203,No
+271,Czech Republic,2012,71,Healthy life expectancy,Absolute,0,Female,HALEAB272,0,0,203,No
+272,Czech Republic,2012,69,Healthy life expectancy,Absolute,0,All,HALEAB273,0,0,203,No
+273,Czech Republic,2000,64,Healthy life expectancy,Absolute,0,Male,HALEAB274,0,0,203,No
+274,Czech Republic,2000,69,Healthy life expectancy,Absolute,0,Female,HALEAB275,0,0,203,No
+275,Czech Republic,2000,66,Healthy life expectancy,Absolute,0,All,HALEAB276,0,0,203,No
+276,Democratic Peoples Republic of Korea,2012,59,Healthy life expectancy,Absolute,0,Male,HALEAB277,0,0,408,No
+277,Democratic Peoples Republic of Korea,2012,65,Healthy life expectancy,Absolute,0,Female,HALEAB278,0,0,408,No
+278,Democratic Peoples Republic of Korea,2012,62,Healthy life expectancy,Absolute,0,All,HALEAB279,0,0,408,No
+279,Democratic Peoples Republic of Korea,2000,55,Healthy life expectancy,Absolute,0,Male,HALEAB280,0,0,408,No
+280,Democratic Peoples Republic of Korea,2000,61,Healthy life expectancy,Absolute,0,Female,HALEAB281,0,0,408,No
+281,Democratic Peoples Republic of Korea,2000,58,Healthy life expectancy,Absolute,0,All,HALEAB282,0,0,408,No
+282,Democratic Republic of the Congo,2012,43,Healthy life expectancy,Absolute,0,Male,HALEAB283,0,0,180,No
+283,Democratic Republic of the Congo,2012,45,Healthy life expectancy,Absolute,0,Female,HALEAB284,0,0,180,No
+284,Democratic Republic of the Congo,2012,44,Healthy life expectancy,Absolute,0,All,HALEAB285,0,0,180,No
+285,Democratic Republic of the Congo,2000,40,Healthy life expectancy,Absolute,0,Male,HALEAB286,0,0,180,No
+286,Democratic Republic of the Congo,2000,42,Healthy life expectancy,Absolute,0,Female,HALEAB287,0,0,180,No
+287,Democratic Republic of the Congo,2000,41,Healthy life expectancy,Absolute,0,All,HALEAB288,0,0,180,No
+288,Denmark,2012,69,Healthy life expectancy,Absolute,0,Male,HALEAB289,0,0,208,No
+289,Denmark,2012,72,Healthy life expectancy,Absolute,0,Female,HALEAB290,0,0,208,No
+290,Denmark,2012,70,Healthy life expectancy,Absolute,0,All,HALEAB291,0,0,208,No
+291,Denmark,2000,66,Healthy life expectancy,Absolute,0,Male,HALEAB292,0,0,208,No
+292,Denmark,2000,70,Healthy life expectancy,Absolute,0,Female,HALEAB293,0,0,208,No
+293,Denmark,2000,68,Healthy life expectancy,Absolute,0,All,HALEAB294,0,0,208,No
+294,Djibouti,2012,52,Healthy life expectancy,Absolute,0,Male,HALEAB295,0,0,262,No
+295,Djibouti,2012,53,Healthy life expectancy,Absolute,0,Female,HALEAB296,0,0,262,No
+296,Djibouti,2012,52,Healthy life expectancy,Absolute,0,All,HALEAB297,0,0,262,No
+297,Djibouti,2000,48,Healthy life expectancy,Absolute,0,Male,HALEAB298,0,0,262,No
+298,Djibouti,2000,50,Healthy life expectancy,Absolute,0,Female,HALEAB299,0,0,262,No
+299,Djibouti,2000,49,Healthy life expectancy,Absolute,0,All,HALEAB300,0,0,262,No
+300,Dominica,2012,61,Healthy life expectancy,Absolute,0,Male,HALEAB301,0,0,212,No
+301,Dominica,2012,65,Healthy life expectancy,Absolute,0,Female,HALEAB302,0,0,212,No
+302,Dominica,2012,63,Healthy life expectancy,Absolute,0,All,HALEAB303,0,0,212,No
+303,Dominica,2000,63,Healthy life expectancy,Absolute,0,Male,HALEAB304,0,0,212,No
+304,Dominica,2000,66,Healthy life expectancy,Absolute,0,Female,HALEAB305,0,0,212,No
+305,Dominica,2000,64,Healthy life expectancy,Absolute,0,All,HALEAB306,0,0,212,No
+306,Dominican Republic,2012,65,Healthy life expectancy,Absolute,0,Male,HALEAB307,0,0,214,No
+307,Dominican Republic,2012,67,Healthy life expectancy,Absolute,0,Female,HALEAB308,0,0,214,No
+308,Dominican Republic,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB309,0,0,214,No
+309,Dominican Republic,2000,63,Healthy life expectancy,Absolute,0,Male,HALEAB310,0,0,214,No
+310,Dominican Republic,2000,64,Healthy life expectancy,Absolute,0,Female,HALEAB311,0,0,214,No
+311,Dominican Republic,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB312,0,0,214,No
+312,Ecuador,2012,64,Healthy life expectancy,Absolute,0,Male,HALEAB313,0,0,218,No
+313,Ecuador,2012,68,Healthy life expectancy,Absolute,0,Female,HALEAB314,0,0,218,No
+314,Ecuador,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB315,0,0,218,No
+315,Ecuador,2000,61,Healthy life expectancy,Absolute,0,Male,HALEAB316,0,0,218,No
+316,Ecuador,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB317,0,0,218,No
+317,Ecuador,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB318,0,0,218,No
+318,Egypt,2012,60,Healthy life expectancy,Absolute,0,Male,HALEAB319,0,0,818,No
+319,Egypt,2012,63,Healthy life expectancy,Absolute,0,Female,HALEAB320,0,0,818,No
+320,Egypt,2012,61,Healthy life expectancy,Absolute,0,All,HALEAB321,0,0,818,No
+321,Egypt,2000,57,Healthy life expectancy,Absolute,0,Male,HALEAB322,0,0,818,No
+322,Egypt,2000,60,Healthy life expectancy,Absolute,0,Female,HALEAB323,0,0,818,No
+323,Egypt,2000,59,Healthy life expectancy,Absolute,0,All,HALEAB324,0,0,818,No
+324,El Salvador,2012,59,Healthy life expectancy,Absolute,0,Male,HALEAB325,0,0,222,No
+325,El Salvador,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB326,0,0,222,No
+326,El Salvador,2012,63,Healthy life expectancy,Absolute,0,All,HALEAB327,0,0,222,No
+327,El Salvador,2000,58,Healthy life expectancy,Absolute,0,Male,HALEAB328,0,0,222,No
+328,El Salvador,2000,64,Healthy life expectancy,Absolute,0,Female,HALEAB329,0,0,222,No
+329,El Salvador,2000,61,Healthy life expectancy,Absolute,0,All,HALEAB330,0,0,222,No
+330,Equatorial Guinea,2012,47,Healthy life expectancy,Absolute,0,Male,HALEAB331,0,0,226,No
+331,Equatorial Guinea,2012,48,Healthy life expectancy,Absolute,0,Female,HALEAB332,0,0,226,No
+332,Equatorial Guinea,2012,47,Healthy life expectancy,Absolute,0,All,HALEAB333,0,0,226,No
+333,Equatorial Guinea,2000,43,Healthy life expectancy,Absolute,0,Male,HALEAB334,0,0,226,No
+334,Equatorial Guinea,2000,44,Healthy life expectancy,Absolute,0,Female,HALEAB335,0,0,226,No
+335,Equatorial Guinea,2000,43,Healthy life expectancy,Absolute,0,All,HALEAB336,0,0,226,No
+336,Eritrea,2012,53,Healthy life expectancy,Absolute,0,Male,HALEAB337,0,0,232,No
+337,Eritrea,2012,55,Healthy life expectancy,Absolute,0,Female,HALEAB338,0,0,232,No
+338,Eritrea,2012,54,Healthy life expectancy,Absolute,0,All,HALEAB339,0,0,232,No
+339,Eritrea,2000,34,Healthy life expectancy,Absolute,0,Male,HALEAB340,0,0,232,No
+340,Eritrea,2000,46,Healthy life expectancy,Absolute,0,Female,HALEAB341,0,0,232,No
+341,Eritrea,2000,39,Healthy life expectancy,Absolute,0,All,HALEAB342,0,0,232,No
+342,Estonia,2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB343,0,0,233,No
+343,Estonia,2012,71,Healthy life expectancy,Absolute,0,Female,HALEAB344,0,0,233,No
+344,Estonia,2012,67,Healthy life expectancy,Absolute,0,All,HALEAB345,0,0,233,No
+345,Estonia,2000,58,Healthy life expectancy,Absolute,0,Male,HALEAB346,0,0,233,No
+346,Estonia,2000,67,Healthy life expectancy,Absolute,0,Female,HALEAB347,0,0,233,No
+347,Estonia,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB348,0,0,233,No
+348,Ethiopia,2012,54,Healthy life expectancy,Absolute,0,Male,HALEAB349,0,0,231,No
+349,Ethiopia,2012,54,Healthy life expectancy,Absolute,0,Male,HALEAB349,0,0,230,No
+350,Ethiopia,2012,56,Healthy life expectancy,Absolute,0,Female,HALEAB350,0,0,231,No
+351,Ethiopia,2012,56,Healthy life expectancy,Absolute,0,Female,HALEAB350,0,0,230,No
+352,Ethiopia,2012,55,Healthy life expectancy,Absolute,0,All,HALEAB351,0,0,231,No
+353,Ethiopia,2012,55,Healthy life expectancy,Absolute,0,All,HALEAB351,0,0,230,No
+354,Ethiopia,2000,43,Healthy life expectancy,Absolute,0,Male,HALEAB352,0,0,231,No
+355,Ethiopia,2000,43,Healthy life expectancy,Absolute,0,Male,HALEAB352,0,0,230,No
+356,Ethiopia,2000,45,Healthy life expectancy,Absolute,0,Female,HALEAB353,0,0,231,No
+357,Ethiopia,2000,45,Healthy life expectancy,Absolute,0,Female,HALEAB353,0,0,230,No
+358,Ethiopia,2000,44,Healthy life expectancy,Absolute,0,All,HALEAB354,0,0,231,No
+359,Ethiopia,2000,44,Healthy life expectancy,Absolute,0,All,HALEAB354,0,0,230,No
+360,Fiji,2012,58,Healthy life expectancy,Absolute,0,Male,HALEAB355,0,0,242,No
+361,Fiji,2012,62,Healthy life expectancy,Absolute,0,Female,HALEAB356,0,0,242,No
+362,Fiji,2012,60,Healthy life expectancy,Absolute,0,All,HALEAB357,0,0,242,No
+363,Fiji,2000,57,Healthy life expectancy,Absolute,0,Male,HALEAB358,0,0,242,No
+364,Fiji,2000,60,Healthy life expectancy,Absolute,0,Female,HALEAB359,0,0,242,No
+365,Fiji,2000,58,Healthy life expectancy,Absolute,0,All,HALEAB360,0,0,242,No
+366,Finland,2012,69,Healthy life expectancy,Absolute,0,Male,HALEAB361,0,0,246,No
+367,Finland,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB362,0,0,246,No
+368,Finland,2012,71,Healthy life expectancy,Absolute,0,All,HALEAB363,0,0,246,No
+369,Finland,2000,66,Healthy life expectancy,Absolute,0,Male,HALEAB364,0,0,246,No
+370,Finland,2000,71,Healthy life expectancy,Absolute,0,Female,HALEAB365,0,0,246,No
+371,Finland,2000,69,Healthy life expectancy,Absolute,0,All,HALEAB366,0,0,246,No
+372,France,2012,69,Healthy life expectancy,Absolute,0,Male,HALEAB367,0,0,250,No
+373,France,2012,74,Healthy life expectancy,Absolute,0,Female,HALEAB368,0,0,250,No
+374,France,2012,72,Healthy life expectancy,Absolute,0,All,HALEAB369,0,0,250,No
+375,France,2000,67,Healthy life expectancy,Absolute,0,Male,HALEAB370,0,0,250,No
+376,France,2000,72,Healthy life expectancy,Absolute,0,Female,HALEAB371,0,0,250,No
+377,France,2000,70,Healthy life expectancy,Absolute,0,All,HALEAB372,0,0,250,No
+378,Gabon,2012,53,Healthy life expectancy,Absolute,0,Male,HALEAB373,0,0,266,No
+379,Gabon,2012,54,Healthy life expectancy,Absolute,0,Female,HALEAB374,0,0,266,No
+380,Gabon,2012,54,Healthy life expectancy,Absolute,0,All,HALEAB375,0,0,266,No
+381,Gabon,2000,50,Healthy life expectancy,Absolute,0,Male,HALEAB376,0,0,266,No
+382,Gabon,2000,51,Healthy life expectancy,Absolute,0,Female,HALEAB377,0,0,266,No
+383,Gabon,2000,50,Healthy life expectancy,Absolute,0,All,HALEAB378,0,0,266,No
+384,Gambia,2012,52,Healthy life expectancy,Absolute,0,Male,HALEAB379,0,0,270,No
+385,Gambia,2012,53,Healthy life expectancy,Absolute,0,Female,HALEAB380,0,0,270,No
+386,Gambia,2012,53,Healthy life expectancy,Absolute,0,All,HALEAB381,0,0,270,No
+387,Gambia,2000,48,Healthy life expectancy,Absolute,0,Male,HALEAB382,0,0,270,No
+388,Gambia,2000,49,Healthy life expectancy,Absolute,0,Female,HALEAB383,0,0,270,No
+389,Gambia,2000,48,Healthy life expectancy,Absolute,0,All,HALEAB384,0,0,270,No
+390,Georgia,2012,62,Healthy life expectancy,Absolute,0,Male,HALEAB385,0,0,268,No
+391,Georgia,2012,68,Healthy life expectancy,Absolute,0,Female,HALEAB386,0,0,268,No
+392,Georgia,2012,65,Healthy life expectancy,Absolute,0,All,HALEAB387,0,0,268,No
+393,Georgia,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB388,0,0,268,No
+394,Georgia,2000,66,Healthy life expectancy,Absolute,0,Female,HALEAB389,0,0,268,No
+395,Georgia,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB390,0,0,268,No
+396,Germany,2012,70,Healthy life expectancy,Absolute,0,Male,HALEAB391,0,0,276,No
+397,Germany,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB392,0,0,276,No
+398,Germany,2012,71,Healthy life expectancy,Absolute,0,All,HALEAB393,0,0,276,No
+399,Germany,2000,67,Healthy life expectancy,Absolute,0,Male,HALEAB394,0,0,276,No
+400,Germany,2000,71,Healthy life expectancy,Absolute,0,Female,HALEAB395,0,0,276,No
+401,Germany,2000,69,Healthy life expectancy,Absolute,0,All,HALEAB396,0,0,276,No
+402,Ghana,2012,53,Healthy life expectancy,Absolute,0,Male,HALEAB397,0,0,288,No
+403,Ghana,2012,54,Healthy life expectancy,Absolute,0,Female,HALEAB398,0,0,288,No
+404,Ghana,2012,54,Healthy life expectancy,Absolute,0,All,HALEAB399,0,0,288,No
+405,Ghana,2000,49,Healthy life expectancy,Absolute,0,Male,HALEAB400,0,0,288,No
+406,Ghana,2000,50,Healthy life expectancy,Absolute,0,Female,HALEAB401,0,0,288,No
+407,Ghana,2000,50,Healthy life expectancy,Absolute,0,All,HALEAB402,0,0,288,No
+408,Greece,2012,69,Healthy life expectancy,Absolute,0,Male,HALEAB403,0,0,300,No
+409,Greece,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB404,0,0,300,No
+410,Greece,2012,71,Healthy life expectancy,Absolute,0,All,HALEAB405,0,0,300,No
+411,Greece,2000,68,Healthy life expectancy,Absolute,0,Male,HALEAB406,0,0,300,No
+412,Greece,2000,71,Healthy life expectancy,Absolute,0,Female,HALEAB407,0,0,300,No
+413,Greece,2000,69,Healthy life expectancy,Absolute,0,All,HALEAB408,0,0,300,No
+414,Grenada,2012,60,Healthy life expectancy,Absolute,0,Male,HALEAB409,0,0,308,No
+415,Grenada,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB410,0,0,308,No
+416,Grenada,2012,63,Healthy life expectancy,Absolute,0,All,HALEAB411,0,0,308,No
+417,Grenada,2000,61,Healthy life expectancy,Absolute,0,Male,HALEAB412,0,0,308,No
+418,Grenada,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB413,0,0,308,No
+419,Grenada,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB414,0,0,308,No
+420,Guatemala,2012,60,Healthy life expectancy,Absolute,0,Male,HALEAB415,0,0,320,No
+421,Guatemala,2012,65,Healthy life expectancy,Absolute,0,Female,HALEAB416,0,0,320,No
+422,Guatemala,2012,62,Healthy life expectancy,Absolute,0,All,HALEAB417,0,0,320,No
+423,Guatemala,2000,56,Healthy life expectancy,Absolute,0,Male,HALEAB418,0,0,320,No
+424,Guatemala,2000,61,Healthy life expectancy,Absolute,0,Female,HALEAB419,0,0,320,No
+425,Guatemala,2000,59,Healthy life expectancy,Absolute,0,All,HALEAB420,0,0,320,No
+426,Guinea,2012,49,Healthy life expectancy,Absolute,0,Male,HALEAB421,0,0,324,No
+427,Guinea,2012,50,Healthy life expectancy,Absolute,0,Female,HALEAB422,0,0,324,No
+428,Guinea,2012,49,Healthy life expectancy,Absolute,0,All,HALEAB423,0,0,324,No
+429,Guinea,2000,43,Healthy life expectancy,Absolute,0,Male,HALEAB424,0,0,324,No
+430,Guinea,2000,43,Healthy life expectancy,Absolute,0,Female,HALEAB425,0,0,324,No
+431,Guinea,2000,43,Healthy life expectancy,Absolute,0,All,HALEAB426,0,0,324,No
+432,Guinea-Bissau,2012,46,Healthy life expectancy,Absolute,0,Male,HALEAB427,0,0,624,No
+433,Guinea-Bissau,2012,47,Healthy life expectancy,Absolute,0,Female,HALEAB428,0,0,624,No
+434,Guinea-Bissau,2012,47,Healthy life expectancy,Absolute,0,All,HALEAB429,0,0,624,No
+435,Guinea-Bissau,2000,43,Healthy life expectancy,Absolute,0,Male,HALEAB430,0,0,624,No
+436,Guinea-Bissau,2000,45,Healthy life expectancy,Absolute,0,Female,HALEAB431,0,0,624,No
+437,Guinea-Bissau,2000,44,Healthy life expectancy,Absolute,0,All,HALEAB432,0,0,624,No
+438,Guyana,2012,52,Healthy life expectancy,Absolute,0,Male,HALEAB433,0,0,328,No
+439,Guyana,2012,57,Healthy life expectancy,Absolute,0,Female,HALEAB434,0,0,328,No
+440,Guyana,2012,55,Healthy life expectancy,Absolute,0,All,HALEAB435,0,0,328,No
+441,Guyana,2000,54,Healthy life expectancy,Absolute,0,Male,HALEAB436,0,0,328,No
+442,Guyana,2000,58,Healthy life expectancy,Absolute,0,Female,HALEAB437,0,0,328,No
+443,Guyana,2000,56,Healthy life expectancy,Absolute,0,All,HALEAB438,0,0,328,No
+444,Haiti,2012,50,Healthy life expectancy,Absolute,0,Male,HALEAB439,0,0,332,No
+445,Haiti,2012,53,Healthy life expectancy,Absolute,0,Female,HALEAB440,0,0,332,No
+446,Haiti,2012,52,Healthy life expectancy,Absolute,0,All,HALEAB441,0,0,332,No
+447,Haiti,2000,47,Healthy life expectancy,Absolute,0,Male,HALEAB442,0,0,332,No
+448,Haiti,2000,49,Healthy life expectancy,Absolute,0,Female,HALEAB443,0,0,332,No
+449,Haiti,2000,48,Healthy life expectancy,Absolute,0,All,HALEAB444,0,0,332,No
+450,Honduras,2012,62,Healthy life expectancy,Absolute,0,Male,HALEAB445,0,0,340,No
+451,Honduras,2012,65,Healthy life expectancy,Absolute,0,Female,HALEAB446,0,0,340,No
+452,Honduras,2012,64,Healthy life expectancy,Absolute,0,All,HALEAB447,0,0,340,No
+453,Honduras,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB448,0,0,340,No
+454,Honduras,2000,62,Healthy life expectancy,Absolute,0,Female,HALEAB449,0,0,340,No
+455,Honduras,2000,61,Healthy life expectancy,Absolute,0,All,HALEAB450,0,0,340,No
+456,Hungary,2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB451,0,0,348,No
+457,Hungary,2012,69,Healthy life expectancy,Absolute,0,Female,HALEAB452,0,0,348,No
+458,Hungary,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB453,0,0,348,No
+459,Hungary,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB454,0,0,348,No
+460,Hungary,2000,67,Healthy life expectancy,Absolute,0,Female,HALEAB455,0,0,348,No
+461,Hungary,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB456,0,0,348,No
+462,Iceland,2012,72,Healthy life expectancy,Absolute,0,Male,HALEAB457,0,0,352,No
+463,Iceland,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB458,0,0,352,No
+464,Iceland,2012,72,Healthy life expectancy,Absolute,0,All,HALEAB459,0,0,352,No
+465,Iceland,2000,69,Healthy life expectancy,Absolute,0,Male,HALEAB460,0,0,352,No
+466,Iceland,2000,72,Healthy life expectancy,Absolute,0,Female,HALEAB461,0,0,352,No
+467,Iceland,2000,71,Healthy life expectancy,Absolute,0,All,HALEAB462,0,0,352,No
+468,India,2012,56,Healthy life expectancy,Absolute,0,Male,HALEAB463,0,0,356,No
+469,India,2012,58,Healthy life expectancy,Absolute,0,Female,HALEAB464,0,0,356,No
+470,India,2012,57,Healthy life expectancy,Absolute,0,All,HALEAB465,0,0,356,No
+471,India,2000,53,Healthy life expectancy,Absolute,0,Male,HALEAB466,0,0,356,No
+472,India,2000,53,Healthy life expectancy,Absolute,0,Female,HALEAB467,0,0,356,No
+473,India,2000,53,Healthy life expectancy,Absolute,0,All,HALEAB468,0,0,356,No
+474,Indonesia,2012,61,Healthy life expectancy,Absolute,0,Male,HALEAB469,0,0,360,No
+475,Indonesia,2012,64,Healthy life expectancy,Absolute,0,Female,HALEAB470,0,0,360,No
+476,Indonesia,2012,62,Healthy life expectancy,Absolute,0,All,HALEAB471,0,0,360,No
+477,Indonesia,2000,57,Healthy life expectancy,Absolute,0,Male,HALEAB472,0,0,360,No
+478,Indonesia,2000,60,Healthy life expectancy,Absolute,0,Female,HALEAB473,0,0,360,No
+479,Indonesia,2000,58,Healthy life expectancy,Absolute,0,All,HALEAB474,0,0,360,No
+480,Iran (Islamic Republic of),2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB475,0,0,364,No
+481,Iran (Islamic Republic of),2012,65,Healthy life expectancy,Absolute,0,Female,HALEAB476,0,0,364,No
+482,Iran (Islamic Republic of),2012,64,Healthy life expectancy,Absolute,0,All,HALEAB477,0,0,364,No
+483,Iran (Islamic Republic of),2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB478,0,0,364,No
+484,Iran (Islamic Republic of),2000,61,Healthy life expectancy,Absolute,0,Female,HALEAB479,0,0,364,No
+485,Iran (Islamic Republic of),2000,60,Healthy life expectancy,Absolute,0,All,HALEAB480,0,0,364,No
+486,Iraq,2012,58,Healthy life expectancy,Absolute,0,Male,HALEAB481,0,0,368,No
+487,Iraq,2012,63,Healthy life expectancy,Absolute,0,Female,HALEAB482,0,0,368,No
+488,Iraq,2012,61,Healthy life expectancy,Absolute,0,All,HALEAB483,0,0,368,No
+489,Iraq,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB484,0,0,368,No
+490,Iraq,2000,62,Healthy life expectancy,Absolute,0,Female,HALEAB485,0,0,368,No
+491,Iraq,2000,61,Healthy life expectancy,Absolute,0,All,HALEAB486,0,0,368,No
+492,Ireland,2012,70,Healthy life expectancy,Absolute,0,Male,HALEAB487,0,0,372,No
+493,Ireland,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB488,0,0,372,No
+494,Ireland,2012,71,Healthy life expectancy,Absolute,0,All,HALEAB489,0,0,372,No
+495,Ireland,2000,66,Healthy life expectancy,Absolute,0,Male,HALEAB490,0,0,372,No
+496,Ireland,2000,70,Healthy life expectancy,Absolute,0,Female,HALEAB491,0,0,372,No
+497,Ireland,2000,68,Healthy life expectancy,Absolute,0,All,HALEAB492,0,0,372,No
+498,Israel,2012,71,Healthy life expectancy,Absolute,0,Male,HALEAB493,0,0,376,No
+499,Israel,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB494,0,0,376,No
+500,Israel,2012,72,Healthy life expectancy,Absolute,0,All,HALEAB495,0,0,376,No
+501,Israel,2000,68,Healthy life expectancy,Absolute,0,Male,HALEAB496,0,0,376,No
+502,Israel,2000,71,Healthy life expectancy,Absolute,0,Female,HALEAB497,0,0,376,No
+503,Israel,2000,69,Healthy life expectancy,Absolute,0,All,HALEAB498,0,0,376,No
+504,Italy,2012,71,Healthy life expectancy,Absolute,0,Male,HALEAB499,0,0,380,No
+505,Italy,2012,74,Healthy life expectancy,Absolute,0,Female,HALEAB500,0,0,380,No
+506,Italy,2012,73,Healthy life expectancy,Absolute,0,All,HALEAB501,0,0,380,No
+507,Italy,2000,68,Healthy life expectancy,Absolute,0,Male,HALEAB502,0,0,380,No
+508,Italy,2000,72,Healthy life expectancy,Absolute,0,Female,HALEAB503,0,0,380,No
+509,Italy,2000,70,Healthy life expectancy,Absolute,0,All,HALEAB504,0,0,380,No
+510,Jamaica,2012,62,Healthy life expectancy,Absolute,0,Male,HALEAB505,0,0,388,No
+511,Jamaica,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB506,0,0,388,No
+512,Jamaica,2012,64,Healthy life expectancy,Absolute,0,All,HALEAB507,0,0,388,No
+513,Jamaica,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB508,0,0,388,No
+514,Jamaica,2000,64,Healthy life expectancy,Absolute,0,Female,HALEAB509,0,0,388,No
+515,Jamaica,2000,62,Healthy life expectancy,Absolute,0,All,HALEAB510,0,0,388,No
+516,Japan,2012,72,Healthy life expectancy,Absolute,0,Male,HALEAB511,0,0,392,No
+517,Japan,2012,72,Healthy life expectancy,Absolute,0,Male,HALEAB511,0,0,392,No
+518,Japan,2012,77,Healthy life expectancy,Absolute,0,Female,HALEAB512,0,0,392,No
+519,Japan,2012,77,Healthy life expectancy,Absolute,0,Female,HALEAB512,0,0,392,No
+520,Japan,2012,75,Healthy life expectancy,Absolute,0,All,HALEAB513,0,0,392,No
+521,Japan,2012,75,Healthy life expectancy,Absolute,0,All,HALEAB513,0,0,392,No
+522,Japan,2000,71,Healthy life expectancy,Absolute,0,Male,HALEAB514,0,0,392,No
+523,Japan,2000,71,Healthy life expectancy,Absolute,0,Male,HALEAB514,0,0,392,No
+524,Japan,2000,76,Healthy life expectancy,Absolute,0,Female,HALEAB515,0,0,392,No
+525,Japan,2000,76,Healthy life expectancy,Absolute,0,Female,HALEAB515,0,0,392,No
+526,Japan,2000,73,Healthy life expectancy,Absolute,0,All,HALEAB516,0,0,392,No
+527,Japan,2000,73,Healthy life expectancy,Absolute,0,All,HALEAB516,0,0,392,No
+528,Jordan,2012,64,Healthy life expectancy,Absolute,0,Male,HALEAB517,0,0,400,No
+529,Jordan,2012,65,Healthy life expectancy,Absolute,0,Female,HALEAB518,0,0,400,No
+530,Jordan,2012,64,Healthy life expectancy,Absolute,0,All,HALEAB519,0,0,400,No
+531,Jordan,2000,62,Healthy life expectancy,Absolute,0,Male,HALEAB520,0,0,400,No
+532,Jordan,2000,63,Healthy life expectancy,Absolute,0,Female,HALEAB521,0,0,400,No
+533,Jordan,2000,62,Healthy life expectancy,Absolute,0,All,HALEAB522,0,0,400,No
+534,Kazakhstan,2012,56,Healthy life expectancy,Absolute,0,Male,HALEAB523,0,0,398,No
+535,Kazakhstan,2012,64,Healthy life expectancy,Absolute,0,Female,HALEAB524,0,0,398,No
+536,Kazakhstan,2012,60,Healthy life expectancy,Absolute,0,All,HALEAB525,0,0,398,No
+537,Kazakhstan,2000,51,Healthy life expectancy,Absolute,0,Male,HALEAB526,0,0,398,No
+538,Kazakhstan,2000,60,Healthy life expectancy,Absolute,0,Female,HALEAB527,0,0,398,No
+539,Kazakhstan,2000,56,Healthy life expectancy,Absolute,0,All,HALEAB528,0,0,398,No
+540,Kenya,2012,52,Healthy life expectancy,Absolute,0,Male,HALEAB529,0,0,404,No
+541,Kenya,2012,54,Healthy life expectancy,Absolute,0,Female,HALEAB530,0,0,404,No
+542,Kenya,2012,53,Healthy life expectancy,Absolute,0,All,HALEAB531,0,0,404,No
+543,Kenya,2000,45,Healthy life expectancy,Absolute,0,Male,HALEAB532,0,0,404,No
+544,Kenya,2000,46,Healthy life expectancy,Absolute,0,Female,HALEAB533,0,0,404,No
+545,Kenya,2000,45,Healthy life expectancy,Absolute,0,All,HALEAB534,0,0,404,No
+546,Kiribati,2012,56,Healthy life expectancy,Absolute,0,Male,HALEAB535,0,0,296,No
+547,Kiribati,2012,60,Healthy life expectancy,Absolute,0,Female,HALEAB536,0,0,296,No
+548,Kiribati,2012,58,Healthy life expectancy,Absolute,0,All,HALEAB537,0,0,296,No
+549,Kiribati,2000,53,Healthy life expectancy,Absolute,0,Male,HALEAB538,0,0,296,No
+550,Kiribati,2000,56,Healthy life expectancy,Absolute,0,Female,HALEAB539,0,0,296,No
+551,Kiribati,2000,55,Healthy life expectancy,Absolute,0,All,HALEAB540,0,0,296,No
+552,Kuwait,2012,68,Healthy life expectancy,Absolute,0,Male,HALEAB541,0,0,414,No
+553,Kuwait,2012,67,Healthy life expectancy,Absolute,0,Female,HALEAB542,0,0,414,No
+554,Kuwait,2012,68,Healthy life expectancy,Absolute,0,All,HALEAB543,0,0,414,No
+555,Kuwait,2000,65,Healthy life expectancy,Absolute,0,Male,HALEAB544,0,0,414,No
+556,Kuwait,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB545,0,0,414,No
+557,Kuwait,2000,65,Healthy life expectancy,Absolute,0,All,HALEAB546,0,0,414,No
+558,Kyrgyzstan,2012,58,Healthy life expectancy,Absolute,0,Male,HALEAB547,0,0,417,No
+559,Kyrgyzstan,2012,63,Healthy life expectancy,Absolute,0,Female,HALEAB548,0,0,417,No
+560,Kyrgyzstan,2012,61,Healthy life expectancy,Absolute,0,All,HALEAB549,0,0,417,No
+561,Kyrgyzstan,2000,55,Healthy life expectancy,Absolute,0,Male,HALEAB550,0,0,417,No
+562,Kyrgyzstan,2000,60,Healthy life expectancy,Absolute,0,Female,HALEAB551,0,0,417,No
+563,Kyrgyzstan,2000,58,Healthy life expectancy,Absolute,0,All,HALEAB552,0,0,417,No
+564,Lao Peoples Democratic Republic,2012,56,Healthy life expectancy,Absolute,0,Male,HALEAB553,0,0,418,No
+565,Lao Peoples Democratic Republic,2012,58,Healthy life expectancy,Absolute,0,Female,HALEAB554,0,0,418,No
+566,Lao Peoples Democratic Republic,2012,57,Healthy life expectancy,Absolute,0,All,HALEAB555,0,0,418,No
+567,Lao Peoples Democratic Republic,2000,50,Healthy life expectancy,Absolute,0,Male,HALEAB556,0,0,418,No
+568,Lao Peoples Democratic Republic,2000,52,Healthy life expectancy,Absolute,0,Female,HALEAB557,0,0,418,No
+569,Lao Peoples Democratic Republic,2000,51,Healthy life expectancy,Absolute,0,All,HALEAB558,0,0,418,No
+570,Latvia,2012,61,Healthy life expectancy,Absolute,0,Male,HALEAB559,0,0,428,No
+571,Latvia,2012,68,Healthy life expectancy,Absolute,0,Female,HALEAB560,0,0,428,No
+572,Latvia,2012,65,Healthy life expectancy,Absolute,0,All,HALEAB561,0,0,428,No
+573,Latvia,2000,57,Healthy life expectancy,Absolute,0,Male,HALEAB562,0,0,428,No
+574,Latvia,2000,66,Healthy life expectancy,Absolute,0,Female,HALEAB563,0,0,428,No
+575,Latvia,2000,62,Healthy life expectancy,Absolute,0,All,HALEAB564,0,0,428,No
+576,Lebanon,2012,68,Healthy life expectancy,Absolute,0,Male,HALEAB565,0,0,422,No
+577,Lebanon,2012,71,Healthy life expectancy,Absolute,0,Female,HALEAB566,0,0,422,No
+578,Lebanon,2012,69,Healthy life expectancy,Absolute,0,All,HALEAB567,0,0,422,No
+579,Lebanon,2000,64,Healthy life expectancy,Absolute,0,Male,HALEAB568,0,0,422,No
+580,Lebanon,2000,66,Healthy life expectancy,Absolute,0,Female,HALEAB569,0,0,422,No
+581,Lebanon,2000,65,Healthy life expectancy,Absolute,0,All,HALEAB570,0,0,422,No
+582,Lesotho,2012,42,Healthy life expectancy,Absolute,0,Male,HALEAB571,0,0,426,No
+583,Lesotho,2012,44,Healthy life expectancy,Absolute,0,Female,HALEAB572,0,0,426,No
+584,Lesotho,2012,43,Healthy life expectancy,Absolute,0,All,HALEAB573,0,0,426,No
+585,Lesotho,2000,41,Healthy life expectancy,Absolute,0,Male,HALEAB574,0,0,426,No
+586,Lesotho,2000,43,Healthy life expectancy,Absolute,0,Female,HALEAB575,0,0,426,No
+587,Lesotho,2000,42,Healthy life expectancy,Absolute,0,All,HALEAB576,0,0,426,No
+588,Liberia,2012,52,Healthy life expectancy,Absolute,0,Male,HALEAB577,0,0,430,No
+589,Liberia,2012,53,Healthy life expectancy,Absolute,0,Female,HALEAB578,0,0,430,No
+590,Liberia,2012,52,Healthy life expectancy,Absolute,0,All,HALEAB579,0,0,430,No
+591,Liberia,2000,43,Healthy life expectancy,Absolute,0,Male,HALEAB580,0,0,430,No
+592,Liberia,2000,44,Healthy life expectancy,Absolute,0,Female,HALEAB581,0,0,430,No
+593,Liberia,2000,43,Healthy life expectancy,Absolute,0,All,HALEAB582,0,0,430,No
+594,Libya,2012,64,Healthy life expectancy,Absolute,0,Male,HALEAB583,0,0,434,No
+595,Libya,2012,65,Healthy life expectancy,Absolute,0,Female,HALEAB584,0,0,434,No
+596,Libya,2012,64,Healthy life expectancy,Absolute,0,All,HALEAB585,0,0,434,No
+597,Libya,2000,61,Healthy life expectancy,Absolute,0,Male,HALEAB586,0,0,434,No
+598,Libya,2000,62,Healthy life expectancy,Absolute,0,Female,HALEAB587,0,0,434,No
+599,Libya,2000,61,Healthy life expectancy,Absolute,0,All,HALEAB588,0,0,434,No
+600,Lithuania,2012,61,Healthy life expectancy,Absolute,0,Male,HALEAB589,0,0,440,No
+601,Lithuania,2012,70,Healthy life expectancy,Absolute,0,Female,HALEAB590,0,0,440,No
+602,Lithuania,2012,65,Healthy life expectancy,Absolute,0,All,HALEAB591,0,0,440,No
+603,Lithuania,2000,59,Healthy life expectancy,Absolute,0,Male,HALEAB592,0,0,440,No
+604,Lithuania,2000,68,Healthy life expectancy,Absolute,0,Female,HALEAB593,0,0,440,No
+605,Lithuania,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB594,0,0,440,No
+606,Luxembourg,2012,70,Healthy life expectancy,Absolute,0,Male,HALEAB595,0,0,442,No
+607,Luxembourg,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB596,0,0,442,No
+608,Luxembourg,2012,72,Healthy life expectancy,Absolute,0,All,HALEAB597,0,0,442,No
+609,Luxembourg,2000,67,Healthy life expectancy,Absolute,0,Male,HALEAB598,0,0,442,No
+610,Luxembourg,2000,71,Healthy life expectancy,Absolute,0,Female,HALEAB599,0,0,442,No
+611,Luxembourg,2000,69,Healthy life expectancy,Absolute,0,All,HALEAB600,0,0,442,No
+612,Madagascar,2012,54,Healthy life expectancy,Absolute,0,Male,HALEAB601,0,0,450,No
+613,Madagascar,2012,56,Healthy life expectancy,Absolute,0,Female,HALEAB602,0,0,450,No
+614,Madagascar,2012,55,Healthy life expectancy,Absolute,0,All,HALEAB603,0,0,450,No
+615,Madagascar,2000,49,Healthy life expectancy,Absolute,0,Male,HALEAB604,0,0,450,No
+616,Madagascar,2000,50,Healthy life expectancy,Absolute,0,Female,HALEAB605,0,0,450,No
+617,Madagascar,2000,49,Healthy life expectancy,Absolute,0,All,HALEAB606,0,0,450,No
+618,Malawi,2012,50,Healthy life expectancy,Absolute,0,Male,HALEAB607,0,0,454,No
+619,Malawi,2012,51,Healthy life expectancy,Absolute,0,Female,HALEAB608,0,0,454,No
+620,Malawi,2012,50,Healthy life expectancy,Absolute,0,All,HALEAB609,0,0,454,No
+621,Malawi,2000,39,Healthy life expectancy,Absolute,0,Male,HALEAB610,0,0,454,No
+622,Malawi,2000,38,Healthy life expectancy,Absolute,0,Female,HALEAB611,0,0,454,No
+623,Malawi,2000,38,Healthy life expectancy,Absolute,0,All,HALEAB612,0,0,454,No
+624,Malaysia,2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB613,0,0,458,No
+625,Malaysia,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB614,0,0,458,No
+626,Malaysia,2012,64,Healthy life expectancy,Absolute,0,All,HALEAB615,0,0,458,No
+627,Malaysia,2000,61,Healthy life expectancy,Absolute,0,Male,HALEAB616,0,0,458,No
+628,Malaysia,2000,64,Healthy life expectancy,Absolute,0,Female,HALEAB617,0,0,458,No
+629,Malaysia,2000,62,Healthy life expectancy,Absolute,0,All,HALEAB618,0,0,458,No
+630,Maldives,2012,66,Healthy life expectancy,Absolute,0,Male,HALEAB619,0,0,462,No
+631,Maldives,2012,67,Healthy life expectancy,Absolute,0,Female,HALEAB620,0,0,462,No
+632,Maldives,2012,67,Healthy life expectancy,Absolute,0,All,HALEAB621,0,0,462,No
+633,Maldives,2000,59,Healthy life expectancy,Absolute,0,Male,HALEAB622,0,0,462,No
+634,Maldives,2000,59,Healthy life expectancy,Absolute,0,Female,HALEAB623,0,0,462,No
+635,Maldives,2000,59,Healthy life expectancy,Absolute,0,All,HALEAB624,0,0,462,No
+636,Mali,2012,49,Healthy life expectancy,Absolute,0,Male,HALEAB625,0,0,466,No
+637,Mali,2012,48,Healthy life expectancy,Absolute,0,Female,HALEAB626,0,0,466,No
+638,Mali,2012,48,Healthy life expectancy,Absolute,0,All,HALEAB627,0,0,466,No
+639,Mali,2000,41,Healthy life expectancy,Absolute,0,Male,HALEAB628,0,0,466,No
+640,Mali,2000,40,Healthy life expectancy,Absolute,0,Female,HALEAB629,0,0,466,No
+641,Mali,2000,41,Healthy life expectancy,Absolute,0,All,HALEAB630,0,0,466,No
+642,Malta,2012,70,Healthy life expectancy,Absolute,0,Male,HALEAB631,0,0,470,No
+643,Malta,2012,72,Healthy life expectancy,Absolute,0,Female,HALEAB632,0,0,470,No
+644,Malta,2012,71,Healthy life expectancy,Absolute,0,All,HALEAB633,0,0,470,No
+645,Malta,2000,67,Healthy life expectancy,Absolute,0,Male,HALEAB634,0,0,470,No
+646,Malta,2000,70,Healthy life expectancy,Absolute,0,Female,HALEAB635,0,0,470,No
+647,Malta,2000,69,Healthy life expectancy,Absolute,0,All,HALEAB636,0,0,470,No
+648,Marshall Islands,2012,57,Healthy life expectancy,Absolute,0,Male,HALEAB637,0,0,584,No
+649,Marshall Islands,2012,61,Healthy life expectancy,Absolute,0,Female,HALEAB638,0,0,584,No
+650,Marshall Islands,2012,59,Healthy life expectancy,Absolute,0,All,HALEAB639,0,0,584,No
+651,Marshall Islands,2000,55,Healthy life expectancy,Absolute,0,Male,HALEAB640,0,0,584,No
+652,Marshall Islands,2000,59,Healthy life expectancy,Absolute,0,Female,HALEAB641,0,0,584,No
+653,Marshall Islands,2000,57,Healthy life expectancy,Absolute,0,All,HALEAB642,0,0,584,No
+654,Mauritania,2012,52,Healthy life expectancy,Absolute,0,Male,HALEAB643,0,0,478,No
+655,Mauritania,2012,54,Healthy life expectancy,Absolute,0,Female,HALEAB644,0,0,478,No
+656,Mauritania,2012,53,Healthy life expectancy,Absolute,0,All,HALEAB645,0,0,478,No
+657,Mauritania,2000,50,Healthy life expectancy,Absolute,0,Male,HALEAB646,0,0,478,No
+658,Mauritania,2000,51,Healthy life expectancy,Absolute,0,Female,HALEAB647,0,0,478,No
+659,Mauritania,2000,51,Healthy life expectancy,Absolute,0,All,HALEAB648,0,0,478,No
+660,Mauritius,2012,62,Healthy life expectancy,Absolute,0,Male,HALEAB649,0,0,480,No
+661,Mauritius,2012,68,Healthy life expectancy,Absolute,0,Female,HALEAB650,0,0,480,No
+662,Mauritius,2012,65,Healthy life expectancy,Absolute,0,All,HALEAB651,0,0,480,No
+663,Mauritius,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB652,0,0,480,No
+664,Mauritius,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB653,0,0,480,No
+665,Mauritius,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB654,0,0,480,No
+666,Mexico,2012,65,Healthy life expectancy,Absolute,0,Male,HALEAB655,0,0,484,No
+667,Mexico,2012,69,Healthy life expectancy,Absolute,0,Female,HALEAB656,0,0,484,No
+668,Mexico,2012,67,Healthy life expectancy,Absolute,0,All,HALEAB657,0,0,484,No
+669,Mexico,2000,64,Healthy life expectancy,Absolute,0,Male,HALEAB658,0,0,484,No
+670,Mexico,2000,68,Healthy life expectancy,Absolute,0,Female,HALEAB659,0,0,484,No
+671,Mexico,2000,66,Healthy life expectancy,Absolute,0,All,HALEAB660,0,0,484,No
+672,Micronesia (Federated States of),2012,59,Healthy life expectancy,Absolute,0,Male,HALEAB661,0,0,583,No
+673,Micronesia (Federated States of),2012,60,Healthy life expectancy,Absolute,0,Female,HALEAB662,0,0,583,No
+674,Micronesia (Federated States of),2012,60,Healthy life expectancy,Absolute,0,All,HALEAB663,0,0,583,No
+675,Micronesia (Federated States of),2000,57,Healthy life expectancy,Absolute,0,Male,HALEAB664,0,0,583,No
+676,Micronesia (Federated States of),2000,58,Healthy life expectancy,Absolute,0,Female,HALEAB665,0,0,583,No
+677,Micronesia (Federated States of),2000,58,Healthy life expectancy,Absolute,0,All,HALEAB666,0,0,583,No
+678,Monaco,2012,70,Healthy life expectancy,Absolute,0,Male,HALEAB667,0,0,492,No
+679,Monaco,2012,75,Healthy life expectancy,Absolute,0,Female,HALEAB668,0,0,492,No
+680,Monaco,2012,72,Healthy life expectancy,Absolute,0,All,HALEAB669,0,0,492,No
+681,Monaco,2000,67,Healthy life expectancy,Absolute,0,Male,HALEAB670,0,0,492,No
+682,Monaco,2000,73,Healthy life expectancy,Absolute,0,Female,HALEAB671,0,0,492,No
+683,Monaco,2000,70,Healthy life expectancy,Absolute,0,All,HALEAB672,0,0,492,No
+684,Mongolia,2012,56,Healthy life expectancy,Absolute,0,Male,HALEAB673,0,0,496,No
+685,Mongolia,2012,63,Healthy life expectancy,Absolute,0,Female,HALEAB674,0,0,496,No
+686,Mongolia,2012,60,Healthy life expectancy,Absolute,0,All,HALEAB675,0,0,496,No
+687,Mongolia,2000,53,Healthy life expectancy,Absolute,0,Male,HALEAB676,0,0,496,No
+688,Mongolia,2000,58,Healthy life expectancy,Absolute,0,Female,HALEAB677,0,0,496,No
+689,Mongolia,2000,55,Healthy life expectancy,Absolute,0,All,HALEAB678,0,0,496,No
+690,Montenegro,2012,65,Healthy life expectancy,Absolute,0,Male,HALEAB679,0,0,499,No
+691,Montenegro,2012,67,Healthy life expectancy,Absolute,0,Female,HALEAB680,0,0,499,No
+692,Montenegro,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB681,0,0,499,No
+693,Montenegro,2000,63,Healthy life expectancy,Absolute,0,Male,HALEAB682,0,0,499,No
+694,Montenegro,2000,66,Healthy life expectancy,Absolute,0,Female,HALEAB683,0,0,499,No
+695,Montenegro,2000,64,Healthy life expectancy,Absolute,0,All,HALEAB684,0,0,499,No
+696,Morocco,2012,60,Healthy life expectancy,Absolute,0,Male,HALEAB685,0,0,504,No
+697,Morocco,2012,61,Healthy life expectancy,Absolute,0,Female,HALEAB686,0,0,504,No
+698,Morocco,2012,61,Healthy life expectancy,Absolute,0,All,HALEAB687,0,0,504,No
+699,Morocco,2000,57,Healthy life expectancy,Absolute,0,Male,HALEAB688,0,0,504,No
+700,Morocco,2000,59,Healthy life expectancy,Absolute,0,Female,HALEAB689,0,0,504,No
+701,Morocco,2000,58,Healthy life expectancy,Absolute,0,All,HALEAB690,0,0,504,No
+702,Mozambique,2012,45,Healthy life expectancy,Absolute,0,Male,HALEAB691,0,0,508,No
+703,Mozambique,2012,46,Healthy life expectancy,Absolute,0,Female,HALEAB692,0,0,508,No
+704,Mozambique,2012,45,Healthy life expectancy,Absolute,0,All,HALEAB693,0,0,508,No
+705,Mozambique,2000,40,Healthy life expectancy,Absolute,0,Male,HALEAB694,0,0,508,No
+706,Mozambique,2000,41,Healthy life expectancy,Absolute,0,Female,HALEAB695,0,0,508,No
+707,Mozambique,2000,41,Healthy life expectancy,Absolute,0,All,HALEAB696,0,0,508,No
+708,Myanmar,2012,56,Healthy life expectancy,Absolute,0,Male,HALEAB697,0,0,104,No
+709,Myanmar,2012,58,Healthy life expectancy,Absolute,0,Female,HALEAB698,0,0,104,No
+710,Myanmar,2012,57,Healthy life expectancy,Absolute,0,All,HALEAB699,0,0,104,No
+711,Myanmar,2000,52,Healthy life expectancy,Absolute,0,Male,HALEAB700,0,0,104,No
+712,Myanmar,2000,55,Healthy life expectancy,Absolute,0,Female,HALEAB701,0,0,104,No
+713,Myanmar,2000,53,Healthy life expectancy,Absolute,0,All,HALEAB702,0,0,104,No
+714,Namibia,2012,55,Healthy life expectancy,Absolute,0,Male,HALEAB703,0,0,516,No
+715,Namibia,2012,59,Healthy life expectancy,Absolute,0,Female,HALEAB704,0,0,516,No
+716,Namibia,2012,57,Healthy life expectancy,Absolute,0,All,HALEAB705,0,0,516,No
+717,Namibia,2000,49,Healthy life expectancy,Absolute,0,Male,HALEAB706,0,0,516,No
+718,Namibia,2000,49,Healthy life expectancy,Absolute,0,Female,HALEAB707,0,0,516,No
+719,Namibia,2000,49,Healthy life expectancy,Absolute,0,All,HALEAB708,0,0,516,No
+720,Nauru,2012,64,Healthy life expectancy,Absolute,0,Male,HALEAB709,0,0,520,No
+721,Nauru,2012,69,Healthy life expectancy,Absolute,0,Female,HALEAB710,0,0,520,No
+722,Nauru,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB711,0,0,520,No
+723,Nauru,2000,62,Healthy life expectancy,Absolute,0,Male,HALEAB712,0,0,520,No
+724,Nauru,2000,68,Healthy life expectancy,Absolute,0,Female,HALEAB713,0,0,520,No
+725,Nauru,2000,65,Healthy life expectancy,Absolute,0,All,HALEAB714,0,0,520,No
+726,Nepal,2012,58,Healthy life expectancy,Absolute,0,Male,HALEAB715,0,0,524,No
+727,Nepal,2012,60,Healthy life expectancy,Absolute,0,Female,HALEAB716,0,0,524,No
+728,Nepal,2012,59,Healthy life expectancy,Absolute,0,All,HALEAB717,0,0,524,No
+729,Nepal,2000,53,Healthy life expectancy,Absolute,0,Male,HALEAB718,0,0,524,No
+730,Nepal,2000,54,Healthy life expectancy,Absolute,0,Female,HALEAB719,0,0,524,No
+731,Nepal,2000,53,Healthy life expectancy,Absolute,0,All,HALEAB720,0,0,524,No
+732,Netherlands,2012,70,Healthy life expectancy,Absolute,0,Male,HALEAB721,0,0,528,No
+733,Netherlands,2012,72,Healthy life expectancy,Absolute,0,Female,HALEAB722,0,0,528,No
+734,Netherlands,2012,71,Healthy life expectancy,Absolute,0,All,HALEAB723,0,0,528,No
+735,Netherlands,2000,67,Healthy life expectancy,Absolute,0,Male,HALEAB724,0,0,528,No
+736,Netherlands,2000,70,Healthy life expectancy,Absolute,0,Female,HALEAB725,0,0,528,No
+737,Netherlands,2000,69,Healthy life expectancy,Absolute,0,All,HALEAB726,0,0,528,No
+738,New Zealand,2012,71,Healthy life expectancy,Absolute,0,Male,HALEAB727,0,0,554,No
+739,New Zealand,2012,71,Healthy life expectancy,Absolute,0,Male,HALEAB727,0,0,554,No
+740,New Zealand,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB728,0,0,554,No
+741,New Zealand,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB728,0,0,554,No
+742,New Zealand,2012,72,Healthy life expectancy,Absolute,0,All,HALEAB729,0,0,554,No
+743,New Zealand,2012,72,Healthy life expectancy,Absolute,0,All,HALEAB729,0,0,554,No
+744,New Zealand,2000,67,Healthy life expectancy,Absolute,0,Male,HALEAB730,0,0,554,No
+745,New Zealand,2000,67,Healthy life expectancy,Absolute,0,Male,HALEAB730,0,0,554,No
+746,New Zealand,2000,71,Healthy life expectancy,Absolute,0,Female,HALEAB731,0,0,554,No
+747,New Zealand,2000,71,Healthy life expectancy,Absolute,0,Female,HALEAB731,0,0,554,No
+748,New Zealand,2000,69,Healthy life expectancy,Absolute,0,All,HALEAB732,0,0,554,No
+749,New Zealand,2000,69,Healthy life expectancy,Absolute,0,All,HALEAB732,0,0,554,No
+750,Nicaragua,2012,61,Healthy life expectancy,Absolute,0,Male,HALEAB733,0,0,558,No
+751,Nicaragua,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB734,0,0,558,No
+752,Nicaragua,2012,64,Healthy life expectancy,Absolute,0,All,HALEAB735,0,0,558,No
+753,Nicaragua,2000,61,Healthy life expectancy,Absolute,0,Male,HALEAB736,0,0,558,No
+754,Nicaragua,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB737,0,0,558,No
+755,Nicaragua,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB738,0,0,558,No
+756,Niger,2012,50,Healthy life expectancy,Absolute,0,Male,HALEAB739,0,0,562,No
+757,Niger,2012,50,Healthy life expectancy,Absolute,0,Female,HALEAB740,0,0,562,No
+758,Niger,2012,50,Healthy life expectancy,Absolute,0,All,HALEAB741,0,0,562,No
+759,Niger,2000,43,Healthy life expectancy,Absolute,0,Male,HALEAB742,0,0,562,No
+760,Niger,2000,42,Healthy life expectancy,Absolute,0,Female,HALEAB743,0,0,562,No
+761,Niger,2000,42,Healthy life expectancy,Absolute,0,All,HALEAB744,0,0,562,No
+762,Nigeria,2012,46,Healthy life expectancy,Absolute,0,Male,HALEAB745,0,0,566,No
+763,Nigeria,2012,47,Healthy life expectancy,Absolute,0,Female,HALEAB746,0,0,566,No
+764,Nigeria,2012,46,Healthy life expectancy,Absolute,0,All,HALEAB747,0,0,566,No
+765,Nigeria,2000,41,Healthy life expectancy,Absolute,0,Male,HALEAB748,0,0,566,No
+766,Nigeria,2000,41,Healthy life expectancy,Absolute,0,Female,HALEAB749,0,0,566,No
+767,Nigeria,2000,41,Healthy life expectancy,Absolute,0,All,HALEAB750,0,0,566,No
+768,Niue,2012,62,Healthy life expectancy,Absolute,0,Male,HALEAB751,0,0,570,No
+769,Niue,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB752,0,0,570,No
+770,Niue,2012,64,Healthy life expectancy,Absolute,0,All,HALEAB753,0,0,570,No
+771,Niue,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB754,0,0,570,No
+772,Niue,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB755,0,0,570,No
+773,Niue,2000,62,Healthy life expectancy,Absolute,0,All,HALEAB756,0,0,570,No
+774,Norway,2012,70,Healthy life expectancy,Absolute,0,Male,HALEAB757,0,0,578,No
+775,Norway,2012,72,Healthy life expectancy,Absolute,0,Female,HALEAB758,0,0,578,No
+776,Norway,2012,71,Healthy life expectancy,Absolute,0,All,HALEAB759,0,0,578,No
+777,Norway,2000,67,Healthy life expectancy,Absolute,0,Male,HALEAB760,0,0,578,No
+778,Norway,2000,71,Healthy life expectancy,Absolute,0,Female,HALEAB761,0,0,578,No
+779,Norway,2000,69,Healthy life expectancy,Absolute,0,All,HALEAB762,0,0,578,No
+780,Oman,2012,65,Healthy life expectancy,Absolute,0,Male,HALEAB763,0,0,512,No
+781,Oman,2012,67,Healthy life expectancy,Absolute,0,Female,HALEAB764,0,0,512,No
+782,Oman,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB765,0,0,512,No
+783,Oman,2000,62,Healthy life expectancy,Absolute,0,Male,HALEAB766,0,0,512,No
+784,Oman,2000,63,Healthy life expectancy,Absolute,0,Female,HALEAB767,0,0,512,No
+785,Oman,2000,62,Healthy life expectancy,Absolute,0,All,HALEAB768,0,0,512,No
+786,Pakistan,2012,56,Healthy life expectancy,Absolute,0,Male,HALEAB769,0,0,586,No
+787,Pakistan,2012,57,Healthy life expectancy,Absolute,0,Female,HALEAB770,0,0,586,No
+788,Pakistan,2012,56,Healthy life expectancy,Absolute,0,All,HALEAB771,0,0,586,No
+789,Pakistan,2000,53,Healthy life expectancy,Absolute,0,Male,HALEAB772,0,0,586,No
+790,Pakistan,2000,54,Healthy life expectancy,Absolute,0,Female,HALEAB773,0,0,586,No
+791,Pakistan,2000,54,Healthy life expectancy,Absolute,0,All,HALEAB774,0,0,586,No
+792,Palau,2012,61,Healthy life expectancy,Absolute,0,Male,HALEAB775,0,0,585,No
+793,Palau,2012,64,Healthy life expectancy,Absolute,0,Female,HALEAB776,0,0,585,No
+794,Palau,2012,62,Healthy life expectancy,Absolute,0,All,HALEAB777,0,0,585,No
+795,Palau,2000,59,Healthy life expectancy,Absolute,0,Male,HALEAB778,0,0,585,No
+796,Palau,2000,61,Healthy life expectancy,Absolute,0,Female,HALEAB779,0,0,585,No
+797,Palau,2000,60,Healthy life expectancy,Absolute,0,All,HALEAB780,0,0,585,No
+798,Panama,2012,65,Healthy life expectancy,Absolute,0,Male,HALEAB781,0,0,591,No
+799,Panama,2012,65,Healthy life expectancy,Absolute,0,Male,HALEAB781,0,0,590,No
+800,Panama,2012,69,Healthy life expectancy,Absolute,0,Female,HALEAB782,0,0,591,No
+801,Panama,2012,69,Healthy life expectancy,Absolute,0,Female,HALEAB782,0,0,590,No
+802,Panama,2012,67,Healthy life expectancy,Absolute,0,All,HALEAB783,0,0,591,No
+803,Panama,2012,67,Healthy life expectancy,Absolute,0,All,HALEAB783,0,0,590,No
+804,Panama,2000,64,Healthy life expectancy,Absolute,0,Male,HALEAB784,0,0,591,No
+805,Panama,2000,64,Healthy life expectancy,Absolute,0,Male,HALEAB784,0,0,590,No
+806,Panama,2000,68,Healthy life expectancy,Absolute,0,Female,HALEAB785,0,0,591,No
+807,Panama,2000,68,Healthy life expectancy,Absolute,0,Female,HALEAB785,0,0,590,No
+808,Panama,2000,66,Healthy life expectancy,Absolute,0,All,HALEAB786,0,0,591,No
+809,Panama,2000,66,Healthy life expectancy,Absolute,0,All,HALEAB786,0,0,590,No
+810,Papua New Guinea,2012,52,Healthy life expectancy,Absolute,0,Male,HALEAB787,0,0,598,No
+811,Papua New Guinea,2012,55,Healthy life expectancy,Absolute,0,Female,HALEAB788,0,0,598,No
+812,Papua New Guinea,2012,53,Healthy life expectancy,Absolute,0,All,HALEAB789,0,0,598,No
+813,Papua New Guinea,2000,49,Healthy life expectancy,Absolute,0,Male,HALEAB790,0,0,598,No
+814,Papua New Guinea,2000,52,Healthy life expectancy,Absolute,0,Female,HALEAB791,0,0,598,No
+815,Papua New Guinea,2000,50,Healthy life expectancy,Absolute,0,All,HALEAB792,0,0,598,No
+816,Paraguay,2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB793,0,0,600,No
+817,Paraguay,2012,67,Healthy life expectancy,Absolute,0,Female,HALEAB794,0,0,600,No
+818,Paraguay,2012,65,Healthy life expectancy,Absolute,0,All,HALEAB795,0,0,600,No
+819,Paraguay,2000,62,Healthy life expectancy,Absolute,0,Male,HALEAB796,0,0,600,No
+820,Paraguay,2000,66,Healthy life expectancy,Absolute,0,Female,HALEAB797,0,0,600,No
+821,Paraguay,2000,64,Healthy life expectancy,Absolute,0,All,HALEAB798,0,0,600,No
+822,Peru,2012,66,Healthy life expectancy,Absolute,0,Male,HALEAB799,0,0,604,No
+823,Peru,2012,68,Healthy life expectancy,Absolute,0,Female,HALEAB800,0,0,604,No
+824,Peru,2012,67,Healthy life expectancy,Absolute,0,All,HALEAB801,0,0,604,No
+825,Peru,2000,61,Healthy life expectancy,Absolute,0,Male,HALEAB802,0,0,604,No
+826,Peru,2000,64,Healthy life expectancy,Absolute,0,Female,HALEAB803,0,0,604,No
+827,Peru,2000,62,Healthy life expectancy,Absolute,0,All,HALEAB804,0,0,604,No
+828,Philippines,2012,57,Healthy life expectancy,Absolute,0,Male,HALEAB805,0,0,608,No
+829,Philippines,2012,63,Healthy life expectancy,Absolute,0,Female,HALEAB806,0,0,608,No
+830,Philippines,2012,60,Healthy life expectancy,Absolute,0,All,HALEAB807,0,0,608,No
+831,Philippines,2000,57,Healthy life expectancy,Absolute,0,Male,HALEAB808,0,0,608,No
+832,Philippines,2000,62,Healthy life expectancy,Absolute,0,Female,HALEAB809,0,0,608,No
+833,Philippines,2000,60,Healthy life expectancy,Absolute,0,All,HALEAB810,0,0,608,No
+834,Poland,2012,64,Healthy life expectancy,Absolute,0,Male,HALEAB811,0,0,616,No
+835,Poland,2012,71,Healthy life expectancy,Absolute,0,Female,HALEAB812,0,0,616,No
+836,Poland,2012,67,Healthy life expectancy,Absolute,0,All,HALEAB813,0,0,616,No
+837,Poland,2000,62,Healthy life expectancy,Absolute,0,Male,HALEAB814,0,0,616,No
+838,Poland,2000,68,Healthy life expectancy,Absolute,0,Female,HALEAB815,0,0,616,No
+839,Poland,2000,65,Healthy life expectancy,Absolute,0,All,HALEAB816,0,0,616,No
+840,Portugal,2012,69,Healthy life expectancy,Absolute,0,Male,HALEAB817,0,0,620,No
+841,Portugal,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB818,0,0,620,No
+842,Portugal,2012,71,Healthy life expectancy,Absolute,0,All,HALEAB819,0,0,620,No
+843,Portugal,2000,65,Healthy life expectancy,Absolute,0,Male,HALEAB820,0,0,620,No
+844,Portugal,2000,70,Healthy life expectancy,Absolute,0,Female,HALEAB821,0,0,620,No
+845,Portugal,2000,68,Healthy life expectancy,Absolute,0,All,HALEAB822,0,0,620,No
+846,Qatar,2012,68,Healthy life expectancy,Absolute,0,Male,HALEAB823,0,0,634,No
+847,Qatar,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB824,0,0,634,No
+848,Qatar,2012,68,Healthy life expectancy,Absolute,0,All,HALEAB825,0,0,634,No
+849,Qatar,2000,66,Healthy life expectancy,Absolute,0,Male,HALEAB826,0,0,634,No
+850,Qatar,2000,64,Healthy life expectancy,Absolute,0,Female,HALEAB827,0,0,634,No
+851,Qatar,2000,65,Healthy life expectancy,Absolute,0,All,HALEAB828,0,0,634,No
+852,Republic of Korea,2012,70,Healthy life expectancy,Absolute,0,Male,HALEAB829,0,0,410,No
+853,Republic of Korea,2012,75,Healthy life expectancy,Absolute,0,Female,HALEAB830,0,0,410,No
+854,Republic of Korea,2012,73,Healthy life expectancy,Absolute,0,All,HALEAB831,0,0,410,No
+855,Republic of Korea,2000,66,Healthy life expectancy,Absolute,0,Male,HALEAB832,0,0,410,No
+856,Republic of Korea,2000,71,Healthy life expectancy,Absolute,0,Female,HALEAB833,0,0,410,No
+857,Republic of Korea,2000,68,Healthy life expectancy,Absolute,0,All,HALEAB834,0,0,410,No
+858,Republic of Moldova,2012,59,Healthy life expectancy,Absolute,0,Male,HALEAB835,0,0,498,No
+859,Republic of Moldova,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB836,0,0,498,No
+860,Republic of Moldova,2012,63,Healthy life expectancy,Absolute,0,All,HALEAB837,0,0,498,No
+861,Republic of Moldova,2000,57,Healthy life expectancy,Absolute,0,Male,HALEAB838,0,0,498,No
+862,Republic of Moldova,2000,62,Healthy life expectancy,Absolute,0,Female,HALEAB839,0,0,498,No
+863,Republic of Moldova,2000,60,Healthy life expectancy,Absolute,0,All,HALEAB840,0,0,498,No
+864,Romania,2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB841,0,0,642,No
+865,Romania,2012,69,Healthy life expectancy,Absolute,0,Female,HALEAB842,0,0,642,No
+866,Romania,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB843,0,0,642,No
+867,Romania,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB844,0,0,642,No
+868,Romania,2000,66,Healthy life expectancy,Absolute,0,Female,HALEAB845,0,0,642,No
+869,Romania,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB846,0,0,642,No
+870,Russian Federation,2012,57,Healthy life expectancy,Absolute,0,Male,HALEAB847,0,0,643,No
+871,Russian Federation,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB848,0,0,643,No
+872,Russian Federation,2012,61,Healthy life expectancy,Absolute,0,All,HALEAB849,0,0,643,No
+873,Russian Federation,2000,53,Healthy life expectancy,Absolute,0,Male,HALEAB850,0,0,643,No
+874,Russian Federation,2000,63,Healthy life expectancy,Absolute,0,Female,HALEAB851,0,0,643,No
+875,Russian Federation,2000,58,Healthy life expectancy,Absolute,0,All,HALEAB852,0,0,643,No
+876,Rwanda,2012,55,Healthy life expectancy,Absolute,0,Male,HALEAB853,0,0,646,No
+877,Rwanda,2012,56,Healthy life expectancy,Absolute,0,Female,HALEAB854,0,0,646,No
+878,Rwanda,2012,55,Healthy life expectancy,Absolute,0,All,HALEAB855,0,0,646,No
+879,Rwanda,2000,40,Healthy life expectancy,Absolute,0,Male,HALEAB856,0,0,646,No
+880,Rwanda,2000,40,Healthy life expectancy,Absolute,0,Female,HALEAB857,0,0,646,No
+881,Rwanda,2000,40,Healthy life expectancy,Absolute,0,All,HALEAB858,0,0,646,No
+882,Saint Kitts and Nevis,2012,61,Healthy life expectancy,Absolute,0,Male,HALEAB859,0,0,659,No
+883,Saint Kitts and Nevis,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB860,0,0,659,No
+884,Saint Kitts and Nevis,2012,63,Healthy life expectancy,Absolute,0,All,HALEAB861,0,0,659,No
+885,Saint Kitts and Nevis,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB862,0,0,659,No
+886,Saint Kitts and Nevis,2000,64,Healthy life expectancy,Absolute,0,Female,HALEAB863,0,0,659,No
+887,Saint Kitts and Nevis,2000,62,Healthy life expectancy,Absolute,0,All,HALEAB864,0,0,659,No
+888,Saint Lucia,2012,60,Healthy life expectancy,Absolute,0,Male,HALEAB865,0,0,662,No
+889,Saint Lucia,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB866,0,0,662,No
+890,Saint Lucia,2012,63,Healthy life expectancy,Absolute,0,All,HALEAB867,0,0,662,No
+891,Saint Lucia,2000,62,Healthy life expectancy,Absolute,0,Male,HALEAB868,0,0,662,No
+892,Saint Lucia,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB869,0,0,662,No
+893,Saint Lucia,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB870,0,0,662,No
+894,Saint Vincent and the Grenadines,2012,61,Healthy life expectancy,Absolute,0,Male,HALEAB871,0,0,670,No
+895,Saint Vincent and the Grenadines,2012,65,Healthy life expectancy,Absolute,0,Female,HALEAB872,0,0,670,No
+896,Saint Vincent and the Grenadines,2012,63,Healthy life expectancy,Absolute,0,All,HALEAB873,0,0,670,No
+897,Saint Vincent and the Grenadines,2000,59,Healthy life expectancy,Absolute,0,Male,HALEAB874,0,0,670,No
+898,Saint Vincent and the Grenadines,2000,63,Healthy life expectancy,Absolute,0,Female,HALEAB875,0,0,670,No
+899,Saint Vincent and the Grenadines,2000,61,Healthy life expectancy,Absolute,0,All,HALEAB876,0,0,670,No
+900,Samoa,2012,62,Healthy life expectancy,Absolute,0,Male,HALEAB877,0,0,882,No
+901,Samoa,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB878,0,0,882,No
+902,Samoa,2012,64,Healthy life expectancy,Absolute,0,All,HALEAB879,0,0,882,No
+903,Samoa,2000,59,Healthy life expectancy,Absolute,0,Male,HALEAB880,0,0,882,No
+904,Samoa,2000,64,Healthy life expectancy,Absolute,0,Female,HALEAB881,0,0,882,No
+905,Samoa,2000,61,Healthy life expectancy,Absolute,0,All,HALEAB882,0,0,882,No
+906,San Marino,2012,72,Healthy life expectancy,Absolute,0,Male,HALEAB883,0,0,674,No
+907,San Marino,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB884,0,0,674,No
+908,San Marino,2012,73,Healthy life expectancy,Absolute,0,All,HALEAB885,0,0,674,No
+909,San Marino,2000,69,Healthy life expectancy,Absolute,0,Male,HALEAB886,0,0,674,No
+910,San Marino,2000,74,Healthy life expectancy,Absolute,0,Female,HALEAB887,0,0,674,No
+911,San Marino,2000,72,Healthy life expectancy,Absolute,0,All,HALEAB888,0,0,674,No
+912,Sao Tome and Principe,2012,56,Healthy life expectancy,Absolute,0,Male,HALEAB889,0,0,678,No
+913,Sao Tome and Principe,2012,59,Healthy life expectancy,Absolute,0,Female,HALEAB890,0,0,678,No
+914,Sao Tome and Principe,2012,57,Healthy life expectancy,Absolute,0,All,HALEAB891,0,0,678,No
+915,Sao Tome and Principe,2000,53,Healthy life expectancy,Absolute,0,Male,HALEAB892,0,0,678,No
+916,Sao Tome and Principe,2000,55,Healthy life expectancy,Absolute,0,Female,HALEAB893,0,0,678,No
+917,Sao Tome and Principe,2000,54,Healthy life expectancy,Absolute,0,All,HALEAB894,0,0,678,No
+918,Saudi Arabia,2012,64,Healthy life expectancy,Absolute,0,Male,HALEAB895,0,0,682,No
+919,Saudi Arabia,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB896,0,0,682,No
+920,Saudi Arabia,2012,65,Healthy life expectancy,Absolute,0,All,HALEAB897,0,0,682,No
+921,Saudi Arabia,2000,61,Healthy life expectancy,Absolute,0,Male,HALEAB898,0,0,682,No
+922,Saudi Arabia,2000,63,Healthy life expectancy,Absolute,0,Female,HALEAB899,0,0,682,No
+923,Saudi Arabia,2000,62,Healthy life expectancy,Absolute,0,All,HALEAB900,0,0,682,No
+924,Senegal,2012,54,Healthy life expectancy,Absolute,0,Male,HALEAB901,0,0,686,No
+925,Senegal,2012,56,Healthy life expectancy,Absolute,0,Female,HALEAB902,0,0,686,No
+926,Senegal,2012,55,Healthy life expectancy,Absolute,0,All,HALEAB903,0,0,686,No
+927,Senegal,2000,48,Healthy life expectancy,Absolute,0,Male,HALEAB904,0,0,686,No
+928,Senegal,2000,49,Healthy life expectancy,Absolute,0,Female,HALEAB905,0,0,686,No
+929,Senegal,2000,49,Healthy life expectancy,Absolute,0,All,HALEAB906,0,0,686,No
+930,Serbia,2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB907,0,0,688,No
+931,Serbia,2012,67,Healthy life expectancy,Absolute,0,Female,HALEAB908,0,0,688,No
+932,Serbia,2012,65,Healthy life expectancy,Absolute,0,All,HALEAB909,0,0,688,No
+933,Serbia,2000,61,Healthy life expectancy,Absolute,0,Male,HALEAB910,0,0,688,No
+934,Serbia,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB911,0,0,688,No
+935,Serbia,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB912,0,0,688,No
+936,Seychelles,2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB913,0,0,690,No
+937,Seychelles,2012,71,Healthy life expectancy,Absolute,0,Female,HALEAB914,0,0,690,No
+938,Seychelles,2012,67,Healthy life expectancy,Absolute,0,All,HALEAB915,0,0,690,No
+939,Seychelles,2000,61,Healthy life expectancy,Absolute,0,Male,HALEAB916,0,0,690,No
+940,Seychelles,2000,69,Healthy life expectancy,Absolute,0,Female,HALEAB917,0,0,690,No
+941,Seychelles,2000,65,Healthy life expectancy,Absolute,0,All,HALEAB918,0,0,690,No
+942,Sierra Leone,2012,39,Healthy life expectancy,Absolute,0,Male,HALEAB919,0,0,694,No
+943,Sierra Leone,2012,39,Healthy life expectancy,Absolute,0,Female,HALEAB920,0,0,694,No
+944,Sierra Leone,2012,39,Healthy life expectancy,Absolute,0,All,HALEAB921,0,0,694,No
+945,Sierra Leone,2000,33,Healthy life expectancy,Absolute,0,Male,HALEAB922,0,0,694,No
+946,Sierra Leone,2000,33,Healthy life expectancy,Absolute,0,Female,HALEAB923,0,0,694,No
+947,Sierra Leone,2000,33,Healthy life expectancy,Absolute,0,All,HALEAB924,0,0,694,No
+948,Singapore,2012,74,Healthy life expectancy,Absolute,0,Male,HALEAB925,0,0,702,No
+949,Singapore,2012,77,Healthy life expectancy,Absolute,0,Female,HALEAB926,0,0,702,No
+950,Singapore,2012,76,Healthy life expectancy,Absolute,0,All,HALEAB927,0,0,702,No
+951,Singapore,2000,70,Healthy life expectancy,Absolute,0,Male,HALEAB928,0,0,702,No
+952,Singapore,2000,73,Healthy life expectancy,Absolute,0,Female,HALEAB929,0,0,702,No
+953,Singapore,2000,71,Healthy life expectancy,Absolute,0,All,HALEAB930,0,0,702,No
+954,Slovakia,2012,64,Healthy life expectancy,Absolute,0,Male,HALEAB931,0,0,703,No
+955,Slovakia,2012,70,Healthy life expectancy,Absolute,0,Female,HALEAB932,0,0,703,No
+956,Slovakia,2012,67,Healthy life expectancy,Absolute,0,All,HALEAB933,0,0,703,No
+957,Slovakia,2000,61,Healthy life expectancy,Absolute,0,Male,HALEAB934,0,0,703,No
+958,Slovakia,2000,68,Healthy life expectancy,Absolute,0,Female,HALEAB935,0,0,703,No
+959,Slovakia,2000,65,Healthy life expectancy,Absolute,0,All,HALEAB936,0,0,703,No
+960,Slovenia,2012,67,Healthy life expectancy,Absolute,0,Male,HALEAB937,0,0,705,No
+961,Slovenia,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB938,0,0,705,No
+962,Slovenia,2012,70,Healthy life expectancy,Absolute,0,All,HALEAB939,0,0,705,No
+963,Slovenia,2000,64,Healthy life expectancy,Absolute,0,Male,HALEAB940,0,0,705,No
+964,Slovenia,2000,69,Healthy life expectancy,Absolute,0,Female,HALEAB941,0,0,705,No
+965,Slovenia,2000,67,Healthy life expectancy,Absolute,0,All,HALEAB942,0,0,705,No
+966,Solomon Islands,2012,58,Healthy life expectancy,Absolute,0,Male,HALEAB943,0,0,90,No
+967,Solomon Islands,2012,60,Healthy life expectancy,Absolute,0,Female,HALEAB944,0,0,90,No
+968,Solomon Islands,2012,59,Healthy life expectancy,Absolute,0,All,HALEAB945,0,0,90,No
+969,Solomon Islands,2000,56,Healthy life expectancy,Absolute,0,Male,HALEAB946,0,0,90,No
+970,Solomon Islands,2000,57,Healthy life expectancy,Absolute,0,Female,HALEAB947,0,0,90,No
+971,Solomon Islands,2000,56,Healthy life expectancy,Absolute,0,All,HALEAB948,0,0,90,No
+972,Somalia,2012,44,Healthy life expectancy,Absolute,0,Male,HALEAB949,0,0,706,No
+973,Somalia,2012,46,Healthy life expectancy,Absolute,0,Female,HALEAB950,0,0,706,No
+974,Somalia,2012,45,Healthy life expectancy,Absolute,0,All,HALEAB951,0,0,706,No
+975,Somalia,2000,42,Healthy life expectancy,Absolute,0,Male,HALEAB952,0,0,706,No
+976,Somalia,2000,44,Healthy life expectancy,Absolute,0,Female,HALEAB953,0,0,706,No
+977,Somalia,2000,43,Healthy life expectancy,Absolute,0,All,HALEAB954,0,0,706,No
+978,South Africa,2012,49,Healthy life expectancy,Absolute,0,Male,HALEAB955,0,0,710,No
+979,South Africa,2012,53,Healthy life expectancy,Absolute,0,Female,HALEAB956,0,0,710,No
+980,South Africa,2012,51,Healthy life expectancy,Absolute,0,All,HALEAB957,0,0,710,No
+981,South Africa,2000,49,Healthy life expectancy,Absolute,0,Male,HALEAB958,0,0,710,No
+982,South Africa,2000,53,Healthy life expectancy,Absolute,0,Female,HALEAB959,0,0,710,No
+983,South Africa,2000,51,Healthy life expectancy,Absolute,0,All,HALEAB960,0,0,710,No
+984,South Sudan,2012,47,Healthy life expectancy,Absolute,0,Male,HALEAB961,0,0,728,No
+985,South Sudan,2012,48,Healthy life expectancy,Absolute,0,Female,HALEAB962,0,0,728,No
+986,South Sudan,2012,48,Healthy life expectancy,Absolute,0,All,HALEAB963,0,0,728,No
+987,South Sudan,2000,41,Healthy life expectancy,Absolute,0,Male,HALEAB964,0,0,728,No
+988,South Sudan,2000,42,Healthy life expectancy,Absolute,0,Female,HALEAB965,0,0,728,No
+989,South Sudan,2000,42,Healthy life expectancy,Absolute,0,All,HALEAB966,0,0,728,No
+990,Spain,2012,71,Healthy life expectancy,Absolute,0,Male,HALEAB967,0,0,724,No
+991,Spain,2012,75,Healthy life expectancy,Absolute,0,Female,HALEAB968,0,0,724,No
+992,Spain,2012,73,Healthy life expectancy,Absolute,0,All,HALEAB969,0,0,724,No
+993,Spain,2000,68,Healthy life expectancy,Absolute,0,Male,HALEAB970,0,0,724,No
+994,Spain,2000,73,Healthy life expectancy,Absolute,0,Female,HALEAB971,0,0,724,No
+995,Spain,2000,70,Healthy life expectancy,Absolute,0,All,HALEAB972,0,0,724,No
+996,Sri Lanka,2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB973,0,0,144,No
+997,Sri Lanka,2012,68,Healthy life expectancy,Absolute,0,Female,HALEAB974,0,0,144,No
+998,Sri Lanka,2012,65,Healthy life expectancy,Absolute,0,All,HALEAB975,0,0,144,No
+999,Sri Lanka,2000,57,Healthy life expectancy,Absolute,0,Male,HALEAB976,0,0,144,No
+1000,Sri Lanka,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB977,0,0,144,No
+1001,Sri Lanka,2000,61,Healthy life expectancy,Absolute,0,All,HALEAB978,0,0,144,No
+1002,Sudan,2012,52,Healthy life expectancy,Absolute,0,Male,HALEAB979,0,0,729,No
+1003,Sudan,2012,52,Healthy life expectancy,Absolute,0,Male,HALEAB979,0,0,736,No
+1004,Sudan,2012,54,Healthy life expectancy,Absolute,0,Female,HALEAB980,0,0,729,No
+1005,Sudan,2012,54,Healthy life expectancy,Absolute,0,Female,HALEAB980,0,0,736,No
+1006,Sudan,2012,53,Healthy life expectancy,Absolute,0,All,HALEAB981,0,0,729,No
+1007,Sudan,2012,53,Healthy life expectancy,Absolute,0,All,HALEAB981,0,0,736,No
+1008,Sudan,2000,48,Healthy life expectancy,Absolute,0,Male,HALEAB982,0,0,729,No
+1009,Sudan,2000,48,Healthy life expectancy,Absolute,0,Male,HALEAB982,0,0,736,No
+1010,Sudan,2000,50,Healthy life expectancy,Absolute,0,Female,HALEAB983,0,0,729,No
+1011,Sudan,2000,50,Healthy life expectancy,Absolute,0,Female,HALEAB983,0,0,736,No
+1012,Sudan,2000,49,Healthy life expectancy,Absolute,0,All,HALEAB984,0,0,729,No
+1013,Sudan,2000,49,Healthy life expectancy,Absolute,0,All,HALEAB984,0,0,736,No
+1014,Suriname,2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB985,0,0,740,No
+1015,Suriname,2012,68,Healthy life expectancy,Absolute,0,Female,HALEAB986,0,0,740,No
+1016,Suriname,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB987,0,0,740,No
+1017,Suriname,2000,62,Healthy life expectancy,Absolute,0,Male,HALEAB988,0,0,740,No
+1018,Suriname,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB989,0,0,740,No
+1019,Suriname,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB990,0,0,740,No
+1020,Swaziland,2012,44,Healthy life expectancy,Absolute,0,Male,HALEAB991,0,0,748,No
+1021,Swaziland,2012,47,Healthy life expectancy,Absolute,0,Female,HALEAB992,0,0,748,No
+1022,Swaziland,2012,46,Healthy life expectancy,Absolute,0,All,HALEAB993,0,0,748,No
+1023,Swaziland,2000,41,Healthy life expectancy,Absolute,0,Male,HALEAB994,0,0,748,No
+1024,Swaziland,2000,42,Healthy life expectancy,Absolute,0,Female,HALEAB995,0,0,748,No
+1025,Swaziland,2000,41,Healthy life expectancy,Absolute,0,All,HALEAB996,0,0,748,No
+1026,Sweden,2012,71,Healthy life expectancy,Absolute,0,Male,HALEAB997,0,0,752,No
+1027,Sweden,2012,73,Healthy life expectancy,Absolute,0,Female,HALEAB998,0,0,752,No
+1028,Sweden,2012,72,Healthy life expectancy,Absolute,0,All,HALEAB999,0,0,752,No
+1029,Sweden,2000,69,Healthy life expectancy,Absolute,0,Male,HALEAB1000,0,0,752,No
+1030,Sweden,2000,72,Healthy life expectancy,Absolute,0,Female,HALEAB1001,0,0,752,No
+1031,Sweden,2000,70,Healthy life expectancy,Absolute,0,All,HALEAB1002,0,0,752,No
+1032,Switzerland,2012,71,Healthy life expectancy,Absolute,0,Male,HALEAB1003,0,0,756,No
+1033,Switzerland,2012,71,Healthy life expectancy,Absolute,0,Male,HALEAB1003,0,0,756,No
+1034,Switzerland,2012,74,Healthy life expectancy,Absolute,0,Female,HALEAB1004,0,0,756,No
+1035,Switzerland,2012,74,Healthy life expectancy,Absolute,0,Female,HALEAB1004,0,0,756,No
+1036,Switzerland,2012,73,Healthy life expectancy,Absolute,0,All,HALEAB1005,0,0,756,No
+1037,Switzerland,2012,73,Healthy life expectancy,Absolute,0,All,HALEAB1005,0,0,756,No
+1038,Switzerland,2000,68,Healthy life expectancy,Absolute,0,Male,HALEAB1006,0,0,756,No
+1039,Switzerland,2000,68,Healthy life expectancy,Absolute,0,Male,HALEAB1006,0,0,756,No
+1040,Switzerland,2000,72,Healthy life expectancy,Absolute,0,Female,HALEAB1007,0,0,756,No
+1041,Switzerland,2000,72,Healthy life expectancy,Absolute,0,Female,HALEAB1007,0,0,756,No
+1042,Switzerland,2000,71,Healthy life expectancy,Absolute,0,All,HALEAB1008,0,0,756,No
+1043,Switzerland,2000,71,Healthy life expectancy,Absolute,0,All,HALEAB1008,0,0,756,No
+1044,Syrian Arab Republic,2012,55,Healthy life expectancy,Absolute,0,Male,HALEAB1009,0,0,760,No
+1045,Syrian Arab Republic,2012,65,Healthy life expectancy,Absolute,0,Female,HALEAB1010,0,0,760,No
+1046,Syrian Arab Republic,2012,59,Healthy life expectancy,Absolute,0,All,HALEAB1011,0,0,760,No
+1047,Syrian Arab Republic,2000,62,Healthy life expectancy,Absolute,0,Male,HALEAB1012,0,0,760,No
+1048,Syrian Arab Republic,2000,64,Healthy life expectancy,Absolute,0,Female,HALEAB1013,0,0,760,No
+1049,Syrian Arab Republic,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB1014,0,0,760,No
+1050,Tajikistan,2012,59,Healthy life expectancy,Absolute,0,Male,HALEAB1015,0,0,762,No
+1051,Tajikistan,2012,60,Healthy life expectancy,Absolute,0,Female,HALEAB1016,0,0,762,No
+1052,Tajikistan,2012,60,Healthy life expectancy,Absolute,0,All,HALEAB1017,0,0,762,No
+1053,Tajikistan,2000,55,Healthy life expectancy,Absolute,0,Male,HALEAB1018,0,0,762,No
+1054,Tajikistan,2000,57,Healthy life expectancy,Absolute,0,Female,HALEAB1019,0,0,762,No
+1055,Tajikistan,2000,56,Healthy life expectancy,Absolute,0,All,HALEAB1020,0,0,762,No
+1056,Thailand,2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB1021,0,0,764,No
+1057,Thailand,2012,68,Healthy life expectancy,Absolute,0,Female,HALEAB1022,0,0,764,No
+1058,Thailand,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB1023,0,0,764,No
+1059,Thailand,2000,59,Healthy life expectancy,Absolute,0,Male,HALEAB1024,0,0,764,No
+1060,Thailand,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB1025,0,0,764,No
+1061,Thailand,2000,62,Healthy life expectancy,Absolute,0,All,HALEAB1026,0,0,764,No
+1062,The former Yugoslav Republic of Macedonia,2012,65,Healthy life expectancy,Absolute,0,Male,HALEAB1027,0,0,807,No
+1063,The former Yugoslav Republic of Macedonia,2012,68,Healthy life expectancy,Absolute,0,Female,HALEAB1028,0,0,807,No
+1064,The former Yugoslav Republic of Macedonia,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB1029,0,0,807,No
+1065,The former Yugoslav Republic of Macedonia,2000,63,Healthy life expectancy,Absolute,0,Male,HALEAB1030,0,0,807,No
+1066,The former Yugoslav Republic of Macedonia,2000,66,Healthy life expectancy,Absolute,0,Female,HALEAB1031,0,0,807,No
+1067,The former Yugoslav Republic of Macedonia,2000,64,Healthy life expectancy,Absolute,0,All,HALEAB1032,0,0,807,No
+1068,Timor-Leste,2012,55,Healthy life expectancy,Absolute,0,Male,HALEAB1033,0,0,626,No
+1069,Timor-Leste,2012,58,Healthy life expectancy,Absolute,0,Female,HALEAB1034,0,0,626,No
+1070,Timor-Leste,2012,57,Healthy life expectancy,Absolute,0,All,HALEAB1035,0,0,626,No
+1071,Timor-Leste,2000,49,Healthy life expectancy,Absolute,0,Male,HALEAB1036,0,0,626,No
+1072,Timor-Leste,2000,51,Healthy life expectancy,Absolute,0,Female,HALEAB1037,0,0,626,No
+1073,Timor-Leste,2000,50,Healthy life expectancy,Absolute,0,All,HALEAB1038,0,0,626,No
+1074,Togo,2012,50,Healthy life expectancy,Absolute,0,Male,HALEAB1039,0,0,768,No
+1075,Togo,2012,50,Healthy life expectancy,Absolute,0,Female,HALEAB1040,0,0,768,No
+1076,Togo,2012,50,Healthy life expectancy,Absolute,0,All,HALEAB1041,0,0,768,No
+1077,Togo,2000,47,Healthy life expectancy,Absolute,0,Male,HALEAB1042,0,0,768,No
+1078,Togo,2000,47,Healthy life expectancy,Absolute,0,Female,HALEAB1043,0,0,768,No
+1079,Togo,2000,47,Healthy life expectancy,Absolute,0,All,HALEAB1044,0,0,768,No
+1080,Tonga,2012,64,Healthy life expectancy,Absolute,0,Male,HALEAB1045,0,0,776,No
+1081,Tonga,2012,61,Healthy life expectancy,Absolute,0,Female,HALEAB1046,0,0,776,No
+1082,Tonga,2012,62,Healthy life expectancy,Absolute,0,All,HALEAB1047,0,0,776,No
+1083,Tonga,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB1048,0,0,776,No
+1084,Tonga,2000,61,Healthy life expectancy,Absolute,0,Female,HALEAB1049,0,0,776,No
+1085,Tonga,2000,60,Healthy life expectancy,Absolute,0,All,HALEAB1050,0,0,776,No
+1086,Trinidad and Tobago,2012,58,Healthy life expectancy,Absolute,0,Male,HALEAB1051,0,0,780,No
+1087,Trinidad and Tobago,2012,64,Healthy life expectancy,Absolute,0,Female,HALEAB1052,0,0,780,No
+1088,Trinidad and Tobago,2012,61,Healthy life expectancy,Absolute,0,All,HALEAB1053,0,0,780,No
+1089,Trinidad and Tobago,2000,58,Healthy life expectancy,Absolute,0,Male,HALEAB1054,0,0,780,No
+1090,Trinidad and Tobago,2000,63,Healthy life expectancy,Absolute,0,Female,HALEAB1055,0,0,780,No
+1091,Trinidad and Tobago,2000,60,Healthy life expectancy,Absolute,0,All,HALEAB1056,0,0,780,No
+1092,Tunisia,2012,65,Healthy life expectancy,Absolute,0,Male,HALEAB1057,0,0,788,No
+1093,Tunisia,2012,67,Healthy life expectancy,Absolute,0,Female,HALEAB1058,0,0,788,No
+1094,Tunisia,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB1059,0,0,788,No
+1095,Tunisia,2000,63,Healthy life expectancy,Absolute,0,Male,HALEAB1060,0,0,788,No
+1096,Tunisia,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB1061,0,0,788,No
+1097,Tunisia,2000,64,Healthy life expectancy,Absolute,0,All,HALEAB1062,0,0,788,No
+1098,Turkey,2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB1063,0,0,792,No
+1099,Turkey,2012,67,Healthy life expectancy,Absolute,0,Female,HALEAB1064,0,0,792,No
+1100,Turkey,2012,65,Healthy life expectancy,Absolute,0,All,HALEAB1065,0,0,792,No
+1101,Turkey,2000,58,Healthy life expectancy,Absolute,0,Male,HALEAB1066,0,0,792,No
+1102,Turkey,2000,63,Healthy life expectancy,Absolute,0,Female,HALEAB1067,0,0,792,No
+1103,Turkey,2000,61,Healthy life expectancy,Absolute,0,All,HALEAB1068,0,0,792,No
+1104,Turkmenistan,2012,53,Healthy life expectancy,Absolute,0,Male,HALEAB1069,0,0,795,No
+1105,Turkmenistan,2012,59,Healthy life expectancy,Absolute,0,Female,HALEAB1070,0,0,795,No
+1106,Turkmenistan,2012,56,Healthy life expectancy,Absolute,0,All,HALEAB1071,0,0,795,No
+1107,Turkmenistan,2000,52,Healthy life expectancy,Absolute,0,Male,HALEAB1072,0,0,795,No
+1108,Turkmenistan,2000,57,Healthy life expectancy,Absolute,0,Female,HALEAB1073,0,0,795,No
+1109,Turkmenistan,2000,54,Healthy life expectancy,Absolute,0,All,HALEAB1074,0,0,795,No
+1110,Tuvalu,2012,57,Healthy life expectancy,Absolute,0,Male,HALEAB1075,0,0,798,No
+1111,Tuvalu,2012,60,Healthy life expectancy,Absolute,0,Female,HALEAB1076,0,0,798,No
+1112,Tuvalu,2012,58,Healthy life expectancy,Absolute,0,All,HALEAB1077,0,0,798,No
+1113,Tuvalu,2000,53,Healthy life expectancy,Absolute,0,Male,HALEAB1078,0,0,798,No
+1114,Tuvalu,2000,57,Healthy life expectancy,Absolute,0,Female,HALEAB1079,0,0,798,No
+1115,Tuvalu,2000,55,Healthy life expectancy,Absolute,0,All,HALEAB1080,0,0,798,No
+1116,Uganda,2012,49,Healthy life expectancy,Absolute,0,Male,HALEAB1081,0,0,800,No
+1117,Uganda,2012,50,Healthy life expectancy,Absolute,0,Female,HALEAB1082,0,0,800,No
+1118,Uganda,2012,49,Healthy life expectancy,Absolute,0,All,HALEAB1083,0,0,800,No
+1119,Uganda,2000,38,Healthy life expectancy,Absolute,0,Male,HALEAB1084,0,0,800,No
+1120,Uganda,2000,40,Healthy life expectancy,Absolute,0,Female,HALEAB1085,0,0,800,No
+1121,Uganda,2000,39,Healthy life expectancy,Absolute,0,All,HALEAB1086,0,0,800,No
+1122,Ukraine,2012,59,Healthy life expectancy,Absolute,0,Male,HALEAB1087,0,0,804,No
+1123,Ukraine,2012,67,Healthy life expectancy,Absolute,0,Female,HALEAB1088,0,0,804,No
+1124,Ukraine,2012,63,Healthy life expectancy,Absolute,0,All,HALEAB1089,0,0,804,No
+1125,Ukraine,2000,56,Healthy life expectancy,Absolute,0,Male,HALEAB1090,0,0,804,No
+1126,Ukraine,2000,65,Healthy life expectancy,Absolute,0,Female,HALEAB1091,0,0,804,No
+1127,Ukraine,2000,60,Healthy life expectancy,Absolute,0,All,HALEAB1092,0,0,804,No
+1128,United Arab Emirates,2012,66,Healthy life expectancy,Absolute,0,Male,HALEAB1093,0,0,784,No
+1129,United Arab Emirates,2012,66,Healthy life expectancy,Absolute,0,Female,HALEAB1094,0,0,784,No
+1130,United Arab Emirates,2012,67,Healthy life expectancy,Absolute,0,All,HALEAB1095,0,0,784,No
+1131,United Arab Emirates,2000,64,Healthy life expectancy,Absolute,0,Male,HALEAB1096,0,0,784,No
+1132,United Arab Emirates,2000,64,Healthy life expectancy,Absolute,0,Female,HALEAB1097,0,0,784,No
+1133,United Arab Emirates,2000,64,Healthy life expectancy,Absolute,0,All,HALEAB1098,0,0,784,No
+1134,United Kingdom,2012,70,Healthy life expectancy,Absolute,0,Male,HALEAB1099,0,0,826,No
+1135,United Kingdom,2012,72,Healthy life expectancy,Absolute,0,Female,HALEAB1100,0,0,826,No
+1136,United Kingdom,2012,71,Healthy life expectancy,Absolute,0,All,HALEAB1101,0,0,826,No
+1137,United Kingdom,2000,67,Healthy life expectancy,Absolute,0,Male,HALEAB1102,0,0,826,No
+1138,United Kingdom,2000,70,Healthy life expectancy,Absolute,0,Female,HALEAB1103,0,0,826,No
+1139,United Kingdom,2000,69,Healthy life expectancy,Absolute,0,All,HALEAB1104,0,0,826,No
+1140,United Republic of Tanzania,2012,51,Healthy life expectancy,Absolute,0,Male,HALEAB1105,0,0,834,No
+1141,United Republic of Tanzania,2012,53,Healthy life expectancy,Absolute,0,Female,HALEAB1106,0,0,834,No
+1142,United Republic of Tanzania,2012,52,Healthy life expectancy,Absolute,0,All,HALEAB1107,0,0,834,No
+1143,United Republic of Tanzania,2000,43,Healthy life expectancy,Absolute,0,Male,HALEAB1108,0,0,834,No
+1144,United Republic of Tanzania,2000,44,Healthy life expectancy,Absolute,0,Female,HALEAB1109,0,0,834,No
+1145,United Republic of Tanzania,2000,43,Healthy life expectancy,Absolute,0,All,HALEAB1110,0,0,834,No
+1146,United States of America,2012,68,Healthy life expectancy,Absolute,0,Male,HALEAB1111,0,0,840,No
+1147,United States of America,2012,71,Healthy life expectancy,Absolute,0,Female,HALEAB1112,0,0,840,No
+1148,United States of America,2012,70,Healthy life expectancy,Absolute,0,All,HALEAB1113,0,0,840,No
+1149,United States of America,2000,66,Healthy life expectancy,Absolute,0,Male,HALEAB1114,0,0,840,No
+1150,United States of America,2000,70,Healthy life expectancy,Absolute,0,Female,HALEAB1115,0,0,840,No
+1151,United States of America,2000,68,Healthy life expectancy,Absolute,0,All,HALEAB1116,0,0,840,No
+1152,Uruguay,2012,65,Healthy life expectancy,Absolute,0,Male,HALEAB1117,0,0,858,No
+1153,Uruguay,2012,70,Healthy life expectancy,Absolute,0,Female,HALEAB1118,0,0,858,No
+1154,Uruguay,2012,68,Healthy life expectancy,Absolute,0,All,HALEAB1119,0,0,858,No
+1155,Uruguay,2000,63,Healthy life expectancy,Absolute,0,Male,HALEAB1120,0,0,858,No
+1156,Uruguay,2000,69,Healthy life expectancy,Absolute,0,Female,HALEAB1121,0,0,858,No
+1157,Uruguay,2000,66,Healthy life expectancy,Absolute,0,All,HALEAB1122,0,0,858,No
+1158,Uzbekistan,2012,59,Healthy life expectancy,Absolute,0,Male,HALEAB1123,0,0,860,No
+1159,Uzbekistan,2012,62,Healthy life expectancy,Absolute,0,Female,HALEAB1124,0,0,860,No
+1160,Uzbekistan,2012,61,Healthy life expectancy,Absolute,0,All,HALEAB1125,0,0,860,No
+1161,Uzbekistan,2000,56,Healthy life expectancy,Absolute,0,Male,HALEAB1126,0,0,860,No
+1162,Uzbekistan,2000,60,Healthy life expectancy,Absolute,0,Female,HALEAB1127,0,0,860,No
+1163,Uzbekistan,2000,58,Healthy life expectancy,Absolute,0,All,HALEAB1128,0,0,860,No
+1164,Vanuatu,2012,61,Healthy life expectancy,Absolute,0,Male,HALEAB1129,0,0,548,No
+1165,Vanuatu,2012,63,Healthy life expectancy,Absolute,0,Female,HALEAB1130,0,0,548,No
+1166,Vanuatu,2012,62,Healthy life expectancy,Absolute,0,All,HALEAB1131,0,0,548,No
+1167,Vanuatu,2000,59,Healthy life expectancy,Absolute,0,Male,HALEAB1132,0,0,548,No
+1168,Vanuatu,2000,60,Healthy life expectancy,Absolute,0,Female,HALEAB1133,0,0,548,No
+1169,Vanuatu,2000,59,Healthy life expectancy,Absolute,0,All,HALEAB1134,0,0,548,No
+1170,Venezuela (Bolivarian Republic of),2012,63,Healthy life expectancy,Absolute,0,Male,HALEAB1135,0,0,862,No
+1171,Venezuela (Bolivarian Republic of),2012,69,Healthy life expectancy,Absolute,0,Female,HALEAB1136,0,0,862,No
+1172,Venezuela (Bolivarian Republic of),2012,66,Healthy life expectancy,Absolute,0,All,HALEAB1137,0,0,862,No
+1173,Venezuela (Bolivarian Republic of),2000,62,Healthy life expectancy,Absolute,0,Male,HALEAB1138,0,0,862,No
+1174,Venezuela (Bolivarian Republic of),2000,67,Healthy life expectancy,Absolute,0,Female,HALEAB1139,0,0,862,No
+1175,Venezuela (Bolivarian Republic of),2000,65,Healthy life expectancy,Absolute,0,All,HALEAB1140,0,0,862,No
+1176,Viet Nam,2012,62,Healthy life expectancy,Absolute,0,Male,HALEAB1141,0,0,704,No
+1177,Viet Nam,2012,69,Healthy life expectancy,Absolute,0,Female,HALEAB1142,0,0,704,No
+1178,Viet Nam,2012,66,Healthy life expectancy,Absolute,0,All,HALEAB1143,0,0,704,No
+1179,Viet Nam,2000,60,Healthy life expectancy,Absolute,0,Male,HALEAB1144,0,0,704,No
+1180,Viet Nam,2000,67,Healthy life expectancy,Absolute,0,Female,HALEAB1145,0,0,704,No
+1181,Viet Nam,2000,63,Healthy life expectancy,Absolute,0,All,HALEAB1146,0,0,704,No
+1182,Yemen,2012,54,Healthy life expectancy,Absolute,0,Male,HALEAB1147,0,0,887,No
+1183,Yemen,2012,54,Healthy life expectancy,Absolute,0,Male,HALEAB1147,0,0,886,No
+1184,Yemen,2012,55,Healthy life expectancy,Absolute,0,Female,HALEAB1148,0,0,887,No
+1185,Yemen,2012,55,Healthy life expectancy,Absolute,0,Female,HALEAB1148,0,0,886,No
+1186,Yemen,2012,54,Healthy life expectancy,Absolute,0,All,HALEAB1149,0,0,887,No
+1187,Yemen,2012,54,Healthy life expectancy,Absolute,0,All,HALEAB1149,0,0,886,No
+1188,Yemen,2000,51,Healthy life expectancy,Absolute,0,Male,HALEAB1150,0,0,887,No
+1189,Yemen,2000,51,Healthy life expectancy,Absolute,0,Male,HALEAB1150,0,0,886,No
+1190,Yemen,2000,52,Healthy life expectancy,Absolute,0,Female,HALEAB1151,0,0,887,No
+1191,Yemen,2000,52,Healthy life expectancy,Absolute,0,Female,HALEAB1151,0,0,886,No
+1192,Yemen,2000,51,Healthy life expectancy,Absolute,0,All,HALEAB1152,0,0,887,No
+1193,Yemen,2000,51,Healthy life expectancy,Absolute,0,All,HALEAB1152,0,0,886,No
+1194,Zambia,2012,48,Healthy life expectancy,Absolute,0,Male,HALEAB1153,0,0,894,No
+1195,Zambia,2012,50,Healthy life expectancy,Absolute,0,Female,HALEAB1154,0,0,894,No
+1196,Zambia,2012,49,Healthy life expectancy,Absolute,0,All,HALEAB1155,0,0,894,No
+1197,Zambia,2000,35,Healthy life expectancy,Absolute,0,Male,HALEAB1156,0,0,894,No
+1198,Zambia,2000,37,Healthy life expectancy,Absolute,0,Female,HALEAB1157,0,0,894,No
+1199,Zambia,2000,36,Healthy life expectancy,Absolute,0,All,HALEAB1158,0,0,894,No
+1200,Zimbabwe,2012,48,Healthy life expectancy,Absolute,0,Male,HALEAB1159,0,0,716,No
+1201,Zimbabwe,2012,51,Healthy life expectancy,Absolute,0,Female,HALEAB1160,0,0,716,No
+1202,Zimbabwe,2012,49,Healthy life expectancy,Absolute,0,All,HALEAB1161,0,0,716,No
+1203,Zimbabwe,2000,37,Healthy life expectancy,Absolute,0,Male,HALEAB1162,0,0,716,No
+1204,Zimbabwe,2000,36,Healthy life expectancy,Absolute,0,Female,HALEAB1163,0,0,716,No
+1205,Zimbabwe,2000,37,Healthy life expectancy,Absolute,0,All,HALEAB1164,0,0,716,No
