@@ -14,51 +14,33 @@
         margin-top: 10px;
         margin-right: 10px;
         ">
-         <p-multiSelect 
+         <p-dropdown 
                 [options]="genderOptions" 
                 [(ngModel)]="genderSelections" 
                 defaultLabel="Select Gender" 
                 [filter] = "false"
                 optionLabel="name" 
-                [disabled]="true"
-                display="chip">
-        </p-multiSelect>
-        <div style="
-            margin-top: 10px;
-            margin-right: 10px;
-            ">
-            <p-treeSelect 
+                styleClass="genderDropdown"
+                >
+        </p-dropdown>
+        <div style="height:10px"></div>
+         <p-multiSelect 
             [(ngModel)]="metricInTreeSelections" 
             [options]="metricInTreeOptions" 
-            [metaKeySelection]="false" selectionMode="multiple"
-            (onNodeSelect)="updateData()"
-            (onNodeUnselect)="updateData()"
-            placeholder="Select Metric">
-            </p-treeSelect>
-         <!-- <p-listbox 
-            [options]="metricOptions" 
-            [(ngModel)]="metricSelections" 
-            [metaKeySelection]="false" 
-            [checkbox]="true" 
-            [filter]="true" 
-            [multiple]="true" 
-            optionLabel="name" 
-            [listStyle]="{'max-height':'200px'}" 
-            [style]="{'width':'100%'}"
-            [group]="true" 
-         >
-            <ng-template let-group pTemplate="group">
-                <div class="flex align-items-center">
-                    <span>{{group.name}}</span>
-                </div>
-            </ng-template>
-            <ng-template let-metric pTemplate="item">
-                    <div class="metric-item">
-                        <div>{{metric.name}}</div>
-                    </div>
-            </ng-template>
-        </p-listbox> -->
-        </div>
+            (onChange)="updateData()"
+            [filter] = "true"
+            defaultLabel="Select Metric">
+        </p-multiSelect>
+        <div style="height:10px"></div>
+        <p-dropdown 
+        [options]="currencyOptions" 
+        [(ngModel)]="currencySelection" 
+        defaultLabel="Select Currency" 
+        [filter] = "false"
+        optionLabel="name" 
+        styleClass="genderDropdown"
+        >
+</p-dropdown>
     </div>
     <div class="stats">
         

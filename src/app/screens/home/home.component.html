@@ -28,9 +28,9 @@
                     styleClass="calcDropdown"
                     optionLabel="name"></p-dropdown>
                 </div>
-                <div class="button"  title="Settings">
+                <!-- <div class="button"  title="Settings">
                     <span class="pi pi-cog"></span>
-                </div>
+                </div> -->
             </ng-template>
             <app-map [setHeight]="height1" [open]="mapOpen" ></app-map> 
         </p-panel>
@@ -42,17 +42,17 @@
                 <div class="pannel_tabs">
                     <div class="tab_button {{activeView == 0 ? 'activeView' : ''}}" (click)="setActiveView(0)"> Table </div>
                     <div class="tab_button {{activeView == 1 ? 'activeView' : ''}}" (click)="setActiveView(1)"> Chart </div>
-                    <div class="tab_button {{activeView == 2 ? 'activeView' : ''}}" (click)="setActiveView(2)"> Report </div>
-                    <div class="tab_button {{activeView == 3 ? 'activeView' : ''}}" (click)="setActiveView(3)"> Graph </div>
+                    <!-- <div class="tab_button {{activeView == 2 ? 'activeView' : ''}}" (click)="setActiveView(2)"> Report </div>
+                    <div class="tab_button {{activeView == 3 ? 'activeView' : ''}}" (click)="setActiveView(3)"> Graph </div> -->
                 </div>
             </ng-template>
             <ng-template pTemplate="icons">
                 <div class="button" title="Export" (click)="export()">
                     <span class="pi pi-download"></span>
                 </div>
-                <div class="button" title="Settings">
+                <!-- <div class="button" title="Settings">
                     <span class="pi pi-cog"></span>
-                </div>
+                </div> -->
             </ng-template>
             <app-table *ngIf="activeView == 0" [setHeight]="height2" ></app-table>
             <app-chart *ngIf="activeView == 1" [setHeight]="height2" ></app-chart>

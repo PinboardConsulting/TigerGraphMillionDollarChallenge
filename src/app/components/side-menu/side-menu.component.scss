@@ -49,6 +49,9 @@
     }
     .p-multiselect {   
         width: calc(100% - 10px);
+        .p-multiselect-panel {
+            width: 20vw!important;
+        }
     }
     .p-listbox .p-listbox-list .p-listbox-item {
         padding: 5px;
@@ -58,6 +61,24 @@
     }
     .p-treeselect {
         width: 100%;
+    }
+
+    .p-tree{
+        .p-tree-container .p-treenode .p-treenode-content .p-tree-toggler {
+            display: none;
+    }
+
+        .p-treenode-selectable {
+            height: 28px;
+        }
+    }
+    .genderDropdown{
+        width: calc(100% - 10px);
+        height: 30px;
+        .p-dropdown-label {
+            font-size: 13px;
+            padding: 5px;
+        }
     }
 }
 

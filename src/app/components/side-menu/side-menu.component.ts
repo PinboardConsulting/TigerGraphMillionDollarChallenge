@@ -12,10 +12,18 @@ export class SideMenuComponent implements OnInit {
     private readonly getData: GetDataService,
   ) { }
   genderOptions = [
+    {name: 'All'},
     {name : 'Male'},
     {name: 'Female'},
-    {name: 'Other'}
   ];
+
+  currencyOptions = [
+    {name:'USD'},
+    {name:'EUR'},
+    {name:'CYN'},
+  ]
+
+  currencySelection:any;
 
   metricInTreeOptions:any =  [];
 

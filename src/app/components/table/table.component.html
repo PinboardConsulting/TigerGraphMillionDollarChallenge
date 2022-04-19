@@ -1,6 +1,6 @@
 <div class="container" [ngStyle]="{height:setHeight,overflow: 'hidden'}">
     <div *ngIf="!tableData || !tableData.length">
-        Please select atleast 2 metrics to compare
+        Please select a metric
     </div>
     <p-table *ngIf="tableData && tableData.length" [value]="tableData" [columns]="tableHeader" sortMode="multiple" responsiveLayout="scroll">
         <ng-template pTemplate="header" let-columns>
