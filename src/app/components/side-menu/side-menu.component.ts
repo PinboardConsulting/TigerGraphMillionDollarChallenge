@@ -25,9 +25,8 @@ export class SideMenuComponent implements OnInit {
   ];
 
   refugeeOptions = [
-    {name: 'Both'},
-    {name: 'Inbound'},
     {name: 'Outbound'},
+    {name: 'Inbound'},
   ]
 
   currencySelection:any;
