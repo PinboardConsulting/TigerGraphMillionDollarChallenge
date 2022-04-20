@@ -11,7 +11,7 @@ conn = tg.TigerGraphConnection(host=host, username=username, password=password)
 
 
 ### Region & Currency Data ###
-directory = 'Currency_and_Country_Codes.csv'
+directory = 'UN_Data_Load/Currency_and_Country_Codes.csv'
 temp_df = pd.read_csv(directory)
 temp_df.to_csv('test_data.csv', header=None, index=False)
 
@@ -41,7 +41,7 @@ print("Job completed!")
 
         
 ### Base year ###
-directory = 'Base_Year1000.csv'
+directory = 'UN_Data_Load/Base_Year1000.csv'
 temp_df = pd.read_csv(directory)
 temp_df.to_csv('test_data.csv', header=None, index=False)
 
@@ -64,7 +64,7 @@ print("Job completed!")
         
         
 ### Currency conversion data ###
-directory = 'exchange_rate_EUR.csv'
+directory = 'UN_Data_Load/exchange_rate_EUR.csv'
 temp_df = pd.read_csv(directory)
 temp_df.to_csv('test_data.csv', header=None, index=False)
 
@@ -85,7 +85,7 @@ results = conn.uploadFile('test_data.csv', fileTag="file1", jobName="load_test1"
 print("Job completed!")          
         
 
-directory = 'exchange_rate_USD.csv'
+directory = 'UN_Data_Load/exchange_rate_USD.csv'
 temp_df = pd.read_csv(directory)
 temp_df.to_csv('test_data.csv', header=None, index=False)
 
@@ -106,7 +106,7 @@ results = conn.uploadFile('test_data.csv', fileTag="file1", jobName="load_test1"
 print("Job completed!")          
         
 
-directory = 'exchange_rate_CNY.csv'
+directory = 'UN_Data_Load/exchange_rate_CNY.csv'
 temp_df = pd.read_csv(directory)
 temp_df.to_csv('test_data.csv', header=None, index=False)
 
@@ -130,7 +130,7 @@ print("Job completed!")
 
 
 ### FOR MAX'S DATA!!! ###
-directory = 'Current1000CSV.csv'
+directory = 'UN_Data_Load/Current1000CSV.csv'
 temp_df = pd.read_csv(directory)
 temp_df.to_csv('test_data.csv', header=None, index=False)
 
@@ -166,7 +166,7 @@ print("Job completed!")
 
 
         
-directory = 'Constant1000.csv'
+directory = 'UN_Data_Load/Constant1000.csv'
 temp_df = pd.read_csv(directory)
 temp_df.to_csv('test_data.csv', header=None, index=False)
 
@@ -204,7 +204,7 @@ print("Job completed!")
                 
 ### FOR TONY'S DATA ###
 
-directory = 'Pollutant.csv'
+directory = 'UN_Data_Load/Pollutant.csv'
 temp_df = pd.read_csv(directory)
 temp_df.to_csv('test_data.csv', header=None, index=False)
 
@@ -239,7 +239,7 @@ print("Job completed!")
         
 
 
-directory = 'Tourism.csv'
+directory = 'UN_Data_Load/Tourism.csv'
 temp_df = pd.read_csv(directory)
 temp_df.to_csv('test_data.csv', header=None, index=False)
 
@@ -278,7 +278,7 @@ print("Job completed!")
 
 ### FOR JANE'S DATA!!! ###
 
-directory = 'Crime_Metric.csv'
+directory = 'UN_Data_Load/Crime_Metric.csv'
 temp_df = pd.read_csv(directory)
 temp_df.to_csv('test_data.csv', header=None, index=False)
 
@@ -314,7 +314,7 @@ print("Job completed!")
         
         
 
-directory = 'Refugee_Metric.csv'
+directory = 'UN_Data_Load/Refugee_Metric.csv'
 temp_df = pd.read_csv(directory)
 temp_df.to_csv('test_data.csv', header=None, index=False)
 
@@ -356,7 +356,7 @@ print("Job completed!")
       ##megadeath##
       
      
-directory = 'Megadeath_1704.csv'
+directory = 'UN_Data_Load/Megadeath_1704.csv'
 temp_df = pd.read_csv(directory)
 temp_df.to_csv('test_data.csv', header=None, index=False)
 
@@ -394,7 +394,7 @@ print("Job completed!")
 
       ##crop data##
       
-directory = 'Crop_Metric_1804_(1).csv'
+directory = 'UN_Data_Load/Crop_Metric_1804_(1).csv'
 temp_df = pd.read_csv(directory)
 temp_df.to_csv('test_data.csv', header=None, index=False)
 
@@ -433,7 +433,7 @@ print("Job completed!")
       
       
        
-directory = 'Crop_Metric_1804_(2).csv'
+directory = 'UN_Data_Load/Crop_Metric_1804_(2).csv'
 temp_df = pd.read_csv(directory)
 temp_df.to_csv('test_data.csv', header=None, index=False)
 
@@ -472,7 +472,7 @@ print("Job completed!")
 
 
 ''' DIRECTORY TO BULK LOAD FILES FROM - SPECIFY YOUR DIRECTORY HERE '''
-directory = '/Batch Load'
+directory = 'UN_Data_Load/Batch_Load'
 
 ''' COUNTER USED IN LOAD JOB NAME CREATION '''
 counter = 0
