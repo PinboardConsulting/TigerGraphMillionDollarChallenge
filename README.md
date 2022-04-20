@@ -41,15 +41,16 @@ The Major components with their descriptions are as follows:
 1. Create a local instance with minimum  128GB of RAM to prevent the server from hanging when querying lots of data. (We used a VM with 16 vCPUs and 128GB RAM).
 2. Have a python environment with pyTigerGraph, os and Pandas modules installed.
 3. Disable REST++ Authentication 
-4. Open the config.py file and enter the details of TigerGraph instance (host, username, password, directory)
-5. Run "Graph and Schema creation.py" 
-6. Run "Load jobs for all UN Datasets.py"
-7. Run "Query creation and installation.py"
+4. Clone this repository
+5. Open the config.py file and enter the details of TigerGraph instance (host, username, password, directory)
+6. Run "Graph and Schema creation.py" 
+7. Run "Load jobs for all UN Datasets.py"
+8. Run "Query creation and installation.py"
 
 ## Steps to replicate UI
 Please make sure the environment has nodejs 16 installed. 
-1. Navigate to Repo directory
-1. Run command `npm install`
-2. Run command `npm audit fix`
-3. Run command `npm run start`
-2. Go to https://localhost:4200/ to access the locally hosted website. 
+1. Navigate to repository directory
+2. Run command `npm install`
+3. Run command `npm audit fix`
+4. Run command `npm run start`
+5. Go to https://localhost:4200/ to access the locally hosted website. 
