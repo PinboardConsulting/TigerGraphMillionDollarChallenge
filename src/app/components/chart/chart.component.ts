@@ -63,7 +63,9 @@ export class ChartComponent implements OnInit, OnDestroy {
           if(!yearData[item.year]){
             yearData[item.year] = [];
           }
-          yearData[item.year].push(item);
+          if(item[this.getData.selectedMetices[0]] && item[this.getData.selectedMetices[1]]){
+            yearData[item.year].push(item);
+          }
         });
         const datasets:any = [];
         Object.keys(yearData).forEach((year:any) => {
