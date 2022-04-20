@@ -47,7 +47,7 @@ The Major components with their descriptions are as follows:
 8. Run `python UN_Data_Load/Query_creation_and_installation.py`
 
 ## Steps to replicate UI
-Please make sure the environment has nodejs 16 installed. 
+Please make sure the environment has nodejs 16 installed. \
 Please check the config parameters for the UI at "src/environments/environment.ts"
 1. Navigate to repository directory
 2. Run command `npm install`
