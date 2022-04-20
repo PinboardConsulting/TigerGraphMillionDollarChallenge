@@ -48,7 +48,7 @@ The Major components with their descriptions are as follows:
 
 ## Steps to replicate UI
 Please make sure the environment has nodejs 16 installed. 
-Please check the config parameters at /src/environments/environment.ts
+Please check the config parameters for the UI at "src/environments/environment.ts"
 1. Navigate to repository directory
 2. Run command `npm install`
 3. Run command `npm audit fix`
