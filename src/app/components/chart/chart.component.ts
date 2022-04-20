@@ -38,7 +38,7 @@ export class ChartComponent implements OnInit, OnDestroy {
     options: {
         scales: {
             y: {
-                beginAtZero: true,
+                beginAtZero: false,
                   title: {
                     display: true,
                     text: 'Metric1'
