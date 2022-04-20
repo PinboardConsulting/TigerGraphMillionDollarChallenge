@@ -1,9 +1,11 @@
 
 # Million Dollar Challenge
 
-This is a repository for Million Dollar Challenge by TigerGraph from Pinboard Consulting. The aim of this submission is to create a TigerGraph solution for the way this data can be stored, analysed and visualised and leaverage graph technology to achieve deeper insights.
+This is a repository for the TigerGraph Graph For All Million Dollar Challenge - UN Data submission. The aim of this repository is to enable anyone who wants to to create an end-to-end TigerGraph + UI solution for the storage, analysis and visualisation of a wide range of UN national and international datasets.
 
-This README provides a guide to create an implementation of TigerGraph which can store, in true related graph form, all current sets of UN Data, with the long term aim of being able to update and enhance the schema with more datasets beyond the life of this hackathon and to build an interactive dashboard, where extracts, reports and analytics can be visualised using the data from TigerGraph.
+This README provides a guide to creating an implementation of the end-to-end solution which can store, in true related graph form, a broad set of UN Data, and present it in a user friendly web-based interface.
+
+See DevPost submission for more details and background on the scope and goals of the solution: https://devpost.com/software/pinboard_consulting
 
 ## Files
 Folder Structure
