@@ -47,13 +47,13 @@ The Major components with their descriptions are as follows:
 8. Run `python UN_Data_Load/Query_creation_and_installation.py`
 
 ## Steps to replicate UI
-1. Please install Node.js version 16
-2. Navigate to git repository directory
-3. Please verify the parameters at "src/environments/environment.ts" (They are currently set to connect to a local TigerGraph Server instance)
-4. Run command `npm install`
-5. Run command `npm audit fix`
-6. Run command `npm run start`
-7. Go to https://localhost:4200/ to access the locally hosted website. 
+Please make sure the environment has nodejs 16 installed. \
+Please check the config parameters for the UI at "src/environments/environment.ts"
+1. Navigate to repository directory
+2. Run command `npm install`
+3. Run command `npm audit fix`
+4. Run command `npm run start`
+5. Go to https://localhost:4200/ to access the locally hosted website. 
 
 ## User Guide
 We have added a guide for the UI interface. Please click [here](https://github.com/PinboardConsulting/TigerGraphMillionDollarChallenge/blob/main/UI_User_Guide.pdf) to access.  
