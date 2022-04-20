@@ -39,7 +39,7 @@ The Major components with their descriptions are as follows:
 ## Steps to replicate TigerGraph Instance
 1. Create a local instance with minimum  128GB of RAM to prevent the server from hanging when querying lots of data. (We used a VM with 16 vCPUs and 128GB RAM).
 2. Have a python environment with pyTigerGraph, os and Pandas modules installed.
-3. Disable REST++ Authentication 
+3. If youre using TigerGraph Server then you shouldnt need to but please check if Rest++ Authentication is turned off.   
 4. Clone this repository
 5. Open the "UN_Data_Load/Config.py" file and enter the details of TigerGraph instance (host, username and password) 
 6. Run `python UN_Data_Load/Graph_and_Schema_creation.py` 
@@ -48,6 +48,7 @@ The Major components with their descriptions are as follows:
 
 ## Steps to replicate UI
 Please make sure the environment has nodejs 16 installed. 
+Please check the config parameters at /src/environments/environment.ts
 1. Navigate to repository directory
 2. Run command `npm install`
 3. Run command `npm audit fix`
