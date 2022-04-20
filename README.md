@@ -43,13 +43,13 @@ The Major components with their descriptions are as follows:
 4. Clone this repository
 5. Open the "UN_Data_Load/Config.py" file and enter the details of TigerGraph instance (host, username and password) 
 6. Run `python UN_Data_Load/Graph_and_Schema_creation.py` 
-7. Run `python UN_Data_Load/Load_jobs_for_all_UN_Datasets.py`
+7. Run `python UN_Data_Load/Load_jobs_for_all_UN_Datasets.py` (This may take 5-10 minutes depending on the CPU capacity)
 8. Run `python UN_Data_Load/Query_creation_and_installation.py`
 
 ## Steps to replicate UI
-1. Please install Node.js version 16
+1. Install Node.js version 16
 2. Navigate to git root repository directory
-3. Please verify the parameters at "src/environments/environment.ts"
+3. Verify the parameters at "src/environments/environment.ts"
 - For local instance you shouldnt need to edit the parameters but please verify they are correct. For cloud instance please edit the parameters as per cloud environment variables. 
 4. Run command `npm install`
 5. Run command `npm audit fix`
