@@ -48,8 +48,9 @@ The Major components with their descriptions are as follows:
 
 ## Steps to replicate UI
 1. Please install Node.js version 16
-2. Navigate to git repository directory
-3. Please verify the parameters at "src/environments/environment.ts" (They are currently set to connect to a local TigerGraph Server instance)
+2. Navigate to git root repository directory
+3. Please verify the parameters at "src/environments/environment.ts"
+- For local instance you shouldnt need to edit the parameters but please verify they are correct. For cloud instance please edit the parameters as per cloud environment variables. 
 4. Run command `npm install`
 5. Run command `npm audit fix`
 6. Run command `npm run start`
