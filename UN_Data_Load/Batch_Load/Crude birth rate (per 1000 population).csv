@@ -1,0 +1,209 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2012,35.3,Crude Birth Rate,per 1k pop,All,All,CBR1,0,130,4,No
+1,Albania,2012,12.8,Crude Birth Rate,per 1k pop,All,All,CBR2,0,130,8,No
+2,Algeria,2012,24.6,Crude Birth Rate,per 1k pop,All,All,CBR3,0,130,12,No
+3,Andorra,2012,9.0,Crude Birth Rate,per 1k pop,All,All,CBR4,0,130,20,No
+4,Angola,2012,44.8,Crude Birth Rate,per 1k pop,All,All,CBR5,0,130,24,No
+5,Antigua and Barbuda,2012,16.6,Crude Birth Rate,per 1k pop,All,All,CBR6,0,130,28,No
+6,Argentina,2012,16.9,Crude Birth Rate,per 1k pop,All,All,CBR7,0,130,32,No
+7,Armenia,2012,13.9,Crude Birth Rate,per 1k pop,All,All,CBR8,0,130,51,No
+8,Australia,2012,13.3,Crude Birth Rate,per 1k pop,All,All,CBR9,0,130,36,No
+9,Austria,2012,9.5,Crude Birth Rate,per 1k pop,All,All,CBR10,0,130,40,No
+10,Azerbaijan,2012,18.1,Crude Birth Rate,per 1k pop,All,All,CBR11,0,130,31,No
+11,Bahamas,2012,15.4,Crude Birth Rate,per 1k pop,All,All,CBR12,0,130,44,No
+12,Bahrain,2012,15.6,Crude Birth Rate,per 1k pop,All,All,CBR13,0,130,48,No
+13,Bangladesh,2012,20.3,Crude Birth Rate,per 1k pop,All,All,CBR14,0,130,50,No
+14,Barbados,2012,12.7,Crude Birth Rate,per 1k pop,All,All,CBR15,0,130,52,No
+15,Belarus,2012,11.0,Crude Birth Rate,per 1k pop,All,All,CBR16,0,130,112,No
+16,Belgium,2012,11.7,Crude Birth Rate,per 1k pop,All,All,CBR17,0,130,56,No
+17,Belize,2012,23.8,Crude Birth Rate,per 1k pop,All,All,CBR18,0,130,84,No
+18,Benin,2012,36.9,Crude Birth Rate,per 1k pop,All,All,CBR19,0,130,204,No
+19,Bhutan,2012,19.9,Crude Birth Rate,per 1k pop,All,All,CBR20,0,130,64,No
+20,Bolivia (Plurinational State of),2012,26.0,Crude Birth Rate,per 1k pop,All,All,CBR21,0,130,68,No
+21,Bolivia (Plurinational State of),2012,25.9,Crude Birth Rate,per 1k pop,All,All,CBR22,0,130,68,No
+22,Bosnia and Herzegovina,2012,8.8,Crude Birth Rate,per 1k pop,All,All,CBR23,0,130,70,No
+23,Botswana,2012,23.8,Crude Birth Rate,per 1k pop,All,All,CBR24,0,130,72,No
+24,Brazil,2012,15.1,Crude Birth Rate,per 1k pop,All,All,CBR25,0,130,76,No
+25,Brunei Darussalam,2012,15.9,Crude Birth Rate,per 1k pop,All,All,CBR26,0,130,96,No
+26,Bulgaria,2012,9.6,Crude Birth Rate,per 1k pop,All,All,CBR27,0,130,100,No
+27,Burkina Faso,2012,41.4,Crude Birth Rate,per 1k pop,All,All,CBR28,0,130,854,No
+28,Burundi,2012,45.0,Crude Birth Rate,per 1k pop,All,All,CBR29,0,130,108,No
+29,Cabo Verde,2012,20.4,Crude Birth Rate,per 1k pop,All,All,CBR30,0,130,132,No
+30,Cambodia,2012,25.9,Crude Birth Rate,per 1k pop,All,All,CBR31,0,130,116,No
+31,Cameroon,2012,37.7,Crude Birth Rate,per 1k pop,All,All,CBR32,0,130,120,No
+32,Canada,2012,11.2,Crude Birth Rate,per 1k pop,All,All,CBR33,0,130,124,No
+33,Central African Republic,2012,34.5,Crude Birth Rate,per 1k pop,All,All,CBR34,0,130,140,No
+34,Chad,2012,46.4,Crude Birth Rate,per 1k pop,All,All,CBR35,0,130,148,No
+35,Chile,2012,14.1,Crude Birth Rate,per 1k pop,All,All,CBR36,0,130,152,No
+36,China,2012,13.4,Crude Birth Rate,per 1k pop,All,All,CBR37,0,130,156,No
+37,Colombia,2012,19.1,Crude Birth Rate,per 1k pop,All,All,CBR38,0,130,170,No
+38,Comoros,2012,35.9,Crude Birth Rate,per 1k pop,All,All,CBR39,0,130,174,No
+39,Congo,2012,38.0,Crude Birth Rate,per 1k pop,All,All,CBR40,0,130,178,No
+40,Cook Islands,2012,15.0,Crude Birth Rate,per 1k pop,All,All,CBR41,0,130,184,No
+41,Costa Rica,2012,15.3,Crude Birth Rate,per 1k pop,All,All,CBR42,0,130,188,No
+42,Côte dIvoire,2012,36.7,Crude Birth Rate,per 1k pop,All,All,CBR43,0,130,384,No
+43,Croatia,2012,9.5,Crude Birth Rate,per 1k pop,All,All,CBR44,0,130,191,No
+44,Cuba,2012,9.6,Crude Birth Rate,per 1k pop,All,All,CBR45,0,130,192,No
+45,Cyprus,2012,11.5,Crude Birth Rate,per 1k pop,All,All,CBR46,0,130,196,No
+46,Czech Republic,2012,11.1,Crude Birth Rate,per 1k pop,All,All,CBR47,0,130,203,No
+47,Democratic Peoples Republic of Korea,2012,14.4,Crude Birth Rate,per 1k pop,All,All,CBR48,0,130,408,No
+48,Democratic Republic of the Congo,2012,43.2,Crude Birth Rate,per 1k pop,All,All,CBR49,0,130,180,No
+49,Denmark,2012,11.4,Crude Birth Rate,per 1k pop,All,All,CBR50,0,130,208,No
+50,Djibouti,2012,27.8,Crude Birth Rate,per 1k pop,All,All,CBR51,0,130,262,No
+51,Dominica,2012,16.0,Crude Birth Rate,per 1k pop,All,All,CBR52,0,130,212,No
+52,Dominican Republic,2012,21.2,Crude Birth Rate,per 1k pop,All,All,CBR53,0,130,214,No
+53,Ecuador,2012,21.1,Crude Birth Rate,per 1k pop,All,All,CBR54,0,130,218,No
+54,Egypt,2012,23.5,Crude Birth Rate,per 1k pop,All,All,CBR55,0,130,818,No
+55,El Salvador,2012,20.2,Crude Birth Rate,per 1k pop,All,All,CBR56,0,130,222,No
+56,Equatorial Guinea,2012,35.8,Crude Birth Rate,per 1k pop,All,All,CBR57,0,130,226,No
+57,Eritrea,2012,37.4,Crude Birth Rate,per 1k pop,All,All,CBR58,0,130,232,No
+58,Estonia,2012,11.0,Crude Birth Rate,per 1k pop,All,All,CBR59,0,130,233,No
+59,Ethiopia,2012,33.6,Crude Birth Rate,per 1k pop,All,All,CBR60,0,130,231,No
+60,Ethiopia,2012,33.6,Crude Birth Rate,per 1k pop,All,All,CBR60,0,130,230,No
+61,Ethiopia,2012,33.5,Crude Birth Rate,per 1k pop,All,All,CBR61,0,130,231,No
+62,Ethiopia,2012,33.5,Crude Birth Rate,per 1k pop,All,All,CBR61,0,130,230,No
+63,Fiji,2012,20.8,Crude Birth Rate,per 1k pop,All,All,CBR62,0,130,242,No
+64,Finland,2012,11.2,Crude Birth Rate,per 1k pop,All,All,CBR63,0,130,246,No
+65,France,2012,12.4,Crude Birth Rate,per 1k pop,All,All,CBR64,0,130,250,No
+66,Gabon,2012,32.2,Crude Birth Rate,per 1k pop,All,All,CBR65,0,130,266,No
+67,Gambia,2012,43.0,Crude Birth Rate,per 1k pop,All,All,CBR66,0,130,270,No
+68,Georgia,2012,13.5,Crude Birth Rate,per 1k pop,All,All,CBR67,0,130,268,No
+69,Germany,2012,8.4,Crude Birth Rate,per 1k pop,All,All,CBR68,0,130,276,No
+70,Ghana,2012,31.3,Crude Birth Rate,per 1k pop,All,All,CBR69,0,130,288,No
+71,Greece,2012,9.9,Crude Birth Rate,per 1k pop,All,All,CBR70,0,130,300,No
+72,Grenada,2012,19.4,Crude Birth Rate,per 1k pop,All,All,CBR71,0,130,308,No
+73,Guatemala,2012,31.4,Crude Birth Rate,per 1k pop,All,All,CBR72,0,130,320,No
+74,Guinea,2012,37.3,Crude Birth Rate,per 1k pop,All,All,CBR73,0,130,324,No
+75,Guinea-Bissau,2012,37.9,Crude Birth Rate,per 1k pop,All,All,CBR74,0,130,624,No
+76,Guyana,2012,20.7,Crude Birth Rate,per 1k pop,All,All,CBR75,0,130,328,No
+77,Haiti,2012,26.0,Crude Birth Rate,per 1k pop,All,All,CBR76,0,130,332,No
+78,Honduras,2012,26.1,Crude Birth Rate,per 1k pop,All,All,CBR77,0,130,340,No
+79,Hungary,2012,9.8,Crude Birth Rate,per 1k pop,All,All,CBR78,0,130,348,No
+80,Iceland,2012,14.6,Crude Birth Rate,per 1k pop,All,All,CBR79,0,130,352,No
+81,India,2012,20.7,Crude Birth Rate,per 1k pop,All,All,CBR80,0,130,356,No
+82,Indonesia,2012,19.2,Crude Birth Rate,per 1k pop,All,All,CBR81,0,130,360,No
+83,Iran (Islamic Republic of),2012,19.0,Crude Birth Rate,per 1k pop,All,All,CBR82,0,130,364,No
+84,Iraq,2012,31.5,Crude Birth Rate,per 1k pop,All,All,CBR83,0,130,368,No
+85,Ireland,2012,15.6,Crude Birth Rate,per 1k pop,All,All,CBR84,0,130,372,No
+86,Israel,2012,20.6,Crude Birth Rate,per 1k pop,All,All,CBR85,0,130,376,No
+87,Italy,2012,9.3,Crude Birth Rate,per 1k pop,All,All,CBR86,0,130,380,No
+88,Jamaica,2012,18.1,Crude Birth Rate,per 1k pop,All,All,CBR87,0,130,388,No
+89,Japan,2012,8.4,Crude Birth Rate,per 1k pop,All,All,CBR88,0,130,392,No
+90,Japan,2012,8.4,Crude Birth Rate,per 1k pop,All,All,CBR88,0,130,392,No
+91,Jordan,2012,27.7,Crude Birth Rate,per 1k pop,All,All,CBR89,0,130,400,No
+92,Kazakhstan,2012,20.9,Crude Birth Rate,per 1k pop,All,All,CBR90,0,130,398,No
+93,Kenya,2012,35.5,Crude Birth Rate,per 1k pop,All,All,CBR91,0,130,404,No
+94,Kiribati,2012,23.3,Crude Birth Rate,per 1k pop,All,All,CBR92,0,130,296,No
+95,Kuwait,2012,20.9,Crude Birth Rate,per 1k pop,All,All,CBR93,0,130,414,No
+96,Kyrgyzstan,2012,27.0,Crude Birth Rate,per 1k pop,All,All,CBR94,0,130,417,No
+97,Lao Peoples Democratic Republic,2012,27.3,Crude Birth Rate,per 1k pop,All,All,CBR95,0,130,418,No
+98,Latvia,2012,10.9,Crude Birth Rate,per 1k pop,All,All,CBR96,0,130,428,No
+99,Lebanon,2012,13.2,Crude Birth Rate,per 1k pop,All,All,CBR97,0,130,422,No
+100,Lesotho,2012,27.6,Crude Birth Rate,per 1k pop,All,All,CBR98,0,130,426,No
+101,Liberia,2012,36.0,Crude Birth Rate,per 1k pop,All,All,CBR99,0,130,430,No
+102,Libya,2012,21.1,Crude Birth Rate,per 1k pop,All,All,CBR100,0,130,434,No
+103,Lithuania,2012,11.2,Crude Birth Rate,per 1k pop,All,All,CBR101,0,130,440,No
+104,Luxembourg,2012,11.6,Crude Birth Rate,per 1k pop,All,All,CBR102,0,130,442,No
+105,Madagascar,2012,34.9,Crude Birth Rate,per 1k pop,All,All,CBR103,0,130,450,No
+106,Malawi,2012,40.1,Crude Birth Rate,per 1k pop,All,All,CBR104,0,130,454,No
+107,Malaysia,2012,17.6,Crude Birth Rate,per 1k pop,All,All,CBR105,0,130,458,No
+108,Maldives,2012,22.2,Crude Birth Rate,per 1k pop,All,All,CBR106,0,130,462,No
+109,Mali,2012,47.4,Crude Birth Rate,per 1k pop,All,All,CBR107,0,130,466,No
+110,Malta,2012,9.3,Crude Birth Rate,per 1k pop,All,All,CBR108,0,130,470,No
+111,Marshall Islands,2012,28.0,Crude Birth Rate,per 1k pop,All,All,CBR109,0,130,584,No
+112,Mauritania,2012,34.5,Crude Birth Rate,per 1k pop,All,All,CBR110,0,130,478,No
+113,Mauritius,2012,11.5,Crude Birth Rate,per 1k pop,All,All,CBR111,0,130,480,No
+114,Mexico,2012,18.8,Crude Birth Rate,per 1k pop,All,All,CBR112,0,130,484,No
+115,Micronesia (Federated States of),2012,23.5,Crude Birth Rate,per 1k pop,All,All,CBR113,0,130,583,No
+116,Monaco,2012,7.0,Crude Birth Rate,per 1k pop,All,All,CBR114,0,130,492,No
+117,Mongolia,2012,22.9,Crude Birth Rate,per 1k pop,All,All,CBR115,0,130,496,No
+118,Montenegro,2012,11.8,Crude Birth Rate,per 1k pop,All,All,CBR116,0,130,499,No
+119,Morocco,2012,22.6,Crude Birth Rate,per 1k pop,All,All,CBR117,0,130,504,No
+120,Mozambique,2012,39.4,Crude Birth Rate,per 1k pop,All,All,CBR118,0,130,508,No
+121,Myanmar,2012,17.4,Crude Birth Rate,per 1k pop,All,All,CBR119,0,130,104,No
+122,Namibia,2012,26.4,Crude Birth Rate,per 1k pop,All,All,CBR120,0,130,516,No
+123,Nauru,2012,27.0,Crude Birth Rate,per 1k pop,All,All,CBR121,0,130,520,No
+124,Nepal,2012,21.6,Crude Birth Rate,per 1k pop,All,All,CBR122,0,130,524,No
+125,Netherlands,2012,10.8,Crude Birth Rate,per 1k pop,All,All,CBR123,0,130,528,No
+126,New Zealand,2012,14.0,Crude Birth Rate,per 1k pop,All,All,CBR124,0,130,554,No
+127,New Zealand,2012,14.0,Crude Birth Rate,per 1k pop,All,All,CBR124,0,130,554,No
+128,Nicaragua,2012,23.1,Crude Birth Rate,per 1k pop,All,All,CBR125,0,130,558,No
+129,Niger,2012,49.8,Crude Birth Rate,per 1k pop,All,All,CBR126,0,130,562,No
+130,Nigeria,2012,41.5,Crude Birth Rate,per 1k pop,All,All,CBR127,0,130,566,No
+131,Norway,2012,12.5,Crude Birth Rate,per 1k pop,All,All,CBR128,0,130,578,No
+132,Oman,2012,21.4,Crude Birth Rate,per 1k pop,All,All,CBR129,0,130,512,No
+133,Oman,2012,21.3,Crude Birth Rate,per 1k pop,All,All,CBR130,0,130,512,No
+134,Pakistan,2012,25.7,Crude Birth Rate,per 1k pop,All,All,CBR131,0,130,586,No
+135,Palau,2012,11.0,Crude Birth Rate,per 1k pop,All,All,CBR132,0,130,585,No
+136,Panama,2012,19.7,Crude Birth Rate,per 1k pop,All,All,CBR133,0,130,591,No
+137,Panama,2012,19.7,Crude Birth Rate,per 1k pop,All,All,CBR133,0,130,590,No
+138,Panama,2012,19.8,Crude Birth Rate,per 1k pop,All,All,CBR134,0,130,591,No
+139,Panama,2012,19.8,Crude Birth Rate,per 1k pop,All,All,CBR134,0,130,590,No
+140,Papua New Guinea,2012,29.3,Crude Birth Rate,per 1k pop,All,All,CBR135,0,130,598,No
+141,Paraguay,2012,23.9,Crude Birth Rate,per 1k pop,All,All,CBR136,0,130,600,No
+142,Peru,2012,20.0,Crude Birth Rate,per 1k pop,All,All,CBR137,0,130,604,No
+143,Philippines,2012,24.6,Crude Birth Rate,per 1k pop,All,All,CBR138,0,130,608,No
+144,Poland,2012,10.8,Crude Birth Rate,per 1k pop,All,All,CBR139,0,130,616,No
+145,Portugal,2012,8.9,Crude Birth Rate,per 1k pop,All,All,CBR140,0,130,620,No
+146,Portugal,2012,8.8,Crude Birth Rate,per 1k pop,All,All,CBR141,0,130,620,No
+147,Qatar,2012,11.2,Crude Birth Rate,per 1k pop,All,All,CBR142,0,130,634,No
+148,Republic of Korea,2012,9.6,Crude Birth Rate,per 1k pop,All,All,CBR143,0,130,410,No
+149,Republic of Moldova,2012,12.3,Crude Birth Rate,per 1k pop,All,All,CBR144,0,130,498,No
+150,Republic of Moldova,2012,12.2,Crude Birth Rate,per 1k pop,All,All,CBR145,0,130,498,No
+151,Romania,2012,10.3,Crude Birth Rate,per 1k pop,All,All,CBR146,0,130,642,No
+152,Russian Federation,2012,11.8,Crude Birth Rate,per 1k pop,All,All,CBR147,0,130,643,No
+153,Rwanda,2012,35.8,Crude Birth Rate,per 1k pop,All,All,CBR148,0,130,646,No
+154,Saint Kitts and Nevis,2012,14.0,Crude Birth Rate,per 1k pop,All,All,CBR149,0,130,659,No
+155,Saint Lucia,2012,15.7,Crude Birth Rate,per 1k pop,All,All,CBR150,0,130,662,No
+156,Saint Vincent and the Grenadines,2012,16.6,Crude Birth Rate,per 1k pop,All,All,CBR151,0,130,670,No
+157,Samoa,2012,26.8,Crude Birth Rate,per 1k pop,All,All,CBR152,0,130,882,No
+158,San Marino,2012,9.0,Crude Birth Rate,per 1k pop,All,All,CBR153,0,130,674,No
+159,Sao Tome and Principe,2012,34.7,Crude Birth Rate,per 1k pop,All,All,CBR154,0,130,678,No
+160,Saudi Arabia,2012,19.9,Crude Birth Rate,per 1k pop,All,All,CBR155,0,130,682,No
+161,Senegal,2012,38.1,Crude Birth Rate,per 1k pop,All,All,CBR156,0,130,686,No
+162,Serbia,2012,9.8,Crude Birth Rate,per 1k pop,All,All,CBR157,0,130,688,No
+163,Seychelles,2012,17.1,Crude Birth Rate,per 1k pop,All,All,CBR158,0,130,690,No
+164,Sierra Leone,2012,37.1,Crude Birth Rate,per 1k pop,All,All,CBR159,0,130,694,No
+165,Singapore,2012,9.9,Crude Birth Rate,per 1k pop,All,All,CBR160,0,130,702,No
+166,Slovakia,2012,10.7,Crude Birth Rate,per 1k pop,All,All,CBR161,0,130,703,No
+167,Slovenia,2012,10.1,Crude Birth Rate,per 1k pop,All,All,CBR162,0,130,705,No
+168,Solomon Islands,2012,31.5,Crude Birth Rate,per 1k pop,All,All,CBR163,0,130,90,No
+169,Somalia,2012,44.2,Crude Birth Rate,per 1k pop,All,All,CBR164,0,130,706,No
+170,South Africa,2012,21.1,Crude Birth Rate,per 1k pop,All,All,CBR165,0,130,710,No
+171,South Sudan,2012,36.5,Crude Birth Rate,per 1k pop,All,All,CBR166,0,130,728,No
+172,Spain,2012,10.6,Crude Birth Rate,per 1k pop,All,All,CBR167,0,130,724,No
+173,Sri Lanka,2012,18.1,Crude Birth Rate,per 1k pop,All,All,CBR168,0,130,144,No
+174,Sudan,2012,33.9,Crude Birth Rate,per 1k pop,All,All,CBR169,0,130,729,No
+175,Sudan,2012,33.9,Crude Birth Rate,per 1k pop,All,All,CBR169,0,130,736,No
+176,Suriname,2012,18.0,Crude Birth Rate,per 1k pop,All,All,CBR170,0,130,740,No
+177,Swaziland,2012,30.2,Crude Birth Rate,per 1k pop,All,All,CBR171,0,130,748,No
+178,Sweden,2012,12.0,Crude Birth Rate,per 1k pop,All,All,CBR172,0,130,752,No
+179,Switzerland,2012,10.3,Crude Birth Rate,per 1k pop,All,All,CBR173,0,130,756,No
+180,Switzerland,2012,10.3,Crude Birth Rate,per 1k pop,All,All,CBR173,0,130,756,No
+181,Syrian Arab Republic,2012,24.4,Crude Birth Rate,per 1k pop,All,All,CBR174,0,130,760,No
+182,Tajikistan,2012,33.1,Crude Birth Rate,per 1k pop,All,All,CBR175,0,130,762,No
+183,Thailand,2012,10.5,Crude Birth Rate,per 1k pop,All,All,CBR176,0,130,764,No
+184,The former Yugoslav Republic of Macedonia,2012,10.8,Crude Birth Rate,per 1k pop,All,All,CBR177,0,130,807,No
+185,Timor-Leste,2012,35.9,Crude Birth Rate,per 1k pop,All,All,CBR178,0,130,626,No
+186,Togo,2012,36.8,Crude Birth Rate,per 1k pop,All,All,CBR179,0,130,768,No
+187,Tonga,2012,26.1,Crude Birth Rate,per 1k pop,All,All,CBR180,0,130,776,No
+188,Trinidad and Tobago,2012,14.7,Crude Birth Rate,per 1k pop,All,All,CBR181,0,130,780,No
+189,Tunisia,2012,17.4,Crude Birth Rate,per 1k pop,All,All,CBR182,0,130,788,No
+190,Turkey,2012,17.1,Crude Birth Rate,per 1k pop,All,All,CBR183,0,130,792,No
+191,Turkmenistan,2012,21.5,Crude Birth Rate,per 1k pop,All,All,CBR184,0,130,795,No
+192,Tuvalu,2012,23.0,Crude Birth Rate,per 1k pop,All,All,CBR185,0,130,798,No
+193,Uganda,2012,43.7,Crude Birth Rate,per 1k pop,All,All,CBR186,0,130,800,No
+194,Ukraine,2012,10.9,Crude Birth Rate,per 1k pop,All,All,CBR187,0,130,804,No
+195,United Arab Emirates,2012,15.1,Crude Birth Rate,per 1k pop,All,All,CBR188,0,130,784,No
+196,United Kingdom,2012,12.3,Crude Birth Rate,per 1k pop,All,All,CBR189,0,130,826,No
+197,United Republic of Tanzania,2012,39.7,Crude Birth Rate,per 1k pop,All,All,CBR190,0,130,834,No
+198,United States of America,2012,13.3,Crude Birth Rate,per 1k pop,All,All,CBR191,0,130,840,No
+199,Uruguay,2012,14.6,Crude Birth Rate,per 1k pop,All,All,CBR192,0,130,858,No
+200,Uzbekistan,2012,21.8,Crude Birth Rate,per 1k pop,All,All,CBR193,0,130,860,No
+201,Vanuatu,2012,26.9,Crude Birth Rate,per 1k pop,All,All,CBR194,0,130,548,No
+202,Venezuela (Bolivarian Republic of),2012,20.1,Crude Birth Rate,per 1k pop,All,All,CBR195,0,130,862,No
+203,Viet Nam,2012,15.9,Crude Birth Rate,per 1k pop,All,All,CBR196,0,130,704,No
+204,Yemen,2012,31.5,Crude Birth Rate,per 1k pop,All,All,CBR197,0,130,887,No
+205,Yemen,2012,31.5,Crude Birth Rate,per 1k pop,All,All,CBR197,0,130,886,No
+206,Zambia,2012,43.0,Crude Birth Rate,per 1k pop,All,All,CBR198,0,130,894,No
+207,Zimbabwe,2012,31.6,Crude Birth Rate,per 1k pop,All,All,CBR199,0,130,716,No

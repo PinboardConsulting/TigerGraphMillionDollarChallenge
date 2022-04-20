@@ -1,0 +1,2394 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2012,12,Cholera,Absolute,All,All,CHONRC1,0,130,4,No
+1,Afghanistan,2011,3733,Cholera,Absolute,All,All,CHONRC2,0,130,4,No
+2,Afghanistan,2010,2369,Cholera,Absolute,All,All,CHONRC3,0,130,4,No
+3,Afghanistan,2009,662,Cholera,Absolute,All,All,CHONRC4,0,130,4,No
+4,Afghanistan,2008,4384,Cholera,Absolute,All,All,CHONRC5,0,130,4,No
+5,Afghanistan,2005,33,Cholera,Absolute,All,All,CHONRC6,0,130,4,No
+6,Afghanistan,2003,41,Cholera,Absolute,All,All,CHONRC7,0,130,4,No
+7,Afghanistan,2002,3,Cholera,Absolute,All,All,CHONRC8,0,130,4,No
+8,Afghanistan,2001,4499,Cholera,Absolute,All,All,CHONRC9,0,130,4,No
+9,Afghanistan,2000,4330,Cholera,Absolute,All,All,CHONRC10,0,130,4,No
+10,Afghanistan,1999,24639,Cholera,Absolute,All,All,CHONRC11,0,130,4,No
+11,Afghanistan,1998,10000,Cholera,Absolute,All,All,CHONRC12,0,130,4,No
+12,Afghanistan,1997,4170,Cholera,Absolute,All,All,CHONRC13,0,130,4,No
+13,Afghanistan,1995,19903,Cholera,Absolute,All,All,CHONRC14,0,130,4,No
+14,Afghanistan,1994,38735,Cholera,Absolute,All,All,CHONRC15,0,130,4,No
+15,Afghanistan,1993,37046,Cholera,Absolute,All,All,CHONRC16,0,130,4,No
+16,Afghanistan,1965,218,Cholera,Absolute,All,All,CHONRC17,0,130,4,No
+17,Afghanistan,1960,887,Cholera,Absolute,All,All,CHONRC18,0,130,4,No
+18,Albania,1994,626,Cholera,Absolute,All,All,CHONRC19,0,130,8,No
+19,Algeria,2006,0,Cholera,Absolute,All,All,CHONRC20,0,130,12,No
+20,Algeria,2005,0,Cholera,Absolute,All,All,CHONRC21,0,130,12,No
+21,Algeria,1994,118,Cholera,Absolute,All,All,CHONRC22,0,130,12,No
+22,Algeria,1992,69,Cholera,Absolute,All,All,CHONRC23,0,130,12,No
+23,Algeria,1990,1299,Cholera,Absolute,All,All,CHONRC24,0,130,12,No
+24,Algeria,1989,393,Cholera,Absolute,All,All,CHONRC25,0,130,12,No
+25,Algeria,1988,699,Cholera,Absolute,All,All,CHONRC26,0,130,12,No
+26,Algeria,1987,1507,Cholera,Absolute,All,All,CHONRC27,0,130,12,No
+27,Algeria,1984,45,Cholera,Absolute,All,All,CHONRC28,0,130,12,No
+28,Algeria,1983,218,Cholera,Absolute,All,All,CHONRC29,0,130,12,No
+29,Algeria,1980,614,Cholera,Absolute,All,All,CHONRC30,0,130,12,No
+30,Algeria,1979,2513,Cholera,Absolute,All,All,CHONRC31,0,130,12,No
+31,Algeria,1978,220,Cholera,Absolute,All,All,CHONRC32,0,130,12,No
+32,Algeria,1977,262,Cholera,Absolute,All,All,CHONRC33,0,130,12,No
+33,Algeria,1976,286,Cholera,Absolute,All,All,CHONRC34,0,130,12,No
+34,Algeria,1975,1165,Cholera,Absolute,All,All,CHONRC35,0,130,12,No
+35,Algeria,1974,738,Cholera,Absolute,All,All,CHONRC36,0,130,12,No
+36,Algeria,1973,605,Cholera,Absolute,All,All,CHONRC37,0,130,12,No
+37,Algeria,1972,646,Cholera,Absolute,All,All,CHONRC38,0,130,12,No
+38,Algeria,1971,1332,Cholera,Absolute,All,All,CHONRC39,0,130,12,No
+39,Angola,2012,1215,Cholera,Absolute,All,All,CHONRC40,0,130,24,No
+40,Angola,2011,1810,Cholera,Absolute,All,All,CHONRC41,0,130,24,No
+41,Angola,2010,1484,Cholera,Absolute,All,All,CHONRC42,0,130,24,No
+42,Angola,2009,2019,Cholera,Absolute,All,All,CHONRC43,0,130,24,No
+43,Angola,2008,10511,Cholera,Absolute,All,All,CHONRC44,0,130,24,No
+44,Angola,2007,18422,Cholera,Absolute,All,All,CHONRC45,0,130,24,No
+45,Angola,2006,67257,Cholera,Absolute,All,All,CHONRC46,0,130,24,No
+46,Angola,2005,0,Cholera,Absolute,All,All,CHONRC47,0,130,24,No
+47,Angola,1996,1306,Cholera,Absolute,All,All,CHONRC48,0,130,24,No
+48,Angola,1995,3295,Cholera,Absolute,All,All,CHONRC49,0,130,24,No
+49,Angola,1994,3443,Cholera,Absolute,All,All,CHONRC50,0,130,24,No
+50,Angola,1992,3608,Cholera,Absolute,All,All,CHONRC51,0,130,24,No
+51,Angola,1991,8590,Cholera,Absolute,All,All,CHONRC52,0,130,24,No
+52,Angola,1990,9527,Cholera,Absolute,All,All,CHONRC53,0,130,24,No
+53,Angola,1989,17601,Cholera,Absolute,All,All,CHONRC54,0,130,24,No
+54,Angola,1988,15500,Cholera,Absolute,All,All,CHONRC55,0,130,24,No
+55,Angola,1987,16222,Cholera,Absolute,All,All,CHONRC56,0,130,24,No
+56,Angola,1977,726,Cholera,Absolute,All,All,CHONRC57,0,130,24,No
+57,Angola,1975,88,Cholera,Absolute,All,All,CHONRC58,0,130,24,No
+58,Angola,1974,934,Cholera,Absolute,All,All,CHONRC59,0,130,24,No
+59,Angola,1973,263,Cholera,Absolute,All,All,CHONRC60,0,130,24,No
+60,Angola,1972,268,Cholera,Absolute,All,All,CHONRC61,0,130,24,No
+61,Angola,1971,1,Cholera,Absolute,All,All,CHONRC62,0,130,24,No
+62,Argentina,1998,12,Cholera,Absolute,All,All,CHONRC63,0,130,32,No
+63,Argentina,1997,637,Cholera,Absolute,All,All,CHONRC64,0,130,32,No
+64,Argentina,1996,474,Cholera,Absolute,All,All,CHONRC65,0,130,32,No
+65,Argentina,1995,188,Cholera,Absolute,All,All,CHONRC66,0,130,32,No
+66,Argentina,1994,889,Cholera,Absolute,All,All,CHONRC67,0,130,32,No
+67,Argentina,1993,2350,Cholera,Absolute,All,All,CHONRC68,0,130,32,No
+68,Armenia,1998,25,Cholera,Absolute,All,All,CHONRC69,0,130,51,No
+69,Australia,2012,5,Cholera,Absolute,All,All,CHONRC70,0,130,36,No
+70,Australia,2011,6,Cholera,Absolute,All,All,CHONRC71,0,130,36,No
+71,Australia,2010,3,Cholera,Absolute,All,All,CHONRC72,0,130,36,No
+72,Australia,2007,3,Cholera,Absolute,All,All,CHONRC73,0,130,36,No
+73,Australia,2006,3,Cholera,Absolute,All,All,CHONRC74,0,130,36,No
+74,Australia,2005,2,Cholera,Absolute,All,All,CHONRC75,0,130,36,No
+75,Australia,2004,2,Cholera,Absolute,All,All,CHONRC76,0,130,36,No
+76,Australia,2002,5,Cholera,Absolute,All,All,CHONRC77,0,130,36,No
+77,Australia,2001,2,Cholera,Absolute,All,All,CHONRC78,0,130,36,No
+78,Australia,2000,1,Cholera,Absolute,All,All,CHONRC79,0,130,36,No
+79,Australia,1999,4,Cholera,Absolute,All,All,CHONRC80,0,130,36,No
+80,Australia,1998,5,Cholera,Absolute,All,All,CHONRC81,0,130,36,No
+81,Australia,1997,2,Cholera,Absolute,All,All,CHONRC82,0,130,36,No
+82,Australia,1996,2,Cholera,Absolute,All,All,CHONRC83,0,130,36,No
+83,Australia,1995,5,Cholera,Absolute,All,All,CHONRC84,0,130,36,No
+84,Australia,1994,3,Cholera,Absolute,All,All,CHONRC85,0,130,36,No
+85,Australia,1993,5,Cholera,Absolute,All,All,CHONRC86,0,130,36,No
+86,Australia,1992,3,Cholera,Absolute,All,All,CHONRC87,0,130,36,No
+87,Australia,1988,1,Cholera,Absolute,All,All,CHONRC88,0,130,36,No
+88,Australia,1987,1,Cholera,Absolute,All,All,CHONRC89,0,130,36,No
+89,Australia,1985,2,Cholera,Absolute,All,All,CHONRC90,0,130,36,No
+90,Australia,1984,1,Cholera,Absolute,All,All,CHONRC91,0,130,36,No
+91,Australia,1983,4,Cholera,Absolute,All,All,CHONRC92,0,130,36,No
+92,Australia,1982,1,Cholera,Absolute,All,All,CHONRC93,0,130,36,No
+93,Australia,1981,2,Cholera,Absolute,All,All,CHONRC94,0,130,36,No
+94,Australia,1980,2,Cholera,Absolute,All,All,CHONRC95,0,130,36,No
+95,Australia,1979,1,Cholera,Absolute,All,All,CHONRC96,0,130,36,No
+96,Australia,1978,1,Cholera,Absolute,All,All,CHONRC97,0,130,36,No
+97,Australia,1977,2,Cholera,Absolute,All,All,CHONRC98,0,130,36,No
+98,Australia,1972,40,Cholera,Absolute,All,All,CHONRC99,0,130,36,No
+99,Austria,2005,1,Cholera,Absolute,All,All,CHONRC100,0,130,40,No
+100,Austria,2002,1,Cholera,Absolute,All,All,CHONRC101,0,130,40,No
+101,Austria,2001,0,Cholera,Absolute,All,All,CHONRC102,0,130,40,No
+102,Austria,1999,1,Cholera,Absolute,All,All,CHONRC103,0,130,40,No
+103,Austria,1998,1,Cholera,Absolute,All,All,CHONRC104,0,130,40,No
+104,Austria,1996,1,Cholera,Absolute,All,All,CHONRC105,0,130,40,No
+105,Austria,1994,1,Cholera,Absolute,All,All,CHONRC106,0,130,40,No
+106,Austria,1993,1,Cholera,Absolute,All,All,CHONRC107,0,130,40,No
+107,Austria,1990,2,Cholera,Absolute,All,All,CHONRC108,0,130,40,No
+108,Azerbaijan,1994,18,Cholera,Absolute,All,All,CHONRC109,0,130,31,No
+109,Bahamas,2012,1,Cholera,Absolute,All,All,CHONRC110,0,130,44,No
+110,Bahamas,2011,1,Cholera,Absolute,All,All,CHONRC111,0,130,44,No
+111,Bahrain,1979,39,Cholera,Absolute,All,All,CHONRC112,0,130,48,No
+112,Bahrain,1978,906,Cholera,Absolute,All,All,CHONRC113,0,130,48,No
+113,Bahrain,1973,37,Cholera,Absolute,All,All,CHONRC114,0,130,48,No
+114,Bahrain,1972,74,Cholera,Absolute,All,All,CHONRC115,0,130,48,No
+115,Bahrain,1965,1,Cholera,Absolute,All,All,CHONRC116,0,130,48,No
+116,Bangladesh,2000,1021,Cholera,Absolute,All,All,CHONRC117,0,130,50,No
+117,Bangladesh,1999,3440,Cholera,Absolute,All,All,CHONRC118,0,130,50,No
+118,Bangladesh,1998,1067,Cholera,Absolute,All,All,CHONRC119,0,130,50,No
+119,Bangladesh,1997,1959,Cholera,Absolute,All,All,CHONRC120,0,130,50,No
+120,Bangladesh,1996,418,Cholera,Absolute,All,All,CHONRC121,0,130,50,No
+121,Bangladesh,1995,2297,Cholera,Absolute,All,All,CHONRC122,0,130,50,No
+122,Bangladesh,1994,562,Cholera,Absolute,All,All,CHONRC123,0,130,50,No
+123,Bangladesh,1993,78,Cholera,Absolute,All,All,CHONRC124,0,130,50,No
+124,Bangladesh,1992,479,Cholera,Absolute,All,All,CHONRC125,0,130,50,No
+125,Bangladesh,1991,8,Cholera,Absolute,All,All,CHONRC126,0,130,50,No
+126,Bangladesh,1990,82,Cholera,Absolute,All,All,CHONRC127,0,130,50,No
+127,Bangladesh,1989,94,Cholera,Absolute,All,All,CHONRC128,0,130,50,No
+128,Bangladesh,1988,571,Cholera,Absolute,All,All,CHONRC129,0,130,50,No
+129,Bangladesh,1987,523,Cholera,Absolute,All,All,CHONRC130,0,130,50,No
+130,Bangladesh,1979,2154,Cholera,Absolute,All,All,CHONRC131,0,130,50,No
+131,Bangladesh,1978,5576,Cholera,Absolute,All,All,CHONRC132,0,130,50,No
+132,Bangladesh,1977,10403,Cholera,Absolute,All,All,CHONRC133,0,130,50,No
+133,Bangladesh,1976,957,Cholera,Absolute,All,All,CHONRC134,0,130,50,No
+134,Bangladesh,1975,4888,Cholera,Absolute,All,All,CHONRC135,0,130,50,No
+135,Bangladesh,1974,5614,Cholera,Absolute,All,All,CHONRC136,0,130,50,No
+136,Bangladesh,1973,1969,Cholera,Absolute,All,All,CHONRC137,0,130,50,No
+137,Bangladesh,1972,1059,Cholera,Absolute,All,All,CHONRC138,0,130,50,No
+138,Bangladesh,1971,2342,Cholera,Absolute,All,All,CHONRC139,0,130,50,No
+139,Bangladesh,1970,7419,Cholera,Absolute,All,All,CHONRC140,0,130,50,No
+140,Bangladesh,1969,7411,Cholera,Absolute,All,All,CHONRC141,0,130,50,No
+141,Bangladesh,1968,3156,Cholera,Absolute,All,All,CHONRC142,0,130,50,No
+142,Bangladesh,1967,664,Cholera,Absolute,All,All,CHONRC143,0,130,50,No
+143,Bangladesh,1966,3154,Cholera,Absolute,All,All,CHONRC144,0,130,50,No
+144,Bangladesh,1965,1123,Cholera,Absolute,All,All,CHONRC145,0,130,50,No
+145,Bangladesh,1964,3333,Cholera,Absolute,All,All,CHONRC146,0,130,50,No
+146,Bangladesh,1963,3975,Cholera,Absolute,All,All,CHONRC147,0,130,50,No
+147,Bangladesh,1962,2524,Cholera,Absolute,All,All,CHONRC148,0,130,50,No
+148,Bangladesh,1961,2663,Cholera,Absolute,All,All,CHONRC149,0,130,50,No
+149,Bangladesh,1960,15618,Cholera,Absolute,All,All,CHONRC150,0,130,50,No
+150,Bangladesh,1959,16915,Cholera,Absolute,All,All,CHONRC151,0,130,50,No
+151,Bangladesh,1958,15631,Cholera,Absolute,All,All,CHONRC152,0,130,50,No
+152,Bangladesh,1957,8054,Cholera,Absolute,All,All,CHONRC153,0,130,50,No
+153,Bangladesh,1956,23699,Cholera,Absolute,All,All,CHONRC154,0,130,50,No
+154,Bangladesh,1955,16642,Cholera,Absolute,All,All,CHONRC155,0,130,50,No
+155,Bangladesh,1954,15617,Cholera,Absolute,All,All,CHONRC156,0,130,50,No
+156,Bangladesh,1953,27631,Cholera,Absolute,All,All,CHONRC157,0,130,50,No
+157,Bangladesh,1952,21154,Cholera,Absolute,All,All,CHONRC158,0,130,50,No
+158,Bangladesh,1951,20894,Cholera,Absolute,All,All,CHONRC159,0,130,50,No
+159,Bangladesh,1950,29809,Cholera,Absolute,All,All,CHONRC160,0,130,50,No
+160,Belarus,1995,3,Cholera,Absolute,All,All,CHONRC161,0,130,112,No
+161,Belarus,1994,3,Cholera,Absolute,All,All,CHONRC162,0,130,112,No
+162,Belgium,2005,2,Cholera,Absolute,All,All,CHONRC163,0,130,56,No
+163,Belgium,2004,1,Cholera,Absolute,All,All,CHONRC164,0,130,56,No
+164,Belgium,1994,1,Cholera,Absolute,All,All,CHONRC165,0,130,56,No
+165,Belgium,1993,1,Cholera,Absolute,All,All,CHONRC166,0,130,56,No
+166,Belgium,1992,1,Cholera,Absolute,All,All,CHONRC167,0,130,56,No
+167,Belgium,1985,1,Cholera,Absolute,All,All,CHONRC168,0,130,56,No
+168,Belgium,1984,1,Cholera,Absolute,All,All,CHONRC169,0,130,56,No
+169,Belgium,1983,1,Cholera,Absolute,All,All,CHONRC170,0,130,56,No
+170,Belgium,1980,1,Cholera,Absolute,All,All,CHONRC171,0,130,56,No
+171,Belize,1999,12,Cholera,Absolute,All,All,CHONRC172,0,130,84,No
+172,Belize,1998,28,Cholera,Absolute,All,All,CHONRC173,0,130,84,No
+173,Belize,1997,2,Cholera,Absolute,All,All,CHONRC174,0,130,84,No
+174,Belize,1996,26,Cholera,Absolute,All,All,CHONRC175,0,130,84,No
+175,Belize,1995,19,Cholera,Absolute,All,All,CHONRC176,0,130,84,No
+176,Belize,1994,6,Cholera,Absolute,All,All,CHONRC177,0,130,84,No
+177,Belize,1993,135,Cholera,Absolute,All,All,CHONRC178,0,130,84,No
+178,Belize,1992,159,Cholera,Absolute,All,All,CHONRC179,0,130,84,No
+179,Benin,2012,625,Cholera,Absolute,All,All,CHONRC180,0,130,204,No
+180,Benin,2011,755,Cholera,Absolute,All,All,CHONRC181,0,130,204,No
+181,Benin,2010,983,Cholera,Absolute,All,All,CHONRC182,0,130,204,No
+182,Benin,2009,74,Cholera,Absolute,All,All,CHONRC183,0,130,204,No
+183,Benin,2008,985,Cholera,Absolute,All,All,CHONRC184,0,130,204,No
+184,Benin,2006,91,Cholera,Absolute,All,All,CHONRC185,0,130,204,No
+185,Benin,2005,749,Cholera,Absolute,All,All,CHONRC186,0,130,204,No
+186,Benin,2004,642,Cholera,Absolute,All,All,CHONRC187,0,130,204,No
+187,Benin,2003,434,Cholera,Absolute,All,All,CHONRC188,0,130,204,No
+188,Benin,2002,270,Cholera,Absolute,All,All,CHONRC189,0,130,204,No
+189,Benin,2001,3943,Cholera,Absolute,All,All,CHONRC190,0,130,204,No
+190,Benin,2000,468,Cholera,Absolute,All,All,CHONRC191,0,130,204,No
+191,Benin,1999,855,Cholera,Absolute,All,All,CHONRC192,0,130,204,No
+192,Benin,1998,206,Cholera,Absolute,All,All,CHONRC193,0,130,204,No
+193,Benin,1997,796,Cholera,Absolute,All,All,CHONRC194,0,130,204,No
+194,Benin,1996,6190,Cholera,Absolute,All,All,CHONRC195,0,130,204,No
+195,Benin,1995,203,Cholera,Absolute,All,All,CHONRC196,0,130,204,No
+196,Benin,1994,187,Cholera,Absolute,All,All,CHONRC197,0,130,204,No
+197,Benin,1993,10,Cholera,Absolute,All,All,CHONRC198,0,130,204,No
+198,Benin,1992,413,Cholera,Absolute,All,All,CHONRC199,0,130,204,No
+199,Benin,1991,7474,Cholera,Absolute,All,All,CHONRC200,0,130,204,No
+200,Benin,1986,243,Cholera,Absolute,All,All,CHONRC201,0,130,204,No
+201,Benin,1984,1,Cholera,Absolute,All,All,CHONRC202,0,130,204,No
+202,Benin,1983,1,Cholera,Absolute,All,All,CHONRC203,0,130,204,No
+203,Benin,1982,3,Cholera,Absolute,All,All,CHONRC204,0,130,204,No
+204,Benin,1981,2,Cholera,Absolute,All,All,CHONRC205,0,130,204,No
+205,Benin,1980,3,Cholera,Absolute,All,All,CHONRC206,0,130,204,No
+206,Benin,1978,27,Cholera,Absolute,All,All,CHONRC207,0,130,204,No
+207,Benin,1977,2,Cholera,Absolute,All,All,CHONRC208,0,130,204,No
+208,Benin,1976,146,Cholera,Absolute,All,All,CHONRC209,0,130,204,No
+209,Benin,1975,45,Cholera,Absolute,All,All,CHONRC210,0,130,204,No
+210,Benin,1974,73,Cholera,Absolute,All,All,CHONRC211,0,130,204,No
+211,Benin,1973,3,Cholera,Absolute,All,All,CHONRC212,0,130,204,No
+212,Benin,1972,250,Cholera,Absolute,All,All,CHONRC213,0,130,204,No
+213,Benin,1971,2133,Cholera,Absolute,All,All,CHONRC214,0,130,204,No
+214,Benin,1970,175,Cholera,Absolute,All,All,CHONRC215,0,130,204,No
+215,Bhutan,1998,19,Cholera,Absolute,All,All,CHONRC216,0,130,64,No
+216,Bhutan,1995,25,Cholera,Absolute,All,All,CHONRC217,0,130,64,No
+217,Bhutan,1992,494,Cholera,Absolute,All,All,CHONRC218,0,130,64,No
+218,Bhutan,1991,422,Cholera,Absolute,All,All,CHONRC219,0,130,64,No
+219,Bolivia (Plurinational State of),1998,466,Cholera,Absolute,All,All,CHONRC220,0,130,68,No
+220,Bolivia (Plurinational State of),1997,1632,Cholera,Absolute,All,All,CHONRC221,0,130,68,No
+221,Bolivia (Plurinational State of),1996,2847,Cholera,Absolute,All,All,CHONRC222,0,130,68,No
+222,Bolivia (Plurinational State of),1995,2293,Cholera,Absolute,All,All,CHONRC223,0,130,68,No
+223,Bolivia (Plurinational State of),1994,2710,Cholera,Absolute,All,All,CHONRC224,0,130,68,No
+224,Bolivia (Plurinational State of),1993,10134,Cholera,Absolute,All,All,CHONRC225,0,130,68,No
+225,Bolivia (Plurinational State of),1992,22260,Cholera,Absolute,All,All,CHONRC226,0,130,68,No
+226,Bolivia (Plurinational State of),1991,206,Cholera,Absolute,All,All,CHONRC227,0,130,68,No
+227,Botswana,2009,15,Cholera,Absolute,All,All,CHONRC228,0,130,72,No
+228,Botswana,2008,8,Cholera,Absolute,All,All,CHONRC229,0,130,72,No
+229,Botswana,2006,0,Cholera,Absolute,All,All,CHONRC230,0,130,72,No
+230,Botswana,2005,0,Cholera,Absolute,All,All,CHONRC231,0,130,72,No
+231,Brazil,2011,1,Cholera,Absolute,All,All,CHONRC232,0,130,76,No
+232,Brazil,2005,5,Cholera,Absolute,All,All,CHONRC233,0,130,76,No
+233,Brazil,2004,21,Cholera,Absolute,All,All,CHONRC234,0,130,76,No
+234,Brazil,2001,7,Cholera,Absolute,All,All,CHONRC235,0,130,76,No
+235,Brazil,2000,715,Cholera,Absolute,All,All,CHONRC236,0,130,76,No
+236,Brazil,1999,4495,Cholera,Absolute,All,All,CHONRC237,0,130,76,No
+237,Brazil,1998,2571,Cholera,Absolute,All,All,CHONRC238,0,130,76,No
+238,Brazil,1997,2881,Cholera,Absolute,All,All,CHONRC239,0,130,76,No
+239,Brazil,1996,5522,Cholera,Absolute,All,All,CHONRC240,0,130,76,No
+240,Brazil,1995,15915,Cholera,Absolute,All,All,CHONRC241,0,130,76,No
+241,Brazil,1994,49455,Cholera,Absolute,All,All,CHONRC242,0,130,76,No
+242,Brazil,1993,59212,Cholera,Absolute,All,All,CHONRC243,0,130,76,No
+243,Brazil,1992,30317,Cholera,Absolute,All,All,CHONRC244,0,130,76,No
+244,Brazil,1991,2103,Cholera,Absolute,All,All,CHONRC245,0,130,76,No
+245,Brunei Darussalam,2011,3,Cholera,Absolute,All,All,CHONRC246,0,130,96,No
+246,Brunei Darussalam,1999,93,Cholera,Absolute,All,All,CHONRC247,0,130,96,No
+247,Brunei Darussalam,1982,6,Cholera,Absolute,All,All,CHONRC248,0,130,96,No
+248,Brunei Darussalam,1970,24,Cholera,Absolute,All,All,CHONRC249,0,130,96,No
+249,Brunei Darussalam,1965,198,Cholera,Absolute,All,All,CHONRC250,0,130,96,No
+250,Brunei Darussalam,1955,1,Cholera,Absolute,All,All,CHONRC251,0,130,96,No
+251,Burkina Faso,2012,143,Cholera,Absolute,All,All,CHONRC252,0,130,854,No
+252,Burkina Faso,2011,20,Cholera,Absolute,All,All,CHONRC253,0,130,854,No
+253,Burkina Faso,2008,0,Cholera,Absolute,All,All,CHONRC254,0,130,854,No
+254,Burkina Faso,2006,0,Cholera,Absolute,All,All,CHONRC255,0,130,854,No
+255,Burkina Faso,2005,1050,Cholera,Absolute,All,All,CHONRC256,0,130,854,No
+256,Burkina Faso,2003,1,Cholera,Absolute,All,All,CHONRC257,0,130,854,No
+257,Burkina Faso,2001,477,Cholera,Absolute,All,All,CHONRC258,0,130,854,No
+258,Burkina Faso,2000,617,Cholera,Absolute,All,All,CHONRC259,0,130,854,No
+259,Burkina Faso,1999,93,Cholera,Absolute,All,All,CHONRC260,0,130,854,No
+260,Burkina Faso,1998,1036,Cholera,Absolute,All,All,CHONRC261,0,130,854,No
+261,Burkina Faso,1996,425,Cholera,Absolute,All,All,CHONRC262,0,130,854,No
+262,Burkina Faso,1995,1451,Cholera,Absolute,All,All,CHONRC263,0,130,854,No
+263,Burkina Faso,1991,537,Cholera,Absolute,All,All,CHONRC264,0,130,854,No
+264,Burkina Faso,1985,1149,Cholera,Absolute,All,All,CHONRC265,0,130,854,No
+265,Burkina Faso,1984,2191,Cholera,Absolute,All,All,CHONRC266,0,130,854,No
+266,Burkina Faso,1978,1,Cholera,Absolute,All,All,CHONRC267,0,130,854,No
+267,Burkina Faso,1975,3,Cholera,Absolute,All,All,CHONRC268,0,130,854,No
+268,Burkina Faso,1974,632,Cholera,Absolute,All,All,CHONRC269,0,130,854,No
+269,Burkina Faso,1973,1118,Cholera,Absolute,All,All,CHONRC270,0,130,854,No
+270,Burkina Faso,1972,1,Cholera,Absolute,All,All,CHONRC271,0,130,854,No
+271,Burkina Faso,1971,1761,Cholera,Absolute,All,All,CHONRC272,0,130,854,No
+272,Burkina Faso,1970,1,Cholera,Absolute,All,All,CHONRC273,0,130,854,No
+273,Burundi,2012,214,Cholera,Absolute,All,All,CHONRC274,0,130,108,No
+274,Burundi,2011,1072,Cholera,Absolute,All,All,CHONRC275,0,130,108,No
+275,Burundi,2010,333,Cholera,Absolute,All,All,CHONRC276,0,130,108,No
+276,Burundi,2009,355,Cholera,Absolute,All,All,CHONRC277,0,130,108,No
+277,Burundi,2008,234,Cholera,Absolute,All,All,CHONRC278,0,130,108,No
+278,Burundi,2007,365,Cholera,Absolute,All,All,CHONRC279,0,130,108,No
+279,Burundi,2006,886,Cholera,Absolute,All,All,CHONRC280,0,130,108,No
+280,Burundi,2005,1309,Cholera,Absolute,All,All,CHONRC281,0,130,108,No
+281,Burundi,2004,819,Cholera,Absolute,All,All,CHONRC282,0,130,108,No
+282,Burundi,2003,432,Cholera,Absolute,All,All,CHONRC283,0,130,108,No
+283,Burundi,2002,577,Cholera,Absolute,All,All,CHONRC284,0,130,108,No
+284,Burundi,2001,1003,Cholera,Absolute,All,All,CHONRC285,0,130,108,No
+285,Burundi,2000,1021,Cholera,Absolute,All,All,CHONRC286,0,130,108,No
+286,Burundi,1999,3440,Cholera,Absolute,All,All,CHONRC287,0,130,108,No
+287,Burundi,1998,1067,Cholera,Absolute,All,All,CHONRC288,0,130,108,No
+288,Burundi,1997,1959,Cholera,Absolute,All,All,CHONRC289,0,130,108,No
+289,Burundi,1996,418,Cholera,Absolute,All,All,CHONRC290,0,130,108,No
+290,Burundi,1995,2297,Cholera,Absolute,All,All,CHONRC291,0,130,108,No
+291,Burundi,1994,562,Cholera,Absolute,All,All,CHONRC292,0,130,108,No
+292,Burundi,1993,78,Cholera,Absolute,All,All,CHONRC293,0,130,108,No
+293,Burundi,1992,479,Cholera,Absolute,All,All,CHONRC294,0,130,108,No
+294,Burundi,1991,3,Cholera,Absolute,All,All,CHONRC295,0,130,108,No
+295,Burundi,1990,82,Cholera,Absolute,All,All,CHONRC296,0,130,108,No
+296,Burundi,1985,259,Cholera,Absolute,All,All,CHONRC297,0,130,108,No
+297,Burundi,1984,180,Cholera,Absolute,All,All,CHONRC298,0,130,108,No
+298,Burundi,1983,512,Cholera,Absolute,All,All,CHONRC299,0,130,108,No
+299,Burundi,1982,415,Cholera,Absolute,All,All,CHONRC300,0,130,108,No
+300,Burundi,1981,582,Cholera,Absolute,All,All,CHONRC301,0,130,108,No
+301,Burundi,1980,2039,Cholera,Absolute,All,All,CHONRC302,0,130,108,No
+302,Burundi,1979,915,Cholera,Absolute,All,All,CHONRC303,0,130,108,No
+303,Burundi,1978,8297,Cholera,Absolute,All,All,CHONRC304,0,130,108,No
+304,Cabo Verde,2006,0,Cholera,Absolute,All,All,CHONRC305,0,130,132,No
+305,Cabo Verde,2005,0,Cholera,Absolute,All,All,CHONRC306,0,130,132,No
+306,Cabo Verde,1998,133,Cholera,Absolute,All,All,CHONRC307,0,130,132,No
+307,Cabo Verde,1996,428,Cholera,Absolute,All,All,CHONRC308,0,130,132,No
+308,Cabo Verde,1995,12913,Cholera,Absolute,All,All,CHONRC309,0,130,132,No
+309,Cabo Verde,1994,128,Cholera,Absolute,All,All,CHONRC310,0,130,132,No
+310,Cabo Verde,1976,219,Cholera,Absolute,All,All,CHONRC311,0,130,132,No
+311,Cabo Verde,1975,20,Cholera,Absolute,All,All,CHONRC312,0,130,132,No
+312,Cabo Verde,1974,303,Cholera,Absolute,All,All,CHONRC313,0,130,132,No
+313,Cambodia,2010,588,Cholera,Absolute,All,All,CHONRC314,0,130,116,No
+314,Cambodia,2009,39,Cholera,Absolute,All,All,CHONRC315,0,130,116,No
+315,Cambodia,2004,57,Cholera,Absolute,All,All,CHONRC316,0,130,116,No
+316,Cambodia,1999,1711,Cholera,Absolute,All,All,CHONRC317,0,130,116,No
+317,Cambodia,1998,1197,Cholera,Absolute,All,All,CHONRC318,0,130,116,No
+318,Cambodia,1997,155,Cholera,Absolute,All,All,CHONRC319,0,130,116,No
+319,Cambodia,1996,740,Cholera,Absolute,All,All,CHONRC320,0,130,116,No
+320,Cambodia,1995,4190,Cholera,Absolute,All,All,CHONRC321,0,130,116,No
+321,Cambodia,1994,3085,Cholera,Absolute,All,All,CHONRC322,0,130,116,No
+322,Cambodia,1993,2252,Cholera,Absolute,All,All,CHONRC323,0,130,116,No
+323,Cambodia,1992,1229,Cholera,Absolute,All,All,CHONRC324,0,130,116,No
+324,Cambodia,1991,770,Cholera,Absolute,All,All,CHONRC325,0,130,116,No
+325,Cambodia,1990,5,Cholera,Absolute,All,All,CHONRC326,0,130,116,No
+326,Cambodia,1989,47,Cholera,Absolute,All,All,CHONRC327,0,130,116,No
+327,Cambodia,1988,56,Cholera,Absolute,All,All,CHONRC328,0,130,116,No
+328,Cambodia,1987,474,Cholera,Absolute,All,All,CHONRC329,0,130,116,No
+329,Cambodia,1975,66,Cholera,Absolute,All,All,CHONRC330,0,130,116,No
+330,Cambodia,1974,145,Cholera,Absolute,All,All,CHONRC331,0,130,116,No
+331,Cambodia,1973,159,Cholera,Absolute,All,All,CHONRC332,0,130,116,No
+332,Cambodia,1968,8,Cholera,Absolute,All,All,CHONRC333,0,130,116,No
+333,Cambodia,1967,4,Cholera,Absolute,All,All,CHONRC334,0,130,116,No
+334,Cambodia,1966,62,Cholera,Absolute,All,All,CHONRC335,0,130,116,No
+335,Cambodia,1964,187,Cholera,Absolute,All,All,CHONRC336,0,130,116,No
+336,Cambodia,1963,52,Cholera,Absolute,All,All,CHONRC337,0,130,116,No
+337,Cambodia,1958,3,Cholera,Absolute,All,All,CHONRC338,0,130,116,No
+338,Cambodia,1957,6,Cholera,Absolute,All,All,CHONRC339,0,130,116,No
+339,Cambodia,1956,1,Cholera,Absolute,All,All,CHONRC340,0,130,116,No
+340,Cambodia,1954,2,Cholera,Absolute,All,All,CHONRC341,0,130,116,No
+341,Cambodia,1953,11,Cholera,Absolute,All,All,CHONRC342,0,130,116,No
+342,Cambodia,1952,24,Cholera,Absolute,All,All,CHONRC343,0,130,116,No
+343,Cambodia,1951,57,Cholera,Absolute,All,All,CHONRC344,0,130,116,No
+344,Cambodia,1950,10,Cholera,Absolute,All,All,CHONRC345,0,130,116,No
+345,Cameroon,2012,363,Cholera,Absolute,All,All,CHONRC346,0,130,120,No
+346,Cameroon,2011,22433,Cholera,Absolute,All,All,CHONRC347,0,130,120,No
+347,Cameroon,2010,10759,Cholera,Absolute,All,All,CHONRC348,0,130,120,No
+348,Cameroon,2009,804,Cholera,Absolute,All,All,CHONRC349,0,130,120,No
+349,Cameroon,2008,0,Cholera,Absolute,All,All,CHONRC350,0,130,120,No
+350,Cameroon,2007,10,Cholera,Absolute,All,All,CHONRC351,0,130,120,No
+351,Cameroon,2006,922,Cholera,Absolute,All,All,CHONRC352,0,130,120,No
+352,Cameroon,2005,2847,Cholera,Absolute,All,All,CHONRC353,0,130,120,No
+353,Cameroon,2004,8005,Cholera,Absolute,All,All,CHONRC354,0,130,120,No
+354,Cameroon,2003,207,Cholera,Absolute,All,All,CHONRC355,0,130,120,No
+355,Cameroon,2002,66,Cholera,Absolute,All,All,CHONRC356,0,130,120,No
+356,Cameroon,2001,259,Cholera,Absolute,All,All,CHONRC357,0,130,120,No
+357,Cameroon,2000,123,Cholera,Absolute,All,All,CHONRC358,0,130,120,No
+358,Cameroon,1999,1584,Cholera,Absolute,All,All,CHONRC359,0,130,120,No
+359,Cameroon,1998,4603,Cholera,Absolute,All,All,CHONRC360,0,130,120,No
+360,Cameroon,1997,1709,Cholera,Absolute,All,All,CHONRC361,0,130,120,No
+361,Cameroon,1996,5796,Cholera,Absolute,All,All,CHONRC362,0,130,120,No
+362,Cameroon,1995,615,Cholera,Absolute,All,All,CHONRC363,0,130,120,No
+363,Cameroon,1994,527,Cholera,Absolute,All,All,CHONRC364,0,130,120,No
+364,Cameroon,1993,648,Cholera,Absolute,All,All,CHONRC365,0,130,120,No
+365,Cameroon,1992,1268,Cholera,Absolute,All,All,CHONRC366,0,130,120,No
+366,Cameroon,1991,4026,Cholera,Absolute,All,All,CHONRC367,0,130,120,No
+367,Cameroon,1990,16,Cholera,Absolute,All,All,CHONRC368,0,130,120,No
+368,Cameroon,1989,4,Cholera,Absolute,All,All,CHONRC369,0,130,120,No
+369,Cameroon,1988,4,Cholera,Absolute,All,All,CHONRC370,0,130,120,No
+370,Cameroon,1987,94,Cholera,Absolute,All,All,CHONRC371,0,130,120,No
+371,Cameroon,1986,165,Cholera,Absolute,All,All,CHONRC372,0,130,120,No
+372,Cameroon,1985,1158,Cholera,Absolute,All,All,CHONRC373,0,130,120,No
+373,Cameroon,1984,392,Cholera,Absolute,All,All,CHONRC374,0,130,120,No
+374,Cameroon,1983,55,Cholera,Absolute,All,All,CHONRC375,0,130,120,No
+375,Cameroon,1982,5,Cholera,Absolute,All,All,CHONRC376,0,130,120,No
+376,Cameroon,1981,243,Cholera,Absolute,All,All,CHONRC377,0,130,120,No
+377,Cameroon,1980,229,Cholera,Absolute,All,All,CHONRC378,0,130,120,No
+378,Cameroon,1979,16,Cholera,Absolute,All,All,CHONRC379,0,130,120,No
+379,Cameroon,1978,3,Cholera,Absolute,All,All,CHONRC380,0,130,120,No
+380,Cameroon,1976,135,Cholera,Absolute,All,All,CHONRC381,0,130,120,No
+381,Cameroon,1975,3,Cholera,Absolute,All,All,CHONRC382,0,130,120,No
+382,Cameroon,1974,83,Cholera,Absolute,All,All,CHONRC383,0,130,120,No
+383,Cameroon,1973,206,Cholera,Absolute,All,All,CHONRC384,0,130,120,No
+384,Cameroon,1972,362,Cholera,Absolute,All,All,CHONRC385,0,130,120,No
+385,Cameroon,1971,2167,Cholera,Absolute,All,All,CHONRC386,0,130,120,No
+386,Canada,2011,9,Cholera,Absolute,All,All,CHONRC387,0,130,124,No
+387,Canada,2010,2,Cholera,Absolute,All,All,CHONRC388,0,130,124,No
+388,Canada,2009,2,Cholera,Absolute,All,All,CHONRC389,0,130,124,No
+389,Canada,2008,1,Cholera,Absolute,All,All,CHONRC390,0,130,124,No
+390,Canada,2007,1,Cholera,Absolute,All,All,CHONRC391,0,130,124,No
+391,Canada,2006,2,Cholera,Absolute,All,All,CHONRC392,0,130,124,No
+392,Canada,2005,7,Cholera,Absolute,All,All,CHONRC393,0,130,124,No
+393,Canada,2004,3,Cholera,Absolute,All,All,CHONRC394,0,130,124,No
+394,Canada,2003,5,Cholera,Absolute,All,All,CHONRC395,0,130,124,No
+395,Canada,2002,4,Cholera,Absolute,All,All,CHONRC396,0,130,124,No
+396,Canada,2001,6,Cholera,Absolute,All,All,CHONRC397,0,130,124,No
+397,Canada,2000,5,Cholera,Absolute,All,All,CHONRC398,0,130,124,No
+398,Canada,1998,2,Cholera,Absolute,All,All,CHONRC399,0,130,124,No
+399,Canada,1996,2,Cholera,Absolute,All,All,CHONRC400,0,130,124,No
+400,Canada,1995,7,Cholera,Absolute,All,All,CHONRC401,0,130,124,No
+401,Canada,1994,2,Cholera,Absolute,All,All,CHONRC402,0,130,124,No
+402,Canada,1993,6,Cholera,Absolute,All,All,CHONRC403,0,130,124,No
+403,Canada,1992,5,Cholera,Absolute,All,All,CHONRC404,0,130,124,No
+404,Canada,1991,2,Cholera,Absolute,All,All,CHONRC405,0,130,124,No
+405,Canada,1989,1,Cholera,Absolute,All,All,CHONRC406,0,130,124,No
+406,Central African Republic,2012,21,Cholera,Absolute,All,All,CHONRC407,0,130,140,No
+407,Central African Republic,2011,117,Cholera,Absolute,All,All,CHONRC408,0,130,140,No
+408,Central African Republic,2006,0,Cholera,Absolute,All,All,CHONRC409,0,130,140,No
+409,Central African Republic,2005,0,Cholera,Absolute,All,All,CHONRC410,0,130,140,No
+410,Central African Republic,2004,320,Cholera,Absolute,All,All,CHONRC411,0,130,140,No
+411,Central African Republic,1998,22,Cholera,Absolute,All,All,CHONRC412,0,130,140,No
+412,Central African Republic,1997,443,Cholera,Absolute,All,All,CHONRC413,0,130,140,No
+413,Chad,2011,17267,Cholera,Absolute,All,All,CHONRC414,0,130,148,No
+414,Chad,2010,6395,Cholera,Absolute,All,All,CHONRC415,0,130,148,No
+415,Chad,2009,67,Cholera,Absolute,All,All,CHONRC416,0,130,148,No
+416,Chad,2007,0,Cholera,Absolute,All,All,CHONRC417,0,130,148,No
+417,Chad,2006,1668,Cholera,Absolute,All,All,CHONRC418,0,130,148,No
+418,Chad,2005,90,Cholera,Absolute,All,All,CHONRC419,0,130,148,No
+419,Chad,2004,5531,Cholera,Absolute,All,All,CHONRC420,0,130,148,No
+420,Chad,2003,55,Cholera,Absolute,All,All,CHONRC421,0,130,148,No
+421,Chad,2001,5244,Cholera,Absolute,All,All,CHONRC422,0,130,148,No
+422,Chad,1999,217,Cholera,Absolute,All,All,CHONRC423,0,130,148,No
+423,Chad,1998,4095,Cholera,Absolute,All,All,CHONRC424,0,130,148,No
+424,Chad,1997,8801,Cholera,Absolute,All,All,CHONRC425,0,130,148,No
+425,Chad,1996,7830,Cholera,Absolute,All,All,CHONRC426,0,130,148,No
+426,Chad,1994,1094,Cholera,Absolute,All,All,CHONRC427,0,130,148,No
+427,Chad,1991,13915,Cholera,Absolute,All,All,CHONRC428,0,130,148,No
+428,Chad,1974,338,Cholera,Absolute,All,All,CHONRC429,0,130,148,No
+429,Chad,1972,9,Cholera,Absolute,All,All,CHONRC430,0,130,148,No
+430,Chad,1971,8230,Cholera,Absolute,All,All,CHONRC431,0,130,148,No
+431,Chile,2011,1,Cholera,Absolute,All,All,CHONRC432,0,130,152,No
+432,Chile,1998,24,Cholera,Absolute,All,All,CHONRC433,0,130,152,No
+433,Chile,1997,4,Cholera,Absolute,All,All,CHONRC434,0,130,152,No
+434,Chile,1996,1,Cholera,Absolute,All,All,CHONRC435,0,130,152,No
+435,Chile,1994,1,Cholera,Absolute,All,All,CHONRC436,0,130,152,No
+436,Chile,1993,32,Cholera,Absolute,All,All,CHONRC437,0,130,152,No
+437,Chile,1992,73,Cholera,Absolute,All,All,CHONRC438,0,130,152,No
+438,Chile,1991,41,Cholera,Absolute,All,All,CHONRC439,0,130,152,No
+439,China,2012,77,Cholera,Absolute,All,All,CHONRC440,0,130,156,No
+440,China,2011,26,Cholera,Absolute,All,All,CHONRC441,0,130,156,No
+441,China,2010,157,Cholera,Absolute,All,All,CHONRC442,0,130,156,No
+442,China,2009,85,Cholera,Absolute,All,All,CHONRC443,0,130,156,No
+443,China,2008,174,Cholera,Absolute,All,All,CHONRC444,0,130,156,No
+444,China,2007,168,Cholera,Absolute,All,All,CHONRC445,0,130,156,No
+445,China,2006,161,Cholera,Absolute,All,All,CHONRC446,0,130,156,No
+446,China,2005,980,Cholera,Absolute,All,All,CHONRC447,0,130,156,No
+447,China,2004,244,Cholera,Absolute,All,All,CHONRC448,0,130,156,No
+448,China,2003,223,Cholera,Absolute,All,All,CHONRC449,0,130,156,No
+449,China,2001,140,Cholera,Absolute,All,All,CHONRC450,0,130,156,No
+450,China,2000,1846,Cholera,Absolute,All,All,CHONRC451,0,130,156,No
+451,China,1999,4589,Cholera,Absolute,All,All,CHONRC452,0,130,156,No
+452,China,1998,4642,Cholera,Absolute,All,All,CHONRC453,0,130,156,No
+453,China,1997,1177,Cholera,Absolute,All,All,CHONRC454,0,130,156,No
+454,China,1996,316,Cholera,Absolute,All,All,CHONRC455,0,130,156,No
+455,China,1995,10337,Cholera,Absolute,All,All,CHONRC456,0,130,156,No
+456,China,1994,34877,Cholera,Absolute,All,All,CHONRC457,0,130,156,No
+457,China,1993,11673,Cholera,Absolute,All,All,CHONRC458,0,130,156,No
+458,China,1992,583,Cholera,Absolute,All,All,CHONRC459,0,130,156,No
+459,China,1991,210,Cholera,Absolute,All,All,CHONRC460,0,130,156,No
+460,China,1990,644,Cholera,Absolute,All,All,CHONRC461,0,130,156,No
+461,China,1989,5628,Cholera,Absolute,All,All,CHONRC462,0,130,156,No
+462,China,1988,7267,Cholera,Absolute,All,All,CHONRC463,0,130,156,No
+463,China,1987,4,Cholera,Absolute,All,All,CHONRC464,0,130,156,No
+464,China,1980,88,Cholera,Absolute,All,All,CHONRC465,0,130,156,No
+465,China,1979,85,Cholera,Absolute,All,All,CHONRC466,0,130,156,No
+466,China,1967,1,Cholera,Absolute,All,All,CHONRC467,0,130,156,No
+467,China,1963,1,Cholera,Absolute,All,All,CHONRC468,0,130,156,No
+468,China,1962,384,Cholera,Absolute,All,All,CHONRC469,0,130,156,No
+469,China,1949,1,Cholera,Absolute,All,All,CHONRC470,0,130,156,No
+470,Colombia,2004,2,Cholera,Absolute,All,All,CHONRC471,0,130,170,No
+471,Colombia,1999,42,Cholera,Absolute,All,All,CHONRC472,0,130,170,No
+472,Colombia,1998,442,Cholera,Absolute,All,All,CHONRC473,0,130,170,No
+473,Colombia,1997,1508,Cholera,Absolute,All,All,CHONRC474,0,130,170,No
+474,Colombia,1996,4428,Cholera,Absolute,All,All,CHONRC475,0,130,170,No
+475,Colombia,1995,1922,Cholera,Absolute,All,All,CHONRC476,0,130,170,No
+476,Colombia,1994,996,Cholera,Absolute,All,All,CHONRC477,0,130,170,No
+477,Colombia,1993,230,Cholera,Absolute,All,All,CHONRC478,0,130,170,No
+478,Colombia,1992,15129,Cholera,Absolute,All,All,CHONRC479,0,130,170,No
+479,Colombia,1991,11979,Cholera,Absolute,All,All,CHONRC480,0,130,170,No
+480,Comoros,2008,4,Cholera,Absolute,All,All,CHONRC481,0,130,174,No
+481,Comoros,2007,1555,Cholera,Absolute,All,All,CHONRC482,0,130,174,No
+482,Comoros,2006,0,Cholera,Absolute,All,All,CHONRC483,0,130,174,No
+483,Comoros,2005,0,Cholera,Absolute,All,All,CHONRC484,0,130,174,No
+484,Comoros,2004,1,Cholera,Absolute,All,All,CHONRC485,0,130,174,No
+485,Comoros,2003,56,Cholera,Absolute,All,All,CHONRC486,0,130,174,No
+486,Comoros,2002,1567,Cholera,Absolute,All,All,CHONRC487,0,130,174,No
+487,Comoros,2001,226,Cholera,Absolute,All,All,CHONRC488,0,130,174,No
+488,Comoros,2000,3297,Cholera,Absolute,All,All,CHONRC489,0,130,174,No
+489,Comoros,1999,1180,Cholera,Absolute,All,All,CHONRC490,0,130,174,No
+490,Comoros,1998,7300,Cholera,Absolute,All,All,CHONRC491,0,130,174,No
+491,Comoros,1976,5,Cholera,Absolute,All,All,CHONRC492,0,130,174,No
+492,Comoros,1975,2675,Cholera,Absolute,All,All,CHONRC493,0,130,174,No
+493,Congo,2012,1181,Cholera,Absolute,All,All,CHONRC494,0,130,178,No
+494,Congo,2011,762,Cholera,Absolute,All,All,CHONRC495,0,130,178,No
+495,Congo,2009,93,Cholera,Absolute,All,All,CHONRC496,0,130,178,No
+496,Congo,2008,156,Cholera,Absolute,All,All,CHONRC497,0,130,178,No
+497,Congo,2007,7785,Cholera,Absolute,All,All,CHONRC498,0,130,178,No
+498,Congo,2006,175,Cholera,Absolute,All,All,CHONRC499,0,130,178,No
+499,Congo,2005,0,Cholera,Absolute,All,All,CHONRC500,0,130,178,No
+500,Congo,2000,9,Cholera,Absolute,All,All,CHONRC501,0,130,178,No
+501,Congo,1999,4813,Cholera,Absolute,All,All,CHONRC502,0,130,178,No
+502,Congo,1998,3222,Cholera,Absolute,All,All,CHONRC503,0,130,178,No
+503,Congo,1997,275,Cholera,Absolute,All,All,CHONRC504,0,130,178,No
+504,Congo,1979,5,Cholera,Absolute,All,All,CHONRC505,0,130,178,No
+505,Congo,1978,51,Cholera,Absolute,All,All,CHONRC506,0,130,178,No
+506,Costa Rica,1997,1,Cholera,Absolute,All,All,CHONRC507,0,130,188,No
+507,Costa Rica,1996,19,Cholera,Absolute,All,All,CHONRC508,0,130,188,No
+508,Costa Rica,1995,24,Cholera,Absolute,All,All,CHONRC509,0,130,188,No
+509,Costa Rica,1994,38,Cholera,Absolute,All,All,CHONRC510,0,130,188,No
+510,Costa Rica,1993,14,Cholera,Absolute,All,All,CHONRC511,0,130,188,No
+511,Costa Rica,1992,12,Cholera,Absolute,All,All,CHONRC512,0,130,188,No
+512,Côte dIvoire,2012,424,Cholera,Absolute,All,All,CHONRC513,0,130,384,No
+513,Côte dIvoire,2011,1261,Cholera,Absolute,All,All,CHONRC514,0,130,384,No
+514,Côte dIvoire,2010,32,Cholera,Absolute,All,All,CHONRC515,0,130,384,No
+515,Côte dIvoire,2009,5,Cholera,Absolute,All,All,CHONRC516,0,130,384,No
+516,Côte dIvoire,2008,7,Cholera,Absolute,All,All,CHONRC517,0,130,384,No
+517,Côte dIvoire,2007,8,Cholera,Absolute,All,All,CHONRC518,0,130,384,No
+518,Côte dIvoire,2006,414,Cholera,Absolute,All,All,CHONRC519,0,130,384,No
+519,Côte dIvoire,2005,39,Cholera,Absolute,All,All,CHONRC520,0,130,384,No
+520,Côte dIvoire,2004,105,Cholera,Absolute,All,All,CHONRC521,0,130,384,No
+521,Côte dIvoire,2003,1034,Cholera,Absolute,All,All,CHONRC522,0,130,384,No
+522,Côte dIvoire,2002,4188,Cholera,Absolute,All,All,CHONRC523,0,130,384,No
+523,Côte dIvoire,2001,5912,Cholera,Absolute,All,All,CHONRC524,0,130,384,No
+524,Côte dIvoire,1996,1345,Cholera,Absolute,All,All,CHONRC525,0,130,384,No
+525,Côte dIvoire,1995,4993,Cholera,Absolute,All,All,CHONRC526,0,130,384,No
+526,Côte dIvoire,1994,1108,Cholera,Absolute,All,All,CHONRC527,0,130,384,No
+527,Côte dIvoire,1993,724,Cholera,Absolute,All,All,CHONRC528,0,130,384,No
+528,Côte dIvoire,1992,37,Cholera,Absolute,All,All,CHONRC529,0,130,384,No
+529,Côte dIvoire,1991,604,Cholera,Absolute,All,All,CHONRC530,0,130,384,No
+530,Côte dIvoire,1982,34,Cholera,Absolute,All,All,CHONRC531,0,130,384,No
+531,Côte dIvoire,1979,3,Cholera,Absolute,All,All,CHONRC532,0,130,384,No
+532,Côte dIvoire,1971,668,Cholera,Absolute,All,All,CHONRC533,0,130,384,No
+533,Côte dIvoire,1970,868,Cholera,Absolute,All,All,CHONRC534,0,130,384,No
+534,Cuba,2012,417,Cholera,Absolute,All,All,CHONRC535,0,130,192,No
+535,Czech Republic,2002,2,Cholera,Absolute,All,All,CHONRC536,0,130,203,No
+536,Czech Republic,1970,4,Cholera,Absolute,All,All,CHONRC537,0,130,203,No
+537,Democratic Peoples Republic of Korea,1996,7,Cholera,Absolute,All,All,CHONRC538,0,130,408,No
+538,Democratic Peoples Republic of Korea,1980,170,Cholera,Absolute,All,All,CHONRC539,0,130,408,No
+539,Democratic Republic of the Congo,2012,33661,Cholera,Absolute,All,All,CHONRC540,0,130,180,No
+540,Democratic Republic of the Congo,2011,21700,Cholera,Absolute,All,All,CHONRC541,0,130,180,No
+541,Democratic Republic of the Congo,2010,13884,Cholera,Absolute,All,All,CHONRC542,0,130,180,No
+542,Democratic Republic of the Congo,2009,22899,Cholera,Absolute,All,All,CHONRC543,0,130,180,No
+543,Democratic Republic of the Congo,2008,30150,Cholera,Absolute,All,All,CHONRC544,0,130,180,No
+544,Democratic Republic of the Congo,2007,28269,Cholera,Absolute,All,All,CHONRC545,0,130,180,No
+545,Democratic Republic of the Congo,2006,20642,Cholera,Absolute,All,All,CHONRC546,0,130,180,No
+546,Democratic Republic of the Congo,2005,13430,Cholera,Absolute,All,All,CHONRC547,0,130,180,No
+547,Democratic Republic of the Congo,2004,7665,Cholera,Absolute,All,All,CHONRC548,0,130,180,No
+548,Democratic Republic of the Congo,2003,27272,Cholera,Absolute,All,All,CHONRC549,0,130,180,No
+549,Democratic Republic of the Congo,2002,31658,Cholera,Absolute,All,All,CHONRC550,0,130,180,No
+550,Democratic Republic of the Congo,2001,5728,Cholera,Absolute,All,All,CHONRC551,0,130,180,No
+551,Democratic Republic of the Congo,2000,14995,Cholera,Absolute,All,All,CHONRC552,0,130,180,No
+552,Democratic Republic of the Congo,1999,12711,Cholera,Absolute,All,All,CHONRC553,0,130,180,No
+553,Democratic Republic of the Congo,1998,34899,Cholera,Absolute,All,All,CHONRC554,0,130,180,No
+554,Democratic Republic of the Congo,1997,2421,Cholera,Absolute,All,All,CHONRC555,0,130,180,No
+555,Democratic Republic of the Congo,1996,7886,Cholera,Absolute,All,All,CHONRC556,0,130,180,No
+556,Democratic Republic of the Congo,1995,553,Cholera,Absolute,All,All,CHONRC557,0,130,180,No
+557,Democratic Republic of the Congo,1994,58057,Cholera,Absolute,All,All,CHONRC558,0,130,180,No
+558,Democratic Republic of the Congo,1993,986,Cholera,Absolute,All,All,CHONRC559,0,130,180,No
+559,Democratic Republic of the Congo,1992,1949,Cholera,Absolute,All,All,CHONRC560,0,130,180,No
+560,Democratic Republic of the Congo,1991,4066,Cholera,Absolute,All,All,CHONRC561,0,130,180,No
+561,Democratic Republic of the Congo,1990,468,Cholera,Absolute,All,All,CHONRC562,0,130,180,No
+562,Democratic Republic of the Congo,1989,99,Cholera,Absolute,All,All,CHONRC563,0,130,180,No
+563,Democratic Republic of the Congo,1988,295,Cholera,Absolute,All,All,CHONRC564,0,130,180,No
+564,Democratic Republic of the Congo,1987,1150,Cholera,Absolute,All,All,CHONRC565,0,130,180,No
+565,Democratic Republic of the Congo,1986,1059,Cholera,Absolute,All,All,CHONRC566,0,130,180,No
+566,Democratic Republic of the Congo,1985,740,Cholera,Absolute,All,All,CHONRC567,0,130,180,No
+567,Democratic Republic of the Congo,1984,162,Cholera,Absolute,All,All,CHONRC568,0,130,180,No
+568,Democratic Republic of the Congo,1983,2977,Cholera,Absolute,All,All,CHONRC569,0,130,180,No
+569,Democratic Republic of the Congo,1982,10328,Cholera,Absolute,All,All,CHONRC570,0,130,180,No
+570,Democratic Republic of the Congo,1981,2379,Cholera,Absolute,All,All,CHONRC571,0,130,180,No
+571,Democratic Republic of the Congo,1980,1051,Cholera,Absolute,All,All,CHONRC572,0,130,180,No
+572,Democratic Republic of the Congo,1979,5515,Cholera,Absolute,All,All,CHONRC573,0,130,180,No
+573,Democratic Republic of the Congo,1978,3481,Cholera,Absolute,All,All,CHONRC574,0,130,180,No
+574,Denmark,2008,1,Cholera,Absolute,All,All,CHONRC575,0,130,208,No
+575,Denmark,2004,1,Cholera,Absolute,All,All,CHONRC576,0,130,208,No
+576,Denmark,1995,3,Cholera,Absolute,All,All,CHONRC577,0,130,208,No
+577,Denmark,1994,2,Cholera,Absolute,All,All,CHONRC578,0,130,208,No
+578,Denmark,1993,2,Cholera,Absolute,All,All,CHONRC579,0,130,208,No
+579,Denmark,1990,1,Cholera,Absolute,All,All,CHONRC580,0,130,208,No
+580,Djibouti,2011,127,Cholera,Absolute,All,All,CHONRC581,0,130,262,No
+581,Djibouti,2010,2047,Cholera,Absolute,All,All,CHONRC582,0,130,262,No
+582,Djibouti,2007,1087,Cholera,Absolute,All,All,CHONRC583,0,130,262,No
+583,Djibouti,2000,1828,Cholera,Absolute,All,All,CHONRC584,0,130,262,No
+584,Djibouti,1998,164,Cholera,Absolute,All,All,CHONRC585,0,130,262,No
+585,Djibouti,1997,2424,Cholera,Absolute,All,All,CHONRC586,0,130,262,No
+586,Djibouti,1994,1122,Cholera,Absolute,All,All,CHONRC587,0,130,262,No
+587,Djibouti,1993,10055,Cholera,Absolute,All,All,CHONRC588,0,130,262,No
+588,Djibouti,1985,115,Cholera,Absolute,All,All,CHONRC589,0,130,262,No
+589,Djibouti,1978,3,Cholera,Absolute,All,All,CHONRC590,0,130,262,No
+590,Djibouti,1977,2,Cholera,Absolute,All,All,CHONRC591,0,130,262,No
+591,Djibouti,1976,2,Cholera,Absolute,All,All,CHONRC592,0,130,262,No
+592,Djibouti,1972,8,Cholera,Absolute,All,All,CHONRC593,0,130,262,No
+593,Djibouti,1971,440,Cholera,Absolute,All,All,CHONRC594,0,130,262,No
+594,Djibouti,1970,6,Cholera,Absolute,All,All,CHONRC595,0,130,262,No
+595,Dominican Republic,2012,7919,Cholera,Absolute,All,All,CHONRC596,0,130,214,No
+596,Dominican Republic,2011,20851,Cholera,Absolute,All,All,CHONRC597,0,130,214,No
+597,Dominican Republic,2010,191,Cholera,Absolute,All,All,CHONRC598,0,130,214,No
+598,Ecuador,2004,5,Cholera,Absolute,All,All,CHONRC599,0,130,218,No
+599,Ecuador,2003,25,Cholera,Absolute,All,All,CHONRC600,0,130,218,No
+600,Ecuador,2001,9,Cholera,Absolute,All,All,CHONRC601,0,130,218,No
+601,Ecuador,2000,27,Cholera,Absolute,All,All,CHONRC602,0,130,218,No
+602,Ecuador,1999,90,Cholera,Absolute,All,All,CHONRC603,0,130,218,No
+603,Ecuador,1998,3724,Cholera,Absolute,All,All,CHONRC604,0,130,218,No
+604,Ecuador,1997,65,Cholera,Absolute,All,All,CHONRC605,0,130,218,No
+605,Ecuador,1996,1059,Cholera,Absolute,All,All,CHONRC606,0,130,218,No
+606,Ecuador,1995,2160,Cholera,Absolute,All,All,CHONRC607,0,130,218,No
+607,Ecuador,1994,1785,Cholera,Absolute,All,All,CHONRC608,0,130,218,No
+608,Ecuador,1993,6833,Cholera,Absolute,All,All,CHONRC609,0,130,218,No
+609,Ecuador,1992,31870,Cholera,Absolute,All,All,CHONRC610,0,130,218,No
+610,Ecuador,1991,46320,Cholera,Absolute,All,All,CHONRC611,0,130,218,No
+611,El Salvador,2000,631,Cholera,Absolute,All,All,CHONRC612,0,130,222,No
+612,El Salvador,1999,134,Cholera,Absolute,All,All,CHONRC613,0,130,222,No
+613,El Salvador,1998,8,Cholera,Absolute,All,All,CHONRC614,0,130,222,No
+614,El Salvador,1996,182,Cholera,Absolute,All,All,CHONRC615,0,130,222,No
+615,El Salvador,1995,2923,Cholera,Absolute,All,All,CHONRC616,0,130,222,No
+616,El Salvador,1994,11745,Cholera,Absolute,All,All,CHONRC617,0,130,222,No
+617,El Salvador,1993,6573,Cholera,Absolute,All,All,CHONRC618,0,130,222,No
+618,El Salvador,1992,8717,Cholera,Absolute,All,All,CHONRC619,0,130,222,No
+619,El Salvador,1991,947,Cholera,Absolute,All,All,CHONRC620,0,130,222,No
+620,Equatorial Guinea,2006,0,Cholera,Absolute,All,All,CHONRC621,0,130,226,No
+621,Equatorial Guinea,2005,6391,Cholera,Absolute,All,All,CHONRC622,0,130,226,No
+622,Equatorial Guinea,2004,59,Cholera,Absolute,All,All,CHONRC623,0,130,226,No
+623,Equatorial Guinea,1985,108,Cholera,Absolute,All,All,CHONRC624,0,130,226,No
+624,Equatorial Guinea,1984,404,Cholera,Absolute,All,All,CHONRC625,0,130,226,No
+625,Eritrea,2008,1,Cholera,Absolute,All,All,CHONRC626,0,130,232,No
+626,Eritrea,2007,119,Cholera,Absolute,All,All,CHONRC627,0,130,232,No
+627,Eritrea,2006,0,Cholera,Absolute,All,All,CHONRC628,0,130,232,No
+628,Eritrea,2005,0,Cholera,Absolute,All,All,CHONRC629,0,130,232,No
+629,Estonia,1993,2,Cholera,Absolute,All,All,CHONRC630,0,130,233,No
+630,Ethiopia,2010,1682,Cholera,Absolute,All,All,CHONRC631,0,130,231,No
+631,Ethiopia,2010,1682,Cholera,Absolute,All,All,CHONRC631,0,130,230,No
+632,Ethiopia,2009,31509,Cholera,Absolute,All,All,CHONRC632,0,130,231,No
+633,Ethiopia,2009,31509,Cholera,Absolute,All,All,CHONRC632,0,130,230,No
+634,Ethiopia,2008,3862,Cholera,Absolute,All,All,CHONRC633,0,130,231,No
+635,Ethiopia,2008,3862,Cholera,Absolute,All,All,CHONRC633,0,130,230,No
+636,Ethiopia,2007,24121,Cholera,Absolute,All,All,CHONRC634,0,130,231,No
+637,Ethiopia,2007,24121,Cholera,Absolute,All,All,CHONRC634,0,130,230,No
+638,Ethiopia,2006,54070,Cholera,Absolute,All,All,CHONRC635,0,130,231,No
+639,Ethiopia,2006,54070,Cholera,Absolute,All,All,CHONRC635,0,130,230,No
+640,Ethiopia,2005,0,Cholera,Absolute,All,All,CHONRC636,0,130,231,No
+641,Ethiopia,2005,0,Cholera,Absolute,All,All,CHONRC636,0,130,230,No
+642,Ethiopia,2004,16,Cholera,Absolute,All,All,CHONRC637,0,130,231,No
+643,Ethiopia,2004,16,Cholera,Absolute,All,All,CHONRC637,0,130,230,No
+644,Ethiopia,1982,0,Cholera,Absolute,All,All,CHONRC638,0,130,231,No
+645,Ethiopia,1982,0,Cholera,Absolute,All,All,CHONRC638,0,130,230,No
+646,Ethiopia,1971,2187,Cholera,Absolute,All,All,CHONRC639,0,130,231,No
+647,Ethiopia,1971,2187,Cholera,Absolute,All,All,CHONRC639,0,130,230,No
+648,Ethiopia,1970,850,Cholera,Absolute,All,All,CHONRC640,0,130,231,No
+649,Ethiopia,1970,850,Cholera,Absolute,All,All,CHONRC640,0,130,230,No
+650,Finland,2008,1,Cholera,Absolute,All,All,CHONRC641,0,130,246,No
+651,Finland,2005,1,Cholera,Absolute,All,All,CHONRC642,0,130,246,No
+652,Finland,1998,1,Cholera,Absolute,All,All,CHONRC643,0,130,246,No
+653,Finland,1995,1,Cholera,Absolute,All,All,CHONRC644,0,130,246,No
+654,Finland,1994,2,Cholera,Absolute,All,All,CHONRC645,0,130,246,No
+655,Finland,1981,1,Cholera,Absolute,All,All,CHONRC646,0,130,246,No
+656,France,2011,1,Cholera,Absolute,All,All,CHONRC647,0,130,250,No
+657,France,2009,1,Cholera,Absolute,All,All,CHONRC648,0,130,250,No
+658,France,2008,2,Cholera,Absolute,All,All,CHONRC649,0,130,250,No
+659,France,2007,4,Cholera,Absolute,All,All,CHONRC650,0,130,250,No
+660,France,2006,2,Cholera,Absolute,All,All,CHONRC651,0,130,250,No
+661,France,2002,1,Cholera,Absolute,All,All,CHONRC652,0,130,250,No
+662,France,2001,2,Cholera,Absolute,All,All,CHONRC653,0,130,250,No
+663,France,2000,5,Cholera,Absolute,All,All,CHONRC654,0,130,250,No
+664,France,1998,2,Cholera,Absolute,All,All,CHONRC655,0,130,250,No
+665,France,1997,3,Cholera,Absolute,All,All,CHONRC656,0,130,250,No
+666,France,1996,8,Cholera,Absolute,All,All,CHONRC657,0,130,250,No
+667,France,1995,6,Cholera,Absolute,All,All,CHONRC658,0,130,250,No
+668,France,1994,4,Cholera,Absolute,All,All,CHONRC659,0,130,250,No
+669,France,1993,5,Cholera,Absolute,All,All,CHONRC660,0,130,250,No
+670,France,1991,7,Cholera,Absolute,All,All,CHONRC661,0,130,250,No
+671,France,1990,6,Cholera,Absolute,All,All,CHONRC662,0,130,250,No
+672,France,1989,1,Cholera,Absolute,All,All,CHONRC663,0,130,250,No
+673,France,1987,7,Cholera,Absolute,All,All,CHONRC664,0,130,250,No
+674,France,1986,37,Cholera,Absolute,All,All,CHONRC665,0,130,250,No
+675,France,1984,1,Cholera,Absolute,All,All,CHONRC666,0,130,250,No
+676,France,1983,3,Cholera,Absolute,All,All,CHONRC667,0,130,250,No
+677,France,1982,18,Cholera,Absolute,All,All,CHONRC668,0,130,250,No
+678,France,1981,20,Cholera,Absolute,All,All,CHONRC669,0,130,250,No
+679,France,1980,1,Cholera,Absolute,All,All,CHONRC670,0,130,250,No
+680,France,1979,8,Cholera,Absolute,All,All,CHONRC671,0,130,250,No
+681,France,1976,5,Cholera,Absolute,All,All,CHONRC672,0,130,250,No
+682,France,1975,9,Cholera,Absolute,All,All,CHONRC673,0,130,250,No
+683,France,1974,5,Cholera,Absolute,All,All,CHONRC674,0,130,250,No
+684,France,1973,4,Cholera,Absolute,All,All,CHONRC675,0,130,250,No
+685,France,1971,3,Cholera,Absolute,All,All,CHONRC676,0,130,250,No
+686,France,1970,1,Cholera,Absolute,All,All,CHONRC677,0,130,250,No
+687,Gabon,2008,2,Cholera,Absolute,All,All,CHONRC678,0,130,266,No
+688,Gabon,2006,0,Cholera,Absolute,All,All,CHONRC679,0,130,266,No
+689,Gabon,2005,0,Cholera,Absolute,All,All,CHONRC680,0,130,266,No
+690,Gabon,2003,629,Cholera,Absolute,All,All,CHONRC681,0,130,266,No
+691,Gabon,2002,6,Cholera,Absolute,All,All,CHONRC682,0,130,266,No
+692,Gabon,1981,7,Cholera,Absolute,All,All,CHONRC683,0,130,266,No
+693,Gabon,1979,5,Cholera,Absolute,All,All,CHONRC684,0,130,266,No
+694,Gambia,2008,1,Cholera,Absolute,All,All,CHONRC685,0,130,270,No
+695,Gambia,2007,12,Cholera,Absolute,All,All,CHONRC686,0,130,270,No
+696,Gambia,2006,0,Cholera,Absolute,All,All,CHONRC687,0,130,270,No
+697,Gambia,2005,214,Cholera,Absolute,All,All,CHONRC688,0,130,270,No
+698,Gambia,1996,7,Cholera,Absolute,All,All,CHONRC689,0,130,270,No
+699,Gambia,1995,15,Cholera,Absolute,All,All,CHONRC690,0,130,270,No
+700,Gambia,1994,1,Cholera,Absolute,All,All,CHONRC691,0,130,270,No
+701,Gambia,1985,2,Cholera,Absolute,All,All,CHONRC692,0,130,270,No
+702,Georgia,1993,8,Cholera,Absolute,All,All,CHONRC693,0,130,268,No
+703,Germany,2011,4,Cholera,Absolute,All,All,CHONRC694,0,130,276,No
+704,Germany,2010,4,Cholera,Absolute,All,All,CHONRC695,0,130,276,No
+705,Germany,2007,2,Cholera,Absolute,All,All,CHONRC696,0,130,276,No
+706,Germany,2006,1,Cholera,Absolute,All,All,CHONRC697,0,130,276,No
+707,Germany,2004,3,Cholera,Absolute,All,All,CHONRC698,0,130,276,No
+708,Germany,2003,1,Cholera,Absolute,All,All,CHONRC699,0,130,276,No
+709,Germany,2002,1,Cholera,Absolute,All,All,CHONRC700,0,130,276,No
+710,Germany,2001,1,Cholera,Absolute,All,All,CHONRC701,0,130,276,No
+711,Germany,2000,2,Cholera,Absolute,All,All,CHONRC702,0,130,276,No
+712,Germany,1999,3,Cholera,Absolute,All,All,CHONRC703,0,130,276,No
+713,Germany,1998,5,Cholera,Absolute,All,All,CHONRC704,0,130,276,No
+714,Germany,1997,2,Cholera,Absolute,All,All,CHONRC705,0,130,276,No
+715,Germany,1995,1,Cholera,Absolute,All,All,CHONRC706,0,130,276,No
+716,Germany,1994,5,Cholera,Absolute,All,All,CHONRC707,0,130,276,No
+717,Germany,1993,1,Cholera,Absolute,All,All,CHONRC708,0,130,276,No
+718,Germany,1992,1,Cholera,Absolute,All,All,CHONRC709,0,130,276,No
+719,Germany,1990,1,Cholera,Absolute,All,All,CHONRC710,0,130,276,No
+720,Germany,1989,1,Cholera,Absolute,All,All,CHONRC711,0,130,276,No
+721,Germany,1988,2,Cholera,Absolute,All,All,CHONRC712,0,130,276,No
+722,Germany,1986,2,Cholera,Absolute,All,All,CHONRC713,0,130,276,No
+723,Germany,1982,1,Cholera,Absolute,All,All,CHONRC714,0,130,276,No
+724,Germany,1981,4,Cholera,Absolute,All,All,CHONRC715,0,130,276,No
+725,Germany,1980,4,Cholera,Absolute,All,All,CHONRC716,0,130,276,No
+726,Germany,1977,1,Cholera,Absolute,All,All,CHONRC717,0,130,276,No
+727,Germany,1976,2,Cholera,Absolute,All,All,CHONRC718,0,130,276,No
+728,Germany,1975,1,Cholera,Absolute,All,All,CHONRC719,0,130,276,No
+729,Germany,1974,3,Cholera,Absolute,All,All,CHONRC720,0,130,276,No
+730,Germany,1973,6,Cholera,Absolute,All,All,CHONRC721,0,130,276,No
+731,Germany,1972,2,Cholera,Absolute,All,All,CHONRC722,0,130,276,No
+732,Germany,1971,1,Cholera,Absolute,All,All,CHONRC723,0,130,276,No
+733,Ghana,2012,9548,Cholera,Absolute,All,All,CHONRC724,0,130,288,No
+734,Ghana,2011,10628,Cholera,Absolute,All,All,CHONRC725,0,130,288,No
+735,Ghana,2010,438,Cholera,Absolute,All,All,CHONRC726,0,130,288,No
+736,Ghana,2009,1294,Cholera,Absolute,All,All,CHONRC727,0,130,288,No
+737,Ghana,2008,1223,Cholera,Absolute,All,All,CHONRC728,0,130,288,No
+738,Ghana,2007,179,Cholera,Absolute,All,All,CHONRC729,0,130,288,No
+739,Ghana,2006,3357,Cholera,Absolute,All,All,CHONRC730,0,130,288,No
+740,Ghana,2005,3166,Cholera,Absolute,All,All,CHONRC731,0,130,288,No
+741,Ghana,2004,407,Cholera,Absolute,All,All,CHONRC732,0,130,288,No
+742,Ghana,2003,204,Cholera,Absolute,All,All,CHONRC733,0,130,288,No
+743,Ghana,2002,3614,Cholera,Absolute,All,All,CHONRC734,0,130,288,No
+744,Ghana,2001,5487,Cholera,Absolute,All,All,CHONRC735,0,130,288,No
+745,Ghana,2000,3331,Cholera,Absolute,All,All,CHONRC736,0,130,288,No
+746,Ghana,1999,9432,Cholera,Absolute,All,All,CHONRC737,0,130,288,No
+747,Ghana,1998,3426,Cholera,Absolute,All,All,CHONRC738,0,130,288,No
+748,Ghana,1997,379,Cholera,Absolute,All,All,CHONRC739,0,130,288,No
+749,Ghana,1996,1665,Cholera,Absolute,All,All,CHONRC740,0,130,288,No
+750,Ghana,1995,4698,Cholera,Absolute,All,All,CHONRC741,0,130,288,No
+751,Ghana,1994,2267,Cholera,Absolute,All,All,CHONRC742,0,130,288,No
+752,Ghana,1993,1448,Cholera,Absolute,All,All,CHONRC743,0,130,288,No
+753,Ghana,1992,228,Cholera,Absolute,All,All,CHONRC744,0,130,288,No
+754,Ghana,1991,13172,Cholera,Absolute,All,All,CHONRC745,0,130,288,No
+755,Ghana,1990,2937,Cholera,Absolute,All,All,CHONRC746,0,130,288,No
+756,Ghana,1985,60,Cholera,Absolute,All,All,CHONRC747,0,130,288,No
+757,Ghana,1984,1015,Cholera,Absolute,All,All,CHONRC748,0,130,288,No
+758,Ghana,1983,14160,Cholera,Absolute,All,All,CHONRC749,0,130,288,No
+759,Ghana,1982,11051,Cholera,Absolute,All,All,CHONRC750,0,130,288,No
+760,Ghana,1981,943,Cholera,Absolute,All,All,CHONRC751,0,130,288,No
+761,Ghana,1980,260,Cholera,Absolute,All,All,CHONRC752,0,130,288,No
+762,Ghana,1979,1783,Cholera,Absolute,All,All,CHONRC753,0,130,288,No
+763,Ghana,1978,1853,Cholera,Absolute,All,All,CHONRC754,0,130,288,No
+764,Ghana,1977,6565,Cholera,Absolute,All,All,CHONRC755,0,130,288,No
+765,Ghana,1976,102,Cholera,Absolute,All,All,CHONRC756,0,130,288,No
+766,Ghana,1975,187,Cholera,Absolute,All,All,CHONRC757,0,130,288,No
+767,Ghana,1974,483,Cholera,Absolute,All,All,CHONRC758,0,130,288,No
+768,Ghana,1973,677,Cholera,Absolute,All,All,CHONRC759,0,130,288,No
+769,Ghana,1972,625,Cholera,Absolute,All,All,CHONRC760,0,130,288,No
+770,Ghana,1971,13048,Cholera,Absolute,All,All,CHONRC761,0,130,288,No
+771,Ghana,1970,2733,Cholera,Absolute,All,All,CHONRC762,0,130,288,No
+772,Greece,1993,1,Cholera,Absolute,All,All,CHONRC763,0,130,300,No
+773,Greece,1986,1,Cholera,Absolute,All,All,CHONRC764,0,130,300,No
+774,Guatemala,2003,1,Cholera,Absolute,All,All,CHONRC765,0,130,320,No
+775,Guatemala,2002,1,Cholera,Absolute,All,All,CHONRC766,0,130,320,No
+776,Guatemala,2001,13,Cholera,Absolute,All,All,CHONRC767,0,130,320,No
+777,Guatemala,2000,612,Cholera,Absolute,All,All,CHONRC768,0,130,320,No
+778,Guatemala,1999,2077,Cholera,Absolute,All,All,CHONRC769,0,130,320,No
+779,Guatemala,1998,5970,Cholera,Absolute,All,All,CHONRC770,0,130,320,No
+780,Guatemala,1997,1263,Cholera,Absolute,All,All,CHONRC771,0,130,320,No
+781,Guatemala,1996,1568,Cholera,Absolute,All,All,CHONRC772,0,130,320,No
+782,Guatemala,1995,7970,Cholera,Absolute,All,All,CHONRC773,0,130,320,No
+783,Guatemala,1994,5282,Cholera,Absolute,All,All,CHONRC774,0,130,320,No
+784,Guatemala,1993,30604,Cholera,Absolute,All,All,CHONRC775,0,130,320,No
+785,Guatemala,1992,15395,Cholera,Absolute,All,All,CHONRC776,0,130,320,No
+786,Guatemala,1991,3674,Cholera,Absolute,All,All,CHONRC777,0,130,320,No
+787,Guinea,2012,7350,Cholera,Absolute,All,All,CHONRC778,0,130,324,No
+788,Guinea,2011,3,Cholera,Absolute,All,All,CHONRC779,0,130,324,No
+789,Guinea,2009,42,Cholera,Absolute,All,All,CHONRC780,0,130,324,No
+790,Guinea,2008,513,Cholera,Absolute,All,All,CHONRC781,0,130,324,No
+791,Guinea,2007,8546,Cholera,Absolute,All,All,CHONRC782,0,130,324,No
+792,Guinea,2006,3242,Cholera,Absolute,All,All,CHONRC783,0,130,324,No
+793,Guinea,2005,3821,Cholera,Absolute,All,All,CHONRC784,0,130,324,No
+794,Guinea,2004,1516,Cholera,Absolute,All,All,CHONRC785,0,130,324,No
+795,Guinea,2003,6,Cholera,Absolute,All,All,CHONRC786,0,130,324,No
+796,Guinea,2002,61,Cholera,Absolute,All,All,CHONRC787,0,130,324,No
+797,Guinea,2001,392,Cholera,Absolute,All,All,CHONRC788,0,130,324,No
+798,Guinea,2000,519,Cholera,Absolute,All,All,CHONRC789,0,130,324,No
+799,Guinea,1999,599,Cholera,Absolute,All,All,CHONRC790,0,130,324,No
+800,Guinea,1998,881,Cholera,Absolute,All,All,CHONRC791,0,130,324,No
+801,Guinea,1996,287,Cholera,Absolute,All,All,CHONRC792,0,130,324,No
+802,Guinea,1995,6506,Cholera,Absolute,All,All,CHONRC793,0,130,324,No
+803,Guinea,1994,31415,Cholera,Absolute,All,All,CHONRC794,0,130,324,No
+804,Guinea,1986,286,Cholera,Absolute,All,All,CHONRC795,0,130,324,No
+805,Guinea,1970,2000,Cholera,Absolute,All,All,CHONRC796,0,130,324,No
+806,Guinea-Bissau,2012,3068,Cholera,Absolute,All,All,CHONRC797,0,130,624,No
+807,Guinea-Bissau,2009,5,Cholera,Absolute,All,All,CHONRC798,0,130,624,No
+808,Guinea-Bissau,2008,14323,Cholera,Absolute,All,All,CHONRC799,0,130,624,No
+809,Guinea-Bissau,2007,153,Cholera,Absolute,All,All,CHONRC800,0,130,624,No
+810,Guinea-Bissau,2006,37,Cholera,Absolute,All,All,CHONRC801,0,130,624,No
+811,Guinea-Bissau,2005,25111,Cholera,Absolute,All,All,CHONRC802,0,130,624,No
+812,Guinea-Bissau,2004,155,Cholera,Absolute,All,All,CHONRC803,0,130,624,No
+813,Guinea-Bissau,2003,290,Cholera,Absolute,All,All,CHONRC804,0,130,624,No
+814,Guinea-Bissau,2002,842,Cholera,Absolute,All,All,CHONRC805,0,130,624,No
+815,Guinea-Bissau,1998,126,Cholera,Absolute,All,All,CHONRC806,0,130,624,No
+816,Guinea-Bissau,1997,20555,Cholera,Absolute,All,All,CHONRC807,0,130,624,No
+817,Guinea-Bissau,1996,8397,Cholera,Absolute,All,All,CHONRC808,0,130,624,No
+818,Guinea-Bissau,1995,119,Cholera,Absolute,All,All,CHONRC809,0,130,624,No
+819,Guinea-Bissau,1994,15296,Cholera,Absolute,All,All,CHONRC810,0,130,624,No
+820,Guinea-Bissau,1987,6000,Cholera,Absolute,All,All,CHONRC811,0,130,624,No
+821,Guinea-Bissau,1986,200,Cholera,Absolute,All,All,CHONRC812,0,130,624,No
+822,Guyana,1993,66,Cholera,Absolute,All,All,CHONRC813,0,130,328,No
+823,Guyana,1992,576,Cholera,Absolute,All,All,CHONRC814,0,130,328,No
+824,Haiti,2012,112076,Cholera,Absolute,All,All,CHONRC815,0,130,332,No
+825,Haiti,2011,340311,Cholera,Absolute,All,All,CHONRC816,0,130,332,No
+826,Haiti,2010,179379,Cholera,Absolute,All,All,CHONRC817,0,130,332,No
+827,Honduras,2001,1,Cholera,Absolute,All,All,CHONRC818,0,130,340,No
+828,Honduras,2000,8,Cholera,Absolute,All,All,CHONRC819,0,130,340,No
+829,Honduras,1999,56,Cholera,Absolute,All,All,CHONRC820,0,130,340,No
+830,Honduras,1998,306,Cholera,Absolute,All,All,CHONRC821,0,130,340,No
+831,Honduras,1997,100,Cholera,Absolute,All,All,CHONRC822,0,130,340,No
+832,Honduras,1996,708,Cholera,Absolute,All,All,CHONRC823,0,130,340,No
+833,Honduras,1995,4717,Cholera,Absolute,All,All,CHONRC824,0,130,340,No
+834,Honduras,1994,5049,Cholera,Absolute,All,All,CHONRC825,0,130,340,No
+835,Honduras,1993,4013,Cholera,Absolute,All,All,CHONRC826,0,130,340,No
+836,Honduras,1992,407,Cholera,Absolute,All,All,CHONRC827,0,130,340,No
+837,Honduras,1991,17,Cholera,Absolute,All,All,CHONRC828,0,130,340,No
+838,Hungary,1997,1,Cholera,Absolute,All,All,CHONRC829,0,130,348,No
+839,India,2010,5155,Cholera,Absolute,All,All,CHONRC830,0,130,356,No
+840,India,2008,2680,Cholera,Absolute,All,All,CHONRC831,0,130,356,No
+841,India,2007,2635,Cholera,Absolute,All,All,CHONRC832,0,130,356,No
+842,India,2006,1939,Cholera,Absolute,All,All,CHONRC833,0,130,356,No
+843,India,2005,3155,Cholera,Absolute,All,All,CHONRC834,0,130,356,No
+844,India,2004,4695,Cholera,Absolute,All,All,CHONRC835,0,130,356,No
+845,India,2003,2893,Cholera,Absolute,All,All,CHONRC836,0,130,356,No
+846,India,2002,3455,Cholera,Absolute,All,All,CHONRC837,0,130,356,No
+847,India,2001,4081,Cholera,Absolute,All,All,CHONRC838,0,130,356,No
+848,India,2000,4053,Cholera,Absolute,All,All,CHONRC839,0,130,356,No
+849,India,1999,3839,Cholera,Absolute,All,All,CHONRC840,0,130,356,No
+850,India,1998,7151,Cholera,Absolute,All,All,CHONRC841,0,130,356,No
+851,India,1997,2768,Cholera,Absolute,All,All,CHONRC842,0,130,356,No
+852,India,1996,4396,Cholera,Absolute,All,All,CHONRC843,0,130,356,No
+853,India,1995,3315,Cholera,Absolute,All,All,CHONRC844,0,130,356,No
+854,India,1994,4973,Cholera,Absolute,All,All,CHONRC845,0,130,356,No
+855,India,1993,12084,Cholera,Absolute,All,All,CHONRC846,0,130,356,No
+856,India,1992,6911,Cholera,Absolute,All,All,CHONRC847,0,130,356,No
+857,India,1991,6993,Cholera,Absolute,All,All,CHONRC848,0,130,356,No
+858,India,1990,3583,Cholera,Absolute,All,All,CHONRC849,0,130,356,No
+859,India,1989,5640,Cholera,Absolute,All,All,CHONRC850,0,130,356,No
+860,India,1988,17162,Cholera,Absolute,All,All,CHONRC851,0,130,356,No
+861,India,1987,11934,Cholera,Absolute,All,All,CHONRC852,0,130,356,No
+862,India,1986,4208,Cholera,Absolute,All,All,CHONRC853,0,130,356,No
+863,India,1985,5808,Cholera,Absolute,All,All,CHONRC854,0,130,356,No
+864,India,1984,2527,Cholera,Absolute,All,All,CHONRC855,0,130,356,No
+865,India,1983,8542,Cholera,Absolute,All,All,CHONRC856,0,130,356,No
+866,India,1982,4656,Cholera,Absolute,All,All,CHONRC857,0,130,356,No
+867,India,1981,4681,Cholera,Absolute,All,All,CHONRC858,0,130,356,No
+868,India,1980,8344,Cholera,Absolute,All,All,CHONRC859,0,130,356,No
+869,India,1979,5073,Cholera,Absolute,All,All,CHONRC860,0,130,356,No
+870,India,1978,10585,Cholera,Absolute,All,All,CHONRC861,0,130,356,No
+871,India,1977,8376,Cholera,Absolute,All,All,CHONRC862,0,130,356,No
+872,India,1976,14946,Cholera,Absolute,All,All,CHONRC863,0,130,356,No
+873,India,1975,22049,Cholera,Absolute,All,All,CHONRC864,0,130,356,No
+874,India,1974,30903,Cholera,Absolute,All,All,CHONRC865,0,130,356,No
+875,India,1973,41611,Cholera,Absolute,All,All,CHONRC866,0,130,356,No
+876,India,1972,20435,Cholera,Absolute,All,All,CHONRC867,0,130,356,No
+877,India,1971,71386,Cholera,Absolute,All,All,CHONRC868,0,130,356,No
+878,India,1970,15067,Cholera,Absolute,All,All,CHONRC869,0,130,356,No
+879,India,1969,19280,Cholera,Absolute,All,All,CHONRC870,0,130,356,No
+880,India,1968,22587,Cholera,Absolute,All,All,CHONRC871,0,130,356,No
+881,India,1967,13708,Cholera,Absolute,All,All,CHONRC872,0,130,356,No
+882,India,1966,13052,Cholera,Absolute,All,All,CHONRC873,0,130,356,No
+883,India,1965,42677,Cholera,Absolute,All,All,CHONRC874,0,130,356,No
+884,India,1964,53011,Cholera,Absolute,All,All,CHONRC875,0,130,356,No
+885,India,1963,44839,Cholera,Absolute,All,All,CHONRC876,0,130,356,No
+886,India,1962,51082,Cholera,Absolute,All,All,CHONRC877,0,130,356,No
+887,India,1961,47637,Cholera,Absolute,All,All,CHONRC878,0,130,356,No
+888,India,1960,14621,Cholera,Absolute,All,All,CHONRC879,0,130,356,No
+889,India,1959,14852,Cholera,Absolute,All,All,CHONRC880,0,130,356,No
+890,India,1958,66849,Cholera,Absolute,All,All,CHONRC881,0,130,356,No
+891,India,1957,54961,Cholera,Absolute,All,All,CHONRC882,0,130,356,No
+892,India,1956,39829,Cholera,Absolute,All,All,CHONRC883,0,130,356,No
+893,India,1955,23533,Cholera,Absolute,All,All,CHONRC884,0,130,356,No
+894,India,1954,22146,Cholera,Absolute,All,All,CHONRC885,0,130,356,No
+895,India,1953,213225,Cholera,Absolute,All,All,CHONRC886,0,130,356,No
+896,India,1952,101493,Cholera,Absolute,All,All,CHONRC887,0,130,356,No
+897,India,1951,86787,Cholera,Absolute,All,All,CHONRC888,0,130,356,No
+898,India,1950,625,Cholera,Absolute,All,All,CHONRC889,0,130,356,No
+899,Indonesia,2008,1007,Cholera,Absolute,All,All,CHONRC890,0,130,360,No
+900,Indonesia,2005,1338,Cholera,Absolute,All,All,CHONRC891,0,130,360,No
+901,Indonesia,2001,561,Cholera,Absolute,All,All,CHONRC892,0,130,360,No
+902,Indonesia,1997,66,Cholera,Absolute,All,All,CHONRC893,0,130,360,No
+903,Indonesia,1996,66,Cholera,Absolute,All,All,CHONRC894,0,130,360,No
+904,Indonesia,1994,47,Cholera,Absolute,All,All,CHONRC895,0,130,360,No
+905,Indonesia,1993,3564,Cholera,Absolute,All,All,CHONRC896,0,130,360,No
+906,Indonesia,1992,25,Cholera,Absolute,All,All,CHONRC897,0,130,360,No
+907,Indonesia,1991,6202,Cholera,Absolute,All,All,CHONRC898,0,130,360,No
+908,Indonesia,1990,155,Cholera,Absolute,All,All,CHONRC899,0,130,360,No
+909,Indonesia,1989,67,Cholera,Absolute,All,All,CHONRC900,0,130,360,No
+910,Indonesia,1988,50,Cholera,Absolute,All,All,CHONRC901,0,130,360,No
+911,Indonesia,1987,659,Cholera,Absolute,All,All,CHONRC902,0,130,360,No
+912,Indonesia,1986,11915,Cholera,Absolute,All,All,CHONRC903,0,130,360,No
+913,Indonesia,1985,4732,Cholera,Absolute,All,All,CHONRC904,0,130,360,No
+914,Indonesia,1984,7921,Cholera,Absolute,All,All,CHONRC905,0,130,360,No
+915,Indonesia,1983,13832,Cholera,Absolute,All,All,CHONRC906,0,130,360,No
+916,Indonesia,1982,10391,Cholera,Absolute,All,All,CHONRC907,0,130,360,No
+917,Indonesia,1981,18354,Cholera,Absolute,All,All,CHONRC908,0,130,360,No
+918,Indonesia,1980,5541,Cholera,Absolute,All,All,CHONRC909,0,130,360,No
+919,Indonesia,1979,18817,Cholera,Absolute,All,All,CHONRC910,0,130,360,No
+920,Indonesia,1978,10683,Cholera,Absolute,All,All,CHONRC911,0,130,360,No
+921,Indonesia,1977,17112,Cholera,Absolute,All,All,CHONRC912,0,130,360,No
+922,Indonesia,1976,41264,Cholera,Absolute,All,All,CHONRC913,0,130,360,No
+923,Indonesia,1975,48387,Cholera,Absolute,All,All,CHONRC914,0,130,360,No
+924,Indonesia,1974,41474,Cholera,Absolute,All,All,CHONRC915,0,130,360,No
+925,Indonesia,1973,52042,Cholera,Absolute,All,All,CHONRC916,0,130,360,No
+926,Indonesia,1972,44383,Cholera,Absolute,All,All,CHONRC917,0,130,360,No
+927,Indonesia,1971,23555,Cholera,Absolute,All,All,CHONRC918,0,130,360,No
+928,Indonesia,1970,5997,Cholera,Absolute,All,All,CHONRC919,0,130,360,No
+929,Indonesia,1969,627,Cholera,Absolute,All,All,CHONRC920,0,130,360,No
+930,Indonesia,1968,135,Cholera,Absolute,All,All,CHONRC921,0,130,360,No
+931,Indonesia,1967,700,Cholera,Absolute,All,All,CHONRC922,0,130,360,No
+932,Indonesia,1966,204,Cholera,Absolute,All,All,CHONRC923,0,130,360,No
+933,Indonesia,1964,326,Cholera,Absolute,All,All,CHONRC924,0,130,360,No
+934,Indonesia,1963,535,Cholera,Absolute,All,All,CHONRC925,0,130,360,No
+935,Indonesia,1962,428,Cholera,Absolute,All,All,CHONRC926,0,130,360,No
+936,Indonesia,1961,1742,Cholera,Absolute,All,All,CHONRC927,0,130,360,No
+937,Indonesia,1960,41,Cholera,Absolute,All,All,CHONRC928,0,130,360,No
+938,Iran (Islamic Republic of),2012,53,Cholera,Absolute,All,All,CHONRC929,0,130,364,No
+939,Iran (Islamic Republic of),2011,1187,Cholera,Absolute,All,All,CHONRC930,0,130,364,No
+940,Iran (Islamic Republic of),2008,72,Cholera,Absolute,All,All,CHONRC931,0,130,364,No
+941,Iran (Islamic Republic of),2007,19,Cholera,Absolute,All,All,CHONRC932,0,130,364,No
+942,Iran (Islamic Republic of),2005,1133,Cholera,Absolute,All,All,CHONRC933,0,130,364,No
+943,Iran (Islamic Republic of),2004,94,Cholera,Absolute,All,All,CHONRC934,0,130,364,No
+944,Iran (Islamic Republic of),2003,96,Cholera,Absolute,All,All,CHONRC935,0,130,364,No
+945,Iran (Islamic Republic of),2002,118,Cholera,Absolute,All,All,CHONRC936,0,130,364,No
+946,Iran (Islamic Republic of),2001,105,Cholera,Absolute,All,All,CHONRC937,0,130,364,No
+947,Iran (Islamic Republic of),2000,345,Cholera,Absolute,All,All,CHONRC938,0,130,364,No
+948,Iran (Islamic Republic of),1999,1369,Cholera,Absolute,All,All,CHONRC939,0,130,364,No
+949,Iran (Islamic Republic of),1998,270,Cholera,Absolute,All,All,CHONRC940,0,130,364,No
+950,Iran (Islamic Republic of),1997,1106,Cholera,Absolute,All,All,CHONRC941,0,130,364,No
+951,Iran (Islamic Republic of),1995,2177,Cholera,Absolute,All,All,CHONRC942,0,130,364,No
+952,Iran (Islamic Republic of),1994,15,Cholera,Absolute,All,All,CHONRC943,0,130,364,No
+953,Iran (Islamic Republic of),1993,1347,Cholera,Absolute,All,All,CHONRC944,0,130,364,No
+954,Iran (Islamic Republic of),1992,97,Cholera,Absolute,All,All,CHONRC945,0,130,364,No
+955,Iran (Islamic Republic of),1991,1892,Cholera,Absolute,All,All,CHONRC946,0,130,364,No
+956,Iran (Islamic Republic of),1990,178,Cholera,Absolute,All,All,CHONRC947,0,130,364,No
+957,Iran (Islamic Republic of),1989,5222,Cholera,Absolute,All,All,CHONRC948,0,130,364,No
+958,Iran (Islamic Republic of),1988,486,Cholera,Absolute,All,All,CHONRC949,0,130,364,No
+959,Iran (Islamic Republic of),1987,295,Cholera,Absolute,All,All,CHONRC950,0,130,364,No
+960,Iran (Islamic Republic of),1986,20,Cholera,Absolute,All,All,CHONRC951,0,130,364,No
+961,Iran (Islamic Republic of),1985,1208,Cholera,Absolute,All,All,CHONRC952,0,130,364,No
+962,Iran (Islamic Republic of),1984,531,Cholera,Absolute,All,All,CHONRC953,0,130,364,No
+963,Iran (Islamic Republic of),1983,270,Cholera,Absolute,All,All,CHONRC954,0,130,364,No
+964,Iran (Islamic Republic of),1982,427,Cholera,Absolute,All,All,CHONRC955,0,130,364,No
+965,Iran (Islamic Republic of),1981,6034,Cholera,Absolute,All,All,CHONRC956,0,130,364,No
+966,Iran (Islamic Republic of),1980,1599,Cholera,Absolute,All,All,CHONRC957,0,130,364,No
+967,Iran (Islamic Republic of),1979,1856,Cholera,Absolute,All,All,CHONRC958,0,130,364,No
+968,Iran (Islamic Republic of),1978,264,Cholera,Absolute,All,All,CHONRC959,0,130,364,No
+969,Iran (Islamic Republic of),1977,10836,Cholera,Absolute,All,All,CHONRC960,0,130,364,No
+970,Iran (Islamic Republic of),1976,2100,Cholera,Absolute,All,All,CHONRC961,0,130,364,No
+971,Iran (Islamic Republic of),1975,2966,Cholera,Absolute,All,All,CHONRC962,0,130,364,No
+972,Iran (Islamic Republic of),1974,304,Cholera,Absolute,All,All,CHONRC963,0,130,364,No
+973,Iran (Islamic Republic of),1973,55,Cholera,Absolute,All,All,CHONRC964,0,130,364,No
+974,Iran (Islamic Republic of),1972,322,Cholera,Absolute,All,All,CHONRC965,0,130,364,No
+975,Iran (Islamic Republic of),1971,344,Cholera,Absolute,All,All,CHONRC966,0,130,364,No
+976,Iran (Islamic Republic of),1970,19663,Cholera,Absolute,All,All,CHONRC967,0,130,364,No
+977,Iran (Islamic Republic of),1969,557,Cholera,Absolute,All,All,CHONRC968,0,130,364,No
+978,Iran (Islamic Republic of),1967,221,Cholera,Absolute,All,All,CHONRC969,0,130,364,No
+979,Iran (Islamic Republic of),1966,162,Cholera,Absolute,All,All,CHONRC970,0,130,364,No
+980,Iran (Islamic Republic of),1965,5037,Cholera,Absolute,All,All,CHONRC971,0,130,364,No
+981,Iraq,2012,4693,Cholera,Absolute,All,All,CHONRC972,0,130,368,No
+982,Iraq,2010,2,Cholera,Absolute,All,All,CHONRC973,0,130,368,No
+983,Iraq,2009,6,Cholera,Absolute,All,All,CHONRC974,0,130,368,No
+984,Iraq,2008,925,Cholera,Absolute,All,All,CHONRC975,0,130,368,No
+985,Iraq,2007,4697,Cholera,Absolute,All,All,CHONRC976,0,130,368,No
+986,Iraq,2004,35,Cholera,Absolute,All,All,CHONRC977,0,130,368,No
+987,Iraq,2003,187,Cholera,Absolute,All,All,CHONRC978,0,130,368,No
+988,Iraq,2002,718,Cholera,Absolute,All,All,CHONRC979,0,130,368,No
+989,Iraq,2001,560,Cholera,Absolute,All,All,CHONRC980,0,130,368,No
+990,Iraq,2000,532,Cholera,Absolute,All,All,CHONRC981,0,130,368,No
+991,Iraq,1999,1985,Cholera,Absolute,All,All,CHONRC982,0,130,368,No
+992,Iraq,1998,53,Cholera,Absolute,All,All,CHONRC983,0,130,368,No
+993,Iraq,1996,1,Cholera,Absolute,All,All,CHONRC984,0,130,368,No
+994,Iraq,1995,820,Cholera,Absolute,All,All,CHONRC985,0,130,368,No
+995,Iraq,1994,838,Cholera,Absolute,All,All,CHONRC986,0,130,368,No
+996,Iraq,1993,280,Cholera,Absolute,All,All,CHONRC987,0,130,368,No
+997,Iraq,1992,97,Cholera,Absolute,All,All,CHONRC988,0,130,368,No
+998,Iraq,1991,877,Cholera,Absolute,All,All,CHONRC989,0,130,368,No
+999,Iraq,1978,96,Cholera,Absolute,All,All,CHONRC990,0,130,368,No
+1000,Iraq,1977,133,Cholera,Absolute,All,All,CHONRC991,0,130,368,No
+1001,Iraq,1966,227,Cholera,Absolute,All,All,CHONRC992,0,130,368,No
+1002,Ireland,2001,1,Cholera,Absolute,All,All,CHONRC993,0,130,372,No
+1003,Israel,1988,1,Cholera,Absolute,All,All,CHONRC994,0,130,376,No
+1004,Israel,1987,2,Cholera,Absolute,All,All,CHONRC995,0,130,376,No
+1005,Israel,1982,1,Cholera,Absolute,All,All,CHONRC996,0,130,376,No
+1006,Israel,1972,11,Cholera,Absolute,All,All,CHONRC997,0,130,376,No
+1007,Israel,1971,1,Cholera,Absolute,All,All,CHONRC998,0,130,376,No
+1008,Israel,1970,185,Cholera,Absolute,All,All,CHONRC999,0,130,376,No
+1009,Italy,2007,1,Cholera,Absolute,All,All,CHONRC1000,0,130,380,No
+1010,Italy,2006,1,Cholera,Absolute,All,All,CHONRC1001,0,130,380,No
+1011,Italy,1998,2,Cholera,Absolute,All,All,CHONRC1002,0,130,380,No
+1012,Italy,1995,1,Cholera,Absolute,All,All,CHONRC1003,0,130,380,No
+1013,Italy,1994,12,Cholera,Absolute,All,All,CHONRC1004,0,130,380,No
+1014,Italy,1979,8,Cholera,Absolute,All,All,CHONRC1005,0,130,380,No
+1015,Italy,1977,2,Cholera,Absolute,All,All,CHONRC1006,0,130,380,No
+1016,Italy,1975,1,Cholera,Absolute,All,All,CHONRC1007,0,130,380,No
+1017,Italy,1973,278,Cholera,Absolute,All,All,CHONRC1008,0,130,380,No
+1018,Japan,2012,3,Cholera,Absolute,All,All,CHONRC1009,0,130,392,No
+1019,Japan,2012,3,Cholera,Absolute,All,All,CHONRC1009,0,130,392,No
+1020,Japan,2011,12,Cholera,Absolute,All,All,CHONRC1010,0,130,392,No
+1021,Japan,2011,12,Cholera,Absolute,All,All,CHONRC1010,0,130,392,No
+1022,Japan,2007,0,Cholera,Absolute,All,All,CHONRC1011,0,130,392,No
+1023,Japan,2007,0,Cholera,Absolute,All,All,CHONRC1011,0,130,392,No
+1024,Japan,2006,34,Cholera,Absolute,All,All,CHONRC1012,0,130,392,No
+1025,Japan,2006,34,Cholera,Absolute,All,All,CHONRC1012,0,130,392,No
+1026,Japan,2005,43,Cholera,Absolute,All,All,CHONRC1013,0,130,392,No
+1027,Japan,2005,43,Cholera,Absolute,All,All,CHONRC1013,0,130,392,No
+1028,Japan,2004,66,Cholera,Absolute,All,All,CHONRC1014,0,130,392,No
+1029,Japan,2004,66,Cholera,Absolute,All,All,CHONRC1014,0,130,392,No
+1030,Japan,2003,16,Cholera,Absolute,All,All,CHONRC1015,0,130,392,No
+1031,Japan,2003,16,Cholera,Absolute,All,All,CHONRC1015,0,130,392,No
+1032,Japan,2002,27,Cholera,Absolute,All,All,CHONRC1016,0,130,392,No
+1033,Japan,2002,27,Cholera,Absolute,All,All,CHONRC1016,0,130,392,No
+1034,Japan,2001,11,Cholera,Absolute,All,All,CHONRC1017,0,130,392,No
+1035,Japan,2001,11,Cholera,Absolute,All,All,CHONRC1017,0,130,392,No
+1036,Japan,2000,34,Cholera,Absolute,All,All,CHONRC1018,0,130,392,No
+1037,Japan,2000,34,Cholera,Absolute,All,All,CHONRC1018,0,130,392,No
+1038,Japan,1999,40,Cholera,Absolute,All,All,CHONRC1019,0,130,392,No
+1039,Japan,1999,40,Cholera,Absolute,All,All,CHONRC1019,0,130,392,No
+1040,Japan,1998,60,Cholera,Absolute,All,All,CHONRC1020,0,130,392,No
+1041,Japan,1998,60,Cholera,Absolute,All,All,CHONRC1020,0,130,392,No
+1042,Japan,1997,89,Cholera,Absolute,All,All,CHONRC1021,0,130,392,No
+1043,Japan,1997,89,Cholera,Absolute,All,All,CHONRC1021,0,130,392,No
+1044,Japan,1996,39,Cholera,Absolute,All,All,CHONRC1022,0,130,392,No
+1045,Japan,1996,39,Cholera,Absolute,All,All,CHONRC1022,0,130,392,No
+1046,Japan,1995,321,Cholera,Absolute,All,All,CHONRC1023,0,130,392,No
+1047,Japan,1995,321,Cholera,Absolute,All,All,CHONRC1023,0,130,392,No
+1048,Japan,1994,91,Cholera,Absolute,All,All,CHONRC1024,0,130,392,No
+1049,Japan,1994,91,Cholera,Absolute,All,All,CHONRC1024,0,130,392,No
+1050,Japan,1993,89,Cholera,Absolute,All,All,CHONRC1025,0,130,392,No
+1051,Japan,1993,89,Cholera,Absolute,All,All,CHONRC1025,0,130,392,No
+1052,Japan,1992,46,Cholera,Absolute,All,All,CHONRC1026,0,130,392,No
+1053,Japan,1992,46,Cholera,Absolute,All,All,CHONRC1026,0,130,392,No
+1054,Japan,1991,90,Cholera,Absolute,All,All,CHONRC1027,0,130,392,No
+1055,Japan,1991,90,Cholera,Absolute,All,All,CHONRC1027,0,130,392,No
+1056,Japan,1990,73,Cholera,Absolute,All,All,CHONRC1028,0,130,392,No
+1057,Japan,1990,73,Cholera,Absolute,All,All,CHONRC1028,0,130,392,No
+1058,Japan,1989,95,Cholera,Absolute,All,All,CHONRC1029,0,130,392,No
+1059,Japan,1989,95,Cholera,Absolute,All,All,CHONRC1029,0,130,392,No
+1060,Japan,1988,33,Cholera,Absolute,All,All,CHONRC1030,0,130,392,No
+1061,Japan,1988,33,Cholera,Absolute,All,All,CHONRC1030,0,130,392,No
+1062,Japan,1987,34,Cholera,Absolute,All,All,CHONRC1031,0,130,392,No
+1063,Japan,1987,34,Cholera,Absolute,All,All,CHONRC1031,0,130,392,No
+1064,Japan,1986,26,Cholera,Absolute,All,All,CHONRC1032,0,130,392,No
+1065,Japan,1986,26,Cholera,Absolute,All,All,CHONRC1032,0,130,392,No
+1066,Japan,1985,36,Cholera,Absolute,All,All,CHONRC1033,0,130,392,No
+1067,Japan,1985,36,Cholera,Absolute,All,All,CHONRC1033,0,130,392,No
+1068,Japan,1984,55,Cholera,Absolute,All,All,CHONRC1034,0,130,392,No
+1069,Japan,1984,55,Cholera,Absolute,All,All,CHONRC1034,0,130,392,No
+1070,Japan,1983,35,Cholera,Absolute,All,All,CHONRC1035,0,130,392,No
+1071,Japan,1983,35,Cholera,Absolute,All,All,CHONRC1035,0,130,392,No
+1072,Japan,1982,16,Cholera,Absolute,All,All,CHONRC1036,0,130,392,No
+1073,Japan,1982,16,Cholera,Absolute,All,All,CHONRC1036,0,130,392,No
+1074,Japan,1981,19,Cholera,Absolute,All,All,CHONRC1037,0,130,392,No
+1075,Japan,1981,19,Cholera,Absolute,All,All,CHONRC1037,0,130,392,No
+1076,Japan,1980,23,Cholera,Absolute,All,All,CHONRC1038,0,130,392,No
+1077,Japan,1980,23,Cholera,Absolute,All,All,CHONRC1038,0,130,392,No
+1078,Japan,1979,11,Cholera,Absolute,All,All,CHONRC1039,0,130,392,No
+1079,Japan,1979,11,Cholera,Absolute,All,All,CHONRC1039,0,130,392,No
+1080,Japan,1978,34,Cholera,Absolute,All,All,CHONRC1040,0,130,392,No
+1081,Japan,1978,34,Cholera,Absolute,All,All,CHONRC1040,0,130,392,No
+1082,Japan,1977,52,Cholera,Absolute,All,All,CHONRC1041,0,130,392,No
+1083,Japan,1977,52,Cholera,Absolute,All,All,CHONRC1041,0,130,392,No
+1084,Japan,1976,6,Cholera,Absolute,All,All,CHONRC1042,0,130,392,No
+1085,Japan,1976,6,Cholera,Absolute,All,All,CHONRC1042,0,130,392,No
+1086,Japan,1975,3,Cholera,Absolute,All,All,CHONRC1043,0,130,392,No
+1087,Japan,1975,3,Cholera,Absolute,All,All,CHONRC1043,0,130,392,No
+1088,Japan,1970,5,Cholera,Absolute,All,All,CHONRC1044,0,130,392,No
+1089,Japan,1970,5,Cholera,Absolute,All,All,CHONRC1044,0,130,392,No
+1090,Japan,1969,8,Cholera,Absolute,All,All,CHONRC1045,0,130,392,No
+1091,Japan,1969,8,Cholera,Absolute,All,All,CHONRC1045,0,130,392,No
+1092,Japan,1964,2,Cholera,Absolute,All,All,CHONRC1046,0,130,392,No
+1093,Japan,1964,2,Cholera,Absolute,All,All,CHONRC1046,0,130,392,No
+1094,Japan,1963,16,Cholera,Absolute,All,All,CHONRC1047,0,130,392,No
+1095,Japan,1963,16,Cholera,Absolute,All,All,CHONRC1047,0,130,392,No
+1096,Jordan,1990,2,Cholera,Absolute,All,All,CHONRC1048,0,130,400,No
+1097,Jordan,1981,870,Cholera,Absolute,All,All,CHONRC1049,0,130,400,No
+1098,Jordan,1979,141,Cholera,Absolute,All,All,CHONRC1050,0,130,400,No
+1099,Jordan,1977,427,Cholera,Absolute,All,All,CHONRC1051,0,130,400,No
+1100,Jordan,1976,152,Cholera,Absolute,All,All,CHONRC1052,0,130,400,No
+1101,Jordan,1970,3,Cholera,Absolute,All,All,CHONRC1053,0,130,400,No
+1102,Kazakhstan,2008,1,Cholera,Absolute,All,All,CHONRC1054,0,130,398,No
+1103,Kazakhstan,2001,1,Cholera,Absolute,All,All,CHONRC1055,0,130,398,No
+1104,Kazakhstan,1997,4,Cholera,Absolute,All,All,CHONRC1056,0,130,398,No
+1105,Kazakhstan,1995,16,Cholera,Absolute,All,All,CHONRC1057,0,130,398,No
+1106,Kazakhstan,1994,3,Cholera,Absolute,All,All,CHONRC1058,0,130,398,No
+1107,Kazakhstan,1993,74,Cholera,Absolute,All,All,CHONRC1059,0,130,398,No
+1108,Kenya,2011,74,Cholera,Absolute,All,All,CHONRC1060,0,130,404,No
+1109,Kenya,2010,3188,Cholera,Absolute,All,All,CHONRC1061,0,130,404,No
+1110,Kenya,2009,11425,Cholera,Absolute,All,All,CHONRC1062,0,130,404,No
+1111,Kenya,2008,3091,Cholera,Absolute,All,All,CHONRC1063,0,130,404,No
+1112,Kenya,2007,1206,Cholera,Absolute,All,All,CHONRC1064,0,130,404,No
+1113,Kenya,2006,870,Cholera,Absolute,All,All,CHONRC1065,0,130,404,No
+1114,Kenya,2005,816,Cholera,Absolute,All,All,CHONRC1066,0,130,404,No
+1115,Kenya,2004,870,Cholera,Absolute,All,All,CHONRC1067,0,130,404,No
+1116,Kenya,2002,291,Cholera,Absolute,All,All,CHONRC1068,0,130,404,No
+1117,Kenya,2001,1001,Cholera,Absolute,All,All,CHONRC1069,0,130,404,No
+1118,Kenya,2000,1157,Cholera,Absolute,All,All,CHONRC1070,0,130,404,No
+1119,Kenya,1999,11039,Cholera,Absolute,All,All,CHONRC1071,0,130,404,No
+1120,Kenya,1998,22432,Cholera,Absolute,All,All,CHONRC1072,0,130,404,No
+1121,Kenya,1997,17200,Cholera,Absolute,All,All,CHONRC1073,0,130,404,No
+1122,Kenya,1996,482,Cholera,Absolute,All,All,CHONRC1074,0,130,404,No
+1123,Kenya,1995,1547,Cholera,Absolute,All,All,CHONRC1075,0,130,404,No
+1124,Kenya,1994,880,Cholera,Absolute,All,All,CHONRC1076,0,130,404,No
+1125,Kenya,1992,3388,Cholera,Absolute,All,All,CHONRC1077,0,130,404,No
+1126,Kenya,1989,918,Cholera,Absolute,All,All,CHONRC1078,0,130,404,No
+1127,Kenya,1987,255,Cholera,Absolute,All,All,CHONRC1079,0,130,404,No
+1128,Kenya,1986,839,Cholera,Absolute,All,All,CHONRC1080,0,130,404,No
+1129,Kenya,1985,1352,Cholera,Absolute,All,All,CHONRC1081,0,130,404,No
+1130,Kenya,1984,14,Cholera,Absolute,All,All,CHONRC1082,0,130,404,No
+1131,Kenya,1983,1049,Cholera,Absolute,All,All,CHONRC1083,0,130,404,No
+1132,Kenya,1982,3498,Cholera,Absolute,All,All,CHONRC1084,0,130,404,No
+1133,Kenya,1981,2424,Cholera,Absolute,All,All,CHONRC1085,0,130,404,No
+1134,Kenya,1980,2808,Cholera,Absolute,All,All,CHONRC1086,0,130,404,No
+1135,Kenya,1979,1070,Cholera,Absolute,All,All,CHONRC1087,0,130,404,No
+1136,Kenya,1978,673,Cholera,Absolute,All,All,CHONRC1088,0,130,404,No
+1137,Kenya,1977,21,Cholera,Absolute,All,All,CHONRC1089,0,130,404,No
+1138,Kenya,1976,1359,Cholera,Absolute,All,All,CHONRC1090,0,130,404,No
+1139,Kenya,1975,1093,Cholera,Absolute,All,All,CHONRC1091,0,130,404,No
+1140,Kenya,1974,402,Cholera,Absolute,All,All,CHONRC1092,0,130,404,No
+1141,Kenya,1972,51,Cholera,Absolute,All,All,CHONRC1093,0,130,404,No
+1142,Kenya,1971,239,Cholera,Absolute,All,All,CHONRC1094,0,130,404,No
+1143,Kiribati,1978,494,Cholera,Absolute,All,All,CHONRC1095,0,130,296,No
+1144,Kiribati,1977,1307,Cholera,Absolute,All,All,CHONRC1096,0,130,296,No
+1145,Kuwait,1997,1,Cholera,Absolute,All,All,CHONRC1097,0,130,414,No
+1146,Kuwait,1993,1,Cholera,Absolute,All,All,CHONRC1098,0,130,414,No
+1147,Kuwait,1989,133,Cholera,Absolute,All,All,CHONRC1099,0,130,414,No
+1148,Kuwait,1986,38,Cholera,Absolute,All,All,CHONRC1100,0,130,414,No
+1149,Kuwait,1985,113,Cholera,Absolute,All,All,CHONRC1101,0,130,414,No
+1150,Kuwait,1981,8,Cholera,Absolute,All,All,CHONRC1102,0,130,414,No
+1151,Kuwait,1979,3,Cholera,Absolute,All,All,CHONRC1103,0,130,414,No
+1152,Kuwait,1978,1,Cholera,Absolute,All,All,CHONRC1104,0,130,414,No
+1153,Kuwait,1977,13,Cholera,Absolute,All,All,CHONRC1105,0,130,414,No
+1154,Kuwait,1976,2,Cholera,Absolute,All,All,CHONRC1106,0,130,414,No
+1155,Kuwait,1975,3,Cholera,Absolute,All,All,CHONRC1107,0,130,414,No
+1156,Kuwait,1970,4,Cholera,Absolute,All,All,CHONRC1108,0,130,414,No
+1157,Kyrgyzstan,1994,4,Cholera,Absolute,All,All,CHONRC1109,0,130,417,No
+1158,Lao Peoples Democratic Republic,2010,237,Cholera,Absolute,All,All,CHONRC1110,0,130,418,No
+1159,Lao Peoples Democratic Republic,2008,201,Cholera,Absolute,All,All,CHONRC1111,0,130,418,No
+1160,Lao Peoples Democratic Republic,2007,169,Cholera,Absolute,All,All,CHONRC1112,0,130,418,No
+1161,Lao Peoples Democratic Republic,1996,720,Cholera,Absolute,All,All,CHONRC1113,0,130,418,No
+1162,Lao Peoples Democratic Republic,1995,1365,Cholera,Absolute,All,All,CHONRC1114,0,130,418,No
+1163,Lao Peoples Democratic Republic,1994,9660,Cholera,Absolute,All,All,CHONRC1115,0,130,418,No
+1164,Lao Peoples Democratic Republic,1993,5521,Cholera,Absolute,All,All,CHONRC1116,0,130,418,No
+1165,Lao Peoples Democratic Republic,1969,448,Cholera,Absolute,All,All,CHONRC1117,0,130,418,No
+1166,Lao Peoples Democratic Republic,1953,31,Cholera,Absolute,All,All,CHONRC1118,0,130,418,No
+1167,Lebanon,2005,1,Cholera,Absolute,All,All,CHONRC1119,0,130,422,No
+1168,Lebanon,1994,3,Cholera,Absolute,All,All,CHONRC1120,0,130,422,No
+1169,Lebanon,1993,344,Cholera,Absolute,All,All,CHONRC1121,0,130,422,No
+1170,Lebanon,1977,30,Cholera,Absolute,All,All,CHONRC1122,0,130,422,No
+1171,Lebanon,1970,54,Cholera,Absolute,All,All,CHONRC1123,0,130,422,No
+1172,Lesotho,2006,0,Cholera,Absolute,All,All,CHONRC1124,0,130,426,No
+1173,Lesotho,2005,0,Cholera,Absolute,All,All,CHONRC1125,0,130,426,No
+1174,Liberia,2012,219,Cholera,Absolute,All,All,CHONRC1126,0,130,430,No
+1175,Liberia,2011,1146,Cholera,Absolute,All,All,CHONRC1127,0,130,430,No
+1176,Liberia,2010,1546,Cholera,Absolute,All,All,CHONRC1128,0,130,430,No
+1177,Liberia,2009,1070,Cholera,Absolute,All,All,CHONRC1129,0,130,430,No
+1178,Liberia,2008,1236,Cholera,Absolute,All,All,CHONRC1130,0,130,430,No
+1179,Liberia,2007,3063,Cholera,Absolute,All,All,CHONRC1131,0,130,430,No
+1180,Liberia,2006,4929,Cholera,Absolute,All,All,CHONRC1132,0,130,430,No
+1181,Liberia,2005,3823,Cholera,Absolute,All,All,CHONRC1133,0,130,430,No
+1182,Liberia,2004,2786,Cholera,Absolute,All,All,CHONRC1134,0,130,430,No
+1183,Liberia,2003,34740,Cholera,Absolute,All,All,CHONRC1135,0,130,430,No
+1184,Liberia,2002,1115,Cholera,Absolute,All,All,CHONRC1136,0,130,430,No
+1185,Liberia,2001,1062,Cholera,Absolute,All,All,CHONRC1137,0,130,430,No
+1186,Liberia,2000,365,Cholera,Absolute,All,All,CHONRC1138,0,130,430,No
+1187,Liberia,1999,215,Cholera,Absolute,All,All,CHONRC1139,0,130,430,No
+1188,Liberia,1998,2123,Cholera,Absolute,All,All,CHONRC1140,0,130,430,No
+1189,Liberia,1997,91,Cholera,Absolute,All,All,CHONRC1141,0,130,430,No
+1190,Liberia,1996,8922,Cholera,Absolute,All,All,CHONRC1142,0,130,430,No
+1191,Liberia,1995,3420,Cholera,Absolute,All,All,CHONRC1143,0,130,430,No
+1192,Liberia,1994,764,Cholera,Absolute,All,All,CHONRC1144,0,130,430,No
+1193,Liberia,1991,132,Cholera,Absolute,All,All,CHONRC1145,0,130,430,No
+1194,Liberia,1989,28,Cholera,Absolute,All,All,CHONRC1146,0,130,430,No
+1195,Liberia,1988,68,Cholera,Absolute,All,All,CHONRC1147,0,130,430,No
+1196,Liberia,1987,33,Cholera,Absolute,All,All,CHONRC1148,0,130,430,No
+1197,Liberia,1986,59,Cholera,Absolute,All,All,CHONRC1149,0,130,430,No
+1198,Liberia,1985,355,Cholera,Absolute,All,All,CHONRC1150,0,130,430,No
+1199,Liberia,1984,492,Cholera,Absolute,All,All,CHONRC1151,0,130,430,No
+1200,Liberia,1983,183,Cholera,Absolute,All,All,CHONRC1152,0,130,430,No
+1201,Liberia,1982,670,Cholera,Absolute,All,All,CHONRC1153,0,130,430,No
+1202,Liberia,1981,1582,Cholera,Absolute,All,All,CHONRC1154,0,130,430,No
+1203,Liberia,1980,2690,Cholera,Absolute,All,All,CHONRC1155,0,130,430,No
+1204,Liberia,1979,438,Cholera,Absolute,All,All,CHONRC1156,0,130,430,No
+1205,Liberia,1978,422,Cholera,Absolute,All,All,CHONRC1157,0,130,430,No
+1206,Liberia,1977,512,Cholera,Absolute,All,All,CHONRC1158,0,130,430,No
+1207,Liberia,1976,646,Cholera,Absolute,All,All,CHONRC1159,0,130,430,No
+1208,Liberia,1975,704,Cholera,Absolute,All,All,CHONRC1160,0,130,430,No
+1209,Liberia,1974,512,Cholera,Absolute,All,All,CHONRC1161,0,130,430,No
+1210,Liberia,1973,1336,Cholera,Absolute,All,All,CHONRC1162,0,130,430,No
+1211,Liberia,1972,947,Cholera,Absolute,All,All,CHONRC1163,0,130,430,No
+1212,Liberia,1971,606,Cholera,Absolute,All,All,CHONRC1164,0,130,430,No
+1213,Liberia,1970,168,Cholera,Absolute,All,All,CHONRC1165,0,130,430,No
+1214,Libya,1995,22,Cholera,Absolute,All,All,CHONRC1166,0,130,434,No
+1215,Libya,1970,1151,Cholera,Absolute,All,All,CHONRC1167,0,130,434,No
+1216,Madagascar,2006,0,Cholera,Absolute,All,All,CHONRC1168,0,130,450,No
+1217,Madagascar,2005,0,Cholera,Absolute,All,All,CHONRC1169,0,130,450,No
+1218,Madagascar,2003,5,Cholera,Absolute,All,All,CHONRC1170,0,130,450,No
+1219,Madagascar,2002,27,Cholera,Absolute,All,All,CHONRC1171,0,130,450,No
+1220,Madagascar,2001,7219,Cholera,Absolute,All,All,CHONRC1172,0,130,450,No
+1221,Madagascar,2000,29305,Cholera,Absolute,All,All,CHONRC1173,0,130,450,No
+1222,Madagascar,1999,9973,Cholera,Absolute,All,All,CHONRC1174,0,130,450,No
+1223,Madagascar,1996,0,Cholera,Absolute,All,All,CHONRC1175,0,130,450,No
+1224,Madagascar,1971,2,Cholera,Absolute,All,All,CHONRC1176,0,130,450,No
+1225,Malawi,2012,187,Cholera,Absolute,All,All,CHONRC1177,0,130,454,No
+1226,Malawi,2011,120,Cholera,Absolute,All,All,CHONRC1178,0,130,454,No
+1227,Malawi,2010,1155,Cholera,Absolute,All,All,CHONRC1179,0,130,454,No
+1228,Malawi,2009,5751,Cholera,Absolute,All,All,CHONRC1180,0,130,454,No
+1229,Malawi,2008,831,Cholera,Absolute,All,All,CHONRC1181,0,130,454,No
+1230,Malawi,2007,475,Cholera,Absolute,All,All,CHONRC1182,0,130,454,No
+1231,Malawi,2006,4148,Cholera,Absolute,All,All,CHONRC1183,0,130,454,No
+1232,Malawi,2005,1105,Cholera,Absolute,All,All,CHONRC1184,0,130,454,No
+1233,Malawi,2004,675,Cholera,Absolute,All,All,CHONRC1185,0,130,454,No
+1234,Malawi,2003,2736,Cholera,Absolute,All,All,CHONRC1186,0,130,454,No
+1235,Malawi,2002,32618,Cholera,Absolute,All,All,CHONRC1187,0,130,454,No
+1236,Malawi,2001,2395,Cholera,Absolute,All,All,CHONRC1188,0,130,454,No
+1237,Malawi,2000,2391,Cholera,Absolute,All,All,CHONRC1189,0,130,454,No
+1238,Malawi,1999,26508,Cholera,Absolute,All,All,CHONRC1190,0,130,454,No
+1239,Malawi,1998,1745,Cholera,Absolute,All,All,CHONRC1191,0,130,454,No
+1240,Malawi,1997,130,Cholera,Absolute,All,All,CHONRC1192,0,130,454,No
+1241,Malawi,1996,1,Cholera,Absolute,All,All,CHONRC1193,0,130,454,No
+1242,Malawi,1995,1,Cholera,Absolute,All,All,CHONRC1194,0,130,454,No
+1243,Malawi,1994,107,Cholera,Absolute,All,All,CHONRC1195,0,130,454,No
+1244,Malawi,1993,25193,Cholera,Absolute,All,All,CHONRC1196,0,130,454,No
+1245,Malawi,1992,298,Cholera,Absolute,All,All,CHONRC1197,0,130,454,No
+1246,Malawi,1991,8088,Cholera,Absolute,All,All,CHONRC1198,0,130,454,No
+1247,Malawi,1990,13457,Cholera,Absolute,All,All,CHONRC1199,0,130,454,No
+1248,Malawi,1989,8351,Cholera,Absolute,All,All,CHONRC1200,0,130,454,No
+1249,Malawi,1988,6,Cholera,Absolute,All,All,CHONRC1201,0,130,454,No
+1250,Malawi,1983,487,Cholera,Absolute,All,All,CHONRC1202,0,130,454,No
+1251,Malawi,1981,261,Cholera,Absolute,All,All,CHONRC1203,0,130,454,No
+1252,Malawi,1978,263,Cholera,Absolute,All,All,CHONRC1204,0,130,454,No
+1253,Malawi,1977,577,Cholera,Absolute,All,All,CHONRC1205,0,130,454,No
+1254,Malawi,1976,19,Cholera,Absolute,All,All,CHONRC1206,0,130,454,No
+1255,Malawi,1973,371,Cholera,Absolute,All,All,CHONRC1207,0,130,454,No
+1256,Malaysia,2012,282,Cholera,Absolute,All,All,CHONRC1208,0,130,458,No
+1257,Malaysia,2011,586,Cholera,Absolute,All,All,CHONRC1209,0,130,458,No
+1258,Malaysia,2010,443,Cholera,Absolute,All,All,CHONRC1210,0,130,458,No
+1259,Malaysia,2009,187,Cholera,Absolute,All,All,CHONRC1211,0,130,458,No
+1260,Malaysia,2007,0,Cholera,Absolute,All,All,CHONRC1212,0,130,458,No
+1261,Malaysia,2006,237,Cholera,Absolute,All,All,CHONRC1213,0,130,458,No
+1262,Malaysia,2004,16,Cholera,Absolute,All,All,CHONRC1214,0,130,458,No
+1263,Malaysia,2001,557,Cholera,Absolute,All,All,CHONRC1215,0,130,458,No
+1264,Malaysia,2000,124,Cholera,Absolute,All,All,CHONRC1216,0,130,458,No
+1265,Malaysia,1999,535,Cholera,Absolute,All,All,CHONRC1217,0,130,458,No
+1266,Malaysia,1998,1304,Cholera,Absolute,All,All,CHONRC1218,0,130,458,No
+1267,Malaysia,1997,389,Cholera,Absolute,All,All,CHONRC1219,0,130,458,No
+1268,Malaysia,1996,1486,Cholera,Absolute,All,All,CHONRC1220,0,130,458,No
+1269,Malaysia,1995,2209,Cholera,Absolute,All,All,CHONRC1221,0,130,458,No
+1270,Malaysia,1994,534,Cholera,Absolute,All,All,CHONRC1222,0,130,458,No
+1271,Malaysia,1993,995,Cholera,Absolute,All,All,CHONRC1223,0,130,458,No
+1272,Malaysia,1992,474,Cholera,Absolute,All,All,CHONRC1224,0,130,458,No
+1273,Malaysia,1991,506,Cholera,Absolute,All,All,CHONRC1225,0,130,458,No
+1274,Malaysia,1990,2071,Cholera,Absolute,All,All,CHONRC1226,0,130,458,No
+1275,Malaysia,1989,393,Cholera,Absolute,All,All,CHONRC1227,0,130,458,No
+1276,Malaysia,1988,1324,Cholera,Absolute,All,All,CHONRC1228,0,130,458,No
+1277,Malaysia,1987,1168,Cholera,Absolute,All,All,CHONRC1229,0,130,458,No
+1278,Malaysia,1986,55,Cholera,Absolute,All,All,CHONRC1230,0,130,458,No
+1279,Malaysia,1985,52,Cholera,Absolute,All,All,CHONRC1231,0,130,458,No
+1280,Malaysia,1984,67,Cholera,Absolute,All,All,CHONRC1232,0,130,458,No
+1281,Malaysia,1983,2195,Cholera,Absolute,All,All,CHONRC1233,0,130,458,No
+1282,Malaysia,1982,516,Cholera,Absolute,All,All,CHONRC1234,0,130,458,No
+1283,Malaysia,1981,469,Cholera,Absolute,All,All,CHONRC1235,0,130,458,No
+1284,Malaysia,1980,97,Cholera,Absolute,All,All,CHONRC1236,0,130,458,No
+1285,Malaysia,1979,502,Cholera,Absolute,All,All,CHONRC1237,0,130,458,No
+1286,Malaysia,1978,1635,Cholera,Absolute,All,All,CHONRC1238,0,130,458,No
+1287,Malaysia,1977,444,Cholera,Absolute,All,All,CHONRC1239,0,130,458,No
+1288,Malaysia,1976,246,Cholera,Absolute,All,All,CHONRC1240,0,130,458,No
+1289,Malaysia,1975,110,Cholera,Absolute,All,All,CHONRC1241,0,130,458,No
+1290,Malaysia,1974,349,Cholera,Absolute,All,All,CHONRC1242,0,130,458,No
+1291,Malaysia,1973,369,Cholera,Absolute,All,All,CHONRC1243,0,130,458,No
+1292,Malaysia,1972,864,Cholera,Absolute,All,All,CHONRC1244,0,130,458,No
+1293,Malaysia,1971,53,Cholera,Absolute,All,All,CHONRC1245,0,130,458,No
+1294,Malaysia,1970,106,Cholera,Absolute,All,All,CHONRC1246,0,130,458,No
+1295,Malaysia,1969,70,Cholera,Absolute,All,All,CHONRC1247,0,130,458,No
+1296,Malaysia,1968,15,Cholera,Absolute,All,All,CHONRC1248,0,130,458,No
+1297,Malaysia,1966,5,Cholera,Absolute,All,All,CHONRC1249,0,130,458,No
+1298,Malaysia,1965,16,Cholera,Absolute,All,All,CHONRC1250,0,130,458,No
+1299,Malaysia,1964,512,Cholera,Absolute,All,All,CHONRC1251,0,130,458,No
+1300,Malaysia,1963,349,Cholera,Absolute,All,All,CHONRC1252,0,130,458,No
+1301,Malaysia,1954,1,Cholera,Absolute,All,All,CHONRC1253,0,130,458,No
+1302,Maldives,1978,11336,Cholera,Absolute,All,All,CHONRC1254,0,130,462,No
+1303,Mali,2012,219,Cholera,Absolute,All,All,CHONRC1255,0,130,466,No
+1304,Mali,2011,2220,Cholera,Absolute,All,All,CHONRC1256,0,130,466,No
+1305,Mali,2008,153,Cholera,Absolute,All,All,CHONRC1257,0,130,466,No
+1306,Mali,2006,7,Cholera,Absolute,All,All,CHONRC1258,0,130,466,No
+1307,Mali,2005,1178,Cholera,Absolute,All,All,CHONRC1259,0,130,466,No
+1308,Mali,2004,2839,Cholera,Absolute,All,All,CHONRC1260,0,130,466,No
+1309,Mali,2003,1455,Cholera,Absolute,All,All,CHONRC1261,0,130,466,No
+1310,Mali,2002,18,Cholera,Absolute,All,All,CHONRC1262,0,130,466,No
+1311,Mali,2001,67,Cholera,Absolute,All,All,CHONRC1263,0,130,466,No
+1312,Mali,2000,1885,Cholera,Absolute,All,All,CHONRC1264,0,130,466,No
+1313,Mali,1999,6,Cholera,Absolute,All,All,CHONRC1265,0,130,466,No
+1314,Mali,1997,6,Cholera,Absolute,All,All,CHONRC1266,0,130,466,No
+1315,Mali,1996,5723,Cholera,Absolute,All,All,CHONRC1267,0,130,466,No
+1316,Mali,1995,2191,Cholera,Absolute,All,All,CHONRC1268,0,130,466,No
+1317,Mali,1987,352,Cholera,Absolute,All,All,CHONRC1269,0,130,466,No
+1318,Mali,1986,1916,Cholera,Absolute,All,All,CHONRC1270,0,130,466,No
+1319,Mali,1985,3759,Cholera,Absolute,All,All,CHONRC1271,0,130,466,No
+1320,Mali,1984,1795,Cholera,Absolute,All,All,CHONRC1272,0,130,466,No
+1321,Mali,1974,130,Cholera,Absolute,All,All,CHONRC1273,0,130,466,No
+1322,Mali,1973,219,Cholera,Absolute,All,All,CHONRC1274,0,130,466,No
+1323,Mali,1972,2,Cholera,Absolute,All,All,CHONRC1275,0,130,466,No
+1324,Mali,1971,4792,Cholera,Absolute,All,All,CHONRC1276,0,130,466,No
+1325,Mali,1970,2665,Cholera,Absolute,All,All,CHONRC1277,0,130,466,No
+1326,Marshall Islands,2000,300,Cholera,Absolute,All,All,CHONRC1278,0,130,584,No
+1327,Mauritania,2011,46,Cholera,Absolute,All,All,CHONRC1279,0,130,478,No
+1328,Mauritania,2007,3,Cholera,Absolute,All,All,CHONRC1280,0,130,478,No
+1329,Mauritania,2006,25,Cholera,Absolute,All,All,CHONRC1281,0,130,478,No
+1330,Mauritania,2005,4132,Cholera,Absolute,All,All,CHONRC1282,0,130,478,No
+1331,Mauritania,2003,34,Cholera,Absolute,All,All,CHONRC1283,0,130,478,No
+1332,Mauritania,2002,80,Cholera,Absolute,All,All,CHONRC1284,0,130,478,No
+1333,Mauritania,1997,462,Cholera,Absolute,All,All,CHONRC1285,0,130,478,No
+1334,Mauritania,1996,4534,Cholera,Absolute,All,All,CHONRC1286,0,130,478,No
+1335,Mauritania,1989,700,Cholera,Absolute,All,All,CHONRC1287,0,130,478,No
+1336,Mauritania,1988,575,Cholera,Absolute,All,All,CHONRC1288,0,130,478,No
+1337,Mauritania,1987,1578,Cholera,Absolute,All,All,CHONRC1289,0,130,478,No
+1338,Mauritania,1986,3734,Cholera,Absolute,All,All,CHONRC1290,0,130,478,No
+1339,Mauritania,1985,259,Cholera,Absolute,All,All,CHONRC1291,0,130,478,No
+1340,Mauritania,1984,166,Cholera,Absolute,All,All,CHONRC1292,0,130,478,No
+1341,Mauritania,1973,150,Cholera,Absolute,All,All,CHONRC1293,0,130,478,No
+1342,Mauritania,1972,148,Cholera,Absolute,All,All,CHONRC1294,0,130,478,No
+1343,Mauritania,1971,1139,Cholera,Absolute,All,All,CHONRC1295,0,130,478,No
+1344,Mauritius,2006,0,Cholera,Absolute,All,All,CHONRC1296,0,130,480,No
+1345,Mauritius,2005,0,Cholera,Absolute,All,All,CHONRC1297,0,130,480,No
+1346,Mexico,2012,2,Cholera,Absolute,All,All,CHONRC1298,0,130,484,No
+1347,Mexico,2011,1,Cholera,Absolute,All,All,CHONRC1299,0,130,484,No
+1348,Mexico,2010,1,Cholera,Absolute,All,All,CHONRC1300,0,130,484,No
+1349,Mexico,2008,1,Cholera,Absolute,All,All,CHONRC1301,0,130,484,No
+1350,Mexico,2001,1,Cholera,Absolute,All,All,CHONRC1302,0,130,484,No
+1351,Mexico,2000,5,Cholera,Absolute,All,All,CHONRC1303,0,130,484,No
+1352,Mexico,1998,71,Cholera,Absolute,All,All,CHONRC1304,0,130,484,No
+1353,Mexico,1997,2356,Cholera,Absolute,All,All,CHONRC1305,0,130,484,No
+1354,Mexico,1996,1088,Cholera,Absolute,All,All,CHONRC1306,0,130,484,No
+1355,Mexico,1995,16430,Cholera,Absolute,All,All,CHONRC1307,0,130,484,No
+1356,Mexico,1994,4059,Cholera,Absolute,All,All,CHONRC1308,0,130,484,No
+1357,Mexico,1993,10712,Cholera,Absolute,All,All,CHONRC1309,0,130,484,No
+1358,Mexico,1992,8162,Cholera,Absolute,All,All,CHONRC1310,0,130,484,No
+1359,Mexico,1991,2690,Cholera,Absolute,All,All,CHONRC1311,0,130,484,No
+1360,Micronesia (Federated States of),2005,0,Cholera,Absolute,All,All,CHONRC1312,0,130,583,No
+1361,Micronesia (Federated States of),2001,14,Cholera,Absolute,All,All,CHONRC1313,0,130,583,No
+1362,Micronesia (Federated States of),2000,3452,Cholera,Absolute,All,All,CHONRC1314,0,130,583,No
+1363,Micronesia (Federated States of),1996,1,Cholera,Absolute,All,All,CHONRC1315,0,130,583,No
+1364,Micronesia (Federated States of),1990,34,Cholera,Absolute,All,All,CHONRC1316,0,130,583,No
+1365,Mongolia,2005,0,Cholera,Absolute,All,All,CHONRC1317,0,130,496,No
+1366,Mongolia,1996,177,Cholera,Absolute,All,All,CHONRC1318,0,130,496,No
+1367,Morocco,1994,6,Cholera,Absolute,All,All,CHONRC1319,0,130,504,No
+1368,Morocco,1990,4573,Cholera,Absolute,All,All,CHONRC1320,0,130,504,No
+1369,Morocco,1976,2,Cholera,Absolute,All,All,CHONRC1321,0,130,504,No
+1370,Morocco,1972,7,Cholera,Absolute,All,All,CHONRC1322,0,130,504,No
+1371,Morocco,1971,56,Cholera,Absolute,All,All,CHONRC1323,0,130,504,No
+1372,Mozambique,2012,647,Cholera,Absolute,All,All,CHONRC1324,0,130,508,No
+1373,Mozambique,2011,1279,Cholera,Absolute,All,All,CHONRC1325,0,130,508,No
+1374,Mozambique,2010,7430,Cholera,Absolute,All,All,CHONRC1326,0,130,508,No
+1375,Mozambique,2009,19679,Cholera,Absolute,All,All,CHONRC1327,0,130,508,No
+1376,Mozambique,2008,9087,Cholera,Absolute,All,All,CHONRC1328,0,130,508,No
+1377,Mozambique,2007,2622,Cholera,Absolute,All,All,CHONRC1329,0,130,508,No
+1378,Mozambique,2006,6306,Cholera,Absolute,All,All,CHONRC1330,0,130,508,No
+1379,Mozambique,2005,2226,Cholera,Absolute,All,All,CHONRC1331,0,130,508,No
+1380,Mozambique,2004,20080,Cholera,Absolute,All,All,CHONRC1332,0,130,508,No
+1381,Mozambique,2003,13758,Cholera,Absolute,All,All,CHONRC1333,0,130,508,No
+1382,Mozambique,2002,24375,Cholera,Absolute,All,All,CHONRC1334,0,130,508,No
+1383,Mozambique,2001,8794,Cholera,Absolute,All,All,CHONRC1335,0,130,508,No
+1384,Mozambique,2000,17649,Cholera,Absolute,All,All,CHONRC1336,0,130,508,No
+1385,Mozambique,1999,44329,Cholera,Absolute,All,All,CHONRC1337,0,130,508,No
+1386,Mozambique,1998,42672,Cholera,Absolute,All,All,CHONRC1338,0,130,508,No
+1387,Mozambique,1997,8739,Cholera,Absolute,All,All,CHONRC1339,0,130,508,No
+1388,Mozambique,1996,0,Cholera,Absolute,All,All,CHONRC1340,0,130,508,No
+1389,Mozambique,1994,692,Cholera,Absolute,All,All,CHONRC1341,0,130,508,No
+1390,Mozambique,1993,19803,Cholera,Absolute,All,All,CHONRC1342,0,130,508,No
+1391,Mozambique,1992,30802,Cholera,Absolute,All,All,CHONRC1343,0,130,508,No
+1392,Mozambique,1991,7847,Cholera,Absolute,All,All,CHONRC1344,0,130,508,No
+1393,Mozambique,1990,4152,Cholera,Absolute,All,All,CHONRC1345,0,130,508,No
+1394,Mozambique,1989,371,Cholera,Absolute,All,All,CHONRC1346,0,130,508,No
+1395,Mozambique,1986,1,Cholera,Absolute,All,All,CHONRC1347,0,130,508,No
+1396,Mozambique,1985,3,Cholera,Absolute,All,All,CHONRC1348,0,130,508,No
+1397,Mozambique,1984,521,Cholera,Absolute,All,All,CHONRC1349,0,130,508,No
+1398,Mozambique,1983,10745,Cholera,Absolute,All,All,CHONRC1350,0,130,508,No
+1399,Mozambique,1982,2301,Cholera,Absolute,All,All,CHONRC1351,0,130,508,No
+1400,Mozambique,1981,1753,Cholera,Absolute,All,All,CHONRC1352,0,130,508,No
+1401,Mozambique,1980,1212,Cholera,Absolute,All,All,CHONRC1353,0,130,508,No
+1402,Mozambique,1979,4564,Cholera,Absolute,All,All,CHONRC1354,0,130,508,No
+1403,Mozambique,1977,18,Cholera,Absolute,All,All,CHONRC1355,0,130,508,No
+1404,Mozambique,1976,3,Cholera,Absolute,All,All,CHONRC1356,0,130,508,No
+1405,Mozambique,1975,11,Cholera,Absolute,All,All,CHONRC1357,0,130,508,No
+1406,Mozambique,1974,1018,Cholera,Absolute,All,All,CHONRC1358,0,130,508,No
+1407,Mozambique,1973,453,Cholera,Absolute,All,All,CHONRC1359,0,130,508,No
+1408,Myanmar,2012,174,Cholera,Absolute,All,All,CHONRC1360,0,130,104,No
+1409,Myanmar,2011,16,Cholera,Absolute,All,All,CHONRC1361,0,130,104,No
+1410,Myanmar,2008,45,Cholera,Absolute,All,All,CHONRC1362,0,130,104,No
+1411,Myanmar,1995,1296,Cholera,Absolute,All,All,CHONRC1363,0,130,104,No
+1412,Myanmar,1994,421,Cholera,Absolute,All,All,CHONRC1364,0,130,104,No
+1413,Myanmar,1993,1758,Cholera,Absolute,All,All,CHONRC1365,0,130,104,No
+1414,Myanmar,1992,826,Cholera,Absolute,All,All,CHONRC1366,0,130,104,No
+1415,Myanmar,1991,924,Cholera,Absolute,All,All,CHONRC1367,0,130,104,No
+1416,Myanmar,1989,597,Cholera,Absolute,All,All,CHONRC1368,0,130,104,No
+1417,Myanmar,1983,989,Cholera,Absolute,All,All,CHONRC1369,0,130,104,No
+1418,Myanmar,1981,28,Cholera,Absolute,All,All,CHONRC1370,0,130,104,No
+1419,Myanmar,1980,1018,Cholera,Absolute,All,All,CHONRC1371,0,130,104,No
+1420,Myanmar,1979,874,Cholera,Absolute,All,All,CHONRC1372,0,130,104,No
+1421,Myanmar,1978,3551,Cholera,Absolute,All,All,CHONRC1373,0,130,104,No
+1422,Myanmar,1976,1519,Cholera,Absolute,All,All,CHONRC1374,0,130,104,No
+1423,Myanmar,1975,2942,Cholera,Absolute,All,All,CHONRC1375,0,130,104,No
+1424,Myanmar,1974,2363,Cholera,Absolute,All,All,CHONRC1376,0,130,104,No
+1425,Myanmar,1973,386,Cholera,Absolute,All,All,CHONRC1377,0,130,104,No
+1426,Myanmar,1972,180,Cholera,Absolute,All,All,CHONRC1378,0,130,104,No
+1427,Myanmar,1971,378,Cholera,Absolute,All,All,CHONRC1379,0,130,104,No
+1428,Myanmar,1970,911,Cholera,Absolute,All,All,CHONRC1380,0,130,104,No
+1429,Myanmar,1969,205,Cholera,Absolute,All,All,CHONRC1381,0,130,104,No
+1430,Myanmar,1968,3,Cholera,Absolute,All,All,CHONRC1382,0,130,104,No
+1431,Myanmar,1967,9,Cholera,Absolute,All,All,CHONRC1383,0,130,104,No
+1432,Myanmar,1966,263,Cholera,Absolute,All,All,CHONRC1384,0,130,104,No
+1433,Myanmar,1965,207,Cholera,Absolute,All,All,CHONRC1385,0,130,104,No
+1434,Myanmar,1964,922,Cholera,Absolute,All,All,CHONRC1386,0,130,104,No
+1435,Myanmar,1963,3019,Cholera,Absolute,All,All,CHONRC1387,0,130,104,No
+1436,Myanmar,1962,1,Cholera,Absolute,All,All,CHONRC1388,0,130,104,No
+1437,Myanmar,1961,1,Cholera,Absolute,All,All,CHONRC1389,0,130,104,No
+1438,Myanmar,1960,259,Cholera,Absolute,All,All,CHONRC1390,0,130,104,No
+1439,Myanmar,1959,3,Cholera,Absolute,All,All,CHONRC1391,0,130,104,No
+1440,Myanmar,1958,7,Cholera,Absolute,All,All,CHONRC1392,0,130,104,No
+1441,Myanmar,1957,10,Cholera,Absolute,All,All,CHONRC1393,0,130,104,No
+1442,Myanmar,1956,13,Cholera,Absolute,All,All,CHONRC1394,0,130,104,No
+1443,Myanmar,1955,42,Cholera,Absolute,All,All,CHONRC1395,0,130,104,No
+1444,Myanmar,1954,35,Cholera,Absolute,All,All,CHONRC1396,0,130,104,No
+1445,Myanmar,1953,22,Cholera,Absolute,All,All,CHONRC1397,0,130,104,No
+1446,Myanmar,1952,347,Cholera,Absolute,All,All,CHONRC1398,0,130,104,No
+1447,Myanmar,1951,6753,Cholera,Absolute,All,All,CHONRC1399,0,130,104,No
+1448,Myanmar,1950,4212,Cholera,Absolute,All,All,CHONRC1400,0,130,104,No
+1449,Namibia,2009,159,Cholera,Absolute,All,All,CHONRC1401,0,130,516,No
+1450,Namibia,2008,3496,Cholera,Absolute,All,All,CHONRC1402,0,130,516,No
+1451,Namibia,2007,14,Cholera,Absolute,All,All,CHONRC1403,0,130,516,No
+1452,Namibia,2006,185,Cholera,Absolute,All,All,CHONRC1404,0,130,516,No
+1453,Namibia,2005,0,Cholera,Absolute,All,All,CHONRC1405,0,130,516,No
+1454,Nauru,1979,50,Cholera,Absolute,All,All,CHONRC1406,0,130,520,No
+1455,Nauru,1978,38,Cholera,Absolute,All,All,CHONRC1407,0,130,520,No
+1456,Nepal,2012,34,Cholera,Absolute,All,All,CHONRC1408,0,130,524,No
+1457,Nepal,2011,12,Cholera,Absolute,All,All,CHONRC1409,0,130,524,No
+1458,Nepal,2010,1790,Cholera,Absolute,All,All,CHONRC1410,0,130,524,No
+1459,Nepal,2009,82,Cholera,Absolute,All,All,CHONRC1411,0,130,524,No
+1460,Nepal,2007,264,Cholera,Absolute,All,All,CHONRC1412,0,130,524,No
+1461,Nepal,1998,1745,Cholera,Absolute,All,All,CHONRC1413,0,130,524,No
+1462,Nepal,1997,245,Cholera,Absolute,All,All,CHONRC1414,0,130,524,No
+1463,Nepal,1996,274,Cholera,Absolute,All,All,CHONRC1415,0,130,524,No
+1464,Nepal,1995,157,Cholera,Absolute,All,All,CHONRC1416,0,130,524,No
+1465,Nepal,1994,32,Cholera,Absolute,All,All,CHONRC1417,0,130,524,No
+1466,Nepal,1993,31,Cholera,Absolute,All,All,CHONRC1418,0,130,524,No
+1467,Nepal,1992,798,Cholera,Absolute,All,All,CHONRC1419,0,130,524,No
+1468,Nepal,1991,30648,Cholera,Absolute,All,All,CHONRC1420,0,130,524,No
+1469,Nepal,1990,23888,Cholera,Absolute,All,All,CHONRC1421,0,130,524,No
+1470,Nepal,1989,141,Cholera,Absolute,All,All,CHONRC1422,0,130,524,No
+1471,Nepal,1981,24,Cholera,Absolute,All,All,CHONRC1423,0,130,524,No
+1472,Nepal,1980,1,Cholera,Absolute,All,All,CHONRC1424,0,130,524,No
+1473,Nepal,1979,22,Cholera,Absolute,All,All,CHONRC1425,0,130,524,No
+1474,Nepal,1978,1662,Cholera,Absolute,All,All,CHONRC1426,0,130,524,No
+1475,Nepal,1977,428,Cholera,Absolute,All,All,CHONRC1427,0,130,524,No
+1476,Nepal,1976,185,Cholera,Absolute,All,All,CHONRC1428,0,130,524,No
+1477,Nepal,1975,260,Cholera,Absolute,All,All,CHONRC1429,0,130,524,No
+1478,Nepal,1974,8,Cholera,Absolute,All,All,CHONRC1430,0,130,524,No
+1479,Nepal,1973,7,Cholera,Absolute,All,All,CHONRC1431,0,130,524,No
+1480,Nepal,1972,1,Cholera,Absolute,All,All,CHONRC1432,0,130,524,No
+1481,Nepal,1971,4,Cholera,Absolute,All,All,CHONRC1433,0,130,524,No
+1482,Nepal,1970,391,Cholera,Absolute,All,All,CHONRC1434,0,130,524,No
+1483,Nepal,1969,226,Cholera,Absolute,All,All,CHONRC1435,0,130,524,No
+1484,Nepal,1968,34,Cholera,Absolute,All,All,CHONRC1436,0,130,524,No
+1485,Nepal,1966,2,Cholera,Absolute,All,All,CHONRC1437,0,130,524,No
+1486,Nepal,1965,727,Cholera,Absolute,All,All,CHONRC1438,0,130,524,No
+1487,Nepal,1958,2706,Cholera,Absolute,All,All,CHONRC1439,0,130,524,No
+1488,Netherlands,2008,5,Cholera,Absolute,All,All,CHONRC1440,0,130,528,No
+1489,Netherlands,2006,3,Cholera,Absolute,All,All,CHONRC1441,0,130,528,No
+1490,Netherlands,2005,4,Cholera,Absolute,All,All,CHONRC1442,0,130,528,No
+1491,Netherlands,2004,1,Cholera,Absolute,All,All,CHONRC1443,0,130,528,No
+1492,Netherlands,2003,1,Cholera,Absolute,All,All,CHONRC1444,0,130,528,No
+1493,Netherlands,2002,1,Cholera,Absolute,All,All,CHONRC1445,0,130,528,No
+1494,Netherlands,2000,1,Cholera,Absolute,All,All,CHONRC1446,0,130,528,No
+1495,Netherlands,1999,2,Cholera,Absolute,All,All,CHONRC1447,0,130,528,No
+1496,Netherlands,1998,4,Cholera,Absolute,All,All,CHONRC1448,0,130,528,No
+1497,Netherlands,1997,2,Cholera,Absolute,All,All,CHONRC1449,0,130,528,No
+1498,Netherlands,1996,3,Cholera,Absolute,All,All,CHONRC1450,0,130,528,No
+1499,Netherlands,1995,9,Cholera,Absolute,All,All,CHONRC1451,0,130,528,No
+1500,Netherlands,1994,1,Cholera,Absolute,All,All,CHONRC1452,0,130,528,No
+1501,Netherlands,1993,3,Cholera,Absolute,All,All,CHONRC1453,0,130,528,No
+1502,Netherlands,1990,3,Cholera,Absolute,All,All,CHONRC1454,0,130,528,No
+1503,Netherlands,1988,1,Cholera,Absolute,All,All,CHONRC1455,0,130,528,No
+1504,Netherlands,1983,2,Cholera,Absolute,All,All,CHONRC1456,0,130,528,No
+1505,Netherlands,1981,2,Cholera,Absolute,All,All,CHONRC1457,0,130,528,No
+1506,Netherlands,1979,5,Cholera,Absolute,All,All,CHONRC1458,0,130,528,No
+1507,Netherlands,1978,4,Cholera,Absolute,All,All,CHONRC1459,0,130,528,No
+1508,Netherlands,1977,1,Cholera,Absolute,All,All,CHONRC1460,0,130,528,No
+1509,Netherlands,1976,1,Cholera,Absolute,All,All,CHONRC1461,0,130,528,No
+1510,New Zealand,2005,1,Cholera,Absolute,All,All,CHONRC1462,0,130,554,No
+1511,New Zealand,2005,1,Cholera,Absolute,All,All,CHONRC1462,0,130,554,No
+1512,New Zealand,2001,1,Cholera,Absolute,All,All,CHONRC1463,0,130,554,No
+1513,New Zealand,2001,1,Cholera,Absolute,All,All,CHONRC1463,0,130,554,No
+1514,New Zealand,1999,1,Cholera,Absolute,All,All,CHONRC1464,0,130,554,No
+1515,New Zealand,1999,1,Cholera,Absolute,All,All,CHONRC1464,0,130,554,No
+1516,New Zealand,1998,1,Cholera,Absolute,All,All,CHONRC1465,0,130,554,No
+1517,New Zealand,1998,1,Cholera,Absolute,All,All,CHONRC1465,0,130,554,No
+1518,New Zealand,1995,2,Cholera,Absolute,All,All,CHONRC1466,0,130,554,No
+1519,New Zealand,1995,2,Cholera,Absolute,All,All,CHONRC1466,0,130,554,No
+1520,New Zealand,1994,2,Cholera,Absolute,All,All,CHONRC1467,0,130,554,No
+1521,New Zealand,1994,2,Cholera,Absolute,All,All,CHONRC1467,0,130,554,No
+1522,New Zealand,1990,5,Cholera,Absolute,All,All,CHONRC1468,0,130,554,No
+1523,New Zealand,1990,5,Cholera,Absolute,All,All,CHONRC1468,0,130,554,No
+1524,New Zealand,1987,2,Cholera,Absolute,All,All,CHONRC1469,0,130,554,No
+1525,New Zealand,1987,2,Cholera,Absolute,All,All,CHONRC1469,0,130,554,No
+1526,New Zealand,1972,3,Cholera,Absolute,All,All,CHONRC1470,0,130,554,No
+1527,New Zealand,1972,3,Cholera,Absolute,All,All,CHONRC1470,0,130,554,No
+1528,Nicaragua,2000,12,Cholera,Absolute,All,All,CHONRC1471,0,130,558,No
+1529,Nicaragua,1999,552,Cholera,Absolute,All,All,CHONRC1472,0,130,558,No
+1530,Nicaragua,1998,1437,Cholera,Absolute,All,All,CHONRC1473,0,130,558,No
+1531,Nicaragua,1997,1283,Cholera,Absolute,All,All,CHONRC1474,0,130,558,No
+1532,Nicaragua,1996,2813,Cholera,Absolute,All,All,CHONRC1475,0,130,558,No
+1533,Nicaragua,1995,8825,Cholera,Absolute,All,All,CHONRC1476,0,130,558,No
+1534,Nicaragua,1994,7821,Cholera,Absolute,All,All,CHONRC1477,0,130,558,No
+1535,Nicaragua,1993,6631,Cholera,Absolute,All,All,CHONRC1478,0,130,558,No
+1536,Nicaragua,1992,3067,Cholera,Absolute,All,All,CHONRC1479,0,130,558,No
+1537,Nicaragua,1991,1,Cholera,Absolute,All,All,CHONRC1480,0,130,558,No
+1538,Niger,2012,5284,Cholera,Absolute,All,All,CHONRC1481,0,130,562,No
+1539,Niger,2011,2324,Cholera,Absolute,All,All,CHONRC1482,0,130,562,No
+1540,Niger,2010,1154,Cholera,Absolute,All,All,CHONRC1483,0,130,562,No
+1541,Niger,2008,972,Cholera,Absolute,All,All,CHONRC1484,0,130,562,No
+1542,Niger,2007,24,Cholera,Absolute,All,All,CHONRC1485,0,130,562,No
+1543,Niger,2006,1232,Cholera,Absolute,All,All,CHONRC1486,0,130,562,No
+1544,Niger,2005,553,Cholera,Absolute,All,All,CHONRC1487,0,130,562,No
+1545,Niger,2004,2178,Cholera,Absolute,All,All,CHONRC1488,0,130,562,No
+1546,Niger,2003,292,Cholera,Absolute,All,All,CHONRC1489,0,130,562,No
+1547,Niger,2002,236,Cholera,Absolute,All,All,CHONRC1490,0,130,562,No
+1548,Niger,2001,81,Cholera,Absolute,All,All,CHONRC1491,0,130,562,No
+1549,Niger,2000,225,Cholera,Absolute,All,All,CHONRC1492,0,130,562,No
+1550,Niger,1999,1186,Cholera,Absolute,All,All,CHONRC1493,0,130,562,No
+1551,Niger,1997,259,Cholera,Absolute,All,All,CHONRC1494,0,130,562,No
+1552,Niger,1996,3957,Cholera,Absolute,All,All,CHONRC1495,0,130,562,No
+1553,Niger,1995,264,Cholera,Absolute,All,All,CHONRC1496,0,130,562,No
+1554,Niger,1994,732,Cholera,Absolute,All,All,CHONRC1497,0,130,562,No
+1555,Niger,1991,3238,Cholera,Absolute,All,All,CHONRC1498,0,130,562,No
+1556,Niger,1989,166,Cholera,Absolute,All,All,CHONRC1499,0,130,562,No
+1557,Niger,1984,3788,Cholera,Absolute,All,All,CHONRC1500,0,130,562,No
+1558,Niger,1981,7,Cholera,Absolute,All,All,CHONRC1501,0,130,562,No
+1559,Niger,1974,286,Cholera,Absolute,All,All,CHONRC1502,0,130,562,No
+1560,Niger,1973,121,Cholera,Absolute,All,All,CHONRC1503,0,130,562,No
+1561,Niger,1972,51,Cholera,Absolute,All,All,CHONRC1504,0,130,562,No
+1562,Niger,1971,9265,Cholera,Absolute,All,All,CHONRC1505,0,130,562,No
+1563,Niger,1970,16,Cholera,Absolute,All,All,CHONRC1506,0,130,562,No
+1564,Nigeria,2012,597,Cholera,Absolute,All,All,CHONRC1507,0,130,566,No
+1565,Nigeria,2011,23377,Cholera,Absolute,All,All,CHONRC1508,0,130,566,No
+1566,Nigeria,2010,44456,Cholera,Absolute,All,All,CHONRC1509,0,130,566,No
+1567,Nigeria,2009,13691,Cholera,Absolute,All,All,CHONRC1510,0,130,566,No
+1568,Nigeria,2008,5410,Cholera,Absolute,All,All,CHONRC1511,0,130,566,No
+1569,Nigeria,2007,1661,Cholera,Absolute,All,All,CHONRC1512,0,130,566,No
+1570,Nigeria,2006,2028,Cholera,Absolute,All,All,CHONRC1513,0,130,566,No
+1571,Nigeria,2005,4477,Cholera,Absolute,All,All,CHONRC1514,0,130,566,No
+1572,Nigeria,2004,3186,Cholera,Absolute,All,All,CHONRC1515,0,130,566,No
+1573,Nigeria,2003,1933,Cholera,Absolute,All,All,CHONRC1516,0,130,566,No
+1574,Nigeria,2002,5429,Cholera,Absolute,All,All,CHONRC1517,0,130,566,No
+1575,Nigeria,2001,2312,Cholera,Absolute,All,All,CHONRC1518,0,130,566,No
+1576,Nigeria,2000,2799,Cholera,Absolute,All,All,CHONRC1519,0,130,566,No
+1577,Nigeria,1999,26358,Cholera,Absolute,All,All,CHONRC1520,0,130,566,No
+1578,Nigeria,1998,3464,Cholera,Absolute,All,All,CHONRC1521,0,130,566,No
+1579,Nigeria,1997,1322,Cholera,Absolute,All,All,CHONRC1522,0,130,566,No
+1580,Nigeria,1996,12374,Cholera,Absolute,All,All,CHONRC1523,0,130,566,No
+1581,Nigeria,1995,1059,Cholera,Absolute,All,All,CHONRC1524,0,130,566,No
+1582,Nigeria,1994,2859,Cholera,Absolute,All,All,CHONRC1525,0,130,566,No
+1583,Nigeria,1993,4160,Cholera,Absolute,All,All,CHONRC1526,0,130,566,No
+1584,Nigeria,1992,8687,Cholera,Absolute,All,All,CHONRC1527,0,130,566,No
+1585,Nigeria,1991,59478,Cholera,Absolute,All,All,CHONRC1528,0,130,566,No
+1586,Nigeria,1989,1078,Cholera,Absolute,All,All,CHONRC1529,0,130,566,No
+1587,Nigeria,1988,137,Cholera,Absolute,All,All,CHONRC1530,0,130,566,No
+1588,Nigeria,1987,1290,Cholera,Absolute,All,All,CHONRC1531,0,130,566,No
+1589,Nigeria,1986,91,Cholera,Absolute,All,All,CHONRC1532,0,130,566,No
+1590,Nigeria,1985,30,Cholera,Absolute,All,All,CHONRC1533,0,130,566,No
+1591,Nigeria,1984,1667,Cholera,Absolute,All,All,CHONRC1534,0,130,566,No
+1592,Nigeria,1983,178,Cholera,Absolute,All,All,CHONRC1535,0,130,566,No
+1593,Nigeria,1982,248,Cholera,Absolute,All,All,CHONRC1536,0,130,566,No
+1594,Nigeria,1981,107,Cholera,Absolute,All,All,CHONRC1537,0,130,566,No
+1595,Nigeria,1980,138,Cholera,Absolute,All,All,CHONRC1538,0,130,566,No
+1596,Nigeria,1979,293,Cholera,Absolute,All,All,CHONRC1539,0,130,566,No
+1597,Nigeria,1978,197,Cholera,Absolute,All,All,CHONRC1540,0,130,566,No
+1598,Nigeria,1977,376,Cholera,Absolute,All,All,CHONRC1541,0,130,566,No
+1599,Nigeria,1976,112,Cholera,Absolute,All,All,CHONRC1542,0,130,566,No
+1600,Nigeria,1975,38,Cholera,Absolute,All,All,CHONRC1543,0,130,566,No
+1601,Nigeria,1973,157,Cholera,Absolute,All,All,CHONRC1544,0,130,566,No
+1602,Nigeria,1972,1363,Cholera,Absolute,All,All,CHONRC1545,0,130,566,No
+1603,Nigeria,1971,22931,Cholera,Absolute,All,All,CHONRC1546,0,130,566,No
+1604,Nigeria,1970,15,Cholera,Absolute,All,All,CHONRC1547,0,130,566,No
+1605,Norway,2007,1,Cholera,Absolute,All,All,CHONRC1548,0,130,578,No
+1606,Norway,2006,1,Cholera,Absolute,All,All,CHONRC1549,0,130,578,No
+1607,Norway,2005,1,Cholera,Absolute,All,All,CHONRC1550,0,130,578,No
+1608,Norway,1998,2,Cholera,Absolute,All,All,CHONRC1551,0,130,578,No
+1609,Norway,1995,1,Cholera,Absolute,All,All,CHONRC1552,0,130,578,No
+1610,Norway,1989,1,Cholera,Absolute,All,All,CHONRC1553,0,130,578,No
+1611,Norway,1987,1,Cholera,Absolute,All,All,CHONRC1554,0,130,578,No
+1612,Oman,2002,1,Cholera,Absolute,All,All,CHONRC1555,0,130,512,No
+1613,Oman,2001,7,Cholera,Absolute,All,All,CHONRC1556,0,130,512,No
+1614,Oman,1971,9,Cholera,Absolute,All,All,CHONRC1557,0,130,512,No
+1615,Pakistan,2012,144,Cholera,Absolute,All,All,CHONRC1558,0,130,586,No
+1616,Pakistan,2011,527,Cholera,Absolute,All,All,CHONRC1559,0,130,586,No
+1617,Pakistan,2010,164,Cholera,Absolute,All,All,CHONRC1560,0,130,586,No
+1618,Pakistan,1993,12092,Cholera,Absolute,All,All,CHONRC1561,0,130,586,No
+1619,Pakistan,1981,4,Cholera,Absolute,All,All,CHONRC1562,0,130,586,No
+1620,Pakistan,1977,12,Cholera,Absolute,All,All,CHONRC1563,0,130,586,No
+1621,Pakistan,1976,144,Cholera,Absolute,All,All,CHONRC1564,0,130,586,No
+1622,Pakistan,1971,1185,Cholera,Absolute,All,All,CHONRC1565,0,130,586,No
+1623,Pakistan,1970,2,Cholera,Absolute,All,All,CHONRC1566,0,130,586,No
+1624,Pakistan,1969,717,Cholera,Absolute,All,All,CHONRC1567,0,130,586,No
+1625,Pakistan,1968,3932,Cholera,Absolute,All,All,CHONRC1568,0,130,586,No
+1626,Pakistan,1965,21,Cholera,Absolute,All,All,CHONRC1569,0,130,586,No
+1627,Pakistan,1960,6704,Cholera,Absolute,All,All,CHONRC1570,0,130,586,No
+1628,Pakistan,1958,366,Cholera,Absolute,All,All,CHONRC1571,0,130,586,No
+1629,Panama,1993,42,Cholera,Absolute,All,All,CHONRC1572,0,130,591,No
+1630,Panama,1993,42,Cholera,Absolute,All,All,CHONRC1572,0,130,590,No
+1631,Panama,1992,2416,Cholera,Absolute,All,All,CHONRC1573,0,130,591,No
+1632,Panama,1992,2416,Cholera,Absolute,All,All,CHONRC1573,0,130,590,No
+1633,Panama,1991,1178,Cholera,Absolute,All,All,CHONRC1574,0,130,591,No
+1634,Panama,1991,1178,Cholera,Absolute,All,All,CHONRC1574,0,130,590,No
+1635,Papua New Guinea,2011,1535,Cholera,Absolute,All,All,CHONRC1575,0,130,598,No
+1636,Papua New Guinea,2010,8997,Cholera,Absolute,All,All,CHONRC1576,0,130,598,No
+1637,Papua New Guinea,2009,1957,Cholera,Absolute,All,All,CHONRC1577,0,130,598,No
+1638,Papua New Guinea,2005,0,Cholera,Absolute,All,All,CHONRC1578,0,130,598,No
+1639,Papua New Guinea,1962,1293,Cholera,Absolute,All,All,CHONRC1579,0,130,598,No
+1640,Paraguay,2009,5,Cholera,Absolute,All,All,CHONRC1580,0,130,600,No
+1641,Paraguay,1996,4,Cholera,Absolute,All,All,CHONRC1581,0,130,600,No
+1642,Paraguay,1993,3,Cholera,Absolute,All,All,CHONRC1582,0,130,600,No
+1643,Peru,2002,16,Cholera,Absolute,All,All,CHONRC1583,0,130,604,No
+1644,Peru,2001,494,Cholera,Absolute,All,All,CHONRC1584,0,130,604,No
+1645,Peru,2000,934,Cholera,Absolute,All,All,CHONRC1585,0,130,604,No
+1646,Peru,1999,1546,Cholera,Absolute,All,All,CHONRC1586,0,130,604,No
+1647,Peru,1998,41717,Cholera,Absolute,All,All,CHONRC1587,0,130,604,No
+1648,Peru,1997,3483,Cholera,Absolute,All,All,CHONRC1588,0,130,604,No
+1649,Peru,1996,4518,Cholera,Absolute,All,All,CHONRC1589,0,130,604,No
+1650,Peru,1995,22397,Cholera,Absolute,All,All,CHONRC1590,0,130,604,No
+1651,Peru,1994,23887,Cholera,Absolute,All,All,CHONRC1591,0,130,604,No
+1652,Peru,1993,72404,Cholera,Absolute,All,All,CHONRC1592,0,130,604,No
+1653,Peru,1992,242237,Cholera,Absolute,All,All,CHONRC1593,0,130,604,No
+1654,Peru,1991,322562,Cholera,Absolute,All,All,CHONRC1594,0,130,604,No
+1655,Philippines,2012,1864,Cholera,Absolute,All,All,CHONRC1595,0,130,608,No
+1656,Philippines,2011,120,Cholera,Absolute,All,All,CHONRC1596,0,130,608,No
+1657,Philippines,2010,33,Cholera,Absolute,All,All,CHONRC1597,0,130,608,No
+1658,Philippines,2007,0,Cholera,Absolute,All,All,CHONRC1598,0,130,608,No
+1659,Philippines,2006,66,Cholera,Absolute,All,All,CHONRC1599,0,130,608,No
+1660,Philippines,2005,139,Cholera,Absolute,All,All,CHONRC1600,0,130,608,No
+1661,Philippines,2004,533,Cholera,Absolute,All,All,CHONRC1601,0,130,608,No
+1662,Philippines,2001,174,Cholera,Absolute,All,All,CHONRC1602,0,130,608,No
+1663,Philippines,2000,275,Cholera,Absolute,All,All,CHONRC1603,0,130,608,No
+1664,Philippines,1999,330,Cholera,Absolute,All,All,CHONRC1604,0,130,608,No
+1665,Philippines,1998,729,Cholera,Absolute,All,All,CHONRC1605,0,130,608,No
+1666,Philippines,1997,605,Cholera,Absolute,All,All,CHONRC1606,0,130,608,No
+1667,Philippines,1996,1402,Cholera,Absolute,All,All,CHONRC1607,0,130,608,No
+1668,Philippines,1995,847,Cholera,Absolute,All,All,CHONRC1608,0,130,608,No
+1669,Philippines,1994,3340,Cholera,Absolute,All,All,CHONRC1609,0,130,608,No
+1670,Philippines,1993,708,Cholera,Absolute,All,All,CHONRC1610,0,130,608,No
+1671,Philippines,1992,345,Cholera,Absolute,All,All,CHONRC1611,0,130,608,No
+1672,Philippines,1985,10,Cholera,Absolute,All,All,CHONRC1612,0,130,608,No
+1673,Philippines,1982,930,Cholera,Absolute,All,All,CHONRC1613,0,130,608,No
+1674,Philippines,1981,864,Cholera,Absolute,All,All,CHONRC1614,0,130,608,No
+1675,Philippines,1980,836,Cholera,Absolute,All,All,CHONRC1615,0,130,608,No
+1676,Philippines,1979,1268,Cholera,Absolute,All,All,CHONRC1616,0,130,608,No
+1677,Philippines,1978,1408,Cholera,Absolute,All,All,CHONRC1617,0,130,608,No
+1678,Philippines,1977,1363,Cholera,Absolute,All,All,CHONRC1618,0,130,608,No
+1679,Philippines,1976,1258,Cholera,Absolute,All,All,CHONRC1619,0,130,608,No
+1680,Philippines,1975,680,Cholera,Absolute,All,All,CHONRC1620,0,130,608,No
+1681,Philippines,1974,1730,Cholera,Absolute,All,All,CHONRC1621,0,130,608,No
+1682,Philippines,1973,2840,Cholera,Absolute,All,All,CHONRC1622,0,130,608,No
+1683,Philippines,1972,5601,Cholera,Absolute,All,All,CHONRC1623,0,130,608,No
+1684,Philippines,1971,3585,Cholera,Absolute,All,All,CHONRC1624,0,130,608,No
+1685,Philippines,1970,1095,Cholera,Absolute,All,All,CHONRC1625,0,130,608,No
+1686,Philippines,1969,1541,Cholera,Absolute,All,All,CHONRC1626,0,130,608,No
+1687,Philippines,1968,2787,Cholera,Absolute,All,All,CHONRC1627,0,130,608,No
+1688,Philippines,1967,1629,Cholera,Absolute,All,All,CHONRC1628,0,130,608,No
+1689,Philippines,1966,5261,Cholera,Absolute,All,All,CHONRC1629,0,130,608,No
+1690,Philippines,1965,4581,Cholera,Absolute,All,All,CHONRC1630,0,130,608,No
+1691,Philippines,1964,16464,Cholera,Absolute,All,All,CHONRC1631,0,130,608,No
+1692,Philippines,1963,3979,Cholera,Absolute,All,All,CHONRC1632,0,130,608,No
+1693,Philippines,1962,13015,Cholera,Absolute,All,All,CHONRC1633,0,130,608,No
+1694,Philippines,1961,9923,Cholera,Absolute,All,All,CHONRC1634,0,130,608,No
+1695,Poland,2005,1,Cholera,Absolute,All,All,CHONRC1635,0,130,616,No
+1696,Poland,1994,1,Cholera,Absolute,All,All,CHONRC1636,0,130,616,No
+1697,Poland,1981,1,Cholera,Absolute,All,All,CHONRC1637,0,130,616,No
+1698,Portugal,1995,1,Cholera,Absolute,All,All,CHONRC1638,0,130,620,No
+1699,Portugal,1994,1,Cholera,Absolute,All,All,CHONRC1639,0,130,620,No
+1700,Portugal,1975,1066,Cholera,Absolute,All,All,CHONRC1640,0,130,620,No
+1701,Portugal,1974,2467,Cholera,Absolute,All,All,CHONRC1641,0,130,620,No
+1702,Portugal,1971,64,Cholera,Absolute,All,All,CHONRC1642,0,130,620,No
+1703,Qatar,2005,2,Cholera,Absolute,All,All,CHONRC1643,0,130,634,No
+1704,Qatar,2004,1,Cholera,Absolute,All,All,CHONRC1644,0,130,634,No
+1705,Qatar,2002,1,Cholera,Absolute,All,All,CHONRC1645,0,130,634,No
+1706,Republic of Korea,2011,3,Cholera,Absolute,All,All,CHONRC1646,0,130,410,No
+1707,Republic of Korea,2010,1,Cholera,Absolute,All,All,CHONRC1647,0,130,410,No
+1708,Republic of Korea,2004,10,Cholera,Absolute,All,All,CHONRC1648,0,130,410,No
+1709,Republic of Korea,2001,138,Cholera,Absolute,All,All,CHONRC1649,0,130,410,No
+1710,Republic of Korea,1997,10,Cholera,Absolute,All,All,CHONRC1650,0,130,410,No
+1711,Republic of Korea,1995,74,Cholera,Absolute,All,All,CHONRC1651,0,130,410,No
+1712,Republic of Korea,1994,34,Cholera,Absolute,All,All,CHONRC1652,0,130,410,No
+1713,Republic of Korea,1993,5,Cholera,Absolute,All,All,CHONRC1653,0,130,410,No
+1714,Republic of Korea,1992,6,Cholera,Absolute,All,All,CHONRC1654,0,130,410,No
+1715,Republic of Korea,1991,113,Cholera,Absolute,All,All,CHONRC1655,0,130,410,No
+1716,Republic of Korea,1980,145,Cholera,Absolute,All,All,CHONRC1656,0,130,410,No
+1717,Republic of Korea,1970,475,Cholera,Absolute,All,All,CHONRC1657,0,130,410,No
+1718,Republic of Korea,1969,1538,Cholera,Absolute,All,All,CHONRC1658,0,130,410,No
+1719,Republic of Korea,1964,11,Cholera,Absolute,All,All,CHONRC1659,0,130,410,No
+1720,Republic of Korea,1963,415,Cholera,Absolute,All,All,CHONRC1660,0,130,410,No
+1721,Republic of Moldova,1995,240,Cholera,Absolute,All,All,CHONRC1661,0,130,498,No
+1722,Republic of Moldova,1994,8,Cholera,Absolute,All,All,CHONRC1662,0,130,498,No
+1723,Republic of Moldova,1993,1,Cholera,Absolute,All,All,CHONRC1663,0,130,498,No
+1724,Romania,1995,118,Cholera,Absolute,All,All,CHONRC1664,0,130,642,No
+1725,Romania,1994,80,Cholera,Absolute,All,All,CHONRC1665,0,130,642,No
+1726,Romania,1993,15,Cholera,Absolute,All,All,CHONRC1666,0,130,642,No
+1727,Romania,1992,3,Cholera,Absolute,All,All,CHONRC1667,0,130,642,No
+1728,Romania,1991,226,Cholera,Absolute,All,All,CHONRC1668,0,130,642,No
+1729,Romania,1990,270,Cholera,Absolute,All,All,CHONRC1669,0,130,642,No
+1730,Russian Federation,2012,1,Cholera,Absolute,All,All,CHONRC1670,0,130,643,No
+1731,Russian Federation,2010,3,Cholera,Absolute,All,All,CHONRC1671,0,130,643,No
+1732,Russian Federation,2007,1,Cholera,Absolute,All,All,CHONRC1672,0,130,643,No
+1733,Russian Federation,2006,1,Cholera,Absolute,All,All,CHONRC1673,0,130,643,No
+1734,Russian Federation,2004,1,Cholera,Absolute,All,All,CHONRC1674,0,130,643,No
+1735,Russian Federation,2001,53,Cholera,Absolute,All,All,CHONRC1675,0,130,643,No
+1736,Russian Federation,1999,8,Cholera,Absolute,All,All,CHONRC1676,0,130,643,No
+1737,Russian Federation,1998,10,Cholera,Absolute,All,All,CHONRC1677,0,130,643,No
+1738,Russian Federation,1997,11,Cholera,Absolute,All,All,CHONRC1678,0,130,643,No
+1739,Russian Federation,1996,4,Cholera,Absolute,All,All,CHONRC1679,0,130,643,No
+1740,Russian Federation,1995,9,Cholera,Absolute,All,All,CHONRC1680,0,130,643,No
+1741,Russian Federation,1994,1048,Cholera,Absolute,All,All,CHONRC1681,0,130,643,No
+1742,Russian Federation,1993,23,Cholera,Absolute,All,All,CHONRC1682,0,130,643,No
+1743,Russian Federation,1992,6,Cholera,Absolute,All,All,CHONRC1683,0,130,643,No
+1744,Russian Federation,1991,78,Cholera,Absolute,All,All,CHONRC1684,0,130,643,No
+1745,Russian Federation,1990,49,Cholera,Absolute,All,All,CHONRC1685,0,130,643,No
+1746,Russian Federation,1977,1,Cholera,Absolute,All,All,CHONRC1686,0,130,643,No
+1747,Russian Federation,1976,1,Cholera,Absolute,All,All,CHONRC1687,0,130,643,No
+1748,Russian Federation,1970,720,Cholera,Absolute,All,All,CHONRC1688,0,130,643,No
+1749,Rwanda,2012,9,Cholera,Absolute,All,All,CHONRC1689,0,130,646,No
+1750,Rwanda,2009,67,Cholera,Absolute,All,All,CHONRC1690,0,130,646,No
+1751,Rwanda,2008,23,Cholera,Absolute,All,All,CHONRC1691,0,130,646,No
+1752,Rwanda,2007,1453,Cholera,Absolute,All,All,CHONRC1692,0,130,646,No
+1753,Rwanda,2006,405,Cholera,Absolute,All,All,CHONRC1693,0,130,646,No
+1754,Rwanda,2005,89,Cholera,Absolute,All,All,CHONRC1694,0,130,646,No
+1755,Rwanda,2004,586,Cholera,Absolute,All,All,CHONRC1695,0,130,646,No
+1756,Rwanda,2003,12,Cholera,Absolute,All,All,CHONRC1696,0,130,646,No
+1757,Rwanda,2001,157,Cholera,Absolute,All,All,CHONRC1697,0,130,646,No
+1758,Rwanda,2000,1235,Cholera,Absolute,All,All,CHONRC1698,0,130,646,No
+1759,Rwanda,1999,327,Cholera,Absolute,All,All,CHONRC1699,0,130,646,No
+1760,Rwanda,1998,3220,Cholera,Absolute,All,All,CHONRC1700,0,130,646,No
+1761,Rwanda,1997,274,Cholera,Absolute,All,All,CHONRC1701,0,130,646,No
+1762,Rwanda,1996,106,Cholera,Absolute,All,All,CHONRC1702,0,130,646,No
+1763,Rwanda,1995,3,Cholera,Absolute,All,All,CHONRC1703,0,130,646,No
+1764,Rwanda,1994,10,Cholera,Absolute,All,All,CHONRC1704,0,130,646,No
+1765,Rwanda,1993,568,Cholera,Absolute,All,All,CHONRC1705,0,130,646,No
+1766,Rwanda,1992,503,Cholera,Absolute,All,All,CHONRC1706,0,130,646,No
+1767,Rwanda,1991,679,Cholera,Absolute,All,All,CHONRC1707,0,130,646,No
+1768,Rwanda,1989,1,Cholera,Absolute,All,All,CHONRC1708,0,130,646,No
+1769,Rwanda,1988,70,Cholera,Absolute,All,All,CHONRC1709,0,130,646,No
+1770,Rwanda,1987,101,Cholera,Absolute,All,All,CHONRC1710,0,130,646,No
+1771,Rwanda,1986,226,Cholera,Absolute,All,All,CHONRC1711,0,130,646,No
+1772,Rwanda,1985,21,Cholera,Absolute,All,All,CHONRC1712,0,130,646,No
+1773,Rwanda,1984,161,Cholera,Absolute,All,All,CHONRC1713,0,130,646,No
+1774,Rwanda,1983,54,Cholera,Absolute,All,All,CHONRC1714,0,130,646,No
+1775,Rwanda,1982,201,Cholera,Absolute,All,All,CHONRC1715,0,130,646,No
+1776,Rwanda,1981,24,Cholera,Absolute,All,All,CHONRC1716,0,130,646,No
+1777,Rwanda,1980,30,Cholera,Absolute,All,All,CHONRC1717,0,130,646,No
+1778,Rwanda,1979,5,Cholera,Absolute,All,All,CHONRC1718,0,130,646,No
+1779,Rwanda,1978,838,Cholera,Absolute,All,All,CHONRC1719,0,130,646,No
+1780,Samoa,1980,1,Cholera,Absolute,All,All,CHONRC1720,0,130,882,No
+1781,Sao Tome and Principe,2008,119,Cholera,Absolute,All,All,CHONRC1721,0,130,678,No
+1782,Sao Tome and Principe,2007,90,Cholera,Absolute,All,All,CHONRC1722,0,130,678,No
+1783,Sao Tome and Principe,2006,926,Cholera,Absolute,All,All,CHONRC1723,0,130,678,No
+1784,Sao Tome and Principe,2005,1966,Cholera,Absolute,All,All,CHONRC1724,0,130,678,No
+1785,Sao Tome and Principe,1991,3,Cholera,Absolute,All,All,CHONRC1725,0,130,678,No
+1786,Sao Tome and Principe,1990,804,Cholera,Absolute,All,All,CHONRC1726,0,130,678,No
+1787,Sao Tome and Principe,1989,3953,Cholera,Absolute,All,All,CHONRC1727,0,130,678,No
+1788,Saudi Arabia,2002,38,Cholera,Absolute,All,All,CHONRC1728,0,130,682,No
+1789,Saudi Arabia,1986,74,Cholera,Absolute,All,All,CHONRC1729,0,130,682,No
+1790,Saudi Arabia,1981,13,Cholera,Absolute,All,All,CHONRC1730,0,130,682,No
+1791,Saudi Arabia,1980,2,Cholera,Absolute,All,All,CHONRC1731,0,130,682,No
+1792,Saudi Arabia,1979,23,Cholera,Absolute,All,All,CHONRC1732,0,130,682,No
+1793,Saudi Arabia,1978,30,Cholera,Absolute,All,All,CHONRC1733,0,130,682,No
+1794,Saudi Arabia,1977,18,Cholera,Absolute,All,All,CHONRC1734,0,130,682,No
+1795,Saudi Arabia,1976,50,Cholera,Absolute,All,All,CHONRC1735,0,130,682,No
+1796,Saudi Arabia,1975,91,Cholera,Absolute,All,All,CHONRC1736,0,130,682,No
+1797,Saudi Arabia,1972,303,Cholera,Absolute,All,All,CHONRC1737,0,130,682,No
+1798,Saudi Arabia,1970,266,Cholera,Absolute,All,All,CHONRC1738,0,130,682,No
+1799,Senegal,2012,1,Cholera,Absolute,All,All,CHONRC1739,0,130,686,No
+1800,Senegal,2011,5,Cholera,Absolute,All,All,CHONRC1740,0,130,686,No
+1801,Senegal,2010,3,Cholera,Absolute,All,All,CHONRC1741,0,130,686,No
+1802,Senegal,2009,4,Cholera,Absolute,All,All,CHONRC1742,0,130,686,No
+1803,Senegal,2008,1283,Cholera,Absolute,All,All,CHONRC1743,0,130,686,No
+1804,Senegal,2007,3984,Cholera,Absolute,All,All,CHONRC1744,0,130,686,No
+1805,Senegal,2006,365,Cholera,Absolute,All,All,CHONRC1745,0,130,686,No
+1806,Senegal,2005,31719,Cholera,Absolute,All,All,CHONRC1746,0,130,686,No
+1807,Senegal,2004,1227,Cholera,Absolute,All,All,CHONRC1747,0,130,686,No
+1808,Senegal,1997,371,Cholera,Absolute,All,All,CHONRC1748,0,130,686,No
+1809,Senegal,1996,16107,Cholera,Absolute,All,All,CHONRC1749,0,130,686,No
+1810,Senegal,1995,3332,Cholera,Absolute,All,All,CHONRC1750,0,130,686,No
+1811,Senegal,1988,390,Cholera,Absolute,All,All,CHONRC1751,0,130,686,No
+1812,Senegal,1987,3150,Cholera,Absolute,All,All,CHONRC1752,0,130,686,No
+1813,Senegal,1986,476,Cholera,Absolute,All,All,CHONRC1753,0,130,686,No
+1814,Senegal,1985,2988,Cholera,Absolute,All,All,CHONRC1754,0,130,686,No
+1815,Senegal,1984,728,Cholera,Absolute,All,All,CHONRC1755,0,130,686,No
+1816,Senegal,1981,428,Cholera,Absolute,All,All,CHONRC1756,0,130,686,No
+1817,Senegal,1979,103,Cholera,Absolute,All,All,CHONRC1757,0,130,686,No
+1818,Senegal,1978,315,Cholera,Absolute,All,All,CHONRC1758,0,130,686,No
+1819,Senegal,1972,379,Cholera,Absolute,All,All,CHONRC1759,0,130,686,No
+1820,Senegal,1971,265,Cholera,Absolute,All,All,CHONRC1760,0,130,686,No
+1821,Seychelles,2008,0,Cholera,Absolute,All,All,CHONRC1761,0,130,690,No
+1822,Seychelles,2007,178,Cholera,Absolute,All,All,CHONRC1762,0,130,690,No
+1823,Seychelles,2006,0,Cholera,Absolute,All,All,CHONRC1763,0,130,690,No
+1824,Seychelles,2005,0,Cholera,Absolute,All,All,CHONRC1764,0,130,690,No
+1825,Sierra Leone,2012,23124,Cholera,Absolute,All,All,CHONRC1765,0,130,694,No
+1826,Sierra Leone,2008,62,Cholera,Absolute,All,All,CHONRC1766,0,130,694,No
+1827,Sierra Leone,2007,2219,Cholera,Absolute,All,All,CHONRC1767,0,130,694,No
+1828,Sierra Leone,2006,2560,Cholera,Absolute,All,All,CHONRC1768,0,130,694,No
+1829,Sierra Leone,2005,6,Cholera,Absolute,All,All,CHONRC1769,0,130,694,No
+1830,Sierra Leone,2004,513,Cholera,Absolute,All,All,CHONRC1770,0,130,694,No
+1831,Sierra Leone,1999,863,Cholera,Absolute,All,All,CHONRC1771,0,130,694,No
+1832,Sierra Leone,1998,2096,Cholera,Absolute,All,All,CHONRC1772,0,130,694,No
+1833,Sierra Leone,1995,10285,Cholera,Absolute,All,All,CHONRC1773,0,130,694,No
+1834,Sierra Leone,1994,9709,Cholera,Absolute,All,All,CHONRC1774,0,130,694,No
+1835,Sierra Leone,1987,557,Cholera,Absolute,All,All,CHONRC1775,0,130,694,No
+1836,Sierra Leone,1986,8957,Cholera,Absolute,All,All,CHONRC1776,0,130,694,No
+1837,Sierra Leone,1977,12,Cholera,Absolute,All,All,CHONRC1777,0,130,694,No
+1838,Sierra Leone,1971,211,Cholera,Absolute,All,All,CHONRC1778,0,130,694,No
+1839,Sierra Leone,1970,293,Cholera,Absolute,All,All,CHONRC1779,0,130,694,No
+1840,Singapore,2012,2,Cholera,Absolute,All,All,CHONRC1780,0,130,702,No
+1841,Singapore,2011,2,Cholera,Absolute,All,All,CHONRC1781,0,130,702,No
+1842,Singapore,2004,11,Cholera,Absolute,All,All,CHONRC1782,0,130,702,No
+1843,Singapore,2003,1,Cholera,Absolute,All,All,CHONRC1783,0,130,702,No
+1844,Singapore,2002,2,Cholera,Absolute,All,All,CHONRC1784,0,130,702,No
+1845,Singapore,2001,8,Cholera,Absolute,All,All,CHONRC1785,0,130,702,No
+1846,Singapore,2000,10,Cholera,Absolute,All,All,CHONRC1786,0,130,702,No
+1847,Singapore,1999,11,Cholera,Absolute,All,All,CHONRC1787,0,130,702,No
+1848,Singapore,1998,31,Cholera,Absolute,All,All,CHONRC1788,0,130,702,No
+1849,Singapore,1997,19,Cholera,Absolute,All,All,CHONRC1789,0,130,702,No
+1850,Singapore,1996,19,Cholera,Absolute,All,All,CHONRC1790,0,130,702,No
+1851,Singapore,1995,14,Cholera,Absolute,All,All,CHONRC1791,0,130,702,No
+1852,Singapore,1994,41,Cholera,Absolute,All,All,CHONRC1792,0,130,702,No
+1853,Singapore,1993,24,Cholera,Absolute,All,All,CHONRC1793,0,130,702,No
+1854,Singapore,1992,17,Cholera,Absolute,All,All,CHONRC1794,0,130,702,No
+1855,Singapore,1991,34,Cholera,Absolute,All,All,CHONRC1795,0,130,702,No
+1856,Singapore,1990,26,Cholera,Absolute,All,All,CHONRC1796,0,130,702,No
+1857,Singapore,1989,39,Cholera,Absolute,All,All,CHONRC1797,0,130,702,No
+1858,Singapore,1988,19,Cholera,Absolute,All,All,CHONRC1798,0,130,702,No
+1859,Singapore,1987,63,Cholera,Absolute,All,All,CHONRC1799,0,130,702,No
+1860,Singapore,1986,27,Cholera,Absolute,All,All,CHONRC1800,0,130,702,No
+1861,Singapore,1985,27,Cholera,Absolute,All,All,CHONRC1801,0,130,702,No
+1862,Singapore,1984,40,Cholera,Absolute,All,All,CHONRC1802,0,130,702,No
+1863,Singapore,1983,14,Cholera,Absolute,All,All,CHONRC1803,0,130,702,No
+1864,Singapore,1982,31,Cholera,Absolute,All,All,CHONRC1804,0,130,702,No
+1865,Singapore,1981,34,Cholera,Absolute,All,All,CHONRC1805,0,130,702,No
+1866,Singapore,1980,18,Cholera,Absolute,All,All,CHONRC1806,0,130,702,No
+1867,Singapore,1979,10,Cholera,Absolute,All,All,CHONRC1807,0,130,702,No
+1868,Singapore,1978,83,Cholera,Absolute,All,All,CHONRC1808,0,130,702,No
+1869,Singapore,1977,11,Cholera,Absolute,All,All,CHONRC1809,0,130,702,No
+1870,Singapore,1975,10,Cholera,Absolute,All,All,CHONRC1810,0,130,702,No
+1871,Singapore,1974,8,Cholera,Absolute,All,All,CHONRC1811,0,130,702,No
+1872,Singapore,1973,1,Cholera,Absolute,All,All,CHONRC1812,0,130,702,No
+1873,Singapore,1972,114,Cholera,Absolute,All,All,CHONRC1813,0,130,702,No
+1874,Singapore,1969,11,Cholera,Absolute,All,All,CHONRC1814,0,130,702,No
+1875,Singapore,1968,6,Cholera,Absolute,All,All,CHONRC1815,0,130,702,No
+1876,Singapore,1964,24,Cholera,Absolute,All,All,CHONRC1816,0,130,702,No
+1877,Singapore,1963,27,Cholera,Absolute,All,All,CHONRC1817,0,130,702,No
+1878,Singapore,1953,0,Cholera,Absolute,All,All,CHONRC1818,0,130,702,No
+1879,Slovenia,2007,0,Cholera,Absolute,All,All,CHONRC1819,0,130,705,No
+1880,Somalia,2012,22576,Cholera,Absolute,All,All,CHONRC1820,0,130,706,No
+1881,Somalia,2011,77636,Cholera,Absolute,All,All,CHONRC1821,0,130,706,No
+1882,Somalia,2010,3510,Cholera,Absolute,All,All,CHONRC1822,0,130,706,No
+1883,Somalia,2009,208,Cholera,Absolute,All,All,CHONRC1823,0,130,706,No
+1884,Somalia,2008,1281,Cholera,Absolute,All,All,CHONRC1824,0,130,706,No
+1885,Somalia,2007,41643,Cholera,Absolute,All,All,CHONRC1825,0,130,706,No
+1886,Somalia,2004,4490,Cholera,Absolute,All,All,CHONRC1826,0,130,706,No
+1887,Somalia,2003,11020,Cholera,Absolute,All,All,CHONRC1827,0,130,706,No
+1888,Somalia,2002,2775,Cholera,Absolute,All,All,CHONRC1828,0,130,706,No
+1889,Somalia,2001,2567,Cholera,Absolute,All,All,CHONRC1829,0,130,706,No
+1890,Somalia,2000,7496,Cholera,Absolute,All,All,CHONRC1830,0,130,706,No
+1891,Somalia,1999,17757,Cholera,Absolute,All,All,CHONRC1831,0,130,706,No
+1892,Somalia,1998,4417,Cholera,Absolute,All,All,CHONRC1832,0,130,706,No
+1893,Somalia,1997,6814,Cholera,Absolute,All,All,CHONRC1833,0,130,706,No
+1894,Somalia,1996,10274,Cholera,Absolute,All,All,CHONRC1834,0,130,706,No
+1895,Somalia,1995,9255,Cholera,Absolute,All,All,CHONRC1835,0,130,706,No
+1896,Somalia,1994,28334,Cholera,Absolute,All,All,CHONRC1836,0,130,706,No
+1897,Somalia,1986,15980,Cholera,Absolute,All,All,CHONRC1837,0,130,706,No
+1898,Somalia,1985,10199,Cholera,Absolute,All,All,CHONRC1838,0,130,706,No
+1899,Somalia,1971,89,Cholera,Absolute,All,All,CHONRC1839,0,130,706,No
+1900,Somalia,1970,43,Cholera,Absolute,All,All,CHONRC1840,0,130,706,No
+1901,South Africa,2009,10520,Cholera,Absolute,All,All,CHONRC1841,0,130,710,No
+1902,South Africa,2008,3907,Cholera,Absolute,All,All,CHONRC1842,0,130,710,No
+1903,South Africa,2006,0,Cholera,Absolute,All,All,CHONRC1843,0,130,710,No
+1904,South Africa,2005,3503,Cholera,Absolute,All,All,CHONRC1844,0,130,710,No
+1905,South Africa,2004,2767,Cholera,Absolute,All,All,CHONRC1845,0,130,710,No
+1906,South Africa,2003,3901,Cholera,Absolute,All,All,CHONRC1846,0,130,710,No
+1907,South Africa,2002,10004,Cholera,Absolute,All,All,CHONRC1847,0,130,710,No
+1908,South Africa,2001,106159,Cholera,Absolute,All,All,CHONRC1848,0,130,710,No
+1909,South Africa,2000,19667,Cholera,Absolute,All,All,CHONRC1849,0,130,710,No
+1910,South Africa,1999,68,Cholera,Absolute,All,All,CHONRC1850,0,130,710,No
+1911,South Africa,1998,20,Cholera,Absolute,All,All,CHONRC1851,0,130,710,No
+1912,South Africa,1994,4,Cholera,Absolute,All,All,CHONRC1852,0,130,710,No
+1913,South Africa,1993,78,Cholera,Absolute,All,All,CHONRC1853,0,130,710,No
+1914,South Africa,1992,11,Cholera,Absolute,All,All,CHONRC1854,0,130,710,No
+1915,South Africa,1991,10,Cholera,Absolute,All,All,CHONRC1855,0,130,710,No
+1916,South Africa,1987,37,Cholera,Absolute,All,All,CHONRC1856,0,130,710,No
+1917,South Africa,1986,120,Cholera,Absolute,All,All,CHONRC1857,0,130,710,No
+1918,South Africa,1985,2742,Cholera,Absolute,All,All,CHONRC1858,0,130,710,No
+1919,South Africa,1984,1182,Cholera,Absolute,All,All,CHONRC1859,0,130,710,No
+1920,South Africa,1983,4715,Cholera,Absolute,All,All,CHONRC1860,0,130,710,No
+1921,South Africa,1982,11968,Cholera,Absolute,All,All,CHONRC1861,0,130,710,No
+1922,South Africa,1981,4180,Cholera,Absolute,All,All,CHONRC1862,0,130,710,No
+1923,South Africa,1980,859,Cholera,Absolute,All,All,CHONRC1863,0,130,710,No
+1924,South Africa,1979,2,Cholera,Absolute,All,All,CHONRC1864,0,130,710,No
+1925,South Africa,1974,37,Cholera,Absolute,All,All,CHONRC1865,0,130,710,No
+1926,South Africa,1973,1,Cholera,Absolute,All,All,CHONRC1866,0,130,710,No
+1927,Spain,2008,5,Cholera,Absolute,All,All,CHONRC1867,0,130,724,No
+1928,Spain,2007,2,Cholera,Absolute,All,All,CHONRC1868,0,130,724,No
+1929,Spain,2006,2,Cholera,Absolute,All,All,CHONRC1869,0,130,724,No
+1930,Spain,2002,1,Cholera,Absolute,All,All,CHONRC1870,0,130,724,No
+1931,Spain,2001,1,Cholera,Absolute,All,All,CHONRC1871,0,130,724,No
+1932,Spain,1996,1,Cholera,Absolute,All,All,CHONRC1872,0,130,724,No
+1933,Spain,1995,6,Cholera,Absolute,All,All,CHONRC1873,0,130,724,No
+1934,Spain,1994,1,Cholera,Absolute,All,All,CHONRC1874,0,130,724,No
+1935,Spain,1993,3,Cholera,Absolute,All,All,CHONRC1875,0,130,724,No
+1936,Spain,1991,1,Cholera,Absolute,All,All,CHONRC1876,0,130,724,No
+1937,Spain,1990,11,Cholera,Absolute,All,All,CHONRC1877,0,130,724,No
+1938,Spain,1989,3,Cholera,Absolute,All,All,CHONRC1878,0,130,724,No
+1939,Spain,1987,2,Cholera,Absolute,All,All,CHONRC1879,0,130,724,No
+1940,Spain,1984,4,Cholera,Absolute,All,All,CHONRC1880,0,130,724,No
+1941,Spain,1983,2,Cholera,Absolute,All,All,CHONRC1881,0,130,724,No
+1942,Spain,1982,2,Cholera,Absolute,All,All,CHONRC1882,0,130,724,No
+1943,Spain,1980,4,Cholera,Absolute,All,All,CHONRC1883,0,130,724,No
+1944,Spain,1979,267,Cholera,Absolute,All,All,CHONRC1884,0,130,724,No
+1945,Spain,1976,2,Cholera,Absolute,All,All,CHONRC1885,0,130,724,No
+1946,Spain,1975,11,Cholera,Absolute,All,All,CHONRC1886,0,130,724,No
+1947,Spain,1974,5,Cholera,Absolute,All,All,CHONRC1887,0,130,724,No
+1948,Spain,1971,22,Cholera,Absolute,All,All,CHONRC1888,0,130,724,No
+1949,Sri Lanka,2002,9,Cholera,Absolute,All,All,CHONRC1889,0,130,144,No
+1950,Sri Lanka,2000,2,Cholera,Absolute,All,All,CHONRC1890,0,130,144,No
+1951,Sri Lanka,1999,108,Cholera,Absolute,All,All,CHONRC1891,0,130,144,No
+1952,Sri Lanka,1998,1536,Cholera,Absolute,All,All,CHONRC1892,0,130,144,No
+1953,Sri Lanka,1997,430,Cholera,Absolute,All,All,CHONRC1893,0,130,144,No
+1954,Sri Lanka,1993,1,Cholera,Absolute,All,All,CHONRC1894,0,130,144,No
+1955,Sri Lanka,1992,121,Cholera,Absolute,All,All,CHONRC1895,0,130,144,No
+1956,Sri Lanka,1991,70,Cholera,Absolute,All,All,CHONRC1896,0,130,144,No
+1957,Sri Lanka,1988,154,Cholera,Absolute,All,All,CHONRC1897,0,130,144,No
+1958,Sri Lanka,1983,86,Cholera,Absolute,All,All,CHONRC1898,0,130,144,No
+1959,Sri Lanka,1982,309,Cholera,Absolute,All,All,CHONRC1899,0,130,144,No
+1960,Sri Lanka,1981,574,Cholera,Absolute,All,All,CHONRC1900,0,130,144,No
+1961,Sri Lanka,1980,104,Cholera,Absolute,All,All,CHONRC1901,0,130,144,No
+1962,Sri Lanka,1979,46,Cholera,Absolute,All,All,CHONRC1902,0,130,144,No
+1963,Sri Lanka,1978,48,Cholera,Absolute,All,All,CHONRC1903,0,130,144,No
+1964,Sri Lanka,1977,5,Cholera,Absolute,All,All,CHONRC1904,0,130,144,No
+1965,Sri Lanka,1976,728,Cholera,Absolute,All,All,CHONRC1905,0,130,144,No
+1966,Sri Lanka,1975,1453,Cholera,Absolute,All,All,CHONRC1906,0,130,144,No
+1967,Sri Lanka,1974,4559,Cholera,Absolute,All,All,CHONRC1907,0,130,144,No
+1968,Sri Lanka,1973,118,Cholera,Absolute,All,All,CHONRC1908,0,130,144,No
+1969,Sudan,2009,13681,Cholera,Absolute,All,All,CHONRC1909,0,130,729,No
+1970,Sudan,2009,13681,Cholera,Absolute,All,All,CHONRC1909,0,130,736,No
+1971,Sudan,2008,17241,Cholera,Absolute,All,All,CHONRC1910,0,130,729,No
+1972,Sudan,2008,17241,Cholera,Absolute,All,All,CHONRC1910,0,130,736,No
+1973,Sudan,2007,13731,Cholera,Absolute,All,All,CHONRC1911,0,130,729,No
+1974,Sudan,2007,13731,Cholera,Absolute,All,All,CHONRC1911,0,130,736,No
+1975,Sudan,2006,30662,Cholera,Absolute,All,All,CHONRC1912,0,130,729,No
+1976,Sudan,2006,30662,Cholera,Absolute,All,All,CHONRC1912,0,130,736,No
+1977,Sudan,1999,0,Cholera,Absolute,All,All,CHONRC1913,0,130,729,No
+1978,Sudan,1999,0,Cholera,Absolute,All,All,CHONRC1913,0,130,736,No
+1979,Sudan,1985,4457,Cholera,Absolute,All,All,CHONRC1914,0,130,729,No
+1980,Sudan,1985,4457,Cholera,Absolute,All,All,CHONRC1914,0,130,736,No
+1981,Sudan,1980,17,Cholera,Absolute,All,All,CHONRC1915,0,130,729,No
+1982,Sudan,1980,17,Cholera,Absolute,All,All,CHONRC1915,0,130,736,No
+1983,Sudan,1979,845,Cholera,Absolute,All,All,CHONRC1916,0,130,729,No
+1984,Sudan,1979,845,Cholera,Absolute,All,All,CHONRC1916,0,130,736,No
+1985,Suriname,1992,12,Cholera,Absolute,All,All,CHONRC1917,0,130,740,No
+1986,Swaziland,2009,19,Cholera,Absolute,All,All,CHONRC1918,0,130,748,No
+1987,Swaziland,2008,1,Cholera,Absolute,All,All,CHONRC1919,0,130,748,No
+1988,Swaziland,2007,0,Cholera,Absolute,All,All,CHONRC1920,0,130,748,No
+1989,Swaziland,2006,18,Cholera,Absolute,All,All,CHONRC1921,0,130,748,No
+1990,Swaziland,2005,0,Cholera,Absolute,All,All,CHONRC1922,0,130,748,No
+1991,Swaziland,2004,1075,Cholera,Absolute,All,All,CHONRC1923,0,130,748,No
+1992,Swaziland,2003,32,Cholera,Absolute,All,All,CHONRC1924,0,130,748,No
+1993,Swaziland,2002,134,Cholera,Absolute,All,All,CHONRC1925,0,130,748,No
+1994,Swaziland,2001,5612,Cholera,Absolute,All,All,CHONRC1926,0,130,748,No
+1995,Swaziland,2000,141,Cholera,Absolute,All,All,CHONRC1927,0,130,748,No
+1996,Swaziland,1999,7,Cholera,Absolute,All,All,CHONRC1928,0,130,748,No
+1997,Swaziland,1998,7,Cholera,Absolute,All,All,CHONRC1929,0,130,748,No
+1998,Swaziland,1996,2,Cholera,Absolute,All,All,CHONRC1930,0,130,748,No
+1999,Swaziland,1992,2281,Cholera,Absolute,All,All,CHONRC1931,0,130,748,No
+2000,Swaziland,1982,538,Cholera,Absolute,All,All,CHONRC1932,0,130,748,No
+2001,Swaziland,1981,238,Cholera,Absolute,All,All,CHONRC1933,0,130,748,No
+2002,Swaziland,1978,2,Cholera,Absolute,All,All,CHONRC1934,0,130,748,No
+2003,Sweden,2011,1,Cholera,Absolute,All,All,CHONRC1935,0,130,752,No
+2004,Sweden,2006,1,Cholera,Absolute,All,All,CHONRC1936,0,130,752,No
+2005,Sweden,2004,1,Cholera,Absolute,All,All,CHONRC1937,0,130,752,No
+2006,Sweden,2003,1,Cholera,Absolute,All,All,CHONRC1938,0,130,752,No
+2007,Sweden,1996,1,Cholera,Absolute,All,All,CHONRC1939,0,130,752,No
+2008,Sweden,1995,2,Cholera,Absolute,All,All,CHONRC1940,0,130,752,No
+2009,Sweden,1994,1,Cholera,Absolute,All,All,CHONRC1941,0,130,752,No
+2010,Sweden,1992,1,Cholera,Absolute,All,All,CHONRC1942,0,130,752,No
+2011,Sweden,1987,1,Cholera,Absolute,All,All,CHONRC1943,0,130,752,No
+2012,Sweden,1986,1,Cholera,Absolute,All,All,CHONRC1944,0,130,752,No
+2013,Sweden,1979,1,Cholera,Absolute,All,All,CHONRC1945,0,130,752,No
+2014,Sweden,1976,1,Cholera,Absolute,All,All,CHONRC1946,0,130,752,No
+2015,Sweden,1974,1,Cholera,Absolute,All,All,CHONRC1947,0,130,752,No
+2016,Sweden,1973,10,Cholera,Absolute,All,All,CHONRC1948,0,130,752,No
+2017,Sweden,1971,4,Cholera,Absolute,All,All,CHONRC1949,0,130,752,No
+2018,Switzerland,2006,1,Cholera,Absolute,All,All,CHONRC1950,0,130,756,No
+2019,Switzerland,2006,1,Cholera,Absolute,All,All,CHONRC1950,0,130,756,No
+2020,Switzerland,1998,2,Cholera,Absolute,All,All,CHONRC1951,0,130,756,No
+2021,Switzerland,1998,2,Cholera,Absolute,All,All,CHONRC1951,0,130,756,No
+2022,Switzerland,1995,2,Cholera,Absolute,All,All,CHONRC1952,0,130,756,No
+2023,Switzerland,1995,2,Cholera,Absolute,All,All,CHONRC1952,0,130,756,No
+2024,Switzerland,1993,2,Cholera,Absolute,All,All,CHONRC1953,0,130,756,No
+2025,Switzerland,1993,2,Cholera,Absolute,All,All,CHONRC1953,0,130,756,No
+2026,Switzerland,1992,1,Cholera,Absolute,All,All,CHONRC1954,0,130,756,No
+2027,Switzerland,1992,1,Cholera,Absolute,All,All,CHONRC1954,0,130,756,No
+2028,Switzerland,1988,1,Cholera,Absolute,All,All,CHONRC1955,0,130,756,No
+2029,Switzerland,1988,1,Cholera,Absolute,All,All,CHONRC1955,0,130,756,No
+2030,Switzerland,1985,1,Cholera,Absolute,All,All,CHONRC1956,0,130,756,No
+2031,Switzerland,1985,1,Cholera,Absolute,All,All,CHONRC1956,0,130,756,No
+2032,Switzerland,1981,2,Cholera,Absolute,All,All,CHONRC1957,0,130,756,No
+2033,Switzerland,1981,2,Cholera,Absolute,All,All,CHONRC1957,0,130,756,No
+2034,Switzerland,1978,1,Cholera,Absolute,All,All,CHONRC1958,0,130,756,No
+2035,Switzerland,1978,1,Cholera,Absolute,All,All,CHONRC1958,0,130,756,No
+2036,Switzerland,1977,1,Cholera,Absolute,All,All,CHONRC1959,0,130,756,No
+2037,Switzerland,1977,1,Cholera,Absolute,All,All,CHONRC1959,0,130,756,No
+2038,Syrian Arab Republic,1979,689,Cholera,Absolute,All,All,CHONRC1960,0,130,760,No
+2039,Syrian Arab Republic,1977,2362,Cholera,Absolute,All,All,CHONRC1961,0,130,760,No
+2040,Syrian Arab Republic,1976,795,Cholera,Absolute,All,All,CHONRC1962,0,130,760,No
+2041,Syrian Arab Republic,1975,67,Cholera,Absolute,All,All,CHONRC1963,0,130,760,No
+2042,Syrian Arab Republic,1972,505,Cholera,Absolute,All,All,CHONRC1964,0,130,760,No
+2043,Syrian Arab Republic,1971,5,Cholera,Absolute,All,All,CHONRC1965,0,130,760,No
+2044,Syrian Arab Republic,1970,49,Cholera,Absolute,All,All,CHONRC1966,0,130,760,No
+2045,Tajikistan,1994,10,Cholera,Absolute,All,All,CHONRC1967,0,130,762,No
+2046,Tajikistan,1993,165,Cholera,Absolute,All,All,CHONRC1968,0,130,762,No
+2047,Thailand,2012,29,Cholera,Absolute,All,All,CHONRC1969,0,130,764,No
+2048,Thailand,2011,279,Cholera,Absolute,All,All,CHONRC1970,0,130,764,No
+2049,Thailand,2010,1974,Cholera,Absolute,All,All,CHONRC1971,0,130,764,No
+2050,Thailand,2009,315,Cholera,Absolute,All,All,CHONRC1972,0,130,764,No
+2051,Thailand,2008,436,Cholera,Absolute,All,All,CHONRC1973,0,130,764,No
+2052,Thailand,2007,1428,Cholera,Absolute,All,All,CHONRC1974,0,130,764,No
+2053,Thailand,2006,35,Cholera,Absolute,All,All,CHONRC1975,0,130,764,No
+2054,Thailand,1994,3487,Cholera,Absolute,All,All,CHONRC1976,0,130,764,No
+2055,Thailand,1988,3418,Cholera,Absolute,All,All,CHONRC1977,0,130,764,No
+2056,Thailand,1987,6353,Cholera,Absolute,All,All,CHONRC1978,0,130,764,No
+2057,Thailand,1986,213,Cholera,Absolute,All,All,CHONRC1979,0,130,764,No
+2058,Thailand,1985,899,Cholera,Absolute,All,All,CHONRC1980,0,130,764,No
+2059,Thailand,1984,645,Cholera,Absolute,All,All,CHONRC1981,0,130,764,No
+2060,Thailand,1983,1497,Cholera,Absolute,All,All,CHONRC1982,0,130,764,No
+2061,Thailand,1982,638,Cholera,Absolute,All,All,CHONRC1983,0,130,764,No
+2062,Thailand,1981,39,Cholera,Absolute,All,All,CHONRC1984,0,130,764,No
+2063,Thailand,1980,4331,Cholera,Absolute,All,All,CHONRC1985,0,130,764,No
+2064,Thailand,1979,1788,Cholera,Absolute,All,All,CHONRC1986,0,130,764,No
+2065,Thailand,1978,4183,Cholera,Absolute,All,All,CHONRC1987,0,130,764,No
+2066,Thailand,1977,383,Cholera,Absolute,All,All,CHONRC1988,0,130,764,No
+2067,Thailand,1976,6,Cholera,Absolute,All,All,CHONRC1989,0,130,764,No
+2068,Thailand,1975,1335,Cholera,Absolute,All,All,CHONRC1990,0,130,764,No
+2069,Thailand,1974,1475,Cholera,Absolute,All,All,CHONRC1991,0,130,764,No
+2070,Thailand,1973,844,Cholera,Absolute,All,All,CHONRC1992,0,130,764,No
+2071,Thailand,1969,961,Cholera,Absolute,All,All,CHONRC1993,0,130,764,No
+2072,Thailand,1968,404,Cholera,Absolute,All,All,CHONRC1994,0,130,764,No
+2073,Thailand,1967,148,Cholera,Absolute,All,All,CHONRC1995,0,130,764,No
+2074,Thailand,1966,401,Cholera,Absolute,All,All,CHONRC1996,0,130,764,No
+2075,Thailand,1965,65,Cholera,Absolute,All,All,CHONRC1997,0,130,764,No
+2076,Thailand,1964,960,Cholera,Absolute,All,All,CHONRC1998,0,130,764,No
+2077,Thailand,1963,2230,Cholera,Absolute,All,All,CHONRC1999,0,130,764,No
+2078,Thailand,1959,4368,Cholera,Absolute,All,All,CHONRC2000,0,130,764,No
+2079,Thailand,1958,10201,Cholera,Absolute,All,All,CHONRC2001,0,130,764,No
+2080,Thailand,1951,1,Cholera,Absolute,All,All,CHONRC2002,0,130,764,No
+2081,Thailand,1949,16,Cholera,Absolute,All,All,CHONRC2003,0,130,764,No
+2082,The former state union Serbia and Montenegro,1994,2,Cholera,Absolute,All,All,CHONRC2004,0,130,0,No
+2083,The former state union Serbia and Montenegro,1989,4,Cholera,Absolute,All,All,CHONRC2005,0,130,0,No
+2084,The former state union Serbia and Montenegro,1981,2,Cholera,Absolute,All,All,CHONRC2006,0,130,0,No
+2085,The former state union Serbia and Montenegro,1976,3,Cholera,Absolute,All,All,CHONRC2007,0,130,0,No
+2086,Togo,2012,61,Cholera,Absolute,All,All,CHONRC2008,0,130,768,No
+2087,Togo,2011,4,Cholera,Absolute,All,All,CHONRC2009,0,130,768,No
+2088,Togo,2010,72,Cholera,Absolute,All,All,CHONRC2010,0,130,768,No
+2089,Togo,2009,218,Cholera,Absolute,All,All,CHONRC2011,0,130,768,No
+2090,Togo,2008,397,Cholera,Absolute,All,All,CHONRC2012,0,130,768,No
+2091,Togo,2007,65,Cholera,Absolute,All,All,CHONRC2013,0,130,768,No
+2092,Togo,2006,1159,Cholera,Absolute,All,All,CHONRC2014,0,130,768,No
+2093,Togo,2005,1320,Cholera,Absolute,All,All,CHONRC2015,0,130,768,No
+2094,Togo,2004,1080,Cholera,Absolute,All,All,CHONRC2016,0,130,768,No
+2095,Togo,2003,384,Cholera,Absolute,All,All,CHONRC2017,0,130,768,No
+2096,Togo,2002,257,Cholera,Absolute,All,All,CHONRC2018,0,130,768,No
+2097,Togo,2001,2551,Cholera,Absolute,All,All,CHONRC2019,0,130,768,No
+2098,Togo,2000,338,Cholera,Absolute,All,All,CHONRC2020,0,130,768,No
+2099,Togo,1999,667,Cholera,Absolute,All,All,CHONRC2021,0,130,768,No
+2100,Togo,1998,3217,Cholera,Absolute,All,All,CHONRC2022,0,130,768,No
+2101,Togo,1997,42,Cholera,Absolute,All,All,CHONRC2023,0,130,768,No
+2102,Togo,1996,146,Cholera,Absolute,All,All,CHONRC2024,0,130,768,No
+2103,Togo,1995,65,Cholera,Absolute,All,All,CHONRC2025,0,130,768,No
+2104,Togo,1994,47,Cholera,Absolute,All,All,CHONRC2026,0,130,768,No
+2105,Togo,1993,19,Cholera,Absolute,All,All,CHONRC2027,0,130,768,No
+2106,Togo,1992,753,Cholera,Absolute,All,All,CHONRC2028,0,130,768,No
+2107,Togo,1991,2396,Cholera,Absolute,All,All,CHONRC2029,0,130,768,No
+2108,Togo,1988,1,Cholera,Absolute,All,All,CHONRC2030,0,130,768,No
+2109,Togo,1978,6,Cholera,Absolute,All,All,CHONRC2031,0,130,768,No
+2110,Togo,1977,132,Cholera,Absolute,All,All,CHONRC2032,0,130,768,No
+2111,Togo,1974,58,Cholera,Absolute,All,All,CHONRC2033,0,130,768,No
+2112,Togo,1972,16,Cholera,Absolute,All,All,CHONRC2034,0,130,768,No
+2113,Togo,1971,335,Cholera,Absolute,All,All,CHONRC2035,0,130,768,No
+2114,Togo,1970,75,Cholera,Absolute,All,All,CHONRC2036,0,130,768,No
+2115,Tonga,2001,145,Cholera,Absolute,All,All,CHONRC2037,0,130,776,No
+2116,Tunisia,1973,656,Cholera,Absolute,All,All,CHONRC2038,0,130,788,No
+2117,Tunisia,1972,4,Cholera,Absolute,All,All,CHONRC2039,0,130,788,No
+2118,Tunisia,1970,27,Cholera,Absolute,All,All,CHONRC2040,0,130,788,No
+2119,Turkey,1977,17,Cholera,Absolute,All,All,CHONRC2041,0,130,792,No
+2120,Turkey,1970,384,Cholera,Absolute,All,All,CHONRC2042,0,130,792,No
+2121,Turkmenistan,2002,30,Cholera,Absolute,All,All,CHONRC2043,0,130,795,No
+2122,Turkmenistan,2001,561,Cholera,Absolute,All,All,CHONRC2044,0,130,795,No
+2123,Turkmenistan,1997,55,Cholera,Absolute,All,All,CHONRC2045,0,130,795,No
+2124,Turkmenistan,1994,1,Cholera,Absolute,All,All,CHONRC2046,0,130,795,No
+2125,Tuvalu,1992,293,Cholera,Absolute,All,All,CHONRC2047,0,130,798,No
+2126,Tuvalu,1990,42,Cholera,Absolute,All,All,CHONRC2048,0,130,798,No
+2127,Uganda,2012,6326,Cholera,Absolute,All,All,CHONRC2049,0,130,800,No
+2128,Uganda,2010,2341,Cholera,Absolute,All,All,CHONRC2050,0,130,800,No
+2129,Uganda,2009,1095,Cholera,Absolute,All,All,CHONRC2051,0,130,800,No
+2130,Uganda,2008,3726,Cholera,Absolute,All,All,CHONRC2052,0,130,800,No
+2131,Uganda,2007,276,Cholera,Absolute,All,All,CHONRC2053,0,130,800,No
+2132,Uganda,2006,5194,Cholera,Absolute,All,All,CHONRC2054,0,130,800,No
+2133,Uganda,2005,4924,Cholera,Absolute,All,All,CHONRC2055,0,130,800,No
+2134,Uganda,2004,3380,Cholera,Absolute,All,All,CHONRC2056,0,130,800,No
+2135,Uganda,2003,4377,Cholera,Absolute,All,All,CHONRC2057,0,130,800,No
+2136,Uganda,2002,2274,Cholera,Absolute,All,All,CHONRC2058,0,130,800,No
+2137,Uganda,2001,247,Cholera,Absolute,All,All,CHONRC2059,0,130,800,No
+2138,Uganda,2000,2807,Cholera,Absolute,All,All,CHONRC2060,0,130,800,No
+2139,Uganda,1999,5179,Cholera,Absolute,All,All,CHONRC2061,0,130,800,No
+2140,Uganda,1998,49514,Cholera,Absolute,All,All,CHONRC2062,0,130,800,No
+2141,Uganda,1997,2610,Cholera,Absolute,All,All,CHONRC2063,0,130,800,No
+2142,Uganda,1996,291,Cholera,Absolute,All,All,CHONRC2064,0,130,800,No
+2143,Uganda,1995,538,Cholera,Absolute,All,All,CHONRC2065,0,130,800,No
+2144,Uganda,1994,704,Cholera,Absolute,All,All,CHONRC2066,0,130,800,No
+2145,Uganda,1992,5072,Cholera,Absolute,All,All,CHONRC2067,0,130,800,No
+2146,Uganda,1991,279,Cholera,Absolute,All,All,CHONRC2068,0,130,800,No
+2147,Uganda,1987,140,Cholera,Absolute,All,All,CHONRC2069,0,130,800,No
+2148,Uganda,1982,190,Cholera,Absolute,All,All,CHONRC2070,0,130,800,No
+2149,Uganda,1980,1539,Cholera,Absolute,All,All,CHONRC2071,0,130,800,No
+2150,Uganda,1979,940,Cholera,Absolute,All,All,CHONRC2072,0,130,800,No
+2151,Uganda,1978,1120,Cholera,Absolute,All,All,CHONRC2073,0,130,800,No
+2152,Uganda,1975,3,Cholera,Absolute,All,All,CHONRC2074,0,130,800,No
+2153,Uganda,1971,757,Cholera,Absolute,All,All,CHONRC2075,0,130,800,No
+2154,Ukraine,2011,33,Cholera,Absolute,All,All,CHONRC2076,0,130,804,No
+2155,Ukraine,2007,0,Cholera,Absolute,All,All,CHONRC2077,0,130,804,No
+2156,Ukraine,1999,2,Cholera,Absolute,All,All,CHONRC2078,0,130,804,No
+2157,Ukraine,1995,525,Cholera,Absolute,All,All,CHONRC2079,0,130,804,No
+2158,Ukraine,1994,813,Cholera,Absolute,All,All,CHONRC2080,0,130,804,No
+2159,Ukraine,1991,75,Cholera,Absolute,All,All,CHONRC2081,0,130,804,No
+2160,United Arab Emirates,2002,3,Cholera,Absolute,All,All,CHONRC2082,0,130,784,No
+2161,United Arab Emirates,1972,2,Cholera,Absolute,All,All,CHONRC2083,0,130,784,No
+2162,United Kingdom,2012,17,Cholera,Absolute,All,All,CHONRC2084,0,130,826,No
+2163,United Kingdom,2011,32,Cholera,Absolute,All,All,CHONRC2085,0,130,826,No
+2164,United Kingdom,2010,8,Cholera,Absolute,All,All,CHONRC2086,0,130,826,No
+2165,United Kingdom,2009,16,Cholera,Absolute,All,All,CHONRC2087,0,130,826,No
+2166,United Kingdom,2008,8,Cholera,Absolute,All,All,CHONRC2088,0,130,826,No
+2167,United Kingdom,2007,32,Cholera,Absolute,All,All,CHONRC2089,0,130,826,No
+2168,United Kingdom,2006,49,Cholera,Absolute,All,All,CHONRC2090,0,130,826,No
+2169,United Kingdom,2004,13,Cholera,Absolute,All,All,CHONRC2091,0,130,826,No
+2170,United Kingdom,2003,9,Cholera,Absolute,All,All,CHONRC2092,0,130,826,No
+2171,United Kingdom,2000,33,Cholera,Absolute,All,All,CHONRC2093,0,130,826,No
+2172,United Kingdom,1998,18,Cholera,Absolute,All,All,CHONRC2094,0,130,826,No
+2173,United Kingdom,1997,6,Cholera,Absolute,All,All,CHONRC2095,0,130,826,No
+2174,United Kingdom,1996,13,Cholera,Absolute,All,All,CHONRC2096,0,130,826,No
+2175,United Kingdom,1995,10,Cholera,Absolute,All,All,CHONRC2097,0,130,826,No
+2176,United Kingdom,1994,18,Cholera,Absolute,All,All,CHONRC2098,0,130,826,No
+2177,United Kingdom,1993,13,Cholera,Absolute,All,All,CHONRC2099,0,130,826,No
+2178,United Kingdom,1992,5,Cholera,Absolute,All,All,CHONRC2100,0,130,826,No
+2179,United Kingdom,1991,8,Cholera,Absolute,All,All,CHONRC2101,0,130,826,No
+2180,United Kingdom,1990,6,Cholera,Absolute,All,All,CHONRC2102,0,130,826,No
+2181,United Kingdom,1989,1,Cholera,Absolute,All,All,CHONRC2103,0,130,826,No
+2182,United Kingdom,1988,10,Cholera,Absolute,All,All,CHONRC2104,0,130,826,No
+2183,United Kingdom,1987,2,Cholera,Absolute,All,All,CHONRC2105,0,130,826,No
+2184,United Kingdom,1986,11,Cholera,Absolute,All,All,CHONRC2106,0,130,826,No
+2185,United Kingdom,1985,4,Cholera,Absolute,All,All,CHONRC2107,0,130,826,No
+2186,United Kingdom,1984,5,Cholera,Absolute,All,All,CHONRC2108,0,130,826,No
+2187,United Kingdom,1983,4,Cholera,Absolute,All,All,CHONRC2109,0,130,826,No
+2188,United Kingdom,1982,1,Cholera,Absolute,All,All,CHONRC2110,0,130,826,No
+2189,United Kingdom,1981,12,Cholera,Absolute,All,All,CHONRC2111,0,130,826,No
+2190,United Kingdom,1980,6,Cholera,Absolute,All,All,CHONRC2112,0,130,826,No
+2191,United Kingdom,1977,2,Cholera,Absolute,All,All,CHONRC2113,0,130,826,No
+2192,United Kingdom,1976,1,Cholera,Absolute,All,All,CHONRC2114,0,130,826,No
+2193,United Kingdom,1975,1,Cholera,Absolute,All,All,CHONRC2115,0,130,826,No
+2194,United Kingdom,1974,3,Cholera,Absolute,All,All,CHONRC2116,0,130,826,No
+2195,United Kingdom,1973,5,Cholera,Absolute,All,All,CHONRC2117,0,130,826,No
+2196,United Kingdom,1972,2,Cholera,Absolute,All,All,CHONRC2118,0,130,826,No
+2197,United Kingdom,1971,3,Cholera,Absolute,All,All,CHONRC2119,0,130,826,No
+2198,United Kingdom,1970,1,Cholera,Absolute,All,All,CHONRC2120,0,130,826,No
+2199,United Republic of Tanzania,2012,286,Cholera,Absolute,All,All,CHONRC2121,0,130,834,No
+2200,United Republic of Tanzania,2011,942,Cholera,Absolute,All,All,CHONRC2122,0,130,834,No
+2201,United Republic of Tanzania,2010,4469,Cholera,Absolute,All,All,CHONRC2123,0,130,834,No
+2202,United Republic of Tanzania,2009,7700,Cholera,Absolute,All,All,CHONRC2124,0,130,834,No
+2203,United Republic of Tanzania,2008,2911,Cholera,Absolute,All,All,CHONRC2125,0,130,834,No
+2204,United Republic of Tanzania,2007,1609,Cholera,Absolute,All,All,CHONRC2126,0,130,834,No
+2205,United Republic of Tanzania,2006,14297,Cholera,Absolute,All,All,CHONRC2127,0,130,834,No
+2206,United Republic of Tanzania,2005,2945,Cholera,Absolute,All,All,CHONRC2128,0,130,834,No
+2207,United Republic of Tanzania,2004,10319,Cholera,Absolute,All,All,CHONRC2129,0,130,834,No
+2208,United Republic of Tanzania,2003,710,Cholera,Absolute,All,All,CHONRC2130,0,130,834,No
+2209,United Republic of Tanzania,2002,11920,Cholera,Absolute,All,All,CHONRC2131,0,130,834,No
+2210,United Republic of Tanzania,2001,1300,Cholera,Absolute,All,All,CHONRC2132,0,130,834,No
+2211,United Republic of Tanzania,2000,4637,Cholera,Absolute,All,All,CHONRC2133,0,130,834,No
+2212,United Republic of Tanzania,1999,12266,Cholera,Absolute,All,All,CHONRC2134,0,130,834,No
+2213,United Republic of Tanzania,1998,14488,Cholera,Absolute,All,All,CHONRC2135,0,130,834,No
+2214,United Republic of Tanzania,1997,40249,Cholera,Absolute,All,All,CHONRC2136,0,130,834,No
+2215,United Republic of Tanzania,1996,1464,Cholera,Absolute,All,All,CHONRC2137,0,130,834,No
+2216,United Republic of Tanzania,1995,2957,Cholera,Absolute,All,All,CHONRC2138,0,130,834,No
+2217,United Republic of Tanzania,1994,2240,Cholera,Absolute,All,All,CHONRC2139,0,130,834,No
+2218,United Republic of Tanzania,1993,792,Cholera,Absolute,All,All,CHONRC2140,0,130,834,No
+2219,United Republic of Tanzania,1992,18526,Cholera,Absolute,All,All,CHONRC2141,0,130,834,No
+2220,United Republic of Tanzania,1991,5676,Cholera,Absolute,All,All,CHONRC2142,0,130,834,No
+2221,United Republic of Tanzania,1990,2230,Cholera,Absolute,All,All,CHONRC2143,0,130,834,No
+2222,United Republic of Tanzania,1989,2150,Cholera,Absolute,All,All,CHONRC2144,0,130,834,No
+2223,United Republic of Tanzania,1988,5267,Cholera,Absolute,All,All,CHONRC2145,0,130,834,No
+2224,United Republic of Tanzania,1987,1892,Cholera,Absolute,All,All,CHONRC2146,0,130,834,No
+2225,United Republic of Tanzania,1986,1231,Cholera,Absolute,All,All,CHONRC2147,0,130,834,No
+2226,United Republic of Tanzania,1985,1984,Cholera,Absolute,All,All,CHONRC2148,0,130,834,No
+2227,United Republic of Tanzania,1984,2600,Cholera,Absolute,All,All,CHONRC2149,0,130,834,No
+2228,United Republic of Tanzania,1983,1816,Cholera,Absolute,All,All,CHONRC2150,0,130,834,No
+2229,United Republic of Tanzania,1982,4071,Cholera,Absolute,All,All,CHONRC2151,0,130,834,No
+2230,United Republic of Tanzania,1981,4241,Cholera,Absolute,All,All,CHONRC2152,0,130,834,No
+2231,United Republic of Tanzania,1980,5196,Cholera,Absolute,All,All,CHONRC2153,0,130,834,No
+2232,United Republic of Tanzania,1979,2559,Cholera,Absolute,All,All,CHONRC2154,0,130,834,No
+2233,United Republic of Tanzania,1978,6608,Cholera,Absolute,All,All,CHONRC2155,0,130,834,No
+2234,United Republic of Tanzania,1977,297,Cholera,Absolute,All,All,CHONRC2156,0,130,834,No
+2235,United Republic of Tanzania,1974,10,Cholera,Absolute,All,All,CHONRC2157,0,130,834,No
+2236,United States of America,2012,18,Cholera,Absolute,All,All,CHONRC2158,0,130,840,No
+2237,United States of America,2011,42,Cholera,Absolute,All,All,CHONRC2159,0,130,840,No
+2238,United States of America,2010,15,Cholera,Absolute,All,All,CHONRC2160,0,130,840,No
+2239,United States of America,2009,10,Cholera,Absolute,All,All,CHONRC2161,0,130,840,No
+2240,United States of America,2008,5,Cholera,Absolute,All,All,CHONRC2162,0,130,840,No
+2241,United States of America,2007,7,Cholera,Absolute,All,All,CHONRC2163,0,130,840,No
+2242,United States of America,2006,8,Cholera,Absolute,All,All,CHONRC2164,0,130,840,No
+2243,United States of America,2005,12,Cholera,Absolute,All,All,CHONRC2165,0,130,840,No
+2244,United States of America,2004,5,Cholera,Absolute,All,All,CHONRC2166,0,130,840,No
+2245,United States of America,2003,2,Cholera,Absolute,All,All,CHONRC2167,0,130,840,No
+2246,United States of America,2002,2,Cholera,Absolute,All,All,CHONRC2168,0,130,840,No
+2247,United States of America,2001,4,Cholera,Absolute,All,All,CHONRC2169,0,130,840,No
+2248,United States of America,2000,4,Cholera,Absolute,All,All,CHONRC2170,0,130,840,No
+2249,United States of America,1999,6,Cholera,Absolute,All,All,CHONRC2171,0,130,840,No
+2250,United States of America,1998,17,Cholera,Absolute,All,All,CHONRC2172,0,130,840,No
+2251,United States of America,1997,4,Cholera,Absolute,All,All,CHONRC2173,0,130,840,No
+2252,United States of America,1996,3,Cholera,Absolute,All,All,CHONRC2174,0,130,840,No
+2253,United States of America,1995,19,Cholera,Absolute,All,All,CHONRC2175,0,130,840,No
+2254,United States of America,1994,47,Cholera,Absolute,All,All,CHONRC2176,0,130,840,No
+2255,United States of America,1993,19,Cholera,Absolute,All,All,CHONRC2177,0,130,840,No
+2256,United States of America,1992,103,Cholera,Absolute,All,All,CHONRC2178,0,130,840,No
+2257,United States of America,1991,26,Cholera,Absolute,All,All,CHONRC2179,0,130,840,No
+2258,United States of America,1990,7,Cholera,Absolute,All,All,CHONRC2180,0,130,840,No
+2259,United States of America,1988,9,Cholera,Absolute,All,All,CHONRC2181,0,130,840,No
+2260,United States of America,1987,6,Cholera,Absolute,All,All,CHONRC2182,0,130,840,No
+2261,Uzbekistan,1994,1,Cholera,Absolute,All,All,CHONRC2183,0,130,860,No
+2262,Venezuela (Bolivarian Republic of),2011,49,Cholera,Absolute,All,All,CHONRC2184,0,130,862,No
+2263,Venezuela (Bolivarian Republic of),2000,141,Cholera,Absolute,All,All,CHONRC2185,0,130,862,No
+2264,Venezuela (Bolivarian Republic of),1999,376,Cholera,Absolute,All,All,CHONRC2186,0,130,862,No
+2265,Venezuela (Bolivarian Republic of),1998,313,Cholera,Absolute,All,All,CHONRC2187,0,130,862,No
+2266,Venezuela (Bolivarian Republic of),1997,2551,Cholera,Absolute,All,All,CHONRC2188,0,130,862,No
+2267,Venezuela (Bolivarian Republic of),1996,269,Cholera,Absolute,All,All,CHONRC2189,0,130,862,No
+2268,Venezuela (Bolivarian Republic of),1993,409,Cholera,Absolute,All,All,CHONRC2190,0,130,862,No
+2269,Venezuela (Bolivarian Republic of),1992,2842,Cholera,Absolute,All,All,CHONRC2191,0,130,862,No
+2270,Venezuela (Bolivarian Republic of),1991,15,Cholera,Absolute,All,All,CHONRC2192,0,130,862,No
+2271,Viet Nam,2011,3,Cholera,Absolute,All,All,CHONRC2193,0,130,704,No
+2272,Viet Nam,2010,606,Cholera,Absolute,All,All,CHONRC2194,0,130,704,No
+2273,Viet Nam,2009,471,Cholera,Absolute,All,All,CHONRC2195,0,130,704,No
+2274,Viet Nam,2008,853,Cholera,Absolute,All,All,CHONRC2196,0,130,704,No
+2275,Viet Nam,2007,1946,Cholera,Absolute,All,All,CHONRC2197,0,130,704,No
+2276,Viet Nam,2005,0,Cholera,Absolute,All,All,CHONRC2198,0,130,704,No
+2277,Viet Nam,1999,169,Cholera,Absolute,All,All,CHONRC2199,0,130,704,No
+2278,Viet Nam,1998,13,Cholera,Absolute,All,All,CHONRC2200,0,130,704,No
+2279,Viet Nam,1997,4,Cholera,Absolute,All,All,CHONRC2201,0,130,704,No
+2280,Viet Nam,1996,566,Cholera,Absolute,All,All,CHONRC2202,0,130,704,No
+2281,Viet Nam,1995,6088,Cholera,Absolute,All,All,CHONRC2203,0,130,704,No
+2282,Viet Nam,1994,5776,Cholera,Absolute,All,All,CHONRC2204,0,130,704,No
+2283,Viet Nam,1993,3361,Cholera,Absolute,All,All,CHONRC2205,0,130,704,No
+2284,Viet Nam,1992,4260,Cholera,Absolute,All,All,CHONRC2206,0,130,704,No
+2285,Viet Nam,1991,52,Cholera,Absolute,All,All,CHONRC2207,0,130,704,No
+2286,Viet Nam,1990,358,Cholera,Absolute,All,All,CHONRC2208,0,130,704,No
+2287,Viet Nam,1989,143,Cholera,Absolute,All,All,CHONRC2209,0,130,704,No
+2288,Viet Nam,1988,343,Cholera,Absolute,All,All,CHONRC2210,0,130,704,No
+2289,Viet Nam,1987,216,Cholera,Absolute,All,All,CHONRC2211,0,130,704,No
+2290,Viet Nam,1986,525,Cholera,Absolute,All,All,CHONRC2212,0,130,704,No
+2291,Viet Nam,1985,502,Cholera,Absolute,All,All,CHONRC2213,0,130,704,No
+2292,Viet Nam,1984,22,Cholera,Absolute,All,All,CHONRC2214,0,130,704,No
+2293,Viet Nam,1983,392,Cholera,Absolute,All,All,CHONRC2215,0,130,704,No
+2294,Viet Nam,1982,57,Cholera,Absolute,All,All,CHONRC2216,0,130,704,No
+2295,Viet Nam,1981,157,Cholera,Absolute,All,All,CHONRC2217,0,130,704,No
+2296,Viet Nam,1980,978,Cholera,Absolute,All,All,CHONRC2218,0,130,704,No
+2297,Viet Nam,1979,365,Cholera,Absolute,All,All,CHONRC2219,0,130,704,No
+2298,Viet Nam,1978,2,Cholera,Absolute,All,All,CHONRC2220,0,130,704,No
+2299,Viet Nam,1977,32,Cholera,Absolute,All,All,CHONRC2221,0,130,704,No
+2300,Viet Nam,1976,1068,Cholera,Absolute,All,All,CHONRC2222,0,130,704,No
+2301,Viet Nam,1975,5,Cholera,Absolute,All,All,CHONRC2223,0,130,704,No
+2302,Viet Nam,1974,139,Cholera,Absolute,All,All,CHONRC2224,0,130,704,No
+2303,Viet Nam,1973,1495,Cholera,Absolute,All,All,CHONRC2225,0,130,704,No
+2304,Viet Nam,1972,146,Cholera,Absolute,All,All,CHONRC2226,0,130,704,No
+2305,Viet Nam,1971,270,Cholera,Absolute,All,All,CHONRC2227,0,130,704,No
+2306,Viet Nam,1970,82,Cholera,Absolute,All,All,CHONRC2228,0,130,704,No
+2307,Viet Nam,1969,2573,Cholera,Absolute,All,All,CHONRC2229,0,130,704,No
+2308,Viet Nam,1968,1097,Cholera,Absolute,All,All,CHONRC2230,0,130,704,No
+2309,Viet Nam,1967,7664,Cholera,Absolute,All,All,CHONRC2231,0,130,704,No
+2310,Viet Nam,1966,8353,Cholera,Absolute,All,All,CHONRC2232,0,130,704,No
+2311,Viet Nam,1965,1738,Cholera,Absolute,All,All,CHONRC2233,0,130,704,No
+2312,Viet Nam,1964,20186,Cholera,Absolute,All,All,CHONRC2234,0,130,704,No
+2313,Viet Nam,1954,3,Cholera,Absolute,All,All,CHONRC2235,0,130,704,No
+2314,Viet Nam,1953,7,Cholera,Absolute,All,All,CHONRC2236,0,130,704,No
+2315,Viet Nam,1952,7,Cholera,Absolute,All,All,CHONRC2237,0,130,704,No
+2316,Viet Nam,1951,26,Cholera,Absolute,All,All,CHONRC2238,0,130,704,No
+2317,Viet Nam,1950,9,Cholera,Absolute,All,All,CHONRC2239,0,130,704,No
+2318,Yemen,2011,31789,Cholera,Absolute,All,All,CHONRC2240,0,130,887,No
+2319,Yemen,2011,31789,Cholera,Absolute,All,All,CHONRC2240,0,130,886,No
+2320,Yemen,2010,300,Cholera,Absolute,All,All,CHONRC2241,0,130,887,No
+2321,Yemen,2010,300,Cholera,Absolute,All,All,CHONRC2241,0,130,886,No
+2322,Yemen,2009,55,Cholera,Absolute,All,All,CHONRC2242,0,130,887,No
+2323,Yemen,2009,55,Cholera,Absolute,All,All,CHONRC2242,0,130,886,No
+2324,Yemen,1992,4,Cholera,Absolute,All,All,CHONRC2243,0,130,887,No
+2325,Yemen,1992,4,Cholera,Absolute,All,All,CHONRC2243,0,130,886,No
+2326,Yemen,1980,720,Cholera,Absolute,All,All,CHONRC2244,0,130,887,No
+2327,Yemen,1980,720,Cholera,Absolute,All,All,CHONRC2244,0,130,886,No
+2328,Yemen,1979,1953,Cholera,Absolute,All,All,CHONRC2245,0,130,887,No
+2329,Yemen,1979,1953,Cholera,Absolute,All,All,CHONRC2245,0,130,886,No
+2330,Yemen,1978,414,Cholera,Absolute,All,All,CHONRC2246,0,130,887,No
+2331,Yemen,1978,414,Cholera,Absolute,All,All,CHONRC2246,0,130,886,No
+2332,Yemen,1975,1,Cholera,Absolute,All,All,CHONRC2247,0,130,887,No
+2333,Yemen,1975,1,Cholera,Absolute,All,All,CHONRC2247,0,130,886,No
+2334,Yemen,1974,6,Cholera,Absolute,All,All,CHONRC2248,0,130,887,No
+2335,Yemen,1974,6,Cholera,Absolute,All,All,CHONRC2248,0,130,886,No
+2336,Yemen,1973,215,Cholera,Absolute,All,All,CHONRC2249,0,130,887,No
+2337,Yemen,1973,215,Cholera,Absolute,All,All,CHONRC2249,0,130,886,No
+2338,Yemen,1972,1064,Cholera,Absolute,All,All,CHONRC2250,0,130,887,No
+2339,Yemen,1972,1064,Cholera,Absolute,All,All,CHONRC2250,0,130,886,No
+2340,Yemen,1971,190,Cholera,Absolute,All,All,CHONRC2251,0,130,887,No
+2341,Yemen,1971,190,Cholera,Absolute,All,All,CHONRC2251,0,130,886,No
+2342,Zambia,2012,198,Cholera,Absolute,All,All,CHONRC2252,0,130,894,No
+2343,Zambia,2011,330,Cholera,Absolute,All,All,CHONRC2253,0,130,894,No
+2344,Zambia,2010,6794,Cholera,Absolute,All,All,CHONRC2254,0,130,894,No
+2345,Zambia,2009,4712,Cholera,Absolute,All,All,CHONRC2255,0,130,894,No
+2346,Zambia,2008,2061,Cholera,Absolute,All,All,CHONRC2256,0,130,894,No
+2347,Zambia,2007,2286,Cholera,Absolute,All,All,CHONRC2257,0,130,894,No
+2348,Zambia,2006,5360,Cholera,Absolute,All,All,CHONRC2258,0,130,894,No
+2349,Zambia,2005,1503,Cholera,Absolute,All,All,CHONRC2259,0,130,894,No
+2350,Zambia,2004,12149,Cholera,Absolute,All,All,CHONRC2260,0,130,894,No
+2351,Zambia,2003,1049,Cholera,Absolute,All,All,CHONRC2261,0,130,894,No
+2352,Zambia,2002,339,Cholera,Absolute,All,All,CHONRC2262,0,130,894,No
+2353,Zambia,2001,3109,Cholera,Absolute,All,All,CHONRC2263,0,130,894,No
+2354,Zambia,2000,4504,Cholera,Absolute,All,All,CHONRC2264,0,130,894,No
+2355,Zambia,1999,13511,Cholera,Absolute,All,All,CHONRC2265,0,130,894,No
+2356,Zambia,1998,171,Cholera,Absolute,All,All,CHONRC2266,0,130,894,No
+2357,Zambia,1997,36,Cholera,Absolute,All,All,CHONRC2267,0,130,894,No
+2358,Zambia,1996,2172,Cholera,Absolute,All,All,CHONRC2268,0,130,894,No
+2359,Zambia,1993,6766,Cholera,Absolute,All,All,CHONRC2269,0,130,894,No
+2360,Zambia,1992,11659,Cholera,Absolute,All,All,CHONRC2270,0,130,894,No
+2361,Zambia,1991,13154,Cholera,Absolute,All,All,CHONRC2271,0,130,894,No
+2362,Zambia,1990,3717,Cholera,Absolute,All,All,CHONRC2272,0,130,894,No
+2363,Zambia,1989,44,Cholera,Absolute,All,All,CHONRC2273,0,130,894,No
+2364,Zambia,1983,233,Cholera,Absolute,All,All,CHONRC2274,0,130,894,No
+2365,Zambia,1982,1403,Cholera,Absolute,All,All,CHONRC2275,0,130,894,No
+2366,Zambia,1981,14,Cholera,Absolute,All,All,CHONRC2276,0,130,894,No
+2367,Zambia,1980,57,Cholera,Absolute,All,All,CHONRC2277,0,130,894,No
+2368,Zambia,1979,12,Cholera,Absolute,All,All,CHONRC2278,0,130,894,No
+2369,Zambia,1978,263,Cholera,Absolute,All,All,CHONRC2279,0,130,894,No
+2370,Zimbabwe,2012,23,Cholera,Absolute,All,All,CHONRC2280,0,130,716,No
+2371,Zimbabwe,2011,1220,Cholera,Absolute,All,All,CHONRC2281,0,130,716,No
+2372,Zimbabwe,2010,951,Cholera,Absolute,All,All,CHONRC2282,0,130,716,No
+2373,Zimbabwe,2009,68153,Cholera,Absolute,All,All,CHONRC2283,0,130,716,No
+2374,Zimbabwe,2008,60055,Cholera,Absolute,All,All,CHONRC2284,0,130,716,No
+2375,Zimbabwe,2007,65,Cholera,Absolute,All,All,CHONRC2285,0,130,716,No
+2376,Zimbabwe,2006,789,Cholera,Absolute,All,All,CHONRC2286,0,130,716,No
+2377,Zimbabwe,2005,516,Cholera,Absolute,All,All,CHONRC2287,0,130,716,No
+2378,Zimbabwe,2004,119,Cholera,Absolute,All,All,CHONRC2288,0,130,716,No
+2379,Zimbabwe,2003,1009,Cholera,Absolute,All,All,CHONRC2289,0,130,716,No
+2380,Zimbabwe,2002,3125,Cholera,Absolute,All,All,CHONRC2290,0,130,716,No
+2381,Zimbabwe,2001,650,Cholera,Absolute,All,All,CHONRC2291,0,130,716,No
+2382,Zimbabwe,2000,1675,Cholera,Absolute,All,All,CHONRC2292,0,130,716,No
+2383,Zimbabwe,1999,5637,Cholera,Absolute,All,All,CHONRC2293,0,130,716,No
+2384,Zimbabwe,1998,995,Cholera,Absolute,All,All,CHONRC2294,0,130,716,No
+2385,Zimbabwe,1993,5385,Cholera,Absolute,All,All,CHONRC2295,0,130,716,No
+2386,Zimbabwe,1992,2048,Cholera,Absolute,All,All,CHONRC2296,0,130,716,No
+2387,Zimbabwe,1986,2,Cholera,Absolute,All,All,CHONRC2297,0,130,716,No
+2388,Zimbabwe,1985,144,Cholera,Absolute,All,All,CHONRC2298,0,130,716,No
+2389,Zimbabwe,1976,144,Cholera,Absolute,All,All,CHONRC2299,0,130,716,No
+2390,Zimbabwe,1975,615,Cholera,Absolute,All,All,CHONRC2300,0,130,716,No
+2391,Zimbabwe,1974,37,Cholera,Absolute,All,All,CHONRC2301,0,130,716,No
+2392,Zimbabwe,1973,1,Cholera,Absolute,All,All,CHONRC2302,0,130,716,No

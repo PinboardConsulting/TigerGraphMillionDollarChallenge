@@ -1,0 +1,144 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Bangladesh,2011,7365,Number of medical assistants,Absolute,All,All,NOMAS1,0,130,50,No
+1,Bangladesh,2005,4699,Number of medical assistants,Absolute,All,All,NOMAS2,0,130,50,No
+2,Bangladesh,2004,5598,Number of medical assistants,Absolute,All,All,NOMAS3,0,130,50,No
+3,Bhutan,2012,39,Number of medical assistants,Absolute,All,All,NOMAS4,0,130,64,No
+4,Bhutan,2008,43,Number of medical assistants,Absolute,All,All,NOMAS5,0,130,64,No
+5,Bhutan,2007,31,Number of medical assistants,Absolute,All,All,NOMAS6,0,130,64,No
+6,Bhutan,2004,17,Number of medical assistants,Absolute,All,All,NOMAS7,0,130,64,No
+7,Bolivia (Plurinational State of),2001,579,Number of medical assistants,Absolute,All,All,NOMAS8,0,130,68,No
+8,Burkina Faso,2004,941,Number of medical assistants,Absolute,All,All,NOMAS9,0,130,854,No
+9,Burundi,2004,942,Number of medical assistants,Absolute,All,All,NOMAS10,0,130,108,No
+10,Cambodia,1998,1699,Number of medical assistants,Absolute,All,All,NOMAS11,0,130,116,No
+11,Cambodia,1996,1458,Number of medical assistants,Absolute,All,All,NOMAS12,0,130,116,No
+12,Central African Republic,2004,347,Number of medical assistants,Absolute,All,All,NOMAS13,0,130,140,No
+13,Chad,2004,145,Number of medical assistants,Absolute,All,All,NOMAS14,0,130,148,No
+14,China,2010,440419,Number of medical assistants,Absolute,All,All,NOMAS15,0,130,156,No
+15,China,2009,423770,Number of medical assistants,Absolute,All,All,NOMAS16,0,130,156,No
+16,Congo,2007,291,Number of medical assistants,Absolute,All,All,NOMAS17,0,130,178,No
+17,Congo,2006,164,Number of medical assistants,Absolute,All,All,NOMAS18,0,130,178,No
+18,Congo,2004,955,Number of medical assistants,Absolute,All,All,NOMAS19,0,130,178,No
+19,Cook Islands,2009,2,Number of medical assistants,Absolute,All,All,NOMAS20,0,130,184,No
+20,Costa Rica,2000,995,Number of medical assistants,Absolute,All,All,NOMAS21,0,130,188,No
+21,Côte dIvoire,2008,568,Number of medical assistants,Absolute,All,All,NOMAS22,0,130,384,No
+22,Côte dIvoire,2005,1269,Number of medical assistants,Absolute,All,All,NOMAS23,0,130,384,No
+23,Côte dIvoire,2004,25,Number of medical assistants,Absolute,All,All,NOMAS24,0,130,384,No
+24,Democratic Peoples Republic of Korea,2003,63780,Number of medical assistants,Absolute,All,All,NOMAS25,0,130,408,No
+25,Democratic Republic of the Congo,2004,174,Number of medical assistants,Absolute,All,All,NOMAS26,0,130,180,No
+26,Djibouti,1999,4,Number of medical assistants,Absolute,All,All,NOMAS27,0,130,262,No
+27,Estonia,2000,153,Number of medical assistants,Absolute,All,All,NOMAS28,0,130,233,No
+28,Ethiopia,2009,3092,Number of medical assistants,Absolute,All,All,NOMAS29,0,130,231,No
+29,Ethiopia,2009,3092,Number of medical assistants,Absolute,All,All,NOMAS29,0,130,230,No
+30,Ethiopia,2008,3381,Number of medical assistants,Absolute,All,All,NOMAS30,0,130,231,No
+31,Ethiopia,2008,3381,Number of medical assistants,Absolute,All,All,NOMAS30,0,130,230,No
+32,Ethiopia,2007,4148,Number of medical assistants,Absolute,All,All,NOMAS31,0,130,231,No
+33,Ethiopia,2007,4148,Number of medical assistants,Absolute,All,All,NOMAS31,0,130,230,No
+34,Ethiopia,2006,5515,Number of medical assistants,Absolute,All,All,NOMAS32,0,130,231,No
+35,Ethiopia,2006,5515,Number of medical assistants,Absolute,All,All,NOMAS32,0,130,230,No
+36,Ethiopia,2005,7139,Number of medical assistants,Absolute,All,All,NOMAS33,0,130,231,No
+37,Ethiopia,2005,7139,Number of medical assistants,Absolute,All,All,NOMAS33,0,130,230,No
+38,Ethiopia,2004,7311,Number of medical assistants,Absolute,All,All,NOMAS34,0,130,231,No
+39,Ethiopia,2004,7311,Number of medical assistants,Absolute,All,All,NOMAS34,0,130,230,No
+40,Ethiopia,2003,7311,Number of medical assistants,Absolute,All,All,NOMAS35,0,130,231,No
+41,Ethiopia,2003,7311,Number of medical assistants,Absolute,All,All,NOMAS35,0,130,230,No
+42,Georgia,2009,1325,Number of medical assistants,Absolute,All,All,NOMAS36,0,130,268,No
+43,Georgia,2008,1719,Number of medical assistants,Absolute,All,All,NOMAS37,0,130,268,No
+44,Ghana,2008,501,Number of medical assistants,Absolute,All,All,NOMAS38,0,130,288,No
+45,Ghana,2007,451,Number of medical assistants,Absolute,All,All,NOMAS39,0,130,288,No
+46,Ghana,2004,787,Number of medical assistants,Absolute,All,All,NOMAS40,0,130,288,No
+47,Guinea,2005,2885,Number of medical assistants,Absolute,All,All,NOMAS41,0,130,324,No
+48,Guyana,2010,77,Number of medical assistants,Absolute,All,All,NOMAS42,0,130,328,No
+49,Guyana,2009,77,Number of medical assistants,Absolute,All,All,NOMAS43,0,130,328,No
+50,Honduras,2000,1052,Number of medical assistants,Absolute,All,All,NOMAS44,0,130,340,No
+51,India,1991,65500,Number of medical assistants,Absolute,All,All,NOMAS45,0,130,356,No
+52,Indonesia,2003,0,Number of medical assistants,Absolute,All,All,NOMAS46,0,130,360,No
+53,Iran (Islamic Republic of),2004,367,Number of medical assistants,Absolute,All,All,NOMAS47,0,130,364,No
+54,Kenya,2004,2186,Number of medical assistants,Absolute,All,All,NOMAS48,0,130,404,No
+55,Kenya,2002,4610,Number of medical assistants,Absolute,All,All,NOMAS49,0,130,404,No
+56,Lao Peoples Democratic Republic,2009,1449,Number of medical assistants,Absolute,All,All,NOMAS50,0,130,418,No
+57,Lao Peoples Democratic Republic,2005,1547,Number of medical assistants,Absolute,All,All,NOMAS51,0,130,418,No
+58,Lao Peoples Democratic Republic,2004,3800,Number of medical assistants,Absolute,All,All,NOMAS52,0,130,418,No
+59,Lao Peoples Democratic Republic,2000,1706,Number of medical assistants,Absolute,All,All,NOMAS53,0,130,418,No
+60,Lao Peoples Democratic Republic,1995,2800,Number of medical assistants,Absolute,All,All,NOMAS54,0,130,418,No
+61,Liberia,2008,195,Number of medical assistants,Absolute,All,All,NOMAS55,0,130,430,No
+62,Liberia,2004,540,Number of medical assistants,Absolute,All,All,NOMAS56,0,130,430,No
+63,Malawi,2009,1883,Number of medical assistants,Absolute,All,All,NOMAS57,0,130,454,No
+64,Malawi,2004,707,Number of medical assistants,Absolute,All,All,NOMAS58,0,130,454,No
+65,Malaysia,2010,10350,Number of medical assistants,Absolute,All,All,NOMAS59,0,130,458,No
+66,Mali,2010,339,Number of medical assistants,Absolute,All,All,NOMAS60,0,130,466,No
+67,Mali,2009,302,Number of medical assistants,Absolute,All,All,NOMAS61,0,130,466,No
+68,Mali,2008,304,Number of medical assistants,Absolute,All,All,NOMAS62,0,130,466,No
+69,Mali,2004,343,Number of medical assistants,Absolute,All,All,NOMAS63,0,130,466,No
+70,Mauritania,2009,188,Number of medical assistants,Absolute,All,All,NOMAS64,0,130,478,No
+71,Mauritania,2004,48,Number of medical assistants,Absolute,All,All,NOMAS65,0,130,478,No
+72,Mexico,2000,217226,Number of medical assistants,Absolute,All,All,NOMAS66,0,130,484,No
+73,Micronesia (Federated States of),2008,8,Number of medical assistants,Absolute,All,All,NOMAS67,0,130,583,No
+74,Mongolia,2002,3311,Number of medical assistants,Absolute,All,All,NOMAS68,0,130,496,No
+75,Morocco,2004,356,Number of medical assistants,Absolute,All,All,NOMAS69,0,130,504,No
+76,Mozambique,2008,144,Number of medical assistants,Absolute,All,All,NOMAS70,0,130,508,No
+77,Mozambique,2006,9,Number of medical assistants,Absolute,All,All,NOMAS71,0,130,508,No
+78,Mozambique,2004,1182,Number of medical assistants,Absolute,All,All,NOMAS72,0,130,508,No
+79,Myanmar,2011,1893,Number of medical assistants,Absolute,All,All,NOMAS73,0,130,104,No
+80,Myanmar,2010,1899,Number of medical assistants,Absolute,All,All,NOMAS74,0,130,104,No
+81,Myanmar,2009,1845,Number of medical assistants,Absolute,All,All,NOMAS75,0,130,104,No
+82,Myanmar,2008,1822,Number of medical assistants,Absolute,All,All,NOMAS76,0,130,104,No
+83,Myanmar,2007,1788,Number of medical assistants,Absolute,All,All,NOMAS77,0,130,104,No
+84,Myanmar,2006,1778,Number of medical assistants,Absolute,All,All,NOMAS78,0,130,104,No
+85,Myanmar,2005,1771,Number of medical assistants,Absolute,All,All,NOMAS79,0,130,104,No
+86,Myanmar,1988,1238,Number of medical assistants,Absolute,All,All,NOMAS80,0,130,104,No
+87,Niger,2004,4,Number of medical assistants,Absolute,All,All,NOMAS81,0,130,562,No
+88,Oman,2008,5,Number of medical assistants,Absolute,All,All,NOMAS82,0,130,512,No
+89,Oman,2004,10,Number of medical assistants,Absolute,All,All,NOMAS83,0,130,512,No
+90,Pakistan,2004,18862,Number of medical assistants,Absolute,All,All,NOMAS84,0,130,586,No
+91,Panama,2000,54,Number of medical assistants,Absolute,All,All,NOMAS85,0,130,591,No
+92,Panama,2000,54,Number of medical assistants,Absolute,All,All,NOMAS85,0,130,590,No
+93,Papua New Guinea,2008,718,Number of medical assistants,Absolute,All,All,NOMAS86,0,130,598,No
+94,Paraguay,2002,322,Number of medical assistants,Absolute,All,All,NOMAS87,0,130,600,No
+95,Romania,2002,110398,Number of medical assistants,Absolute,All,All,NOMAS88,0,130,642,No
+96,Russian Federation,2000,290061,Number of medical assistants,Absolute,All,All,NOMAS89,0,130,643,No
+97,Rwanda,2004,75,Number of medical assistants,Absolute,All,All,NOMAS90,0,130,646,No
+98,Sao Tome and Principe,2004,3,Number of medical assistants,Absolute,All,All,NOMAS91,0,130,678,No
+99,Senegal,2004,259,Number of medical assistants,Absolute,All,All,NOMAS92,0,130,686,No
+100,Sierra Leone,2008,22,Number of medical assistants,Absolute,All,All,NOMAS93,0,130,694,No
+101,South Africa,2013,2,Number of medical assistants,Absolute,All,All,NOMAS94,0,130,710,No
+102,South Africa,2004,13,Number of medical assistants,Absolute,All,All,NOMAS95,0,130,710,No
+103,Sri Lanka,2010,1107,Number of medical assistants,Absolute,All,All,NOMAS96,0,130,144,No
+104,Sri Lanka,2009,1046,Number of medical assistants,Absolute,All,All,NOMAS97,0,130,144,No
+105,Sri Lanka,2008,1134,Number of medical assistants,Absolute,All,All,NOMAS98,0,130,144,No
+106,Sri Lanka,2007,1194,Number of medical assistants,Absolute,All,All,NOMAS99,0,130,144,No
+107,Sri Lanka,2006,1183,Number of medical assistants,Absolute,All,All,NOMAS100,0,130,144,No
+108,Sri Lanka,2005,1274,Number of medical assistants,Absolute,All,All,NOMAS101,0,130,144,No
+109,Sri Lanka,2004,1339,Number of medical assistants,Absolute,All,All,NOMAS102,0,130,144,No
+110,Sri Lanka,2001,1343,Number of medical assistants,Absolute,All,All,NOMAS103,0,130,144,No
+111,Sri Lanka,2000,1349,Number of medical assistants,Absolute,All,All,NOMAS104,0,130,144,No
+112,Sri Lanka,1999,1340,Number of medical assistants,Absolute,All,All,NOMAS105,0,130,144,No
+113,Sri Lanka,1998,1324,Number of medical assistants,Absolute,All,All,NOMAS106,0,130,144,No
+114,Sri Lanka,1997,1384,Number of medical assistants,Absolute,All,All,NOMAS107,0,130,144,No
+115,Sri Lanka,1996,1397,Number of medical assistants,Absolute,All,All,NOMAS108,0,130,144,No
+116,Sri Lanka,1993,1305,Number of medical assistants,Absolute,All,All,NOMAS109,0,130,144,No
+117,Sri Lanka,1988,1100,Number of medical assistants,Absolute,All,All,NOMAS110,0,130,144,No
+118,Sri Lanka,1980,1018,Number of medical assistants,Absolute,All,All,NOMAS111,0,130,144,No
+119,Sudan,2004,6746,Number of medical assistants,Absolute,All,All,NOMAS112,0,130,729,No
+120,Sudan,2004,6746,Number of medical assistants,Absolute,All,All,NOMAS112,0,130,736,No
+121,Thailand,2000,2652,Number of medical assistants,Absolute,All,All,NOMAS113,0,130,764,No
+122,Timor-Leste,2004,4,Number of medical assistants,Absolute,All,All,NOMAS114,0,130,626,No
+123,Togo,2008,254,Number of medical assistants,Absolute,All,All,NOMAS115,0,130,768,No
+124,Togo,2007,230,Number of medical assistants,Absolute,All,All,NOMAS116,0,130,768,No
+125,Togo,2004,204,Number of medical assistants,Absolute,All,All,NOMAS117,0,130,768,No
+126,Tonga,2009,22,Number of medical assistants,Absolute,All,All,NOMAS118,0,130,776,No
+127,Turkmenistan,2002,4678,Number of medical assistants,Absolute,All,All,NOMAS119,0,130,795,No
+128,Uganda,2005,4378,Number of medical assistants,Absolute,All,All,NOMAS120,0,130,800,No
+129,Uganda,2004,2472,Number of medical assistants,Absolute,All,All,NOMAS121,0,130,800,No
+130,United Republic of Tanzania,2006,5762,Number of medical assistants,Absolute,All,All,NOMAS122,0,130,834,No
+131,United Republic of Tanzania,2002,29573,Number of medical assistants,Absolute,All,All,NOMAS123,0,130,834,No
+132,United States of America,2000,54759,Number of medical assistants,Absolute,All,All,NOMAS124,0,130,840,No
+133,Yemen,2010,2479,Number of medical assistants,Absolute,All,All,NOMAS125,0,130,887,No
+134,Yemen,2010,2479,Number of medical assistants,Absolute,All,All,NOMAS125,0,130,886,No
+135,Yemen,2004,3342,Number of medical assistants,Absolute,All,All,NOMAS126,0,130,887,No
+136,Yemen,2004,3342,Number of medical assistants,Absolute,All,All,NOMAS126,0,130,886,No
+137,Yemen,1997,932,Number of medical assistants,Absolute,All,All,NOMAS127,0,130,887,No
+138,Yemen,1997,932,Number of medical assistants,Absolute,All,All,NOMAS127,0,130,886,No
+139,Zambia,2009,526,Number of medical assistants,Absolute,All,All,NOMAS128,0,130,894,No
+140,Zambia,2008,412,Number of medical assistants,Absolute,All,All,NOMAS129,0,130,894,No
+141,Zambia,2006,1161,Number of medical assistants,Absolute,All,All,NOMAS130,0,130,894,No
+142,Zambia,2004,2122,Number of medical assistants,Absolute,All,All,NOMAS131,0,130,894,No

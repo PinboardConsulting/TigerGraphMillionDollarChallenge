@@ -1,0 +1,1810 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2012,294,Mortality rate,per 1k pop,15-60,Male,AMR1560A1,15,60,4,No
+1,Afghanistan,2012,242,Mortality rate,per 1k pop,15-60,Female,AMR1560A2,15,60,4,No
+2,Afghanistan,2012,268,Mortality rate,per 1k pop,15-60,All,AMR1560A3,15,60,4,No
+3,Afghanistan,2000,349,Mortality rate,per 1k pop,15-60,Male,AMR1560A4,15,60,4,No
+4,Afghanistan,2000,301,Mortality rate,per 1k pop,15-60,Female,AMR1560A5,15,60,4,No
+5,Afghanistan,2000,325,Mortality rate,per 1k pop,15-60,All,AMR1560A6,15,60,4,No
+6,Afghanistan,1990,412,Mortality rate,per 1k pop,15-60,Male,AMR1560A7,15,60,4,No
+7,Afghanistan,1990,368,Mortality rate,per 1k pop,15-60,Female,AMR1560A8,15,60,4,No
+8,Afghanistan,1990,389,Mortality rate,per 1k pop,15-60,All,AMR1560A9,15,60,4,No
+9,Albania,2012,121,Mortality rate,per 1k pop,15-60,Male,AMR1560A10,15,60,8,No
+10,Albania,2012,87,Mortality rate,per 1k pop,15-60,Female,AMR1560A11,15,60,8,No
+11,Albania,2012,104,Mortality rate,per 1k pop,15-60,All,AMR1560A12,15,60,8,No
+12,Albania,2000,157,Mortality rate,per 1k pop,15-60,Male,AMR1560A13,15,60,8,No
+13,Albania,2000,103,Mortality rate,per 1k pop,15-60,Female,AMR1560A14,15,60,8,No
+14,Albania,2000,130,Mortality rate,per 1k pop,15-60,All,AMR1560A15,15,60,8,No
+15,Albania,1990,158,Mortality rate,per 1k pop,15-60,Male,AMR1560A16,15,60,8,No
+16,Albania,1990,104,Mortality rate,per 1k pop,15-60,Female,AMR1560A17,15,60,8,No
+17,Albania,1990,133,Mortality rate,per 1k pop,15-60,All,AMR1560A18,15,60,8,No
+18,Algeria,2012,165,Mortality rate,per 1k pop,15-60,Male,AMR1560A19,15,60,12,No
+19,Algeria,2012,122,Mortality rate,per 1k pop,15-60,Female,AMR1560A20,15,60,12,No
+20,Algeria,2012,144,Mortality rate,per 1k pop,15-60,All,AMR1560A21,15,60,12,No
+21,Algeria,2000,183,Mortality rate,per 1k pop,15-60,Male,AMR1560A22,15,60,12,No
+22,Algeria,2000,138,Mortality rate,per 1k pop,15-60,Female,AMR1560A23,15,60,12,No
+23,Algeria,2000,161,Mortality rate,per 1k pop,15-60,All,AMR1560A24,15,60,12,No
+24,Algeria,1990,199,Mortality rate,per 1k pop,15-60,Male,AMR1560A25,15,60,12,No
+25,Algeria,1990,152,Mortality rate,per 1k pop,15-60,Female,AMR1560A26,15,60,12,No
+26,Algeria,1990,175,Mortality rate,per 1k pop,15-60,All,AMR1560A27,15,60,12,No
+27,Andorra,2012,92,Mortality rate,per 1k pop,15-60,Male,AMR1560A28,15,60,20,No
+28,Andorra,2012,43,Mortality rate,per 1k pop,15-60,Female,AMR1560A29,15,60,20,No
+29,Andorra,2012,68,Mortality rate,per 1k pop,15-60,All,AMR1560A30,15,60,20,No
+30,Andorra,2000,126,Mortality rate,per 1k pop,15-60,Male,AMR1560A31,15,60,20,No
+31,Andorra,2000,50,Mortality rate,per 1k pop,15-60,Female,AMR1560A32,15,60,20,No
+32,Andorra,2000,88,Mortality rate,per 1k pop,15-60,All,AMR1560A33,15,60,20,No
+33,Andorra,1990,144,Mortality rate,per 1k pop,15-60,Male,AMR1560A34,15,60,20,No
+34,Andorra,1990,60,Mortality rate,per 1k pop,15-60,Female,AMR1560A35,15,60,20,No
+35,Andorra,1990,102,Mortality rate,per 1k pop,15-60,All,AMR1560A36,15,60,20,No
+36,Angola,2012,376,Mortality rate,per 1k pop,15-60,Male,AMR1560A37,15,60,24,No
+37,Angola,2012,336,Mortality rate,per 1k pop,15-60,Female,AMR1560A38,15,60,24,No
+38,Angola,2012,356,Mortality rate,per 1k pop,15-60,All,AMR1560A39,15,60,24,No
+39,Angola,2000,440,Mortality rate,per 1k pop,15-60,Male,AMR1560A40,15,60,24,No
+40,Angola,2000,390,Mortality rate,per 1k pop,15-60,Female,AMR1560A41,15,60,24,No
+41,Angola,2000,415,Mortality rate,per 1k pop,15-60,All,AMR1560A42,15,60,24,No
+42,Angola,1990,505,Mortality rate,per 1k pop,15-60,Male,AMR1560A43,15,60,24,No
+43,Angola,1990,409,Mortality rate,per 1k pop,15-60,Female,AMR1560A44,15,60,24,No
+44,Angola,1990,458,Mortality rate,per 1k pop,15-60,All,AMR1560A45,15,60,24,No
+45,Antigua and Barbuda,2012,203,Mortality rate,per 1k pop,15-60,Male,AMR1560A46,15,60,28,No
+46,Antigua and Barbuda,2012,147,Mortality rate,per 1k pop,15-60,Female,AMR1560A47,15,60,28,No
+47,Antigua and Barbuda,2012,175,Mortality rate,per 1k pop,15-60,All,AMR1560A48,15,60,28,No
+48,Antigua and Barbuda,2000,203,Mortality rate,per 1k pop,15-60,Male,AMR1560A49,15,60,28,No
+49,Antigua and Barbuda,2000,148,Mortality rate,per 1k pop,15-60,Female,AMR1560A50,15,60,28,No
+50,Antigua and Barbuda,2000,176,Mortality rate,per 1k pop,15-60,All,AMR1560A51,15,60,28,No
+51,Antigua and Barbuda,1990,205,Mortality rate,per 1k pop,15-60,Male,AMR1560A52,15,60,28,No
+52,Antigua and Barbuda,1990,143,Mortality rate,per 1k pop,15-60,Female,AMR1560A53,15,60,28,No
+53,Antigua and Barbuda,1990,174,Mortality rate,per 1k pop,15-60,All,AMR1560A54,15,60,28,No
+54,Argentina,2012,152,Mortality rate,per 1k pop,15-60,Male,AMR1560A55,15,60,32,No
+55,Argentina,2012,84,Mortality rate,per 1k pop,15-60,Female,AMR1560A56,15,60,32,No
+56,Argentina,2012,118,Mortality rate,per 1k pop,15-60,All,AMR1560A57,15,60,32,No
+57,Argentina,2000,179,Mortality rate,per 1k pop,15-60,Male,AMR1560A58,15,60,32,No
+58,Argentina,2000,92,Mortality rate,per 1k pop,15-60,Female,AMR1560A59,15,60,32,No
+59,Argentina,2000,136,Mortality rate,per 1k pop,15-60,All,AMR1560A60,15,60,32,No
+60,Argentina,1990,198,Mortality rate,per 1k pop,15-60,Male,AMR1560A61,15,60,32,No
+61,Argentina,1990,103,Mortality rate,per 1k pop,15-60,Female,AMR1560A62,15,60,32,No
+62,Argentina,1990,150,Mortality rate,per 1k pop,15-60,All,AMR1560A63,15,60,32,No
+63,Armenia,2012,228,Mortality rate,per 1k pop,15-60,Male,AMR1560A64,15,60,51,No
+64,Armenia,2012,96,Mortality rate,per 1k pop,15-60,Female,AMR1560A65,15,60,51,No
+65,Armenia,2012,163,Mortality rate,per 1k pop,15-60,All,AMR1560A66,15,60,51,No
+66,Armenia,2000,210,Mortality rate,per 1k pop,15-60,Male,AMR1560A67,15,60,51,No
+67,Armenia,2000,96,Mortality rate,per 1k pop,15-60,Female,AMR1560A68,15,60,51,No
+68,Armenia,2000,149,Mortality rate,per 1k pop,15-60,All,AMR1560A69,15,60,51,No
+69,Armenia,1990,280,Mortality rate,per 1k pop,15-60,Male,AMR1560A70,15,60,51,No
+70,Armenia,1990,135,Mortality rate,per 1k pop,15-60,Female,AMR1560A71,15,60,51,No
+71,Armenia,1990,208,Mortality rate,per 1k pop,15-60,All,AMR1560A72,15,60,51,No
+72,Australia,2012,75,Mortality rate,per 1k pop,15-60,Male,AMR1560A73,15,60,36,No
+73,Australia,2012,44,Mortality rate,per 1k pop,15-60,Female,AMR1560A74,15,60,36,No
+74,Australia,2012,60,Mortality rate,per 1k pop,15-60,All,AMR1560A75,15,60,36,No
+75,Australia,2000,97,Mortality rate,per 1k pop,15-60,Male,AMR1560A76,15,60,36,No
+76,Australia,2000,55,Mortality rate,per 1k pop,15-60,Female,AMR1560A77,15,60,36,No
+77,Australia,2000,77,Mortality rate,per 1k pop,15-60,All,AMR1560A78,15,60,36,No
+78,Australia,1990,124,Mortality rate,per 1k pop,15-60,Male,AMR1560A79,15,60,36,No
+79,Australia,1990,66,Mortality rate,per 1k pop,15-60,Female,AMR1560A80,15,60,36,No
+80,Australia,1990,96,Mortality rate,per 1k pop,15-60,All,AMR1560A81,15,60,36,No
+81,Austria,2012,91,Mortality rate,per 1k pop,15-60,Male,AMR1560A82,15,60,40,No
+82,Austria,2012,47,Mortality rate,per 1k pop,15-60,Female,AMR1560A83,15,60,40,No
+83,Austria,2012,69,Mortality rate,per 1k pop,15-60,All,AMR1560A84,15,60,40,No
+84,Austria,2000,126,Mortality rate,per 1k pop,15-60,Male,AMR1560A85,15,60,40,No
+85,Austria,2000,63,Mortality rate,per 1k pop,15-60,Female,AMR1560A86,15,60,40,No
+86,Austria,2000,95,Mortality rate,per 1k pop,15-60,All,AMR1560A87,15,60,40,No
+87,Austria,1990,154,Mortality rate,per 1k pop,15-60,Male,AMR1560A88,15,60,40,No
+88,Austria,1990,74,Mortality rate,per 1k pop,15-60,Female,AMR1560A89,15,60,40,No
+89,Austria,1990,114,Mortality rate,per 1k pop,15-60,All,AMR1560A90,15,60,40,No
+90,Azerbaijan,2012,169,Mortality rate,per 1k pop,15-60,Male,AMR1560A91,15,60,31,No
+91,Azerbaijan,2012,82,Mortality rate,per 1k pop,15-60,Female,AMR1560A92,15,60,31,No
+92,Azerbaijan,2012,125,Mortality rate,per 1k pop,15-60,All,AMR1560A93,15,60,31,No
+93,Azerbaijan,2000,232,Mortality rate,per 1k pop,15-60,Male,AMR1560A94,15,60,31,No
+94,Azerbaijan,2000,122,Mortality rate,per 1k pop,15-60,Female,AMR1560A95,15,60,31,No
+95,Azerbaijan,2000,176,Mortality rate,per 1k pop,15-60,All,AMR1560A96,15,60,31,No
+96,Azerbaijan,1990,289,Mortality rate,per 1k pop,15-60,Male,AMR1560A97,15,60,31,No
+97,Azerbaijan,1990,162,Mortality rate,per 1k pop,15-60,Female,AMR1560A98,15,60,31,No
+98,Azerbaijan,1990,225,Mortality rate,per 1k pop,15-60,All,AMR1560A99,15,60,31,No
+99,Bahamas,2012,153,Mortality rate,per 1k pop,15-60,Male,AMR1560A100,15,60,44,No
+100,Bahamas,2012,100,Mortality rate,per 1k pop,15-60,Female,AMR1560A101,15,60,44,No
+101,Bahamas,2012,126,Mortality rate,per 1k pop,15-60,All,AMR1560A102,15,60,44,No
+102,Bahamas,2000,217,Mortality rate,per 1k pop,15-60,Male,AMR1560A103,15,60,44,No
+103,Bahamas,2000,137,Mortality rate,per 1k pop,15-60,Female,AMR1560A104,15,60,44,No
+104,Bahamas,2000,176,Mortality rate,per 1k pop,15-60,All,AMR1560A105,15,60,44,No
+105,Bahamas,1990,193,Mortality rate,per 1k pop,15-60,Male,AMR1560A106,15,60,44,No
+106,Bahamas,1990,120,Mortality rate,per 1k pop,15-60,Female,AMR1560A107,15,60,44,No
+107,Bahamas,1990,155,Mortality rate,per 1k pop,15-60,All,AMR1560A108,15,60,44,No
+108,Bahrain,2012,70,Mortality rate,per 1k pop,15-60,Male,AMR1560A109,15,60,48,No
+109,Bahrain,2012,55,Mortality rate,per 1k pop,15-60,Female,AMR1560A110,15,60,48,No
+110,Bahrain,2012,65,Mortality rate,per 1k pop,15-60,All,AMR1560A111,15,60,48,No
+111,Bahrain,2000,104,Mortality rate,per 1k pop,15-60,Male,AMR1560A112,15,60,48,No
+112,Bahrain,2000,83,Mortality rate,per 1k pop,15-60,Female,AMR1560A113,15,60,48,No
+113,Bahrain,2000,96,Mortality rate,per 1k pop,15-60,All,AMR1560A114,15,60,48,No
+114,Bahrain,1990,117,Mortality rate,per 1k pop,15-60,Male,AMR1560A115,15,60,48,No
+115,Bahrain,1990,103,Mortality rate,per 1k pop,15-60,Female,AMR1560A116,15,60,48,No
+116,Bahrain,1990,112,Mortality rate,per 1k pop,15-60,All,AMR1560A117,15,60,48,No
+117,Bangladesh,2012,159,Mortality rate,per 1k pop,15-60,Male,AMR1560A118,15,60,50,No
+118,Bangladesh,2012,129,Mortality rate,per 1k pop,15-60,Female,AMR1560A119,15,60,50,No
+119,Bangladesh,2012,145,Mortality rate,per 1k pop,15-60,All,AMR1560A120,15,60,50,No
+120,Bangladesh,2000,179,Mortality rate,per 1k pop,15-60,Male,AMR1560A121,15,60,50,No
+121,Bangladesh,2000,172,Mortality rate,per 1k pop,15-60,Female,AMR1560A122,15,60,50,No
+122,Bangladesh,2000,176,Mortality rate,per 1k pop,15-60,All,AMR1560A123,15,60,50,No
+123,Bangladesh,1990,195,Mortality rate,per 1k pop,15-60,Male,AMR1560A124,15,60,50,No
+124,Bangladesh,1990,212,Mortality rate,per 1k pop,15-60,Female,AMR1560A125,15,60,50,No
+125,Bangladesh,1990,203,Mortality rate,per 1k pop,15-60,All,AMR1560A126,15,60,50,No
+126,Barbados,2012,118,Mortality rate,per 1k pop,15-60,Male,AMR1560A127,15,60,52,No
+127,Barbados,2012,66,Mortality rate,per 1k pop,15-60,Female,AMR1560A128,15,60,52,No
+128,Barbados,2012,93,Mortality rate,per 1k pop,15-60,All,AMR1560A129,15,60,52,No
+129,Barbados,2000,175,Mortality rate,per 1k pop,15-60,Male,AMR1560A130,15,60,52,No
+130,Barbados,2000,105,Mortality rate,per 1k pop,15-60,Female,AMR1560A131,15,60,52,No
+131,Barbados,2000,140,Mortality rate,per 1k pop,15-60,All,AMR1560A132,15,60,52,No
+132,Barbados,1990,188,Mortality rate,per 1k pop,15-60,Male,AMR1560A133,15,60,52,No
+133,Barbados,1990,109,Mortality rate,per 1k pop,15-60,Female,AMR1560A134,15,60,52,No
+134,Barbados,1990,146,Mortality rate,per 1k pop,15-60,All,AMR1560A135,15,60,52,No
+135,Belarus,2012,287,Mortality rate,per 1k pop,15-60,Male,AMR1560A136,15,60,112,No
+136,Belarus,2012,98,Mortality rate,per 1k pop,15-60,Female,AMR1560A137,15,60,112,No
+137,Belarus,2012,192,Mortality rate,per 1k pop,15-60,All,AMR1560A138,15,60,112,No
+138,Belarus,2000,355,Mortality rate,per 1k pop,15-60,Male,AMR1560A139,15,60,112,No
+139,Belarus,2000,125,Mortality rate,per 1k pop,15-60,Female,AMR1560A140,15,60,112,No
+140,Belarus,2000,242,Mortality rate,per 1k pop,15-60,All,AMR1560A141,15,60,112,No
+141,Belarus,1990,283,Mortality rate,per 1k pop,15-60,Male,AMR1560A142,15,60,112,No
+142,Belarus,1990,107,Mortality rate,per 1k pop,15-60,Female,AMR1560A143,15,60,112,No
+143,Belarus,1990,195,Mortality rate,per 1k pop,15-60,All,AMR1560A144,15,60,112,No
+144,Belgium,2012,99,Mortality rate,per 1k pop,15-60,Male,AMR1560A145,15,60,56,No
+145,Belgium,2012,57,Mortality rate,per 1k pop,15-60,Female,AMR1560A146,15,60,56,No
+146,Belgium,2012,78,Mortality rate,per 1k pop,15-60,All,AMR1560A147,15,60,56,No
+147,Belgium,2000,130,Mortality rate,per 1k pop,15-60,Male,AMR1560A148,15,60,56,No
+148,Belgium,2000,68,Mortality rate,per 1k pop,15-60,Female,AMR1560A149,15,60,56,No
+149,Belgium,2000,100,Mortality rate,per 1k pop,15-60,All,AMR1560A150,15,60,56,No
+150,Belgium,1990,139,Mortality rate,per 1k pop,15-60,Male,AMR1560A151,15,60,56,No
+151,Belgium,1990,75,Mortality rate,per 1k pop,15-60,Female,AMR1560A152,15,60,56,No
+152,Belgium,1990,107,Mortality rate,per 1k pop,15-60,All,AMR1560A153,15,60,56,No
+153,Belize,2012,160,Mortality rate,per 1k pop,15-60,Male,AMR1560A154,15,60,84,No
+154,Belize,2012,86,Mortality rate,per 1k pop,15-60,Female,AMR1560A155,15,60,84,No
+155,Belize,2012,124,Mortality rate,per 1k pop,15-60,All,AMR1560A156,15,60,84,No
+156,Belize,2000,204,Mortality rate,per 1k pop,15-60,Male,AMR1560A157,15,60,84,No
+157,Belize,2000,107,Mortality rate,per 1k pop,15-60,Female,AMR1560A158,15,60,84,No
+158,Belize,2000,157,Mortality rate,per 1k pop,15-60,All,AMR1560A159,15,60,84,No
+159,Belize,1990,162,Mortality rate,per 1k pop,15-60,Male,AMR1560A160,15,60,84,No
+160,Belize,1990,104,Mortality rate,per 1k pop,15-60,Female,AMR1560A161,15,60,84,No
+161,Belize,1990,133,Mortality rate,per 1k pop,15-60,All,AMR1560A162,15,60,84,No
+162,Benin,2012,284,Mortality rate,per 1k pop,15-60,Male,AMR1560A163,15,60,204,No
+163,Benin,2012,240,Mortality rate,per 1k pop,15-60,Female,AMR1560A164,15,60,204,No
+164,Benin,2012,262,Mortality rate,per 1k pop,15-60,All,AMR1560A165,15,60,204,No
+165,Benin,2000,335,Mortality rate,per 1k pop,15-60,Male,AMR1560A166,15,60,204,No
+166,Benin,2000,279,Mortality rate,per 1k pop,15-60,Female,AMR1560A167,15,60,204,No
+167,Benin,2000,305,Mortality rate,per 1k pop,15-60,All,AMR1560A168,15,60,204,No
+168,Benin,1990,318,Mortality rate,per 1k pop,15-60,Male,AMR1560A169,15,60,204,No
+169,Benin,1990,246,Mortality rate,per 1k pop,15-60,Female,AMR1560A170,15,60,204,No
+170,Benin,1990,279,Mortality rate,per 1k pop,15-60,All,AMR1560A171,15,60,204,No
+171,Bhutan,2012,221,Mortality rate,per 1k pop,15-60,Male,AMR1560A172,15,60,64,No
+172,Bhutan,2012,217,Mortality rate,per 1k pop,15-60,Female,AMR1560A173,15,60,64,No
+173,Bhutan,2012,220,Mortality rate,per 1k pop,15-60,All,AMR1560A174,15,60,64,No
+174,Bhutan,2000,304,Mortality rate,per 1k pop,15-60,Male,AMR1560A175,15,60,64,No
+175,Bhutan,2000,322,Mortality rate,per 1k pop,15-60,Female,AMR1560A176,15,60,64,No
+176,Bhutan,2000,313,Mortality rate,per 1k pop,15-60,All,AMR1560A177,15,60,64,No
+177,Bhutan,1990,381,Mortality rate,per 1k pop,15-60,Male,AMR1560A178,15,60,64,No
+178,Bhutan,1990,403,Mortality rate,per 1k pop,15-60,Female,AMR1560A179,15,60,64,No
+179,Bhutan,1990,392,Mortality rate,per 1k pop,15-60,All,AMR1560A180,15,60,64,No
+180,Bolivia (Plurinational State of),2012,238,Mortality rate,per 1k pop,15-60,Male,AMR1560A181,15,60,68,No
+181,Bolivia (Plurinational State of),2012,175,Mortality rate,per 1k pop,15-60,Female,AMR1560A182,15,60,68,No
+182,Bolivia (Plurinational State of),2012,206,Mortality rate,per 1k pop,15-60,All,AMR1560A183,15,60,68,No
+183,Bolivia (Plurinational State of),2000,273,Mortality rate,per 1k pop,15-60,Male,AMR1560A184,15,60,68,No
+184,Bolivia (Plurinational State of),2000,208,Mortality rate,per 1k pop,15-60,Female,AMR1560A185,15,60,68,No
+185,Bolivia (Plurinational State of),2000,240,Mortality rate,per 1k pop,15-60,All,AMR1560A186,15,60,68,No
+186,Bolivia (Plurinational State of),1990,299,Mortality rate,per 1k pop,15-60,Male,AMR1560A187,15,60,68,No
+187,Bolivia (Plurinational State of),1990,245,Mortality rate,per 1k pop,15-60,Female,AMR1560A188,15,60,68,No
+188,Bolivia (Plurinational State of),1990,272,Mortality rate,per 1k pop,15-60,All,AMR1560A189,15,60,68,No
+189,Bosnia and Herzegovina,2012,140,Mortality rate,per 1k pop,15-60,Male,AMR1560A190,15,60,70,No
+190,Bosnia and Herzegovina,2012,65,Mortality rate,per 1k pop,15-60,Female,AMR1560A191,15,60,70,No
+191,Bosnia and Herzegovina,2012,102,Mortality rate,per 1k pop,15-60,All,AMR1560A192,15,60,70,No
+192,Bosnia and Herzegovina,2000,163,Mortality rate,per 1k pop,15-60,Male,AMR1560A193,15,60,70,No
+193,Bosnia and Herzegovina,2000,79,Mortality rate,per 1k pop,15-60,Female,AMR1560A194,15,60,70,No
+194,Bosnia and Herzegovina,2000,119,Mortality rate,per 1k pop,15-60,All,AMR1560A195,15,60,70,No
+195,Bosnia and Herzegovina,1990,181,Mortality rate,per 1k pop,15-60,Male,AMR1560A196,15,60,70,No
+196,Bosnia and Herzegovina,1990,86,Mortality rate,per 1k pop,15-60,Female,AMR1560A197,15,60,70,No
+197,Bosnia and Herzegovina,1990,134,Mortality rate,per 1k pop,15-60,All,AMR1560A198,15,60,70,No
+198,Botswana,2012,370,Mortality rate,per 1k pop,15-60,Male,AMR1560A199,15,60,72,No
+199,Botswana,2012,327,Mortality rate,per 1k pop,15-60,Female,AMR1560A200,15,60,72,No
+200,Botswana,2012,347,Mortality rate,per 1k pop,15-60,All,AMR1560A201,15,60,72,No
+201,Botswana,2000,646,Mortality rate,per 1k pop,15-60,Male,AMR1560A202,15,60,72,No
+202,Botswana,2000,674,Mortality rate,per 1k pop,15-60,Female,AMR1560A203,15,60,72,No
+203,Botswana,2000,660,Mortality rate,per 1k pop,15-60,All,AMR1560A204,15,60,72,No
+204,Botswana,1990,243,Mortality rate,per 1k pop,15-60,Male,AMR1560A205,15,60,72,No
+205,Botswana,1990,242,Mortality rate,per 1k pop,15-60,Female,AMR1560A206,15,60,72,No
+206,Botswana,1990,243,Mortality rate,per 1k pop,15-60,All,AMR1560A207,15,60,72,No
+207,Brazil,2012,210,Mortality rate,per 1k pop,15-60,Male,AMR1560A208,15,60,76,No
+208,Brazil,2012,107,Mortality rate,per 1k pop,15-60,Female,AMR1560A209,15,60,76,No
+209,Brazil,2012,159,Mortality rate,per 1k pop,15-60,All,AMR1560A210,15,60,76,No
+210,Brazil,2000,239,Mortality rate,per 1k pop,15-60,Male,AMR1560A211,15,60,76,No
+211,Brazil,2000,126,Mortality rate,per 1k pop,15-60,Female,AMR1560A212,15,60,76,No
+212,Brazil,2000,183,Mortality rate,per 1k pop,15-60,All,AMR1560A213,15,60,76,No
+213,Brazil,1990,272,Mortality rate,per 1k pop,15-60,Male,AMR1560A214,15,60,76,No
+214,Brazil,1990,150,Mortality rate,per 1k pop,15-60,Female,AMR1560A215,15,60,76,No
+215,Brazil,1990,212,Mortality rate,per 1k pop,15-60,All,AMR1560A216,15,60,76,No
+216,Brunei Darussalam,2012,104,Mortality rate,per 1k pop,15-60,Male,AMR1560A217,15,60,96,No
+217,Brunei Darussalam,2012,71,Mortality rate,per 1k pop,15-60,Female,AMR1560A218,15,60,96,No
+218,Brunei Darussalam,2012,88,Mortality rate,per 1k pop,15-60,All,AMR1560A219,15,60,96,No
+219,Brunei Darussalam,2000,115,Mortality rate,per 1k pop,15-60,Male,AMR1560A220,15,60,96,No
+220,Brunei Darussalam,2000,83,Mortality rate,per 1k pop,15-60,Female,AMR1560A221,15,60,96,No
+221,Brunei Darussalam,2000,100,Mortality rate,per 1k pop,15-60,All,AMR1560A222,15,60,96,No
+222,Brunei Darussalam,1990,151,Mortality rate,per 1k pop,15-60,Male,AMR1560A223,15,60,96,No
+223,Brunei Darussalam,1990,112,Mortality rate,per 1k pop,15-60,Female,AMR1560A224,15,60,96,No
+224,Brunei Darussalam,1990,133,Mortality rate,per 1k pop,15-60,All,AMR1560A225,15,60,96,No
+225,Bulgaria,2012,188,Mortality rate,per 1k pop,15-60,Male,AMR1560A226,15,60,100,No
+226,Bulgaria,2012,83,Mortality rate,per 1k pop,15-60,Female,AMR1560A227,15,60,100,No
+227,Bulgaria,2012,137,Mortality rate,per 1k pop,15-60,All,AMR1560A228,15,60,100,No
+228,Bulgaria,2000,223,Mortality rate,per 1k pop,15-60,Male,AMR1560A229,15,60,100,No
+229,Bulgaria,2000,97,Mortality rate,per 1k pop,15-60,Female,AMR1560A230,15,60,100,No
+230,Bulgaria,2000,161,Mortality rate,per 1k pop,15-60,All,AMR1560A231,15,60,100,No
+231,Bulgaria,1990,217,Mortality rate,per 1k pop,15-60,Male,AMR1560A232,15,60,100,No
+232,Bulgaria,1990,97,Mortality rate,per 1k pop,15-60,Female,AMR1560A233,15,60,100,No
+233,Bulgaria,1990,158,Mortality rate,per 1k pop,15-60,All,AMR1560A234,15,60,100,No
+234,Burkina Faso,2012,301,Mortality rate,per 1k pop,15-60,Male,AMR1560A235,15,60,854,No
+235,Burkina Faso,2012,259,Mortality rate,per 1k pop,15-60,Female,AMR1560A236,15,60,854,No
+236,Burkina Faso,2012,278,Mortality rate,per 1k pop,15-60,All,AMR1560A237,15,60,854,No
+237,Burkina Faso,2000,400,Mortality rate,per 1k pop,15-60,Male,AMR1560A238,15,60,854,No
+238,Burkina Faso,2000,365,Mortality rate,per 1k pop,15-60,Female,AMR1560A239,15,60,854,No
+239,Burkina Faso,2000,380,Mortality rate,per 1k pop,15-60,All,AMR1560A240,15,60,854,No
+240,Burkina Faso,1990,371,Mortality rate,per 1k pop,15-60,Male,AMR1560A241,15,60,854,No
+241,Burkina Faso,1990,313,Mortality rate,per 1k pop,15-60,Female,AMR1560A242,15,60,854,No
+242,Burkina Faso,1990,339,Mortality rate,per 1k pop,15-60,All,AMR1560A243,15,60,854,No
+243,Burundi,2012,370,Mortality rate,per 1k pop,15-60,Male,AMR1560A244,15,60,108,No
+244,Burundi,2012,313,Mortality rate,per 1k pop,15-60,Female,AMR1560A245,15,60,108,No
+245,Burundi,2012,342,Mortality rate,per 1k pop,15-60,All,AMR1560A246,15,60,108,No
+246,Burundi,2000,504,Mortality rate,per 1k pop,15-60,Male,AMR1560A247,15,60,108,No
+247,Burundi,2000,425,Mortality rate,per 1k pop,15-60,Female,AMR1560A248,15,60,108,No
+248,Burundi,2000,465,Mortality rate,per 1k pop,15-60,All,AMR1560A249,15,60,108,No
+249,Burundi,1990,417,Mortality rate,per 1k pop,15-60,Male,AMR1560A250,15,60,108,No
+250,Burundi,1990,356,Mortality rate,per 1k pop,15-60,Female,AMR1560A251,15,60,108,No
+251,Burundi,1990,385,Mortality rate,per 1k pop,15-60,All,AMR1560A252,15,60,108,No
+252,Cabo Verde,2012,149,Mortality rate,per 1k pop,15-60,Male,AMR1560A253,15,60,132,No
+253,Cabo Verde,2012,70,Mortality rate,per 1k pop,15-60,Female,AMR1560A254,15,60,132,No
+254,Cabo Verde,2012,107,Mortality rate,per 1k pop,15-60,All,AMR1560A255,15,60,132,No
+255,Cabo Verde,2000,211,Mortality rate,per 1k pop,15-60,Male,AMR1560A256,15,60,132,No
+256,Cabo Verde,2000,114,Mortality rate,per 1k pop,15-60,Female,AMR1560A257,15,60,132,No
+257,Cabo Verde,2000,157,Mortality rate,per 1k pop,15-60,All,AMR1560A258,15,60,132,No
+258,Cabo Verde,1990,240,Mortality rate,per 1k pop,15-60,Male,AMR1560A259,15,60,132,No
+259,Cabo Verde,1990,167,Mortality rate,per 1k pop,15-60,Female,AMR1560A260,15,60,132,No
+260,Cabo Verde,1990,197,Mortality rate,per 1k pop,15-60,All,AMR1560A261,15,60,132,No
+261,Cambodia,2012,212,Mortality rate,per 1k pop,15-60,Male,AMR1560A262,15,60,116,No
+262,Cambodia,2012,161,Mortality rate,per 1k pop,15-60,Female,AMR1560A263,15,60,116,No
+263,Cambodia,2012,185,Mortality rate,per 1k pop,15-60,All,AMR1560A264,15,60,116,No
+264,Cambodia,2000,307,Mortality rate,per 1k pop,15-60,Male,AMR1560A265,15,60,116,No
+265,Cambodia,2000,240,Mortality rate,per 1k pop,15-60,Female,AMR1560A266,15,60,116,No
+266,Cambodia,2000,271,Mortality rate,per 1k pop,15-60,All,AMR1560A267,15,60,116,No
+267,Cambodia,1990,400,Mortality rate,per 1k pop,15-60,Male,AMR1560A268,15,60,116,No
+268,Cambodia,1990,317,Mortality rate,per 1k pop,15-60,Female,AMR1560A269,15,60,116,No
+269,Cambodia,1990,358,Mortality rate,per 1k pop,15-60,All,AMR1560A270,15,60,116,No
+270,Cameroon,2012,371,Mortality rate,per 1k pop,15-60,Male,AMR1560A271,15,60,120,No
+271,Cameroon,2012,349,Mortality rate,per 1k pop,15-60,Female,AMR1560A272,15,60,120,No
+272,Cameroon,2012,360,Mortality rate,per 1k pop,15-60,All,AMR1560A273,15,60,120,No
+273,Cameroon,2000,398,Mortality rate,per 1k pop,15-60,Male,AMR1560A274,15,60,120,No
+274,Cameroon,2000,375,Mortality rate,per 1k pop,15-60,Female,AMR1560A275,15,60,120,No
+275,Cameroon,2000,386,Mortality rate,per 1k pop,15-60,All,AMR1560A276,15,60,120,No
+276,Cameroon,1990,340,Mortality rate,per 1k pop,15-60,Male,AMR1560A277,15,60,120,No
+277,Cameroon,1990,287,Mortality rate,per 1k pop,15-60,Female,AMR1560A278,15,60,120,No
+278,Cameroon,1990,313,Mortality rate,per 1k pop,15-60,All,AMR1560A279,15,60,120,No
+279,Canada,2012,83,Mortality rate,per 1k pop,15-60,Male,AMR1560A280,15,60,124,No
+280,Canada,2012,52,Mortality rate,per 1k pop,15-60,Female,AMR1560A281,15,60,124,No
+281,Canada,2012,68,Mortality rate,per 1k pop,15-60,All,AMR1560A282,15,60,124,No
+282,Canada,2000,100,Mortality rate,per 1k pop,15-60,Male,AMR1560A283,15,60,124,No
+283,Canada,2000,61,Mortality rate,per 1k pop,15-60,Female,AMR1560A284,15,60,124,No
+284,Canada,2000,81,Mortality rate,per 1k pop,15-60,All,AMR1560A285,15,60,124,No
+285,Canada,1990,132,Mortality rate,per 1k pop,15-60,Male,AMR1560A286,15,60,124,No
+286,Canada,1990,71,Mortality rate,per 1k pop,15-60,Female,AMR1560A287,15,60,124,No
+287,Canada,1990,102,Mortality rate,per 1k pop,15-60,All,AMR1560A288,15,60,124,No
+288,Central African Republic,2012,445,Mortality rate,per 1k pop,15-60,Male,AMR1560A289,15,60,140,No
+289,Central African Republic,2012,430,Mortality rate,per 1k pop,15-60,Female,AMR1560A290,15,60,140,No
+290,Central African Republic,2012,437,Mortality rate,per 1k pop,15-60,All,AMR1560A291,15,60,140,No
+291,Central African Republic,2000,531,Mortality rate,per 1k pop,15-60,Male,AMR1560A292,15,60,140,No
+292,Central African Republic,2000,516,Mortality rate,per 1k pop,15-60,Female,AMR1560A293,15,60,140,No
+293,Central African Republic,2000,523,Mortality rate,per 1k pop,15-60,All,AMR1560A294,15,60,140,No
+294,Central African Republic,1990,447,Mortality rate,per 1k pop,15-60,Male,AMR1560A295,15,60,140,No
+295,Central African Republic,1990,376,Mortality rate,per 1k pop,15-60,Female,AMR1560A296,15,60,140,No
+296,Central African Republic,1990,411,Mortality rate,per 1k pop,15-60,All,AMR1560A297,15,60,140,No
+297,Chad,2012,413,Mortality rate,per 1k pop,15-60,Male,AMR1560A298,15,60,148,No
+298,Chad,2012,385,Mortality rate,per 1k pop,15-60,Female,AMR1560A299,15,60,148,No
+299,Chad,2012,398,Mortality rate,per 1k pop,15-60,All,AMR1560A300,15,60,148,No
+300,Chad,2000,483,Mortality rate,per 1k pop,15-60,Male,AMR1560A301,15,60,148,No
+301,Chad,2000,442,Mortality rate,per 1k pop,15-60,Female,AMR1560A302,15,60,148,No
+302,Chad,2000,462,Mortality rate,per 1k pop,15-60,All,AMR1560A303,15,60,148,No
+303,Chad,1990,501,Mortality rate,per 1k pop,15-60,Male,AMR1560A304,15,60,148,No
+304,Chad,1990,401,Mortality rate,per 1k pop,15-60,Female,AMR1560A305,15,60,148,No
+305,Chad,1990,452,Mortality rate,per 1k pop,15-60,All,AMR1560A306,15,60,148,No
+306,Chile,2012,110,Mortality rate,per 1k pop,15-60,Male,AMR1560A307,15,60,152,No
+307,Chile,2012,56,Mortality rate,per 1k pop,15-60,Female,AMR1560A308,15,60,152,No
+308,Chile,2012,84,Mortality rate,per 1k pop,15-60,All,AMR1560A309,15,60,152,No
+309,Chile,2000,137,Mortality rate,per 1k pop,15-60,Male,AMR1560A310,15,60,152,No
+310,Chile,2000,69,Mortality rate,per 1k pop,15-60,Female,AMR1560A311,15,60,152,No
+311,Chile,2000,103,Mortality rate,per 1k pop,15-60,All,AMR1560A312,15,60,152,No
+312,Chile,1990,196,Mortality rate,per 1k pop,15-60,Male,AMR1560A313,15,60,152,No
+313,Chile,1990,98,Mortality rate,per 1k pop,15-60,Female,AMR1560A314,15,60,152,No
+314,Chile,1990,147,Mortality rate,per 1k pop,15-60,All,AMR1560A315,15,60,152,No
+315,China,2012,106,Mortality rate,per 1k pop,15-60,Male,AMR1560A316,15,60,156,No
+316,China,2012,79,Mortality rate,per 1k pop,15-60,Female,AMR1560A317,15,60,156,No
+317,China,2012,93,Mortality rate,per 1k pop,15-60,All,AMR1560A318,15,60,156,No
+318,China,2000,150,Mortality rate,per 1k pop,15-60,Male,AMR1560A319,15,60,156,No
+319,China,2000,106,Mortality rate,per 1k pop,15-60,Female,AMR1560A320,15,60,156,No
+320,China,2000,129,Mortality rate,per 1k pop,15-60,All,AMR1560A321,15,60,156,No
+321,China,1990,173,Mortality rate,per 1k pop,15-60,Male,AMR1560A322,15,60,156,No
+322,China,1990,127,Mortality rate,per 1k pop,15-60,Female,AMR1560A323,15,60,156,No
+323,China,1990,151,Mortality rate,per 1k pop,15-60,All,AMR1560A324,15,60,156,No
+324,Colombia,2012,147,Mortality rate,per 1k pop,15-60,Male,AMR1560A325,15,60,170,No
+325,Colombia,2012,74,Mortality rate,per 1k pop,15-60,Female,AMR1560A326,15,60,170,No
+326,Colombia,2012,110,Mortality rate,per 1k pop,15-60,All,AMR1560A327,15,60,170,No
+327,Colombia,2000,225,Mortality rate,per 1k pop,15-60,Male,AMR1560A328,15,60,170,No
+328,Colombia,2000,100,Mortality rate,per 1k pop,15-60,Female,AMR1560A329,15,60,170,No
+329,Colombia,2000,163,Mortality rate,per 1k pop,15-60,All,AMR1560A330,15,60,170,No
+330,Colombia,1990,230,Mortality rate,per 1k pop,15-60,Male,AMR1560A331,15,60,170,No
+331,Colombia,1990,115,Mortality rate,per 1k pop,15-60,Female,AMR1560A332,15,60,170,No
+332,Colombia,1990,173,Mortality rate,per 1k pop,15-60,All,AMR1560A333,15,60,170,No
+333,Comoros,2012,283,Mortality rate,per 1k pop,15-60,Male,AMR1560A334,15,60,174,No
+334,Comoros,2012,236,Mortality rate,per 1k pop,15-60,Female,AMR1560A335,15,60,174,No
+335,Comoros,2012,260,Mortality rate,per 1k pop,15-60,All,AMR1560A336,15,60,174,No
+336,Comoros,2000,317,Mortality rate,per 1k pop,15-60,Male,AMR1560A337,15,60,174,No
+337,Comoros,2000,263,Mortality rate,per 1k pop,15-60,Female,AMR1560A338,15,60,174,No
+338,Comoros,2000,290,Mortality rate,per 1k pop,15-60,All,AMR1560A339,15,60,174,No
+339,Comoros,1990,347,Mortality rate,per 1k pop,15-60,Male,AMR1560A340,15,60,174,No
+340,Comoros,1990,283,Mortality rate,per 1k pop,15-60,Female,AMR1560A341,15,60,174,No
+341,Comoros,1990,315,Mortality rate,per 1k pop,15-60,All,AMR1560A342,15,60,174,No
+342,Congo,2012,325,Mortality rate,per 1k pop,15-60,Male,AMR1560A343,15,60,178,No
+343,Congo,2012,284,Mortality rate,per 1k pop,15-60,Female,AMR1560A344,15,60,178,No
+344,Congo,2012,305,Mortality rate,per 1k pop,15-60,All,AMR1560A345,15,60,178,No
+345,Congo,2000,430,Mortality rate,per 1k pop,15-60,Male,AMR1560A346,15,60,178,No
+346,Congo,2000,422,Mortality rate,per 1k pop,15-60,Female,AMR1560A347,15,60,178,No
+347,Congo,2000,426,Mortality rate,per 1k pop,15-60,All,AMR1560A348,15,60,178,No
+348,Congo,1990,379,Mortality rate,per 1k pop,15-60,Male,AMR1560A349,15,60,178,No
+349,Congo,1990,325,Mortality rate,per 1k pop,15-60,Female,AMR1560A350,15,60,178,No
+350,Congo,1990,352,Mortality rate,per 1k pop,15-60,All,AMR1560A351,15,60,178,No
+351,Cook Islands,2012,166,Mortality rate,per 1k pop,15-60,Male,AMR1560A352,15,60,184,No
+352,Cook Islands,2012,74,Mortality rate,per 1k pop,15-60,Female,AMR1560A353,15,60,184,No
+353,Cook Islands,2012,122,Mortality rate,per 1k pop,15-60,All,AMR1560A354,15,60,184,No
+354,Cook Islands,2000,177,Mortality rate,per 1k pop,15-60,Male,AMR1560A355,15,60,184,No
+355,Cook Islands,2000,113,Mortality rate,per 1k pop,15-60,Female,AMR1560A356,15,60,184,No
+356,Cook Islands,2000,147,Mortality rate,per 1k pop,15-60,All,AMR1560A357,15,60,184,No
+357,Cook Islands,1990,253,Mortality rate,per 1k pop,15-60,Male,AMR1560A358,15,60,184,No
+358,Cook Islands,1990,155,Mortality rate,per 1k pop,15-60,Female,AMR1560A359,15,60,184,No
+359,Cook Islands,1990,207,Mortality rate,per 1k pop,15-60,All,AMR1560A360,15,60,184,No
+360,Costa Rica,2012,113,Mortality rate,per 1k pop,15-60,Male,AMR1560A361,15,60,188,No
+361,Costa Rica,2012,65,Mortality rate,per 1k pop,15-60,Female,AMR1560A362,15,60,188,No
+362,Costa Rica,2012,90,Mortality rate,per 1k pop,15-60,All,AMR1560A363,15,60,188,No
+363,Costa Rica,2000,124,Mortality rate,per 1k pop,15-60,Male,AMR1560A364,15,60,188,No
+364,Costa Rica,2000,75,Mortality rate,per 1k pop,15-60,Female,AMR1560A365,15,60,188,No
+365,Costa Rica,2000,100,Mortality rate,per 1k pop,15-60,All,AMR1560A366,15,60,188,No
+366,Costa Rica,1990,129,Mortality rate,per 1k pop,15-60,Male,AMR1560A367,15,60,188,No
+367,Costa Rica,1990,86,Mortality rate,per 1k pop,15-60,Female,AMR1560A368,15,60,188,No
+368,Costa Rica,1990,108,Mortality rate,per 1k pop,15-60,All,AMR1560A369,15,60,188,No
+369,Côte dIvoire,2012,409,Mortality rate,per 1k pop,15-60,Male,AMR1560A370,15,60,384,No
+370,Côte dIvoire,2012,396,Mortality rate,per 1k pop,15-60,Female,AMR1560A371,15,60,384,No
+371,Côte dIvoire,2012,404,Mortality rate,per 1k pop,15-60,All,AMR1560A372,15,60,384,No
+372,Côte dIvoire,2000,492,Mortality rate,per 1k pop,15-60,Male,AMR1560A373,15,60,384,No
+373,Côte dIvoire,2000,480,Mortality rate,per 1k pop,15-60,Female,AMR1560A374,15,60,384,No
+374,Côte dIvoire,2000,487,Mortality rate,per 1k pop,15-60,All,AMR1560A375,15,60,384,No
+375,Côte dIvoire,1990,412,Mortality rate,per 1k pop,15-60,Male,AMR1560A376,15,60,384,No
+376,Côte dIvoire,1990,351,Mortality rate,per 1k pop,15-60,Female,AMR1560A377,15,60,384,No
+377,Côte dIvoire,1990,386,Mortality rate,per 1k pop,15-60,All,AMR1560A378,15,60,384,No
+378,Croatia,2012,143,Mortality rate,per 1k pop,15-60,Male,AMR1560A379,15,60,191,No
+379,Croatia,2012,60,Mortality rate,per 1k pop,15-60,Female,AMR1560A380,15,60,191,No
+380,Croatia,2012,102,Mortality rate,per 1k pop,15-60,All,AMR1560A381,15,60,191,No
+381,Croatia,2000,184,Mortality rate,per 1k pop,15-60,Male,AMR1560A382,15,60,191,No
+382,Croatia,2000,76,Mortality rate,per 1k pop,15-60,Female,AMR1560A383,15,60,191,No
+383,Croatia,2000,130,Mortality rate,per 1k pop,15-60,All,AMR1560A384,15,60,191,No
+384,Croatia,1990,224,Mortality rate,per 1k pop,15-60,Male,AMR1560A385,15,60,191,No
+385,Croatia,1990,89,Mortality rate,per 1k pop,15-60,Female,AMR1560A386,15,60,191,No
+386,Croatia,1990,158,Mortality rate,per 1k pop,15-60,All,AMR1560A387,15,60,191,No
+387,Cuba,2012,124,Mortality rate,per 1k pop,15-60,Male,AMR1560A388,15,60,192,No
+388,Cuba,2012,74,Mortality rate,per 1k pop,15-60,Female,AMR1560A389,15,60,192,No
+389,Cuba,2012,100,Mortality rate,per 1k pop,15-60,All,AMR1560A390,15,60,192,No
+390,Cuba,2000,145,Mortality rate,per 1k pop,15-60,Male,AMR1560A391,15,60,192,No
+391,Cuba,2000,97,Mortality rate,per 1k pop,15-60,Female,AMR1560A392,15,60,192,No
+392,Cuba,2000,121,Mortality rate,per 1k pop,15-60,All,AMR1560A393,15,60,192,No
+393,Cuba,1990,155,Mortality rate,per 1k pop,15-60,Male,AMR1560A394,15,60,192,No
+394,Cuba,1990,111,Mortality rate,per 1k pop,15-60,Female,AMR1560A395,15,60,192,No
+395,Cuba,1990,133,Mortality rate,per 1k pop,15-60,All,AMR1560A396,15,60,192,No
+396,Cyprus,2012,77,Mortality rate,per 1k pop,15-60,Male,AMR1560A397,15,60,196,No
+397,Cyprus,2012,36,Mortality rate,per 1k pop,15-60,Female,AMR1560A398,15,60,196,No
+398,Cyprus,2012,57,Mortality rate,per 1k pop,15-60,All,AMR1560A399,15,60,196,No
+399,Cyprus,2000,107,Mortality rate,per 1k pop,15-60,Male,AMR1560A400,15,60,196,No
+400,Cyprus,2000,56,Mortality rate,per 1k pop,15-60,Female,AMR1560A401,15,60,196,No
+401,Cyprus,2000,83,Mortality rate,per 1k pop,15-60,All,AMR1560A402,15,60,196,No
+402,Cyprus,1990,110,Mortality rate,per 1k pop,15-60,Male,AMR1560A403,15,60,196,No
+403,Cyprus,1990,61,Mortality rate,per 1k pop,15-60,Female,AMR1560A404,15,60,196,No
+404,Cyprus,1990,86,Mortality rate,per 1k pop,15-60,All,AMR1560A405,15,60,196,No
+405,Czech Republic,2012,126,Mortality rate,per 1k pop,15-60,Male,AMR1560A406,15,60,203,No
+406,Czech Republic,2012,58,Mortality rate,per 1k pop,15-60,Female,AMR1560A407,15,60,203,No
+407,Czech Republic,2012,93,Mortality rate,per 1k pop,15-60,All,AMR1560A408,15,60,203,No
+408,Czech Republic,2000,172,Mortality rate,per 1k pop,15-60,Male,AMR1560A409,15,60,203,No
+409,Czech Republic,2000,76,Mortality rate,per 1k pop,15-60,Female,AMR1560A410,15,60,203,No
+410,Czech Republic,2000,125,Mortality rate,per 1k pop,15-60,All,AMR1560A411,15,60,203,No
+411,Czech Republic,1990,230,Mortality rate,per 1k pop,15-60,Male,AMR1560A412,15,60,203,No
+412,Czech Republic,1990,95,Mortality rate,per 1k pop,15-60,Female,AMR1560A413,15,60,203,No
+413,Czech Republic,1990,163,Mortality rate,per 1k pop,15-60,All,AMR1560A414,15,60,203,No
+414,Democratic Peoples Republic of Korea,2012,188,Mortality rate,per 1k pop,15-60,Male,AMR1560A415,15,60,408,No
+415,Democratic Peoples Republic of Korea,2012,115,Mortality rate,per 1k pop,15-60,Female,AMR1560A416,15,60,408,No
+416,Democratic Peoples Republic of Korea,2012,151,Mortality rate,per 1k pop,15-60,All,AMR1560A417,15,60,408,No
+417,Democratic Peoples Republic of Korea,2000,255,Mortality rate,per 1k pop,15-60,Male,AMR1560A418,15,60,408,No
+418,Democratic Peoples Republic of Korea,2000,145,Mortality rate,per 1k pop,15-60,Female,AMR1560A419,15,60,408,No
+419,Democratic Peoples Republic of Korea,2000,200,Mortality rate,per 1k pop,15-60,All,AMR1560A420,15,60,408,No
+420,Democratic Peoples Republic of Korea,1990,168,Mortality rate,per 1k pop,15-60,Male,AMR1560A421,15,60,408,No
+421,Democratic Peoples Republic of Korea,1990,105,Mortality rate,per 1k pop,15-60,Female,AMR1560A422,15,60,408,No
+422,Democratic Peoples Republic of Korea,1990,134,Mortality rate,per 1k pop,15-60,All,AMR1560A423,15,60,408,No
+423,Democratic Republic of the Congo,2012,382,Mortality rate,per 1k pop,15-60,Male,AMR1560A424,15,60,180,No
+424,Democratic Republic of the Congo,2012,323,Mortality rate,per 1k pop,15-60,Female,AMR1560A425,15,60,180,No
+425,Democratic Republic of the Congo,2012,352,Mortality rate,per 1k pop,15-60,All,AMR1560A426,15,60,180,No
+426,Democratic Republic of the Congo,2000,417,Mortality rate,per 1k pop,15-60,Male,AMR1560A427,15,60,180,No
+427,Democratic Republic of the Congo,2000,359,Mortality rate,per 1k pop,15-60,Female,AMR1560A428,15,60,180,No
+428,Democratic Republic of the Congo,2000,388,Mortality rate,per 1k pop,15-60,All,AMR1560A429,15,60,180,No
+429,Democratic Republic of the Congo,1990,401,Mortality rate,per 1k pop,15-60,Male,AMR1560A430,15,60,180,No
+430,Democratic Republic of the Congo,1990,345,Mortality rate,per 1k pop,15-60,Female,AMR1560A431,15,60,180,No
+431,Democratic Republic of the Congo,1990,372,Mortality rate,per 1k pop,15-60,All,AMR1560A432,15,60,180,No
+432,Denmark,2012,102,Mortality rate,per 1k pop,15-60,Male,AMR1560A433,15,60,208,No
+433,Denmark,2012,61,Mortality rate,per 1k pop,15-60,Female,AMR1560A434,15,60,208,No
+434,Denmark,2012,82,Mortality rate,per 1k pop,15-60,All,AMR1560A435,15,60,208,No
+435,Denmark,2000,122,Mortality rate,per 1k pop,15-60,Male,AMR1560A436,15,60,208,No
+436,Denmark,2000,77,Mortality rate,per 1k pop,15-60,Female,AMR1560A437,15,60,208,No
+437,Denmark,2000,100,Mortality rate,per 1k pop,15-60,All,AMR1560A438,15,60,208,No
+438,Denmark,1990,152,Mortality rate,per 1k pop,15-60,Male,AMR1560A439,15,60,208,No
+439,Denmark,1990,99,Mortality rate,per 1k pop,15-60,Female,AMR1560A440,15,60,208,No
+440,Denmark,1990,126,Mortality rate,per 1k pop,15-60,All,AMR1560A441,15,60,208,No
+441,Djibouti,2012,293,Mortality rate,per 1k pop,15-60,Male,AMR1560A442,15,60,262,No
+442,Djibouti,2012,250,Mortality rate,per 1k pop,15-60,Female,AMR1560A443,15,60,262,No
+443,Djibouti,2012,272,Mortality rate,per 1k pop,15-60,All,AMR1560A444,15,60,262,No
+444,Djibouti,2000,366,Mortality rate,per 1k pop,15-60,Male,AMR1560A445,15,60,262,No
+445,Djibouti,2000,298,Mortality rate,per 1k pop,15-60,Female,AMR1560A446,15,60,262,No
+446,Djibouti,2000,333,Mortality rate,per 1k pop,15-60,All,AMR1560A447,15,60,262,No
+447,Djibouti,1990,324,Mortality rate,per 1k pop,15-60,Male,AMR1560A448,15,60,262,No
+448,Djibouti,1990,269,Mortality rate,per 1k pop,15-60,Female,AMR1560A449,15,60,262,No
+449,Djibouti,1990,296,Mortality rate,per 1k pop,15-60,All,AMR1560A450,15,60,262,No
+450,Dominica,2012,225,Mortality rate,per 1k pop,15-60,Male,AMR1560A451,15,60,212,No
+451,Dominica,2012,118,Mortality rate,per 1k pop,15-60,Female,AMR1560A452,15,60,212,No
+452,Dominica,2012,172,Mortality rate,per 1k pop,15-60,All,AMR1560A453,15,60,212,No
+453,Dominica,2000,189,Mortality rate,per 1k pop,15-60,Male,AMR1560A454,15,60,212,No
+454,Dominica,2000,116,Mortality rate,per 1k pop,15-60,Female,AMR1560A455,15,60,212,No
+455,Dominica,2000,153,Mortality rate,per 1k pop,15-60,All,AMR1560A456,15,60,212,No
+456,Dominica,1990,194,Mortality rate,per 1k pop,15-60,Male,AMR1560A457,15,60,212,No
+457,Dominica,1990,145,Mortality rate,per 1k pop,15-60,Female,AMR1560A458,15,60,212,No
+458,Dominica,1990,170,Mortality rate,per 1k pop,15-60,All,AMR1560A459,15,60,212,No
+459,Dominican Republic,2012,137,Mortality rate,per 1k pop,15-60,Male,AMR1560A460,15,60,214,No
+460,Dominican Republic,2012,93,Mortality rate,per 1k pop,15-60,Female,AMR1560A461,15,60,214,No
+461,Dominican Republic,2012,115,Mortality rate,per 1k pop,15-60,All,AMR1560A462,15,60,214,No
+462,Dominican Republic,2000,171,Mortality rate,per 1k pop,15-60,Male,AMR1560A463,15,60,214,No
+463,Dominican Republic,2000,129,Mortality rate,per 1k pop,15-60,Female,AMR1560A464,15,60,214,No
+464,Dominican Republic,2000,150,Mortality rate,per 1k pop,15-60,All,AMR1560A465,15,60,214,No
+465,Dominican Republic,1990,183,Mortality rate,per 1k pop,15-60,Male,AMR1560A466,15,60,214,No
+466,Dominican Republic,1990,156,Mortality rate,per 1k pop,15-60,Female,AMR1560A467,15,60,214,No
+467,Dominican Republic,1990,170,Mortality rate,per 1k pop,15-60,All,AMR1560A468,15,60,214,No
+468,Ecuador,2012,159,Mortality rate,per 1k pop,15-60,Male,AMR1560A469,15,60,218,No
+469,Ecuador,2012,87,Mortality rate,per 1k pop,15-60,Female,AMR1560A470,15,60,218,No
+470,Ecuador,2012,124,Mortality rate,per 1k pop,15-60,All,AMR1560A471,15,60,218,No
+471,Ecuador,2000,192,Mortality rate,per 1k pop,15-60,Male,AMR1560A472,15,60,218,No
+472,Ecuador,2000,113,Mortality rate,per 1k pop,15-60,Female,AMR1560A473,15,60,218,No
+473,Ecuador,2000,154,Mortality rate,per 1k pop,15-60,All,AMR1560A474,15,60,218,No
+474,Ecuador,1990,219,Mortality rate,per 1k pop,15-60,Male,AMR1560A475,15,60,218,No
+475,Ecuador,1990,141,Mortality rate,per 1k pop,15-60,Female,AMR1560A476,15,60,218,No
+476,Ecuador,1990,181,Mortality rate,per 1k pop,15-60,All,AMR1560A477,15,60,218,No
+477,Egypt,2012,196,Mortality rate,per 1k pop,15-60,Male,AMR1560A478,15,60,818,No
+478,Egypt,2012,120,Mortality rate,per 1k pop,15-60,Female,AMR1560A479,15,60,818,No
+479,Egypt,2012,159,Mortality rate,per 1k pop,15-60,All,AMR1560A480,15,60,818,No
+480,Egypt,2000,218,Mortality rate,per 1k pop,15-60,Male,AMR1560A481,15,60,818,No
+481,Egypt,2000,136,Mortality rate,per 1k pop,15-60,Female,AMR1560A482,15,60,818,No
+482,Egypt,2000,177,Mortality rate,per 1k pop,15-60,All,AMR1560A483,15,60,818,No
+483,Egypt,1990,232,Mortality rate,per 1k pop,15-60,Male,AMR1560A484,15,60,818,No
+484,Egypt,1990,145,Mortality rate,per 1k pop,15-60,Female,AMR1560A485,15,60,818,No
+485,Egypt,1990,189,Mortality rate,per 1k pop,15-60,All,AMR1560A486,15,60,818,No
+486,El Salvador,2012,294,Mortality rate,per 1k pop,15-60,Male,AMR1560A487,15,60,222,No
+487,El Salvador,2012,138,Mortality rate,per 1k pop,15-60,Female,AMR1560A488,15,60,222,No
+488,El Salvador,2012,211,Mortality rate,per 1k pop,15-60,All,AMR1560A489,15,60,222,No
+489,El Salvador,2000,287,Mortality rate,per 1k pop,15-60,Male,AMR1560A490,15,60,222,No
+490,El Salvador,2000,142,Mortality rate,per 1k pop,15-60,Female,AMR1560A491,15,60,222,No
+491,El Salvador,2000,211,Mortality rate,per 1k pop,15-60,All,AMR1560A492,15,60,222,No
+492,El Salvador,1990,330,Mortality rate,per 1k pop,15-60,Male,AMR1560A493,15,60,222,No
+493,El Salvador,1990,162,Mortality rate,per 1k pop,15-60,Female,AMR1560A494,15,60,222,No
+494,El Salvador,1990,245,Mortality rate,per 1k pop,15-60,All,AMR1560A495,15,60,222,No
+495,Equatorial Guinea,2012,379,Mortality rate,per 1k pop,15-60,Male,AMR1560A496,15,60,226,No
+496,Equatorial Guinea,2012,336,Mortality rate,per 1k pop,15-60,Female,AMR1560A497,15,60,226,No
+497,Equatorial Guinea,2012,360,Mortality rate,per 1k pop,15-60,All,AMR1560A498,15,60,226,No
+498,Equatorial Guinea,2000,414,Mortality rate,per 1k pop,15-60,Male,AMR1560A499,15,60,226,No
+499,Equatorial Guinea,2000,374,Mortality rate,per 1k pop,15-60,Female,AMR1560A500,15,60,226,No
+500,Equatorial Guinea,2000,396,Mortality rate,per 1k pop,15-60,All,AMR1560A501,15,60,226,No
+501,Equatorial Guinea,1990,411,Mortality rate,per 1k pop,15-60,Male,AMR1560A502,15,60,226,No
+502,Equatorial Guinea,1990,353,Mortality rate,per 1k pop,15-60,Female,AMR1560A503,15,60,226,No
+503,Equatorial Guinea,1990,384,Mortality rate,per 1k pop,15-60,All,AMR1560A504,15,60,226,No
+504,Eritrea,2012,313,Mortality rate,per 1k pop,15-60,Male,AMR1560A505,15,60,232,No
+505,Eritrea,2012,245,Mortality rate,per 1k pop,15-60,Female,AMR1560A506,15,60,232,No
+506,Eritrea,2012,278,Mortality rate,per 1k pop,15-60,All,AMR1560A507,15,60,232,No
+507,Eritrea,2000,735,Mortality rate,per 1k pop,15-60,Male,AMR1560A508,15,60,232,No
+508,Eritrea,2000,426,Mortality rate,per 1k pop,15-60,Female,AMR1560A509,15,60,232,No
+509,Eritrea,2000,605,Mortality rate,per 1k pop,15-60,All,AMR1560A510,15,60,232,No
+510,Eritrea,1990,534,Mortality rate,per 1k pop,15-60,Male,AMR1560A511,15,60,232,No
+511,Eritrea,1990,447,Mortality rate,per 1k pop,15-60,Female,AMR1560A512,15,60,232,No
+512,Eritrea,1990,490,Mortality rate,per 1k pop,15-60,All,AMR1560A513,15,60,232,No
+513,Estonia,2012,199,Mortality rate,per 1k pop,15-60,Male,AMR1560A514,15,60,233,No
+514,Estonia,2012,68,Mortality rate,per 1k pop,15-60,Female,AMR1560A515,15,60,233,No
+515,Estonia,2012,133,Mortality rate,per 1k pop,15-60,All,AMR1560A516,15,60,233,No
+516,Estonia,2000,319,Mortality rate,per 1k pop,15-60,Male,AMR1560A517,15,60,233,No
+517,Estonia,2000,121,Mortality rate,per 1k pop,15-60,Female,AMR1560A518,15,60,233,No
+518,Estonia,2000,219,Mortality rate,per 1k pop,15-60,All,AMR1560A519,15,60,233,No
+519,Estonia,1990,301,Mortality rate,per 1k pop,15-60,Male,AMR1560A520,15,60,233,No
+520,Estonia,1990,107,Mortality rate,per 1k pop,15-60,Female,AMR1560A521,15,60,233,No
+521,Estonia,1990,204,Mortality rate,per 1k pop,15-60,All,AMR1560A522,15,60,233,No
+522,Ethiopia,2012,250,Mortality rate,per 1k pop,15-60,Male,AMR1560A523,15,60,231,No
+523,Ethiopia,2012,250,Mortality rate,per 1k pop,15-60,Male,AMR1560A523,15,60,230,No
+524,Ethiopia,2012,212,Mortality rate,per 1k pop,15-60,Female,AMR1560A524,15,60,231,No
+525,Ethiopia,2012,212,Mortality rate,per 1k pop,15-60,Female,AMR1560A524,15,60,230,No
+526,Ethiopia,2012,231,Mortality rate,per 1k pop,15-60,All,AMR1560A525,15,60,231,No
+527,Ethiopia,2012,231,Mortality rate,per 1k pop,15-60,All,AMR1560A525,15,60,230,No
+528,Ethiopia,2000,411,Mortality rate,per 1k pop,15-60,Male,AMR1560A526,15,60,231,No
+529,Ethiopia,2000,411,Mortality rate,per 1k pop,15-60,Male,AMR1560A526,15,60,230,No
+530,Ethiopia,2000,361,Mortality rate,per 1k pop,15-60,Female,AMR1560A527,15,60,231,No
+531,Ethiopia,2000,361,Mortality rate,per 1k pop,15-60,Female,AMR1560A527,15,60,230,No
+532,Ethiopia,2000,386,Mortality rate,per 1k pop,15-60,All,AMR1560A528,15,60,231,No
+533,Ethiopia,2000,386,Mortality rate,per 1k pop,15-60,All,AMR1560A528,15,60,230,No
+534,Ethiopia,1990,478,Mortality rate,per 1k pop,15-60,Male,AMR1560A529,15,60,231,No
+535,Ethiopia,1990,478,Mortality rate,per 1k pop,15-60,Male,AMR1560A529,15,60,230,No
+536,Ethiopia,1990,366,Mortality rate,per 1k pop,15-60,Female,AMR1560A530,15,60,231,No
+537,Ethiopia,1990,366,Mortality rate,per 1k pop,15-60,Female,AMR1560A530,15,60,230,No
+538,Ethiopia,1990,424,Mortality rate,per 1k pop,15-60,All,AMR1560A531,15,60,231,No
+539,Ethiopia,1990,424,Mortality rate,per 1k pop,15-60,All,AMR1560A531,15,60,230,No
+540,Fiji,2012,242,Mortality rate,per 1k pop,15-60,Male,AMR1560A532,15,60,242,No
+541,Fiji,2012,146,Mortality rate,per 1k pop,15-60,Female,AMR1560A533,15,60,242,No
+542,Fiji,2012,196,Mortality rate,per 1k pop,15-60,All,AMR1560A534,15,60,242,No
+543,Fiji,2000,265,Mortality rate,per 1k pop,15-60,Male,AMR1560A535,15,60,242,No
+544,Fiji,2000,177,Mortality rate,per 1k pop,15-60,Female,AMR1560A536,15,60,242,No
+545,Fiji,2000,222,Mortality rate,per 1k pop,15-60,All,AMR1560A537,15,60,242,No
+546,Fiji,1990,266,Mortality rate,per 1k pop,15-60,Male,AMR1560A538,15,60,242,No
+547,Fiji,1990,194,Mortality rate,per 1k pop,15-60,Female,AMR1560A539,15,60,242,No
+548,Fiji,1990,231,Mortality rate,per 1k pop,15-60,All,AMR1560A540,15,60,242,No
+549,Finland,2012,108,Mortality rate,per 1k pop,15-60,Male,AMR1560A541,15,60,246,No
+550,Finland,2012,51,Mortality rate,per 1k pop,15-60,Female,AMR1560A542,15,60,246,No
+551,Finland,2012,80,Mortality rate,per 1k pop,15-60,All,AMR1560A543,15,60,246,No
+552,Finland,2000,143,Mortality rate,per 1k pop,15-60,Male,AMR1560A544,15,60,246,No
+553,Finland,2000,63,Mortality rate,per 1k pop,15-60,Female,AMR1560A545,15,60,246,No
+554,Finland,2000,104,Mortality rate,per 1k pop,15-60,All,AMR1560A546,15,60,246,No
+555,Finland,1990,183,Mortality rate,per 1k pop,15-60,Male,AMR1560A547,15,60,246,No
+556,Finland,1990,70,Mortality rate,per 1k pop,15-60,Female,AMR1560A548,15,60,246,No
+557,Finland,1990,128,Mortality rate,per 1k pop,15-60,All,AMR1560A549,15,60,246,No
+558,France,2012,109,Mortality rate,per 1k pop,15-60,Male,AMR1560A550,15,60,250,No
+559,France,2012,52,Mortality rate,per 1k pop,15-60,Female,AMR1560A551,15,60,250,No
+560,France,2012,80,Mortality rate,per 1k pop,15-60,All,AMR1560A552,15,60,250,No
+561,France,2000,138,Mortality rate,per 1k pop,15-60,Male,AMR1560A553,15,60,250,No
+562,France,2000,61,Mortality rate,per 1k pop,15-60,Female,AMR1560A554,15,60,250,No
+563,France,2000,100,Mortality rate,per 1k pop,15-60,All,AMR1560A555,15,60,250,No
+564,France,1990,162,Mortality rate,per 1k pop,15-60,Male,AMR1560A556,15,60,250,No
+565,France,1990,67,Mortality rate,per 1k pop,15-60,Female,AMR1560A557,15,60,250,No
+566,France,1990,115,Mortality rate,per 1k pop,15-60,All,AMR1560A558,15,60,250,No
+567,Gabon,2012,285,Mortality rate,per 1k pop,15-60,Male,AMR1560A559,15,60,266,No
+568,Gabon,2012,273,Mortality rate,per 1k pop,15-60,Female,AMR1560A560,15,60,266,No
+569,Gabon,2012,279,Mortality rate,per 1k pop,15-60,All,AMR1560A561,15,60,266,No
+570,Gabon,2000,326,Mortality rate,per 1k pop,15-60,Male,AMR1560A562,15,60,266,No
+571,Gabon,2000,313,Mortality rate,per 1k pop,15-60,Female,AMR1560A563,15,60,266,No
+572,Gabon,2000,319,Mortality rate,per 1k pop,15-60,All,AMR1560A564,15,60,266,No
+573,Gabon,1990,267,Mortality rate,per 1k pop,15-60,Male,AMR1560A565,15,60,266,No
+574,Gabon,1990,221,Mortality rate,per 1k pop,15-60,Female,AMR1560A566,15,60,266,No
+575,Gabon,1990,243,Mortality rate,per 1k pop,15-60,All,AMR1560A567,15,60,266,No
+576,Gambia,2012,296,Mortality rate,per 1k pop,15-60,Male,AMR1560A568,15,60,270,No
+577,Gambia,2012,244,Mortality rate,per 1k pop,15-60,Female,AMR1560A569,15,60,270,No
+578,Gambia,2012,270,Mortality rate,per 1k pop,15-60,All,AMR1560A570,15,60,270,No
+579,Gambia,2000,323,Mortality rate,per 1k pop,15-60,Male,AMR1560A571,15,60,270,No
+580,Gambia,2000,280,Mortality rate,per 1k pop,15-60,Female,AMR1560A572,15,60,270,No
+581,Gambia,2000,303,Mortality rate,per 1k pop,15-60,All,AMR1560A573,15,60,270,No
+582,Gambia,1990,348,Mortality rate,per 1k pop,15-60,Male,AMR1560A574,15,60,270,No
+583,Gambia,1990,300,Mortality rate,per 1k pop,15-60,Female,AMR1560A575,15,60,270,No
+584,Gambia,1990,326,Mortality rate,per 1k pop,15-60,All,AMR1560A576,15,60,270,No
+585,Georgia,2012,176,Mortality rate,per 1k pop,15-60,Male,AMR1560A577,15,60,268,No
+586,Georgia,2012,66,Mortality rate,per 1k pop,15-60,Female,AMR1560A578,15,60,268,No
+587,Georgia,2012,119,Mortality rate,per 1k pop,15-60,All,AMR1560A579,15,60,268,No
+588,Georgia,2000,201,Mortality rate,per 1k pop,15-60,Male,AMR1560A580,15,60,268,No
+589,Georgia,2000,78,Mortality rate,per 1k pop,15-60,Female,AMR1560A581,15,60,268,No
+590,Georgia,2000,138,Mortality rate,per 1k pop,15-60,All,AMR1560A582,15,60,268,No
+591,Georgia,1990,217,Mortality rate,per 1k pop,15-60,Male,AMR1560A583,15,60,268,No
+592,Georgia,1990,86,Mortality rate,per 1k pop,15-60,Female,AMR1560A584,15,60,268,No
+593,Georgia,1990,150,Mortality rate,per 1k pop,15-60,All,AMR1560A585,15,60,268,No
+594,Germany,2012,94,Mortality rate,per 1k pop,15-60,Male,AMR1560A586,15,60,276,No
+595,Germany,2012,50,Mortality rate,per 1k pop,15-60,Female,AMR1560A587,15,60,276,No
+596,Germany,2012,72,Mortality rate,per 1k pop,15-60,All,AMR1560A588,15,60,276,No
+597,Germany,2000,124,Mortality rate,per 1k pop,15-60,Male,AMR1560A589,15,60,276,No
+598,Germany,2000,63,Mortality rate,per 1k pop,15-60,Female,AMR1560A590,15,60,276,No
+599,Germany,2000,94,Mortality rate,per 1k pop,15-60,All,AMR1560A591,15,60,276,No
+600,Germany,1990,157,Mortality rate,per 1k pop,15-60,Male,AMR1560A592,15,60,276,No
+601,Germany,1990,77,Mortality rate,per 1k pop,15-60,Female,AMR1560A593,15,60,276,No
+602,Germany,1990,119,Mortality rate,per 1k pop,15-60,All,AMR1560A594,15,60,276,No
+603,Ghana,2012,263,Mortality rate,per 1k pop,15-60,Male,AMR1560A595,15,60,288,No
+604,Ghana,2012,227,Mortality rate,per 1k pop,15-60,Female,AMR1560A596,15,60,288,No
+605,Ghana,2012,244,Mortality rate,per 1k pop,15-60,All,AMR1560A597,15,60,288,No
+606,Ghana,2000,309,Mortality rate,per 1k pop,15-60,Male,AMR1560A598,15,60,288,No
+607,Ghana,2000,285,Mortality rate,per 1k pop,15-60,Female,AMR1560A599,15,60,288,No
+608,Ghana,2000,297,Mortality rate,per 1k pop,15-60,All,AMR1560A600,15,60,288,No
+609,Ghana,1990,299,Mortality rate,per 1k pop,15-60,Male,AMR1560A601,15,60,288,No
+610,Ghana,1990,260,Mortality rate,per 1k pop,15-60,Female,AMR1560A602,15,60,288,No
+611,Ghana,1990,280,Mortality rate,per 1k pop,15-60,All,AMR1560A603,15,60,288,No
+612,Greece,2012,105,Mortality rate,per 1k pop,15-60,Male,AMR1560A604,15,60,300,No
+613,Greece,2012,46,Mortality rate,per 1k pop,15-60,Female,AMR1560A605,15,60,300,No
+614,Greece,2012,76,Mortality rate,per 1k pop,15-60,All,AMR1560A606,15,60,300,No
+615,Greece,2000,116,Mortality rate,per 1k pop,15-60,Male,AMR1560A607,15,60,300,No
+616,Greece,2000,48,Mortality rate,per 1k pop,15-60,Female,AMR1560A608,15,60,300,No
+617,Greece,2000,82,Mortality rate,per 1k pop,15-60,All,AMR1560A609,15,60,300,No
+618,Greece,1990,117,Mortality rate,per 1k pop,15-60,Male,AMR1560A610,15,60,300,No
+619,Greece,1990,56,Mortality rate,per 1k pop,15-60,Female,AMR1560A611,15,60,300,No
+620,Greece,1990,87,Mortality rate,per 1k pop,15-60,All,AMR1560A612,15,60,300,No
+621,Grenada,2012,195,Mortality rate,per 1k pop,15-60,Male,AMR1560A613,15,60,308,No
+622,Grenada,2012,121,Mortality rate,per 1k pop,15-60,Female,AMR1560A614,15,60,308,No
+623,Grenada,2012,159,Mortality rate,per 1k pop,15-60,All,AMR1560A615,15,60,308,No
+624,Grenada,2000,213,Mortality rate,per 1k pop,15-60,Male,AMR1560A616,15,60,308,No
+625,Grenada,2000,123,Mortality rate,per 1k pop,15-60,Female,AMR1560A617,15,60,308,No
+626,Grenada,2000,167,Mortality rate,per 1k pop,15-60,All,AMR1560A618,15,60,308,No
+627,Grenada,1990,215,Mortality rate,per 1k pop,15-60,Male,AMR1560A619,15,60,308,No
+628,Grenada,1990,150,Mortality rate,per 1k pop,15-60,Female,AMR1560A620,15,60,308,No
+629,Grenada,1990,182,Mortality rate,per 1k pop,15-60,All,AMR1560A621,15,60,308,No
+630,Guatemala,2012,240,Mortality rate,per 1k pop,15-60,Male,AMR1560A622,15,60,320,No
+631,Guatemala,2012,129,Mortality rate,per 1k pop,15-60,Female,AMR1560A623,15,60,320,No
+632,Guatemala,2012,182,Mortality rate,per 1k pop,15-60,All,AMR1560A624,15,60,320,No
+633,Guatemala,2000,279,Mortality rate,per 1k pop,15-60,Male,AMR1560A625,15,60,320,No
+634,Guatemala,2000,156,Mortality rate,per 1k pop,15-60,Female,AMR1560A626,15,60,320,No
+635,Guatemala,2000,217,Mortality rate,per 1k pop,15-60,All,AMR1560A627,15,60,320,No
+636,Guatemala,1990,320,Mortality rate,per 1k pop,15-60,Male,AMR1560A628,15,60,320,No
+637,Guatemala,1990,205,Mortality rate,per 1k pop,15-60,Female,AMR1560A629,15,60,320,No
+638,Guatemala,1990,265,Mortality rate,per 1k pop,15-60,All,AMR1560A630,15,60,320,No
+639,Guinea,2012,306,Mortality rate,per 1k pop,15-60,Male,AMR1560A631,15,60,324,No
+640,Guinea,2012,277,Mortality rate,per 1k pop,15-60,Female,AMR1560A632,15,60,324,No
+641,Guinea,2012,291,Mortality rate,per 1k pop,15-60,All,AMR1560A633,15,60,324,No
+642,Guinea,2000,359,Mortality rate,per 1k pop,15-60,Male,AMR1560A634,15,60,324,No
+643,Guinea,2000,329,Mortality rate,per 1k pop,15-60,Female,AMR1560A635,15,60,324,No
+644,Guinea,2000,344,Mortality rate,per 1k pop,15-60,All,AMR1560A636,15,60,324,No
+645,Guinea,1990,355,Mortality rate,per 1k pop,15-60,Male,AMR1560A637,15,60,324,No
+646,Guinea,1990,307,Mortality rate,per 1k pop,15-60,Female,AMR1560A638,15,60,324,No
+647,Guinea,1990,331,Mortality rate,per 1k pop,15-60,All,AMR1560A639,15,60,324,No
+648,Guinea-Bissau,2012,354,Mortality rate,per 1k pop,15-60,Male,AMR1560A640,15,60,624,No
+649,Guinea-Bissau,2012,307,Mortality rate,per 1k pop,15-60,Female,AMR1560A641,15,60,624,No
+650,Guinea-Bissau,2012,330,Mortality rate,per 1k pop,15-60,All,AMR1560A642,15,60,624,No
+651,Guinea-Bissau,2000,333,Mortality rate,per 1k pop,15-60,Male,AMR1560A643,15,60,624,No
+652,Guinea-Bissau,2000,301,Mortality rate,per 1k pop,15-60,Female,AMR1560A644,15,60,624,No
+653,Guinea-Bissau,2000,317,Mortality rate,per 1k pop,15-60,All,AMR1560A645,15,60,624,No
+654,Guinea-Bissau,1990,365,Mortality rate,per 1k pop,15-60,Male,AMR1560A646,15,60,624,No
+655,Guinea-Bissau,1990,286,Mortality rate,per 1k pop,15-60,Female,AMR1560A647,15,60,624,No
+656,Guinea-Bissau,1990,326,Mortality rate,per 1k pop,15-60,All,AMR1560A648,15,60,624,No
+657,Guyana,2012,379,Mortality rate,per 1k pop,15-60,Male,AMR1560A649,15,60,328,No
+658,Guyana,2012,259,Mortality rate,per 1k pop,15-60,Female,AMR1560A650,15,60,328,No
+659,Guyana,2012,323,Mortality rate,per 1k pop,15-60,All,AMR1560A651,15,60,328,No
+660,Guyana,2000,341,Mortality rate,per 1k pop,15-60,Male,AMR1560A652,15,60,328,No
+661,Guyana,2000,229,Mortality rate,per 1k pop,15-60,Female,AMR1560A653,15,60,328,No
+662,Guyana,2000,287,Mortality rate,per 1k pop,15-60,All,AMR1560A654,15,60,328,No
+663,Guyana,1990,372,Mortality rate,per 1k pop,15-60,Male,AMR1560A655,15,60,328,No
+664,Guyana,1990,231,Mortality rate,per 1k pop,15-60,Female,AMR1560A656,15,60,328,No
+665,Guyana,1990,304,Mortality rate,per 1k pop,15-60,All,AMR1560A657,15,60,328,No
+666,Haiti,2012,268,Mortality rate,per 1k pop,15-60,Male,AMR1560A658,15,60,332,No
+667,Haiti,2012,227,Mortality rate,per 1k pop,15-60,Female,AMR1560A659,15,60,332,No
+668,Haiti,2012,247,Mortality rate,per 1k pop,15-60,All,AMR1560A660,15,60,332,No
+669,Haiti,2000,353,Mortality rate,per 1k pop,15-60,Male,AMR1560A661,15,60,332,No
+670,Haiti,2000,318,Mortality rate,per 1k pop,15-60,Female,AMR1560A662,15,60,332,No
+671,Haiti,2000,335,Mortality rate,per 1k pop,15-60,All,AMR1560A663,15,60,332,No
+672,Haiti,1990,352,Mortality rate,per 1k pop,15-60,Male,AMR1560A664,15,60,332,No
+673,Haiti,1990,299,Mortality rate,per 1k pop,15-60,Female,AMR1560A665,15,60,332,No
+674,Haiti,1990,325,Mortality rate,per 1k pop,15-60,All,AMR1560A666,15,60,332,No
+675,Honduras,2012,176,Mortality rate,per 1k pop,15-60,Male,AMR1560A667,15,60,340,No
+676,Honduras,2012,122,Mortality rate,per 1k pop,15-60,Female,AMR1560A668,15,60,340,No
+677,Honduras,2012,149,Mortality rate,per 1k pop,15-60,All,AMR1560A669,15,60,340,No
+678,Honduras,2000,202,Mortality rate,per 1k pop,15-60,Male,AMR1560A670,15,60,340,No
+679,Honduras,2000,149,Mortality rate,per 1k pop,15-60,Female,AMR1560A671,15,60,340,No
+680,Honduras,2000,176,Mortality rate,per 1k pop,15-60,All,AMR1560A672,15,60,340,No
+681,Honduras,1990,239,Mortality rate,per 1k pop,15-60,Male,AMR1560A673,15,60,340,No
+682,Honduras,1990,179,Mortality rate,per 1k pop,15-60,Female,AMR1560A674,15,60,340,No
+683,Honduras,1990,210,Mortality rate,per 1k pop,15-60,All,AMR1560A675,15,60,340,No
+684,Hungary,2012,203,Mortality rate,per 1k pop,15-60,Male,AMR1560A676,15,60,348,No
+685,Hungary,2012,92,Mortality rate,per 1k pop,15-60,Female,AMR1560A677,15,60,348,No
+686,Hungary,2012,147,Mortality rate,per 1k pop,15-60,All,AMR1560A678,15,60,348,No
+687,Hungary,2000,271,Mortality rate,per 1k pop,15-60,Male,AMR1560A679,15,60,348,No
+688,Hungary,2000,114,Mortality rate,per 1k pop,15-60,Female,AMR1560A680,15,60,348,No
+689,Hungary,2000,193,Mortality rate,per 1k pop,15-60,All,AMR1560A681,15,60,348,No
+690,Hungary,1990,305,Mortality rate,per 1k pop,15-60,Male,AMR1560A682,15,60,348,No
+691,Hungary,1990,133,Mortality rate,per 1k pop,15-60,Female,AMR1560A683,15,60,348,No
+692,Hungary,1990,219,Mortality rate,per 1k pop,15-60,All,AMR1560A684,15,60,348,No
+693,Iceland,2012,67,Mortality rate,per 1k pop,15-60,Male,AMR1560A685,15,60,352,No
+694,Iceland,2012,34,Mortality rate,per 1k pop,15-60,Female,AMR1560A686,15,60,352,No
+695,Iceland,2012,51,Mortality rate,per 1k pop,15-60,All,AMR1560A687,15,60,352,No
+696,Iceland,2000,92,Mortality rate,per 1k pop,15-60,Male,AMR1560A688,15,60,352,No
+697,Iceland,2000,57,Mortality rate,per 1k pop,15-60,Female,AMR1560A689,15,60,352,No
+698,Iceland,2000,75,Mortality rate,per 1k pop,15-60,All,AMR1560A690,15,60,352,No
+699,Iceland,1990,112,Mortality rate,per 1k pop,15-60,Male,AMR1560A691,15,60,352,No
+700,Iceland,1990,69,Mortality rate,per 1k pop,15-60,Female,AMR1560A692,15,60,352,No
+701,Iceland,1990,91,Mortality rate,per 1k pop,15-60,All,AMR1560A693,15,60,352,No
+702,India,2012,242,Mortality rate,per 1k pop,15-60,Male,AMR1560A694,15,60,356,No
+703,India,2012,160,Mortality rate,per 1k pop,15-60,Female,AMR1560A695,15,60,356,No
+704,India,2012,203,Mortality rate,per 1k pop,15-60,All,AMR1560A696,15,60,356,No
+705,India,2000,271,Mortality rate,per 1k pop,15-60,Male,AMR1560A697,15,60,356,No
+706,India,2000,204,Mortality rate,per 1k pop,15-60,Female,AMR1560A698,15,60,356,No
+707,India,2000,239,Mortality rate,per 1k pop,15-60,All,AMR1560A699,15,60,356,No
+708,India,1990,288,Mortality rate,per 1k pop,15-60,Male,AMR1560A700,15,60,356,No
+709,India,1990,242,Mortality rate,per 1k pop,15-60,Female,AMR1560A701,15,60,356,No
+710,India,1990,266,Mortality rate,per 1k pop,15-60,All,AMR1560A702,15,60,356,No
+711,Indonesia,2012,178,Mortality rate,per 1k pop,15-60,Male,AMR1560A703,15,60,360,No
+712,Indonesia,2012,124,Mortality rate,per 1k pop,15-60,Female,AMR1560A704,15,60,360,No
+713,Indonesia,2012,152,Mortality rate,per 1k pop,15-60,All,AMR1560A705,15,60,360,No
+714,Indonesia,2000,221,Mortality rate,per 1k pop,15-60,Male,AMR1560A706,15,60,360,No
+715,Indonesia,2000,162,Mortality rate,per 1k pop,15-60,Female,AMR1560A707,15,60,360,No
+716,Indonesia,2000,191,Mortality rate,per 1k pop,15-60,All,AMR1560A708,15,60,360,No
+717,Indonesia,1990,266,Mortality rate,per 1k pop,15-60,Male,AMR1560A709,15,60,360,No
+718,Indonesia,1990,204,Mortality rate,per 1k pop,15-60,Female,AMR1560A710,15,60,360,No
+719,Indonesia,1990,235,Mortality rate,per 1k pop,15-60,All,AMR1560A711,15,60,360,No
+720,Iran (Islamic Republic of),2012,156,Mortality rate,per 1k pop,15-60,Male,AMR1560A712,15,60,364,No
+721,Iran (Islamic Republic of),2012,84,Mortality rate,per 1k pop,15-60,Female,AMR1560A713,15,60,364,No
+722,Iran (Islamic Republic of),2012,121,Mortality rate,per 1k pop,15-60,All,AMR1560A714,15,60,364,No
+723,Iran (Islamic Republic of),2000,178,Mortality rate,per 1k pop,15-60,Male,AMR1560A715,15,60,364,No
+724,Iran (Islamic Republic of),2000,131,Mortality rate,per 1k pop,15-60,Female,AMR1560A716,15,60,364,No
+725,Iran (Islamic Republic of),2000,155,Mortality rate,per 1k pop,15-60,All,AMR1560A717,15,60,364,No
+726,Iran (Islamic Republic of),1990,239,Mortality rate,per 1k pop,15-60,Male,AMR1560A718,15,60,364,No
+727,Iran (Islamic Republic of),1990,217,Mortality rate,per 1k pop,15-60,Female,AMR1560A719,15,60,364,No
+728,Iran (Islamic Republic of),1990,229,Mortality rate,per 1k pop,15-60,All,AMR1560A720,15,60,364,No
+729,Iraq,2012,223,Mortality rate,per 1k pop,15-60,Male,AMR1560A721,15,60,368,No
+730,Iraq,2012,107,Mortality rate,per 1k pop,15-60,Female,AMR1560A722,15,60,368,No
+731,Iraq,2012,165,Mortality rate,per 1k pop,15-60,All,AMR1560A723,15,60,368,No
+732,Iraq,2000,164,Mortality rate,per 1k pop,15-60,Male,AMR1560A724,15,60,368,No
+733,Iraq,2000,102,Mortality rate,per 1k pop,15-60,Female,AMR1560A725,15,60,368,No
+734,Iraq,2000,133,Mortality rate,per 1k pop,15-60,All,AMR1560A726,15,60,368,No
+735,Iraq,1990,170,Mortality rate,per 1k pop,15-60,Male,AMR1560A727,15,60,368,No
+736,Iraq,1990,117,Mortality rate,per 1k pop,15-60,Female,AMR1560A728,15,60,368,No
+737,Iraq,1990,143,Mortality rate,per 1k pop,15-60,All,AMR1560A729,15,60,368,No
+738,Ireland,2012,83,Mortality rate,per 1k pop,15-60,Male,AMR1560A730,15,60,372,No
+739,Ireland,2012,50,Mortality rate,per 1k pop,15-60,Female,AMR1560A731,15,60,372,No
+740,Ireland,2012,67,Mortality rate,per 1k pop,15-60,All,AMR1560A732,15,60,372,No
+741,Ireland,2000,120,Mortality rate,per 1k pop,15-60,Male,AMR1560A733,15,60,372,No
+742,Ireland,2000,70,Mortality rate,per 1k pop,15-60,Female,AMR1560A734,15,60,372,No
+743,Ireland,2000,96,Mortality rate,per 1k pop,15-60,All,AMR1560A735,15,60,372,No
+744,Ireland,1990,134,Mortality rate,per 1k pop,15-60,Male,AMR1560A736,15,60,372,No
+745,Ireland,1990,81,Mortality rate,per 1k pop,15-60,Female,AMR1560A737,15,60,372,No
+746,Ireland,1990,108,Mortality rate,per 1k pop,15-60,All,AMR1560A738,15,60,372,No
+747,Israel,2012,72,Mortality rate,per 1k pop,15-60,Male,AMR1560A739,15,60,376,No
+748,Israel,2012,39,Mortality rate,per 1k pop,15-60,Female,AMR1560A740,15,60,376,No
+749,Israel,2012,55,Mortality rate,per 1k pop,15-60,All,AMR1560A741,15,60,376,No
+750,Israel,2000,103,Mortality rate,per 1k pop,15-60,Male,AMR1560A742,15,60,376,No
+751,Israel,2000,55,Mortality rate,per 1k pop,15-60,Female,AMR1560A743,15,60,376,No
+752,Israel,2000,79,Mortality rate,per 1k pop,15-60,All,AMR1560A744,15,60,376,No
+753,Israel,1990,107,Mortality rate,per 1k pop,15-60,Male,AMR1560A745,15,60,376,No
+754,Israel,1990,71,Mortality rate,per 1k pop,15-60,Female,AMR1560A746,15,60,376,No
+755,Israel,1990,89,Mortality rate,per 1k pop,15-60,All,AMR1560A747,15,60,376,No
+756,Italy,2012,70,Mortality rate,per 1k pop,15-60,Male,AMR1560A748,15,60,380,No
+757,Italy,2012,39,Mortality rate,per 1k pop,15-60,Female,AMR1560A749,15,60,380,No
+758,Italy,2012,55,Mortality rate,per 1k pop,15-60,All,AMR1560A750,15,60,380,No
+759,Italy,2000,101,Mortality rate,per 1k pop,15-60,Male,AMR1560A751,15,60,380,No
+760,Italy,2000,51,Mortality rate,per 1k pop,15-60,Female,AMR1560A752,15,60,380,No
+761,Italy,2000,76,Mortality rate,per 1k pop,15-60,All,AMR1560A753,15,60,380,No
+762,Italy,1990,129,Mortality rate,per 1k pop,15-60,Male,AMR1560A754,15,60,380,No
+763,Italy,1990,60,Mortality rate,per 1k pop,15-60,Female,AMR1560A755,15,60,380,No
+764,Italy,1990,95,Mortality rate,per 1k pop,15-60,All,AMR1560A756,15,60,380,No
+765,Jamaica,2012,177,Mortality rate,per 1k pop,15-60,Male,AMR1560A757,15,60,388,No
+766,Jamaica,2012,107,Mortality rate,per 1k pop,15-60,Female,AMR1560A758,15,60,388,No
+767,Jamaica,2012,142,Mortality rate,per 1k pop,15-60,All,AMR1560A759,15,60,388,No
+768,Jamaica,2000,242,Mortality rate,per 1k pop,15-60,Male,AMR1560A760,15,60,388,No
+769,Jamaica,2000,140,Mortality rate,per 1k pop,15-60,Female,AMR1560A761,15,60,388,No
+770,Jamaica,2000,192,Mortality rate,per 1k pop,15-60,All,AMR1560A762,15,60,388,No
+771,Jamaica,1990,191,Mortality rate,per 1k pop,15-60,Male,AMR1560A763,15,60,388,No
+772,Jamaica,1990,122,Mortality rate,per 1k pop,15-60,Female,AMR1560A764,15,60,388,No
+773,Jamaica,1990,157,Mortality rate,per 1k pop,15-60,All,AMR1560A765,15,60,388,No
+774,Japan,2012,82,Mortality rate,per 1k pop,15-60,Male,AMR1560A766,15,60,392,No
+775,Japan,2012,82,Mortality rate,per 1k pop,15-60,Male,AMR1560A766,15,60,392,No
+776,Japan,2012,43,Mortality rate,per 1k pop,15-60,Female,AMR1560A767,15,60,392,No
+777,Japan,2012,43,Mortality rate,per 1k pop,15-60,Female,AMR1560A767,15,60,392,No
+778,Japan,2012,63,Mortality rate,per 1k pop,15-60,All,AMR1560A768,15,60,392,No
+779,Japan,2012,63,Mortality rate,per 1k pop,15-60,All,AMR1560A768,15,60,392,No
+780,Japan,2000,98,Mortality rate,per 1k pop,15-60,Male,AMR1560A769,15,60,392,No
+781,Japan,2000,98,Mortality rate,per 1k pop,15-60,Male,AMR1560A769,15,60,392,No
+782,Japan,2000,48,Mortality rate,per 1k pop,15-60,Female,AMR1560A770,15,60,392,No
+783,Japan,2000,48,Mortality rate,per 1k pop,15-60,Female,AMR1560A770,15,60,392,No
+784,Japan,2000,73,Mortality rate,per 1k pop,15-60,All,AMR1560A771,15,60,392,No
+785,Japan,2000,73,Mortality rate,per 1k pop,15-60,All,AMR1560A771,15,60,392,No
+786,Japan,1990,109,Mortality rate,per 1k pop,15-60,Male,AMR1560A772,15,60,392,No
+787,Japan,1990,109,Mortality rate,per 1k pop,15-60,Male,AMR1560A772,15,60,392,No
+788,Japan,1990,53,Mortality rate,per 1k pop,15-60,Female,AMR1560A773,15,60,392,No
+789,Japan,1990,53,Mortality rate,per 1k pop,15-60,Female,AMR1560A773,15,60,392,No
+790,Japan,1990,81,Mortality rate,per 1k pop,15-60,All,AMR1560A774,15,60,392,No
+791,Japan,1990,81,Mortality rate,per 1k pop,15-60,All,AMR1560A774,15,60,392,No
+792,Jordan,2012,132,Mortality rate,per 1k pop,15-60,Male,AMR1560A775,15,60,400,No
+793,Jordan,2012,97,Mortality rate,per 1k pop,15-60,Female,AMR1560A776,15,60,400,No
+794,Jordan,2012,115,Mortality rate,per 1k pop,15-60,All,AMR1560A777,15,60,400,No
+795,Jordan,2000,151,Mortality rate,per 1k pop,15-60,Male,AMR1560A778,15,60,400,No
+796,Jordan,2000,116,Mortality rate,per 1k pop,15-60,Female,AMR1560A779,15,60,400,No
+797,Jordan,2000,134,Mortality rate,per 1k pop,15-60,All,AMR1560A780,15,60,400,No
+798,Jordan,1990,175,Mortality rate,per 1k pop,15-60,Male,AMR1560A781,15,60,400,No
+799,Jordan,1990,135,Mortality rate,per 1k pop,15-60,Female,AMR1560A782,15,60,400,No
+800,Jordan,1990,156,Mortality rate,per 1k pop,15-60,All,AMR1560A783,15,60,400,No
+801,Kazakhstan,2012,324,Mortality rate,per 1k pop,15-60,Male,AMR1560A784,15,60,398,No
+802,Kazakhstan,2012,147,Mortality rate,per 1k pop,15-60,Female,AMR1560A785,15,60,398,No
+803,Kazakhstan,2012,235,Mortality rate,per 1k pop,15-60,All,AMR1560A786,15,60,398,No
+804,Kazakhstan,2000,422,Mortality rate,per 1k pop,15-60,Male,AMR1560A787,15,60,398,No
+805,Kazakhstan,2000,194,Mortality rate,per 1k pop,15-60,Female,AMR1560A788,15,60,398,No
+806,Kazakhstan,2000,309,Mortality rate,per 1k pop,15-60,All,AMR1560A789,15,60,398,No
+807,Kazakhstan,1990,318,Mortality rate,per 1k pop,15-60,Male,AMR1560A790,15,60,398,No
+808,Kazakhstan,1990,150,Mortality rate,per 1k pop,15-60,Female,AMR1560A791,15,60,398,No
+809,Kazakhstan,1990,235,Mortality rate,per 1k pop,15-60,All,AMR1560A792,15,60,398,No
+810,Kenya,2012,307,Mortality rate,per 1k pop,15-60,Male,AMR1560A793,15,60,404,No
+811,Kenya,2012,261,Mortality rate,per 1k pop,15-60,Female,AMR1560A794,15,60,404,No
+812,Kenya,2012,284,Mortality rate,per 1k pop,15-60,All,AMR1560A795,15,60,404,No
+813,Kenya,2000,458,Mortality rate,per 1k pop,15-60,Male,AMR1560A796,15,60,404,No
+814,Kenya,2000,419,Mortality rate,per 1k pop,15-60,Female,AMR1560A797,15,60,404,No
+815,Kenya,2000,438,Mortality rate,per 1k pop,15-60,All,AMR1560A798,15,60,404,No
+816,Kenya,1990,287,Mortality rate,per 1k pop,15-60,Male,AMR1560A799,15,60,404,No
+817,Kenya,1990,228,Mortality rate,per 1k pop,15-60,Female,AMR1560A800,15,60,404,No
+818,Kenya,1990,258,Mortality rate,per 1k pop,15-60,All,AMR1560A801,15,60,404,No
+819,Kiribati,2012,210,Mortality rate,per 1k pop,15-60,Male,AMR1560A802,15,60,296,No
+820,Kiribati,2012,138,Mortality rate,per 1k pop,15-60,Female,AMR1560A803,15,60,296,No
+821,Kiribati,2012,176,Mortality rate,per 1k pop,15-60,All,AMR1560A804,15,60,296,No
+822,Kiribati,2000,255,Mortality rate,per 1k pop,15-60,Male,AMR1560A805,15,60,296,No
+823,Kiribati,2000,180,Mortality rate,per 1k pop,15-60,Female,AMR1560A806,15,60,296,No
+824,Kiribati,2000,219,Mortality rate,per 1k pop,15-60,All,AMR1560A807,15,60,296,No
+825,Kiribati,1990,299,Mortality rate,per 1k pop,15-60,Male,AMR1560A808,15,60,296,No
+826,Kiribati,1990,222,Mortality rate,per 1k pop,15-60,Female,AMR1560A809,15,60,296,No
+827,Kiribati,1990,264,Mortality rate,per 1k pop,15-60,All,AMR1560A810,15,60,296,No
+828,Kuwait,2012,59,Mortality rate,per 1k pop,15-60,Male,AMR1560A811,15,60,414,No
+829,Kuwait,2012,43,Mortality rate,per 1k pop,15-60,Female,AMR1560A812,15,60,414,No
+830,Kuwait,2012,53,Mortality rate,per 1k pop,15-60,All,AMR1560A813,15,60,414,No
+831,Kuwait,2000,86,Mortality rate,per 1k pop,15-60,Male,AMR1560A814,15,60,414,No
+832,Kuwait,2000,63,Mortality rate,per 1k pop,15-60,Female,AMR1560A815,15,60,414,No
+833,Kuwait,2000,77,Mortality rate,per 1k pop,15-60,All,AMR1560A816,15,60,414,No
+834,Kuwait,1990,128,Mortality rate,per 1k pop,15-60,Male,AMR1560A817,15,60,414,No
+835,Kuwait,1990,81,Mortality rate,per 1k pop,15-60,Female,AMR1560A818,15,60,414,No
+836,Kuwait,1990,108,Mortality rate,per 1k pop,15-60,All,AMR1560A819,15,60,414,No
+837,Kyrgyzstan,2012,275,Mortality rate,per 1k pop,15-60,Male,AMR1560A820,15,60,417,No
+838,Kyrgyzstan,2012,131,Mortality rate,per 1k pop,15-60,Female,AMR1560A821,15,60,417,No
+839,Kyrgyzstan,2012,203,Mortality rate,per 1k pop,15-60,All,AMR1560A822,15,60,417,No
+840,Kyrgyzstan,2000,317,Mortality rate,per 1k pop,15-60,Male,AMR1560A823,15,60,417,No
+841,Kyrgyzstan,2000,164,Mortality rate,per 1k pop,15-60,Female,AMR1560A824,15,60,417,No
+842,Kyrgyzstan,2000,242,Mortality rate,per 1k pop,15-60,All,AMR1560A825,15,60,417,No
+843,Kyrgyzstan,1990,291,Mortality rate,per 1k pop,15-60,Male,AMR1560A826,15,60,417,No
+844,Kyrgyzstan,1990,156,Mortality rate,per 1k pop,15-60,Female,AMR1560A827,15,60,417,No
+845,Kyrgyzstan,1990,224,Mortality rate,per 1k pop,15-60,All,AMR1560A828,15,60,417,No
+846,Lao Peoples Democratic Republic,2012,202,Mortality rate,per 1k pop,15-60,Male,AMR1560A829,15,60,418,No
+847,Lao Peoples Democratic Republic,2012,163,Mortality rate,per 1k pop,15-60,Female,AMR1560A830,15,60,418,No
+848,Lao Peoples Democratic Republic,2012,182,Mortality rate,per 1k pop,15-60,All,AMR1560A831,15,60,418,No
+849,Lao Peoples Democratic Republic,2000,273,Mortality rate,per 1k pop,15-60,Male,AMR1560A832,15,60,418,No
+850,Lao Peoples Democratic Republic,2000,230,Mortality rate,per 1k pop,15-60,Female,AMR1560A833,15,60,418,No
+851,Lao Peoples Democratic Republic,2000,250,Mortality rate,per 1k pop,15-60,All,AMR1560A834,15,60,418,No
+852,Lao Peoples Democratic Republic,1990,358,Mortality rate,per 1k pop,15-60,Male,AMR1560A835,15,60,418,No
+853,Lao Peoples Democratic Republic,1990,309,Mortality rate,per 1k pop,15-60,Female,AMR1560A836,15,60,418,No
+854,Lao Peoples Democratic Republic,1990,333,Mortality rate,per 1k pop,15-60,All,AMR1560A837,15,60,418,No
+855,Latvia,2012,226,Mortality rate,per 1k pop,15-60,Male,AMR1560A838,15,60,428,No
+856,Latvia,2012,86,Mortality rate,per 1k pop,15-60,Female,AMR1560A839,15,60,428,No
+857,Latvia,2012,154,Mortality rate,per 1k pop,15-60,All,AMR1560A840,15,60,428,No
+858,Latvia,2000,321,Mortality rate,per 1k pop,15-60,Male,AMR1560A841,15,60,428,No
+859,Latvia,2000,117,Mortality rate,per 1k pop,15-60,Female,AMR1560A842,15,60,428,No
+860,Latvia,2000,218,Mortality rate,per 1k pop,15-60,All,AMR1560A843,15,60,428,No
+861,Latvia,1990,311,Mortality rate,per 1k pop,15-60,Male,AMR1560A844,15,60,428,No
+862,Latvia,1990,118,Mortality rate,per 1k pop,15-60,Female,AMR1560A845,15,60,428,No
+863,Latvia,1990,215,Mortality rate,per 1k pop,15-60,All,AMR1560A846,15,60,428,No
+864,Lebanon,2012,72,Mortality rate,per 1k pop,15-60,Male,AMR1560A847,15,60,422,No
+865,Lebanon,2012,47,Mortality rate,per 1k pop,15-60,Female,AMR1560A848,15,60,422,No
+866,Lebanon,2012,61,Mortality rate,per 1k pop,15-60,All,AMR1560A849,15,60,422,No
+867,Lebanon,2000,124,Mortality rate,per 1k pop,15-60,Male,AMR1560A850,15,60,422,No
+868,Lebanon,2000,91,Mortality rate,per 1k pop,15-60,Female,AMR1560A851,15,60,422,No
+869,Lebanon,2000,107,Mortality rate,per 1k pop,15-60,All,AMR1560A852,15,60,422,No
+870,Lebanon,1990,280,Mortality rate,per 1k pop,15-60,Male,AMR1560A853,15,60,422,No
+871,Lebanon,1990,150,Mortality rate,per 1k pop,15-60,Female,AMR1560A854,15,60,422,No
+872,Lebanon,1990,214,Mortality rate,per 1k pop,15-60,All,AMR1560A855,15,60,422,No
+873,Lesotho,2012,560,Mortality rate,per 1k pop,15-60,Male,AMR1560A856,15,60,426,No
+874,Lesotho,2012,503,Mortality rate,per 1k pop,15-60,Female,AMR1560A857,15,60,426,No
+875,Lesotho,2012,528,Mortality rate,per 1k pop,15-60,All,AMR1560A858,15,60,426,No
+876,Lesotho,2000,592,Mortality rate,per 1k pop,15-60,Male,AMR1560A859,15,60,426,No
+877,Lesotho,2000,561,Mortality rate,per 1k pop,15-60,Female,AMR1560A860,15,60,426,No
+878,Lesotho,2000,574,Mortality rate,per 1k pop,15-60,All,AMR1560A861,15,60,426,No
+879,Lesotho,1990,297,Mortality rate,per 1k pop,15-60,Male,AMR1560A862,15,60,426,No
+880,Lesotho,1990,247,Mortality rate,per 1k pop,15-60,Female,AMR1560A863,15,60,426,No
+881,Lesotho,1990,270,Mortality rate,per 1k pop,15-60,All,AMR1560A864,15,60,426,No
+882,Liberia,2012,282,Mortality rate,per 1k pop,15-60,Male,AMR1560A865,15,60,430,No
+883,Liberia,2012,246,Mortality rate,per 1k pop,15-60,Female,AMR1560A866,15,60,430,No
+884,Liberia,2012,263,Mortality rate,per 1k pop,15-60,All,AMR1560A867,15,60,430,No
+885,Liberia,2000,375,Mortality rate,per 1k pop,15-60,Male,AMR1560A868,15,60,430,No
+886,Liberia,2000,336,Mortality rate,per 1k pop,15-60,Female,AMR1560A869,15,60,430,No
+887,Liberia,2000,355,Mortality rate,per 1k pop,15-60,All,AMR1560A870,15,60,430,No
+888,Liberia,1990,544,Mortality rate,per 1k pop,15-60,Male,AMR1560A871,15,60,430,No
+889,Liberia,1990,376,Mortality rate,per 1k pop,15-60,Female,AMR1560A872,15,60,430,No
+890,Liberia,1990,465,Mortality rate,per 1k pop,15-60,All,AMR1560A873,15,60,430,No
+891,Libya,2012,119,Mortality rate,per 1k pop,15-60,Male,AMR1560A874,15,60,434,No
+892,Libya,2012,81,Mortality rate,per 1k pop,15-60,Female,AMR1560A875,15,60,434,No
+893,Libya,2012,101,Mortality rate,per 1k pop,15-60,All,AMR1560A876,15,60,434,No
+894,Libya,2000,153,Mortality rate,per 1k pop,15-60,Male,AMR1560A877,15,60,434,No
+895,Libya,2000,111,Mortality rate,per 1k pop,15-60,Female,AMR1560A878,15,60,434,No
+896,Libya,2000,134,Mortality rate,per 1k pop,15-60,All,AMR1560A879,15,60,434,No
+897,Libya,1990,194,Mortality rate,per 1k pop,15-60,Male,AMR1560A880,15,60,434,No
+898,Libya,1990,142,Mortality rate,per 1k pop,15-60,Female,AMR1560A881,15,60,434,No
+899,Libya,1990,171,Mortality rate,per 1k pop,15-60,All,AMR1560A882,15,60,434,No
+900,Lithuania,2012,266,Mortality rate,per 1k pop,15-60,Male,AMR1560A883,15,60,440,No
+901,Lithuania,2012,93,Mortality rate,per 1k pop,15-60,Female,AMR1560A884,15,60,440,No
+902,Lithuania,2012,179,Mortality rate,per 1k pop,15-60,All,AMR1560A885,15,60,440,No
+903,Lithuania,2000,293,Mortality rate,per 1k pop,15-60,Male,AMR1560A886,15,60,440,No
+904,Lithuania,2000,103,Mortality rate,per 1k pop,15-60,Female,AMR1560A887,15,60,440,No
+905,Lithuania,2000,198,Mortality rate,per 1k pop,15-60,All,AMR1560A888,15,60,440,No
+906,Lithuania,1990,288,Mortality rate,per 1k pop,15-60,Male,AMR1560A889,15,60,440,No
+907,Lithuania,1990,107,Mortality rate,per 1k pop,15-60,Female,AMR1560A890,15,60,440,No
+908,Lithuania,1990,196,Mortality rate,per 1k pop,15-60,All,AMR1560A891,15,60,440,No
+909,Luxembourg,2012,81,Mortality rate,per 1k pop,15-60,Male,AMR1560A892,15,60,442,No
+910,Luxembourg,2012,51,Mortality rate,per 1k pop,15-60,Female,AMR1560A893,15,60,442,No
+911,Luxembourg,2012,66,Mortality rate,per 1k pop,15-60,All,AMR1560A894,15,60,442,No
+912,Luxembourg,2000,121,Mortality rate,per 1k pop,15-60,Male,AMR1560A895,15,60,442,No
+913,Luxembourg,2000,67,Mortality rate,per 1k pop,15-60,Female,AMR1560A896,15,60,442,No
+914,Luxembourg,2000,95,Mortality rate,per 1k pop,15-60,All,AMR1560A897,15,60,442,No
+915,Luxembourg,1990,160,Mortality rate,per 1k pop,15-60,Male,AMR1560A898,15,60,442,No
+916,Luxembourg,1990,79,Mortality rate,per 1k pop,15-60,Female,AMR1560A899,15,60,442,No
+917,Luxembourg,1990,121,Mortality rate,per 1k pop,15-60,All,AMR1560A900,15,60,442,No
+918,Madagascar,2012,263,Mortality rate,per 1k pop,15-60,Male,AMR1560A901,15,60,450,No
+919,Madagascar,2012,213,Mortality rate,per 1k pop,15-60,Female,AMR1560A902,15,60,450,No
+920,Madagascar,2012,238,Mortality rate,per 1k pop,15-60,All,AMR1560A903,15,60,450,No
+921,Madagascar,2000,302,Mortality rate,per 1k pop,15-60,Male,AMR1560A904,15,60,450,No
+922,Madagascar,2000,268,Mortality rate,per 1k pop,15-60,Female,AMR1560A905,15,60,450,No
+923,Madagascar,2000,284,Mortality rate,per 1k pop,15-60,All,AMR1560A906,15,60,450,No
+924,Madagascar,1990,370,Mortality rate,per 1k pop,15-60,Male,AMR1560A907,15,60,450,No
+925,Madagascar,1990,320,Mortality rate,per 1k pop,15-60,Female,AMR1560A908,15,60,450,No
+926,Madagascar,1990,345,Mortality rate,per 1k pop,15-60,All,AMR1560A909,15,60,450,No
+927,Malawi,2012,376,Mortality rate,per 1k pop,15-60,Male,AMR1560A910,15,60,454,No
+928,Malawi,2012,330,Mortality rate,per 1k pop,15-60,Female,AMR1560A911,15,60,454,No
+929,Malawi,2012,352,Mortality rate,per 1k pop,15-60,All,AMR1560A912,15,60,454,No
+930,Malawi,2000,584,Mortality rate,per 1k pop,15-60,Male,AMR1560A913,15,60,454,No
+931,Malawi,2000,605,Mortality rate,per 1k pop,15-60,Female,AMR1560A914,15,60,454,No
+932,Malawi,2000,595,Mortality rate,per 1k pop,15-60,All,AMR1560A915,15,60,454,No
+933,Malawi,1990,467,Mortality rate,per 1k pop,15-60,Male,AMR1560A916,15,60,454,No
+934,Malawi,1990,407,Mortality rate,per 1k pop,15-60,Female,AMR1560A917,15,60,454,No
+935,Malawi,1990,436,Mortality rate,per 1k pop,15-60,All,AMR1560A918,15,60,454,No
+936,Malaysia,2012,172,Mortality rate,per 1k pop,15-60,Male,AMR1560A919,15,60,458,No
+937,Malaysia,2012,89,Mortality rate,per 1k pop,15-60,Female,AMR1560A920,15,60,458,No
+938,Malaysia,2012,130,Mortality rate,per 1k pop,15-60,All,AMR1560A921,15,60,458,No
+939,Malaysia,2000,198,Mortality rate,per 1k pop,15-60,Male,AMR1560A922,15,60,458,No
+940,Malaysia,2000,112,Mortality rate,per 1k pop,15-60,Female,AMR1560A923,15,60,458,No
+941,Malaysia,2000,157,Mortality rate,per 1k pop,15-60,All,AMR1560A924,15,60,458,No
+942,Malaysia,1990,209,Mortality rate,per 1k pop,15-60,Male,AMR1560A925,15,60,458,No
+943,Malaysia,1990,129,Mortality rate,per 1k pop,15-60,Female,AMR1560A926,15,60,458,No
+944,Malaysia,1990,170,Mortality rate,per 1k pop,15-60,All,AMR1560A927,15,60,458,No
+945,Maldives,2012,91,Mortality rate,per 1k pop,15-60,Male,AMR1560A928,15,60,462,No
+946,Maldives,2012,59,Mortality rate,per 1k pop,15-60,Female,AMR1560A929,15,60,462,No
+947,Maldives,2012,75,Mortality rate,per 1k pop,15-60,All,AMR1560A930,15,60,462,No
+948,Maldives,2000,183,Mortality rate,per 1k pop,15-60,Male,AMR1560A931,15,60,462,No
+949,Maldives,2000,164,Mortality rate,per 1k pop,15-60,Female,AMR1560A932,15,60,462,No
+950,Maldives,2000,173,Mortality rate,per 1k pop,15-60,All,AMR1560A933,15,60,462,No
+951,Maldives,1990,259,Mortality rate,per 1k pop,15-60,Male,AMR1560A934,15,60,462,No
+952,Maldives,1990,327,Mortality rate,per 1k pop,15-60,Female,AMR1560A935,15,60,462,No
+953,Maldives,1990,291,Mortality rate,per 1k pop,15-60,All,AMR1560A936,15,60,462,No
+954,Mali,2012,282,Mortality rate,per 1k pop,15-60,Male,AMR1560A937,15,60,466,No
+955,Mali,2012,277,Mortality rate,per 1k pop,15-60,Female,AMR1560A938,15,60,466,No
+956,Mali,2012,278,Mortality rate,per 1k pop,15-60,All,AMR1560A939,15,60,466,No
+957,Mali,2000,364,Mortality rate,per 1k pop,15-60,Male,AMR1560A940,15,60,466,No
+958,Mali,2000,361,Mortality rate,per 1k pop,15-60,Female,AMR1560A941,15,60,466,No
+959,Mali,2000,361,Mortality rate,per 1k pop,15-60,All,AMR1560A942,15,60,466,No
+960,Mali,1990,348,Mortality rate,per 1k pop,15-60,Male,AMR1560A943,15,60,466,No
+961,Mali,1990,340,Mortality rate,per 1k pop,15-60,Female,AMR1560A944,15,60,466,No
+962,Mali,1990,343,Mortality rate,per 1k pop,15-60,All,AMR1560A945,15,60,466,No
+963,Malta,2012,77,Mortality rate,per 1k pop,15-60,Male,AMR1560A946,15,60,470,No
+964,Malta,2012,45,Mortality rate,per 1k pop,15-60,Female,AMR1560A947,15,60,470,No
+965,Malta,2012,61,Mortality rate,per 1k pop,15-60,All,AMR1560A948,15,60,470,No
+966,Malta,2000,88,Mortality rate,per 1k pop,15-60,Male,AMR1560A949,15,60,470,No
+967,Malta,2000,53,Mortality rate,per 1k pop,15-60,Female,AMR1560A950,15,60,470,No
+968,Malta,2000,71,Mortality rate,per 1k pop,15-60,All,AMR1560A951,15,60,470,No
+969,Malta,1990,108,Mortality rate,per 1k pop,15-60,Male,AMR1560A952,15,60,470,No
+970,Malta,1990,62,Mortality rate,per 1k pop,15-60,Female,AMR1560A953,15,60,470,No
+971,Malta,1990,84,Mortality rate,per 1k pop,15-60,All,AMR1560A954,15,60,470,No
+972,Marshall Islands,2012,155,Mortality rate,per 1k pop,15-60,Male,AMR1560A955,15,60,584,No
+973,Marshall Islands,2012,106,Mortality rate,per 1k pop,15-60,Female,AMR1560A956,15,60,584,No
+974,Marshall Islands,2012,132,Mortality rate,per 1k pop,15-60,All,AMR1560A957,15,60,584,No
+975,Marshall Islands,2000,211,Mortality rate,per 1k pop,15-60,Male,AMR1560A958,15,60,584,No
+976,Marshall Islands,2000,160,Mortality rate,per 1k pop,15-60,Female,AMR1560A959,15,60,584,No
+977,Marshall Islands,2000,187,Mortality rate,per 1k pop,15-60,All,AMR1560A960,15,60,584,No
+978,Marshall Islands,1990,268,Mortality rate,per 1k pop,15-60,Male,AMR1560A961,15,60,584,No
+979,Marshall Islands,1990,217,Mortality rate,per 1k pop,15-60,Female,AMR1560A962,15,60,584,No
+980,Marshall Islands,1990,244,Mortality rate,per 1k pop,15-60,All,AMR1560A963,15,60,584,No
+981,Mauritania,2012,235,Mortality rate,per 1k pop,15-60,Male,AMR1560A964,15,60,478,No
+982,Mauritania,2012,188,Mortality rate,per 1k pop,15-60,Female,AMR1560A965,15,60,478,No
+983,Mauritania,2012,212,Mortality rate,per 1k pop,15-60,All,AMR1560A966,15,60,478,No
+984,Mauritania,2000,257,Mortality rate,per 1k pop,15-60,Male,AMR1560A967,15,60,478,No
+985,Mauritania,2000,207,Mortality rate,per 1k pop,15-60,Female,AMR1560A968,15,60,478,No
+986,Mauritania,2000,230,Mortality rate,per 1k pop,15-60,All,AMR1560A969,15,60,478,No
+987,Mauritania,1990,270,Mortality rate,per 1k pop,15-60,Male,AMR1560A970,15,60,478,No
+988,Mauritania,1990,223,Mortality rate,per 1k pop,15-60,Female,AMR1560A971,15,60,478,No
+989,Mauritania,1990,245,Mortality rate,per 1k pop,15-60,All,AMR1560A972,15,60,478,No
+990,Mauritius,2012,204,Mortality rate,per 1k pop,15-60,Male,AMR1560A973,15,60,480,No
+991,Mauritius,2012,96,Mortality rate,per 1k pop,15-60,Female,AMR1560A974,15,60,480,No
+992,Mauritius,2012,152,Mortality rate,per 1k pop,15-60,All,AMR1560A975,15,60,480,No
+993,Mauritius,2000,222,Mortality rate,per 1k pop,15-60,Male,AMR1560A976,15,60,480,No
+994,Mauritius,2000,121,Mortality rate,per 1k pop,15-60,Female,AMR1560A977,15,60,480,No
+995,Mauritius,2000,172,Mortality rate,per 1k pop,15-60,All,AMR1560A978,15,60,480,No
+996,Mauritius,1990,264,Mortality rate,per 1k pop,15-60,Male,AMR1560A979,15,60,480,No
+997,Mauritius,1990,121,Mortality rate,per 1k pop,15-60,Female,AMR1560A980,15,60,480,No
+998,Mauritius,1990,193,Mortality rate,per 1k pop,15-60,All,AMR1560A981,15,60,480,No
+999,Mexico,2012,177,Mortality rate,per 1k pop,15-60,Male,AMR1560A982,15,60,484,No
+1000,Mexico,2012,90,Mortality rate,per 1k pop,15-60,Female,AMR1560A983,15,60,484,No
+1001,Mexico,2012,132,Mortality rate,per 1k pop,15-60,All,AMR1560A984,15,60,484,No
+1002,Mexico,2000,177,Mortality rate,per 1k pop,15-60,Male,AMR1560A985,15,60,484,No
+1003,Mexico,2000,100,Mortality rate,per 1k pop,15-60,Female,AMR1560A986,15,60,484,No
+1004,Mexico,2000,137,Mortality rate,per 1k pop,15-60,All,AMR1560A987,15,60,484,No
+1005,Mexico,1990,215,Mortality rate,per 1k pop,15-60,Male,AMR1560A988,15,60,484,No
+1006,Mexico,1990,120,Mortality rate,per 1k pop,15-60,Female,AMR1560A989,15,60,484,No
+1007,Mexico,1990,168,Mortality rate,per 1k pop,15-60,All,AMR1560A990,15,60,484,No
+1008,Micronesia (Federated States of),2012,182,Mortality rate,per 1k pop,15-60,Male,AMR1560A991,15,60,583,No
+1009,Micronesia (Federated States of),2012,155,Mortality rate,per 1k pop,15-60,Female,AMR1560A992,15,60,583,No
+1010,Micronesia (Federated States of),2012,169,Mortality rate,per 1k pop,15-60,All,AMR1560A993,15,60,583,No
+1011,Micronesia (Federated States of),2000,197,Mortality rate,per 1k pop,15-60,Male,AMR1560A994,15,60,583,No
+1012,Micronesia (Federated States of),2000,175,Mortality rate,per 1k pop,15-60,Female,AMR1560A995,15,60,583,No
+1013,Micronesia (Federated States of),2000,186,Mortality rate,per 1k pop,15-60,All,AMR1560A996,15,60,583,No
+1014,Micronesia (Federated States of),1990,210,Mortality rate,per 1k pop,15-60,Male,AMR1560A997,15,60,583,No
+1015,Micronesia (Federated States of),1990,187,Mortality rate,per 1k pop,15-60,Female,AMR1560A998,15,60,583,No
+1016,Micronesia (Federated States of),1990,198,Mortality rate,per 1k pop,15-60,All,AMR1560A999,15,60,583,No
+1017,Monaco,2012,107,Mortality rate,per 1k pop,15-60,Male,AMR1560A1000,15,60,492,No
+1018,Monaco,2012,49,Mortality rate,per 1k pop,15-60,Female,AMR1560A1001,15,60,492,No
+1019,Monaco,2012,78,Mortality rate,per 1k pop,15-60,All,AMR1560A1002,15,60,492,No
+1020,Monaco,2000,136,Mortality rate,per 1k pop,15-60,Male,AMR1560A1003,15,60,492,No
+1021,Monaco,2000,61,Mortality rate,per 1k pop,15-60,Female,AMR1560A1004,15,60,492,No
+1022,Monaco,2000,99,Mortality rate,per 1k pop,15-60,All,AMR1560A1005,15,60,492,No
+1023,Monaco,1990,155,Mortality rate,per 1k pop,15-60,Male,AMR1560A1006,15,60,492,No
+1024,Monaco,1990,67,Mortality rate,per 1k pop,15-60,Female,AMR1560A1007,15,60,492,No
+1025,Monaco,1990,112,Mortality rate,per 1k pop,15-60,All,AMR1560A1008,15,60,492,No
+1026,Mongolia,2012,314,Mortality rate,per 1k pop,15-60,Male,AMR1560A1009,15,60,496,No
+1027,Mongolia,2012,150,Mortality rate,per 1k pop,15-60,Female,AMR1560A1010,15,60,496,No
+1028,Mongolia,2012,233,Mortality rate,per 1k pop,15-60,All,AMR1560A1011,15,60,496,No
+1029,Mongolia,2000,325,Mortality rate,per 1k pop,15-60,Male,AMR1560A1012,15,60,496,No
+1030,Mongolia,2000,218,Mortality rate,per 1k pop,15-60,Female,AMR1560A1013,15,60,496,No
+1031,Mongolia,2000,273,Mortality rate,per 1k pop,15-60,All,AMR1560A1014,15,60,496,No
+1032,Mongolia,1990,269,Mortality rate,per 1k pop,15-60,Male,AMR1560A1015,15,60,496,No
+1033,Mongolia,1990,183,Mortality rate,per 1k pop,15-60,Female,AMR1560A1016,15,60,496,No
+1034,Mongolia,1990,226,Mortality rate,per 1k pop,15-60,All,AMR1560A1017,15,60,496,No
+1035,Montenegro,2012,152,Mortality rate,per 1k pop,15-60,Male,AMR1560A1018,15,60,499,No
+1036,Montenegro,2012,80,Mortality rate,per 1k pop,15-60,Female,AMR1560A1019,15,60,499,No
+1037,Montenegro,2012,117,Mortality rate,per 1k pop,15-60,All,AMR1560A1020,15,60,499,No
+1038,Montenegro,2000,179,Mortality rate,per 1k pop,15-60,Male,AMR1560A1021,15,60,499,No
+1039,Montenegro,2000,98,Mortality rate,per 1k pop,15-60,Female,AMR1560A1022,15,60,499,No
+1040,Montenegro,2000,138,Mortality rate,per 1k pop,15-60,All,AMR1560A1023,15,60,499,No
+1041,Montenegro,1990,165,Mortality rate,per 1k pop,15-60,Male,AMR1560A1024,15,60,499,No
+1042,Montenegro,1990,73,Mortality rate,per 1k pop,15-60,Female,AMR1560A1025,15,60,499,No
+1043,Montenegro,1990,119,Mortality rate,per 1k pop,15-60,All,AMR1560A1026,15,60,499,No
+1044,Morocco,2012,172,Mortality rate,per 1k pop,15-60,Male,AMR1560A1027,15,60,504,No
+1045,Morocco,2012,124,Mortality rate,per 1k pop,15-60,Female,AMR1560A1028,15,60,504,No
+1046,Morocco,2012,148,Mortality rate,per 1k pop,15-60,All,AMR1560A1029,15,60,504,No
+1047,Morocco,2000,192,Mortality rate,per 1k pop,15-60,Male,AMR1560A1030,15,60,504,No
+1048,Morocco,2000,145,Mortality rate,per 1k pop,15-60,Female,AMR1560A1031,15,60,504,No
+1049,Morocco,2000,167,Mortality rate,per 1k pop,15-60,All,AMR1560A1032,15,60,504,No
+1050,Morocco,1990,224,Mortality rate,per 1k pop,15-60,Male,AMR1560A1033,15,60,504,No
+1051,Morocco,1990,172,Mortality rate,per 1k pop,15-60,Female,AMR1560A1034,15,60,504,No
+1052,Morocco,1990,197,Mortality rate,per 1k pop,15-60,All,AMR1560A1035,15,60,504,No
+1053,Mozambique,2012,466,Mortality rate,per 1k pop,15-60,Male,AMR1560A1036,15,60,508,No
+1054,Mozambique,2012,453,Mortality rate,per 1k pop,15-60,Female,AMR1560A1037,15,60,508,No
+1055,Mozambique,2012,459,Mortality rate,per 1k pop,15-60,All,AMR1560A1038,15,60,508,No
+1056,Mozambique,2000,483,Mortality rate,per 1k pop,15-60,Male,AMR1560A1039,15,60,508,No
+1057,Mozambique,2000,438,Mortality rate,per 1k pop,15-60,Female,AMR1560A1040,15,60,508,No
+1058,Mozambique,2000,459,Mortality rate,per 1k pop,15-60,All,AMR1560A1041,15,60,508,No
+1059,Mozambique,1990,459,Mortality rate,per 1k pop,15-60,Male,AMR1560A1042,15,60,508,No
+1060,Mozambique,1990,384,Mortality rate,per 1k pop,15-60,Female,AMR1560A1043,15,60,508,No
+1061,Mozambique,1990,419,Mortality rate,per 1k pop,15-60,All,AMR1560A1044,15,60,508,No
+1062,Myanmar,2012,242,Mortality rate,per 1k pop,15-60,Male,AMR1560A1045,15,60,104,No
+1063,Myanmar,2012,184,Mortality rate,per 1k pop,15-60,Female,AMR1560A1046,15,60,104,No
+1064,Myanmar,2012,212,Mortality rate,per 1k pop,15-60,All,AMR1560A1047,15,60,104,No
+1065,Myanmar,2000,276,Mortality rate,per 1k pop,15-60,Male,AMR1560A1048,15,60,104,No
+1066,Myanmar,2000,215,Mortality rate,per 1k pop,15-60,Female,AMR1560A1049,15,60,104,No
+1067,Myanmar,2000,245,Mortality rate,per 1k pop,15-60,All,AMR1560A1050,15,60,104,No
+1068,Myanmar,1990,316,Mortality rate,per 1k pop,15-60,Male,AMR1560A1051,15,60,104,No
+1069,Myanmar,1990,248,Mortality rate,per 1k pop,15-60,Female,AMR1560A1052,15,60,104,No
+1070,Myanmar,1990,281,Mortality rate,per 1k pop,15-60,All,AMR1560A1053,15,60,104,No
+1071,Namibia,2012,293,Mortality rate,per 1k pop,15-60,Male,AMR1560A1054,15,60,516,No
+1072,Namibia,2012,204,Mortality rate,per 1k pop,15-60,Female,AMR1560A1055,15,60,516,No
+1073,Namibia,2012,246,Mortality rate,per 1k pop,15-60,All,AMR1560A1056,15,60,516,No
+1074,Namibia,2000,411,Mortality rate,per 1k pop,15-60,Male,AMR1560A1057,15,60,516,No
+1075,Namibia,2000,418,Mortality rate,per 1k pop,15-60,Female,AMR1560A1058,15,60,516,No
+1076,Namibia,2000,414,Mortality rate,per 1k pop,15-60,All,AMR1560A1059,15,60,516,No
+1077,Namibia,1990,268,Mortality rate,per 1k pop,15-60,Male,AMR1560A1060,15,60,516,No
+1078,Namibia,1990,230,Mortality rate,per 1k pop,15-60,Female,AMR1560A1061,15,60,516,No
+1079,Namibia,1990,248,Mortality rate,per 1k pop,15-60,All,AMR1560A1062,15,60,516,No
+1080,Nauru,2012,90,Mortality rate,per 1k pop,15-60,Male,AMR1560A1063,15,60,520,No
+1081,Nauru,2012,45,Mortality rate,per 1k pop,15-60,Female,AMR1560A1064,15,60,520,No
+1082,Nauru,2012,69,Mortality rate,per 1k pop,15-60,All,AMR1560A1065,15,60,520,No
+1083,Nauru,2000,114,Mortality rate,per 1k pop,15-60,Male,AMR1560A1066,15,60,520,No
+1084,Nauru,2000,56,Mortality rate,per 1k pop,15-60,Female,AMR1560A1067,15,60,520,No
+1085,Nauru,2000,86,Mortality rate,per 1k pop,15-60,All,AMR1560A1068,15,60,520,No
+1086,Nauru,1990,154,Mortality rate,per 1k pop,15-60,Male,AMR1560A1069,15,60,520,No
+1087,Nauru,1990,78,Mortality rate,per 1k pop,15-60,Female,AMR1560A1070,15,60,520,No
+1088,Nauru,1990,119,Mortality rate,per 1k pop,15-60,All,AMR1560A1071,15,60,520,No
+1089,Nepal,2012,197,Mortality rate,per 1k pop,15-60,Male,AMR1560A1072,15,60,524,No
+1090,Nepal,2012,164,Mortality rate,per 1k pop,15-60,Female,AMR1560A1073,15,60,524,No
+1091,Nepal,2012,180,Mortality rate,per 1k pop,15-60,All,AMR1560A1074,15,60,524,No
+1092,Nepal,2000,264,Mortality rate,per 1k pop,15-60,Male,AMR1560A1075,15,60,524,No
+1093,Nepal,2000,229,Mortality rate,per 1k pop,15-60,Female,AMR1560A1076,15,60,524,No
+1094,Nepal,2000,246,Mortality rate,per 1k pop,15-60,All,AMR1560A1077,15,60,524,No
+1095,Nepal,1990,340,Mortality rate,per 1k pop,15-60,Male,AMR1560A1078,15,60,524,No
+1096,Nepal,1990,308,Mortality rate,per 1k pop,15-60,Female,AMR1560A1079,15,60,524,No
+1097,Nepal,1990,324,Mortality rate,per 1k pop,15-60,All,AMR1560A1080,15,60,524,No
+1098,Netherlands,2012,72,Mortality rate,per 1k pop,15-60,Male,AMR1560A1081,15,60,528,No
+1099,Netherlands,2012,54,Mortality rate,per 1k pop,15-60,Female,AMR1560A1082,15,60,528,No
+1100,Netherlands,2012,63,Mortality rate,per 1k pop,15-60,All,AMR1560A1083,15,60,528,No
+1101,Netherlands,2000,100,Mortality rate,per 1k pop,15-60,Male,AMR1560A1084,15,60,528,No
+1102,Netherlands,2000,67,Mortality rate,per 1k pop,15-60,Female,AMR1560A1085,15,60,528,No
+1103,Netherlands,2000,84,Mortality rate,per 1k pop,15-60,All,AMR1560A1086,15,60,528,No
+1104,Netherlands,1990,116,Mortality rate,per 1k pop,15-60,Male,AMR1560A1087,15,60,528,No
+1105,Netherlands,1990,67,Mortality rate,per 1k pop,15-60,Female,AMR1560A1088,15,60,528,No
+1106,Netherlands,1990,92,Mortality rate,per 1k pop,15-60,All,AMR1560A1089,15,60,528,No
+1107,New Zealand,2012,81,Mortality rate,per 1k pop,15-60,Male,AMR1560A1090,15,60,554,No
+1108,New Zealand,2012,81,Mortality rate,per 1k pop,15-60,Male,AMR1560A1090,15,60,554,No
+1109,New Zealand,2012,53,Mortality rate,per 1k pop,15-60,Female,AMR1560A1091,15,60,554,No
+1110,New Zealand,2012,53,Mortality rate,per 1k pop,15-60,Female,AMR1560A1091,15,60,554,No
+1111,New Zealand,2012,67,Mortality rate,per 1k pop,15-60,All,AMR1560A1092,15,60,554,No
+1112,New Zealand,2012,67,Mortality rate,per 1k pop,15-60,All,AMR1560A1092,15,60,554,No
+1113,New Zealand,2000,105,Mortality rate,per 1k pop,15-60,Male,AMR1560A1093,15,60,554,No
+1114,New Zealand,2000,105,Mortality rate,per 1k pop,15-60,Male,AMR1560A1093,15,60,554,No
+1115,New Zealand,2000,67,Mortality rate,per 1k pop,15-60,Female,AMR1560A1094,15,60,554,No
+1116,New Zealand,2000,67,Mortality rate,per 1k pop,15-60,Female,AMR1560A1094,15,60,554,No
+1117,New Zealand,2000,86,Mortality rate,per 1k pop,15-60,All,AMR1560A1095,15,60,554,No
+1118,New Zealand,2000,86,Mortality rate,per 1k pop,15-60,All,AMR1560A1095,15,60,554,No
+1119,New Zealand,1990,143,Mortality rate,per 1k pop,15-60,Male,AMR1560A1096,15,60,554,No
+1120,New Zealand,1990,143,Mortality rate,per 1k pop,15-60,Male,AMR1560A1096,15,60,554,No
+1121,New Zealand,1990,93,Mortality rate,per 1k pop,15-60,Female,AMR1560A1097,15,60,554,No
+1122,New Zealand,1990,93,Mortality rate,per 1k pop,15-60,Female,AMR1560A1097,15,60,554,No
+1123,New Zealand,1990,118,Mortality rate,per 1k pop,15-60,All,AMR1560A1098,15,60,554,No
+1124,New Zealand,1990,118,Mortality rate,per 1k pop,15-60,All,AMR1560A1098,15,60,554,No
+1125,Nicaragua,2012,204,Mortality rate,per 1k pop,15-60,Male,AMR1560A1099,15,60,558,No
+1126,Nicaragua,2012,118,Mortality rate,per 1k pop,15-60,Female,AMR1560A1100,15,60,558,No
+1127,Nicaragua,2012,160,Mortality rate,per 1k pop,15-60,All,AMR1560A1101,15,60,558,No
+1128,Nicaragua,2000,191,Mortality rate,per 1k pop,15-60,Male,AMR1560A1102,15,60,558,No
+1129,Nicaragua,2000,121,Mortality rate,per 1k pop,15-60,Female,AMR1560A1103,15,60,558,No
+1130,Nicaragua,2000,156,Mortality rate,per 1k pop,15-60,All,AMR1560A1104,15,60,558,No
+1131,Nicaragua,1990,171,Mortality rate,per 1k pop,15-60,Male,AMR1560A1105,15,60,558,No
+1132,Nicaragua,1990,122,Mortality rate,per 1k pop,15-60,Female,AMR1560A1106,15,60,558,No
+1133,Nicaragua,1990,147,Mortality rate,per 1k pop,15-60,All,AMR1560A1107,15,60,558,No
+1134,Niger,2012,257,Mortality rate,per 1k pop,15-60,Male,AMR1560A1108,15,60,562,No
+1135,Niger,2012,246,Mortality rate,per 1k pop,15-60,Female,AMR1560A1109,15,60,562,No
+1136,Niger,2012,253,Mortality rate,per 1k pop,15-60,All,AMR1560A1110,15,60,562,No
+1137,Niger,2000,288,Mortality rate,per 1k pop,15-60,Male,AMR1560A1111,15,60,562,No
+1138,Niger,2000,280,Mortality rate,per 1k pop,15-60,Female,AMR1560A1112,15,60,562,No
+1139,Niger,2000,284,Mortality rate,per 1k pop,15-60,All,AMR1560A1113,15,60,562,No
+1140,Niger,1990,317,Mortality rate,per 1k pop,15-60,Male,AMR1560A1114,15,60,562,No
+1141,Niger,1990,295,Mortality rate,per 1k pop,15-60,Female,AMR1560A1115,15,60,562,No
+1142,Niger,1990,305,Mortality rate,per 1k pop,15-60,All,AMR1560A1116,15,60,562,No
+1143,Nigeria,2012,371,Mortality rate,per 1k pop,15-60,Male,AMR1560A1117,15,60,566,No
+1144,Nigeria,2012,346,Mortality rate,per 1k pop,15-60,Female,AMR1560A1118,15,60,566,No
+1145,Nigeria,2012,358,Mortality rate,per 1k pop,15-60,All,AMR1560A1119,15,60,566,No
+1146,Nigeria,2000,414,Mortality rate,per 1k pop,15-60,Male,AMR1560A1120,15,60,566,No
+1147,Nigeria,2000,385,Mortality rate,per 1k pop,15-60,Female,AMR1560A1121,15,60,566,No
+1148,Nigeria,2000,400,Mortality rate,per 1k pop,15-60,All,AMR1560A1122,15,60,566,No
+1149,Nigeria,1990,408,Mortality rate,per 1k pop,15-60,Male,AMR1560A1123,15,60,566,No
+1150,Nigeria,1990,364,Mortality rate,per 1k pop,15-60,Female,AMR1560A1124,15,60,566,No
+1151,Nigeria,1990,386,Mortality rate,per 1k pop,15-60,All,AMR1560A1125,15,60,566,No
+1152,Niue,2012,166,Mortality rate,per 1k pop,15-60,Male,AMR1560A1126,15,60,570,No
+1153,Niue,2012,85,Mortality rate,per 1k pop,15-60,Female,AMR1560A1127,15,60,570,No
+1154,Niue,2012,127,Mortality rate,per 1k pop,15-60,All,AMR1560A1128,15,60,570,No
+1155,Niue,2000,195,Mortality rate,per 1k pop,15-60,Male,AMR1560A1129,15,60,570,No
+1156,Niue,2000,103,Mortality rate,per 1k pop,15-60,Female,AMR1560A1130,15,60,570,No
+1157,Niue,2000,151,Mortality rate,per 1k pop,15-60,All,AMR1560A1131,15,60,570,No
+1158,Niue,1990,222,Mortality rate,per 1k pop,15-60,Male,AMR1560A1132,15,60,570,No
+1159,Niue,1990,124,Mortality rate,per 1k pop,15-60,Female,AMR1560A1133,15,60,570,No
+1160,Niue,1990,176,Mortality rate,per 1k pop,15-60,All,AMR1560A1134,15,60,570,No
+1161,Norway,2012,73,Mortality rate,per 1k pop,15-60,Male,AMR1560A1135,15,60,578,No
+1162,Norway,2012,44,Mortality rate,per 1k pop,15-60,Female,AMR1560A1136,15,60,578,No
+1163,Norway,2012,59,Mortality rate,per 1k pop,15-60,All,AMR1560A1137,15,60,578,No
+1164,Norway,2000,107,Mortality rate,per 1k pop,15-60,Male,AMR1560A1138,15,60,578,No
+1165,Norway,2000,61,Mortality rate,per 1k pop,15-60,Female,AMR1560A1139,15,60,578,No
+1166,Norway,2000,85,Mortality rate,per 1k pop,15-60,All,AMR1560A1140,15,60,578,No
+1167,Norway,1990,128,Mortality rate,per 1k pop,15-60,Male,AMR1560A1141,15,60,578,No
+1168,Norway,1990,65,Mortality rate,per 1k pop,15-60,Female,AMR1560A1142,15,60,578,No
+1169,Norway,1990,97,Mortality rate,per 1k pop,15-60,All,AMR1560A1143,15,60,578,No
+1170,Oman,2012,119,Mortality rate,per 1k pop,15-60,Male,AMR1560A1144,15,60,512,No
+1171,Oman,2012,74,Mortality rate,per 1k pop,15-60,Female,AMR1560A1145,15,60,512,No
+1172,Oman,2012,102,Mortality rate,per 1k pop,15-60,All,AMR1560A1146,15,60,512,No
+1173,Oman,2000,162,Mortality rate,per 1k pop,15-60,Male,AMR1560A1147,15,60,512,No
+1174,Oman,2000,106,Mortality rate,per 1k pop,15-60,Female,AMR1560A1148,15,60,512,No
+1175,Oman,2000,140,Mortality rate,per 1k pop,15-60,All,AMR1560A1149,15,60,512,No
+1176,Oman,1990,215,Mortality rate,per 1k pop,15-60,Male,AMR1560A1150,15,60,512,No
+1177,Oman,1990,151,Mortality rate,per 1k pop,15-60,Female,AMR1560A1151,15,60,512,No
+1178,Oman,1990,189,Mortality rate,per 1k pop,15-60,All,AMR1560A1152,15,60,512,No
+1179,Pakistan,2012,190,Mortality rate,per 1k pop,15-60,Male,AMR1560A1153,15,60,586,No
+1180,Pakistan,2012,157,Mortality rate,per 1k pop,15-60,Female,AMR1560A1154,15,60,586,No
+1181,Pakistan,2012,174,Mortality rate,per 1k pop,15-60,All,AMR1560A1155,15,60,586,No
+1182,Pakistan,2000,204,Mortality rate,per 1k pop,15-60,Male,AMR1560A1156,15,60,586,No
+1183,Pakistan,2000,176,Mortality rate,per 1k pop,15-60,Female,AMR1560A1157,15,60,586,No
+1184,Pakistan,2000,190,Mortality rate,per 1k pop,15-60,All,AMR1560A1158,15,60,586,No
+1185,Pakistan,1990,220,Mortality rate,per 1k pop,15-60,Male,AMR1560A1159,15,60,586,No
+1186,Pakistan,1990,197,Mortality rate,per 1k pop,15-60,Female,AMR1560A1160,15,60,586,No
+1187,Pakistan,1990,209,Mortality rate,per 1k pop,15-60,All,AMR1560A1161,15,60,586,No
+1188,Palau,2012,159,Mortality rate,per 1k pop,15-60,Male,AMR1560A1162,15,60,585,No
+1189,Palau,2012,109,Mortality rate,per 1k pop,15-60,Female,AMR1560A1163,15,60,585,No
+1190,Palau,2012,135,Mortality rate,per 1k pop,15-60,All,AMR1560A1164,15,60,585,No
+1191,Palau,2000,211,Mortality rate,per 1k pop,15-60,Male,AMR1560A1165,15,60,585,No
+1192,Palau,2000,160,Mortality rate,per 1k pop,15-60,Female,AMR1560A1166,15,60,585,No
+1193,Palau,2000,186,Mortality rate,per 1k pop,15-60,All,AMR1560A1167,15,60,585,No
+1194,Palau,1990,268,Mortality rate,per 1k pop,15-60,Male,AMR1560A1168,15,60,585,No
+1195,Palau,1990,217,Mortality rate,per 1k pop,15-60,Female,AMR1560A1169,15,60,585,No
+1196,Palau,1990,244,Mortality rate,per 1k pop,15-60,All,AMR1560A1170,15,60,585,No
+1197,Panama,2012,152,Mortality rate,per 1k pop,15-60,Male,AMR1560A1171,15,60,591,No
+1198,Panama,2012,152,Mortality rate,per 1k pop,15-60,Male,AMR1560A1171,15,60,590,No
+1199,Panama,2012,83,Mortality rate,per 1k pop,15-60,Female,AMR1560A1172,15,60,591,No
+1200,Panama,2012,83,Mortality rate,per 1k pop,15-60,Female,AMR1560A1172,15,60,590,No
+1201,Panama,2012,118,Mortality rate,per 1k pop,15-60,All,AMR1560A1173,15,60,591,No
+1202,Panama,2012,118,Mortality rate,per 1k pop,15-60,All,AMR1560A1173,15,60,590,No
+1203,Panama,2000,137,Mortality rate,per 1k pop,15-60,Male,AMR1560A1174,15,60,591,No
+1204,Panama,2000,137,Mortality rate,per 1k pop,15-60,Male,AMR1560A1174,15,60,590,No
+1205,Panama,2000,83,Mortality rate,per 1k pop,15-60,Female,AMR1560A1175,15,60,591,No
+1206,Panama,2000,83,Mortality rate,per 1k pop,15-60,Female,AMR1560A1175,15,60,590,No
+1207,Panama,2000,110,Mortality rate,per 1k pop,15-60,All,AMR1560A1176,15,60,591,No
+1208,Panama,2000,110,Mortality rate,per 1k pop,15-60,All,AMR1560A1176,15,60,590,No
+1209,Panama,1990,146,Mortality rate,per 1k pop,15-60,Male,AMR1560A1177,15,60,591,No
+1210,Panama,1990,146,Mortality rate,per 1k pop,15-60,Male,AMR1560A1177,15,60,590,No
+1211,Panama,1990,101,Mortality rate,per 1k pop,15-60,Female,AMR1560A1178,15,60,591,No
+1212,Panama,1990,101,Mortality rate,per 1k pop,15-60,Female,AMR1560A1178,15,60,590,No
+1213,Panama,1990,124,Mortality rate,per 1k pop,15-60,All,AMR1560A1179,15,60,591,No
+1214,Panama,1990,124,Mortality rate,per 1k pop,15-60,All,AMR1560A1179,15,60,590,No
+1215,Papua New Guinea,2012,321,Mortality rate,per 1k pop,15-60,Male,AMR1560A1180,15,60,598,No
+1216,Papua New Guinea,2012,245,Mortality rate,per 1k pop,15-60,Female,AMR1560A1181,15,60,598,No
+1217,Papua New Guinea,2012,283,Mortality rate,per 1k pop,15-60,All,AMR1560A1182,15,60,598,No
+1218,Papua New Guinea,2000,379,Mortality rate,per 1k pop,15-60,Male,AMR1560A1183,15,60,598,No
+1219,Papua New Guinea,2000,296,Mortality rate,per 1k pop,15-60,Female,AMR1560A1184,15,60,598,No
+1220,Papua New Guinea,2000,339,Mortality rate,per 1k pop,15-60,All,AMR1560A1185,15,60,598,No
+1221,Papua New Guinea,1990,437,Mortality rate,per 1k pop,15-60,Male,AMR1560A1186,15,60,598,No
+1222,Papua New Guinea,1990,333,Mortality rate,per 1k pop,15-60,Female,AMR1560A1187,15,60,598,No
+1223,Papua New Guinea,1990,389,Mortality rate,per 1k pop,15-60,All,AMR1560A1188,15,60,598,No
+1224,Paraguay,2012,178,Mortality rate,per 1k pop,15-60,Male,AMR1560A1189,15,60,600,No
+1225,Paraguay,2012,97,Mortality rate,per 1k pop,15-60,Female,AMR1560A1190,15,60,600,No
+1226,Paraguay,2012,139,Mortality rate,per 1k pop,15-60,All,AMR1560A1191,15,60,600,No
+1227,Paraguay,2000,158,Mortality rate,per 1k pop,15-60,Male,AMR1560A1192,15,60,600,No
+1228,Paraguay,2000,103,Mortality rate,per 1k pop,15-60,Female,AMR1560A1193,15,60,600,No
+1229,Paraguay,2000,132,Mortality rate,per 1k pop,15-60,All,AMR1560A1194,15,60,600,No
+1230,Paraguay,1990,138,Mortality rate,per 1k pop,15-60,Male,AMR1560A1195,15,60,600,No
+1231,Paraguay,1990,99,Mortality rate,per 1k pop,15-60,Female,AMR1560A1196,15,60,600,No
+1232,Paraguay,1990,119,Mortality rate,per 1k pop,15-60,All,AMR1560A1197,15,60,600,No
+1233,Peru,2012,118,Mortality rate,per 1k pop,15-60,Male,AMR1560A1198,15,60,604,No
+1234,Peru,2012,91,Mortality rate,per 1k pop,15-60,Female,AMR1560A1199,15,60,604,No
+1235,Peru,2012,105,Mortality rate,per 1k pop,15-60,All,AMR1560A1200,15,60,604,No
+1236,Peru,2000,161,Mortality rate,per 1k pop,15-60,Male,AMR1560A1201,15,60,604,No
+1237,Peru,2000,119,Mortality rate,per 1k pop,15-60,Female,AMR1560A1202,15,60,604,No
+1238,Peru,2000,140,Mortality rate,per 1k pop,15-60,All,AMR1560A1203,15,60,604,No
+1239,Peru,1990,163,Mortality rate,per 1k pop,15-60,Male,AMR1560A1204,15,60,604,No
+1240,Peru,1990,123,Mortality rate,per 1k pop,15-60,Female,AMR1560A1205,15,60,604,No
+1241,Peru,1990,143,Mortality rate,per 1k pop,15-60,All,AMR1560A1206,15,60,604,No
+1242,Philippines,2012,258,Mortality rate,per 1k pop,15-60,Male,AMR1560A1207,15,60,608,No
+1243,Philippines,2012,138,Mortality rate,per 1k pop,15-60,Female,AMR1560A1208,15,60,608,No
+1244,Philippines,2012,199,Mortality rate,per 1k pop,15-60,All,AMR1560A1209,15,60,608,No
+1245,Philippines,2000,243,Mortality rate,per 1k pop,15-60,Male,AMR1560A1210,15,60,608,No
+1246,Philippines,2000,134,Mortality rate,per 1k pop,15-60,Female,AMR1560A1211,15,60,608,No
+1247,Philippines,2000,189,Mortality rate,per 1k pop,15-60,All,AMR1560A1212,15,60,608,No
+1248,Philippines,1990,272,Mortality rate,per 1k pop,15-60,Male,AMR1560A1213,15,60,608,No
+1249,Philippines,1990,154,Mortality rate,per 1k pop,15-60,Female,AMR1560A1214,15,60,608,No
+1250,Philippines,1990,215,Mortality rate,per 1k pop,15-60,All,AMR1560A1215,15,60,608,No
+1251,Poland,2012,180,Mortality rate,per 1k pop,15-60,Male,AMR1560A1216,15,60,616,No
+1252,Poland,2012,69,Mortality rate,per 1k pop,15-60,Female,AMR1560A1217,15,60,616,No
+1253,Poland,2012,125,Mortality rate,per 1k pop,15-60,All,AMR1560A1218,15,60,616,No
+1254,Poland,2000,216,Mortality rate,per 1k pop,15-60,Male,AMR1560A1219,15,60,616,No
+1255,Poland,2000,86,Mortality rate,per 1k pop,15-60,Female,AMR1560A1220,15,60,616,No
+1256,Poland,2000,152,Mortality rate,per 1k pop,15-60,All,AMR1560A1221,15,60,616,No
+1257,Poland,1990,263,Mortality rate,per 1k pop,15-60,Male,AMR1560A1222,15,60,616,No
+1258,Poland,1990,102,Mortality rate,per 1k pop,15-60,Female,AMR1560A1223,15,60,616,No
+1259,Poland,1990,184,Mortality rate,per 1k pop,15-60,All,AMR1560A1224,15,60,616,No
+1260,Portugal,2012,114,Mortality rate,per 1k pop,15-60,Male,AMR1560A1225,15,60,620,No
+1261,Portugal,2012,49,Mortality rate,per 1k pop,15-60,Female,AMR1560A1226,15,60,620,No
+1262,Portugal,2012,81,Mortality rate,per 1k pop,15-60,All,AMR1560A1227,15,60,620,No
+1263,Portugal,2000,155,Mortality rate,per 1k pop,15-60,Male,AMR1560A1228,15,60,620,No
+1264,Portugal,2000,66,Mortality rate,per 1k pop,15-60,Female,AMR1560A1229,15,60,620,No
+1265,Portugal,2000,111,Mortality rate,per 1k pop,15-60,All,AMR1560A1230,15,60,620,No
+1266,Portugal,1990,176,Mortality rate,per 1k pop,15-60,Male,AMR1560A1231,15,60,620,No
+1267,Portugal,1990,80,Mortality rate,per 1k pop,15-60,Female,AMR1560A1232,15,60,620,No
+1268,Portugal,1990,127,Mortality rate,per 1k pop,15-60,All,AMR1560A1233,15,60,620,No
+1269,Qatar,2012,73,Mortality rate,per 1k pop,15-60,Male,AMR1560A1234,15,60,634,No
+1270,Qatar,2012,51,Mortality rate,per 1k pop,15-60,Female,AMR1560A1235,15,60,634,No
+1271,Qatar,2012,68,Mortality rate,per 1k pop,15-60,All,AMR1560A1236,15,60,634,No
+1272,Qatar,2000,86,Mortality rate,per 1k pop,15-60,Male,AMR1560A1237,15,60,634,No
+1273,Qatar,2000,79,Mortality rate,per 1k pop,15-60,Female,AMR1560A1238,15,60,634,No
+1274,Qatar,2000,83,Mortality rate,per 1k pop,15-60,All,AMR1560A1239,15,60,634,No
+1275,Qatar,1990,94,Mortality rate,per 1k pop,15-60,Male,AMR1560A1240,15,60,634,No
+1276,Qatar,1990,82,Mortality rate,per 1k pop,15-60,Female,AMR1560A1241,15,60,634,No
+1277,Qatar,1990,90,Mortality rate,per 1k pop,15-60,All,AMR1560A1242,15,60,634,No
+1278,Republic of Korea,2012,98,Mortality rate,per 1k pop,15-60,Male,AMR1560A1243,15,60,410,No
+1279,Republic of Korea,2012,40,Mortality rate,per 1k pop,15-60,Female,AMR1560A1244,15,60,410,No
+1280,Republic of Korea,2012,69,Mortality rate,per 1k pop,15-60,All,AMR1560A1245,15,60,410,No
+1281,Republic of Korea,2000,163,Mortality rate,per 1k pop,15-60,Male,AMR1560A1246,15,60,410,No
+1282,Republic of Korea,2000,62,Mortality rate,per 1k pop,15-60,Female,AMR1560A1247,15,60,410,No
+1283,Republic of Korea,2000,114,Mortality rate,per 1k pop,15-60,All,AMR1560A1248,15,60,410,No
+1284,Republic of Korea,1990,237,Mortality rate,per 1k pop,15-60,Male,AMR1560A1249,15,60,410,No
+1285,Republic of Korea,1990,102,Mortality rate,per 1k pop,15-60,Female,AMR1560A1250,15,60,410,No
+1286,Republic of Korea,1990,171,Mortality rate,per 1k pop,15-60,All,AMR1560A1251,15,60,410,No
+1287,Republic of Moldova,2012,269,Mortality rate,per 1k pop,15-60,Male,AMR1560A1252,15,60,498,No
+1288,Republic of Moldova,2012,110,Mortality rate,per 1k pop,15-60,Female,AMR1560A1253,15,60,498,No
+1289,Republic of Moldova,2012,189,Mortality rate,per 1k pop,15-60,All,AMR1560A1254,15,60,498,No
+1290,Republic of Moldova,2000,311,Mortality rate,per 1k pop,15-60,Male,AMR1560A1255,15,60,498,No
+1291,Republic of Moldova,2000,155,Mortality rate,per 1k pop,15-60,Female,AMR1560A1256,15,60,498,No
+1292,Republic of Moldova,2000,232,Mortality rate,per 1k pop,15-60,All,AMR1560A1257,15,60,498,No
+1293,Republic of Moldova,1990,285,Mortality rate,per 1k pop,15-60,Male,AMR1560A1258,15,60,498,No
+1294,Republic of Moldova,1990,155,Mortality rate,per 1k pop,15-60,Female,AMR1560A1259,15,60,498,No
+1295,Republic of Moldova,1990,218,Mortality rate,per 1k pop,15-60,All,AMR1560A1260,15,60,498,No
+1296,Romania,2012,207,Mortality rate,per 1k pop,15-60,Male,AMR1560A1261,15,60,642,No
+1297,Romania,2012,82,Mortality rate,per 1k pop,15-60,Female,AMR1560A1262,15,60,642,No
+1298,Romania,2012,145,Mortality rate,per 1k pop,15-60,All,AMR1560A1263,15,60,642,No
+1299,Romania,2000,237,Mortality rate,per 1k pop,15-60,Male,AMR1560A1264,15,60,642,No
+1300,Romania,2000,106,Mortality rate,per 1k pop,15-60,Female,AMR1560A1265,15,60,642,No
+1301,Romania,2000,173,Mortality rate,per 1k pop,15-60,All,AMR1560A1266,15,60,642,No
+1302,Romania,1990,239,Mortality rate,per 1k pop,15-60,Male,AMR1560A1267,15,60,642,No
+1303,Romania,1990,114,Mortality rate,per 1k pop,15-60,Female,AMR1560A1268,15,60,642,No
+1304,Romania,1990,178,Mortality rate,per 1k pop,15-60,All,AMR1560A1269,15,60,642,No
+1305,Russian Federation,2012,339,Mortality rate,per 1k pop,15-60,Male,AMR1560A1270,15,60,643,No
+1306,Russian Federation,2012,127,Mortality rate,per 1k pop,15-60,Female,AMR1560A1271,15,60,643,No
+1307,Russian Federation,2012,233,Mortality rate,per 1k pop,15-60,All,AMR1560A1272,15,60,643,No
+1308,Russian Federation,2000,449,Mortality rate,per 1k pop,15-60,Male,AMR1560A1273,15,60,643,No
+1309,Russian Federation,2000,161,Mortality rate,per 1k pop,15-60,Female,AMR1560A1274,15,60,643,No
+1310,Russian Federation,2000,312,Mortality rate,per 1k pop,15-60,All,AMR1560A1275,15,60,643,No
+1311,Russian Federation,1990,318,Mortality rate,per 1k pop,15-60,Male,AMR1560A1276,15,60,643,No
+1312,Russian Federation,1990,117,Mortality rate,per 1k pop,15-60,Female,AMR1560A1277,15,60,643,No
+1313,Russian Federation,1990,218,Mortality rate,per 1k pop,15-60,All,AMR1560A1278,15,60,643,No
+1314,Rwanda,2012,253,Mortality rate,per 1k pop,15-60,Male,AMR1560A1279,15,60,646,No
+1315,Rwanda,2012,212,Mortality rate,per 1k pop,15-60,Female,AMR1560A1280,15,60,646,No
+1316,Rwanda,2012,231,Mortality rate,per 1k pop,15-60,All,AMR1560A1281,15,60,646,No
+1317,Rwanda,2000,480,Mortality rate,per 1k pop,15-60,Male,AMR1560A1282,15,60,646,No
+1318,Rwanda,2000,466,Mortality rate,per 1k pop,15-60,Female,AMR1560A1283,15,60,646,No
+1319,Rwanda,2000,472,Mortality rate,per 1k pop,15-60,All,AMR1560A1284,15,60,646,No
+1320,Rwanda,1990,487,Mortality rate,per 1k pop,15-60,Male,AMR1560A1285,15,60,646,No
+1321,Rwanda,1990,406,Mortality rate,per 1k pop,15-60,Female,AMR1560A1286,15,60,646,No
+1322,Rwanda,1990,447,Mortality rate,per 1k pop,15-60,All,AMR1560A1287,15,60,646,No
+1323,Saint Kitts and Nevis,2012,166,Mortality rate,per 1k pop,15-60,Male,AMR1560A1288,15,60,659,No
+1324,Saint Kitts and Nevis,2012,80,Mortality rate,per 1k pop,15-60,Female,AMR1560A1289,15,60,659,No
+1325,Saint Kitts and Nevis,2012,123,Mortality rate,per 1k pop,15-60,All,AMR1560A1290,15,60,659,No
+1326,Saint Kitts and Nevis,2000,214,Mortality rate,per 1k pop,15-60,Male,AMR1560A1291,15,60,659,No
+1327,Saint Kitts and Nevis,2000,134,Mortality rate,per 1k pop,15-60,Female,AMR1560A1292,15,60,659,No
+1328,Saint Kitts and Nevis,2000,174,Mortality rate,per 1k pop,15-60,All,AMR1560A1293,15,60,659,No
+1329,Saint Kitts and Nevis,1990,272,Mortality rate,per 1k pop,15-60,Male,AMR1560A1294,15,60,659,No
+1330,Saint Kitts and Nevis,1990,193,Mortality rate,per 1k pop,15-60,Female,AMR1560A1295,15,60,659,No
+1331,Saint Kitts and Nevis,1990,233,Mortality rate,per 1k pop,15-60,All,AMR1560A1296,15,60,659,No
+1332,Saint Lucia,2012,178,Mortality rate,per 1k pop,15-60,Male,AMR1560A1297,15,60,662,No
+1333,Saint Lucia,2012,85,Mortality rate,per 1k pop,15-60,Female,AMR1560A1298,15,60,662,No
+1334,Saint Lucia,2012,132,Mortality rate,per 1k pop,15-60,All,AMR1560A1299,15,60,662,No
+1335,Saint Lucia,2000,206,Mortality rate,per 1k pop,15-60,Male,AMR1560A1300,15,60,662,No
+1336,Saint Lucia,2000,117,Mortality rate,per 1k pop,15-60,Female,AMR1560A1301,15,60,662,No
+1337,Saint Lucia,2000,161,Mortality rate,per 1k pop,15-60,All,AMR1560A1302,15,60,662,No
+1338,Saint Lucia,1990,204,Mortality rate,per 1k pop,15-60,Male,AMR1560A1303,15,60,662,No
+1339,Saint Lucia,1990,147,Mortality rate,per 1k pop,15-60,Female,AMR1560A1304,15,60,662,No
+1340,Saint Lucia,1990,176,Mortality rate,per 1k pop,15-60,All,AMR1560A1305,15,60,662,No
+1341,Saint Vincent and the Grenadines,2012,169,Mortality rate,per 1k pop,15-60,Male,AMR1560A1306,15,60,670,No
+1342,Saint Vincent and the Grenadines,2012,111,Mortality rate,per 1k pop,15-60,Female,AMR1560A1307,15,60,670,No
+1343,Saint Vincent and the Grenadines,2012,141,Mortality rate,per 1k pop,15-60,All,AMR1560A1308,15,60,670,No
+1344,Saint Vincent and the Grenadines,2000,259,Mortality rate,per 1k pop,15-60,Male,AMR1560A1309,15,60,670,No
+1345,Saint Vincent and the Grenadines,2000,165,Mortality rate,per 1k pop,15-60,Female,AMR1560A1310,15,60,670,No
+1346,Saint Vincent and the Grenadines,2000,215,Mortality rate,per 1k pop,15-60,All,AMR1560A1311,15,60,670,No
+1347,Saint Vincent and the Grenadines,1990,217,Mortality rate,per 1k pop,15-60,Male,AMR1560A1312,15,60,670,No
+1348,Saint Vincent and the Grenadines,1990,140,Mortality rate,per 1k pop,15-60,Female,AMR1560A1313,15,60,670,No
+1349,Saint Vincent and the Grenadines,1990,179,Mortality rate,per 1k pop,15-60,All,AMR1560A1314,15,60,670,No
+1350,Samoa,2012,170,Mortality rate,per 1k pop,15-60,Male,AMR1560A1315,15,60,882,No
+1351,Samoa,2012,100,Mortality rate,per 1k pop,15-60,Female,AMR1560A1316,15,60,882,No
+1352,Samoa,2012,137,Mortality rate,per 1k pop,15-60,All,AMR1560A1317,15,60,882,No
+1353,Samoa,2000,225,Mortality rate,per 1k pop,15-60,Male,AMR1560A1318,15,60,882,No
+1354,Samoa,2000,136,Mortality rate,per 1k pop,15-60,Female,AMR1560A1319,15,60,882,No
+1355,Samoa,2000,182,Mortality rate,per 1k pop,15-60,All,AMR1560A1320,15,60,882,No
+1356,Samoa,1990,300,Mortality rate,per 1k pop,15-60,Male,AMR1560A1321,15,60,882,No
+1357,Samoa,1990,194,Mortality rate,per 1k pop,15-60,Female,AMR1560A1322,15,60,882,No
+1358,Samoa,1990,248,Mortality rate,per 1k pop,15-60,All,AMR1560A1323,15,60,882,No
+1359,San Marino,2012,55,Mortality rate,per 1k pop,15-60,Male,AMR1560A1324,15,60,674,No
+1360,San Marino,2012,47,Mortality rate,per 1k pop,15-60,Female,AMR1560A1325,15,60,674,No
+1361,San Marino,2012,51,Mortality rate,per 1k pop,15-60,All,AMR1560A1326,15,60,674,No
+1362,San Marino,2000,74,Mortality rate,per 1k pop,15-60,Male,AMR1560A1327,15,60,674,No
+1363,San Marino,2000,39,Mortality rate,per 1k pop,15-60,Female,AMR1560A1328,15,60,674,No
+1364,San Marino,2000,57,Mortality rate,per 1k pop,15-60,All,AMR1560A1329,15,60,674,No
+1365,San Marino,1990,80,Mortality rate,per 1k pop,15-60,Male,AMR1560A1330,15,60,674,No
+1366,San Marino,1990,40,Mortality rate,per 1k pop,15-60,Female,AMR1560A1331,15,60,674,No
+1367,San Marino,1990,60,Mortality rate,per 1k pop,15-60,All,AMR1560A1332,15,60,674,No
+1368,Sao Tome and Principe,2012,222,Mortality rate,per 1k pop,15-60,Male,AMR1560A1333,15,60,678,No
+1369,Sao Tome and Principe,2012,169,Mortality rate,per 1k pop,15-60,Female,AMR1560A1334,15,60,678,No
+1370,Sao Tome and Principe,2012,194,Mortality rate,per 1k pop,15-60,All,AMR1560A1335,15,60,678,No
+1371,Sao Tome and Principe,2000,249,Mortality rate,per 1k pop,15-60,Male,AMR1560A1336,15,60,678,No
+1372,Sao Tome and Principe,2000,197,Mortality rate,per 1k pop,15-60,Female,AMR1560A1337,15,60,678,No
+1373,Sao Tome and Principe,2000,221,Mortality rate,per 1k pop,15-60,All,AMR1560A1338,15,60,678,No
+1374,Sao Tome and Principe,1990,264,Mortality rate,per 1k pop,15-60,Male,AMR1560A1339,15,60,678,No
+1375,Sao Tome and Principe,1990,210,Mortality rate,per 1k pop,15-60,Female,AMR1560A1340,15,60,678,No
+1376,Sao Tome and Principe,1990,237,Mortality rate,per 1k pop,15-60,All,AMR1560A1341,15,60,678,No
+1377,Saudi Arabia,2012,90,Mortality rate,per 1k pop,15-60,Male,AMR1560A1342,15,60,682,No
+1378,Saudi Arabia,2012,68,Mortality rate,per 1k pop,15-60,Female,AMR1560A1343,15,60,682,No
+1379,Saudi Arabia,2012,81,Mortality rate,per 1k pop,15-60,All,AMR1560A1344,15,60,682,No
+1380,Saudi Arabia,2000,127,Mortality rate,per 1k pop,15-60,Male,AMR1560A1345,15,60,682,No
+1381,Saudi Arabia,2000,92,Mortality rate,per 1k pop,15-60,Female,AMR1560A1346,15,60,682,No
+1382,Saudi Arabia,2000,112,Mortality rate,per 1k pop,15-60,All,AMR1560A1347,15,60,682,No
+1383,Saudi Arabia,1990,178,Mortality rate,per 1k pop,15-60,Male,AMR1560A1348,15,60,682,No
+1384,Saudi Arabia,1990,131,Mortality rate,per 1k pop,15-60,Female,AMR1560A1349,15,60,682,No
+1385,Saudi Arabia,1990,159,Mortality rate,per 1k pop,15-60,All,AMR1560A1350,15,60,682,No
+1386,Senegal,2012,246,Mortality rate,per 1k pop,15-60,Male,AMR1560A1351,15,60,686,No
+1387,Senegal,2012,194,Mortality rate,per 1k pop,15-60,Female,AMR1560A1352,15,60,686,No
+1388,Senegal,2012,218,Mortality rate,per 1k pop,15-60,All,AMR1560A1353,15,60,686,No
+1389,Senegal,2000,282,Mortality rate,per 1k pop,15-60,Male,AMR1560A1354,15,60,686,No
+1390,Senegal,2000,224,Mortality rate,per 1k pop,15-60,Female,AMR1560A1355,15,60,686,No
+1391,Senegal,2000,252,Mortality rate,per 1k pop,15-60,All,AMR1560A1356,15,60,686,No
+1392,Senegal,1990,282,Mortality rate,per 1k pop,15-60,Male,AMR1560A1357,15,60,686,No
+1393,Senegal,1990,220,Mortality rate,per 1k pop,15-60,Female,AMR1560A1358,15,60,686,No
+1394,Senegal,1990,251,Mortality rate,per 1k pop,15-60,All,AMR1560A1359,15,60,686,No
+1395,Serbia,2012,173,Mortality rate,per 1k pop,15-60,Male,AMR1560A1360,15,60,688,No
+1396,Serbia,2012,85,Mortality rate,per 1k pop,15-60,Female,AMR1560A1361,15,60,688,No
+1397,Serbia,2012,129,Mortality rate,per 1k pop,15-60,All,AMR1560A1362,15,60,688,No
+1398,Serbia,2000,209,Mortality rate,per 1k pop,15-60,Male,AMR1560A1363,15,60,688,No
+1399,Serbia,2000,106,Mortality rate,per 1k pop,15-60,Female,AMR1560A1364,15,60,688,No
+1400,Serbia,2000,159,Mortality rate,per 1k pop,15-60,All,AMR1560A1365,15,60,688,No
+1401,Serbia,1990,184,Mortality rate,per 1k pop,15-60,Male,AMR1560A1366,15,60,688,No
+1402,Serbia,1990,94,Mortality rate,per 1k pop,15-60,Female,AMR1560A1367,15,60,688,No
+1403,Serbia,1990,140,Mortality rate,per 1k pop,15-60,All,AMR1560A1368,15,60,688,No
+1404,Seychelles,2012,217,Mortality rate,per 1k pop,15-60,Male,AMR1560A1369,15,60,690,No
+1405,Seychelles,2012,101,Mortality rate,per 1k pop,15-60,Female,AMR1560A1370,15,60,690,No
+1406,Seychelles,2012,163,Mortality rate,per 1k pop,15-60,All,AMR1560A1371,15,60,690,No
+1407,Seychelles,2000,248,Mortality rate,per 1k pop,15-60,Male,AMR1560A1372,15,60,690,No
+1408,Seychelles,2000,99,Mortality rate,per 1k pop,15-60,Female,AMR1560A1373,15,60,690,No
+1409,Seychelles,2000,178,Mortality rate,per 1k pop,15-60,All,AMR1560A1374,15,60,690,No
+1410,Seychelles,1990,318,Mortality rate,per 1k pop,15-60,Male,AMR1560A1375,15,60,690,No
+1411,Seychelles,1990,127,Mortality rate,per 1k pop,15-60,Female,AMR1560A1376,15,60,690,No
+1412,Seychelles,1990,227,Mortality rate,per 1k pop,15-60,All,AMR1560A1377,15,60,690,No
+1413,Sierra Leone,2012,444,Mortality rate,per 1k pop,15-60,Male,AMR1560A1378,15,60,694,No
+1414,Sierra Leone,2012,426,Mortality rate,per 1k pop,15-60,Female,AMR1560A1379,15,60,694,No
+1415,Sierra Leone,2012,435,Mortality rate,per 1k pop,15-60,All,AMR1560A1380,15,60,694,No
+1416,Sierra Leone,2000,551,Mortality rate,per 1k pop,15-60,Male,AMR1560A1381,15,60,694,No
+1417,Sierra Leone,2000,521,Mortality rate,per 1k pop,15-60,Female,AMR1560A1382,15,60,694,No
+1418,Sierra Leone,2000,536,Mortality rate,per 1k pop,15-60,All,AMR1560A1383,15,60,694,No
+1419,Sierra Leone,1990,525,Mortality rate,per 1k pop,15-60,Male,AMR1560A1384,15,60,694,No
+1420,Sierra Leone,1990,512,Mortality rate,per 1k pop,15-60,Female,AMR1560A1385,15,60,694,No
+1421,Sierra Leone,1990,519,Mortality rate,per 1k pop,15-60,All,AMR1560A1386,15,60,694,No
+1422,Singapore,2012,68,Mortality rate,per 1k pop,15-60,Male,AMR1560A1387,15,60,702,No
+1423,Singapore,2012,42,Mortality rate,per 1k pop,15-60,Female,AMR1560A1388,15,60,702,No
+1424,Singapore,2012,55,Mortality rate,per 1k pop,15-60,All,AMR1560A1389,15,60,702,No
+1425,Singapore,2000,97,Mortality rate,per 1k pop,15-60,Male,AMR1560A1390,15,60,702,No
+1426,Singapore,2000,56,Mortality rate,per 1k pop,15-60,Female,AMR1560A1391,15,60,702,No
+1427,Singapore,2000,77,Mortality rate,per 1k pop,15-60,All,AMR1560A1392,15,60,702,No
+1428,Singapore,1990,152,Mortality rate,per 1k pop,15-60,Male,AMR1560A1393,15,60,702,No
+1429,Singapore,1990,93,Mortality rate,per 1k pop,15-60,Female,AMR1560A1394,15,60,702,No
+1430,Singapore,1990,123,Mortality rate,per 1k pop,15-60,All,AMR1560A1395,15,60,702,No
+1431,Slovakia,2012,170,Mortality rate,per 1k pop,15-60,Male,AMR1560A1396,15,60,703,No
+1432,Slovakia,2012,67,Mortality rate,per 1k pop,15-60,Female,AMR1560A1397,15,60,703,No
+1433,Slovakia,2012,119,Mortality rate,per 1k pop,15-60,All,AMR1560A1398,15,60,703,No
+1434,Slovakia,2000,215,Mortality rate,per 1k pop,15-60,Male,AMR1560A1399,15,60,703,No
+1435,Slovakia,2000,79,Mortality rate,per 1k pop,15-60,Female,AMR1560A1400,15,60,703,No
+1436,Slovakia,2000,147,Mortality rate,per 1k pop,15-60,All,AMR1560A1401,15,60,703,No
+1437,Slovakia,1990,269,Mortality rate,per 1k pop,15-60,Male,AMR1560A1402,15,60,703,No
+1438,Slovakia,1990,104,Mortality rate,per 1k pop,15-60,Female,AMR1560A1403,15,60,703,No
+1439,Slovakia,1990,187,Mortality rate,per 1k pop,15-60,All,AMR1560A1404,15,60,703,No
+1440,Slovenia,2012,114,Mortality rate,per 1k pop,15-60,Male,AMR1560A1405,15,60,705,No
+1441,Slovenia,2012,50,Mortality rate,per 1k pop,15-60,Female,AMR1560A1406,15,60,705,No
+1442,Slovenia,2012,83,Mortality rate,per 1k pop,15-60,All,AMR1560A1407,15,60,705,No
+1443,Slovenia,2000,168,Mortality rate,per 1k pop,15-60,Male,AMR1560A1408,15,60,705,No
+1444,Slovenia,2000,72,Mortality rate,per 1k pop,15-60,Female,AMR1560A1409,15,60,705,No
+1445,Slovenia,2000,122,Mortality rate,per 1k pop,15-60,All,AMR1560A1410,15,60,705,No
+1446,Slovenia,1990,207,Mortality rate,per 1k pop,15-60,Male,AMR1560A1411,15,60,705,No
+1447,Slovenia,1990,82,Mortality rate,per 1k pop,15-60,Female,AMR1560A1412,15,60,705,No
+1448,Slovenia,1990,145,Mortality rate,per 1k pop,15-60,All,AMR1560A1413,15,60,705,No
+1449,Solomon Islands,2012,205,Mortality rate,per 1k pop,15-60,Male,AMR1560A1414,15,60,90,No
+1450,Solomon Islands,2012,165,Mortality rate,per 1k pop,15-60,Female,AMR1560A1415,15,60,90,No
+1451,Solomon Islands,2012,186,Mortality rate,per 1k pop,15-60,All,AMR1560A1416,15,60,90,No
+1452,Solomon Islands,2000,259,Mortality rate,per 1k pop,15-60,Male,AMR1560A1417,15,60,90,No
+1453,Solomon Islands,2000,219,Mortality rate,per 1k pop,15-60,Female,AMR1560A1418,15,60,90,No
+1454,Solomon Islands,2000,239,Mortality rate,per 1k pop,15-60,All,AMR1560A1419,15,60,90,No
+1455,Solomon Islands,1990,318,Mortality rate,per 1k pop,15-60,Male,AMR1560A1420,15,60,90,No
+1456,Solomon Islands,1990,290,Mortality rate,per 1k pop,15-60,Female,AMR1560A1421,15,60,90,No
+1457,Solomon Islands,1990,305,Mortality rate,per 1k pop,15-60,All,AMR1560A1422,15,60,90,No
+1458,Somalia,2012,382,Mortality rate,per 1k pop,15-60,Male,AMR1560A1423,15,60,706,No
+1459,Somalia,2012,299,Mortality rate,per 1k pop,15-60,Female,AMR1560A1424,15,60,706,No
+1460,Somalia,2012,341,Mortality rate,per 1k pop,15-60,All,AMR1560A1425,15,60,706,No
+1461,Somalia,2000,391,Mortality rate,per 1k pop,15-60,Male,AMR1560A1426,15,60,706,No
+1462,Somalia,2000,330,Mortality rate,per 1k pop,15-60,Female,AMR1560A1427,15,60,706,No
+1463,Somalia,2000,361,Mortality rate,per 1k pop,15-60,All,AMR1560A1428,15,60,706,No
+1464,Somalia,1990,473,Mortality rate,per 1k pop,15-60,Male,AMR1560A1429,15,60,706,No
+1465,Somalia,1990,364,Mortality rate,per 1k pop,15-60,Female,AMR1560A1430,15,60,706,No
+1466,Somalia,1990,420,Mortality rate,per 1k pop,15-60,All,AMR1560A1431,15,60,706,No
+1467,South Africa,2012,463,Mortality rate,per 1k pop,15-60,Male,AMR1560A1432,15,60,710,No
+1468,South Africa,2012,350,Mortality rate,per 1k pop,15-60,Female,AMR1560A1433,15,60,710,No
+1469,South Africa,2012,403,Mortality rate,per 1k pop,15-60,All,AMR1560A1434,15,60,710,No
+1470,South Africa,2000,433,Mortality rate,per 1k pop,15-60,Male,AMR1560A1435,15,60,710,No
+1471,South Africa,2000,313,Mortality rate,per 1k pop,15-60,Female,AMR1560A1436,15,60,710,No
+1472,South Africa,2000,371,Mortality rate,per 1k pop,15-60,All,AMR1560A1437,15,60,710,No
+1473,South Africa,1990,344,Mortality rate,per 1k pop,15-60,Male,AMR1560A1438,15,60,710,No
+1474,South Africa,1990,219,Mortality rate,per 1k pop,15-60,Female,AMR1560A1439,15,60,710,No
+1475,South Africa,1990,282,Mortality rate,per 1k pop,15-60,All,AMR1560A1440,15,60,710,No
+1476,South Sudan,2012,373,Mortality rate,per 1k pop,15-60,Male,AMR1560A1441,15,60,728,No
+1477,South Sudan,2012,349,Mortality rate,per 1k pop,15-60,Female,AMR1560A1442,15,60,728,No
+1478,South Sudan,2012,361,Mortality rate,per 1k pop,15-60,All,AMR1560A1443,15,60,728,No
+1479,South Sudan,2000,408,Mortality rate,per 1k pop,15-60,Male,AMR1560A1444,15,60,728,No
+1480,South Sudan,2000,368,Mortality rate,per 1k pop,15-60,Female,AMR1560A1445,15,60,728,No
+1481,South Sudan,2000,388,Mortality rate,per 1k pop,15-60,All,AMR1560A1446,15,60,728,No
+1482,South Sudan,1990,448,Mortality rate,per 1k pop,15-60,Male,AMR1560A1447,15,60,728,No
+1483,South Sudan,1990,391,Mortality rate,per 1k pop,15-60,Female,AMR1560A1448,15,60,728,No
+1484,South Sudan,1990,420,Mortality rate,per 1k pop,15-60,All,AMR1560A1449,15,60,728,No
+1485,Spain,2012,86,Mortality rate,per 1k pop,15-60,Male,AMR1560A1450,15,60,724,No
+1486,Spain,2012,40,Mortality rate,per 1k pop,15-60,Female,AMR1560A1451,15,60,724,No
+1487,Spain,2012,63,Mortality rate,per 1k pop,15-60,All,AMR1560A1452,15,60,724,No
+1488,Spain,2000,122,Mortality rate,per 1k pop,15-60,Male,AMR1560A1453,15,60,724,No
+1489,Spain,2000,49,Mortality rate,per 1k pop,15-60,Female,AMR1560A1454,15,60,724,No
+1490,Spain,2000,86,Mortality rate,per 1k pop,15-60,All,AMR1560A1455,15,60,724,No
+1491,Spain,1990,146,Mortality rate,per 1k pop,15-60,Male,AMR1560A1456,15,60,724,No
+1492,Spain,1990,60,Mortality rate,per 1k pop,15-60,Female,AMR1560A1457,15,60,724,No
+1493,Spain,1990,103,Mortality rate,per 1k pop,15-60,All,AMR1560A1458,15,60,724,No
+1494,Sri Lanka,2012,186,Mortality rate,per 1k pop,15-60,Male,AMR1560A1459,15,60,144,No
+1495,Sri Lanka,2012,75,Mortality rate,per 1k pop,15-60,Female,AMR1560A1460,15,60,144,No
+1496,Sri Lanka,2012,130,Mortality rate,per 1k pop,15-60,All,AMR1560A1461,15,60,144,No
+1497,Sri Lanka,2000,301,Mortality rate,per 1k pop,15-60,Male,AMR1560A1462,15,60,144,No
+1498,Sri Lanka,2000,111,Mortality rate,per 1k pop,15-60,Female,AMR1560A1463,15,60,144,No
+1499,Sri Lanka,2000,210,Mortality rate,per 1k pop,15-60,All,AMR1560A1464,15,60,144,No
+1500,Sri Lanka,1990,294,Mortality rate,per 1k pop,15-60,Male,AMR1560A1465,15,60,144,No
+1501,Sri Lanka,1990,125,Mortality rate,per 1k pop,15-60,Female,AMR1560A1466,15,60,144,No
+1502,Sri Lanka,1990,214,Mortality rate,per 1k pop,15-60,All,AMR1560A1467,15,60,144,No
+1503,Sudan,2012,276,Mortality rate,per 1k pop,15-60,Male,AMR1560A1468,15,60,729,No
+1504,Sudan,2012,276,Mortality rate,per 1k pop,15-60,Male,AMR1560A1468,15,60,736,No
+1505,Sudan,2012,214,Mortality rate,per 1k pop,15-60,Female,AMR1560A1469,15,60,729,No
+1506,Sudan,2012,214,Mortality rate,per 1k pop,15-60,Female,AMR1560A1469,15,60,736,No
+1507,Sudan,2012,245,Mortality rate,per 1k pop,15-60,All,AMR1560A1470,15,60,729,No
+1508,Sudan,2012,245,Mortality rate,per 1k pop,15-60,All,AMR1560A1470,15,60,736,No
+1509,Sudan,2000,318,Mortality rate,per 1k pop,15-60,Male,AMR1560A1471,15,60,729,No
+1510,Sudan,2000,318,Mortality rate,per 1k pop,15-60,Male,AMR1560A1471,15,60,736,No
+1511,Sudan,2000,249,Mortality rate,per 1k pop,15-60,Female,AMR1560A1472,15,60,729,No
+1512,Sudan,2000,249,Mortality rate,per 1k pop,15-60,Female,AMR1560A1472,15,60,736,No
+1513,Sudan,2000,284,Mortality rate,per 1k pop,15-60,All,AMR1560A1473,15,60,729,No
+1514,Sudan,2000,284,Mortality rate,per 1k pop,15-60,All,AMR1560A1473,15,60,736,No
+1515,Sudan,1990,342,Mortality rate,per 1k pop,15-60,Male,AMR1560A1474,15,60,729,No
+1516,Sudan,1990,342,Mortality rate,per 1k pop,15-60,Male,AMR1560A1474,15,60,736,No
+1517,Sudan,1990,276,Mortality rate,per 1k pop,15-60,Female,AMR1560A1475,15,60,729,No
+1518,Sudan,1990,276,Mortality rate,per 1k pop,15-60,Female,AMR1560A1475,15,60,736,No
+1519,Sudan,1990,310,Mortality rate,per 1k pop,15-60,All,AMR1560A1476,15,60,729,No
+1520,Sudan,1990,310,Mortality rate,per 1k pop,15-60,All,AMR1560A1476,15,60,736,No
+1521,Suriname,2012,160,Mortality rate,per 1k pop,15-60,Male,AMR1560A1477,15,60,740,No
+1522,Suriname,2012,94,Mortality rate,per 1k pop,15-60,Female,AMR1560A1478,15,60,740,No
+1523,Suriname,2012,127,Mortality rate,per 1k pop,15-60,All,AMR1560A1479,15,60,740,No
+1524,Suriname,2000,202,Mortality rate,per 1k pop,15-60,Male,AMR1560A1480,15,60,740,No
+1525,Suriname,2000,143,Mortality rate,per 1k pop,15-60,Female,AMR1560A1481,15,60,740,No
+1526,Suriname,2000,173,Mortality rate,per 1k pop,15-60,All,AMR1560A1482,15,60,740,No
+1527,Suriname,1990,188,Mortality rate,per 1k pop,15-60,Male,AMR1560A1483,15,60,740,No
+1528,Suriname,1990,123,Mortality rate,per 1k pop,15-60,Female,AMR1560A1484,15,60,740,No
+1529,Suriname,1990,156,Mortality rate,per 1k pop,15-60,All,AMR1560A1485,15,60,740,No
+1530,Swaziland,2012,494,Mortality rate,per 1k pop,15-60,Male,AMR1560A1486,15,60,748,No
+1531,Swaziland,2012,411,Mortality rate,per 1k pop,15-60,Female,AMR1560A1487,15,60,748,No
+1532,Swaziland,2012,451,Mortality rate,per 1k pop,15-60,All,AMR1560A1488,15,60,748,No
+1533,Swaziland,2000,540,Mortality rate,per 1k pop,15-60,Male,AMR1560A1489,15,60,748,No
+1534,Swaziland,2000,515,Mortality rate,per 1k pop,15-60,Female,AMR1560A1490,15,60,748,No
+1535,Swaziland,2000,526,Mortality rate,per 1k pop,15-60,All,AMR1560A1491,15,60,748,No
+1536,Swaziland,1990,253,Mortality rate,per 1k pop,15-60,Male,AMR1560A1492,15,60,748,No
+1537,Swaziland,1990,288,Mortality rate,per 1k pop,15-60,Female,AMR1560A1493,15,60,748,No
+1538,Swaziland,1990,274,Mortality rate,per 1k pop,15-60,All,AMR1560A1494,15,60,748,No
+1539,Sweden,2012,68,Mortality rate,per 1k pop,15-60,Male,AMR1560A1495,15,60,752,No
+1540,Sweden,2012,44,Mortality rate,per 1k pop,15-60,Female,AMR1560A1496,15,60,752,No
+1541,Sweden,2012,56,Mortality rate,per 1k pop,15-60,All,AMR1560A1497,15,60,752,No
+1542,Sweden,2000,87,Mortality rate,per 1k pop,15-60,Male,AMR1560A1498,15,60,752,No
+1543,Sweden,2000,56,Mortality rate,per 1k pop,15-60,Female,AMR1560A1499,15,60,752,No
+1544,Sweden,2000,72,Mortality rate,per 1k pop,15-60,All,AMR1560A1500,15,60,752,No
+1545,Sweden,1990,114,Mortality rate,per 1k pop,15-60,Male,AMR1560A1501,15,60,752,No
+1546,Sweden,1990,66,Mortality rate,per 1k pop,15-60,Female,AMR1560A1502,15,60,752,No
+1547,Sweden,1990,90,Mortality rate,per 1k pop,15-60,All,AMR1560A1503,15,60,752,No
+1548,Switzerland,2012,67,Mortality rate,per 1k pop,15-60,Male,AMR1560A1504,15,60,756,No
+1549,Switzerland,2012,67,Mortality rate,per 1k pop,15-60,Male,AMR1560A1504,15,60,756,No
+1550,Switzerland,2012,40,Mortality rate,per 1k pop,15-60,Female,AMR1560A1505,15,60,756,No
+1551,Switzerland,2012,40,Mortality rate,per 1k pop,15-60,Female,AMR1560A1505,15,60,756,No
+1552,Switzerland,2012,54,Mortality rate,per 1k pop,15-60,All,AMR1560A1506,15,60,756,No
+1553,Switzerland,2012,54,Mortality rate,per 1k pop,15-60,All,AMR1560A1506,15,60,756,No
+1554,Switzerland,2000,99,Mortality rate,per 1k pop,15-60,Male,AMR1560A1507,15,60,756,No
+1555,Switzerland,2000,99,Mortality rate,per 1k pop,15-60,Male,AMR1560A1507,15,60,756,No
+1556,Switzerland,2000,54,Mortality rate,per 1k pop,15-60,Female,AMR1560A1508,15,60,756,No
+1557,Switzerland,2000,54,Mortality rate,per 1k pop,15-60,Female,AMR1560A1508,15,60,756,No
+1558,Switzerland,2000,77,Mortality rate,per 1k pop,15-60,All,AMR1560A1509,15,60,756,No
+1559,Switzerland,2000,77,Mortality rate,per 1k pop,15-60,All,AMR1560A1509,15,60,756,No
+1560,Switzerland,1990,126,Mortality rate,per 1k pop,15-60,Male,AMR1560A1510,15,60,756,No
+1561,Switzerland,1990,126,Mortality rate,per 1k pop,15-60,Male,AMR1560A1510,15,60,756,No
+1562,Switzerland,1990,62,Mortality rate,per 1k pop,15-60,Female,AMR1560A1511,15,60,756,No
+1563,Switzerland,1990,62,Mortality rate,per 1k pop,15-60,Female,AMR1560A1511,15,60,756,No
+1564,Switzerland,1990,95,Mortality rate,per 1k pop,15-60,All,AMR1560A1512,15,60,756,No
+1565,Switzerland,1990,95,Mortality rate,per 1k pop,15-60,All,AMR1560A1512,15,60,756,No
+1566,Syrian Arab Republic,2012,332,Mortality rate,per 1k pop,15-60,Male,AMR1560A1513,15,60,760,No
+1567,Syrian Arab Republic,2012,109,Mortality rate,per 1k pop,15-60,Female,AMR1560A1514,15,60,760,No
+1568,Syrian Arab Republic,2012,230,Mortality rate,per 1k pop,15-60,All,AMR1560A1515,15,60,760,No
+1569,Syrian Arab Republic,2000,132,Mortality rate,per 1k pop,15-60,Male,AMR1560A1516,15,60,760,No
+1570,Syrian Arab Republic,2000,102,Mortality rate,per 1k pop,15-60,Female,AMR1560A1517,15,60,760,No
+1571,Syrian Arab Republic,2000,117,Mortality rate,per 1k pop,15-60,All,AMR1560A1518,15,60,760,No
+1572,Syrian Arab Republic,1990,158,Mortality rate,per 1k pop,15-60,Male,AMR1560A1519,15,60,760,No
+1573,Syrian Arab Republic,1990,140,Mortality rate,per 1k pop,15-60,Female,AMR1560A1520,15,60,760,No
+1574,Syrian Arab Republic,1990,149,Mortality rate,per 1k pop,15-60,All,AMR1560A1521,15,60,760,No
+1575,Tajikistan,2012,178,Mortality rate,per 1k pop,15-60,Male,AMR1560A1522,15,60,762,No
+1576,Tajikistan,2012,154,Mortality rate,per 1k pop,15-60,Female,AMR1560A1523,15,60,762,No
+1577,Tajikistan,2012,166,Mortality rate,per 1k pop,15-60,All,AMR1560A1524,15,60,762,No
+1578,Tajikistan,2000,208,Mortality rate,per 1k pop,15-60,Male,AMR1560A1525,15,60,762,No
+1579,Tajikistan,2000,178,Mortality rate,per 1k pop,15-60,Female,AMR1560A1526,15,60,762,No
+1580,Tajikistan,2000,193,Mortality rate,per 1k pop,15-60,All,AMR1560A1527,15,60,762,No
+1581,Tajikistan,1990,217,Mortality rate,per 1k pop,15-60,Male,AMR1560A1528,15,60,762,No
+1582,Tajikistan,1990,180,Mortality rate,per 1k pop,15-60,Female,AMR1560A1529,15,60,762,No
+1583,Tajikistan,1990,199,Mortality rate,per 1k pop,15-60,All,AMR1560A1530,15,60,762,No
+1584,Thailand,2012,182,Mortality rate,per 1k pop,15-60,Male,AMR1560A1531,15,60,764,No
+1585,Thailand,2012,90,Mortality rate,per 1k pop,15-60,Female,AMR1560A1532,15,60,764,No
+1586,Thailand,2012,136,Mortality rate,per 1k pop,15-60,All,AMR1560A1533,15,60,764,No
+1587,Thailand,2000,265,Mortality rate,per 1k pop,15-60,Male,AMR1560A1534,15,60,764,No
+1588,Thailand,2000,126,Mortality rate,per 1k pop,15-60,Female,AMR1560A1535,15,60,764,No
+1589,Thailand,2000,196,Mortality rate,per 1k pop,15-60,All,AMR1560A1536,15,60,764,No
+1590,Thailand,1990,233,Mortality rate,per 1k pop,15-60,Male,AMR1560A1537,15,60,764,No
+1591,Thailand,1990,132,Mortality rate,per 1k pop,15-60,Female,AMR1560A1538,15,60,764,No
+1592,Thailand,1990,183,Mortality rate,per 1k pop,15-60,All,AMR1560A1539,15,60,764,No
+1593,The former Yugoslav Republic of Macedonia,2012,135,Mortality rate,per 1k pop,15-60,Male,AMR1560A1540,15,60,807,No
+1594,The former Yugoslav Republic of Macedonia,2012,73,Mortality rate,per 1k pop,15-60,Female,AMR1560A1541,15,60,807,No
+1595,The former Yugoslav Republic of Macedonia,2012,105,Mortality rate,per 1k pop,15-60,All,AMR1560A1542,15,60,807,No
+1596,The former Yugoslav Republic of Macedonia,2000,159,Mortality rate,per 1k pop,15-60,Male,AMR1560A1543,15,60,807,No
+1597,The former Yugoslav Republic of Macedonia,2000,87,Mortality rate,per 1k pop,15-60,Female,AMR1560A1544,15,60,807,No
+1598,The former Yugoslav Republic of Macedonia,2000,123,Mortality rate,per 1k pop,15-60,All,AMR1560A1545,15,60,807,No
+1599,The former Yugoslav Republic of Macedonia,1990,153,Mortality rate,per 1k pop,15-60,Male,AMR1560A1546,15,60,807,No
+1600,The former Yugoslav Republic of Macedonia,1990,87,Mortality rate,per 1k pop,15-60,Female,AMR1560A1547,15,60,807,No
+1601,The former Yugoslav Republic of Macedonia,1990,120,Mortality rate,per 1k pop,15-60,All,AMR1560A1548,15,60,807,No
+1602,Timor-Leste,2012,214,Mortality rate,per 1k pop,15-60,Male,AMR1560A1549,15,60,626,No
+1603,Timor-Leste,2012,170,Mortality rate,per 1k pop,15-60,Female,AMR1560A1550,15,60,626,No
+1604,Timor-Leste,2012,192,Mortality rate,per 1k pop,15-60,All,AMR1560A1551,15,60,626,No
+1605,Timor-Leste,2000,296,Mortality rate,per 1k pop,15-60,Male,AMR1560A1552,15,60,626,No
+1606,Timor-Leste,2000,253,Mortality rate,per 1k pop,15-60,Female,AMR1560A1553,15,60,626,No
+1607,Timor-Leste,2000,275,Mortality rate,per 1k pop,15-60,All,AMR1560A1554,15,60,626,No
+1608,Timor-Leste,1990,424,Mortality rate,per 1k pop,15-60,Male,AMR1560A1555,15,60,626,No
+1609,Timor-Leste,1990,361,Mortality rate,per 1k pop,15-60,Female,AMR1560A1556,15,60,626,No
+1610,Timor-Leste,1990,395,Mortality rate,per 1k pop,15-60,All,AMR1560A1557,15,60,626,No
+1611,Togo,2012,318,Mortality rate,per 1k pop,15-60,Male,AMR1560A1558,15,60,768,No
+1612,Togo,2012,293,Mortality rate,per 1k pop,15-60,Female,AMR1560A1559,15,60,768,No
+1613,Togo,2012,305,Mortality rate,per 1k pop,15-60,All,AMR1560A1560,15,60,768,No
+1614,Togo,2000,347,Mortality rate,per 1k pop,15-60,Male,AMR1560A1561,15,60,768,No
+1615,Togo,2000,333,Mortality rate,per 1k pop,15-60,Female,AMR1560A1562,15,60,768,No
+1616,Togo,2000,340,Mortality rate,per 1k pop,15-60,All,AMR1560A1563,15,60,768,No
+1617,Togo,1990,304,Mortality rate,per 1k pop,15-60,Male,AMR1560A1564,15,60,768,No
+1618,Togo,1990,259,Mortality rate,per 1k pop,15-60,Female,AMR1560A1565,15,60,768,No
+1619,Togo,1990,281,Mortality rate,per 1k pop,15-60,All,AMR1560A1566,15,60,768,No
+1620,Tonga,2012,117,Mortality rate,per 1k pop,15-60,Male,AMR1560A1567,15,60,776,No
+1621,Tonga,2012,248,Mortality rate,per 1k pop,15-60,Female,AMR1560A1568,15,60,776,No
+1622,Tonga,2012,187,Mortality rate,per 1k pop,15-60,All,AMR1560A1569,15,60,776,No
+1623,Tonga,2000,208,Mortality rate,per 1k pop,15-60,Male,AMR1560A1570,15,60,776,No
+1624,Tonga,2000,188,Mortality rate,per 1k pop,15-60,Female,AMR1560A1571,15,60,776,No
+1625,Tonga,2000,198,Mortality rate,per 1k pop,15-60,All,AMR1560A1572,15,60,776,No
+1626,Tonga,1990,314,Mortality rate,per 1k pop,15-60,Male,AMR1560A1573,15,60,776,No
+1627,Tonga,1990,128,Mortality rate,per 1k pop,15-60,Female,AMR1560A1574,15,60,776,No
+1628,Tonga,1990,222,Mortality rate,per 1k pop,15-60,All,AMR1560A1575,15,60,776,No
+1629,Trinidad and Tobago,2012,229,Mortality rate,per 1k pop,15-60,Male,AMR1560A1576,15,60,780,No
+1630,Trinidad and Tobago,2012,130,Mortality rate,per 1k pop,15-60,Female,AMR1560A1577,15,60,780,No
+1631,Trinidad and Tobago,2012,181,Mortality rate,per 1k pop,15-60,All,AMR1560A1578,15,60,780,No
+1632,Trinidad and Tobago,2000,249,Mortality rate,per 1k pop,15-60,Male,AMR1560A1579,15,60,780,No
+1633,Trinidad and Tobago,2000,144,Mortality rate,per 1k pop,15-60,Female,AMR1560A1580,15,60,780,No
+1634,Trinidad and Tobago,2000,198,Mortality rate,per 1k pop,15-60,All,AMR1560A1581,15,60,780,No
+1635,Trinidad and Tobago,1990,248,Mortality rate,per 1k pop,15-60,Male,AMR1560A1582,15,60,780,No
+1636,Trinidad and Tobago,1990,166,Mortality rate,per 1k pop,15-60,Female,AMR1560A1583,15,60,780,No
+1637,Trinidad and Tobago,1990,207,Mortality rate,per 1k pop,15-60,All,AMR1560A1584,15,60,780,No
+1638,Tunisia,2012,133,Mortality rate,per 1k pop,15-60,Male,AMR1560A1585,15,60,788,No
+1639,Tunisia,2012,71,Mortality rate,per 1k pop,15-60,Female,AMR1560A1586,15,60,788,No
+1640,Tunisia,2012,102,Mortality rate,per 1k pop,15-60,All,AMR1560A1587,15,60,788,No
+1641,Tunisia,2000,144,Mortality rate,per 1k pop,15-60,Male,AMR1560A1588,15,60,788,No
+1642,Tunisia,2000,89,Mortality rate,per 1k pop,15-60,Female,AMR1560A1589,15,60,788,No
+1643,Tunisia,2000,117,Mortality rate,per 1k pop,15-60,All,AMR1560A1590,15,60,788,No
+1644,Tunisia,1990,146,Mortality rate,per 1k pop,15-60,Male,AMR1560A1591,15,60,788,No
+1645,Tunisia,1990,102,Mortality rate,per 1k pop,15-60,Female,AMR1560A1592,15,60,788,No
+1646,Tunisia,1990,124,Mortality rate,per 1k pop,15-60,All,AMR1560A1593,15,60,788,No
+1647,Turkey,2012,150,Mortality rate,per 1k pop,15-60,Male,AMR1560A1594,15,60,792,No
+1648,Turkey,2012,75,Mortality rate,per 1k pop,15-60,Female,AMR1560A1595,15,60,792,No
+1649,Turkey,2012,112,Mortality rate,per 1k pop,15-60,All,AMR1560A1596,15,60,792,No
+1650,Turkey,2000,198,Mortality rate,per 1k pop,15-60,Male,AMR1560A1597,15,60,792,No
+1651,Turkey,2000,103,Mortality rate,per 1k pop,15-60,Female,AMR1560A1598,15,60,792,No
+1652,Turkey,2000,150,Mortality rate,per 1k pop,15-60,All,AMR1560A1599,15,60,792,No
+1653,Turkey,1990,232,Mortality rate,per 1k pop,15-60,Male,AMR1560A1600,15,60,792,No
+1654,Turkey,1990,133,Mortality rate,per 1k pop,15-60,Female,AMR1560A1601,15,60,792,No
+1655,Turkey,1990,184,Mortality rate,per 1k pop,15-60,All,AMR1560A1602,15,60,792,No
+1656,Turkmenistan,2012,378,Mortality rate,per 1k pop,15-60,Male,AMR1560A1603,15,60,795,No
+1657,Turkmenistan,2012,201,Mortality rate,per 1k pop,15-60,Female,AMR1560A1604,15,60,795,No
+1658,Turkmenistan,2012,292,Mortality rate,per 1k pop,15-60,All,AMR1560A1605,15,60,795,No
+1659,Turkmenistan,2000,344,Mortality rate,per 1k pop,15-60,Male,AMR1560A1606,15,60,795,No
+1660,Turkmenistan,2000,204,Mortality rate,per 1k pop,15-60,Female,AMR1560A1607,15,60,795,No
+1661,Turkmenistan,2000,275,Mortality rate,per 1k pop,15-60,All,AMR1560A1608,15,60,795,No
+1662,Turkmenistan,1990,301,Mortality rate,per 1k pop,15-60,Male,AMR1560A1609,15,60,795,No
+1663,Turkmenistan,1990,193,Mortality rate,per 1k pop,15-60,Female,AMR1560A1610,15,60,795,No
+1664,Turkmenistan,1990,248,Mortality rate,per 1k pop,15-60,All,AMR1560A1611,15,60,795,No
+1665,Tuvalu,2012,240,Mortality rate,per 1k pop,15-60,Male,AMR1560A1612,15,60,798,No
+1666,Tuvalu,2012,185,Mortality rate,per 1k pop,15-60,Female,AMR1560A1613,15,60,798,No
+1667,Tuvalu,2012,213,Mortality rate,per 1k pop,15-60,All,AMR1560A1614,15,60,798,No
+1668,Tuvalu,2000,296,Mortality rate,per 1k pop,15-60,Male,AMR1560A1615,15,60,798,No
+1669,Tuvalu,2000,231,Mortality rate,per 1k pop,15-60,Female,AMR1560A1616,15,60,798,No
+1670,Tuvalu,2000,265,Mortality rate,per 1k pop,15-60,All,AMR1560A1617,15,60,798,No
+1671,Tuvalu,1990,348,Mortality rate,per 1k pop,15-60,Male,AMR1560A1618,15,60,798,No
+1672,Tuvalu,1990,259,Mortality rate,per 1k pop,15-60,Female,AMR1560A1619,15,60,798,No
+1673,Tuvalu,1990,306,Mortality rate,per 1k pop,15-60,All,AMR1560A1620,15,60,798,No
+1674,Uganda,2012,389,Mortality rate,per 1k pop,15-60,Male,AMR1560A1621,15,60,800,No
+1675,Uganda,2012,360,Mortality rate,per 1k pop,15-60,Female,AMR1560A1622,15,60,800,No
+1676,Uganda,2012,375,Mortality rate,per 1k pop,15-60,All,AMR1560A1623,15,60,800,No
+1677,Uganda,2000,595,Mortality rate,per 1k pop,15-60,Male,AMR1560A1624,15,60,800,No
+1678,Uganda,2000,559,Mortality rate,per 1k pop,15-60,Female,AMR1560A1625,15,60,800,No
+1679,Uganda,2000,577,Mortality rate,per 1k pop,15-60,All,AMR1560A1626,15,60,800,No
+1680,Uganda,1990,503,Mortality rate,per 1k pop,15-60,Male,AMR1560A1627,15,60,800,No
+1681,Uganda,1990,418,Mortality rate,per 1k pop,15-60,Female,AMR1560A1628,15,60,800,No
+1682,Uganda,1990,461,Mortality rate,per 1k pop,15-60,All,AMR1560A1629,15,60,800,No
+1683,Ukraine,2012,297,Mortality rate,per 1k pop,15-60,Male,AMR1560A1630,15,60,804,No
+1684,Ukraine,2012,116,Mortality rate,per 1k pop,15-60,Female,AMR1560A1631,15,60,804,No
+1685,Ukraine,2012,205,Mortality rate,per 1k pop,15-60,All,AMR1560A1632,15,60,804,No
+1686,Ukraine,2000,377,Mortality rate,per 1k pop,15-60,Male,AMR1560A1633,15,60,804,No
+1687,Ukraine,2000,136,Mortality rate,per 1k pop,15-60,Female,AMR1560A1634,15,60,804,No
+1688,Ukraine,2000,258,Mortality rate,per 1k pop,15-60,All,AMR1560A1635,15,60,804,No
+1689,Ukraine,1990,287,Mortality rate,per 1k pop,15-60,Male,AMR1560A1636,15,60,804,No
+1690,Ukraine,1990,112,Mortality rate,per 1k pop,15-60,Female,AMR1560A1637,15,60,804,No
+1691,Ukraine,1990,199,Mortality rate,per 1k pop,15-60,All,AMR1560A1638,15,60,804,No
+1692,United Arab Emirates,2012,85,Mortality rate,per 1k pop,15-60,Male,AMR1560A1639,15,60,784,No
+1693,United Arab Emirates,2012,60,Mortality rate,per 1k pop,15-60,Female,AMR1560A1640,15,60,784,No
+1694,United Arab Emirates,2012,77,Mortality rate,per 1k pop,15-60,All,AMR1560A1641,15,60,784,No
+1695,United Arab Emirates,2000,114,Mortality rate,per 1k pop,15-60,Male,AMR1560A1642,15,60,784,No
+1696,United Arab Emirates,2000,89,Mortality rate,per 1k pop,15-60,Female,AMR1560A1643,15,60,784,No
+1697,United Arab Emirates,2000,108,Mortality rate,per 1k pop,15-60,All,AMR1560A1644,15,60,784,No
+1698,United Arab Emirates,1990,150,Mortality rate,per 1k pop,15-60,Male,AMR1560A1645,15,60,784,No
+1699,United Arab Emirates,1990,121,Mortality rate,per 1k pop,15-60,Female,AMR1560A1646,15,60,784,No
+1700,United Arab Emirates,1990,142,Mortality rate,per 1k pop,15-60,All,AMR1560A1647,15,60,784,No
+1701,United Kingdom,2012,90,Mortality rate,per 1k pop,15-60,Male,AMR1560A1648,15,60,826,No
+1702,United Kingdom,2012,56,Mortality rate,per 1k pop,15-60,Female,AMR1560A1649,15,60,826,No
+1703,United Kingdom,2012,73,Mortality rate,per 1k pop,15-60,All,AMR1560A1650,15,60,826,No
+1704,United Kingdom,2000,108,Mortality rate,per 1k pop,15-60,Male,AMR1560A1651,15,60,826,No
+1705,United Kingdom,2000,67,Mortality rate,per 1k pop,15-60,Female,AMR1560A1652,15,60,826,No
+1706,United Kingdom,2000,88,Mortality rate,per 1k pop,15-60,All,AMR1560A1653,15,60,826,No
+1707,United Kingdom,1990,129,Mortality rate,per 1k pop,15-60,Male,AMR1560A1654,15,60,826,No
+1708,United Kingdom,1990,78,Mortality rate,per 1k pop,15-60,Female,AMR1560A1655,15,60,826,No
+1709,United Kingdom,1990,104,Mortality rate,per 1k pop,15-60,All,AMR1560A1656,15,60,826,No
+1710,United Republic of Tanzania,2012,342,Mortality rate,per 1k pop,15-60,Male,AMR1560A1657,15,60,834,No
+1711,United Republic of Tanzania,2012,277,Mortality rate,per 1k pop,15-60,Female,AMR1560A1658,15,60,834,No
+1712,United Republic of Tanzania,2012,310,Mortality rate,per 1k pop,15-60,All,AMR1560A1659,15,60,834,No
+1713,United Republic of Tanzania,2000,454,Mortality rate,per 1k pop,15-60,Male,AMR1560A1660,15,60,834,No
+1714,United Republic of Tanzania,2000,427,Mortality rate,per 1k pop,15-60,Female,AMR1560A1661,15,60,834,No
+1715,United Republic of Tanzania,2000,440,Mortality rate,per 1k pop,15-60,All,AMR1560A1662,15,60,834,No
+1716,United Republic of Tanzania,1990,388,Mortality rate,per 1k pop,15-60,Male,AMR1560A1663,15,60,834,No
+1717,United Republic of Tanzania,1990,328,Mortality rate,per 1k pop,15-60,Female,AMR1560A1664,15,60,834,No
+1718,United Republic of Tanzania,1990,358,Mortality rate,per 1k pop,15-60,All,AMR1560A1665,15,60,834,No
+1719,United States of America,2012,130,Mortality rate,per 1k pop,15-60,Male,AMR1560A1666,15,60,840,No
+1720,United States of America,2012,77,Mortality rate,per 1k pop,15-60,Female,AMR1560A1667,15,60,840,No
+1721,United States of America,2012,103,Mortality rate,per 1k pop,15-60,All,AMR1560A1668,15,60,840,No
+1722,United States of America,2000,144,Mortality rate,per 1k pop,15-60,Male,AMR1560A1669,15,60,840,No
+1723,United States of America,2000,83,Mortality rate,per 1k pop,15-60,Female,AMR1560A1670,15,60,840,No
+1724,United States of America,2000,114,Mortality rate,per 1k pop,15-60,All,AMR1560A1671,15,60,840,No
+1725,United States of America,1990,173,Mortality rate,per 1k pop,15-60,Male,AMR1560A1672,15,60,840,No
+1726,United States of America,1990,91,Mortality rate,per 1k pop,15-60,Female,AMR1560A1673,15,60,840,No
+1727,United States of America,1990,132,Mortality rate,per 1k pop,15-60,All,AMR1560A1674,15,60,840,No
+1728,Uruguay,2012,149,Mortality rate,per 1k pop,15-60,Male,AMR1560A1675,15,60,858,No
+1729,Uruguay,2012,79,Mortality rate,per 1k pop,15-60,Female,AMR1560A1676,15,60,858,No
+1730,Uruguay,2012,114,Mortality rate,per 1k pop,15-60,All,AMR1560A1677,15,60,858,No
+1731,Uruguay,2000,181,Mortality rate,per 1k pop,15-60,Male,AMR1560A1678,15,60,858,No
+1732,Uruguay,2000,90,Mortality rate,per 1k pop,15-60,Female,AMR1560A1679,15,60,858,No
+1733,Uruguay,2000,135,Mortality rate,per 1k pop,15-60,All,AMR1560A1680,15,60,858,No
+1734,Uruguay,1990,196,Mortality rate,per 1k pop,15-60,Male,AMR1560A1681,15,60,858,No
+1735,Uruguay,1990,98,Mortality rate,per 1k pop,15-60,Female,AMR1560A1682,15,60,858,No
+1736,Uruguay,1990,147,Mortality rate,per 1k pop,15-60,All,AMR1560A1683,15,60,858,No
+1737,Uzbekistan,2012,211,Mortality rate,per 1k pop,15-60,Male,AMR1560A1684,15,60,860,No
+1738,Uzbekistan,2012,131,Mortality rate,per 1k pop,15-60,Female,AMR1560A1685,15,60,860,No
+1739,Uzbekistan,2012,171,Mortality rate,per 1k pop,15-60,All,AMR1560A1686,15,60,860,No
+1740,Uzbekistan,2000,252,Mortality rate,per 1k pop,15-60,Male,AMR1560A1687,15,60,860,No
+1741,Uzbekistan,2000,151,Mortality rate,per 1k pop,15-60,Female,AMR1560A1688,15,60,860,No
+1742,Uzbekistan,2000,202,Mortality rate,per 1k pop,15-60,All,AMR1560A1689,15,60,860,No
+1743,Uzbekistan,1990,251,Mortality rate,per 1k pop,15-60,Male,AMR1560A1690,15,60,860,No
+1744,Uzbekistan,1990,144,Mortality rate,per 1k pop,15-60,Female,AMR1560A1691,15,60,860,No
+1745,Uzbekistan,1990,198,Mortality rate,per 1k pop,15-60,All,AMR1560A1692,15,60,860,No
+1746,Vanuatu,2012,164,Mortality rate,per 1k pop,15-60,Male,AMR1560A1693,15,60,548,No
+1747,Vanuatu,2012,116,Mortality rate,per 1k pop,15-60,Female,AMR1560A1694,15,60,548,No
+1748,Vanuatu,2012,140,Mortality rate,per 1k pop,15-60,All,AMR1560A1695,15,60,548,No
+1749,Vanuatu,2000,209,Mortality rate,per 1k pop,15-60,Male,AMR1560A1696,15,60,548,No
+1750,Vanuatu,2000,162,Mortality rate,per 1k pop,15-60,Female,AMR1560A1697,15,60,548,No
+1751,Vanuatu,2000,186,Mortality rate,per 1k pop,15-60,All,AMR1560A1698,15,60,548,No
+1752,Vanuatu,1990,256,Mortality rate,per 1k pop,15-60,Male,AMR1560A1699,15,60,548,No
+1753,Vanuatu,1990,210,Mortality rate,per 1k pop,15-60,Female,AMR1560A1700,15,60,548,No
+1754,Vanuatu,1990,235,Mortality rate,per 1k pop,15-60,All,AMR1560A1701,15,60,548,No
+1755,Venezuela (Bolivarian Republic of),2012,200,Mortality rate,per 1k pop,15-60,Male,AMR1560A1702,15,60,862,No
+1756,Venezuela (Bolivarian Republic of),2012,89,Mortality rate,per 1k pop,15-60,Female,AMR1560A1703,15,60,862,No
+1757,Venezuela (Bolivarian Republic of),2012,146,Mortality rate,per 1k pop,15-60,All,AMR1560A1704,15,60,862,No
+1758,Venezuela (Bolivarian Republic of),2000,185,Mortality rate,per 1k pop,15-60,Male,AMR1560A1705,15,60,862,No
+1759,Venezuela (Bolivarian Republic of),2000,98,Mortality rate,per 1k pop,15-60,Female,AMR1560A1706,15,60,862,No
+1760,Venezuela (Bolivarian Republic of),2000,143,Mortality rate,per 1k pop,15-60,All,AMR1560A1707,15,60,862,No
+1761,Venezuela (Bolivarian Republic of),1990,178,Mortality rate,per 1k pop,15-60,Male,AMR1560A1708,15,60,862,No
+1762,Venezuela (Bolivarian Republic of),1990,117,Mortality rate,per 1k pop,15-60,Female,AMR1560A1709,15,60,862,No
+1763,Venezuela (Bolivarian Republic of),1990,148,Mortality rate,per 1k pop,15-60,All,AMR1560A1710,15,60,862,No
+1764,Viet Nam,2012,191,Mortality rate,per 1k pop,15-60,Male,AMR1560A1711,15,60,704,No
+1765,Viet Nam,2012,69,Mortality rate,per 1k pop,15-60,Female,AMR1560A1712,15,60,704,No
+1766,Viet Nam,2012,131,Mortality rate,per 1k pop,15-60,All,AMR1560A1713,15,60,704,No
+1767,Viet Nam,2000,201,Mortality rate,per 1k pop,15-60,Male,AMR1560A1714,15,60,704,No
+1768,Viet Nam,2000,79,Mortality rate,per 1k pop,15-60,Female,AMR1560A1715,15,60,704,No
+1769,Viet Nam,2000,139,Mortality rate,per 1k pop,15-60,All,AMR1560A1716,15,60,704,No
+1770,Viet Nam,1990,212,Mortality rate,per 1k pop,15-60,Male,AMR1560A1717,15,60,704,No
+1771,Viet Nam,1990,95,Mortality rate,per 1k pop,15-60,Female,AMR1560A1718,15,60,704,No
+1772,Viet Nam,1990,153,Mortality rate,per 1k pop,15-60,All,AMR1560A1719,15,60,704,No
+1773,Yemen,2012,264,Mortality rate,per 1k pop,15-60,Male,AMR1560A1720,15,60,887,No
+1774,Yemen,2012,264,Mortality rate,per 1k pop,15-60,Male,AMR1560A1720,15,60,886,No
+1775,Yemen,2012,214,Mortality rate,per 1k pop,15-60,Female,AMR1560A1721,15,60,887,No
+1776,Yemen,2012,214,Mortality rate,per 1k pop,15-60,Female,AMR1560A1721,15,60,886,No
+1777,Yemen,2012,238,Mortality rate,per 1k pop,15-60,All,AMR1560A1722,15,60,887,No
+1778,Yemen,2012,238,Mortality rate,per 1k pop,15-60,All,AMR1560A1722,15,60,886,No
+1779,Yemen,2000,278,Mortality rate,per 1k pop,15-60,Male,AMR1560A1723,15,60,887,No
+1780,Yemen,2000,278,Mortality rate,per 1k pop,15-60,Male,AMR1560A1723,15,60,886,No
+1781,Yemen,2000,230,Mortality rate,per 1k pop,15-60,Female,AMR1560A1724,15,60,887,No
+1782,Yemen,2000,230,Mortality rate,per 1k pop,15-60,Female,AMR1560A1724,15,60,886,No
+1783,Yemen,2000,255,Mortality rate,per 1k pop,15-60,All,AMR1560A1725,15,60,887,No
+1784,Yemen,2000,255,Mortality rate,per 1k pop,15-60,All,AMR1560A1725,15,60,886,No
+1785,Yemen,1990,301,Mortality rate,per 1k pop,15-60,Male,AMR1560A1726,15,60,887,No
+1786,Yemen,1990,301,Mortality rate,per 1k pop,15-60,Male,AMR1560A1726,15,60,886,No
+1787,Yemen,1990,247,Mortality rate,per 1k pop,15-60,Female,AMR1560A1727,15,60,887,No
+1788,Yemen,1990,247,Mortality rate,per 1k pop,15-60,Female,AMR1560A1727,15,60,886,No
+1789,Yemen,1990,272,Mortality rate,per 1k pop,15-60,All,AMR1560A1728,15,60,887,No
+1790,Yemen,1990,272,Mortality rate,per 1k pop,15-60,All,AMR1560A1728,15,60,886,No
+1791,Zambia,2012,398,Mortality rate,per 1k pop,15-60,Male,AMR1560A1729,15,60,894,No
+1792,Zambia,2012,353,Mortality rate,per 1k pop,15-60,Female,AMR1560A1730,15,60,894,No
+1793,Zambia,2012,376,Mortality rate,per 1k pop,15-60,All,AMR1560A1731,15,60,894,No
+1794,Zambia,2000,704,Mortality rate,per 1k pop,15-60,Male,AMR1560A1732,15,60,894,No
+1795,Zambia,2000,633,Mortality rate,per 1k pop,15-60,Female,AMR1560A1733,15,60,894,No
+1796,Zambia,2000,670,Mortality rate,per 1k pop,15-60,All,AMR1560A1734,15,60,894,No
+1797,Zambia,1990,634,Mortality rate,per 1k pop,15-60,Male,AMR1560A1735,15,60,894,No
+1798,Zambia,1990,452,Mortality rate,per 1k pop,15-60,Female,AMR1560A1736,15,60,894,No
+1799,Zambia,1990,550,Mortality rate,per 1k pop,15-60,All,AMR1560A1737,15,60,894,No
+1800,Zimbabwe,2012,390,Mortality rate,per 1k pop,15-60,Male,AMR1560A1738,15,60,716,No
+1801,Zimbabwe,2012,313,Mortality rate,per 1k pop,15-60,Female,AMR1560A1739,15,60,716,No
+1802,Zimbabwe,2012,351,Mortality rate,per 1k pop,15-60,All,AMR1560A1740,15,60,716,No
+1803,Zimbabwe,2000,738,Mortality rate,per 1k pop,15-60,Male,AMR1560A1741,15,60,716,No
+1804,Zimbabwe,2000,764,Mortality rate,per 1k pop,15-60,Female,AMR1560A1742,15,60,716,No
+1805,Zimbabwe,2000,751,Mortality rate,per 1k pop,15-60,All,AMR1560A1743,15,60,716,No
+1806,Zimbabwe,1990,308,Mortality rate,per 1k pop,15-60,Male,AMR1560A1744,15,60,716,No
+1807,Zimbabwe,1990,255,Mortality rate,per 1k pop,15-60,Female,AMR1560A1745,15,60,716,No
+1808,Zimbabwe,1990,282,Mortality rate,per 1k pop,15-60,All,AMR1560A1746,15,60,716,No

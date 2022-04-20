@@ -1,0 +1,224 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Algeria,2007,4966,Number of radiographers,Absolute,All,All,NOORAD1,0,130,12,No
+1,Algeria,2002,3385,Number of radiographers,Absolute,All,All,NOORAD2,0,130,12,No
+2,Angola,2004,653,Number of radiographers,Absolute,All,All,NOORAD3,0,130,24,No
+3,Australia,2006,10477,Number of radiographers,Absolute,All,All,NOORAD4,0,130,36,No
+4,Australia,2001,8326,Number of radiographers,Absolute,All,All,NOORAD5,0,130,36,No
+5,Australia,1996,6513,Number of radiographers,Absolute,All,All,NOORAD6,0,130,36,No
+6,Bahamas,2008,57,Number of radiographers,Absolute,All,All,NOORAD7,0,130,44,No
+7,Bahrain,2011,117,Number of radiographers,Absolute,All,All,NOORAD8,0,130,48,No
+8,Bahrain,2010,117,Number of radiographers,Absolute,All,All,NOORAD9,0,130,48,No
+9,Bahrain,2009,104,Number of radiographers,Absolute,All,All,NOORAD10,0,130,48,No
+10,Bahrain,2008,107,Number of radiographers,Absolute,All,All,NOORAD11,0,130,48,No
+11,Bahrain,2004,149,Number of radiographers,Absolute,All,All,NOORAD12,0,130,48,No
+12,Bangladesh,2005,674,Number of radiographers,Absolute,All,All,NOORAD13,0,130,50,No
+13,Bangladesh,2004,1213,Number of radiographers,Absolute,All,All,NOORAD14,0,130,50,No
+14,Bangladesh,2002,1456,Number of radiographers,Absolute,All,All,NOORAD15,0,130,50,No
+15,Barbados,2005,12,Number of radiographers,Absolute,All,All,NOORAD16,0,130,52,No
+16,Barbados,2001,20,Number of radiographers,Absolute,All,All,NOORAD17,0,130,52,No
+17,Barbados,1995,30,Number of radiographers,Absolute,All,All,NOORAD18,0,130,52,No
+18,Benin,2004,76,Number of radiographers,Absolute,All,All,NOORAD19,0,130,204,No
+19,Bhutan,2007,41,Number of radiographers,Absolute,All,All,NOORAD20,0,130,64,No
+20,Bhutan,2004,34,Number of radiographers,Absolute,All,All,NOORAD21,0,130,64,No
+21,Bolivia (Plurinational State of),2011,230,Number of radiographers,Absolute,All,All,NOORAD22,0,130,68,No
+22,Bolivia (Plurinational State of),2010,178,Number of radiographers,Absolute,All,All,NOORAD23,0,130,68,No
+23,Bolivia (Plurinational State of),2007,115,Number of radiographers,Absolute,All,All,NOORAD24,0,130,68,No
+24,Bolivia (Plurinational State of),2001,540,Number of radiographers,Absolute,All,All,NOORAD25,0,130,68,No
+25,Botswana,2004,61,Number of radiographers,Absolute,All,All,NOORAD26,0,130,72,No
+26,Brunei Darussalam,2011,70,Number of radiographers,Absolute,All,All,NOORAD27,0,130,96,No
+27,Burkina Faso,2010,106,Number of radiographers,Absolute,All,All,NOORAD28,0,130,854,No
+28,Burkina Faso,2008,92,Number of radiographers,Absolute,All,All,NOORAD29,0,130,854,No
+29,Burkina Faso,2006,84,Number of radiographers,Absolute,All,All,NOORAD30,0,130,854,No
+30,Burkina Faso,2004,82,Number of radiographers,Absolute,All,All,NOORAD31,0,130,854,No
+31,Burundi,2004,5,Number of radiographers,Absolute,All,All,NOORAD32,0,130,108,No
+32,Cabo Verde,2010,21,Number of radiographers,Absolute,All,All,NOORAD33,0,130,132,No
+33,Cabo Verde,2009,22,Number of radiographers,Absolute,All,All,NOORAD34,0,130,132,No
+34,Cabo Verde,2007,22,Number of radiographers,Absolute,All,All,NOORAD35,0,130,132,No
+35,Cabo Verde,2006,21,Number of radiographers,Absolute,All,All,NOORAD36,0,130,132,No
+36,Cabo Verde,2004,20,Number of radiographers,Absolute,All,All,NOORAD37,0,130,132,No
+37,Cambodia,1998,22,Number of radiographers,Absolute,All,All,NOORAD38,0,130,116,No
+38,Cambodia,1996,20,Number of radiographers,Absolute,All,All,NOORAD39,0,130,116,No
+39,Canada,2010,18498,Number of radiographers,Absolute,All,All,NOORAD40,0,130,124,No
+40,Canada,2009,17949,Number of radiographers,Absolute,All,All,NOORAD41,0,130,124,No
+41,Canada,2008,17457,Number of radiographers,Absolute,All,All,NOORAD42,0,130,124,No
+42,Canada,2006,16464,Number of radiographers,Absolute,All,All,NOORAD43,0,130,124,No
+43,Canada,2004,15693,Number of radiographers,Absolute,All,All,NOORAD44,0,130,124,No
+44,Canada,2002,14780,Number of radiographers,Absolute,All,All,NOORAD45,0,130,124,No
+45,Canada,2001,14593,Number of radiographers,Absolute,All,All,NOORAD46,0,130,124,No
+46,Canada,1998,14164,Number of radiographers,Absolute,All,All,NOORAD47,0,130,124,No
+47,Central African Republic,2004,9,Number of radiographers,Absolute,All,All,NOORAD48,0,130,140,No
+48,Chad,2004,11,Number of radiographers,Absolute,All,All,NOORAD49,0,130,148,No
+49,Comoros,2004,4,Number of radiographers,Absolute,All,All,NOORAD50,0,130,174,No
+50,Congo,2007,31,Number of radiographers,Absolute,All,All,NOORAD51,0,130,178,No
+51,Congo,2004,9,Number of radiographers,Absolute,All,All,NOORAD52,0,130,178,No
+52,Congo,1998,178,Number of radiographers,Absolute,All,All,NOORAD53,0,130,178,No
+53,Cook Islands,2009,2,Number of radiographers,Absolute,All,All,NOORAD54,0,130,184,No
+54,Côte dIvoire,2004,232,Number of radiographers,Absolute,All,All,NOORAD55,0,130,384,No
+55,Cuba,2010,3326,Number of radiographers,Absolute,All,All,NOORAD56,0,130,192,No
+56,Cuba,2007,3068,Number of radiographers,Absolute,All,All,NOORAD57,0,130,192,No
+57,Cyprus,2008,115,Number of radiographers,Absolute,All,All,NOORAD58,0,130,196,No
+58,Cyprus,2006,107,Number of radiographers,Absolute,All,All,NOORAD59,0,130,196,No
+59,Democratic Peoples Republic of Korea,2003,950,Number of radiographers,Absolute,All,All,NOORAD60,0,130,408,No
+60,Democratic Republic of the Congo,2004,190,Number of radiographers,Absolute,All,All,NOORAD61,0,130,180,No
+61,Djibouti,2005,25,Number of radiographers,Absolute,All,All,NOORAD62,0,130,262,No
+62,Djibouti,2004,25,Number of radiographers,Absolute,All,All,NOORAD63,0,130,262,No
+63,Egypt,2004,4426,Number of radiographers,Absolute,All,All,NOORAD64,0,130,818,No
+64,El Salvador,2008,211,Number of radiographers,Absolute,All,All,NOORAD65,0,130,222,No
+65,El Salvador,2005,172,Number of radiographers,Absolute,All,All,NOORAD66,0,130,222,No
+66,El Salvador,1999,11,Number of radiographers,Absolute,All,All,NOORAD67,0,130,222,No
+67,Equatorial Guinea,2004,1,Number of radiographers,Absolute,All,All,NOORAD68,0,130,226,No
+68,Eritrea,2004,48,Number of radiographers,Absolute,All,All,NOORAD69,0,130,232,No
+69,Ethiopia,2009,169,Number of radiographers,Absolute,All,All,NOORAD70,0,130,231,No
+70,Ethiopia,2009,169,Number of radiographers,Absolute,All,All,NOORAD70,0,130,230,No
+71,Ethiopia,2008,217,Number of radiographers,Absolute,All,All,NOORAD71,0,130,231,No
+72,Ethiopia,2008,217,Number of radiographers,Absolute,All,All,NOORAD71,0,130,230,No
+73,Ethiopia,2007,87,Number of radiographers,Absolute,All,All,NOORAD72,0,130,231,No
+74,Ethiopia,2007,87,Number of radiographers,Absolute,All,All,NOORAD72,0,130,230,No
+75,Ethiopia,2006,283,Number of radiographers,Absolute,All,All,NOORAD73,0,130,231,No
+76,Ethiopia,2006,283,Number of radiographers,Absolute,All,All,NOORAD73,0,130,230,No
+77,Ethiopia,2005,491,Number of radiographers,Absolute,All,All,NOORAD74,0,130,231,No
+78,Ethiopia,2005,491,Number of radiographers,Absolute,All,All,NOORAD74,0,130,230,No
+79,Ethiopia,2004,300,Number of radiographers,Absolute,All,All,NOORAD75,0,130,231,No
+80,Ethiopia,2004,300,Number of radiographers,Absolute,All,All,NOORAD75,0,130,230,No
+81,Ethiopia,2003,300,Number of radiographers,Absolute,All,All,NOORAD76,0,130,231,No
+82,Ethiopia,2003,300,Number of radiographers,Absolute,All,All,NOORAD76,0,130,230,No
+83,Fiji,2009,56,Number of radiographers,Absolute,All,All,NOORAD77,0,130,242,No
+84,Finland,2002,3297,Number of radiographers,Absolute,All,All,NOORAD78,0,130,246,No
+85,Gabon,2004,31,Number of radiographers,Absolute,All,All,NOORAD79,0,130,266,No
+86,Gambia,2008,15,Number of radiographers,Absolute,All,All,NOORAD80,0,130,270,No
+87,Gambia,2007,15,Number of radiographers,Absolute,All,All,NOORAD81,0,130,270,No
+88,Gambia,2003,3,Number of radiographers,Absolute,All,All,NOORAD82,0,130,270,No
+89,Ghana,2008,73,Number of radiographers,Absolute,All,All,NOORAD83,0,130,288,No
+90,Ghana,2004,18,Number of radiographers,Absolute,All,All,NOORAD84,0,130,288,No
+91,Grenada,2003,7,Number of radiographers,Absolute,All,All,NOORAD85,0,130,308,No
+92,Grenada,2002,7,Number of radiographers,Absolute,All,All,NOORAD86,0,130,308,No
+93,Grenada,2001,7,Number of radiographers,Absolute,All,All,NOORAD87,0,130,308,No
+94,Grenada,2000,7,Number of radiographers,Absolute,All,All,NOORAD88,0,130,308,No
+95,Grenada,1999,7,Number of radiographers,Absolute,All,All,NOORAD89,0,130,308,No
+96,Guinea,2005,7,Number of radiographers,Absolute,All,All,NOORAD90,0,130,324,No
+97,Guinea,2004,12,Number of radiographers,Absolute,All,All,NOORAD91,0,130,324,No
+98,Guinea,2000,8,Number of radiographers,Absolute,All,All,NOORAD92,0,130,324,No
+99,Guinea-Bissau,2008,9,Number of radiographers,Absolute,All,All,NOORAD93,0,130,624,No
+100,Guinea-Bissau,2004,15,Number of radiographers,Absolute,All,All,NOORAD94,0,130,624,No
+101,Iceland,2010,115,Number of radiographers,Absolute,All,All,NOORAD95,0,130,352,No
+102,Iceland,2009,113,Number of radiographers,Absolute,All,All,NOORAD96,0,130,352,No
+103,Iceland,2008,107,Number of radiographers,Absolute,All,All,NOORAD97,0,130,352,No
+104,Iceland,2007,107,Number of radiographers,Absolute,All,All,NOORAD98,0,130,352,No
+105,Iceland,2006,88,Number of radiographers,Absolute,All,All,NOORAD99,0,130,352,No
+106,Iceland,2005,91,Number of radiographers,Absolute,All,All,NOORAD100,0,130,352,No
+107,Iceland,2004,88,Number of radiographers,Absolute,All,All,NOORAD101,0,130,352,No
+108,Iceland,2003,86,Number of radiographers,Absolute,All,All,NOORAD102,0,130,352,No
+109,Iceland,2002,86,Number of radiographers,Absolute,All,All,NOORAD103,0,130,352,No
+110,Iceland,2001,84,Number of radiographers,Absolute,All,All,NOORAD104,0,130,352,No
+111,Iceland,2000,87,Number of radiographers,Absolute,All,All,NOORAD105,0,130,352,No
+112,India,1991,15886,Number of radiographers,Absolute,All,All,NOORAD106,0,130,356,No
+113,Indonesia,2003,1543,Number of radiographers,Absolute,All,All,NOORAD107,0,130,360,No
+114,Indonesia,1992,590,Number of radiographers,Absolute,All,All,NOORAD108,0,130,360,No
+115,Iran (Islamic Republic of),2004,6915,Number of radiographers,Absolute,All,All,NOORAD109,0,130,364,No
+116,Jamaica,2008,56,Number of radiographers,Absolute,All,All,NOORAD110,0,130,388,No
+117,Jordan,2004,1280,Number of radiographers,Absolute,All,All,NOORAD111,0,130,400,No
+118,Kenya,2004,1000,Number of radiographers,Absolute,All,All,NOORAD112,0,130,404,No
+119,Lebanon,2005,600,Number of radiographers,Absolute,All,All,NOORAD113,0,130,422,No
+120,Lesotho,2003,14,Number of radiographers,Absolute,All,All,NOORAD114,0,130,426,No
+121,Liberia,2004,17,Number of radiographers,Absolute,All,All,NOORAD115,0,130,430,No
+122,Madagascar,2004,39,Number of radiographers,Absolute,All,All,NOORAD116,0,130,450,No
+123,Malawi,2009,134,Number of radiographers,Absolute,All,All,NOORAD117,0,130,454,No
+124,Malawi,2004,30,Number of radiographers,Absolute,All,All,NOORAD118,0,130,454,No
+125,Malaysia,2010,2039,Number of radiographers,Absolute,All,All,NOORAD119,0,130,458,No
+126,Maldives,2010,52,Number of radiographers,Absolute,All,All,NOORAD120,0,130,462,No
+127,Maldives,2009,54,Number of radiographers,Absolute,All,All,NOORAD121,0,130,462,No
+128,Maldives,2007,44,Number of radiographers,Absolute,All,All,NOORAD122,0,130,462,No
+129,Maldives,2004,27,Number of radiographers,Absolute,All,All,NOORAD123,0,130,462,No
+130,Mali,2010,58,Number of radiographers,Absolute,All,All,NOORAD124,0,130,466,No
+131,Mali,2009,49,Number of radiographers,Absolute,All,All,NOORAD125,0,130,466,No
+132,Mali,2004,32,Number of radiographers,Absolute,All,All,NOORAD126,0,130,466,No
+133,Mauritania,2009,14,Number of radiographers,Absolute,All,All,NOORAD127,0,130,478,No
+134,Mauritania,2004,24,Number of radiographers,Absolute,All,All,NOORAD128,0,130,478,No
+135,Mauritius,2004,119,Number of radiographers,Absolute,All,All,NOORAD129,0,130,480,No
+136,Micronesia (Federated States of),2008,16,Number of radiographers,Absolute,All,All,NOORAD130,0,130,583,No
+137,Morocco,2004,643,Number of radiographers,Absolute,All,All,NOORAD131,0,130,504,No
+138,Mozambique,2004,169,Number of radiographers,Absolute,All,All,NOORAD132,0,130,508,No
+139,Myanmar,2004,327,Number of radiographers,Absolute,All,All,NOORAD133,0,130,104,No
+140,Namibia,2007,171,Number of radiographers,Absolute,All,All,NOORAD134,0,130,516,No
+141,Namibia,2004,321,Number of radiographers,Absolute,All,All,NOORAD135,0,130,516,No
+142,Nauru,2009,2,Number of radiographers,Absolute,All,All,NOORAD136,0,130,520,No
+143,Nepal,2004,105,Number of radiographers,Absolute,All,All,NOORAD137,0,130,524,No
+144,Niger,2008,28,Number of radiographers,Absolute,All,All,NOORAD138,0,130,562,No
+145,Niger,2004,28,Number of radiographers,Absolute,All,All,NOORAD139,0,130,562,No
+146,Nigeria,2009,924,Number of radiographers,Absolute,All,All,NOORAD140,0,130,566,No
+147,Nigeria,2008,840,Number of radiographers,Absolute,All,All,NOORAD141,0,130,566,No
+148,Nigeria,2007,840,Number of radiographers,Absolute,All,All,NOORAD142,0,130,566,No
+149,Nigeria,2005,729,Number of radiographers,Absolute,All,All,NOORAD143,0,130,566,No
+150,Nigeria,2004,690,Number of radiographers,Absolute,All,All,NOORAD144,0,130,566,No
+151,Niue,2008,1,Number of radiographers,Absolute,All,All,NOORAD145,0,130,570,No
+152,Oman,2011,807,Number of radiographers,Absolute,All,All,NOORAD146,0,130,512,No
+153,Oman,2010,758,Number of radiographers,Absolute,All,All,NOORAD147,0,130,512,No
+154,Oman,2009,681,Number of radiographers,Absolute,All,All,NOORAD148,0,130,512,No
+155,Oman,2008,619,Number of radiographers,Absolute,All,All,NOORAD149,0,130,512,No
+156,Oman,2007,593,Number of radiographers,Absolute,All,All,NOORAD150,0,130,512,No
+157,Oman,2006,550,Number of radiographers,Absolute,All,All,NOORAD151,0,130,512,No
+158,Oman,2005,480,Number of radiographers,Absolute,All,All,NOORAD152,0,130,512,No
+159,Oman,2004,414,Number of radiographers,Absolute,All,All,NOORAD153,0,130,512,No
+160,Oman,2000,334,Number of radiographers,Absolute,All,All,NOORAD154,0,130,512,No
+161,Oman,1999,260,Number of radiographers,Absolute,All,All,NOORAD155,0,130,512,No
+162,Oman,1998,252,Number of radiographers,Absolute,All,All,NOORAD156,0,130,512,No
+163,Oman,1997,232,Number of radiographers,Absolute,All,All,NOORAD157,0,130,512,No
+164,Oman,1995,232,Number of radiographers,Absolute,All,All,NOORAD158,0,130,512,No
+165,Oman,1990,161,Number of radiographers,Absolute,All,All,NOORAD159,0,130,512,No
+166,Oman,1985,64,Number of radiographers,Absolute,All,All,NOORAD160,0,130,512,No
+167,Pakistan,2004,1670,Number of radiographers,Absolute,All,All,NOORAD161,0,130,586,No
+168,Qatar,2006,205,Number of radiographers,Absolute,All,All,NOORAD162,0,130,634,No
+169,Republic of Korea,2004,20700,Number of radiographers,Absolute,All,All,NOORAD163,0,130,410,No
+170,Rwanda,2004,13,Number of radiographers,Absolute,All,All,NOORAD164,0,130,646,No
+171,Samoa,2008,20,Number of radiographers,Absolute,All,All,NOORAD165,0,130,882,No
+172,Sao Tome and Principe,2004,7,Number of radiographers,Absolute,All,All,NOORAD166,0,130,678,No
+173,Senegal,2008,21,Number of radiographers,Absolute,All,All,NOORAD167,0,130,686,No
+174,Senegal,2004,15,Number of radiographers,Absolute,All,All,NOORAD168,0,130,686,No
+175,Seychelles,2004,13,Number of radiographers,Absolute,All,All,NOORAD169,0,130,690,No
+176,Sierra Leone,2008,4,Number of radiographers,Absolute,All,All,NOORAD170,0,130,694,No
+177,Somalia,2005,34,Number of radiographers,Absolute,All,All,NOORAD171,0,130,706,No
+178,South Africa,2013,6601,Number of radiographers,Absolute,All,All,NOORAD172,0,130,710,No
+179,South Africa,2011,6409,Number of radiographers,Absolute,All,All,NOORAD173,0,130,710,No
+180,South Africa,2004,327,Number of radiographers,Absolute,All,All,NOORAD174,0,130,710,No
+181,Sri Lanka,2007,392,Number of radiographers,Absolute,All,All,NOORAD175,0,130,144,No
+182,Sri Lanka,2004,338,Number of radiographers,Absolute,All,All,NOORAD176,0,130,144,No
+183,Sri Lanka,1993,244,Number of radiographers,Absolute,All,All,NOORAD177,0,130,144,No
+184,Sudan,2004,664,Number of radiographers,Absolute,All,All,NOORAD178,0,130,729,No
+185,Sudan,2004,664,Number of radiographers,Absolute,All,All,NOORAD178,0,130,736,No
+186,Swaziland,2004,30,Number of radiographers,Absolute,All,All,NOORAD179,0,130,748,No
+187,Swaziland,2000,10,Number of radiographers,Absolute,All,All,NOORAD180,0,130,748,No
+188,Thailand,2009,1134,Number of radiographers,Absolute,All,All,NOORAD181,0,130,764,No
+189,Thailand,2008,1096,Number of radiographers,Absolute,All,All,NOORAD182,0,130,764,No
+190,Thailand,2007,1177,Number of radiographers,Absolute,All,All,NOORAD183,0,130,764,No
+191,Thailand,2006,988,Number of radiographers,Absolute,All,All,NOORAD184,0,130,764,No
+192,Timor-Leste,2011,48,Number of radiographers,Absolute,All,All,NOORAD185,0,130,626,No
+193,Timor-Leste,2010,48,Number of radiographers,Absolute,All,All,NOORAD186,0,130,626,No
+194,Timor-Leste,2009,34,Number of radiographers,Absolute,All,All,NOORAD187,0,130,626,No
+195,Timor-Leste,2008,32,Number of radiographers,Absolute,All,All,NOORAD188,0,130,626,No
+196,Timor-Leste,2007,32,Number of radiographers,Absolute,All,All,NOORAD189,0,130,626,No
+197,Timor-Leste,2004,1,Number of radiographers,Absolute,All,All,NOORAD190,0,130,626,No
+198,Timor-Leste,2001,11,Number of radiographers,Absolute,All,All,NOORAD191,0,130,626,No
+199,Togo,2008,17,Number of radiographers,Absolute,All,All,NOORAD192,0,130,768,No
+200,Togo,2007,11,Number of radiographers,Absolute,All,All,NOORAD193,0,130,768,No
+201,Togo,2004,47,Number of radiographers,Absolute,All,All,NOORAD194,0,130,768,No
+202,Tonga,2009,7,Number of radiographers,Absolute,All,All,NOORAD195,0,130,776,No
+203,Tunisia,2004,1636,Number of radiographers,Absolute,All,All,NOORAD196,0,130,788,No
+204,Uganda,2004,164,Number of radiographers,Absolute,All,All,NOORAD197,0,130,800,No
+205,United Kingdom,1997,20035,Number of radiographers,Absolute,All,All,NOORAD198,0,130,826,No
+206,United Republic of Tanzania,2006,56,Number of radiographers,Absolute,All,All,NOORAD199,0,130,834,No
+207,United Republic of Tanzania,2002,193,Number of radiographers,Absolute,All,All,NOORAD200,0,130,834,No
+208,United States of America,2000,177404,Number of radiographers,Absolute,All,All,NOORAD201,0,130,840,No
+209,Yemen,2010,968,Number of radiographers,Absolute,All,All,NOORAD202,0,130,887,No
+210,Yemen,2010,968,Number of radiographers,Absolute,All,All,NOORAD202,0,130,886,No
+211,Yemen,2004,1250,Number of radiographers,Absolute,All,All,NOORAD203,0,130,887,No
+212,Yemen,2004,1250,Number of radiographers,Absolute,All,All,NOORAD203,0,130,886,No
+213,Yemen,1997,370,Number of radiographers,Absolute,All,All,NOORAD204,0,130,887,No
+214,Yemen,1997,370,Number of radiographers,Absolute,All,All,NOORAD204,0,130,886,No
+215,Zambia,2006,139,Number of radiographers,Absolute,All,All,NOORAD205,0,130,894,No
+216,Zambia,2004,252,Number of radiographers,Absolute,All,All,NOORAD206,0,130,894,No
+217,Zimbabwe,2009,251,Number of radiographers,Absolute,All,All,NOORAD207,0,130,716,No
+218,Zimbabwe,2008,261,Number of radiographers,Absolute,All,All,NOORAD208,0,130,716,No
+219,Zimbabwe,2007,154,Number of radiographers,Absolute,All,All,NOORAD209,0,130,716,No
+220,Zimbabwe,1995,204,Number of radiographers,Absolute,All,All,NOORAD210,0,130,716,No
+221,Zimbabwe,1990,166,Number of radiographers,Absolute,All,All,NOORAD211,0,130,716,No
+222,Zimbabwe,1985,98,Number of radiographers,Absolute,All,All,NOORAD212,0,130,716,No

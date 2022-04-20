@@ -1,0 +1,227 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2011,3.6,Births by Caesarean Section,Percent,All,All,BBCS1,0,130,4,No
+1,Albania,2009,18.7,Births by Caesarean Section,Percent,All,All,BBCS2,0,130,8,No
+2,Argentina,2006,22.7,Births by Caesarean Section,Percent,All,All,BBCS3,0,130,32,No
+3,Armenia,2010,12.5,Births by Caesarean Section,Percent,All,All,BBCS4,0,130,51,No
+4,Australia,2010,31.6,Births by Caesarean Section,Percent,All,All,BBCS5,0,130,36,No
+5,Australia,2009,31.5,Births by Caesarean Section,Percent,All,All,BBCS6,0,130,36,No
+6,Austria,2011,29,Births by Caesarean Section,Percent,All,All,BBCS7,0,130,40,No
+7,Azerbaijan,2012,20.5,Births by Caesarean Section,Percent,All,All,BBCS8,0,130,31,No
+8,Azerbaijan,2006,4.7,Births by Caesarean Section,Percent,All,All,BBCS9,0,130,31,No
+9,Bahrain,2011,30,Births by Caesarean Section,Percent,All,All,BBCS10,0,130,48,No
+10,Bahrain,2010,26.8,Births by Caesarean Section,Percent,All,All,BBCS11,0,130,48,No
+11,Bangladesh,2011,17.1,Births by Caesarean Section,Percent,All,All,BBCS12,0,130,50,No
+12,Belarus,2011,24,Births by Caesarean Section,Percent,All,All,BBCS13,0,130,112,No
+13,Belarus,2010,23,Births by Caesarean Section,Percent,All,All,BBCS14,0,130,112,No
+14,Belgium,2009,19.8,Births by Caesarean Section,Percent,All,All,BBCS15,0,130,56,No
+15,Belgium,2008,20.3,Births by Caesarean Section,Percent,All,All,BBCS16,0,130,56,No
+16,Belize,2011,28.1,Births by Caesarean Section,Percent,All,All,BBCS17,0,130,84,No
+17,Benin,2006,3.6,Births by Caesarean Section,Percent,All,All,BBCS18,0,130,204,No
+18,Bhutan,2010,12.4,Births by Caesarean Section,Percent,All,All,BBCS19,0,130,64,No
+19,Bolivia (Plurinational State of),2008,18.6,Births by Caesarean Section,Percent,All,All,BBCS20,0,130,68,No
+20,Bosnia and Herzegovina,2012,13.9,Births by Caesarean Section,Percent,All,All,BBCS21,0,130,70,No
+21,Bosnia and Herzegovina,2010,15,Births by Caesarean Section,Percent,All,All,BBCS22,0,130,70,No
+22,Brazil,2011,53.7,Births by Caesarean Section,Percent,All,All,BBCS23,0,130,76,No
+23,Brazil,2010,52.3,Births by Caesarean Section,Percent,All,All,BBCS24,0,130,76,No
+24,Bulgaria,2011,33.1,Births by Caesarean Section,Percent,All,All,BBCS25,0,130,100,No
+25,Bulgaria,2010,31,Births by Caesarean Section,Percent,All,All,BBCS26,0,130,100,No
+26,Burkina Faso,2010,1.9,Births by Caesarean Section,Percent,All,All,BBCS27,0,130,854,No
+27,Burundi,2010,4,Births by Caesarean Section,Percent,All,All,BBCS28,0,130,108,No
+28,Cabo Verde,2005,10.7,Births by Caesarean Section,Percent,All,All,BBCS29,0,130,132,No
+29,Cambodia,2010,3,Births by Caesarean Section,Percent,All,All,BBCS30,0,130,116,No
+30,Cameroon,2011,3.8,Births by Caesarean Section,Percent,All,All,BBCS31,0,130,120,No
+31,Canada,2011,26.9,Births by Caesarean Section,Percent,All,All,BBCS32,0,130,124,No
+32,Canada,2010,27.8,Births by Caesarean Section,Percent,All,All,BBCS33,0,130,124,No
+33,Central African Republic,2010,4.5,Births by Caesarean Section,Percent,All,All,BBCS34,0,130,140,No
+34,Chad,2010,1.5,Births by Caesarean Section,Percent,All,All,BBCS35,0,130,148,No
+35,Chile,2010,37,Births by Caesarean Section,Percent,All,All,BBCS36,0,130,152,No
+36,China,2008,27,Births by Caesarean Section,Percent,All,All,BBCS37,0,130,156,No
+37,China,2008,27.2,Births by Caesarean Section,Percent,All,All,BBCS38,0,130,156,No
+38,Colombia,2011,42.8,Births by Caesarean Section,Percent,All,All,BBCS39,0,130,170,No
+39,Congo,2012,5.8,Births by Caesarean Section,Percent,All,All,BBCS40,0,130,178,No
+40,Congo,2005,3.2,Births by Caesarean Section,Percent,All,All,BBCS41,0,130,178,No
+41,Costa Rica,2012,21.6,Births by Caesarean Section,Percent,All,All,BBCS42,0,130,188,No
+42,Costa Rica,2010,20.9,Births by Caesarean Section,Percent,All,All,BBCS43,0,130,188,No
+43,Côte dIvoire,2012,2.7,Births by Caesarean Section,Percent,All,All,BBCS44,0,130,384,No
+44,Côte dIvoire,2005,6.4,Births by Caesarean Section,Percent,All,All,BBCS45,0,130,384,No
+45,Croatia,2012,18.8,Births by Caesarean Section,Percent,All,All,BBCS46,0,130,191,No
+46,Croatia,2010,18.7,Births by Caesarean Section,Percent,All,All,BBCS47,0,130,191,No
+47,Cyprus,2007,50.9,Births by Caesarean Section,Percent,All,All,BBCS48,0,130,196,No
+48,Czech Republic,2011,24.7,Births by Caesarean Section,Percent,All,All,BBCS49,0,130,203,No
+49,Czech Republic,2010,24.1,Births by Caesarean Section,Percent,All,All,BBCS50,0,130,203,No
+50,Democratic Peoples Republic of Korea,2009,12.5,Births by Caesarean Section,Percent,All,All,BBCS51,0,130,408,No
+51,Democratic Republic of the Congo,2010,7.2,Births by Caesarean Section,Percent,All,All,BBCS52,0,130,180,No
+52,Denmark,2012,21.2,Births by Caesarean Section,Percent,All,All,BBCS53,0,130,208,No
+53,Denmark,2011,21,Births by Caesarean Section,Percent,All,All,BBCS54,0,130,208,No
+54,Dominican Republic,2012,43.5,Births by Caesarean Section,Percent,All,All,BBCS55,0,130,214,No
+55,Dominican Republic,2010,38.8,Births by Caesarean Section,Percent,All,All,BBCS56,0,130,214,No
+56,Egypt,2008,27.6,Births by Caesarean Section,Percent,All,All,BBCS57,0,130,818,No
+57,El Salvador,2012,28.2,Births by Caesarean Section,Percent,All,All,BBCS58,0,130,222,No
+58,El Salvador,2008,24.9,Births by Caesarean Section,Percent,All,All,BBCS59,0,130,222,No
+59,Estonia,2012,19.9,Births by Caesarean Section,Percent,All,All,BBCS60,0,130,233,No
+60,Estonia,2011,20.2,Births by Caesarean Section,Percent,All,All,BBCS61,0,130,233,No
+61,Ethiopia,2011,1.5,Births by Caesarean Section,Percent,All,All,BBCS62,0,130,231,No
+62,Ethiopia,2011,1.5,Births by Caesarean Section,Percent,All,All,BBCS62,0,130,230,No
+63,Finland,2011,16.3,Births by Caesarean Section,Percent,All,All,BBCS63,0,130,246,No
+64,France,2010,21,Births by Caesarean Section,Percent,All,All,BBCS64,0,130,250,No
+65,Gabon,2012,10,Births by Caesarean Section,Percent,All,All,BBCS65,0,130,266,No
+66,Gambia,2010,2.5,Births by Caesarean Section,Percent,All,All,BBCS66,0,130,270,No
+67,Georgia,2011,35.1,Births by Caesarean Section,Percent,All,All,BBCS67,0,130,268,No
+68,Georgia,2010,23.9,Births by Caesarean Section,Percent,All,All,BBCS68,0,130,268,No
+69,Germany,2011,32.1,Births by Caesarean Section,Percent,All,All,BBCS69,0,130,276,No
+70,Ghana,2011,11.4,Births by Caesarean Section,Percent,All,All,BBCS70,0,130,288,No
+71,Ghana,2008,6.9,Births by Caesarean Section,Percent,All,All,BBCS71,0,130,288,No
+72,Guatemala,2009,16.3,Births by Caesarean Section,Percent,All,All,BBCS72,0,130,320,No
+73,Guinea,2007,2.4,Births by Caesarean Section,Percent,All,All,BBCS73,0,130,324,No
+74,Guinea-Bissau,2010,2.3,Births by Caesarean Section,Percent,All,All,BBCS74,0,130,624,No
+75,Guyana,2009,13.3,Births by Caesarean Section,Percent,All,All,BBCS75,0,130,328,No
+76,Haiti,2012,5.5,Births by Caesarean Section,Percent,All,All,BBCS76,0,130,332,No
+77,Haiti,2006,3,Births by Caesarean Section,Percent,All,All,BBCS77,0,130,332,No
+78,Honduras,2012,18.6,Births by Caesarean Section,Percent,All,All,BBCS78,0,130,340,No
+79,Honduras,2006,13,Births by Caesarean Section,Percent,All,All,BBCS79,0,130,340,No
+80,Hungary,2010,32.5,Births by Caesarean Section,Percent,All,All,BBCS80,0,130,348,No
+81,Hungary,2010,32.3,Births by Caesarean Section,Percent,All,All,BBCS81,0,130,348,No
+82,Iceland,2012,17,Births by Caesarean Section,Percent,All,All,BBCS82,0,130,352,No
+83,Iceland,2011,16.6,Births by Caesarean Section,Percent,All,All,BBCS83,0,130,352,No
+84,India,2008,8.1,Births by Caesarean Section,Percent,All,All,BBCS84,0,130,356,No
+85,Indonesia,2012,12.3,Births by Caesarean Section,Percent,All,All,BBCS85,0,130,360,No
+86,Indonesia,2007,6.8,Births by Caesarean Section,Percent,All,All,BBCS86,0,130,360,No
+87,Iran (Islamic Republic of),2009,47.9,Births by Caesarean Section,Percent,All,All,BBCS87,0,130,364,No
+88,Iran (Islamic Republic of),2005,40,Births by Caesarean Section,Percent,All,All,BBCS88,0,130,364,No
+89,Iraq,2011,22.2,Births by Caesarean Section,Percent,All,All,BBCS89,0,130,368,No
+90,Iraq,2006,20.6,Births by Caesarean Section,Percent,All,All,BBCS90,0,130,368,No
+91,Ireland,2011,28.1,Births by Caesarean Section,Percent,All,All,BBCS91,0,130,372,No
+92,Ireland,2010,26.3,Births by Caesarean Section,Percent,All,All,BBCS92,0,130,372,No
+93,Israel,2010,19.9,Births by Caesarean Section,Percent,All,All,BBCS93,0,130,376,No
+94,Italy,2010,37.5,Births by Caesarean Section,Percent,All,All,BBCS94,0,130,380,No
+95,Italy,2009,38,Births by Caesarean Section,Percent,All,All,BBCS95,0,130,380,No
+96,Jamaica,2009,14.8,Births by Caesarean Section,Percent,All,All,BBCS96,0,130,388,No
+97,Japan,2011,19.2,Births by Caesarean Section,Percent,All,All,BBCS97,0,130,392,No
+98,Japan,2011,19.2,Births by Caesarean Section,Percent,All,All,BBCS97,0,130,392,No
+99,Japan,2008,23.3,Births by Caesarean Section,Percent,All,All,BBCS98,0,130,392,No
+100,Japan,2008,23.3,Births by Caesarean Section,Percent,All,All,BBCS98,0,130,392,No
+101,Jordan,2007,18.5,Births by Caesarean Section,Percent,All,All,BBCS99,0,130,400,No
+102,Kazakhstan,2011,15.9,Births by Caesarean Section,Percent,All,All,BBCS100,0,130,398,No
+103,Kazakhstan,2010,13.5,Births by Caesarean Section,Percent,All,All,BBCS101,0,130,398,No
+104,Kenya,2009,6.2,Births by Caesarean Section,Percent,All,All,BBCS102,0,130,404,No
+105,Kyrgyzstan,2011,7,Births by Caesarean Section,Percent,All,All,BBCS103,0,130,417,No
+106,Kyrgyzstan,2010,6.9,Births by Caesarean Section,Percent,All,All,BBCS104,0,130,417,No
+107,Lao Peoples Democratic Republic,2012,3.7,Births by Caesarean Section,Percent,All,All,BBCS105,0,130,418,No
+108,Lao Peoples Democratic Republic,2010,2,Births by Caesarean Section,Percent,All,All,BBCS106,0,130,418,No
+109,Latvia,2011,23.6,Births by Caesarean Section,Percent,All,All,BBCS107,0,130,428,No
+110,Latvia,2010,23.9,Births by Caesarean Section,Percent,All,All,BBCS108,0,130,428,No
+111,Lesotho,2009,6.7,Births by Caesarean Section,Percent,All,All,BBCS109,0,130,426,No
+112,Liberia,2007,3.5,Births by Caesarean Section,Percent,All,All,BBCS110,0,130,430,No
+113,Lithuania,2011,25,Births by Caesarean Section,Percent,All,All,BBCS111,0,130,440,No
+114,Lithuania,2010,25.2,Births by Caesarean Section,Percent,All,All,BBCS112,0,130,440,No
+115,Luxembourg,2011,31,Births by Caesarean Section,Percent,All,All,BBCS113,0,130,442,No
+116,Luxembourg,2009,31.3,Births by Caesarean Section,Percent,All,All,BBCS114,0,130,442,No
+117,Madagascar,2009,1.5,Births by Caesarean Section,Percent,All,All,BBCS115,0,130,450,No
+118,Malawi,2010,4.6,Births by Caesarean Section,Percent,All,All,BBCS116,0,130,454,No
+119,Malaysia,2006,15.7,Births by Caesarean Section,Percent,All,All,BBCS117,0,130,458,No
+120,Maldives,2011,41.1,Births by Caesarean Section,Percent,All,All,BBCS118,0,130,462,No
+121,Maldives,2009,32.4,Births by Caesarean Section,Percent,All,All,BBCS119,0,130,462,No
+122,Mali,2006,1.6,Births by Caesarean Section,Percent,All,All,BBCS120,0,130,466,No
+123,Malta,2011,34,Births by Caesarean Section,Percent,All,All,BBCS121,0,130,470,No
+124,Malta,2010,31.7,Births by Caesarean Section,Percent,All,All,BBCS122,0,130,470,No
+125,Marshall Islands,2007,9.3,Births by Caesarean Section,Percent,All,All,BBCS123,0,130,584,No
+126,Mauritius,2011,43.8,Births by Caesarean Section,Percent,All,All,BBCS124,0,130,480,No
+127,Mauritius,2010,44.1,Births by Caesarean Section,Percent,All,All,BBCS125,0,130,480,No
+128,Mexico,2010,38.8,Births by Caesarean Section,Percent,All,All,BBCS126,0,130,484,No
+129,Micronesia (Federated States of),2006,10.5,Births by Caesarean Section,Percent,All,All,BBCS127,0,130,583,No
+130,Mongolia,2010,21,Births by Caesarean Section,Percent,All,All,BBCS128,0,130,496,No
+131,Montenegro,2010,23.6,Births by Caesarean Section,Percent,All,All,BBCS129,0,130,499,No
+132,Montenegro,2009,19.3,Births by Caesarean Section,Percent,All,All,BBCS130,0,130,499,No
+133,Morocco,2011,16,Births by Caesarean Section,Percent,All,All,BBCS131,0,130,504,No
+134,Mozambique,2011,3.9,Births by Caesarean Section,Percent,All,All,BBCS132,0,130,508,No
+135,Namibia,2007,12.7,Births by Caesarean Section,Percent,All,All,BBCS133,0,130,516,No
+136,Nauru,2007,7.5,Births by Caesarean Section,Percent,All,All,BBCS134,0,130,520,No
+137,Nepal,2011,4.6,Births by Caesarean Section,Percent,All,All,BBCS135,0,130,524,No
+138,Netherlands,2010,17,Births by Caesarean Section,Percent,All,All,BBCS136,0,130,528,No
+139,Netherlands,2008,15.4,Births by Caesarean Section,Percent,All,All,BBCS137,0,130,528,No
+140,New Zealand,2010,23.6,Births by Caesarean Section,Percent,All,All,BBCS138,0,130,554,No
+141,New Zealand,2010,23.6,Births by Caesarean Section,Percent,All,All,BBCS138,0,130,554,No
+142,Nicaragua,2012,29.7,Births by Caesarean Section,Percent,All,All,BBCS139,0,130,558,No
+143,Nicaragua,2007,19.6,Births by Caesarean Section,Percent,All,All,BBCS140,0,130,558,No
+144,Niger,2006,1,Births by Caesarean Section,Percent,All,All,BBCS141,0,130,562,No
+145,Nigeria,2011,4.7,Births by Caesarean Section,Percent,All,All,BBCS142,0,130,566,No
+146,Nigeria,2008,1.8,Births by Caesarean Section,Percent,All,All,BBCS143,0,130,566,No
+147,Norway,2011,17,Births by Caesarean Section,Percent,All,All,BBCS144,0,130,578,No
+148,Norway,2010,17.1,Births by Caesarean Section,Percent,All,All,BBCS145,0,130,578,No
+149,Oman,2011,17,Births by Caesarean Section,Percent,All,All,BBCS146,0,130,512,No
+150,Oman,2010,16.4,Births by Caesarean Section,Percent,All,All,BBCS147,0,130,512,No
+151,Pakistan,2007,7.3,Births by Caesarean Section,Percent,All,All,BBCS148,0,130,586,No
+152,Panama,2009,20.2,Births by Caesarean Section,Percent,All,All,BBCS149,0,130,591,No
+153,Panama,2009,20.2,Births by Caesarean Section,Percent,All,All,BBCS149,0,130,590,No
+154,Paraguay,2008,33.1,Births by Caesarean Section,Percent,All,All,BBCS150,0,130,600,No
+155,Peru,2012,25.3,Births by Caesarean Section,Percent,All,All,BBCS151,0,130,604,No
+156,Peru,2011,22.9,Births by Caesarean Section,Percent,All,All,BBCS152,0,130,604,No
+157,Philippines,2011,11.1,Births by Caesarean Section,Percent,All,All,BBCS153,0,130,608,No
+158,Philippines,2008,9.5,Births by Caesarean Section,Percent,All,All,BBCS154,0,130,608,No
+159,Poland,2011,35.2,Births by Caesarean Section,Percent,All,All,BBCS155,0,130,616,No
+160,Poland,2010,33.7,Births by Caesarean Section,Percent,All,All,BBCS156,0,130,616,No
+161,Portugal,2011,35.2,Births by Caesarean Section,Percent,All,All,BBCS157,0,130,620,No
+162,Portugal,2010,35.8,Births by Caesarean Section,Percent,All,All,BBCS158,0,130,620,No
+163,Republic of Korea,2009,36.9,Births by Caesarean Section,Percent,All,All,BBCS159,0,130,410,No
+164,Republic of Moldova,2012,15.6,Births by Caesarean Section,Percent,All,All,BBCS160,0,130,498,No
+165,Republic of Moldova,2011,14.8,Births by Caesarean Section,Percent,All,All,BBCS161,0,130,498,No
+166,Romania,2010,36.9,Births by Caesarean Section,Percent,All,All,BBCS162,0,130,642,No
+167,Romania,2010,30.4,Births by Caesarean Section,Percent,All,All,BBCS163,0,130,642,No
+168,Russian Federation,2010,22.1,Births by Caesarean Section,Percent,All,All,BBCS164,0,130,643,No
+169,Russian Federation,2006,18,Births by Caesarean Section,Percent,All,All,BBCS165,0,130,643,No
+170,Rwanda,2010,7.1,Births by Caesarean Section,Percent,All,All,BBCS166,0,130,646,No
+171,Samoa,2009,12.8,Births by Caesarean Section,Percent,All,All,BBCS167,0,130,882,No
+172,San Marino,2012,33.6,Births by Caesarean Section,Percent,All,All,BBCS168,0,130,674,No
+173,San Marino,2011,35.4,Births by Caesarean Section,Percent,All,All,BBCS169,0,130,674,No
+174,Sao Tome and Principe,2009,5.3,Births by Caesarean Section,Percent,All,All,BBCS170,0,130,678,No
+175,Saudi Arabia,2010,22.3,Births by Caesarean Section,Percent,All,All,BBCS171,0,130,682,No
+176,Senegal,2011,5.9,Births by Caesarean Section,Percent,All,All,BBCS172,0,130,686,No
+177,Serbia,2010,24.6,Births by Caesarean Section,Percent,All,All,BBCS173,0,130,688,No
+178,Seychelles,2010,22.8,Births by Caesarean Section,Percent,All,All,BBCS174,0,130,690,No
+179,Sierra Leone,2010,4.5,Births by Caesarean Section,Percent,All,All,BBCS175,0,130,694,No
+180,Slovakia,2010,28.7,Births by Caesarean Section,Percent,All,All,BBCS176,0,130,703,No
+181,Slovenia,2010,18.2,Births by Caesarean Section,Percent,All,All,BBCS177,0,130,705,No
+182,Solomon Islands,2007,6.2,Births by Caesarean Section,Percent,All,All,BBCS178,0,130,90,No
+183,South Sudan,2010,<1.0,Births by Caesarean Section,Percent,All,All,BBCS179,0,130,728,No
+184,Spain,2011,25,Births by Caesarean Section,Percent,All,All,BBCS180,0,130,724,No
+185,Spain,2010,25.3,Births by Caesarean Section,Percent,All,All,BBCS181,0,130,724,No
+186,Sri Lanka,2008,25.7,Births by Caesarean Section,Percent,All,All,BBCS182,0,130,144,No
+187,Sri Lanka,2007,23.8,Births by Caesarean Section,Percent,All,All,BBCS183,0,130,144,No
+188,Sudan,2010,6.6,Births by Caesarean Section,Percent,All,All,BBCS184,0,130,729,No
+189,Sudan,2010,6.6,Births by Caesarean Section,Percent,All,All,BBCS184,0,130,736,No
+190,Suriname,2010,19,Births by Caesarean Section,Percent,All,All,BBCS185,0,130,740,No
+191,Swaziland,2010,12.3,Births by Caesarean Section,Percent,All,All,BBCS186,0,130,748,No
+192,Sweden,2011,17,Births by Caesarean Section,Percent,All,All,BBCS187,0,130,752,No
+193,Sweden,2010,16.9,Births by Caesarean Section,Percent,All,All,BBCS188,0,130,752,No
+194,Switzerland,2011,33.3,Births by Caesarean Section,Percent,All,All,BBCS189,0,130,756,No
+195,Switzerland,2011,33.3,Births by Caesarean Section,Percent,All,All,BBCS189,0,130,756,No
+196,Switzerland,2010,32.8,Births by Caesarean Section,Percent,All,All,BBCS190,0,130,756,No
+197,Switzerland,2010,32.8,Births by Caesarean Section,Percent,All,All,BBCS190,0,130,756,No
+198,Tajikistan,2012,4,Births by Caesarean Section,Percent,All,All,BBCS191,0,130,762,No
+199,Tajikistan,2009,3.4,Births by Caesarean Section,Percent,All,All,BBCS192,0,130,762,No
+200,The former Yugoslav Republic of Macedonia,2011,24.9,Births by Caesarean Section,Percent,All,All,BBCS193,0,130,807,No
+201,The former Yugoslav Republic of Macedonia,2010,22.2,Births by Caesarean Section,Percent,All,All,BBCS194,0,130,807,No
+202,Timor-Leste,2010,1.7,Births by Caesarean Section,Percent,All,All,BBCS195,0,130,626,No
+203,Togo,2010,8.8,Births by Caesarean Section,Percent,All,All,BBCS196,0,130,768,No
+204,Tonga,2005,11.1,Births by Caesarean Section,Percent,All,All,BBCS197,0,130,776,No
+205,Trinidad and Tobago,2007,18.4,Births by Caesarean Section,Percent,All,All,BBCS198,0,130,780,No
+206,Tunisia,2012,26.7,Births by Caesarean Section,Percent,All,All,BBCS199,0,130,788,No
+207,Tunisia,2006,20.5,Births by Caesarean Section,Percent,All,All,BBCS200,0,130,788,No
+208,Turkey,2008,36.7,Births by Caesarean Section,Percent,All,All,BBCS201,0,130,792,No
+209,Turkmenistan,2011,5.9,Births by Caesarean Section,Percent,All,All,BBCS202,0,130,795,No
+210,Turkmenistan,2010,3.8,Births by Caesarean Section,Percent,All,All,BBCS203,0,130,795,No
+211,Tuvalu,2007,7.1,Births by Caesarean Section,Percent,All,All,BBCS204,0,130,798,No
+212,Uganda,2011,5.3,Births by Caesarean Section,Percent,All,All,BBCS205,0,130,800,No
+213,Ukraine,2007,10.4,Births by Caesarean Section,Percent,All,All,BBCS206,0,130,804,No
+214,United Arab Emirates,2007,20.9,Births by Caesarean Section,Percent,All,All,BBCS207,0,130,784,No
+215,United Republic of Tanzania,2010,4.5,Births by Caesarean Section,Percent,All,All,BBCS208,0,130,834,No
+216,United States of America,2011,32.8,Births by Caesarean Section,Percent,All,All,BBCS209,0,130,840,No
+217,Uruguay,2007,33,Births by Caesarean Section,Percent,All,All,BBCS210,0,130,858,No
+218,Uzbekistan,2011,9,Births by Caesarean Section,Percent,All,All,BBCS211,0,130,860,No
+219,Uzbekistan,2010,8.6,Births by Caesarean Section,Percent,All,All,BBCS212,0,130,860,No
+220,Venezuela (Bolivarian Republic of),2009,32.2,Births by Caesarean Section,Percent,All,All,BBCS213,0,130,862,No
+221,Viet Nam,2011,20,Births by Caesarean Section,Percent,All,All,BBCS214,0,130,704,No
+222,Yemen,2009,6.5,Births by Caesarean Section,Percent,All,All,BBCS215,0,130,887,No
+223,Yemen,2009,6.5,Births by Caesarean Section,Percent,All,All,BBCS215,0,130,886,No
+224,Zambia,2007,3,Births by Caesarean Section,Percent,All,All,BBCS216,0,130,894,No
+225,Zimbabwe,2011,4.5,Births by Caesarean Section,Percent,All,All,BBCS217,0,130,716,No

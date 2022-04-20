@@ -1,0 +1,813 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2009,0.5,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE1,0,130,4,No
+1,Afghanistan,2008,0.413,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE2,0,130,4,No
+2,Afghanistan,2007,0.416,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE3,0,130,4,No
+3,Afghanistan,2006,0.374,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE4,0,130,4,No
+4,Afghanistan,2005,0.5,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE5,0,130,4,No
+5,Afghanistan,2001,0.215,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE6,0,130,4,No
+6,Albania,2012,3.99,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE7,0,130,8,No
+7,Albania,1994,0.588,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE8,0,130,8,No
+8,Algeria,2007,1.947,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE9,0,130,12,No
+9,Algeria,2002,2.231,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE10,0,130,12,No
+10,Andorra,2003,3.258,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE11,0,130,20,No
+11,Angola,2009,1.66,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE12,0,130,24,No
+12,Angola,2004,1.313,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE13,0,130,24,No
+13,Angola,1997,1.19,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE14,0,130,24,No
+14,Antigua and Barbuda,1999,3.282,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE15,0,130,28,No
+15,Argentina,2004,0.481,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE16,0,130,32,No
+16,Argentina,1998,0.802,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE17,0,130,32,No
+17,Armenia,2012,4.906,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE18,0,130,51,No
+18,Australia,2011,10.648,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE19,0,130,36,No
+19,Australia,2009,9.589,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE20,0,130,36,No
+20,Australia,2006,10.907,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE21,0,130,36,No
+21,Australia,2001,9.706,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE22,0,130,36,No
+22,Australia,1996,10.345,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE23,0,130,36,No
+23,Austria,2011,7.914,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE24,0,130,40,No
+24,Austria,2003,9.384,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE25,0,130,40,No
+25,Azerbaijan,2012,6.687,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE26,0,130,31,No
+26,Bahamas,2008,4.14,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE27,0,130,44,No
+27,Bahamas,1998,4.47,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE28,0,130,44,No
+28,Bahrain,2011,2.412,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE29,0,130,48,No
+29,Bahrain,2010,3.858,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE30,0,130,48,No
+30,Bahrain,2009,3.843,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE31,0,130,48,No
+31,Bahrain,2008,3.733,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE32,0,130,48,No
+32,Bahrain,2007,5.798,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE33,0,130,48,No
+33,Bahrain,2005,5.296,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE34,0,130,48,No
+34,Bahrain,2004,4.802,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE35,0,130,48,No
+35,Bangladesh,2011,0.218,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE36,0,130,50,No
+36,Bangladesh,2007,0.272,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE37,0,130,50,No
+37,Bangladesh,2006,0.277,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE38,0,130,50,No
+38,Bangladesh,2005,0.278,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE39,0,130,50,No
+39,Bangladesh,2004,0.313,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE40,0,130,50,No
+40,Bangladesh,2003,0.253,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE41,0,130,50,No
+41,Barbados,2005,4.856,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE42,0,130,52,No
+42,Barbados,2001,5.896,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE43,0,130,52,No
+43,Barbados,2000,5.925,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE44,0,130,52,No
+44,Barbados,1995,5.171,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE45,0,130,52,No
+45,Belarus,2011,10.529,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE46,0,130,112,No
+46,Belgium,2010,15.784,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE47,0,130,56,No
+47,Belgium,2003,5.829,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE48,0,130,56,No
+48,Belgium,2001,0.643,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE49,0,130,56,No
+49,Belize,2009,1.959,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE50,0,130,84,No
+50,Belize,2000,1.263,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE51,0,130,84,No
+51,Benin,2008,0.771,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE52,0,130,204,No
+52,Benin,2004,0.837,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE53,0,130,204,No
+53,Bhutan,2012,0.981,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE54,0,130,64,No
+54,Bhutan,2008,0.288,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE55,0,130,64,No
+55,Bhutan,2007,0.241,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE56,0,130,64,No
+56,Bhutan,2004,0.222,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE57,0,130,64,No
+57,Bolivia (Plurinational State of),2011,1.005,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE58,0,130,68,No
+58,Bolivia (Plurinational State of),2010,0.834,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE59,0,130,68,No
+59,Bolivia (Plurinational State of),2007,0.61,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE60,0,130,68,No
+60,Bolivia (Plurinational State of),2001,2.133,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE61,0,130,68,No
+61,Botswana,2006,2.844,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE62,0,130,72,No
+62,Botswana,2005,2.531,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE63,0,130,72,No
+63,Botswana,2004,2.648,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE64,0,130,72,No
+64,Botswana,2003,2.493,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE65,0,130,72,No
+65,Botswana,2002,2.342,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE66,0,130,72,No
+66,Botswana,2001,2.282,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE67,0,130,72,No
+67,Botswana,2000,2.504,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE68,0,130,72,No
+68,Botswana,1999,2.942,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE69,0,130,72,No
+69,Botswana,1998,2.565,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE70,0,130,72,No
+70,Brazil,2013,7.601,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE71,0,130,76,No
+71,Brazil,2010,7.344,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE72,0,130,76,No
+72,Brazil,2008,6.419,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE73,0,130,76,No
+73,Brazil,2007,6.5,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE74,0,130,76,No
+74,Brazil,2006,3.762,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE75,0,130,76,No
+75,Brazil,2005,3.776,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE76,0,130,76,No
+76,Brazil,2004,3.798,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE77,0,130,76,No
+77,Brazil,2000,3.837,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE78,0,130,76,No
+78,Brazil,1991,3.185,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE79,0,130,76,No
+79,Brunei Darussalam,2011,7.73,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE80,0,130,96,No
+80,Brunei Darussalam,2010,7.022,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE81,0,130,96,No
+81,Brunei Darussalam,2008,4.877,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE82,0,130,96,No
+82,Brunei Darussalam,2007,4.91,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE83,0,130,96,No
+83,Brunei Darussalam,2002,6.057,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE84,0,130,96,No
+84,Brunei Darussalam,2000,3.88,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE85,0,130,96,No
+85,Bulgaria,2011,4.684,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE86,0,130,100,No
+86,Burkina Faso,2010,0.565,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE87,0,130,854,No
+87,Burkina Faso,2008,0.729,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE88,0,130,854,No
+88,Burkina Faso,2006,0.424,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE89,0,130,854,No
+89,Burkina Faso,2004,0.49,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE90,0,130,854,No
+90,Burundi,2004,0.191,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE91,0,130,108,No
+91,Cabo Verde,2010,0.453,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE92,0,130,132,No
+92,Cabo Verde,2009,0.458,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE93,0,130,132,No
+93,Cabo Verde,2008,1.317,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE94,0,130,132,No
+94,Cabo Verde,2007,0.475,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE95,0,130,132,No
+95,Cabo Verde,2006,0.486,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE96,0,130,132,No
+96,Cabo Verde,2004,0.867,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE97,0,130,132,No
+97,Cambodia,2008,0.786,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE98,0,130,116,No
+98,Cambodia,2000,0.846,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE99,0,130,116,No
+99,Cambodia,1998,0.936,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE100,0,130,116,No
+100,Cambodia,1996,0.984,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE101,0,130,116,No
+101,Cameroon,2009,0.438,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE102,0,130,120,No
+102,Cameroon,2007,0.487,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE103,0,130,120,No
+103,Cameroon,2005,0.411,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE104,0,130,120,No
+104,Cameroon,2004,1.598,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE105,0,130,120,No
+105,Canada,2011,9.288,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE106,0,130,124,No
+106,Canada,2010,9.459,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE107,0,130,124,No
+107,Canada,2009,10.494,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE108,0,130,124,No
+108,Canada,2008,10.374,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE109,0,130,124,No
+109,Canada,2007,10.173,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE110,0,130,124,No
+110,Canada,2006,10.048,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE111,0,130,124,No
+111,Canada,2005,9.953,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE112,0,130,124,No
+112,Canada,2004,9.502,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE113,0,130,124,No
+113,Canada,2003,9.946,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE114,0,130,124,No
+114,Canada,2002,9.567,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE115,0,130,124,No
+115,Canada,2001,10.081,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE116,0,130,124,No
+116,Canada,1998,10.166,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE117,0,130,124,No
+117,Central African Republic,2009,0.257,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE118,0,130,140,No
+118,Central African Republic,2008,0.198,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE119,0,130,140,No
+119,Central African Republic,2004,0.412,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE120,0,130,140,No
+120,Chad,2006,0.188,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE121,0,130,148,No
+121,Chad,2004,0.282,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE122,0,130,148,No
+122,Chad,2000,0.132,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE123,0,130,148,No
+123,Chad,1999,0.063,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE124,0,130,148,No
+124,Chad,1998,0.059,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE125,0,130,148,No
+125,Chad,1997,0.05,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE126,0,130,148,No
+126,Chile,2009,0.144,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE127,0,130,152,No
+127,Chile,2008,0.145,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE128,0,130,152,No
+128,Chile,2007,0.14,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE129,0,130,152,No
+129,Chile,2006,0.142,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE130,0,130,152,No
+130,Chile,2005,0.129,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE131,0,130,152,No
+131,Chile,2004,0.13,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE132,0,130,152,No
+132,Chile,2003,0.13,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE133,0,130,152,No
+133,Chile,2002,0.114,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE134,0,130,152,No
+134,Chile,1992,4.549,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE135,0,130,152,No
+135,China,2010,1.512,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE136,0,130,156,No
+136,China,2009,1.377,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE137,0,130,156,No
+137,China,2003,0.96,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE138,0,130,156,No
+138,China,2001,1.083,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE139,0,130,156,No
+139,Colombia,2010,0.616,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE140,0,130,170,No
+140,Colombia,2009,0.606,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE141,0,130,170,No
+141,Colombia,2008,0.596,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE142,0,130,170,No
+142,Colombia,2007,0.586,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE143,0,130,170,No
+143,Colombia,2006,0.577,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE144,0,130,170,No
+144,Colombia,2005,0.567,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE145,0,130,170,No
+145,Colombia,2004,0.557,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE146,0,130,170,No
+146,Colombia,2003,0.547,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE147,0,130,170,No
+147,Colombia,2002,0.55,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE148,0,130,170,No
+148,Colombia,2001,0.528,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE149,0,130,170,No
+149,Colombia,1999,0.506,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE150,0,130,170,No
+150,Colombia,1998,0.491,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE151,0,130,170,No
+151,Colombia,1997,0.47,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE152,0,130,170,No
+152,Colombia,1996,0.463,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE153,0,130,170,No
+153,Colombia,1995,0.453,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE154,0,130,170,No
+154,Colombia,1994,0.443,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE155,0,130,170,No
+155,Colombia,1993,0.431,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE156,0,130,170,No
+156,Colombia,1992,0.422,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE157,0,130,170,No
+157,Colombia,1991,0.412,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE158,0,130,170,No
+158,Colombia,1990,0.401,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE159,0,130,170,No
+159,Comoros,2004,0.744,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE160,0,130,174,No
+160,Congo,2007,0.824,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE161,0,130,178,No
+161,Congo,2006,1.275,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE162,0,130,178,No
+162,Congo,2004,0.962,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE163,0,130,178,No
+163,Congo,1998,8.373,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE164,0,130,178,No
+164,Cook Islands,2009,6.444,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE165,0,130,184,No
+165,Cook Islands,2004,4.706,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE166,0,130,184,No
+166,Cook Islands,2001,2.889,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE167,0,130,184,No
+167,Costa Rica,2013,0.771,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE168,0,130,188,No
+168,Costa Rica,2000,0.93,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE169,0,130,188,No
+169,Côte dIvoire,2008,0.483,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE170,0,130,384,No
+170,Côte dIvoire,2005,0.495,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE171,0,130,384,No
+171,Côte dIvoire,2004,0.602,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE172,0,130,384,No
+172,Croatia,2011,5.798,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE173,0,130,191,No
+173,Cuba,2010,9.053,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE174,0,130,192,No
+174,Cuba,2007,8.642,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE175,0,130,192,No
+175,Cuba,2002,7.442,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE176,0,130,192,No
+176,Cyprus,2010,4.461,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE177,0,130,196,No
+177,Cyprus,2009,4.365,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE178,0,130,196,No
+178,Cyprus,2008,4.299,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE179,0,130,196,No
+179,Cyprus,2007,4.23,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE180,0,130,196,No
+180,Cyprus,2002,3.761,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE181,0,130,196,No
+181,Cyprus,1995,3.792,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE182,0,130,196,No
+182,Cyprus,1990,3.639,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE183,0,130,196,No
+183,Czech Republic,2011,8.43,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE184,0,130,203,No
+184,Democratic Peoples Republic of Korea,2003,4.122,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE185,0,130,408,No
+185,Democratic Republic of the Congo,2004,0.529,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE186,0,130,180,No
+186,Denmark,2009,16.093,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE187,0,130,208,No
+187,Denmark,2008,15.533,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE188,0,130,208,No
+188,Denmark,2002,10.358,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE189,0,130,208,No
+189,Djibouti,2008,0.8,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE190,0,130,262,No
+190,Djibouti,2006,0.399,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE191,0,130,262,No
+191,Djibouti,2005,0.567,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE192,0,130,262,No
+192,Djibouti,2004,0.416,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE193,0,130,262,No
+193,Djibouti,2002,0.794,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE194,0,130,262,No
+194,Djibouti,1999,0.761,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE195,0,130,262,No
+195,Dominica,2001,5.615,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE196,0,130,212,No
+196,Dominica,1997,4.171,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE197,0,130,212,No
+197,Dominican Republic,2011,1.33,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE198,0,130,214,No
+198,Dominican Republic,2009,1.35,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE199,0,130,214,No
+199,Dominican Republic,2008,0.82,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE200,0,130,214,No
+200,Dominican Republic,2000,1.838,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE201,0,130,214,No
+201,Ecuador,2009,1.983,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE202,0,130,218,No
+202,Ecuador,2003,1.567,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE203,0,130,218,No
+203,Ecuador,2002,1.67,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE204,0,130,218,No
+204,Ecuador,2001,1.621,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE205,0,130,218,No
+205,Ecuador,2000,1.657,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE206,0,130,218,No
+206,Ecuador,1999,1.683,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE207,0,130,218,No
+207,Ecuador,1998,1.657,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE208,0,130,218,No
+208,Ecuador,1997,1.725,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE209,0,130,218,No
+209,Ecuador,1996,1.712,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE210,0,130,218,No
+210,Ecuador,1995,1.611,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE211,0,130,218,No
+211,Ecuador,1994,1.642,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE212,0,130,218,No
+212,Ecuador,1993,1.443,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE213,0,130,218,No
+213,Ecuador,1992,1.686,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE214,0,130,218,No
+214,Ecuador,1991,1.661,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE215,0,130,218,No
+215,Ecuador,1990,1.593,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE216,0,130,218,No
+216,Egypt,2009,3.52,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE217,0,130,818,No
+217,Egypt,2007,2.91,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE218,0,130,818,No
+218,Egypt,2005,3.35,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE219,0,130,818,No
+219,Egypt,2004,2.0,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE220,0,130,818,No
+220,El Salvador,2008,0.405,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE221,0,130,222,No
+221,El Salvador,2005,0.303,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE222,0,130,222,No
+222,El Salvador,2002,0.795,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE223,0,130,222,No
+223,El Salvador,1999,0.645,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE224,0,130,222,No
+224,Equatorial Guinea,2004,0.535,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE225,0,130,226,No
+225,Eritrea,2004,0.583,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE226,0,130,232,No
+226,Estonia,2011,6.463,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE227,0,130,233,No
+227,Estonia,2010,6.561,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE228,0,130,233,No
+228,Estonia,2000,8.842,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE229,0,130,233,No
+229,Ethiopia,2009,0.253,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE230,0,130,231,No
+230,Ethiopia,2009,0.253,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE230,0,130,230,No
+231,Ethiopia,2008,0.202,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE231,0,130,231,No
+232,Ethiopia,2008,0.202,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE231,0,130,230,No
+233,Ethiopia,2007,0.224,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE232,0,130,231,No
+234,Ethiopia,2007,0.224,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE232,0,130,230,No
+235,Ethiopia,2006,0.225,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE233,0,130,231,No
+236,Ethiopia,2006,0.225,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE233,0,130,230,No
+237,Ethiopia,2005,0.243,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE234,0,130,231,No
+238,Ethiopia,2005,0.243,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE234,0,130,230,No
+239,Ethiopia,2004,0.215,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE235,0,130,231,No
+240,Ethiopia,2004,0.215,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE235,0,130,230,No
+241,Ethiopia,2003,0.22,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE236,0,130,231,No
+242,Ethiopia,2003,0.22,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE236,0,130,230,No
+243,Fiji,2009,2.242,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE237,0,130,242,No
+244,Fiji,2008,2.058,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE238,0,130,242,No
+245,Fiji,2003,1.979,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE239,0,130,242,No
+246,Fiji,1999,1.958,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE240,0,130,242,No
+247,Finland,2010,10.834,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE241,0,130,246,No
+248,Finland,2009,23.956,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE242,0,130,246,No
+249,Finland,2002,15.086,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE243,0,130,246,No
+250,France,2011,9.3,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE244,0,130,250,No
+251,France,2008,8.093,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE245,0,130,250,No
+252,France,2007,8.219,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE246,0,130,250,No
+253,France,2006,8.004,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE247,0,130,250,No
+254,France,2005,7.753,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE248,0,130,250,No
+255,France,2004,7.507,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE249,0,130,250,No
+256,France,2003,7.301,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE250,0,130,250,No
+257,France,2002,7.117,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE251,0,130,250,No
+258,France,2001,6.921,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE252,0,130,250,No
+259,France,2000,6.7,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE253,0,130,250,No
+260,France,1999,6.453,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE254,0,130,250,No
+261,France,1996,6.103,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE255,0,130,250,No
+262,France,1991,5.594,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE256,0,130,250,No
+263,Gabon,2004,5.017,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE257,0,130,266,No
+264,Gambia,2008,0.865,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE258,0,130,270,No
+265,Gambia,2007,0.792,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE259,0,130,270,No
+266,Gambia,2006,0.484,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE260,0,130,270,No
+267,Gambia,2005,0.483,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE261,0,130,270,No
+268,Gambia,2004,0.475,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE262,0,130,270,No
+269,Gambia,2003,1.319,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE263,0,130,270,No
+270,Georgia,2009,3.217,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE264,0,130,268,No
+271,Georgia,2008,3.301,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE265,0,130,268,No
+272,Germany,2011,11.489,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE266,0,130,276,No
+273,Germany,2003,9.72,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE267,0,130,276,No
+274,Ghana,2010,0.926,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE268,0,130,288,No
+275,Ghana,2009,1.046,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE269,0,130,288,No
+276,Ghana,2008,0.974,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE270,0,130,288,No
+277,Ghana,2007,0.682,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE271,0,130,288,No
+278,Ghana,2004,0.922,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE272,0,130,288,No
+279,Greece,2001,0.175,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE273,0,130,300,No
+280,Greece,2000,3.864,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE274,0,130,300,No
+281,Grenada,2006,3.827,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE275,0,130,308,No
+282,Grenada,2003,4.575,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE276,0,130,308,No
+283,Grenada,2002,4.519,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE277,0,130,308,No
+284,Grenada,2001,4.519,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE278,0,130,308,No
+285,Grenada,2000,4.519,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE279,0,130,308,No
+286,Grenada,1999,4.864,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE280,0,130,308,No
+287,Grenada,1998,3.976,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE281,0,130,308,No
+288,Grenada,1997,3.695,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE282,0,130,308,No
+289,Guatemala,2009,0.897,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE283,0,130,320,No
+290,Guinea,2004,0.511,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE284,0,130,324,No
+291,Guinea,2000,0.469,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE285,0,130,324,No
+292,Guinea-Bissau,2009,0.585,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE286,0,130,624,No
+293,Guinea-Bissau,2008,0.551,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE287,0,130,624,No
+294,Guinea-Bissau,2004,0.697,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE288,0,130,624,No
+295,Guyana,2010,0.531,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE289,0,130,328,No
+296,Guyana,2009,1.315,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE290,0,130,328,No
+297,Guyana,2000,2.29,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE291,0,130,328,No
+298,Haiti,1998,0.107,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE292,0,130,332,No
+299,Honduras,2005,1.082,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE293,0,130,340,No
+300,Honduras,2000,1.321,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE294,0,130,340,No
+301,Hungary,2011,6.388,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE295,0,130,348,No
+302,Hungary,2003,8.847,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE296,0,130,348,No
+303,Iceland,2012,15.593,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE297,0,130,352,No
+304,Iceland,2011,9.381,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE298,0,130,352,No
+305,Iceland,2010,15.879,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE299,0,130,352,No
+306,Iceland,2009,16.79,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE300,0,130,352,No
+307,Iceland,2008,16.477,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE301,0,130,352,No
+308,Iceland,2007,15.353,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE302,0,130,352,No
+309,Iceland,2006,14.838,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE303,0,130,352,No
+310,Iceland,2005,14.841,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE304,0,130,352,No
+311,Iceland,2004,14.462,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE305,0,130,352,No
+312,Iceland,2003,14.359,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE306,0,130,352,No
+313,Iceland,2002,14.021,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE307,0,130,352,No
+314,Iceland,2001,13.909,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE308,0,130,352,No
+315,Iceland,2000,13.95,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE309,0,130,352,No
+316,India,2011,1.711,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE310,0,130,356,No
+317,India,2010,1.601,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE311,0,130,356,No
+318,India,2009,1.458,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE312,0,130,356,No
+319,India,2008,1.435,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE313,0,130,356,No
+320,India,2007,1.385,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE314,0,130,356,No
+321,India,2005,1.342,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE315,0,130,356,No
+322,India,2004,1.316,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE316,0,130,356,No
+323,India,2003,1.298,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE317,0,130,356,No
+324,India,2001,1.229,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE318,0,130,356,No
+325,India,2000,1.211,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE319,0,130,356,No
+326,India,1991,0.388,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE320,0,130,356,No
+327,Indonesia,2012,1.383,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE321,0,130,360,No
+328,Indonesia,2010,1.089,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE322,0,130,360,No
+329,Indonesia,2009,0.833,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE323,0,130,360,No
+330,Indonesia,2003,0.818,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE324,0,130,360,No
+331,Indonesia,1992,0.625,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE325,0,130,360,No
+332,Iran (Islamic Republic of),2005,1.41,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE326,0,130,364,No
+333,Iran (Islamic Republic of),2004,1.379,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE327,0,130,364,No
+334,Ireland,2004,15.197,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE328,0,130,372,No
+335,Ireland,2001,4.265,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE329,0,130,372,No
+336,Israel,2011,4.932,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE330,0,130,376,No
+337,Israel,1995,8.112,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE331,0,130,376,No
+338,Italy,2003,5.44,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE332,0,130,380,No
+339,Jamaica,2008,1.092,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE333,0,130,388,No
+340,Jamaica,2003,1.65,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE334,0,130,388,No
+341,Japan,2012,11.489,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE335,0,130,392,No
+342,Japan,2012,11.489,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE335,0,130,392,No
+343,Japan,2011,11.823,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE336,0,130,392,No
+344,Japan,2011,11.823,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE336,0,130,392,No
+345,Japan,2010,10.864,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE337,0,130,392,No
+346,Japan,2010,10.864,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE337,0,130,392,No
+347,Japan,2008,10.307,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE338,0,130,392,No
+348,Japan,2008,10.307,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE338,0,130,392,No
+349,Japan,2006,9.828,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE339,0,130,392,No
+350,Japan,2006,9.828,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE339,0,130,392,No
+351,Japan,2004,9.473,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE340,0,130,392,No
+352,Japan,2004,9.473,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE340,0,130,392,No
+353,Japan,2002,9.1,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE341,0,130,392,No
+354,Japan,2002,9.1,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE341,0,130,392,No
+355,Japan,2000,8.689,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE342,0,130,392,No
+356,Japan,2000,8.689,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE342,0,130,392,No
+357,Japan,1998,8.259,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE343,0,130,392,No
+358,Japan,1998,8.259,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE343,0,130,392,No
+359,Japan,1996,7.822,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE344,0,130,392,No
+360,Japan,1996,7.822,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE344,0,130,392,No
+361,Japan,1994,7.306,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE345,0,130,392,No
+362,Japan,1994,7.306,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE345,0,130,392,No
+363,Japan,1992,6.797,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE346,0,130,392,No
+364,Japan,1992,6.797,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE346,0,130,392,No
+365,Japan,1990,6.423,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE347,0,130,392,No
+366,Japan,1990,6.423,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE347,0,130,392,No
+367,Jordan,2010,4.049,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE348,0,130,400,No
+368,Jordan,2009,3.881,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE349,0,130,400,No
+369,Jordan,2008,3.183,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE350,0,130,400,No
+370,Jordan,2007,3.164,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE351,0,130,400,No
+371,Jordan,2006,3.395,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE352,0,130,400,No
+372,Jordan,2005,3.056,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE353,0,130,400,No
+373,Jordan,2004,3.241,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE354,0,130,400,No
+374,Jordan,2003,2.958,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE355,0,130,400,No
+375,Jordan,2002,2.816,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE356,0,130,400,No
+376,Jordan,2001,3.07,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE357,0,130,400,No
+377,Jordan,2000,3.092,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE358,0,130,400,No
+378,Jordan,1999,3.002,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE359,0,130,400,No
+379,Jordan,1998,2.929,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE360,0,130,400,No
+380,Kazakhstan,2012,8.247,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE361,0,130,398,No
+381,Kenya,2011,0.792,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE362,0,130,404,No
+382,Kenya,2010,0.762,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE363,0,130,404,No
+383,Kenya,2009,0.42,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE364,0,130,404,No
+384,Kenya,2008,0.381,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE365,0,130,404,No
+385,Kenya,2004,0.498,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE366,0,130,404,No
+386,Kenya,2002,1.177,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE367,0,130,404,No
+387,Kiribati,2010,3.706,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE368,0,130,296,No
+388,Kiribati,2009,3.523,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE369,0,130,296,No
+389,Kiribati,2008,3.438,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE370,0,130,296,No
+390,Kiribati,2004,3.023,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE371,0,130,296,No
+391,Kiribati,1998,2.358,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE372,0,130,296,No
+392,Kuwait,2009,4.55,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE373,0,130,414,No
+393,Kuwait,2008,4.268,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE374,0,130,414,No
+394,Kuwait,2007,3.815,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE375,0,130,414,No
+395,Kuwait,2006,3.565,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE376,0,130,414,No
+396,Kuwait,2001,3.909,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE377,0,130,414,No
+397,Kyrgyzstan,2012,6.123,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE378,0,130,417,No
+398,Kyrgyzstan,2011,5.822,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE379,0,130,417,No
+399,Kyrgyzstan,2010,5.336,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE380,0,130,417,No
+400,Kyrgyzstan,2009,5.322,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE381,0,130,417,No
+401,Kyrgyzstan,2008,5.328,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE382,0,130,417,No
+402,Lao Peoples Democratic Republic,2012,0.876,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE383,0,130,418,No
+403,Lao Peoples Democratic Republic,2009,0.823,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE384,0,130,418,No
+404,Lao Peoples Democratic Republic,2005,0.966,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE385,0,130,418,No
+405,Lao Peoples Democratic Republic,2004,0.968,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE386,0,130,418,No
+406,Lao Peoples Democratic Republic,2000,1.033,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE387,0,130,418,No
+407,Lao Peoples Democratic Republic,1995,1.3,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE388,0,130,418,No
+408,Latvia,2011,4.73,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE389,0,130,428,No
+409,Lebanon,2011,2.72,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE390,0,130,422,No
+410,Lebanon,2010,2.33,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE391,0,130,422,No
+411,Lebanon,2009,2.22,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE392,0,130,422,No
+412,Lebanon,2007,1.897,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE393,0,130,422,No
+413,Lebanon,2005,1.32,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE394,0,130,422,No
+414,Lebanon,2001,1.175,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE395,0,130,422,No
+415,Lesotho,2003,0.623,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE396,0,130,426,No
+416,Liberia,2008,0.274,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE397,0,130,430,No
+417,Liberia,2004,0.297,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE398,0,130,430,No
+418,Libya,2009,6.8,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE399,0,130,434,No
+419,Libya,2008,5.4,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE400,0,130,434,No
+420,Libya,2004,4.799,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE401,0,130,434,No
+421,Libya,1997,3.6,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE402,0,130,434,No
+422,Lithuania,2011,7.17,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE403,0,130,440,No
+423,Luxembourg,2012,12.466,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE404,0,130,442,No
+424,Madagascar,2004,0.316,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE405,0,130,450,No
+425,Malawi,2009,0.343,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE406,0,130,454,No
+426,Malawi,2008,0.283,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE407,0,130,454,No
+427,Malawi,2004,0.589,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE408,0,130,454,No
+428,Malaysia,2010,3.276,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE409,0,130,458,No
+429,Malaysia,2008,2.731,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE410,0,130,458,No
+430,Malaysia,2002,1.81,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE411,0,130,458,No
+431,Malaysia,2000,1.689,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE412,0,130,458,No
+432,Maldives,2010,5.035,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE413,0,130,462,No
+433,Maldives,2009,5.085,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE414,0,130,462,No
+434,Maldives,2007,4.448,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE415,0,130,462,No
+435,Maldives,2004,2.701,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE416,0,130,462,No
+436,Maldives,1996,1.399,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE417,0,130,462,No
+437,Maldives,1993,0.797,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE418,0,130,462,No
+438,Maldives,1991,0.676,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE419,0,130,462,No
+439,Mali,2010,0.43,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE420,0,130,466,No
+440,Mali,2009,0.426,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE421,0,130,466,No
+441,Mali,2008,0.297,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE422,0,130,466,No
+442,Mali,2007,0.201,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE423,0,130,466,No
+443,Mali,2004,0.622,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE424,0,130,466,No
+444,Malta,2012,7.09,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE425,0,130,470,No
+445,Marshall Islands,2010,1.74,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE426,0,130,584,No
+446,Marshall Islands,2008,2.603,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE427,0,130,584,No
+447,Marshall Islands,2000,2.98,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE428,0,130,584,No
+448,Mauritania,2009,0.672,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE429,0,130,478,No
+449,Mauritania,2004,0.635,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE430,0,130,478,No
+450,Mauritius,2004,3.734,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE431,0,130,480,No
+451,Mexico,2011,2.529,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE432,0,130,484,No
+452,Mexico,2010,2.429,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE433,0,130,484,No
+453,Mexico,2009,2.371,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE434,0,130,484,No
+454,Mexico,2004,3.98,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE435,0,130,484,No
+455,Mexico,2000,0.896,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE436,0,130,484,No
+456,Micronesia (Federated States of),2009,3.319,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE437,0,130,583,No
+457,Micronesia (Federated States of),2008,2.478,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE438,0,130,583,No
+458,Micronesia (Federated States of),2005,2.264,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE439,0,130,583,No
+459,Micronesia (Federated States of),2003,2.294,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE440,0,130,583,No
+460,Micronesia (Federated States of),2000,3.897,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE441,0,130,583,No
+461,Monaco,2011,17.217,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE442,0,130,492,No
+462,Mongolia,2008,3.499,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE443,0,130,496,No
+463,Mongolia,2002,3.449,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE444,0,130,496,No
+464,Montenegro,2011,5.249,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE445,0,130,499,No
+465,Morocco,2009,0.89,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE446,0,130,504,No
+466,Morocco,2004,0.783,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE447,0,130,504,No
+467,Mozambique,2012,0.412,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE448,0,130,508,No
+468,Mozambique,2011,0.395,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE449,0,130,508,No
+469,Mozambique,2010,0.408,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE450,0,130,508,No
+470,Mozambique,2008,0.341,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE451,0,130,508,No
+471,Mozambique,2006,0.308,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE452,0,130,508,No
+472,Mozambique,2004,0.322,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE453,0,130,508,No
+473,Myanmar,2012,1.003,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE454,0,130,104,No
+474,Myanmar,2011,0.972,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE455,0,130,104,No
+475,Myanmar,2010,0.856,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE456,0,130,104,No
+476,Myanmar,2009,0.827,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE457,0,130,104,No
+477,Myanmar,2008,0.798,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE458,0,130,104,No
+478,Myanmar,2007,0.78,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE459,0,130,104,No
+479,Myanmar,2006,0.76,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE460,0,130,104,No
+480,Myanmar,2005,0.723,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE461,0,130,104,No
+481,Myanmar,2004,0.985,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE462,0,130,104,No
+482,Namibia,2007,2.775,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE463,0,130,516,No
+483,Namibia,2004,3.056,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE464,0,130,516,No
+484,Nauru,2008,4.929,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE465,0,130,520,No
+485,Nauru,2004,4.846,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE466,0,130,520,No
+486,Nauru,1995,5.455,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE467,0,130,520,No
+487,Nepal,2004,0.46,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE468,0,130,524,No
+488,Netherlands,2008,8.382,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE469,0,130,528,No
+489,New Zealand,2007,10.87,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE470,0,130,554,No
+490,New Zealand,2007,10.87,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE470,0,130,554,No
+491,New Zealand,2001,8.715,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE471,0,130,554,No
+492,New Zealand,2001,8.715,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE471,0,130,554,No
+493,New Zealand,2000,8.15,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE472,0,130,554,No
+494,New Zealand,2000,8.15,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE472,0,130,554,No
+495,Nicaragua,2003,1.072,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE473,0,130,558,No
+496,Niger,2008,0.137,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE474,0,130,562,No
+497,Niger,2004,0.227,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE475,0,130,562,No
+498,Nigeria,2008,1.605,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE476,0,130,566,No
+499,Nigeria,2007,1.599,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE477,0,130,566,No
+500,Nigeria,2006,1.595,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE478,0,130,566,No
+501,Nigeria,2005,1.623,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE479,0,130,566,No
+502,Nigeria,2003,1.696,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE480,0,130,566,No
+503,Niue,2008,16.0,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE481,0,130,570,No
+504,Niue,2006,15.0,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE482,0,130,570,No
+505,Niue,2004,11.0,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE483,0,130,570,No
+506,Niue,1996,6.5,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE484,0,130,570,No
+507,Norway,2011,13.399,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE485,0,130,578,No
+508,Norway,2009,31.932,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE486,0,130,578,No
+509,Oman,2011,5.003,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE487,0,130,512,No
+510,Oman,2010,4.494,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE488,0,130,512,No
+511,Oman,2009,4.325,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE489,0,130,512,No
+512,Oman,2008,4.112,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE490,0,130,512,No
+513,Oman,2007,3.896,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE491,0,130,512,No
+514,Oman,2006,3.681,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE492,0,130,512,No
+515,Oman,2005,3.614,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE493,0,130,512,No
+516,Oman,2004,3.506,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE494,0,130,512,No
+517,Oman,2000,3.001,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE495,0,130,512,No
+518,Oman,1999,2.542,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE496,0,130,512,No
+519,Oman,1998,2.587,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE497,0,130,512,No
+520,Oman,1997,2.425,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE498,0,130,512,No
+521,Oman,1995,2.696,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE499,0,130,512,No
+522,Oman,1990,2.248,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE500,0,130,512,No
+523,Pakistan,2010,0.573,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE501,0,130,586,No
+524,Pakistan,2009,0.557,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE502,0,130,586,No
+525,Pakistan,2008,0.541,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE503,0,130,586,No
+526,Pakistan,2007,0.381,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE504,0,130,586,No
+527,Pakistan,2005,0.3,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE505,0,130,586,No
+528,Pakistan,2004,0.456,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE506,0,130,586,No
+529,Pakistan,2001,0.429,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE507,0,130,586,No
+530,Pakistan,2000,0.421,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE508,0,130,586,No
+531,Pakistan,1999,0.42,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE509,0,130,586,No
+532,Pakistan,1998,0.407,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE510,0,130,586,No
+533,Pakistan,1997,0.383,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE511,0,130,586,No
+534,Pakistan,1996,0.362,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE512,0,130,586,No
+535,Pakistan,1995,0.34,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE513,0,130,586,No
+536,Pakistan,1994,0.337,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE514,0,130,586,No
+537,Pakistan,1993,0.326,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE515,0,130,586,No
+538,Pakistan,1992,0.318,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE516,0,130,586,No
+539,Palau,2010,5.714,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE517,0,130,585,No
+540,Palau,2009,5.6,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE518,0,130,585,No
+541,Palau,2006,5.9,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE519,0,130,585,No
+542,Palau,2004,6.0,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE520,0,130,585,No
+543,Palau,1998,6.278,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE521,0,130,585,No
+544,Panama,2011,2.402,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE522,0,130,591,No
+545,Panama,2011,2.402,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE522,0,130,590,No
+546,Panama,2010,2.571,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE523,0,130,591,No
+547,Panama,2010,2.571,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE523,0,130,590,No
+548,Panama,2006,2.066,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE524,0,130,591,No
+549,Panama,2006,2.066,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE524,0,130,590,No
+550,Panama,2005,2.065,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE525,0,130,591,No
+551,Panama,2005,2.065,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE525,0,130,590,No
+552,Panama,2004,2.049,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE526,0,130,591,No
+553,Panama,2004,2.049,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE526,0,130,590,No
+554,Panama,2003,2.261,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE527,0,130,591,No
+555,Panama,2003,2.261,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE527,0,130,590,No
+556,Panama,2002,1.97,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE528,0,130,591,No
+557,Panama,2002,1.97,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE528,0,130,590,No
+558,Panama,2001,1.892,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE529,0,130,591,No
+559,Panama,2001,1.892,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE529,0,130,590,No
+560,Panama,2000,2.765,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE530,0,130,591,No
+561,Panama,2000,2.765,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE530,0,130,590,No
+562,Papua New Guinea,2008,0.457,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE531,0,130,598,No
+563,Papua New Guinea,2000,0.533,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE532,0,130,598,No
+564,Paraguay,2002,1.788,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE533,0,130,600,No
+565,Peru,2012,1.514,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE534,0,130,604,No
+566,Peru,2009,1.271,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE535,0,130,604,No
+567,Peru,1999,0.67,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE536,0,130,604,No
+568,Philippines,2004,6.0,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE537,0,130,608,No
+569,Philippines,2002,6.12,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE538,0,130,608,No
+570,Philippines,2000,2.134,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE539,0,130,608,No
+571,Poland,2011,5.837,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE540,0,130,616,No
+572,Poland,2010,5.395,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE541,0,130,616,No
+573,Poland,2003,4.895,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE542,0,130,616,No
+574,Poland,2002,0.57,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE543,0,130,616,No
+575,Portugal,2003,4.359,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE544,0,130,620,No
+576,Portugal,2000,0.082,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE545,0,130,620,No
+577,Qatar,2010,11.874,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE546,0,130,634,No
+578,Qatar,2009,8.621,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE547,0,130,634,No
+579,Qatar,2008,9.687,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE548,0,130,634,No
+580,Qatar,2006,7.372,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE549,0,130,634,No
+581,Qatar,2005,6.002,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE550,0,130,634,No
+582,Qatar,2001,4.936,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE551,0,130,634,No
+583,Republic of Korea,2012,5.009,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE552,0,130,410,No
+584,Republic of Korea,2011,4.883,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE553,0,130,410,No
+585,Republic of Korea,2010,4.732,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE554,0,130,410,No
+586,Republic of Korea,2009,5.516,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE555,0,130,410,No
+587,Republic of Korea,2008,5.289,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE556,0,130,410,No
+588,Republic of Korea,2007,5.074,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE557,0,130,410,No
+589,Republic of Korea,2006,4.842,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE558,0,130,410,No
+590,Republic of Korea,2005,4.649,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE559,0,130,410,No
+591,Republic of Korea,2004,4.393,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE560,0,130,410,No
+592,Republic of Korea,2003,1.747,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE561,0,130,410,No
+593,Republic of Korea,2000,0.186,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE562,0,130,410,No
+594,Republic of Moldova,2012,6.492,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE563,0,130,498,No
+595,Romania,2011,5.511,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE564,0,130,642,No
+596,Romania,2002,0.179,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE565,0,130,642,No
+597,Russian Federation,2006,8.519,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE566,0,130,643,No
+598,Rwanda,2010,0.689,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE567,0,130,646,No
+599,Rwanda,2009,0.671,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE568,0,130,646,No
+600,Rwanda,2008,0.678,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE569,0,130,646,No
+601,Rwanda,2004,0.43,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE570,0,130,646,No
+602,Saint Kitts and Nevis,2001,7.0,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE571,0,130,659,No
+603,Saint Kitts and Nevis,1999,6.14,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE572,0,130,659,No
+604,Saint Kitts and Nevis,1998,5.791,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE573,0,130,659,No
+605,Saint Kitts and Nevis,1997,5.651,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE574,0,130,659,No
+606,Saint Kitts and Nevis,1996,5.773,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE575,0,130,659,No
+607,Saint Kitts and Nevis,1995,5.5,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE576,0,130,659,No
+608,Saint Kitts and Nevis,1994,5.86,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE577,0,130,659,No
+609,Saint Kitts and Nevis,1993,6.651,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE578,0,130,659,No
+610,Saint Kitts and Nevis,1992,6.81,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE579,0,130,659,No
+611,Saint Kitts and Nevis,1991,6.927,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE580,0,130,659,No
+612,Saint Kitts and Nevis,1990,6.902,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE581,0,130,659,No
+613,Saint Lucia,2002,2.162,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE582,0,130,662,No
+614,Saint Lucia,2001,2.524,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE583,0,130,662,No
+615,Saint Lucia,1999,2.283,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE584,0,130,662,No
+616,Saint Vincent and the Grenadines,2001,4.034,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE585,0,130,670,No
+617,Saint Vincent and the Grenadines,2000,3.788,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE586,0,130,670,No
+618,Saint Vincent and the Grenadines,1997,2.379,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE587,0,130,670,No
+619,Samoa,2008,1.851,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE588,0,130,882,No
+620,Samoa,2005,0.935,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE589,0,130,882,No
+621,Samoa,2003,1.742,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE590,0,130,882,No
+622,Samoa,1999,2.041,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE591,0,130,882,No
+623,San Marino,2012,8.889,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE592,0,130,674,No
+624,Sao Tome and Principe,2004,1.867,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE593,0,130,678,No
+625,Saudi Arabia,2009,2.341,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE594,0,130,682,No
+626,Saudi Arabia,2008,2.098,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE595,0,130,682,No
+627,Saudi Arabia,2000,1.648,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE596,0,130,682,No
+628,Senegal,2008,0.42,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE597,0,130,686,No
+629,Senegal,2004,0.318,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE598,0,130,686,No
+630,Seychelles,2004,7.925,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE599,0,130,690,No
+631,Sierra Leone,2010,0.166,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE600,0,130,694,No
+632,Sierra Leone,2008,0.168,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE601,0,130,694,No
+633,Sierra Leone,2004,0.486,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE602,0,130,694,No
+634,Singapore,2010,6.392,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE603,0,130,702,No
+635,Singapore,2009,5.901,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE604,0,130,702,No
+636,Singapore,2008,5.394,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE605,0,130,702,No
+637,Singapore,2007,5.037,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE606,0,130,702,No
+638,Singapore,2006,4.778,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE607,0,130,702,No
+639,Singapore,2005,4.662,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE608,0,130,702,No
+640,Singapore,2004,4.479,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE609,0,130,702,No
+641,Singapore,2003,4.399,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE610,0,130,702,No
+642,Singapore,2001,4.238,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE611,0,130,702,No
+643,Singapore,1999,4.07,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE612,0,130,702,No
+644,Slovenia,2011,8.459,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE613,0,130,705,No
+645,Slovenia,2001,0.329,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE614,0,130,705,No
+646,Solomon Islands,2009,2.053,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE615,0,130,90,No
+647,Solomon Islands,2005,1.452,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE616,0,130,90,No
+648,Solomon Islands,2003,1.321,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE617,0,130,90,No
+649,Solomon Islands,1999,0.851,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE618,0,130,90,No
+650,Somalia,2006,0.114,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE619,0,130,706,No
+651,Somalia,2005,0.052,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE620,0,130,706,No
+652,Somalia,1997,0.191,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE621,0,130,706,No
+653,South Africa,2012,4.902,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE622,0,130,710,No
+654,South Africa,2004,4.08,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE623,0,130,710,No
+655,Spain,2012,5.076,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE624,0,130,724,No
+656,Spain,2003,7.677,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE625,0,130,724,No
+657,Spain,2001,0.154,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE626,0,130,724,No
+658,Sri Lanka,2010,1.641,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE627,0,130,144,No
+659,Sri Lanka,2009,1.462,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE628,0,130,144,No
+660,Sri Lanka,2008,1.415,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE629,0,130,144,No
+661,Sri Lanka,2007,1.93,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE630,0,130,144,No
+662,Sri Lanka,2006,1.574,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE631,0,130,144,No
+663,Sri Lanka,2005,1.326,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE632,0,130,144,No
+664,Sri Lanka,2004,1.729,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE633,0,130,144,No
+665,Sri Lanka,2001,0.842,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE634,0,130,144,No
+666,Sri Lanka,2000,1.204,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE635,0,130,144,No
+667,Sri Lanka,1999,0.762,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE636,0,130,144,No
+668,Sri Lanka,1998,0.8,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE637,0,130,144,No
+669,Sri Lanka,1997,0.763,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE638,0,130,144,No
+670,Sri Lanka,1996,0.776,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE639,0,130,144,No
+671,Sri Lanka,1993,1.059,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE640,0,130,144,No
+672,Sudan,2008,0.84,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE641,0,130,729,No
+673,Sudan,2008,0.84,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE641,0,130,736,No
+674,Sudan,2007,0.86,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE642,0,130,729,No
+675,Sudan,2007,0.86,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE642,0,130,736,No
+676,Sudan,2006,0.902,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE643,0,130,729,No
+677,Sudan,2006,0.902,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE643,0,130,736,No
+678,Sudan,2004,0.917,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE644,0,130,729,No
+679,Sudan,2004,0.917,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE644,0,130,736,No
+680,Suriname,2004,5.877,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE645,0,130,740,No
+681,Suriname,2000,1.619,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE646,0,130,740,No
+682,Swaziland,2009,1.602,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE647,0,130,748,No
+683,Swaziland,2004,6.305,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE648,0,130,748,No
+684,Swaziland,2000,3.204,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE649,0,130,748,No
+685,Sweden,2007,11.048,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE650,0,130,752,No
+686,Sweden,2002,10.235,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE651,0,130,752,No
+687,Switzerland,2011,17.359,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE652,0,130,756,No
+688,Switzerland,2011,17.359,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE652,0,130,756,No
+689,Switzerland,2000,10.751,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE653,0,130,756,No
+690,Switzerland,2000,10.751,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE653,0,130,756,No
+691,Syrian Arab Republic,2008,1.86,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE654,0,130,760,No
+692,Syrian Arab Republic,2007,1.88,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE655,0,130,760,No
+693,Syrian Arab Republic,2004,1.872,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE656,0,130,760,No
+694,Syrian Arab Republic,2003,1.811,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE657,0,130,760,No
+695,Syrian Arab Republic,2002,1.927,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE658,0,130,760,No
+696,Syrian Arab Republic,2001,1.941,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE659,0,130,760,No
+697,Syrian Arab Republic,2000,1.937,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE660,0,130,760,No
+698,Syrian Arab Republic,1999,1.888,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE661,0,130,760,No
+699,Tajikistan,2011,4.476,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE662,0,130,762,No
+700,Thailand,2010,2.077,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE663,0,130,764,No
+701,Thailand,2009,1.656,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE664,0,130,764,No
+702,Thailand,2008,1.602,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE665,0,130,764,No
+703,Thailand,2007,1.549,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE666,0,130,764,No
+704,Thailand,2006,1.57,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE667,0,130,764,No
+705,Thailand,2004,1.524,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE668,0,130,764,No
+706,Thailand,2002,1.362,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE669,0,130,764,No
+707,Thailand,2001,1.268,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE670,0,130,764,No
+708,Thailand,2000,2.831,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE671,0,130,764,No
+709,Thailand,1999,1.128,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE672,0,130,764,No
+710,Thailand,1998,1.067,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE673,0,130,764,No
+711,Thailand,1997,0.954,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE674,0,130,764,No
+712,Thailand,1995,0.938,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE675,0,130,764,No
+713,Thailand,1993,0.826,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE676,0,130,764,No
+714,Thailand,1991,0.738,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE677,0,130,764,No
+715,Timor-Leste,2011,1.112,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE678,0,130,626,No
+716,Timor-Leste,2010,1.009,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE679,0,130,626,No
+717,Timor-Leste,2009,1.024,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE680,0,130,626,No
+718,Timor-Leste,2008,0.978,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE681,0,130,626,No
+719,Timor-Leste,2007,0.99,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE682,0,130,626,No
+720,Timor-Leste,2004,2.189,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE683,0,130,626,No
+721,Timor-Leste,2001,0.667,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE684,0,130,626,No
+722,Togo,2008,0.274,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE685,0,130,768,No
+723,Togo,2007,0.382,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE686,0,130,768,No
+724,Togo,2004,0.386,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE687,0,130,768,No
+725,Tonga,2010,3.883,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE688,0,130,776,No
+726,Tonga,2009,3.67,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE689,0,130,776,No
+727,Tonga,2008,3.534,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE690,0,130,776,No
+728,Tonga,2007,2.932,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE691,0,130,776,No
+729,Tonga,2002,3.398,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE692,0,130,776,No
+730,Tonga,2001,3.343,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE693,0,130,776,No
+731,Trinidad and Tobago,2007,3.562,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE694,0,130,780,No
+732,Trinidad and Tobago,2006,3.536,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE695,0,130,780,No
+733,Trinidad and Tobago,1997,2.867,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE696,0,130,780,No
+734,Tunisia,2009,3.28,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE697,0,130,788,No
+735,Tunisia,2008,3.29,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE698,0,130,788,No
+736,Tunisia,2004,2.872,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE699,0,130,788,No
+737,Tunisia,2003,2.103,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE700,0,130,788,No
+738,Turkey,2011,2.402,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE701,0,130,792,No
+739,Turkey,2010,2.115,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE702,0,130,792,No
+740,Turkey,2009,2.004,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE703,0,130,792,No
+741,Turkey,2008,1.938,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE704,0,130,792,No
+742,Turkey,2007,1.887,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE705,0,130,792,No
+743,Turkey,2006,1.714,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE706,0,130,792,No
+744,Turkey,2005,1.663,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE707,0,130,792,No
+745,Turkey,2004,1.645,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE708,0,130,792,No
+746,Turkey,2003,1.628,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE709,0,130,792,No
+747,Turkey,2002,1.619,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE710,0,130,792,No
+748,Turkey,2001,1.649,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE711,0,130,792,No
+749,Turkey,2000,1.628,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE712,0,130,792,No
+750,Turkey,1999,1.659,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE713,0,130,792,No
+751,Turkey,1998,1.666,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE714,0,130,792,No
+752,Turkey,1997,1.649,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE715,0,130,792,No
+753,Turkey,1996,1.613,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE716,0,130,792,No
+754,Turkey,1995,1.646,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE717,0,130,792,No
+755,Turkey,1994,1.482,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE718,0,130,792,No
+756,Turkey,1993,1.486,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE719,0,130,792,No
+757,Turkey,1992,1.43,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE720,0,130,792,No
+758,Turkey,1991,1.384,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE721,0,130,792,No
+759,Turkey,1990,1.309,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE722,0,130,792,No
+760,Turkmenistan,2002,9.044,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE723,0,130,795,No
+761,Tuvalu,2008,5.818,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE724,0,130,798,No
+762,Tuvalu,2003,4.545,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE725,0,130,798,No
+763,Tuvalu,2002,3.545,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE726,0,130,798,No
+764,Uganda,2005,1.306,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE727,0,130,800,No
+765,Uganda,2004,0.71,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE728,0,130,800,No
+766,Ukraine,2012,7.599,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE729,0,130,804,No
+767,United Arab Emirates,2007,4.09,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE730,0,130,784,No
+768,United Arab Emirates,2004,4.568,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE731,0,130,784,No
+769,United Arab Emirates,2002,3.521,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE732,0,130,784,No
+770,United Arab Emirates,2001,4.184,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE733,0,130,784,No
+771,United Kingdom,2012,8.826,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE734,0,130,826,No
+772,United Kingdom,1997,12.208,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE735,0,130,826,No
+773,United Republic of Tanzania,2006,0.242,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE736,0,130,834,No
+774,United Republic of Tanzania,2002,0.366,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE737,0,130,834,No
+775,United States of America,2005,9.815,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE738,0,130,840,No
+776,United States of America,2000,9.367,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE739,0,130,840,No
+777,United States of America,1995,8.798,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE740,0,130,840,No
+778,Uruguay,2008,5.548,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE741,0,130,858,No
+779,Uruguay,2002,0.849,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE742,0,130,858,No
+780,Uzbekistan,2012,11.974,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE743,0,130,860,No
+781,Vanuatu,2008,1.696,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE744,0,130,548,No
+782,Vanuatu,2007,1.571,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE745,0,130,548,No
+783,Vanuatu,2004,1.659,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE746,0,130,548,No
+784,Vanuatu,1997,2.352,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE747,0,130,548,No
+785,Venezuela (Bolivarian Republic of),2001,1.131,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE748,0,130,862,No
+786,Venezuela (Bolivarian Republic of),1997,0.657,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE749,0,130,862,No
+787,Viet Nam,2011,1.137,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE750,0,130,704,No
+788,Viet Nam,2008,1.006,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE751,0,130,704,No
+789,Viet Nam,2007,0.939,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE752,0,130,704,No
+790,Viet Nam,2006,0.872,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE753,0,130,704,No
+791,Viet Nam,2005,0.827,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE754,0,130,704,No
+792,Viet Nam,2002,0.77,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE755,0,130,704,No
+793,Viet Nam,2001,0.748,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE756,0,130,704,No
+794,Yemen,2010,0.677,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE757,0,130,887,No
+795,Yemen,2010,0.677,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE757,0,130,886,No
+796,Yemen,2004,0.663,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE758,0,130,887,No
+797,Yemen,2004,0.663,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE758,0,130,886,No
+798,Yemen,1997,0.407,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE759,0,130,887,No
+799,Yemen,1997,0.407,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE759,0,130,886,No
+800,Zambia,2010,0.784,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE760,0,130,894,No
+801,Zambia,2009,0.762,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE761,0,130,894,No
+802,Zambia,2008,0.742,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE762,0,130,894,No
+803,Zambia,2006,0.706,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE763,0,130,894,No
+804,Zambia,2005,0.717,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE764,0,130,894,No
+805,Zambia,2004,2.015,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE765,0,130,894,No
+806,Zimbabwe,2009,1.251,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE766,0,130,716,No
+807,Zimbabwe,2008,1.035,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE767,0,130,716,No
+808,Zimbabwe,2007,1.122,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE768,0,130,716,No
+809,Zimbabwe,2004,0.724,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE769,0,130,716,No
+810,Zimbabwe,1995,1.485,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE770,0,130,716,No
+811,Zimbabwe,1990,1.449,Nursing and midwifery personnel density,per 1k pop,All,All,NUAMIPEDE771,0,130,716,No

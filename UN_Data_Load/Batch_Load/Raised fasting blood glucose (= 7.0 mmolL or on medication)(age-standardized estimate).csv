@@ -1,0 +1,1177 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2008,8.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE1,0,130,4,No
+1,Afghanistan,2008,9.2,Raised fasting blood glucose,Percent,All,All,RFBGASE2,0,130,4,No
+2,Afghanistan,2008,8.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE3,0,130,4,No
+3,Afghanistan,2008,9.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE4,0,130,4,No
+4,Afghanistan,2008,9.2,Raised fasting blood glucose,Percent,All,All,RFBGASE5,0,130,4,No
+5,Afghanistan,2008,9.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE6,0,130,4,No
+6,Albania,2008,9.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE7,0,130,8,No
+7,Albania,2008,9.6,Raised fasting blood glucose,Percent,All,All,RFBGASE8,0,130,8,No
+8,Albania,2008,9.6,Raised fasting blood glucose,Percent,All,All,RFBGASE9,0,130,8,No
+9,Albania,2008,10.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE10,0,130,8,No
+10,Albania,2008,9.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE11,0,130,8,No
+11,Albania,2008,10.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE12,0,130,8,No
+12,Algeria,2008,9.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE13,0,130,12,No
+13,Algeria,2008,9.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE14,0,130,12,No
+14,Algeria,2008,9.2,Raised fasting blood glucose,Percent,All,All,RFBGASE15,0,130,12,No
+15,Algeria,2008,9.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE16,0,130,12,No
+16,Algeria,2008,9.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE17,0,130,12,No
+17,Algeria,2008,9.2,Raised fasting blood glucose,Percent,All,All,RFBGASE18,0,130,12,No
+18,Andorra,2008,10.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE19,0,130,20,No
+19,Andorra,2008,8.6,Raised fasting blood glucose,Percent,All,All,RFBGASE20,0,130,20,No
+20,Andorra,2008,10.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE21,0,130,20,No
+21,Andorra,2008,7.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE22,0,130,20,No
+22,Andorra,2008,7.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE23,0,130,20,No
+23,Andorra,2008,8.6,Raised fasting blood glucose,Percent,All,All,RFBGASE24,0,130,20,No
+24,Angola,2008,8.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE25,0,130,24,No
+25,Angola,2008,8.5,Raised fasting blood glucose,Percent,All,All,RFBGASE26,0,130,24,No
+26,Angola,2008,8.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE27,0,130,24,No
+27,Angola,2008,8.5,Raised fasting blood glucose,Percent,All,All,RFBGASE28,0,130,24,No
+28,Angola,2008,8.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE29,0,130,24,No
+29,Angola,2008,8.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE30,0,130,24,No
+30,Antigua and Barbuda,2008,11.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE31,0,130,28,No
+31,Antigua and Barbuda,2008,12.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE32,0,130,28,No
+32,Antigua and Barbuda,2008,11.7,Raised fasting blood glucose,Percent,All,All,RFBGASE33,0,130,28,No
+33,Antigua and Barbuda,2008,12.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE34,0,130,28,No
+34,Antigua and Barbuda,2008,11.7,Raised fasting blood glucose,Percent,All,All,RFBGASE35,0,130,28,No
+35,Antigua and Barbuda,2008,11.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE36,0,130,28,No
+36,Argentina,2008,11.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE37,0,130,32,No
+37,Argentina,2008,10.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE38,0,130,32,No
+38,Argentina,2008,10.6,Raised fasting blood glucose,Percent,All,All,RFBGASE39,0,130,32,No
+39,Argentina,2008,10.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE40,0,130,32,No
+40,Argentina,2008,11.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE41,0,130,32,No
+41,Argentina,2008,10.6,Raised fasting blood glucose,Percent,All,All,RFBGASE42,0,130,32,No
+42,Armenia,2008,11.5,Raised fasting blood glucose,Percent,All,All,RFBGASE43,0,130,51,No
+43,Armenia,2008,11.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE44,0,130,51,No
+44,Armenia,2008,11.5,Raised fasting blood glucose,Percent,All,All,RFBGASE45,0,130,51,No
+45,Armenia,2008,11.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE46,0,130,51,No
+46,Armenia,2008,11.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE47,0,130,51,No
+47,Armenia,2008,11.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE48,0,130,51,No
+48,Australia,2008,6.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE49,0,130,36,No
+49,Australia,2008,8.1,Raised fasting blood glucose,Percent,All,All,RFBGASE50,0,130,36,No
+50,Australia,2008,6.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE51,0,130,36,No
+51,Australia,2008,9.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE52,0,130,36,No
+52,Australia,2008,8.1,Raised fasting blood glucose,Percent,All,All,RFBGASE53,0,130,36,No
+53,Australia,2008,9.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE54,0,130,36,No
+54,Austria,2008,7.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE55,0,130,40,No
+55,Austria,2008,5.8,Raised fasting blood glucose,Percent,All,All,RFBGASE56,0,130,40,No
+56,Austria,2008,4.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE57,0,130,40,No
+57,Austria,2008,7.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE58,0,130,40,No
+58,Austria,2008,4.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE59,0,130,40,No
+59,Austria,2008,5.8,Raised fasting blood glucose,Percent,All,All,RFBGASE60,0,130,40,No
+60,Azerbaijan,2008,12.2,Raised fasting blood glucose,Percent,All,All,RFBGASE61,0,130,31,No
+61,Azerbaijan,2008,12.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE62,0,130,31,No
+62,Azerbaijan,2008,12.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE63,0,130,31,No
+63,Azerbaijan,2008,12.2,Raised fasting blood glucose,Percent,All,All,RFBGASE64,0,130,31,No
+64,Azerbaijan,2008,12.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE65,0,130,31,No
+65,Azerbaijan,2008,12.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE66,0,130,31,No
+66,Bahamas,2008,13.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE67,0,130,44,No
+67,Bahamas,2008,12.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE68,0,130,44,No
+68,Bahamas,2008,13.2,Raised fasting blood glucose,Percent,All,All,RFBGASE69,0,130,44,No
+69,Bahamas,2008,13.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE70,0,130,44,No
+70,Bahamas,2008,12.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE71,0,130,44,No
+71,Bahamas,2008,13.2,Raised fasting blood glucose,Percent,All,All,RFBGASE72,0,130,44,No
+72,Bahrain,2008,13.0,Raised fasting blood glucose,Percent,All,All,RFBGASE73,0,130,48,No
+73,Bahrain,2008,13.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE74,0,130,48,No
+74,Bahrain,2008,13.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE75,0,130,48,No
+75,Bahrain,2008,12.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE76,0,130,48,No
+76,Bahrain,2008,13.0,Raised fasting blood glucose,Percent,All,All,RFBGASE77,0,130,48,No
+77,Bahrain,2008,12.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE78,0,130,48,No
+78,Bangladesh,2008,9.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE79,0,130,50,No
+79,Bangladesh,2008,9.5,Raised fasting blood glucose,Percent,All,All,RFBGASE80,0,130,50,No
+80,Bangladesh,2008,9.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE81,0,130,50,No
+81,Bangladesh,2008,9.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE82,0,130,50,No
+82,Bangladesh,2008,9.5,Raised fasting blood glucose,Percent,All,All,RFBGASE83,0,130,50,No
+83,Bangladesh,2008,9.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE84,0,130,50,No
+84,Barbados,2008,12.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE85,0,130,52,No
+85,Barbados,2008,15.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE86,0,130,52,No
+86,Barbados,2008,14.1,Raised fasting blood glucose,Percent,All,All,RFBGASE87,0,130,52,No
+87,Barbados,2008,15.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE88,0,130,52,No
+88,Barbados,2008,12.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE89,0,130,52,No
+89,Barbados,2008,14.1,Raised fasting blood glucose,Percent,All,All,RFBGASE90,0,130,52,No
+90,Belarus,2008,10.2,Raised fasting blood glucose,Percent,All,All,RFBGASE91,0,130,112,No
+91,Belarus,2008,10.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE92,0,130,112,No
+92,Belarus,2008,10.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE93,0,130,112,No
+93,Belarus,2008,10.2,Raised fasting blood glucose,Percent,All,All,RFBGASE94,0,130,112,No
+94,Belarus,2008,10.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE95,0,130,112,No
+95,Belarus,2008,10.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE96,0,130,112,No
+96,Belgium,2008,6.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE97,0,130,56,No
+97,Belgium,2008,7.8,Raised fasting blood glucose,Percent,All,All,RFBGASE98,0,130,56,No
+98,Belgium,2008,6.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE99,0,130,56,No
+99,Belgium,2008,9.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE100,0,130,56,No
+100,Belgium,2008,7.8,Raised fasting blood glucose,Percent,All,All,RFBGASE101,0,130,56,No
+101,Belgium,2008,9.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE102,0,130,56,No
+102,Belize,2008,12.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE103,0,130,84,No
+103,Belize,2008,8.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE104,0,130,84,No
+104,Belize,2008,10.7,Raised fasting blood glucose,Percent,All,All,RFBGASE105,0,130,84,No
+105,Belize,2008,8.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE106,0,130,84,No
+106,Belize,2008,12.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE107,0,130,84,No
+107,Belize,2008,10.7,Raised fasting blood glucose,Percent,All,All,RFBGASE108,0,130,84,No
+108,Benin,2008,6.6,Raised fasting blood glucose,Percent,All,All,RFBGASE109,0,130,204,No
+109,Benin,2008,6.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE110,0,130,204,No
+110,Benin,2008,6.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE111,0,130,204,No
+111,Benin,2008,6.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE112,0,130,204,No
+112,Benin,2008,6.6,Raised fasting blood glucose,Percent,All,All,RFBGASE113,0,130,204,No
+113,Benin,2008,6.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE114,0,130,204,No
+114,Bhutan,2008,12.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE115,0,130,64,No
+115,Bhutan,2008,12.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE116,0,130,64,No
+116,Bhutan,2008,12.2,Raised fasting blood glucose,Percent,All,All,RFBGASE117,0,130,64,No
+117,Bhutan,2008,12.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE118,0,130,64,No
+118,Bhutan,2008,12.2,Raised fasting blood glucose,Percent,All,All,RFBGASE119,0,130,64,No
+119,Bhutan,2008,12.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE120,0,130,64,No
+120,Bolivia (Plurinational State of),2008,8.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE121,0,130,68,No
+121,Bolivia (Plurinational State of),2008,9.6,Raised fasting blood glucose,Percent,All,All,RFBGASE122,0,130,68,No
+122,Bolivia (Plurinational State of),2008,10.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE123,0,130,68,No
+123,Bolivia (Plurinational State of),2008,9.6,Raised fasting blood glucose,Percent,All,All,RFBGASE124,0,130,68,No
+124,Bolivia (Plurinational State of),2008,8.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE125,0,130,68,No
+125,Bolivia (Plurinational State of),2008,10.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE126,0,130,68,No
+126,Bosnia and Herzegovina,2008,10.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE127,0,130,70,No
+127,Bosnia and Herzegovina,2008,10.9,Raised fasting blood glucose,Percent,All,All,RFBGASE128,0,130,70,No
+128,Bosnia and Herzegovina,2008,10.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE129,0,130,70,No
+129,Bosnia and Herzegovina,2008,11.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE130,0,130,70,No
+130,Bosnia and Herzegovina,2008,10.9,Raised fasting blood glucose,Percent,All,All,RFBGASE131,0,130,70,No
+131,Bosnia and Herzegovina,2008,11.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE132,0,130,70,No
+132,Botswana,2008,8.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE133,0,130,72,No
+133,Botswana,2008,9.1,Raised fasting blood glucose,Percent,All,All,RFBGASE134,0,130,72,No
+134,Botswana,2008,10.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE135,0,130,72,No
+135,Botswana,2008,8.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE136,0,130,72,No
+136,Botswana,2008,10.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE137,0,130,72,No
+137,Botswana,2008,9.1,Raised fasting blood glucose,Percent,All,All,RFBGASE138,0,130,72,No
+138,Brazil,2008,10.2,Raised fasting blood glucose,Percent,All,All,RFBGASE139,0,130,76,No
+139,Brazil,2008,10.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE140,0,130,76,No
+140,Brazil,2008,10.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE141,0,130,76,No
+141,Brazil,2008,10.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE142,0,130,76,No
+142,Brazil,2008,10.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE143,0,130,76,No
+143,Brazil,2008,10.2,Raised fasting blood glucose,Percent,All,All,RFBGASE144,0,130,76,No
+144,Brunei Darussalam,2008,7.4,Raised fasting blood glucose,Percent,All,All,RFBGASE145,0,130,96,No
+145,Brunei Darussalam,2008,8.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE146,0,130,96,No
+146,Brunei Darussalam,2008,5.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE147,0,130,96,No
+147,Brunei Darussalam,2008,7.4,Raised fasting blood glucose,Percent,All,All,RFBGASE148,0,130,96,No
+148,Brunei Darussalam,2008,5.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE149,0,130,96,No
+149,Brunei Darussalam,2008,8.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE150,0,130,96,No
+150,Bulgaria,2008,8.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE151,0,130,100,No
+151,Bulgaria,2008,8.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE152,0,130,100,No
+152,Bulgaria,2008,10.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE153,0,130,100,No
+153,Bulgaria,2008,9.7,Raised fasting blood glucose,Percent,All,All,RFBGASE154,0,130,100,No
+154,Bulgaria,2008,9.7,Raised fasting blood glucose,Percent,All,All,RFBGASE155,0,130,100,No
+155,Bulgaria,2008,10.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE156,0,130,100,No
+156,Burkina Faso,2008,8.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE157,0,130,854,No
+157,Burkina Faso,2008,8.8,Raised fasting blood glucose,Percent,All,All,RFBGASE158,0,130,854,No
+158,Burkina Faso,2008,8.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE159,0,130,854,No
+159,Burkina Faso,2008,8.8,Raised fasting blood glucose,Percent,All,All,RFBGASE160,0,130,854,No
+160,Burkina Faso,2008,8.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE161,0,130,854,No
+161,Burkina Faso,2008,8.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE162,0,130,854,No
+162,Burundi,2008,5.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE163,0,130,108,No
+163,Burundi,2008,6.1,Raised fasting blood glucose,Percent,All,All,RFBGASE164,0,130,108,No
+164,Burundi,2008,6.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE165,0,130,108,No
+165,Burundi,2008,5.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE166,0,130,108,No
+166,Burundi,2008,6.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE167,0,130,108,No
+167,Burundi,2008,6.1,Raised fasting blood glucose,Percent,All,All,RFBGASE168,0,130,108,No
+168,Cabo Verde,2008,14.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE169,0,130,132,No
+169,Cabo Verde,2008,15.2,Raised fasting blood glucose,Percent,All,All,RFBGASE170,0,130,132,No
+170,Cabo Verde,2008,15.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE171,0,130,132,No
+171,Cabo Verde,2008,14.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE172,0,130,132,No
+172,Cabo Verde,2008,15.2,Raised fasting blood glucose,Percent,All,All,RFBGASE173,0,130,132,No
+173,Cabo Verde,2008,15.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE174,0,130,132,No
+174,Cambodia,2008,5.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE175,0,130,116,No
+175,Cambodia,2008,5.1,Raised fasting blood glucose,Percent,All,All,RFBGASE176,0,130,116,No
+176,Cambodia,2008,4.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE177,0,130,116,No
+177,Cambodia,2008,5.1,Raised fasting blood glucose,Percent,All,All,RFBGASE178,0,130,116,No
+178,Cambodia,2008,5.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE179,0,130,116,No
+179,Cambodia,2008,4.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE180,0,130,116,No
+180,Cameroon,2008,10.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE181,0,130,120,No
+181,Cameroon,2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE182,0,130,120,No
+182,Cameroon,2008,9.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE183,0,130,120,No
+183,Cameroon,2008,10.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE184,0,130,120,No
+184,Cameroon,2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE185,0,130,120,No
+185,Cameroon,2008,9.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE186,0,130,120,No
+186,Canada,2008,10.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE187,0,130,124,No
+187,Canada,2008,8.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE188,0,130,124,No
+188,Canada,2008,9.6,Raised fasting blood glucose,Percent,All,All,RFBGASE189,0,130,124,No
+189,Canada,2008,8.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE190,0,130,124,No
+190,Canada,2008,10.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE191,0,130,124,No
+191,Canada,2008,9.6,Raised fasting blood glucose,Percent,All,All,RFBGASE192,0,130,124,No
+192,Central African Republic,2008,7.7,Raised fasting blood glucose,Percent,All,All,RFBGASE193,0,130,140,No
+193,Central African Republic,2008,7.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE194,0,130,140,No
+194,Central African Republic,2008,8.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE195,0,130,140,No
+195,Central African Republic,2008,7.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE196,0,130,140,No
+196,Central African Republic,2008,7.7,Raised fasting blood glucose,Percent,All,All,RFBGASE197,0,130,140,No
+197,Central African Republic,2008,8.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE198,0,130,140,No
+198,Chad,2008,8.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE199,0,130,148,No
+199,Chad,2008,8.7,Raised fasting blood glucose,Percent,All,All,RFBGASE200,0,130,148,No
+200,Chad,2008,8.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE201,0,130,148,No
+201,Chad,2008,8.7,Raised fasting blood glucose,Percent,All,All,RFBGASE202,0,130,148,No
+202,Chad,2008,8.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE203,0,130,148,No
+203,Chad,2008,8.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE204,0,130,148,No
+204,Chile,2008,11.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE205,0,130,152,No
+205,Chile,2008,10.3,Raised fasting blood glucose,Percent,All,All,RFBGASE206,0,130,152,No
+206,Chile,2008,11.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE207,0,130,152,No
+207,Chile,2008,9.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE208,0,130,152,No
+208,Chile,2008,9.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE209,0,130,152,No
+209,Chile,2008,10.3,Raised fasting blood glucose,Percent,All,All,RFBGASE210,0,130,152,No
+210,China,2008,9.5,Raised fasting blood glucose,Percent,All,All,RFBGASE211,0,130,156,No
+211,China,2008,9.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE212,0,130,156,No
+212,China,2008,9.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE213,0,130,156,No
+213,China,2008,9.5,Raised fasting blood glucose,Percent,All,All,RFBGASE214,0,130,156,No
+214,China,2008,9.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE215,0,130,156,No
+215,China,2008,9.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE216,0,130,156,No
+216,Colombia,2008,6.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE217,0,130,170,No
+217,Colombia,2008,6.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE218,0,130,170,No
+218,Colombia,2008,6.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE219,0,130,170,No
+219,Colombia,2008,6.4,Raised fasting blood glucose,Percent,All,All,RFBGASE220,0,130,170,No
+220,Colombia,2008,6.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE221,0,130,170,No
+221,Colombia,2008,6.4,Raised fasting blood glucose,Percent,All,All,RFBGASE222,0,130,170,No
+222,Comoros,2008,7.8,Raised fasting blood glucose,Percent,All,All,RFBGASE223,0,130,174,No
+223,Comoros,2008,7.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE224,0,130,174,No
+224,Comoros,2008,7.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE225,0,130,174,No
+225,Comoros,2008,7.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE226,0,130,174,No
+226,Comoros,2008,7.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE227,0,130,174,No
+227,Comoros,2008,7.8,Raised fasting blood glucose,Percent,All,All,RFBGASE228,0,130,174,No
+228,Congo,2008,8.1,Raised fasting blood glucose,Percent,All,All,RFBGASE229,0,130,178,No
+229,Congo,2008,7.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE230,0,130,178,No
+230,Congo,2008,8.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE231,0,130,178,No
+231,Congo,2008,7.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE232,0,130,178,No
+232,Congo,2008,8.1,Raised fasting blood glucose,Percent,All,All,RFBGASE233,0,130,178,No
+233,Congo,2008,8.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE234,0,130,178,No
+234,Cook Islands,2008,20.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE235,0,130,184,No
+235,Cook Islands,2008,21.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE236,0,130,184,No
+236,Cook Islands,2008,20.8,Raised fasting blood glucose,Percent,All,All,RFBGASE237,0,130,184,No
+237,Cook Islands,2008,21.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE238,0,130,184,No
+238,Cook Islands,2008,20.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE239,0,130,184,No
+239,Cook Islands,2008,20.8,Raised fasting blood glucose,Percent,All,All,RFBGASE240,0,130,184,No
+240,Costa Rica,2008,10.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE241,0,130,188,No
+241,Costa Rica,2008,10.2,Raised fasting blood glucose,Percent,All,All,RFBGASE242,0,130,188,No
+242,Costa Rica,2008,10.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE243,0,130,188,No
+243,Costa Rica,2008,10.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE244,0,130,188,No
+244,Costa Rica,2008,10.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE245,0,130,188,No
+245,Costa Rica,2008,10.2,Raised fasting blood glucose,Percent,All,All,RFBGASE246,0,130,188,No
+246,Côte dIvoire,2008,9.4,Raised fasting blood glucose,Percent,All,All,RFBGASE247,0,130,384,No
+247,Côte dIvoire,2008,9.4,Raised fasting blood glucose,Percent,All,All,RFBGASE248,0,130,384,No
+248,Côte dIvoire,2008,9.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE249,0,130,384,No
+249,Côte dIvoire,2008,9.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE250,0,130,384,No
+250,Côte dIvoire,2008,9.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE251,0,130,384,No
+251,Côte dIvoire,2008,9.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE252,0,130,384,No
+252,Croatia,2008,8.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE253,0,130,191,No
+253,Croatia,2008,9.3,Raised fasting blood glucose,Percent,All,All,RFBGASE254,0,130,191,No
+254,Croatia,2008,8.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE255,0,130,191,No
+255,Croatia,2008,10.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE256,0,130,191,No
+256,Croatia,2008,9.3,Raised fasting blood glucose,Percent,All,All,RFBGASE257,0,130,191,No
+257,Croatia,2008,10.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE258,0,130,191,No
+258,Cuba,2008,11.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE259,0,130,192,No
+259,Cuba,2008,11.7,Raised fasting blood glucose,Percent,All,All,RFBGASE260,0,130,192,No
+260,Cuba,2008,12.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE261,0,130,192,No
+261,Cuba,2008,11.7,Raised fasting blood glucose,Percent,All,All,RFBGASE262,0,130,192,No
+262,Cuba,2008,12.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE263,0,130,192,No
+263,Cuba,2008,11.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE264,0,130,192,No
+264,Cyprus,2008,6.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE265,0,130,196,No
+265,Cyprus,2008,8.4,Raised fasting blood glucose,Percent,All,All,RFBGASE266,0,130,196,No
+266,Cyprus,2008,10.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE267,0,130,196,No
+267,Cyprus,2008,8.4,Raised fasting blood glucose,Percent,All,All,RFBGASE268,0,130,196,No
+268,Cyprus,2008,6.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE269,0,130,196,No
+269,Cyprus,2008,10.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE270,0,130,196,No
+270,Czech Republic,2008,11.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE271,0,130,203,No
+271,Czech Republic,2008,9.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE272,0,130,203,No
+272,Czech Republic,2008,9.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE273,0,130,203,No
+273,Czech Republic,2008,10.3,Raised fasting blood glucose,Percent,All,All,RFBGASE274,0,130,203,No
+274,Czech Republic,2008,11.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE275,0,130,203,No
+275,Czech Republic,2008,10.3,Raised fasting blood glucose,Percent,All,All,RFBGASE276,0,130,203,No
+276,Democratic Peoples Republic of Korea,2008,7.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE277,0,130,408,No
+277,Democratic Peoples Republic of Korea,2008,7.6,Raised fasting blood glucose,Percent,All,All,RFBGASE278,0,130,408,No
+278,Democratic Peoples Republic of Korea,2008,7.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE279,0,130,408,No
+279,Democratic Peoples Republic of Korea,2008,7.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE280,0,130,408,No
+280,Democratic Peoples Republic of Korea,2008,7.6,Raised fasting blood glucose,Percent,All,All,RFBGASE281,0,130,408,No
+281,Democratic Peoples Republic of Korea,2008,7.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE282,0,130,408,No
+282,Democratic Republic of the Congo,2008,7.3,Raised fasting blood glucose,Percent,All,All,RFBGASE283,0,130,180,No
+283,Democratic Republic of the Congo,2008,7.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE284,0,130,180,No
+284,Democratic Republic of the Congo,2008,7.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE285,0,130,180,No
+285,Democratic Republic of the Congo,2008,7.3,Raised fasting blood glucose,Percent,All,All,RFBGASE286,0,130,180,No
+286,Democratic Republic of the Congo,2008,6.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE287,0,130,180,No
+287,Democratic Republic of the Congo,2008,6.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE288,0,130,180,No
+288,Denmark,2008,7.3,Raised fasting blood glucose,Percent,All,All,RFBGASE289,0,130,208,No
+289,Denmark,2008,8.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE290,0,130,208,No
+290,Denmark,2008,5.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE291,0,130,208,No
+291,Denmark,2008,7.3,Raised fasting blood glucose,Percent,All,All,RFBGASE292,0,130,208,No
+292,Denmark,2008,8.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE293,0,130,208,No
+293,Denmark,2008,5.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE294,0,130,208,No
+294,Djibouti,2008,9.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE295,0,130,262,No
+295,Djibouti,2008,9.5,Raised fasting blood glucose,Percent,All,All,RFBGASE296,0,130,262,No
+296,Djibouti,2008,9.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE297,0,130,262,No
+297,Djibouti,2008,9.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE298,0,130,262,No
+298,Djibouti,2008,9.5,Raised fasting blood glucose,Percent,All,All,RFBGASE299,0,130,262,No
+299,Djibouti,2008,9.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE300,0,130,262,No
+300,Dominica,2008,20.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE301,0,130,212,No
+301,Dominica,2008,18.3,Raised fasting blood glucose,Percent,All,All,RFBGASE302,0,130,212,No
+302,Dominica,2008,20.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE303,0,130,212,No
+303,Dominica,2008,15.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE304,0,130,212,No
+304,Dominica,2008,15.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE305,0,130,212,No
+305,Dominica,2008,18.3,Raised fasting blood glucose,Percent,All,All,RFBGASE306,0,130,212,No
+306,Dominican Republic,2008,8.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE307,0,130,214,No
+307,Dominican Republic,2008,8.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE308,0,130,214,No
+308,Dominican Republic,2008,9.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE309,0,130,214,No
+309,Dominican Republic,2008,8.5,Raised fasting blood glucose,Percent,All,All,RFBGASE310,0,130,214,No
+310,Dominican Republic,2008,9.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE311,0,130,214,No
+311,Dominican Republic,2008,8.5,Raised fasting blood glucose,Percent,All,All,RFBGASE312,0,130,214,No
+312,Ecuador,2008,9.5,Raised fasting blood glucose,Percent,All,All,RFBGASE313,0,130,218,No
+313,Ecuador,2008,9.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE314,0,130,218,No
+314,Ecuador,2008,9.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE315,0,130,218,No
+315,Ecuador,2008,9.5,Raised fasting blood glucose,Percent,All,All,RFBGASE316,0,130,218,No
+316,Ecuador,2008,9.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE317,0,130,218,No
+317,Ecuador,2008,9.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE318,0,130,218,No
+318,Egypt,2008,7.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE319,0,130,818,No
+319,Egypt,2008,7.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE320,0,130,818,No
+320,Egypt,2008,7.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE321,0,130,818,No
+321,Egypt,2008,7.2,Raised fasting blood glucose,Percent,All,All,RFBGASE322,0,130,818,No
+322,Egypt,2008,7.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE323,0,130,818,No
+323,Egypt,2008,7.2,Raised fasting blood glucose,Percent,All,All,RFBGASE324,0,130,818,No
+324,El Salvador,2008,11.0,Raised fasting blood glucose,Percent,All,All,RFBGASE325,0,130,222,No
+325,El Salvador,2008,11.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE326,0,130,222,No
+326,El Salvador,2008,10.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE327,0,130,222,No
+327,El Salvador,2008,11.0,Raised fasting blood glucose,Percent,All,All,RFBGASE328,0,130,222,No
+328,El Salvador,2008,11.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE329,0,130,222,No
+329,El Salvador,2008,10.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE330,0,130,222,No
+330,Equatorial Guinea,2008,8.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE331,0,130,226,No
+331,Equatorial Guinea,2008,8.7,Raised fasting blood glucose,Percent,All,All,RFBGASE332,0,130,226,No
+332,Equatorial Guinea,2008,8.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE333,0,130,226,No
+333,Equatorial Guinea,2008,8.7,Raised fasting blood glucose,Percent,All,All,RFBGASE334,0,130,226,No
+334,Equatorial Guinea,2008,8.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE335,0,130,226,No
+335,Equatorial Guinea,2008,8.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE336,0,130,226,No
+336,Eritrea,2008,7.5,Raised fasting blood glucose,Percent,All,All,RFBGASE337,0,130,232,No
+337,Eritrea,2008,7.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE338,0,130,232,No
+338,Eritrea,2008,7.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE339,0,130,232,No
+339,Eritrea,2008,7.5,Raised fasting blood glucose,Percent,All,All,RFBGASE340,0,130,232,No
+340,Eritrea,2008,7.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE341,0,130,232,No
+341,Eritrea,2008,7.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE342,0,130,232,No
+342,Estonia,2008,9.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE343,0,130,233,No
+343,Estonia,2008,8.4,Raised fasting blood glucose,Percent,All,All,RFBGASE344,0,130,233,No
+344,Estonia,2008,7.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE345,0,130,233,No
+345,Estonia,2008,9.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE346,0,130,233,No
+346,Estonia,2008,7.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE347,0,130,233,No
+347,Estonia,2008,8.4,Raised fasting blood glucose,Percent,All,All,RFBGASE348,0,130,233,No
+348,Ethiopia,2008,7.1,Raised fasting blood glucose,Percent,All,All,RFBGASE349,0,130,231,No
+349,Ethiopia,2008,7.1,Raised fasting blood glucose,Percent,All,All,RFBGASE349,0,130,230,No
+350,Ethiopia,2008,7.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE350,0,130,231,No
+351,Ethiopia,2008,7.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE350,0,130,230,No
+352,Ethiopia,2008,7.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE351,0,130,231,No
+353,Ethiopia,2008,7.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE351,0,130,230,No
+354,Ethiopia,2008,7.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE352,0,130,231,No
+355,Ethiopia,2008,7.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE352,0,130,230,No
+356,Ethiopia,2008,7.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE353,0,130,231,No
+357,Ethiopia,2008,7.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE353,0,130,230,No
+358,Ethiopia,2008,7.1,Raised fasting blood glucose,Percent,All,All,RFBGASE354,0,130,231,No
+359,Ethiopia,2008,7.1,Raised fasting blood glucose,Percent,All,All,RFBGASE354,0,130,230,No
+360,Fiji,2008,16.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE355,0,130,242,No
+361,Fiji,2008,16.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE356,0,130,242,No
+362,Fiji,2008,13.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE357,0,130,242,No
+363,Fiji,2008,14.8,Raised fasting blood glucose,Percent,All,All,RFBGASE358,0,130,242,No
+364,Fiji,2008,13.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE359,0,130,242,No
+365,Fiji,2008,14.8,Raised fasting blood glucose,Percent,All,All,RFBGASE360,0,130,242,No
+366,Finland,2008,8.1,Raised fasting blood glucose,Percent,All,All,RFBGASE361,0,130,246,No
+367,Finland,2008,10.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE362,0,130,246,No
+368,Finland,2008,6.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE363,0,130,246,No
+369,Finland,2008,8.1,Raised fasting blood glucose,Percent,All,All,RFBGASE364,0,130,246,No
+370,Finland,2008,10.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE365,0,130,246,No
+371,Finland,2008,6.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE366,0,130,246,No
+372,France,2008,4.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE367,0,130,250,No
+373,France,2008,7.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE368,0,130,250,No
+374,France,2008,5.7,Raised fasting blood glucose,Percent,All,All,RFBGASE369,0,130,250,No
+375,France,2008,4.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE370,0,130,250,No
+376,France,2008,5.7,Raised fasting blood glucose,Percent,All,All,RFBGASE371,0,130,250,No
+377,France,2008,7.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE372,0,130,250,No
+378,Gabon,2008,9.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE373,0,130,266,No
+379,Gabon,2008,9.5,Raised fasting blood glucose,Percent,All,All,RFBGASE374,0,130,266,No
+380,Gabon,2008,9.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE375,0,130,266,No
+381,Gabon,2008,9.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE376,0,130,266,No
+382,Gabon,2008,9.5,Raised fasting blood glucose,Percent,All,All,RFBGASE377,0,130,266,No
+383,Gabon,2008,9.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE378,0,130,266,No
+384,Gambia,2008,10.6,Raised fasting blood glucose,Percent,All,All,RFBGASE379,0,130,270,No
+385,Gambia,2008,9.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE380,0,130,270,No
+386,Gambia,2008,9.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE381,0,130,270,No
+387,Gambia,2008,11.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE382,0,130,270,No
+388,Gambia,2008,10.6,Raised fasting blood glucose,Percent,All,All,RFBGASE383,0,130,270,No
+389,Gambia,2008,11.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE384,0,130,270,No
+390,Georgia,2008,11.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE385,0,130,268,No
+391,Georgia,2008,11.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE386,0,130,268,No
+392,Georgia,2008,11.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE387,0,130,268,No
+393,Georgia,2008,11.5,Raised fasting blood glucose,Percent,All,All,RFBGASE388,0,130,268,No
+394,Georgia,2008,11.5,Raised fasting blood glucose,Percent,All,All,RFBGASE389,0,130,268,No
+395,Georgia,2008,11.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE390,0,130,268,No
+396,Germany,2008,9.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE391,0,130,276,No
+397,Germany,2008,8.0,Raised fasting blood glucose,Percent,All,All,RFBGASE392,0,130,276,No
+398,Germany,2008,9.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE393,0,130,276,No
+399,Germany,2008,6.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE394,0,130,276,No
+400,Germany,2008,8.0,Raised fasting blood glucose,Percent,All,All,RFBGASE395,0,130,276,No
+401,Germany,2008,6.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE396,0,130,276,No
+402,Ghana,2008,10.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE397,0,130,288,No
+403,Ghana,2008,10.1,Raised fasting blood glucose,Percent,All,All,RFBGASE398,0,130,288,No
+404,Ghana,2008,10.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE399,0,130,288,No
+405,Ghana,2008,9.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE400,0,130,288,No
+406,Ghana,2008,10.1,Raised fasting blood glucose,Percent,All,All,RFBGASE401,0,130,288,No
+407,Ghana,2008,9.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE402,0,130,288,No
+408,Greece,2008,7.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE403,0,130,300,No
+409,Greece,2008,9.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE404,0,130,300,No
+410,Greece,2008,8.7,Raised fasting blood glucose,Percent,All,All,RFBGASE405,0,130,300,No
+411,Greece,2008,9.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE406,0,130,300,No
+412,Greece,2008,7.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE407,0,130,300,No
+413,Greece,2008,8.7,Raised fasting blood glucose,Percent,All,All,RFBGASE408,0,130,300,No
+414,Grenada,2008,11.8,Raised fasting blood glucose,Percent,All,All,RFBGASE409,0,130,308,No
+415,Grenada,2008,12.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE410,0,130,308,No
+416,Grenada,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE411,0,130,308,No
+417,Grenada,2008,12.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE412,0,130,308,No
+418,Grenada,2008,11.8,Raised fasting blood glucose,Percent,All,All,RFBGASE413,0,130,308,No
+419,Grenada,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE414,0,130,308,No
+420,Guatemala,2008,14.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE415,0,130,320,No
+421,Guatemala,2008,11.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE416,0,130,320,No
+422,Guatemala,2008,12.8,Raised fasting blood glucose,Percent,All,All,RFBGASE417,0,130,320,No
+423,Guatemala,2008,14.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE418,0,130,320,No
+424,Guatemala,2008,12.8,Raised fasting blood glucose,Percent,All,All,RFBGASE419,0,130,320,No
+425,Guatemala,2008,11.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE420,0,130,320,No
+426,Guinea,2008,8.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE421,0,130,324,No
+427,Guinea,2008,8.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE422,0,130,324,No
+428,Guinea,2008,8.7,Raised fasting blood glucose,Percent,All,All,RFBGASE423,0,130,324,No
+429,Guinea,2008,8.7,Raised fasting blood glucose,Percent,All,All,RFBGASE424,0,130,324,No
+430,Guinea,2008,8.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE425,0,130,324,No
+431,Guinea,2008,8.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE426,0,130,324,No
+432,Guinea-Bissau,2008,9.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE427,0,130,624,No
+433,Guinea-Bissau,2008,8.9,Raised fasting blood glucose,Percent,All,All,RFBGASE428,0,130,624,No
+434,Guinea-Bissau,2008,9.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE429,0,130,624,No
+435,Guinea-Bissau,2008,8.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE430,0,130,624,No
+436,Guinea-Bissau,2008,8.9,Raised fasting blood glucose,Percent,All,All,RFBGASE431,0,130,624,No
+437,Guinea-Bissau,2008,8.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE432,0,130,624,No
+438,Guyana,2008,10.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE433,0,130,328,No
+439,Guyana,2008,11.8,Raised fasting blood glucose,Percent,All,All,RFBGASE434,0,130,328,No
+440,Guyana,2008,13.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE435,0,130,328,No
+441,Guyana,2008,13.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE436,0,130,328,No
+442,Guyana,2008,11.8,Raised fasting blood glucose,Percent,All,All,RFBGASE437,0,130,328,No
+443,Guyana,2008,10.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE438,0,130,328,No
+444,Haiti,2008,9.6,Raised fasting blood glucose,Percent,All,All,RFBGASE439,0,130,332,No
+445,Haiti,2008,9.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE440,0,130,332,No
+446,Haiti,2008,9.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE441,0,130,332,No
+447,Haiti,2008,9.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE442,0,130,332,No
+448,Haiti,2008,9.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE443,0,130,332,No
+449,Haiti,2008,9.6,Raised fasting blood glucose,Percent,All,All,RFBGASE444,0,130,332,No
+450,Honduras,2008,8.5,Raised fasting blood glucose,Percent,All,All,RFBGASE445,0,130,340,No
+451,Honduras,2008,8.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE446,0,130,340,No
+452,Honduras,2008,8.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE447,0,130,340,No
+453,Honduras,2008,8.5,Raised fasting blood glucose,Percent,All,All,RFBGASE448,0,130,340,No
+454,Honduras,2008,8.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE449,0,130,340,No
+455,Honduras,2008,8.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE450,0,130,340,No
+456,Hungary,2008,9.5,Raised fasting blood glucose,Percent,All,All,RFBGASE451,0,130,348,No
+457,Hungary,2008,8.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE452,0,130,348,No
+458,Hungary,2008,8.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE453,0,130,348,No
+459,Hungary,2008,10.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE454,0,130,348,No
+460,Hungary,2008,9.5,Raised fasting blood glucose,Percent,All,All,RFBGASE455,0,130,348,No
+461,Hungary,2008,10.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE456,0,130,348,No
+462,Iceland,2008,10.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE457,0,130,352,No
+463,Iceland,2008,8.9,Raised fasting blood glucose,Percent,All,All,RFBGASE458,0,130,352,No
+464,Iceland,2008,6.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE459,0,130,352,No
+465,Iceland,2008,6.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE460,0,130,352,No
+466,Iceland,2008,8.9,Raised fasting blood glucose,Percent,All,All,RFBGASE461,0,130,352,No
+467,Iceland,2008,10.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE462,0,130,352,No
+468,India,2008,10.9,Raised fasting blood glucose,Percent,All,All,RFBGASE463,0,130,356,No
+469,India,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE464,0,130,356,No
+470,India,2008,10.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE465,0,130,356,No
+471,India,2008,10.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE466,0,130,356,No
+472,India,2008,10.9,Raised fasting blood glucose,Percent,All,All,RFBGASE467,0,130,356,No
+473,India,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE468,0,130,356,No
+474,Indonesia,2008,6.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE469,0,130,360,No
+475,Indonesia,2008,7.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE470,0,130,360,No
+476,Indonesia,2008,6.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE471,0,130,360,No
+477,Indonesia,2008,6.9,Raised fasting blood glucose,Percent,All,All,RFBGASE472,0,130,360,No
+478,Indonesia,2008,7.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE473,0,130,360,No
+479,Indonesia,2008,6.9,Raised fasting blood glucose,Percent,All,All,RFBGASE474,0,130,360,No
+480,Iran (Islamic Republic of),2008,9.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE475,0,130,364,No
+481,Iran (Islamic Republic of),2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE476,0,130,364,No
+482,Iran (Islamic Republic of),2008,9.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE477,0,130,364,No
+483,Iran (Islamic Republic of),2008,10.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE478,0,130,364,No
+484,Iran (Islamic Republic of),2008,10.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE479,0,130,364,No
+485,Iran (Islamic Republic of),2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE480,0,130,364,No
+486,Iraq,2008,12.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE481,0,130,368,No
+487,Iraq,2008,12.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE482,0,130,368,No
+488,Iraq,2008,12.6,Raised fasting blood glucose,Percent,All,All,RFBGASE483,0,130,368,No
+489,Iraq,2008,12.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE484,0,130,368,No
+490,Iraq,2008,12.6,Raised fasting blood glucose,Percent,All,All,RFBGASE485,0,130,368,No
+491,Iraq,2008,12.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE486,0,130,368,No
+492,Ireland,2008,8.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE487,0,130,372,No
+493,Ireland,2008,7.0,Raised fasting blood glucose,Percent,All,All,RFBGASE488,0,130,372,No
+494,Ireland,2008,8.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE489,0,130,372,No
+495,Ireland,2008,5.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE490,0,130,372,No
+496,Ireland,2008,7.0,Raised fasting blood glucose,Percent,All,All,RFBGASE491,0,130,372,No
+497,Ireland,2008,5.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE492,0,130,372,No
+498,Israel,2008,10.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE493,0,130,376,No
+499,Israel,2008,9.4,Raised fasting blood glucose,Percent,All,All,RFBGASE494,0,130,376,No
+500,Israel,2008,8.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE495,0,130,376,No
+501,Israel,2008,9.4,Raised fasting blood glucose,Percent,All,All,RFBGASE496,0,130,376,No
+502,Israel,2008,10.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE497,0,130,376,No
+503,Israel,2008,8.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE498,0,130,376,No
+504,Italy,2008,7.1,Raised fasting blood glucose,Percent,All,All,RFBGASE499,0,130,380,No
+505,Italy,2008,8.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE500,0,130,380,No
+506,Italy,2008,5.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE501,0,130,380,No
+507,Italy,2008,8.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE502,0,130,380,No
+508,Italy,2008,7.1,Raised fasting blood glucose,Percent,All,All,RFBGASE503,0,130,380,No
+509,Italy,2008,5.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE504,0,130,380,No
+510,Jamaica,2008,12.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE505,0,130,388,No
+511,Jamaica,2008,11.6,Raised fasting blood glucose,Percent,All,All,RFBGASE506,0,130,388,No
+512,Jamaica,2008,10.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE507,0,130,388,No
+513,Jamaica,2008,11.6,Raised fasting blood glucose,Percent,All,All,RFBGASE508,0,130,388,No
+514,Jamaica,2008,12.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE509,0,130,388,No
+515,Jamaica,2008,10.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE510,0,130,388,No
+516,Japan,2008,5.9,Raised fasting blood glucose,Percent,All,All,RFBGASE511,0,130,392,No
+517,Japan,2008,5.9,Raised fasting blood glucose,Percent,All,All,RFBGASE511,0,130,392,No
+518,Japan,2008,7.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE512,0,130,392,No
+519,Japan,2008,7.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE512,0,130,392,No
+520,Japan,2008,4.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE513,0,130,392,No
+521,Japan,2008,4.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE513,0,130,392,No
+522,Japan,2008,7.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE514,0,130,392,No
+523,Japan,2008,7.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE514,0,130,392,No
+524,Japan,2008,5.9,Raised fasting blood glucose,Percent,All,All,RFBGASE515,0,130,392,No
+525,Japan,2008,5.9,Raised fasting blood glucose,Percent,All,All,RFBGASE515,0,130,392,No
+526,Japan,2008,4.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE516,0,130,392,No
+527,Japan,2008,4.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE516,0,130,392,No
+528,Jordan,2008,18.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE517,0,130,400,No
+529,Jordan,2008,17.7,Raised fasting blood glucose,Percent,All,All,RFBGASE518,0,130,400,No
+530,Jordan,2008,17.7,Raised fasting blood glucose,Percent,All,All,RFBGASE519,0,130,400,No
+531,Jordan,2008,17.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE520,0,130,400,No
+532,Jordan,2008,18.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE521,0,130,400,No
+533,Jordan,2008,17.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE522,0,130,400,No
+534,Kazakhstan,2008,12.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE523,0,130,398,No
+535,Kazakhstan,2008,10.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE524,0,130,398,No
+536,Kazakhstan,2008,10.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE525,0,130,398,No
+537,Kazakhstan,2008,11.5,Raised fasting blood glucose,Percent,All,All,RFBGASE526,0,130,398,No
+538,Kazakhstan,2008,12.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE527,0,130,398,No
+539,Kazakhstan,2008,11.5,Raised fasting blood glucose,Percent,All,All,RFBGASE528,0,130,398,No
+540,Kenya,2008,7.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE529,0,130,404,No
+541,Kenya,2008,7.7,Raised fasting blood glucose,Percent,All,All,RFBGASE530,0,130,404,No
+542,Kenya,2008,7.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE531,0,130,404,No
+543,Kenya,2008,7.7,Raised fasting blood glucose,Percent,All,All,RFBGASE532,0,130,404,No
+544,Kenya,2008,7.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE533,0,130,404,No
+545,Kenya,2008,7.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE534,0,130,404,No
+546,Kiribati,2008,24.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE535,0,130,296,No
+547,Kiribati,2008,24.2,Raised fasting blood glucose,Percent,All,All,RFBGASE536,0,130,296,No
+548,Kiribati,2008,24.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE537,0,130,296,No
+549,Kiribati,2008,24.2,Raised fasting blood glucose,Percent,All,All,RFBGASE538,0,130,296,No
+550,Kiribati,2008,23.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE539,0,130,296,No
+551,Kiribati,2008,23.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE540,0,130,296,No
+552,Kuwait,2008,14.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE541,0,130,414,No
+553,Kuwait,2008,16.2,Raised fasting blood glucose,Percent,All,All,RFBGASE542,0,130,414,No
+554,Kuwait,2008,17.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE543,0,130,414,No
+555,Kuwait,2008,16.2,Raised fasting blood glucose,Percent,All,All,RFBGASE544,0,130,414,No
+556,Kuwait,2008,17.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE545,0,130,414,No
+557,Kuwait,2008,14.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE546,0,130,414,No
+558,Kyrgyzstan,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE547,0,130,417,No
+559,Kyrgyzstan,2008,10.7,Raised fasting blood glucose,Percent,All,All,RFBGASE548,0,130,417,No
+560,Kyrgyzstan,2008,10.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE549,0,130,417,No
+561,Kyrgyzstan,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE550,0,130,417,No
+562,Kyrgyzstan,2008,10.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE551,0,130,417,No
+563,Kyrgyzstan,2008,10.7,Raised fasting blood glucose,Percent,All,All,RFBGASE552,0,130,417,No
+564,Lao Peoples Democratic Republic,2008,7.4,Raised fasting blood glucose,Percent,All,All,RFBGASE553,0,130,418,No
+565,Lao Peoples Democratic Republic,2008,7.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE554,0,130,418,No
+566,Lao Peoples Democratic Republic,2008,7.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE555,0,130,418,No
+567,Lao Peoples Democratic Republic,2008,7.4,Raised fasting blood glucose,Percent,All,All,RFBGASE556,0,130,418,No
+568,Lao Peoples Democratic Republic,2008,7.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE557,0,130,418,No
+569,Lao Peoples Democratic Republic,2008,7.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE558,0,130,418,No
+570,Latvia,2008,9.7,Raised fasting blood glucose,Percent,All,All,RFBGASE559,0,130,428,No
+571,Latvia,2008,9.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE560,0,130,428,No
+572,Latvia,2008,10.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE561,0,130,428,No
+573,Latvia,2008,10.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE562,0,130,428,No
+574,Latvia,2008,9.7,Raised fasting blood glucose,Percent,All,All,RFBGASE563,0,130,428,No
+575,Latvia,2008,9.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE564,0,130,428,No
+576,Lebanon,2008,11.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE565,0,130,422,No
+577,Lebanon,2008,13.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE566,0,130,422,No
+578,Lebanon,2008,11.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE567,0,130,422,No
+579,Lebanon,2008,11.9,Raised fasting blood glucose,Percent,All,All,RFBGASE568,0,130,422,No
+580,Lebanon,2008,13.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE569,0,130,422,No
+581,Lebanon,2008,11.9,Raised fasting blood glucose,Percent,All,All,RFBGASE570,0,130,422,No
+582,Lesotho,2008,9.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE571,0,130,426,No
+583,Lesotho,2008,10.8,Raised fasting blood glucose,Percent,All,All,RFBGASE572,0,130,426,No
+584,Lesotho,2008,9.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE573,0,130,426,No
+585,Lesotho,2008,12.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE574,0,130,426,No
+586,Lesotho,2008,12.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE575,0,130,426,No
+587,Lesotho,2008,10.8,Raised fasting blood glucose,Percent,All,All,RFBGASE576,0,130,426,No
+588,Liberia,2008,9.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE577,0,130,430,No
+589,Liberia,2008,8.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE578,0,130,430,No
+590,Liberia,2008,8.9,Raised fasting blood glucose,Percent,All,All,RFBGASE579,0,130,430,No
+591,Liberia,2008,9.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE580,0,130,430,No
+592,Liberia,2008,8.9,Raised fasting blood glucose,Percent,All,All,RFBGASE581,0,130,430,No
+593,Liberia,2008,8.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE582,0,130,430,No
+594,Libya,2008,14.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE583,0,130,434,No
+595,Libya,2008,14.4,Raised fasting blood glucose,Percent,All,All,RFBGASE584,0,130,434,No
+596,Libya,2008,14.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE585,0,130,434,No
+597,Libya,2008,14.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE586,0,130,434,No
+598,Libya,2008,14.4,Raised fasting blood glucose,Percent,All,All,RFBGASE587,0,130,434,No
+599,Libya,2008,14.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE588,0,130,434,No
+600,Lithuania,2008,10.4,Raised fasting blood glucose,Percent,All,All,RFBGASE589,0,130,440,No
+601,Lithuania,2008,11.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE590,0,130,440,No
+602,Lithuania,2008,9.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE591,0,130,440,No
+603,Lithuania,2008,11.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE592,0,130,440,No
+604,Lithuania,2008,10.4,Raised fasting blood glucose,Percent,All,All,RFBGASE593,0,130,440,No
+605,Lithuania,2008,9.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE594,0,130,440,No
+606,Luxembourg,2008,9.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE595,0,130,442,No
+607,Luxembourg,2008,8.3,Raised fasting blood glucose,Percent,All,All,RFBGASE596,0,130,442,No
+608,Luxembourg,2008,6.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE597,0,130,442,No
+609,Luxembourg,2008,9.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE598,0,130,442,No
+610,Luxembourg,2008,8.3,Raised fasting blood glucose,Percent,All,All,RFBGASE599,0,130,442,No
+611,Luxembourg,2008,6.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE600,0,130,442,No
+612,Madagascar,2008,7.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE601,0,130,450,No
+613,Madagascar,2008,7.5,Raised fasting blood glucose,Percent,All,All,RFBGASE602,0,130,450,No
+614,Madagascar,2008,7.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE603,0,130,450,No
+615,Madagascar,2008,8.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE604,0,130,450,No
+616,Madagascar,2008,8.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE605,0,130,450,No
+617,Madagascar,2008,7.5,Raised fasting blood glucose,Percent,All,All,RFBGASE606,0,130,450,No
+618,Malawi,2008,6.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE607,0,130,454,No
+619,Malawi,2008,6.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE608,0,130,454,No
+620,Malawi,2008,6.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE609,0,130,454,No
+621,Malawi,2008,6.3,Raised fasting blood glucose,Percent,All,All,RFBGASE610,0,130,454,No
+622,Malawi,2008,6.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE611,0,130,454,No
+623,Malawi,2008,6.3,Raised fasting blood glucose,Percent,All,All,RFBGASE612,0,130,454,No
+624,Malaysia,2008,11.4,Raised fasting blood glucose,Percent,All,All,RFBGASE613,0,130,458,No
+625,Malaysia,2008,11.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE614,0,130,458,No
+626,Malaysia,2008,11.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE615,0,130,458,No
+627,Malaysia,2008,11.4,Raised fasting blood glucose,Percent,All,All,RFBGASE616,0,130,458,No
+628,Malaysia,2008,11.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE617,0,130,458,No
+629,Malaysia,2008,11.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE618,0,130,458,No
+630,Maldives,2008,7.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE619,0,130,462,No
+631,Maldives,2008,7.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE620,0,130,462,No
+632,Maldives,2008,7.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE621,0,130,462,No
+633,Maldives,2008,7.6,Raised fasting blood glucose,Percent,All,All,RFBGASE622,0,130,462,No
+634,Maldives,2008,7.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE623,0,130,462,No
+635,Maldives,2008,7.6,Raised fasting blood glucose,Percent,All,All,RFBGASE624,0,130,462,No
+636,Mali,2008,9.3,Raised fasting blood glucose,Percent,All,All,RFBGASE625,0,130,466,No
+637,Mali,2008,9.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE626,0,130,466,No
+638,Mali,2008,9.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE627,0,130,466,No
+639,Mali,2008,9.3,Raised fasting blood glucose,Percent,All,All,RFBGASE628,0,130,466,No
+640,Mali,2008,9.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE629,0,130,466,No
+641,Mali,2008,9.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE630,0,130,466,No
+642,Malta,2008,8.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE631,0,130,470,No
+643,Malta,2008,10.4,Raised fasting blood glucose,Percent,All,All,RFBGASE632,0,130,470,No
+644,Malta,2008,8.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE633,0,130,470,No
+645,Malta,2008,10.4,Raised fasting blood glucose,Percent,All,All,RFBGASE634,0,130,470,No
+646,Malta,2008,11.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE635,0,130,470,No
+647,Malta,2008,11.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE636,0,130,470,No
+648,Marshall Islands,2008,28.7,Raised fasting blood glucose,Percent,All,All,RFBGASE637,0,130,584,No
+649,Marshall Islands,2008,31.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE638,0,130,584,No
+650,Marshall Islands,2008,25.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE639,0,130,584,No
+651,Marshall Islands,2008,28.7,Raised fasting blood glucose,Percent,All,All,RFBGASE640,0,130,584,No
+652,Marshall Islands,2008,25.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE641,0,130,584,No
+653,Marshall Islands,2008,31.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE642,0,130,584,No
+654,Mauritania,2008,7.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE643,0,130,478,No
+655,Mauritania,2008,8.0,Raised fasting blood glucose,Percent,All,All,RFBGASE644,0,130,478,No
+656,Mauritania,2008,8.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE645,0,130,478,No
+657,Mauritania,2008,7.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE646,0,130,478,No
+658,Mauritania,2008,8.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE647,0,130,478,No
+659,Mauritania,2008,8.0,Raised fasting blood glucose,Percent,All,All,RFBGASE648,0,130,478,No
+660,Mauritius,2008,10.7,Raised fasting blood glucose,Percent,All,All,RFBGASE649,0,130,480,No
+661,Mauritius,2008,11.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE650,0,130,480,No
+662,Mauritius,2008,9.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE651,0,130,480,No
+663,Mauritius,2008,9.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE652,0,130,480,No
+664,Mauritius,2008,11.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE653,0,130,480,No
+665,Mauritius,2008,10.7,Raised fasting blood glucose,Percent,All,All,RFBGASE654,0,130,480,No
+666,Mexico,2008,14.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE655,0,130,484,No
+667,Mexico,2008,14.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE656,0,130,484,No
+668,Mexico,2008,13.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE657,0,130,484,No
+669,Mexico,2008,14.1,Raised fasting blood glucose,Percent,All,All,RFBGASE658,0,130,484,No
+670,Mexico,2008,13.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE659,0,130,484,No
+671,Mexico,2008,14.1,Raised fasting blood glucose,Percent,All,All,RFBGASE660,0,130,484,No
+672,Micronesia (Federated States of),2008,17.0,Raised fasting blood glucose,Percent,All,All,RFBGASE661,0,130,583,No
+673,Micronesia (Federated States of),2008,14.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE662,0,130,583,No
+674,Micronesia (Federated States of),2008,19.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE663,0,130,583,No
+675,Micronesia (Federated States of),2008,17.0,Raised fasting blood glucose,Percent,All,All,RFBGASE664,0,130,583,No
+676,Micronesia (Federated States of),2008,19.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE665,0,130,583,No
+677,Micronesia (Federated States of),2008,14.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE666,0,130,583,No
+678,Mongolia,2008,8.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE667,0,130,496,No
+679,Mongolia,2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE668,0,130,496,No
+680,Mongolia,2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE669,0,130,496,No
+681,Mongolia,2008,10.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE670,0,130,496,No
+682,Mongolia,2008,8.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE671,0,130,496,No
+683,Mongolia,2008,10.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE672,0,130,496,No
+684,Montenegro,2008,8.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE673,0,130,499,No
+685,Montenegro,2008,8.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE674,0,130,499,No
+686,Montenegro,2008,9.1,Raised fasting blood glucose,Percent,All,All,RFBGASE675,0,130,499,No
+687,Montenegro,2008,9.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE676,0,130,499,No
+688,Montenegro,2008,9.1,Raised fasting blood glucose,Percent,All,All,RFBGASE677,0,130,499,No
+689,Montenegro,2008,9.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE678,0,130,499,No
+690,Morocco,2008,10.8,Raised fasting blood glucose,Percent,All,All,RFBGASE679,0,130,504,No
+691,Morocco,2008,10.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE680,0,130,504,No
+692,Morocco,2008,10.8,Raised fasting blood glucose,Percent,All,All,RFBGASE681,0,130,504,No
+693,Morocco,2008,10.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE682,0,130,504,No
+694,Morocco,2008,10.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE683,0,130,504,No
+695,Morocco,2008,10.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE684,0,130,504,No
+696,Mozambique,2008,8.1,Raised fasting blood glucose,Percent,All,All,RFBGASE685,0,130,508,No
+697,Mozambique,2008,8.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE686,0,130,508,No
+698,Mozambique,2008,8.1,Raised fasting blood glucose,Percent,All,All,RFBGASE687,0,130,508,No
+699,Mozambique,2008,8.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE688,0,130,508,No
+700,Mozambique,2008,8.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE689,0,130,508,No
+701,Mozambique,2008,8.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE690,0,130,508,No
+702,Myanmar,2008,7.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE691,0,130,104,No
+703,Myanmar,2008,6.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE692,0,130,104,No
+704,Myanmar,2008,6.6,Raised fasting blood glucose,Percent,All,All,RFBGASE693,0,130,104,No
+705,Myanmar,2008,6.6,Raised fasting blood glucose,Percent,All,All,RFBGASE694,0,130,104,No
+706,Myanmar,2008,7.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE695,0,130,104,No
+707,Myanmar,2008,6.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE696,0,130,104,No
+708,Namibia,2008,9.2,Raised fasting blood glucose,Percent,All,All,RFBGASE697,0,130,516,No
+709,Namibia,2008,8.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE698,0,130,516,No
+710,Namibia,2008,9.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE699,0,130,516,No
+711,Namibia,2008,8.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE700,0,130,516,No
+712,Namibia,2008,9.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE701,0,130,516,No
+713,Namibia,2008,9.2,Raised fasting blood glucose,Percent,All,All,RFBGASE702,0,130,516,No
+714,Nauru,2008,14.0,Raised fasting blood glucose,Percent,All,All,RFBGASE703,0,130,520,No
+715,Nauru,2008,15.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE704,0,130,520,No
+716,Nauru,2008,12.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE705,0,130,520,No
+717,Nauru,2008,15.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE706,0,130,520,No
+718,Nauru,2008,14.0,Raised fasting blood glucose,Percent,All,All,RFBGASE707,0,130,520,No
+719,Nauru,2008,12.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE708,0,130,520,No
+720,Nepal,2008,9.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE709,0,130,524,No
+721,Nepal,2008,9.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE710,0,130,524,No
+722,Nepal,2008,9.5,Raised fasting blood glucose,Percent,All,All,RFBGASE711,0,130,524,No
+723,Nepal,2008,9.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE712,0,130,524,No
+724,Nepal,2008,9.5,Raised fasting blood glucose,Percent,All,All,RFBGASE713,0,130,524,No
+725,Nepal,2008,9.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE714,0,130,524,No
+726,Netherlands,2008,6.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE715,0,130,528,No
+727,Netherlands,2008,4.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE716,0,130,528,No
+728,Netherlands,2008,5.1,Raised fasting blood glucose,Percent,All,All,RFBGASE717,0,130,528,No
+729,Netherlands,2008,5.1,Raised fasting blood glucose,Percent,All,All,RFBGASE718,0,130,528,No
+730,Netherlands,2008,6.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE719,0,130,528,No
+731,Netherlands,2008,4.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE720,0,130,528,No
+732,New Zealand,2008,8.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE721,0,130,554,No
+733,New Zealand,2008,8.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE721,0,130,554,No
+734,New Zealand,2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE722,0,130,554,No
+735,New Zealand,2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE722,0,130,554,No
+736,New Zealand,2008,8.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE723,0,130,554,No
+737,New Zealand,2008,8.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE723,0,130,554,No
+738,New Zealand,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE724,0,130,554,No
+739,New Zealand,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE724,0,130,554,No
+740,New Zealand,2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE725,0,130,554,No
+741,New Zealand,2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE725,0,130,554,No
+742,New Zealand,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE726,0,130,554,No
+743,New Zealand,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE726,0,130,554,No
+744,Nicaragua,2008,8.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE727,0,130,558,No
+745,Nicaragua,2008,9.0,Raised fasting blood glucose,Percent,All,All,RFBGASE728,0,130,558,No
+746,Nicaragua,2008,9.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE729,0,130,558,No
+747,Nicaragua,2008,9.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE730,0,130,558,No
+748,Nicaragua,2008,9.0,Raised fasting blood glucose,Percent,All,All,RFBGASE731,0,130,558,No
+749,Nicaragua,2008,8.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE732,0,130,558,No
+750,Niger,2008,7.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE733,0,130,562,No
+751,Niger,2008,8.0,Raised fasting blood glucose,Percent,All,All,RFBGASE734,0,130,562,No
+752,Niger,2008,8.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE735,0,130,562,No
+753,Niger,2008,8.0,Raised fasting blood glucose,Percent,All,All,RFBGASE736,0,130,562,No
+754,Niger,2008,7.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE737,0,130,562,No
+755,Niger,2008,8.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE738,0,130,562,No
+756,Nigeria,2008,12.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE739,0,130,566,No
+757,Nigeria,2008,7.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE740,0,130,566,No
+758,Nigeria,2008,10.1,Raised fasting blood glucose,Percent,All,All,RFBGASE741,0,130,566,No
+759,Nigeria,2008,12.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE742,0,130,566,No
+760,Nigeria,2008,7.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE743,0,130,566,No
+761,Nigeria,2008,10.1,Raised fasting blood glucose,Percent,All,All,RFBGASE744,0,130,566,No
+762,Norway,2008,9.1,Raised fasting blood glucose,Percent,All,All,RFBGASE745,0,130,578,No
+763,Norway,2008,10.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE746,0,130,578,No
+764,Norway,2008,10.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE747,0,130,578,No
+765,Norway,2008,7.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE748,0,130,578,No
+766,Norway,2008,7.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE749,0,130,578,No
+767,Norway,2008,9.1,Raised fasting blood glucose,Percent,All,All,RFBGASE750,0,130,578,No
+768,Oman,2008,12.2,Raised fasting blood glucose,Percent,All,All,RFBGASE751,0,130,512,No
+769,Oman,2008,12.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE752,0,130,512,No
+770,Oman,2008,12.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE753,0,130,512,No
+771,Oman,2008,12.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE754,0,130,512,No
+772,Oman,2008,12.2,Raised fasting blood glucose,Percent,All,All,RFBGASE755,0,130,512,No
+773,Oman,2008,12.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE756,0,130,512,No
+774,Pakistan,2008,14.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE757,0,130,586,No
+775,Pakistan,2008,11.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE758,0,130,586,No
+776,Pakistan,2008,14.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE759,0,130,586,No
+777,Pakistan,2008,11.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE760,0,130,586,No
+778,Pakistan,2008,12.9,Raised fasting blood glucose,Percent,All,All,RFBGASE761,0,130,586,No
+779,Pakistan,2008,12.9,Raised fasting blood glucose,Percent,All,All,RFBGASE762,0,130,586,No
+780,Palau,2008,17.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE763,0,130,585,No
+781,Palau,2008,18.2,Raised fasting blood glucose,Percent,All,All,RFBGASE764,0,130,585,No
+782,Palau,2008,17.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE765,0,130,585,No
+783,Palau,2008,19.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE766,0,130,585,No
+784,Palau,2008,19.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE767,0,130,585,No
+785,Palau,2008,18.2,Raised fasting blood glucose,Percent,All,All,RFBGASE768,0,130,585,No
+786,Panama,2008,11.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE769,0,130,591,No
+787,Panama,2008,11.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE769,0,130,590,No
+788,Panama,2008,10.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE770,0,130,591,No
+789,Panama,2008,10.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE770,0,130,590,No
+790,Panama,2008,11.1,Raised fasting blood glucose,Percent,All,All,RFBGASE771,0,130,591,No
+791,Panama,2008,11.1,Raised fasting blood glucose,Percent,All,All,RFBGASE771,0,130,590,No
+792,Panama,2008,11.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE772,0,130,591,No
+793,Panama,2008,11.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE772,0,130,590,No
+794,Panama,2008,11.1,Raised fasting blood glucose,Percent,All,All,RFBGASE773,0,130,591,No
+795,Panama,2008,11.1,Raised fasting blood glucose,Percent,All,All,RFBGASE773,0,130,590,No
+796,Panama,2008,10.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE774,0,130,591,No
+797,Panama,2008,10.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE774,0,130,590,No
+798,Papua New Guinea,2008,15.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE775,0,130,598,No
+799,Papua New Guinea,2008,15.0,Raised fasting blood glucose,Percent,All,All,RFBGASE776,0,130,598,No
+800,Papua New Guinea,2008,14.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE777,0,130,598,No
+801,Papua New Guinea,2008,15.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE778,0,130,598,No
+802,Papua New Guinea,2008,15.0,Raised fasting blood glucose,Percent,All,All,RFBGASE779,0,130,598,No
+803,Papua New Guinea,2008,14.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE780,0,130,598,No
+804,Paraguay,2008,10.3,Raised fasting blood glucose,Percent,All,All,RFBGASE781,0,130,600,No
+805,Paraguay,2008,10.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE782,0,130,600,No
+806,Paraguay,2008,10.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE783,0,130,600,No
+807,Paraguay,2008,10.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE784,0,130,600,No
+808,Paraguay,2008,10.3,Raised fasting blood glucose,Percent,All,All,RFBGASE785,0,130,600,No
+809,Paraguay,2008,10.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE786,0,130,600,No
+810,Peru,2008,6.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE787,0,130,604,No
+811,Peru,2008,5.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE788,0,130,604,No
+812,Peru,2008,6.0,Raised fasting blood glucose,Percent,All,All,RFBGASE789,0,130,604,No
+813,Peru,2008,5.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE790,0,130,604,No
+814,Peru,2008,6.0,Raised fasting blood glucose,Percent,All,All,RFBGASE791,0,130,604,No
+815,Peru,2008,6.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE792,0,130,604,No
+816,Philippines,2008,6.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE793,0,130,608,No
+817,Philippines,2008,6.6,Raised fasting blood glucose,Percent,All,All,RFBGASE794,0,130,608,No
+818,Philippines,2008,6.6,Raised fasting blood glucose,Percent,All,All,RFBGASE795,0,130,608,No
+819,Philippines,2008,6.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE796,0,130,608,No
+820,Philippines,2008,6.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE797,0,130,608,No
+821,Philippines,2008,6.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE798,0,130,608,No
+822,Poland,2008,8.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE799,0,130,616,No
+823,Poland,2008,6.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE800,0,130,616,No
+824,Poland,2008,7.6,Raised fasting blood glucose,Percent,All,All,RFBGASE801,0,130,616,No
+825,Poland,2008,8.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE802,0,130,616,No
+826,Poland,2008,7.6,Raised fasting blood glucose,Percent,All,All,RFBGASE803,0,130,616,No
+827,Poland,2008,6.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE804,0,130,616,No
+828,Portugal,2008,5.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE805,0,130,620,No
+829,Portugal,2008,6.6,Raised fasting blood glucose,Percent,All,All,RFBGASE806,0,130,620,No
+830,Portugal,2008,6.6,Raised fasting blood glucose,Percent,All,All,RFBGASE807,0,130,620,No
+831,Portugal,2008,7.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE808,0,130,620,No
+832,Portugal,2008,5.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE809,0,130,620,No
+833,Portugal,2008,7.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE810,0,130,620,No
+834,Qatar,2008,12.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE811,0,130,634,No
+835,Qatar,2008,11.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE812,0,130,634,No
+836,Qatar,2008,11.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE813,0,130,634,No
+837,Qatar,2008,12.0,Raised fasting blood glucose,Percent,All,All,RFBGASE814,0,130,634,No
+838,Qatar,2008,12.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE815,0,130,634,No
+839,Qatar,2008,12.0,Raised fasting blood glucose,Percent,All,All,RFBGASE816,0,130,634,No
+840,Republic of Korea,2008,6.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE817,0,130,410,No
+841,Republic of Korea,2008,6.1,Raised fasting blood glucose,Percent,All,All,RFBGASE818,0,130,410,No
+842,Republic of Korea,2008,5.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE819,0,130,410,No
+843,Republic of Korea,2008,6.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE820,0,130,410,No
+844,Republic of Korea,2008,6.1,Raised fasting blood glucose,Percent,All,All,RFBGASE821,0,130,410,No
+845,Republic of Korea,2008,5.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE822,0,130,410,No
+846,Republic of Moldova,2008,11.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE823,0,130,498,No
+847,Republic of Moldova,2008,10.4,Raised fasting blood glucose,Percent,All,All,RFBGASE824,0,130,498,No
+848,Republic of Moldova,2008,11.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE825,0,130,498,No
+849,Republic of Moldova,2008,10.4,Raised fasting blood glucose,Percent,All,All,RFBGASE826,0,130,498,No
+850,Republic of Moldova,2008,9.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE827,0,130,498,No
+851,Republic of Moldova,2008,9.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE828,0,130,498,No
+852,Romania,2008,8.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE829,0,130,642,No
+853,Romania,2008,9.4,Raised fasting blood glucose,Percent,All,All,RFBGASE830,0,130,642,No
+854,Romania,2008,9.4,Raised fasting blood glucose,Percent,All,All,RFBGASE831,0,130,642,No
+855,Romania,2008,10.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE832,0,130,642,No
+856,Romania,2008,10.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE833,0,130,642,No
+857,Romania,2008,8.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE834,0,130,642,No
+858,Russian Federation,2008,10.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE835,0,130,643,No
+859,Russian Federation,2008,10.6,Raised fasting blood glucose,Percent,All,All,RFBGASE836,0,130,643,No
+860,Russian Federation,2008,10.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE837,0,130,643,No
+861,Russian Federation,2008,10.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE838,0,130,643,No
+862,Russian Federation,2008,10.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE839,0,130,643,No
+863,Russian Federation,2008,10.6,Raised fasting blood glucose,Percent,All,All,RFBGASE840,0,130,643,No
+864,Rwanda,2008,6.4,Raised fasting blood glucose,Percent,All,All,RFBGASE841,0,130,646,No
+865,Rwanda,2008,6.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE842,0,130,646,No
+866,Rwanda,2008,6.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE843,0,130,646,No
+867,Rwanda,2008,6.4,Raised fasting blood glucose,Percent,All,All,RFBGASE844,0,130,646,No
+868,Rwanda,2008,6.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE845,0,130,646,No
+869,Rwanda,2008,6.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE846,0,130,646,No
+870,Saint Kitts and Nevis,2008,14.1,Raised fasting blood glucose,Percent,All,All,RFBGASE847,0,130,659,No
+871,Saint Kitts and Nevis,2008,14.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE848,0,130,659,No
+872,Saint Kitts and Nevis,2008,13.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE849,0,130,659,No
+873,Saint Kitts and Nevis,2008,13.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE850,0,130,659,No
+874,Saint Kitts and Nevis,2008,14.1,Raised fasting blood glucose,Percent,All,All,RFBGASE851,0,130,659,No
+875,Saint Kitts and Nevis,2008,14.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE852,0,130,659,No
+876,Saint Lucia,2008,11.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE853,0,130,662,No
+877,Saint Lucia,2008,10.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE854,0,130,662,No
+878,Saint Lucia,2008,11.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE855,0,130,662,No
+879,Saint Lucia,2008,11.1,Raised fasting blood glucose,Percent,All,All,RFBGASE856,0,130,662,No
+880,Saint Lucia,2008,10.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE857,0,130,662,No
+881,Saint Lucia,2008,11.1,Raised fasting blood glucose,Percent,All,All,RFBGASE858,0,130,662,No
+882,Saint Vincent and the Grenadines,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE859,0,130,670,No
+883,Saint Vincent and the Grenadines,2008,11.8,Raised fasting blood glucose,Percent,All,All,RFBGASE860,0,130,670,No
+884,Saint Vincent and the Grenadines,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE861,0,130,670,No
+885,Saint Vincent and the Grenadines,2008,12.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE862,0,130,670,No
+886,Saint Vincent and the Grenadines,2008,12.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE863,0,130,670,No
+887,Saint Vincent and the Grenadines,2008,11.8,Raised fasting blood glucose,Percent,All,All,RFBGASE864,0,130,670,No
+888,Samoa,2008,23.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE865,0,130,882,No
+889,Samoa,2008,22.4,Raised fasting blood glucose,Percent,All,All,RFBGASE866,0,130,882,No
+890,Samoa,2008,21.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE867,0,130,882,No
+891,Samoa,2008,22.4,Raised fasting blood glucose,Percent,All,All,RFBGASE868,0,130,882,No
+892,Samoa,2008,23.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE869,0,130,882,No
+893,Samoa,2008,21.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE870,0,130,882,No
+894,Sao Tome and Principe,2008,9.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE871,0,130,678,No
+895,Sao Tome and Principe,2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE872,0,130,678,No
+896,Sao Tome and Principe,2008,10.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE873,0,130,678,No
+897,Sao Tome and Principe,2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE874,0,130,678,No
+898,Sao Tome and Principe,2008,9.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE875,0,130,678,No
+899,Sao Tome and Principe,2008,10.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE876,0,130,678,No
+900,Saudi Arabia,2008,21.8,Raised fasting blood glucose,Percent,All,All,RFBGASE877,0,130,682,No
+901,Saudi Arabia,2008,22.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE878,0,130,682,No
+902,Saudi Arabia,2008,21.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE879,0,130,682,No
+903,Saudi Arabia,2008,22.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE880,0,130,682,No
+904,Saudi Arabia,2008,21.8,Raised fasting blood glucose,Percent,All,All,RFBGASE881,0,130,682,No
+905,Saudi Arabia,2008,21.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE882,0,130,682,No
+906,Senegal,2008,10.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE883,0,130,686,No
+907,Senegal,2008,10.0,Raised fasting blood glucose,Percent,All,All,RFBGASE884,0,130,686,No
+908,Senegal,2008,10.0,Raised fasting blood glucose,Percent,All,All,RFBGASE885,0,130,686,No
+909,Senegal,2008,10.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE886,0,130,686,No
+910,Senegal,2008,9.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE887,0,130,686,No
+911,Senegal,2008,9.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE888,0,130,686,No
+912,Serbia,2008,10.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE889,0,130,688,No
+913,Serbia,2008,9.2,Raised fasting blood glucose,Percent,All,All,RFBGASE890,0,130,688,No
+914,Serbia,2008,8.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE891,0,130,688,No
+915,Serbia,2008,10.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE892,0,130,688,No
+916,Serbia,2008,8.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE893,0,130,688,No
+917,Serbia,2008,9.2,Raised fasting blood glucose,Percent,All,All,RFBGASE894,0,130,688,No
+918,Seychelles,2008,13.5,Raised fasting blood glucose,Percent,All,All,RFBGASE895,0,130,690,No
+919,Seychelles,2008,13.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE896,0,130,690,No
+920,Seychelles,2008,13.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE897,0,130,690,No
+921,Seychelles,2008,13.5,Raised fasting blood glucose,Percent,All,All,RFBGASE898,0,130,690,No
+922,Seychelles,2008,13.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE899,0,130,690,No
+923,Seychelles,2008,13.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE900,0,130,690,No
+924,Sierra Leone,2008,10.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE901,0,130,694,No
+925,Sierra Leone,2008,9.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE902,0,130,694,No
+926,Sierra Leone,2008,9.6,Raised fasting blood glucose,Percent,All,All,RFBGASE903,0,130,694,No
+927,Sierra Leone,2008,9.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE904,0,130,694,No
+928,Sierra Leone,2008,10.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE905,0,130,694,No
+929,Sierra Leone,2008,9.6,Raised fasting blood glucose,Percent,All,All,RFBGASE906,0,130,694,No
+930,Singapore,2008,6.4,Raised fasting blood glucose,Percent,All,All,RFBGASE907,0,130,702,No
+931,Singapore,2008,7.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE908,0,130,702,No
+932,Singapore,2008,6.4,Raised fasting blood glucose,Percent,All,All,RFBGASE909,0,130,702,No
+933,Singapore,2008,5.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE910,0,130,702,No
+934,Singapore,2008,7.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE911,0,130,702,No
+935,Singapore,2008,5.4,Raised fasting blood glucose,Percent,All,Female,RFBGASE912,0,130,702,No
+936,Slovakia,2008,9.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE913,0,130,703,No
+937,Slovakia,2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE914,0,130,703,No
+938,Slovakia,2008,9.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE915,0,130,703,No
+939,Slovakia,2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE916,0,130,703,No
+940,Slovakia,2008,10.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE917,0,130,703,No
+941,Slovakia,2008,10.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE918,0,130,703,No
+942,Slovenia,2008,10.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE919,0,130,705,No
+943,Slovenia,2008,8.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE920,0,130,705,No
+944,Slovenia,2008,9.7,Raised fasting blood glucose,Percent,All,All,RFBGASE921,0,130,705,No
+945,Slovenia,2008,10.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE922,0,130,705,No
+946,Slovenia,2008,9.7,Raised fasting blood glucose,Percent,All,All,RFBGASE923,0,130,705,No
+947,Slovenia,2008,8.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE924,0,130,705,No
+948,Solomon Islands,2008,17.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE925,0,130,90,No
+949,Solomon Islands,2008,17.7,Raised fasting blood glucose,Percent,All,All,RFBGASE926,0,130,90,No
+950,Solomon Islands,2008,18.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE927,0,130,90,No
+951,Solomon Islands,2008,17.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE928,0,130,90,No
+952,Solomon Islands,2008,18.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE929,0,130,90,No
+953,Solomon Islands,2008,17.7,Raised fasting blood glucose,Percent,All,All,RFBGASE930,0,130,90,No
+954,Somalia,2008,7.8,Raised fasting blood glucose,Percent,All,All,RFBGASE931,0,130,706,No
+955,Somalia,2008,7.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE932,0,130,706,No
+956,Somalia,2008,7.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE933,0,130,706,No
+957,Somalia,2008,7.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE934,0,130,706,No
+958,Somalia,2008,7.8,Raised fasting blood glucose,Percent,All,All,RFBGASE935,0,130,706,No
+959,Somalia,2008,7.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE936,0,130,706,No
+960,South Africa,2008,11.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE937,0,130,710,No
+961,South Africa,2008,11.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE938,0,130,710,No
+962,South Africa,2008,11.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE939,0,130,710,No
+963,South Africa,2008,11.7,Raised fasting blood glucose,Percent,All,All,RFBGASE940,0,130,710,No
+964,South Africa,2008,11.7,Raised fasting blood glucose,Percent,All,All,RFBGASE941,0,130,710,No
+965,South Africa,2008,11.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE942,0,130,710,No
+966,Spain,2008,11.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE943,0,130,724,No
+967,Spain,2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE944,0,130,724,No
+968,Spain,2008,8.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE945,0,130,724,No
+969,Spain,2008,9.9,Raised fasting blood glucose,Percent,All,All,RFBGASE946,0,130,724,No
+970,Spain,2008,8.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE947,0,130,724,No
+971,Spain,2008,11.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE948,0,130,724,No
+972,Sri Lanka,2008,8.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE949,0,130,144,No
+973,Sri Lanka,2008,8.9,Raised fasting blood glucose,Percent,All,All,RFBGASE950,0,130,144,No
+974,Sri Lanka,2008,9.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE951,0,130,144,No
+975,Sri Lanka,2008,8.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE952,0,130,144,No
+976,Sri Lanka,2008,8.9,Raised fasting blood glucose,Percent,All,All,RFBGASE953,0,130,144,No
+977,Sri Lanka,2008,9.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE954,0,130,144,No
+978,Sudan,2008,8.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE955,0,130,729,No
+979,Sudan,2008,8.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE955,0,130,736,No
+980,Sudan,2008,8.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE956,0,130,729,No
+981,Sudan,2008,8.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE956,0,130,736,No
+982,Sudan,2008,8.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE957,0,130,729,No
+983,Sudan,2008,8.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE957,0,130,736,No
+984,Sudan,2008,8.3,Raised fasting blood glucose,Percent,All,All,RFBGASE958,0,130,729,No
+985,Sudan,2008,8.3,Raised fasting blood glucose,Percent,All,All,RFBGASE958,0,130,736,No
+986,Sudan,2008,8.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE959,0,130,729,No
+987,Sudan,2008,8.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE959,0,130,736,No
+988,Sudan,2008,8.3,Raised fasting blood glucose,Percent,All,All,RFBGASE960,0,130,729,No
+989,Sudan,2008,8.3,Raised fasting blood glucose,Percent,All,All,RFBGASE960,0,130,736,No
+990,Suriname,2008,11.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE961,0,130,740,No
+991,Suriname,2008,12.6,Raised fasting blood glucose,Percent,All,All,RFBGASE962,0,130,740,No
+992,Suriname,2008,11.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE963,0,130,740,No
+993,Suriname,2008,13.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE964,0,130,740,No
+994,Suriname,2008,12.6,Raised fasting blood glucose,Percent,All,All,RFBGASE965,0,130,740,No
+995,Suriname,2008,13.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE966,0,130,740,No
+996,Swaziland,2008,9.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE967,0,130,748,No
+997,Swaziland,2008,12.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE968,0,130,748,No
+998,Swaziland,2008,10.8,Raised fasting blood glucose,Percent,All,All,RFBGASE969,0,130,748,No
+999,Swaziland,2008,12.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE970,0,130,748,No
+1000,Swaziland,2008,10.8,Raised fasting blood glucose,Percent,All,All,RFBGASE971,0,130,748,No
+1001,Swaziland,2008,9.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE972,0,130,748,No
+1002,Sweden,2008,7.0,Raised fasting blood glucose,Percent,All,All,RFBGASE973,0,130,752,No
+1003,Sweden,2008,8.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE974,0,130,752,No
+1004,Sweden,2008,8.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE975,0,130,752,No
+1005,Sweden,2008,6.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE976,0,130,752,No
+1006,Sweden,2008,7.0,Raised fasting blood glucose,Percent,All,All,RFBGASE977,0,130,752,No
+1007,Sweden,2008,6.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE978,0,130,752,No
+1008,Switzerland,2008,5.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE979,0,130,756,No
+1009,Switzerland,2008,5.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE979,0,130,756,No
+1010,Switzerland,2008,7.2,Raised fasting blood glucose,Percent,All,All,RFBGASE980,0,130,756,No
+1011,Switzerland,2008,7.2,Raised fasting blood glucose,Percent,All,All,RFBGASE980,0,130,756,No
+1012,Switzerland,2008,5.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE981,0,130,756,No
+1013,Switzerland,2008,5.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE981,0,130,756,No
+1014,Switzerland,2008,9.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE982,0,130,756,No
+1015,Switzerland,2008,9.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE982,0,130,756,No
+1016,Switzerland,2008,9.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE983,0,130,756,No
+1017,Switzerland,2008,9.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE983,0,130,756,No
+1018,Switzerland,2008,7.2,Raised fasting blood glucose,Percent,All,All,RFBGASE984,0,130,756,No
+1019,Switzerland,2008,7.2,Raised fasting blood glucose,Percent,All,All,RFBGASE984,0,130,756,No
+1020,Syrian Arab Republic,2008,12.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE985,0,130,760,No
+1021,Syrian Arab Republic,2008,12.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE986,0,130,760,No
+1022,Syrian Arab Republic,2008,12.8,Raised fasting blood glucose,Percent,All,All,RFBGASE987,0,130,760,No
+1023,Syrian Arab Republic,2008,12.8,Raised fasting blood glucose,Percent,All,All,RFBGASE988,0,130,760,No
+1024,Syrian Arab Republic,2008,12.9,Raised fasting blood glucose,Percent,All,Male,RFBGASE989,0,130,760,No
+1025,Syrian Arab Republic,2008,12.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE990,0,130,760,No
+1026,Tajikistan,2008,9.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE991,0,130,762,No
+1027,Tajikistan,2008,10.2,Raised fasting blood glucose,Percent,All,All,RFBGASE992,0,130,762,No
+1028,Tajikistan,2008,10.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE993,0,130,762,No
+1029,Tajikistan,2008,9.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE994,0,130,762,No
+1030,Tajikistan,2008,10.2,Raised fasting blood glucose,Percent,All,All,RFBGASE995,0,130,762,No
+1031,Tajikistan,2008,10.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE996,0,130,762,No
+1032,Thailand,2008,7.2,Raised fasting blood glucose,Percent,All,All,RFBGASE997,0,130,764,No
+1033,Thailand,2008,7.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE998,0,130,764,No
+1034,Thailand,2008,7.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE999,0,130,764,No
+1035,Thailand,2008,7.2,Raised fasting blood glucose,Percent,All,All,RFBGASE1000,0,130,764,No
+1036,Thailand,2008,7.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE1001,0,130,764,No
+1037,Thailand,2008,7.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE1002,0,130,764,No
+1038,The former Yugoslav Republic of Macedonia,2008,10.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE1003,0,130,807,No
+1039,The former Yugoslav Republic of Macedonia,2008,8.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE1004,0,130,807,No
+1040,The former Yugoslav Republic of Macedonia,2008,9.6,Raised fasting blood glucose,Percent,All,All,RFBGASE1005,0,130,807,No
+1041,The former Yugoslav Republic of Macedonia,2008,9.6,Raised fasting blood glucose,Percent,All,All,RFBGASE1006,0,130,807,No
+1042,The former Yugoslav Republic of Macedonia,2008,10.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE1007,0,130,807,No
+1043,The former Yugoslav Republic of Macedonia,2008,8.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE1008,0,130,807,No
+1044,Timor-Leste,2008,6.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE1009,0,130,626,No
+1045,Timor-Leste,2008,6.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE1010,0,130,626,No
+1046,Timor-Leste,2008,6.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE1011,0,130,626,No
+1047,Timor-Leste,2008,6.6,Raised fasting blood glucose,Percent,All,All,RFBGASE1012,0,130,626,No
+1048,Timor-Leste,2008,6.6,Raised fasting blood glucose,Percent,All,All,RFBGASE1013,0,130,626,No
+1049,Timor-Leste,2008,6.4,Raised fasting blood glucose,Percent,All,Male,RFBGASE1014,0,130,626,No
+1050,Togo,2008,8.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE1015,0,130,768,No
+1051,Togo,2008,8.9,Raised fasting blood glucose,Percent,All,All,RFBGASE1016,0,130,768,No
+1052,Togo,2008,9.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE1017,0,130,768,No
+1053,Togo,2008,8.9,Raised fasting blood glucose,Percent,All,All,RFBGASE1018,0,130,768,No
+1054,Togo,2008,8.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE1019,0,130,768,No
+1055,Togo,2008,9.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE1020,0,130,768,No
+1056,Tonga,2008,18.2,Raised fasting blood glucose,Percent,All,All,RFBGASE1021,0,130,776,No
+1057,Tonga,2008,19.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE1022,0,130,776,No
+1058,Tonga,2008,17.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE1023,0,130,776,No
+1059,Tonga,2008,18.2,Raised fasting blood glucose,Percent,All,All,RFBGASE1024,0,130,776,No
+1060,Tonga,2008,17.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE1025,0,130,776,No
+1061,Tonga,2008,19.3,Raised fasting blood glucose,Percent,All,Female,RFBGASE1026,0,130,776,No
+1062,Trinidad and Tobago,2008,13.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE1027,0,130,780,No
+1063,Trinidad and Tobago,2008,13.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE1028,0,130,780,No
+1064,Trinidad and Tobago,2008,12.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE1029,0,130,780,No
+1065,Trinidad and Tobago,2008,12.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE1030,0,130,780,No
+1066,Trinidad and Tobago,2008,12.6,Raised fasting blood glucose,Percent,All,All,RFBGASE1031,0,130,780,No
+1067,Trinidad and Tobago,2008,12.6,Raised fasting blood glucose,Percent,All,All,RFBGASE1032,0,130,780,No
+1068,Tunisia,2008,12.4,Raised fasting blood glucose,Percent,All,All,RFBGASE1033,0,130,788,No
+1069,Tunisia,2008,12.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE1034,0,130,788,No
+1070,Tunisia,2008,12.4,Raised fasting blood glucose,Percent,All,All,RFBGASE1035,0,130,788,No
+1071,Tunisia,2008,12.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE1036,0,130,788,No
+1072,Tunisia,2008,12.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE1037,0,130,788,No
+1073,Tunisia,2008,12.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE1038,0,130,788,No
+1074,Turkey,2008,9.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE1039,0,130,792,No
+1075,Turkey,2008,10.0,Raised fasting blood glucose,Percent,All,All,RFBGASE1040,0,130,792,No
+1076,Turkey,2008,10.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE1041,0,130,792,No
+1077,Turkey,2008,9.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE1042,0,130,792,No
+1078,Turkey,2008,10.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE1043,0,130,792,No
+1079,Turkey,2008,10.0,Raised fasting blood glucose,Percent,All,All,RFBGASE1044,0,130,792,No
+1080,Turkmenistan,2008,11.0,Raised fasting blood glucose,Percent,All,All,RFBGASE1045,0,130,795,No
+1081,Turkmenistan,2008,12.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE1046,0,130,795,No
+1082,Turkmenistan,2008,10.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE1047,0,130,795,No
+1083,Turkmenistan,2008,11.0,Raised fasting blood glucose,Percent,All,All,RFBGASE1048,0,130,795,No
+1084,Turkmenistan,2008,12.0,Raised fasting blood glucose,Percent,All,Male,RFBGASE1049,0,130,795,No
+1085,Turkmenistan,2008,10.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE1050,0,130,795,No
+1086,Uganda,2008,6.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE1051,0,130,800,No
+1087,Uganda,2008,6.7,Raised fasting blood glucose,Percent,All,All,RFBGASE1052,0,130,800,No
+1088,Uganda,2008,6.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE1053,0,130,800,No
+1089,Uganda,2008,6.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE1054,0,130,800,No
+1090,Uganda,2008,6.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE1055,0,130,800,No
+1091,Uganda,2008,6.7,Raised fasting blood glucose,Percent,All,All,RFBGASE1056,0,130,800,No
+1092,Ukraine,2008,10.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE1057,0,130,804,No
+1093,Ukraine,2008,10.2,Raised fasting blood glucose,Percent,All,All,RFBGASE1058,0,130,804,No
+1094,Ukraine,2008,10.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE1059,0,130,804,No
+1095,Ukraine,2008,10.2,Raised fasting blood glucose,Percent,All,Female,RFBGASE1060,0,130,804,No
+1096,Ukraine,2008,10.2,Raised fasting blood glucose,Percent,All,All,RFBGASE1061,0,130,804,No
+1097,Ukraine,2008,10.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE1062,0,130,804,No
+1098,United Arab Emirates,2008,15.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE1063,0,130,784,No
+1099,United Arab Emirates,2008,15.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE1064,0,130,784,No
+1100,United Arab Emirates,2008,15.5,Raised fasting blood glucose,Percent,All,All,RFBGASE1065,0,130,784,No
+1101,United Arab Emirates,2008,15.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE1066,0,130,784,No
+1102,United Arab Emirates,2008,15.5,Raised fasting blood glucose,Percent,All,All,RFBGASE1067,0,130,784,No
+1103,United Arab Emirates,2008,15.8,Raised fasting blood glucose,Percent,All,Female,RFBGASE1068,0,130,784,No
+1104,United Kingdom,2008,5.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE1069,0,130,826,No
+1105,United Kingdom,2008,7.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE1070,0,130,826,No
+1106,United Kingdom,2008,6.7,Raised fasting blood glucose,Percent,All,All,RFBGASE1071,0,130,826,No
+1107,United Kingdom,2008,6.7,Raised fasting blood glucose,Percent,All,All,RFBGASE1072,0,130,826,No
+1108,United Kingdom,2008,7.8,Raised fasting blood glucose,Percent,All,Male,RFBGASE1073,0,130,826,No
+1109,United Kingdom,2008,5.7,Raised fasting blood glucose,Percent,All,Female,RFBGASE1074,0,130,826,No
+1110,United Republic of Tanzania,2008,8.4,Raised fasting blood glucose,Percent,All,All,RFBGASE1075,0,130,834,No
+1111,United Republic of Tanzania,2008,8.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE1076,0,130,834,No
+1112,United Republic of Tanzania,2008,8.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE1077,0,130,834,No
+1113,United Republic of Tanzania,2008,8.4,Raised fasting blood glucose,Percent,All,All,RFBGASE1078,0,130,834,No
+1114,United Republic of Tanzania,2008,8.3,Raised fasting blood glucose,Percent,All,Male,RFBGASE1079,0,130,834,No
+1115,United Republic of Tanzania,2008,8.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE1080,0,130,834,No
+1116,United States of America,2008,9.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE1081,0,130,840,No
+1117,United States of America,2008,10.8,Raised fasting blood glucose,Percent,All,All,RFBGASE1082,0,130,840,No
+1118,United States of America,2008,10.8,Raised fasting blood glucose,Percent,All,All,RFBGASE1083,0,130,840,No
+1119,United States of America,2008,9.1,Raised fasting blood glucose,Percent,All,Female,RFBGASE1084,0,130,840,No
+1120,United States of America,2008,12.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE1085,0,130,840,No
+1121,United States of America,2008,12.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE1086,0,130,840,No
+1122,Uruguay,2008,10.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE1087,0,130,858,No
+1123,Uruguay,2008,10.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE1088,0,130,858,No
+1124,Uruguay,2008,10.4,Raised fasting blood glucose,Percent,All,All,RFBGASE1089,0,130,858,No
+1125,Uruguay,2008,10.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE1090,0,130,858,No
+1126,Uruguay,2008,10.4,Raised fasting blood glucose,Percent,All,All,RFBGASE1091,0,130,858,No
+1127,Uruguay,2008,10.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE1092,0,130,858,No
+1128,Uzbekistan,2008,10.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE1093,0,130,860,No
+1129,Uzbekistan,2008,11.7,Raised fasting blood glucose,Percent,All,All,RFBGASE1094,0,130,860,No
+1130,Uzbekistan,2008,11.7,Raised fasting blood glucose,Percent,All,All,RFBGASE1095,0,130,860,No
+1131,Uzbekistan,2008,12.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE1096,0,130,860,No
+1132,Uzbekistan,2008,10.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE1097,0,130,860,No
+1133,Uzbekistan,2008,12.6,Raised fasting blood glucose,Percent,All,Male,RFBGASE1098,0,130,860,No
+1134,Vanuatu,2008,9.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE1099,0,130,548,No
+1135,Vanuatu,2008,9.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE1100,0,130,548,No
+1136,Vanuatu,2008,9.6,Raised fasting blood glucose,Percent,All,Female,RFBGASE1101,0,130,548,No
+1137,Vanuatu,2008,9.4,Raised fasting blood glucose,Percent,All,All,RFBGASE1102,0,130,548,No
+1138,Vanuatu,2008,9.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE1103,0,130,548,No
+1139,Vanuatu,2008,9.4,Raised fasting blood glucose,Percent,All,All,RFBGASE1104,0,130,548,No
+1140,Venezuela (Bolivarian Republic of),2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE1105,0,130,862,No
+1141,Venezuela (Bolivarian Republic of),2008,11.0,Raised fasting blood glucose,Percent,All,All,RFBGASE1106,0,130,862,No
+1142,Venezuela (Bolivarian Republic of),2008,10.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE1107,0,130,862,No
+1143,Venezuela (Bolivarian Republic of),2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE1108,0,130,862,No
+1144,Venezuela (Bolivarian Republic of),2008,11.0,Raised fasting blood glucose,Percent,All,All,RFBGASE1109,0,130,862,No
+1145,Venezuela (Bolivarian Republic of),2008,10.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE1110,0,130,862,No
+1146,Viet Nam,2008,7.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE1111,0,130,704,No
+1147,Viet Nam,2008,7.7,Raised fasting blood glucose,Percent,All,All,RFBGASE1112,0,130,704,No
+1148,Viet Nam,2008,7.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE1113,0,130,704,No
+1149,Viet Nam,2008,7.7,Raised fasting blood glucose,Percent,All,All,RFBGASE1114,0,130,704,No
+1150,Viet Nam,2008,7.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE1115,0,130,704,No
+1151,Viet Nam,2008,7.5,Raised fasting blood glucose,Percent,All,Male,RFBGASE1116,0,130,704,No
+1152,Yemen,2008,11.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE1117,0,130,887,No
+1153,Yemen,2008,11.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE1117,0,130,886,No
+1154,Yemen,2008,11.1,Raised fasting blood glucose,Percent,All,All,RFBGASE1118,0,130,887,No
+1155,Yemen,2008,11.1,Raised fasting blood glucose,Percent,All,All,RFBGASE1118,0,130,886,No
+1156,Yemen,2008,11.1,Raised fasting blood glucose,Percent,All,All,RFBGASE1119,0,130,887,No
+1157,Yemen,2008,11.1,Raised fasting blood glucose,Percent,All,All,RFBGASE1119,0,130,886,No
+1158,Yemen,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE1120,0,130,887,No
+1159,Yemen,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE1120,0,130,886,No
+1160,Yemen,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE1121,0,130,887,No
+1161,Yemen,2008,11.1,Raised fasting blood glucose,Percent,All,Male,RFBGASE1121,0,130,886,No
+1162,Yemen,2008,11.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE1122,0,130,887,No
+1163,Yemen,2008,11.0,Raised fasting blood glucose,Percent,All,Female,RFBGASE1122,0,130,886,No
+1164,Zambia,2008,7.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE1123,0,130,894,No
+1165,Zambia,2008,7.4,Raised fasting blood glucose,Percent,All,All,RFBGASE1124,0,130,894,No
+1166,Zambia,2008,7.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE1125,0,130,894,No
+1167,Zambia,2008,7.2,Raised fasting blood glucose,Percent,All,Male,RFBGASE1126,0,130,894,No
+1168,Zambia,2008,7.5,Raised fasting blood glucose,Percent,All,Female,RFBGASE1127,0,130,894,No
+1169,Zambia,2008,7.4,Raised fasting blood glucose,Percent,All,All,RFBGASE1128,0,130,894,No
+1170,Zimbabwe,2008,9.4,Raised fasting blood glucose,Percent,All,All,RFBGASE1129,0,130,716,No
+1171,Zimbabwe,2008,8.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE1130,0,130,716,No
+1172,Zimbabwe,2008,9.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE1131,0,130,716,No
+1173,Zimbabwe,2008,9.9,Raised fasting blood glucose,Percent,All,Female,RFBGASE1132,0,130,716,No
+1174,Zimbabwe,2008,8.7,Raised fasting blood glucose,Percent,All,Male,RFBGASE1133,0,130,716,No
+1175,Zimbabwe,2008,9.4,Raised fasting blood glucose,Percent,All,All,RFBGASE1134,0,130,716,No

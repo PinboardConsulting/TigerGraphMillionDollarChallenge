@@ -10,29 +10,26 @@ See DevPost submission for more details and background on the scope and goals of
 ## Files
 Folder Structure
 ```
-.
 ├── src
-    ├── app
-        ├── components
-            ├── chart
-            ├── graph
-            ├── map
-            ├── report
-            ├── route-builder
-            ├── side-menu
-            └── table
-        ├── screens
-            └── home
-        └── services
-            ├── get-data
-            └── routing-control
-    ├── assets
-        └── lib
-    └── environments
-└── UN_DATA_LOAD
-    ├── Batch Load
-    └── UN Data Load
-        └── Batch Load
+│     ├── app
+│     │     ├── components
+│     │     │     ├── chart
+│     │     │     ├── graph
+│     │     │     ├── map
+│     │     │     ├── report
+│     │     │     ├── route-builder
+│     │     │     ├── side-menu
+│     │     │     └── table
+│     │     ├── screens
+│     │     │     └── home
+│     │     └── services
+│     │         ├── get-data
+│     │         └── routing-control
+│     ├── assets
+│     │     └── lib
+│     └── environments
+└── UN_Data_Load
+    └── Batch_Load
 ```
 ## Components
 The Major components with their descriptions are as follows:
@@ -44,10 +41,10 @@ The Major components with their descriptions are as follows:
 2. Have a python environment with pyTigerGraph, os and Pandas modules installed.
 3. Disable REST++ Authentication 
 4. Clone this repository
-5. Open the config.py file and enter the details of TigerGraph instance (host, username, password, directory)
-6. Run "Graph and Schema creation.py" 
-7. Run "Load jobs for all UN Datasets.py"
-8. Run "Query creation and installation.py"
+5. Open the "UN_Data_Load/Config.py" file and enter the details of TigerGraph instance (host, username and password) 
+6. Run `python UN_Data_Load/Graph_and_Schema_creation.py` 
+7. Run `python UN_Data_Load/Load_jobs_for_all_UN_Datasets.py`
+8. Run `python UN_Data_Load/Query_creation_and_installation.py`
 
 ## Steps to replicate UI
 Please make sure the environment has nodejs 16 installed. 
@@ -56,3 +53,6 @@ Please make sure the environment has nodejs 16 installed.
 3. Run command `npm audit fix`
 4. Run command `npm run start`
 5. Go to https://localhost:4200/ to access the locally hosted website. 
+
+## User Guide
+We have added a guide for the UI interface. Please click [here](https://github.com/PinboardConsulting/TigerGraphMillionDollarChallenge/blob/main/UI_User_Guide.pdf) to access.  

@@ -1,0 +1,525 @@
+,Country_or_area,Year(s),Value,Metric type,Value type,Age group,Gender,Metric ID,Start age,End age,Code,is_currency
+0,Afghanistan,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC1,0,130,4,No
+1,Albania,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC2,0,130,8,No
+2,Albania,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC3,0,130,8,No
+3,Albania,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC4,0,130,8,No
+4,Algeria,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC5,0,130,12,No
+5,Algeria,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC6,0,130,12,No
+6,Algeria,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC7,0,130,12,No
+7,Andorra,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC8,0,130,20,No
+8,Andorra,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC9,0,130,20,No
+9,Andorra,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC10,0,130,20,No
+10,Andorra,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC11,0,130,20,No
+11,Antigua and Barbuda,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC12,0,130,28,No
+12,Antigua and Barbuda,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC13,0,130,28,No
+13,Antigua and Barbuda,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC14,0,130,28,No
+14,Antigua and Barbuda,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC15,0,130,28,No
+15,Argentina,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC16,0,130,32,No
+16,Argentina,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC17,0,130,32,No
+17,Argentina,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC18,0,130,32,No
+18,Argentina,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC19,0,130,32,No
+19,Armenia,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC20,0,130,51,No
+20,Armenia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC21,0,130,51,No
+21,Armenia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC22,0,130,51,No
+22,Armenia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC23,0,130,51,No
+23,Australia,2012,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC24,0,130,36,No
+24,Australia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC25,0,130,36,No
+25,Australia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC26,0,130,36,No
+26,Australia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC27,0,130,36,No
+27,Azerbaijan,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC28,0,130,31,No
+28,Azerbaijan,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC29,0,130,31,No
+29,Azerbaijan,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC30,0,130,31,No
+30,Bahamas,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC31,0,130,44,No
+31,Bahamas,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC32,0,130,44,No
+32,Bahamas,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC33,0,130,44,No
+33,Bahamas,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC34,0,130,44,No
+34,Bahrain,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC35,0,130,48,No
+35,Bahrain,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC36,0,130,48,No
+36,Bahrain,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC37,0,130,48,No
+37,Bahrain,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC38,0,130,48,No
+38,Barbados,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC39,0,130,52,No
+39,Barbados,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC40,0,130,52,No
+40,Barbados,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC41,0,130,52,No
+41,Barbados,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC42,0,130,52,No
+42,Belarus,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC43,0,130,112,No
+43,Belarus,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC44,0,130,112,No
+44,Belarus,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC45,0,130,112,No
+45,Belarus,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC46,0,130,112,No
+46,Belgium,2012,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC47,0,130,56,No
+47,Belgium,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC48,0,130,56,No
+48,Belgium,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC49,0,130,56,No
+49,Belgium,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC50,0,130,56,No
+50,Belize,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC51,0,130,84,No
+51,Belize,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC52,0,130,84,No
+52,Belize,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC53,0,130,84,No
+53,Belize,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC54,0,130,84,No
+54,Benin,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC55,0,130,204,No
+55,Bhutan,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC56,0,130,64,No
+56,Bhutan,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC57,0,130,64,No
+57,Bhutan,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC58,0,130,64,No
+58,Bolivia (Plurinational State of),2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC59,0,130,68,No
+59,Bolivia (Plurinational State of),2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC60,0,130,68,No
+60,Bolivia (Plurinational State of),2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC61,0,130,68,No
+61,Bolivia (Plurinational State of),2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC62,0,130,68,No
+62,Bosnia and Herzegovina,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC63,0,130,70,No
+63,Bosnia and Herzegovina,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC64,0,130,70,No
+64,Brazil,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC65,0,130,76,No
+65,Brazil,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC66,0,130,76,No
+66,Brazil,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC67,0,130,76,No
+67,Brazil,2009,19,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC68,0,130,76,No
+68,Brunei Darussalam,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC69,0,130,96,No
+69,Brunei Darussalam,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC70,0,130,96,No
+70,Brunei Darussalam,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC71,0,130,96,No
+71,Brunei Darussalam,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC72,0,130,96,No
+72,Bulgaria,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC73,0,130,100,No
+73,Bulgaria,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC74,0,130,100,No
+74,Bulgaria,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC75,0,130,100,No
+75,Bulgaria,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC76,0,130,100,No
+76,Burkina Faso,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC77,0,130,854,No
+77,Burundi,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC78,0,130,108,No
+78,Burundi,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC79,0,130,108,No
+79,Burundi,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC80,0,130,108,No
+80,Cabo Verde,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC81,0,130,132,No
+81,Cabo Verde,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC82,0,130,132,No
+82,Cabo Verde,2010,16,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC83,0,130,132,No
+83,Cabo Verde,2009,46,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC84,0,130,132,No
+84,Cambodia,2012,32,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC85,0,130,116,No
+85,Cambodia,2011,9,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC86,0,130,116,No
+86,Canada,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC87,0,130,124,No
+87,Canada,2011,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC88,0,130,124,No
+88,Canada,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC89,0,130,124,No
+89,Canada,2009,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC90,0,130,124,No
+90,Chile,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC91,0,130,152,No
+91,Chile,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC92,0,130,152,No
+92,Chile,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC93,0,130,152,No
+93,Chile,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC94,0,130,152,No
+94,Colombia,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC95,0,130,170,No
+95,Colombia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC96,0,130,170,No
+96,Colombia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC97,0,130,170,No
+97,Colombia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC98,0,130,170,No
+98,Congo,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC99,0,130,178,No
+99,Congo,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC100,0,130,178,No
+100,Congo,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC101,0,130,178,No
+101,Cook Islands,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC102,0,130,184,No
+102,Cook Islands,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC103,0,130,184,No
+103,Cook Islands,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC104,0,130,184,No
+104,Cook Islands,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC105,0,130,184,No
+105,Costa Rica,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC106,0,130,188,No
+106,Costa Rica,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC107,0,130,188,No
+107,Costa Rica,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC108,0,130,188,No
+108,Costa Rica,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC109,0,130,188,No
+109,Croatia,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC110,0,130,191,No
+110,Croatia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC111,0,130,191,No
+111,Croatia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC112,0,130,191,No
+112,Croatia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC113,0,130,191,No
+113,Cuba,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC114,0,130,192,No
+114,Cuba,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC115,0,130,192,No
+115,Cuba,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC116,0,130,192,No
+116,Cuba,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC117,0,130,192,No
+117,Cyprus,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC118,0,130,196,No
+118,Cyprus,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC119,0,130,196,No
+119,Cyprus,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC120,0,130,196,No
+120,Cyprus,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC121,0,130,196,No
+121,Czech Republic,2012,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC122,0,130,203,No
+122,Czech Republic,2011,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC123,0,130,203,No
+123,Czech Republic,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC124,0,130,203,No
+124,Czech Republic,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC125,0,130,203,No
+125,Democratic Peoples Republic of Korea,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC126,0,130,408,No
+126,Democratic Peoples Republic of Korea,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC127,0,130,408,No
+127,Democratic Republic of the Congo,2009,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC128,0,130,180,No
+128,Denmark,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC129,0,130,208,No
+129,Denmark,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC130,0,130,208,No
+130,Denmark,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC131,0,130,208,No
+131,Djibouti,2010,5,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC132,0,130,262,No
+132,Djibouti,2009,16,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC133,0,130,262,No
+133,Dominica,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC134,0,130,212,No
+134,Dominica,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC135,0,130,212,No
+135,Dominica,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC136,0,130,212,No
+136,Dominica,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC137,0,130,212,No
+137,Dominican Republic,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC138,0,130,214,No
+138,Dominican Republic,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC139,0,130,214,No
+139,Dominican Republic,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC140,0,130,214,No
+140,Dominican Republic,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC141,0,130,214,No
+141,Ecuador,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC142,0,130,218,No
+142,Ecuador,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC143,0,130,218,No
+143,Ecuador,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC144,0,130,218,No
+144,Ecuador,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC145,0,130,218,No
+145,El Salvador,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC146,0,130,222,No
+146,El Salvador,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC147,0,130,222,No
+147,El Salvador,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC148,0,130,222,No
+148,El Salvador,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC149,0,130,222,No
+149,Equatorial Guinea,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC150,0,130,226,No
+150,Equatorial Guinea,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC151,0,130,226,No
+151,Estonia,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC152,0,130,233,No
+152,Estonia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC153,0,130,233,No
+153,Estonia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC154,0,130,233,No
+154,Estonia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC155,0,130,233,No
+155,Fiji,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC156,0,130,242,No
+156,Fiji,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC157,0,130,242,No
+157,Finland,2011,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC158,0,130,246,No
+158,Finland,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC159,0,130,246,No
+159,France,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC160,0,130,250,No
+160,Gambia,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC161,0,130,270,No
+161,Gambia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC162,0,130,270,No
+162,Gambia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC163,0,130,270,No
+163,Gambia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC164,0,130,270,No
+164,Georgia,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC165,0,130,268,No
+165,Georgia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC166,0,130,268,No
+166,Georgia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC167,0,130,268,No
+167,Georgia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC168,0,130,268,No
+168,Germany,2012,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC169,0,130,276,No
+169,Germany,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC170,0,130,276,No
+170,Germany,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC171,0,130,276,No
+171,Germany,2009,2,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC172,0,130,276,No
+172,Ghana,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC173,0,130,288,No
+173,Greece,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC174,0,130,300,No
+174,Greece,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC175,0,130,300,No
+175,Greece,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC176,0,130,300,No
+176,Greece,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC177,0,130,300,No
+177,Grenada,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC178,0,130,308,No
+178,Grenada,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC179,0,130,308,No
+179,Grenada,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC180,0,130,308,No
+180,Grenada,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC181,0,130,308,No
+181,Guatemala,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC182,0,130,320,No
+182,Guatemala,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC183,0,130,320,No
+183,Guatemala,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC184,0,130,320,No
+184,Guatemala,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC185,0,130,320,No
+185,Guinea,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC186,0,130,324,No
+186,Guinea,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC187,0,130,324,No
+187,Guinea-Bissau,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC188,0,130,624,No
+188,Guinea-Bissau,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC189,0,130,624,No
+189,Guinea-Bissau,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC190,0,130,624,No
+190,Guyana,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC191,0,130,328,No
+191,Guyana,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC192,0,130,328,No
+192,Guyana,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC193,0,130,328,No
+193,Guyana,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC194,0,130,328,No
+194,Haiti,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC195,0,130,332,No
+195,Haiti,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC196,0,130,332,No
+196,Haiti,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC197,0,130,332,No
+197,Haiti,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC198,0,130,332,No
+198,Honduras,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC199,0,130,340,No
+199,Honduras,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC200,0,130,340,No
+200,Honduras,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC201,0,130,340,No
+201,Honduras,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC202,0,130,340,No
+202,Hungary,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC203,0,130,348,No
+203,Hungary,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC204,0,130,348,No
+204,Hungary,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC205,0,130,348,No
+205,Hungary,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC206,0,130,348,No
+206,Iceland,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC207,0,130,352,No
+207,Iceland,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC208,0,130,352,No
+208,Iceland,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC209,0,130,352,No
+209,Iceland,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC210,0,130,352,No
+210,Iran (Islamic Republic of),2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC211,0,130,364,No
+211,Iran (Islamic Republic of),2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC212,0,130,364,No
+212,Iran (Islamic Republic of),2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC213,0,130,364,No
+213,Iran (Islamic Republic of),2009,49,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC214,0,130,364,No
+214,Iraq,2011,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC215,0,130,368,No
+215,Ireland,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC216,0,130,372,No
+216,Ireland,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC217,0,130,372,No
+217,Ireland,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC218,0,130,372,No
+218,Ireland,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC219,0,130,372,No
+219,Israel,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC220,0,130,376,No
+220,Israel,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC221,0,130,376,No
+221,Israel,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC222,0,130,376,No
+222,Israel,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC223,0,130,376,No
+223,Italy,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC224,0,130,380,No
+224,Italy,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC225,0,130,380,No
+225,Italy,2009,6,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC226,0,130,380,No
+226,Jamaica,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC227,0,130,388,No
+227,Jamaica,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC228,0,130,388,No
+228,Jamaica,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC229,0,130,388,No
+229,Jamaica,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC230,0,130,388,No
+230,Japan,2012,5,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC231,0,130,392,No
+231,Japan,2012,5,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC231,0,130,392,No
+232,Japan,2011,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC232,0,130,392,No
+233,Japan,2011,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC232,0,130,392,No
+234,Japan,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC233,0,130,392,No
+235,Japan,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC233,0,130,392,No
+236,Japan,2009,2,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC234,0,130,392,No
+237,Japan,2009,2,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC234,0,130,392,No
+238,Jordan,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC235,0,130,400,No
+239,Jordan,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC236,0,130,400,No
+240,Jordan,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC237,0,130,400,No
+241,Jordan,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC238,0,130,400,No
+242,Kazakhstan,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC239,0,130,398,No
+243,Kazakhstan,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC240,0,130,398,No
+244,Kazakhstan,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC241,0,130,398,No
+245,Kazakhstan,2009,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC242,0,130,398,No
+246,Kenya,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC243,0,130,404,No
+247,Kenya,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC244,0,130,404,No
+248,Kiribati,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC245,0,130,296,No
+249,Kiribati,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC246,0,130,296,No
+250,Kiribati,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC247,0,130,296,No
+251,Kiribati,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC248,0,130,296,No
+252,Kuwait,2012,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC249,0,130,414,No
+253,Kuwait,2011,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC250,0,130,414,No
+254,Kyrgyzstan,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC251,0,130,417,No
+255,Kyrgyzstan,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC252,0,130,417,No
+256,Kyrgyzstan,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC253,0,130,417,No
+257,Kyrgyzstan,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC254,0,130,417,No
+258,Latvia,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC255,0,130,428,No
+259,Latvia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC256,0,130,428,No
+260,Latvia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC257,0,130,428,No
+261,Latvia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC258,0,130,428,No
+262,Lebanon,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC259,0,130,422,No
+263,Lebanon,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC260,0,130,422,No
+264,Lebanon,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC261,0,130,422,No
+265,Lebanon,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC262,0,130,422,No
+266,Lesotho,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC263,0,130,426,No
+267,Lesotho,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC264,0,130,426,No
+268,Lesotho,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC265,0,130,426,No
+269,Liberia,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC266,0,130,430,No
+270,Liberia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC267,0,130,430,No
+271,Liberia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC268,0,130,430,No
+272,Lithuania,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC269,0,130,440,No
+273,Lithuania,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC270,0,130,440,No
+274,Lithuania,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC271,0,130,440,No
+275,Lithuania,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC272,0,130,440,No
+276,Luxembourg,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC273,0,130,442,No
+277,Luxembourg,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC274,0,130,442,No
+278,Luxembourg,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC275,0,130,442,No
+279,Luxembourg,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC276,0,130,442,No
+280,Madagascar,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC277,0,130,450,No
+281,Madagascar,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC278,0,130,450,No
+282,Malaysia,2012,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC279,0,130,458,No
+283,Malaysia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC280,0,130,458,No
+284,Maldives,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC281,0,130,462,No
+285,Maldives,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC282,0,130,462,No
+286,Maldives,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC283,0,130,462,No
+287,Maldives,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC284,0,130,462,No
+288,Malta,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC285,0,130,470,No
+289,Malta,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC286,0,130,470,No
+290,Malta,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC287,0,130,470,No
+291,Marshall Islands,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC288,0,130,584,No
+292,Marshall Islands,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC289,0,130,584,No
+293,Marshall Islands,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC290,0,130,584,No
+294,Marshall Islands,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC291,0,130,584,No
+295,Mauritania,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC292,0,130,478,No
+296,Mauritius,2012,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC293,0,130,480,No
+297,Mauritius,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC294,0,130,480,No
+298,Mauritius,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC295,0,130,480,No
+299,Mauritius,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC296,0,130,480,No
+300,Mexico,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC297,0,130,484,No
+301,Mexico,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC298,0,130,484,No
+302,Mexico,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC299,0,130,484,No
+303,Mexico,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC300,0,130,484,No
+304,Micronesia (Federated States of),2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC301,0,130,583,No
+305,Mongolia,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC302,0,130,496,No
+306,Mongolia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC303,0,130,496,No
+307,Mongolia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC304,0,130,496,No
+308,Namibia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC305,0,130,516,No
+309,Namibia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC306,0,130,516,No
+310,Namibia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC307,0,130,516,No
+311,Nauru,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC308,0,130,520,No
+312,Nauru,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC309,0,130,520,No
+313,Nauru,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC310,0,130,520,No
+314,Netherlands,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC311,0,130,528,No
+315,Netherlands,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC312,0,130,528,No
+316,Netherlands,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC313,0,130,528,No
+317,New Zealand,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC314,0,130,554,No
+318,New Zealand,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC314,0,130,554,No
+319,New Zealand,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC315,0,130,554,No
+320,New Zealand,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC315,0,130,554,No
+321,New Zealand,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC316,0,130,554,No
+322,New Zealand,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC316,0,130,554,No
+323,New Zealand,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC317,0,130,554,No
+324,New Zealand,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC317,0,130,554,No
+325,Nicaragua,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC318,0,130,558,No
+326,Nicaragua,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC319,0,130,558,No
+327,Nicaragua,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC320,0,130,558,No
+328,Nicaragua,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC321,0,130,558,No
+329,Niger,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC322,0,130,562,No
+330,Niger,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC323,0,130,562,No
+331,Nigeria,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC324,0,130,566,No
+332,Niue,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC325,0,130,570,No
+333,Niue,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC326,0,130,570,No
+334,Niue,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC327,0,130,570,No
+335,Niue,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC328,0,130,570,No
+336,Norway,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC329,0,130,578,No
+337,Norway,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC330,0,130,578,No
+338,Norway,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC331,0,130,578,No
+339,Norway,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC332,0,130,578,No
+340,Oman,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC333,0,130,512,No
+341,Oman,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC334,0,130,512,No
+342,Oman,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC335,0,130,512,No
+343,Oman,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC336,0,130,512,No
+344,Palau,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC337,0,130,585,No
+345,Palau,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC338,0,130,585,No
+346,Palau,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC339,0,130,585,No
+347,Palau,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC340,0,130,585,No
+348,Panama,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC341,0,130,591,No
+349,Panama,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC341,0,130,590,No
+350,Panama,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC342,0,130,591,No
+351,Panama,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC342,0,130,590,No
+352,Panama,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC343,0,130,591,No
+353,Panama,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC343,0,130,590,No
+354,Panama,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC344,0,130,591,No
+355,Panama,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC344,0,130,590,No
+356,Paraguay,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC345,0,130,600,No
+357,Paraguay,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC346,0,130,600,No
+358,Paraguay,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC347,0,130,600,No
+359,Paraguay,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC348,0,130,600,No
+360,Peru,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC349,0,130,604,No
+361,Peru,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC350,0,130,604,No
+362,Peru,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC351,0,130,604,No
+363,Peru,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC352,0,130,604,No
+364,Poland,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC353,0,130,616,No
+365,Poland,2010,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC354,0,130,616,No
+366,Poland,2009,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC355,0,130,616,No
+367,Portugal,2012,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC356,0,130,620,No
+368,Portugal,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC357,0,130,620,No
+369,Portugal,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC358,0,130,620,No
+370,Portugal,2009,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC359,0,130,620,No
+371,Qatar,2012,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC360,0,130,634,No
+372,Qatar,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC361,0,130,634,No
+373,Qatar,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC362,0,130,634,No
+374,Qatar,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC363,0,130,634,No
+375,Republic of Korea,2012,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC364,0,130,410,No
+376,Republic of Korea,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC365,0,130,410,No
+377,Republic of Moldova,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC366,0,130,498,No
+378,Republic of Moldova,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC367,0,130,498,No
+379,Republic of Moldova,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC368,0,130,498,No
+380,Republic of Moldova,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC369,0,130,498,No
+381,Romania,2012,55,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC370,0,130,642,No
+382,Romania,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC371,0,130,642,No
+383,Romania,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC372,0,130,642,No
+384,Romania,2009,2,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC373,0,130,642,No
+385,Russian Federation,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC374,0,130,643,No
+386,Russian Federation,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC375,0,130,643,No
+387,Russian Federation,2010,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC376,0,130,643,No
+388,Russian Federation,2009,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC377,0,130,643,No
+389,Rwanda,2012,5,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC378,0,130,646,No
+390,Saint Kitts and Nevis,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC379,0,130,659,No
+391,Saint Kitts and Nevis,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC380,0,130,659,No
+392,Saint Kitts and Nevis,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC381,0,130,659,No
+393,Saint Kitts and Nevis,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC382,0,130,659,No
+394,Saint Lucia,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC383,0,130,662,No
+395,Saint Lucia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC384,0,130,662,No
+396,Saint Lucia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC385,0,130,662,No
+397,Saint Lucia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC386,0,130,662,No
+398,Saint Vincent and the Grenadines,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC387,0,130,670,No
+399,Saint Vincent and the Grenadines,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC388,0,130,670,No
+400,Saint Vincent and the Grenadines,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC389,0,130,670,No
+401,Saint Vincent and the Grenadines,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC390,0,130,670,No
+402,Samoa,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC391,0,130,882,No
+403,Samoa,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC392,0,130,882,No
+404,Samoa,2009,9,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC393,0,130,882,No
+405,San Marino,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC394,0,130,674,No
+406,San Marino,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC395,0,130,674,No
+407,San Marino,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC396,0,130,674,No
+408,San Marino,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC397,0,130,674,No
+409,Sao Tome and Principe,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC398,0,130,678,No
+410,Saudi Arabia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC399,0,130,682,No
+411,Saudi Arabia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC400,0,130,682,No
+412,Serbia,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC401,0,130,688,No
+413,Serbia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC402,0,130,688,No
+414,Serbia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC403,0,130,688,No
+415,Serbia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC404,0,130,688,No
+416,Seychelles,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC405,0,130,690,No
+417,Seychelles,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC406,0,130,690,No
+418,Seychelles,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC407,0,130,690,No
+419,Seychelles,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC408,0,130,690,No
+420,Singapore,2012,2,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC409,0,130,702,No
+421,Singapore,2011,2,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC410,0,130,702,No
+422,Singapore,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC411,0,130,702,No
+423,Singapore,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC412,0,130,702,No
+424,Slovakia,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC413,0,130,703,No
+425,Slovakia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC414,0,130,703,No
+426,Slovakia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC415,0,130,703,No
+427,Slovakia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC416,0,130,703,No
+428,Slovenia,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC417,0,130,705,No
+429,Slovenia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC418,0,130,705,No
+430,Slovenia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC419,0,130,705,No
+431,Slovenia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC420,0,130,705,No
+432,Solomon Islands,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC421,0,130,90,No
+433,Solomon Islands,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC422,0,130,90,No
+434,Solomon Islands,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC423,0,130,90,No
+435,Spain,2012,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC424,0,130,724,No
+436,Spain,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC425,0,130,724,No
+437,Spain,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC426,0,130,724,No
+438,Spain,2009,2,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC427,0,130,724,No
+439,Sri Lanka,2012,12,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC428,0,130,144,No
+440,Sri Lanka,2011,3,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC429,0,130,144,No
+441,Sri Lanka,2010,8,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC430,0,130,144,No
+442,Sri Lanka,2009,3,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC431,0,130,144,No
+443,Suriname,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC432,0,130,740,No
+444,Suriname,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC433,0,130,740,No
+445,Suriname,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC434,0,130,740,No
+446,Suriname,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC435,0,130,740,No
+447,Swaziland,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC436,0,130,748,No
+448,Swaziland,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC437,0,130,748,No
+449,Swaziland,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC438,0,130,748,No
+450,Swaziland,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC439,0,130,748,No
+451,Sweden,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC440,0,130,752,No
+452,Sweden,2011,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC441,0,130,752,No
+453,Sweden,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC442,0,130,752,No
+454,Sweden,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC443,0,130,752,No
+455,Switzerland,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC444,0,130,756,No
+456,Switzerland,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC444,0,130,756,No
+457,Switzerland,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC445,0,130,756,No
+458,Switzerland,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC445,0,130,756,No
+459,Switzerland,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC446,0,130,756,No
+460,Switzerland,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC446,0,130,756,No
+461,Switzerland,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC447,0,130,756,No
+462,Switzerland,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC447,0,130,756,No
+463,Syrian Arab Republic,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC448,0,130,760,No
+464,Syrian Arab Republic,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC449,0,130,760,No
+465,Syrian Arab Republic,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC450,0,130,760,No
+466,Syrian Arab Republic,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC451,0,130,760,No
+467,Tajikistan,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC452,0,130,762,No
+468,Tajikistan,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC453,0,130,762,No
+469,Tajikistan,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC454,0,130,762,No
+470,Thailand,2012,2,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC455,0,130,764,No
+471,Thailand,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC456,0,130,764,No
+472,Timor-Leste,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC457,0,130,626,No
+473,Timor-Leste,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC458,0,130,626,No
+474,Timor-Leste,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC459,0,130,626,No
+475,Togo,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC460,0,130,768,No
+476,Tonga,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC461,0,130,776,No
+477,Tonga,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC462,0,130,776,No
+478,Tonga,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC463,0,130,776,No
+479,Tonga,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC464,0,130,776,No
+480,Trinidad and Tobago,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC465,0,130,780,No
+481,Trinidad and Tobago,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC466,0,130,780,No
+482,Trinidad and Tobago,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC467,0,130,780,No
+483,Trinidad and Tobago,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC468,0,130,780,No
+484,Tunisia,2012,18,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC469,0,130,788,No
+485,Tunisia,2009,2,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC470,0,130,788,No
+486,Turkey,2011,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC471,0,130,792,No
+487,Turkey,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC472,0,130,792,No
+488,Turkey,2009,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC473,0,130,792,No
+489,Turkmenistan,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC474,0,130,795,No
+490,Turkmenistan,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC475,0,130,795,No
+491,Turkmenistan,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC476,0,130,795,No
+492,Turkmenistan,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC477,0,130,795,No
+493,Tuvalu,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC478,0,130,798,No
+494,Tuvalu,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC479,0,130,798,No
+495,Tuvalu,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC480,0,130,798,No
+496,Tuvalu,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC481,0,130,798,No
+497,Ukraine,2011,2,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC482,0,130,804,No
+498,United Kingdom,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC483,0,130,826,No
+499,United Kingdom,2011,1,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC484,0,130,826,No
+500,United Kingdom,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC485,0,130,826,No
+501,United Kingdom,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC486,0,130,826,No
+502,United States of America,2012,3,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC487,0,130,840,No
+503,United States of America,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC488,0,130,840,No
+504,United States of America,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC489,0,130,840,No
+505,Uruguay,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC490,0,130,858,No
+506,Uruguay,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC491,0,130,858,No
+507,Uruguay,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC492,0,130,858,No
+508,Uruguay,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC493,0,130,858,No
+509,Uzbekistan,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC494,0,130,860,No
+510,Uzbekistan,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC495,0,130,860,No
+511,Uzbekistan,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC496,0,130,860,No
+512,Venezuela (Bolivarian Republic of),2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC497,0,130,862,No
+513,Venezuela (Bolivarian Republic of),2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC498,0,130,862,No
+514,Venezuela (Bolivarian Republic of),2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC499,0,130,862,No
+515,Venezuela (Bolivarian Republic of),2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC500,0,130,862,No
+516,Viet Nam,2012,92,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC501,0,130,704,No
+517,Viet Nam,2011,189,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC502,0,130,704,No
+518,Zambia,2012,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC503,0,130,894,No
+519,Zambia,2011,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC504,0,130,894,No
+520,Zambia,2010,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC505,0,130,894,No
+521,Zambia,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC506,0,130,894,No
+522,Zimbabwe,2012,63,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC507,0,130,716,No
+523,Zimbabwe,2009,0,Congenital Rubella Syndrome,Absolute,All,All,CRSNRC508,0,130,716,No
