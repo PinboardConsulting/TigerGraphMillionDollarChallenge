@@ -48,7 +48,7 @@ The Major components with their descriptions are as follows:
 
 ## Steps to replicate UI
 Please make sure the environment has nodejs 16 installed. 
-1. Navigate to <repo folder>
+1. Navigate to Repo directory
 1. Run command `npm install`
 2. Run command `npm audit fix`
 3. Run command `npm run start`
